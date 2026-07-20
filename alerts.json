@@ -1,12 +1,12 @@
 {
- "generado": "2026-07-20T09:56:13+00:00",
+ "generado": "2026-07-20T10:27:53+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 82,
+ "total_vigentes": 47,
  "alertas": [
   {
    "id": "bc0f567cec90",
@@ -23,87 +23,18 @@
    "sae": true
   },
   {
-   "id": "691bd5256f36",
+   "id": "c16c1c0a1cef",
    "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "¡ATENCIÓN! Por desborde del Río Huasco #SENAPRED reitera el llamado a evacuar sector UDA Avenida Costanera en la comuna de #Vallenar, Región de Atacama.",
-   "descripcion": "¡ATENCIÓN! Por desborde del Río Huasco #SENAPRED reitera el llamado a evacuar sector UDA Avenida Costanera en la comuna de #Vallenar, Región de Atacama.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\nMás información en: https://web.senapred.cl/dimension-animal/",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T08:21:39+00:00",
-   "url": "https://t.me/SenapredChile/1385",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "437b05a19fbf",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "¡ATENCIÓN! Por desborde del Río Huasco #SENAPRED solicita evacuar sector UDA Avenida Costanera en la comuna de #Vallenar, Región de Atacama.",
-   "descripcion": "¡ATENCIÓN! Por desborde del Río Huasco #SENAPRED solicita evacuar sector UDA Avenida Costanera en la comuna de #Vallenar, Región de Atacama.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.  \nMás información en: https://web.senapred.cl/dimension-animal/",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T07:54:52+00:00",
-   "url": "https://t.me/SenapredChile/1384",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "29be91153a7e",
-   "nivel": "ROJA",
-   "tipo": "aluvión",
-   "titulo": "¡ATENCIÓN! Por aluvión #SENAPRED solicita evacuar sector Pueblo Islón en la comuna de #LaSerena, Región de Coquimbo.",
-   "descripcion": "¡ATENCIÓN! Por aluvión #SENAPRED solicita evacuar sector Pueblo Islón en la comuna de #LaSerena, Región de Coquimbo.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE. \nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades. \nMás información en: https://web.senapred.cl/dimension-animal/",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Alarma AAA4-3 Precipitaciones intensas en la región. 19-07 20-07 Alerta AA91-5 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa y precordillera y valles precordilleranos. 20-07 20-07 Aviso A319-9 Viento normal a moderado en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera. 19-07 21-07 Aviso A322-7 Nevadas normales a mo",
    "region": "Coquimbo",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-07-20T04:03:17+00:00",
-   "url": "https://t.me/SenapredChile/1383",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "6c28f71e91d9",
-   "nivel": "ROJA",
-   "tipo": "activación de quebradas",
-   "titulo": "¡ATENCIÓN! Por activación de Quebrada Maitencillo #SENAPRED solicita evacuar sector Maitencillo Viejo en la comuna de #Freirina, Región de Atacama.",
-   "descripcion": "¡ATENCIÓN! Por activación de Quebrada Maitencillo #SENAPRED solicita evacuar sector Maitencillo Viejo en la comuna de #Freirina, Región de Atacama.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\nMás información en https://web.senapred.cl/dimension-animal/",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T03:35:18+00:00",
-   "url": "https://t.me/SenapredChile/1382",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "446ce81e5bd6",
-   "nivel": "ROJA",
-   "tipo": "activación de quebradas",
-   "titulo": "¡ATENCIÓN! Por activación de quebradas #SENAPRED solicita evacuar sector Cruz de Caña en la comuna de #Coquimbo, Región de Coquimbo.",
-   "descripcion": "¡ATENCIÓN! Por activación de quebradas #SENAPRED solicita evacuar sector Cruz de Caña en la comuna de #Coquimbo, Región de Coquimbo.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\nMás información en https://web.senapred.cl/dimension-animal/",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T03:31:28+00:00",
-   "url": "https://t.me/SenapredChile/1381",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "fbf1355b73a6",
-   "nivel": "ROJA",
-   "tipo": "activación de quebradas",
-   "titulo": "¡ATENCIÓN! Por activación de Quebrada Seca #SENAPRED solicita evacuar sector Quebrada Seca de Sotaquí en la comuna de #Ovalle, Región de Coquimbo.",
-   "descripcion": "¡ATENCIÓN! Por activación de Quebrada Seca #SENAPRED solicita evacuar sector Quebrada Seca de Sotaquí en la comuna de #Ovalle, Región de Coquimbo. \nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE. \nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades. \nMás información en https://web.senapred.cl/dimension-animal/",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T03:26:30+00:00",
-   "url": "https://t.me/SenapredChile/1380",
-   "origen": "telegram",
+   "ts": "2026-07-20T02:16:06.066-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": [],
    "sae": true
   },
   {
@@ -131,20 +62,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-20T02:21:21.2121-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-licanten-por-crecida-2026-07-18-17-20-52",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "c16c1c0a1cef",
-   "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Alarma AAA4-3 Precipitaciones intensas en la región. 19-07 20-07 Alerta AA91-5 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa y precordillera y valles precordilleranos. 20-07 20-07 Aviso A319-9 Viento normal a moderado en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera. 19-07 21-07 Aviso A322-7 Nevadas normales a mo",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T02:16:06.066-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -181,34 +98,6 @@
    "sae": true
   },
   {
-   "id": "809e1a28ad4c",
-   "nivel": "ROJA",
-   "tipo": "activación de quebradas",
-   "titulo": "¡ATENCIÓN!",
-   "descripcion": "¡ATENCIÓN! \nPor activación de quebradas #SENAPRED solicita evacuar sector Pie de Gallo en la comuna de #AltodelCarmen, Región de Atacama.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.  Durante la evacuación, no olvides considerar a tu mascota y sus necesidades. \nMás información en https://web.senapred.cl/dimension-animal/",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T01:59:50+00:00",
-   "url": "https://t.me/SenapredChile/1374",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "309f50d97211",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "¡ATENCIÓN! Por desborde #SENAPRED reitera el llamado a evacuar sectores cercanos a la ribera del Río Huasco en la comuna de #Huasco, Región de Atacama.",
-   "descripcion": "¡ATENCIÓN! Por desborde #SENAPRED reitera el llamado a evacuar sectores cercanos a la ribera del Río Huasco en la comuna de #Huasco, Región de Atacama.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.  Durante la evacuación, no olvides considerar a tu mascota y sus necesidades. \nMás información en https://web.senapred.cl/dimension-animal/",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T01:56:59+00:00",
-   "url": "https://t.me/SenapredChile/1373",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
    "id": "55035d2b0ed7",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -225,48 +114,6 @@
    ]
   },
   {
-   "id": "fa4fbc87e458",
-   "nivel": "ROJA",
-   "tipo": "activación de quebradas",
-   "titulo": "¡ATENCIÓN!",
-   "descripcion": "¡ATENCIÓN!\nPor activación de quebradas, #SENAPRED solicita EVACUAR sectores Cruz de Caña y Quebrada de Martínez, en la comuna de #Coquimbo, Región de Coquimbo.\n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T01:41:00+00:00",
-   "url": "https://t.me/SenapredChile/1372",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "ed25c9251e88",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "¡ATENCIÓN! Por crecida del Río Huasco #SENAPRED hace un llamado a evitar acercarse a la ribera de dicho curso de agua en la comuna de #Vallenar, Región de Ataca",
-   "descripcion": "¡ATENCIÓN! Por crecida del Río Huasco #SENAPRED hace un llamado a evitar acercarse a la ribera de dicho curso de agua en la comuna de #Vallenar, Región de Atacama.\n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades.  Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T01:36:59+00:00",
-   "url": "https://t.me/SenapredChile/1371",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "6c8b55b52838",
-   "nivel": "ROJA",
-   "tipo": "aluvión",
-   "titulo": "¡ATENCIÓN! Por aluvión, #SENAPRED solicita EVACUAR parte alta de sector Pueblo Islón, en la comuna de #LaSerena, Región de Coquimbo.",
-   "descripcion": "¡ATENCIÓN! Por aluvión, #SENAPRED solicita EVACUAR parte alta de sector Pueblo Islón, en la comuna de #LaSerena, Región de Coquimbo. \n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T01:34:09+00:00",
-   "url": "https://t.me/SenapredChile/1370",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
    "id": "3fd9d4727f1b",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -279,64 +126,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-20T01:29:06+00:00",
    "url": "https://t.me/SenapredChile/1369",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "3902fac68efc",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "¡ATENCIÓN! Por crecida del Río Huasco #SENAPRED hace un llamado a evitar acercarse a la ribera de dicho curso de agua en la comuna de #AltoDelCarmen, Región de",
-   "descripcion": "¡ATENCIÓN! Por crecida del Río Huasco #SENAPRED hace un llamado a evitar acercarse a la ribera de dicho curso de agua en la comuna de #AltoDelCarmen, Región de Atacama.\n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades.  Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T01:25:06+00:00",
-   "url": "https://t.me/SenapredChile/1368",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "568c400296d6",
-   "nivel": "ROJA",
-   "tipo": "activación de quebradas",
-   "titulo": "¡ATENCIÓN! Por activación de quebradas, #SENAPRED solicita EVACUAR sector Arrayán Costero, en la comuna de #LaSerena, Región de Coquimbo.",
-   "descripcion": "¡ATENCIÓN! Por activación de quebradas, #SENAPRED solicita EVACUAR sector Arrayán Costero, en la comuna de #LaSerena, Región de Coquimbo.\n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T01:12:49+00:00",
-   "url": "https://t.me/SenapredChile/1367",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "fb0b4bb27937",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "¡ATENCIÓN! Por desborde del Río Huasco, #SENAPRED solicita EVACUAR sector Nicolasa, en la comuna de Freirina, Región de Atacama.",
-   "descripcion": "¡ATENCIÓN! Por desborde del Río Huasco, #SENAPRED solicita EVACUAR sector Nicolasa, en la comuna de Freirina, Región de Atacama.\n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "Atacama",
-   "comunas": [
-    "Freirina"
-   ],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T01:10:00+00:00",
-   "url": "https://t.me/SenapredChile/1366",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "af9d01514db5",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "¡ATENCIÓN! Por crecida del Río Elqui #SENAPRED hace un llamado a evitar acercarse a la ribera de dicho curso de agua en la comuna de #LaSerena, Región de Coquim",
-   "descripcion": "¡ATENCIÓN! Por crecida del Río Elqui #SENAPRED hace un llamado a evitar acercarse a la ribera de dicho curso de agua en la comuna de #LaSerena, Región de Coquimbo.  \nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.  Durante la evacuación, no olvides considerar a tu mascota y sus necesidades. \nMás información en https://web.senapred.cl/dimension-animal/",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T01:02:57+00:00",
-   "url": "https://t.me/SenapredChile/1364",
    "origen": "telegram",
    "sae": true
   },
@@ -385,20 +174,6 @@
    "sae": true
   },
   {
-   "id": "338876967876",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "¡ATENCIÓN! #SENAPRED por desborde de quebrada Tres Cruces solicita EVACUAR sector Tres Cruces, en la comuna de #Paihuano, Región de Coquimbo.",
-   "descripcion": "¡ATENCIÓN! #SENAPRED por desborde de quebrada Tres Cruces solicita EVACUAR sector Tres Cruces, en la comuna de #Paihuano, Región de Coquimbo. \n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. \n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-19T23:08:20+00:00",
-   "url": "https://t.me/SenapredChile/1361",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
    "id": "516f635976d6",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -413,33 +188,18 @@
    "regiones_extra": []
   },
   {
-   "id": "7d699ea0f790",
+   "id": "6cb5fd68161d",
    "nivel": "ROJA",
-   "tipo": "activación de quebradas",
-   "titulo": "¡ATENCIÓN! #SENAPRED por activación de la Quebrada del Negro, solicita EVACUAR sector Las Tablas, en la comuna de Freirina, Región de Atacama. P",
-   "descripcion": "¡ATENCIÓN! #SENAPRED por activación de la Quebrada del Negro, solicita EVACUAR sector Las Tablas, en la comuna de Freirina, Región de Atacama. P\n\nara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. \n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "Atacama",
-   "comunas": [
-    "Freirina"
-   ],
-   "estado": "VIGENTE",
-   "ts": "2026-07-19T22:18:02+00:00",
-   "url": "https://t.me/SenapredChile/1358",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "f850e2267cf0",
-   "nivel": "ROJA",
-   "tipo": "activación de quebradas",
-   "titulo": "REITERAMOS el llamado de #SENAPRED por activación de Quebrada Alarcón, a EVACUAR el sector #Amancay, en la comuna de #Freirina, Región de Atacama.",
-   "descripcion": "REITERAMOS el llamado de #SENAPRED por activación de Quebrada Alarcón, a EVACUAR el sector #Amancay, en la comuna de #Freirina, Región de Atacama.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Roja para la Provincia de Huasco por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Alarma AAA5-1 Precipitaciones intensas en la provincia de Huasco (costa a precordillera). 19-07 20-07 Alerta AA91-5 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa y sectores de valles, pampa y precordillera. 19-07 19-07 Alerta AA92-5 Nevadas moderadas a fuertes con desarrollo de ventiscas en cordillera. 18-07 19-07 Alerta AA93-2 Viento moderado a fuerte",
    "region": "Atacama",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-07-19T21:07:28+00:00",
-   "url": "https://t.me/SenapredChile/1356",
-   "origen": "telegram",
+   "ts": "2026-07-19T18:09:23.2323-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-huasco-por-evento-meteorologico-2026-07-16-19-52-57",
+   "origen": "senapred_web",
+   "regiones_extra": [],
    "sae": true
   },
   {
@@ -455,38 +215,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-19T20:52:36+00:00",
    "url": "https://t.me/SenapredChile/1355",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "1d817fbdd1c5",
-   "nivel": "ROJA",
-   "tipo": "activación de quebradas",
-   "titulo": "¡ATENCIÓN! #SENAPRED por activación de Quebrada Lo Martínez, solicita EVACUAR sector Huasco Bajo, en la comuna de Huasco, Región de Atacama.",
-   "descripcion": "¡ATENCIÓN! #SENAPRED por activación de Quebrada Lo Martínez, solicita EVACUAR sector Huasco Bajo, en la comuna de Huasco, Región de Atacama.\n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE. \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "Atacama",
-   "comunas": [
-    "Huasco"
-   ],
-   "estado": "VIGENTE",
-   "ts": "2026-07-19T20:30:55+00:00",
-   "url": "https://t.me/SenapredChile/1354",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "6dbcf32a48ac",
-   "nivel": "ROJA",
-   "tipo": "activación de quebradas",
-   "titulo": "¡ATENCIÓN! #SENAPRED por activación de Quebrada Alarcón, solicita EVACUAR sector Amancay, en la comuna de Freirina, Región de Atacama.",
-   "descripcion": "¡ATENCIÓN! #SENAPRED por activación de Quebrada Alarcón, solicita EVACUAR sector Amancay, en la comuna de Freirina, Región de Atacama. \n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. \n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "Atacama",
-   "comunas": [
-    "Freirina"
-   ],
-   "estado": "VIGENTE",
-   "ts": "2026-07-19T20:14:04+00:00",
-   "url": "https://t.me/SenapredChile/1353",
    "origen": "telegram",
    "sae": true
   },
@@ -507,22 +235,6 @@
    "sae": true
   },
   {
-   "id": "ed3619c1bf83",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "ATENCIÓN! #SENAPRED por activación de quebrada Maitencillo, solicita EVACUAR sector de Maitencillo Bajo, en la comuna de Freirina, Región de Atacama",
-   "descripcion": "ATENCIÓN! #SENAPRED por activación de quebrada Maitencillo, solicita EVACUAR sector de Maitencillo Bajo, en la comuna de Freirina, Región de Atacama\nTambién, por desborde del Canal Ventana, se solicita evacuar Población Pablo Neruda, en la comuna de Vallenar, Región de Atacama.  \nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. \n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https:/",
-   "region": "Atacama",
-   "comunas": [
-    "Freirina"
-   ],
-   "estado": "VIGENTE",
-   "ts": "2026-07-19T19:45:39+00:00",
-   "url": "https://t.me/SenapredChile/1351",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
    "id": "b46916843f2a",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
@@ -537,34 +249,6 @@
    "regiones_extra": []
   },
   {
-   "id": "131c95ed7611",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para la comuna de Coihueco por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Niblinto antes canal alimentador Embalse Coihueco” ubicada en la comuna de Coihueco, Se encuentra en umbral verde, con valores estables en su caudal. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED Cancela Alerta Amarilla por crecida para la comuna de Coihueco, que se mantuvo vigente desde el 15 de julio del 2026.",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-19T18:47:45.4545-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-coihueco-por-crecida-2026-07-15-14-41-48",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "deffd8cbfdd5",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para las comunas de San Fabián y Ñiquén por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Perquilauquén en San Manuel”, se encuentra en umbral verde, con valores estables en su caudal. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED c ancela Alerta Amarilla por crecida para las comunas de San Fabián y Ñiquén, que se mantuvo vigente desde el 16 de julio.",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-19T18:42:41.4141-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-fabian-y-iquen-por-crecida-2026-07-16-22-37-58",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "e1ccda7fe78d",
    "nivel": "ROJA",
    "tipo": "tormentas eléctricas",
@@ -575,20 +259,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-19T18:18:30.3030-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-de-valparaiso-territorio-continental-por-evento-meteorologico-2026-07-14-18-04-30",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "6cb5fd68161d",
-   "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Roja para la Provincia de Huasco por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Alarma AAA5-1 Precipitaciones intensas en la provincia de Huasco (costa a precordillera). 19-07 20-07 Alerta AA91-5 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa y sectores de valles, pampa y precordillera. 19-07 19-07 Alerta AA92-5 Nevadas moderadas a fuertes con desarrollo de ventiscas en cordillera. 18-07 19-07 Alerta AA93-2 Viento moderado a fuerte",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-19T18:09:23.2323-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-huasco-por-evento-meteorologico-2026-07-16-19-52-57",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -619,20 +289,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-19T18:04:23+00:00",
    "url": "https://t.me/SenapredChile/1347",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "2f4a5eed1374",
-   "nivel": "ROJA",
-   "tipo": "activación de quebradas",
-   "titulo": "¡ATENCIÓN!",
-   "descripcion": "¡ATENCIÓN!\n#SENAPRED solicita EVACUAR sector Villa San Pedro, por activación de quebrada Francisco Pizarro, en la comuna de #Huasco, Región de Atacama.\n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-19T17:52:38+00:00",
-   "url": "https://t.me/SenapredChile/1346",
    "origen": "telegram",
    "sae": true
   },
@@ -695,31 +351,6 @@
    "regiones_extra": []
   },
   {
-   "id": "79d2fba13217",
-   "nivel": "ATP",
-   "tipo": "marejadas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas del borde costero continental entre las regiones de Atacama y Aysén y para la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales",
-   "descripcion": "El Centro Meteorológico Marítimo Regional de Valparaíso, dependiente de la Gobernación Marítima de Valparaíso, informa que han finalizado las condiciones de mar que se proyectaron como marejadas anormales del N oroeste , producto de un sistema frontal que afectó al borde costero continental en el tramo comprendido entre las regiones de Atacama y Aysén, incluyendo el Archipiélago Juan Fernández en la Región de Valparaíso, lo que supone una disminución del riesgo asociado a esta variable. En consideración a estos antecedentes, SENAPRED cancela Alerta Temprana Preventiva para las comunas del bord",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-19T12:40:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-atacama-y-aysen-y-para-la-comuna-de-juan-fernandez-region-de-valparaiso-por-marejadas-anniormales-2026-07-14-17-45-00",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Coquimbo",
-    "La Araucanía",
-    "Valparaíso",
-    "Libertador General Bernardo O'Higgins",
-    "Maule",
-    "Biobío",
-    "Los Lagos",
-    "Aysén del General Carlos Ibáñez del Campo",
-    "Los Ríos",
-    "Ñuble"
-   ]
-  },
-  {
    "id": "82375d0c7005",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
@@ -748,20 +379,6 @@
    "regiones_extra": []
   },
   {
-   "id": "df5e0e851470",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "🔴 #SENAPREDInforma",
-   "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por alerta de crecida #SENAPRED hace un llamado a evitar acercarse a la ribera del Río Copiapó, en la comuna de #Copiapó, Región de Atacama.\n\nPara reforzar el alertamiento preventivo #SENAPRED activó mensajería #SAE.",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-19T05:10:51+00:00",
-   "url": "https://t.me/SenapredChile/1343",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
    "id": "92a59f4e19fc",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
@@ -772,34 +389,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-19T03:21:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-copiapo-y-caldera-por-evento-meteorologico-2026-07-19-03-21-21",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "b0fb9a6f71ed",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "🔴 #SENAPREDInforma",
-   "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por desborde del Río Grande, #SENAPRED solicita evacuar sector La Ensenada, en la comuna de #Ovalle, Región de Coquimbo.\n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\n\nMás información en: https://web.senapred.cl/dimension-animal/",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-19T00:51:21+00:00",
-   "url": "https://t.me/SenapredChile/1340",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "4a5b2bdde943",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para la comuna de Los Ángeles por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica Estero Paillihue en ex longitudinal , ubicada en la comuna de Los Ángeles, indica una disminución en su caudal , alcanzando valores de umbral azul . En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida para la comuna de Los Ángeles, que se mantenía vigente desde el 18 de julio.",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-19T00:45:24.2424-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-los-angeles-por-crecida-2026-07-18-17-11-22",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -863,22 +452,7 @@
    "ts": "2026-07-18T21:39:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-evento-meteorologico-2026-07-18-09-44-14",
    "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "019a0457c98c",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sector entre Iglesia Colorada y embalse Lautaro, por desborde del río Jorquera, en la comuna de Tierra Amarilla, Región de",
-   "descripcion": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sector entre Iglesia Colorada y embalse Lautaro, por desborde del río Jorquera, en la comuna de Tierra Amarilla, Región de Atacama. Para reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. \n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "Atacama",
-   "comunas": [
-    "Tierra Amarilla"
-   ],
-   "estado": "VIGENTE",
-   "ts": "2026-07-18T20:57:11+00:00",
-   "url": "https://t.me/SenapredChile/1336",
-   "origen": "telegram",
+   "regiones_extra": [],
    "sae": true
   },
   {
@@ -944,22 +518,6 @@
    ]
   },
   {
-   "id": "033ad004e7bd",
-   "nivel": "ROJA",
-   "tipo": "activación de quebradas",
-   "titulo": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sector la Vega en Valle del Carmen, por activación de quebrada, en la comuna de Alto del Carmen, Región de #Atacama Para r",
-   "descripcion": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sector la Vega en Valle del Carmen, por activación de quebrada, en la comuna de Alto del Carmen, Región de #Atacama Para reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. \n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "de",
-   "comunas": [
-    "Alto del Carmen"
-   ],
-   "estado": "VIGENTE",
-   "ts": "2026-07-18T18:51:58+00:00",
-   "url": "https://t.me/SenapredChile/1333",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
    "id": "909d20846ba3",
    "nivel": "AMARILLA",
    "tipo": "remoción en masa",
@@ -1018,22 +576,6 @@
    "sae": true
   },
   {
-   "id": "4b641c10082f",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sector centro deTongoy, comuna de Coquimbo, en la Región de #Coquimbo, por desborde de esteroTongoy. Para reforzar la evac",
-   "descripcion": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sector centro deTongoy, comuna de Coquimbo, en la Región de #Coquimbo, por desborde de esteroTongoy. Para reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE. \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\n\nDurante la evacuación, no olvides considerar a tu mascota ysus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "de",
-   "comunas": [
-    "Coquimbo"
-   ],
-   "estado": "VIGENTE",
-   "ts": "2026-07-18T17:06:07+00:00",
-   "url": "https://t.me/SenapredChile/1330",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
    "id": "636a80c6b47e",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -1066,38 +608,6 @@
    "sae": true
   },
   {
-   "id": "4036b36ed682",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "¡ATENCIÓN! Por desborde #SENAPRED solicita EVACUAR sectores Villa Prat en la localidad El Tránsito y El Retamo en Valle del Carmen, en la comuna de Alto del Car",
-   "descripcion": "¡ATENCIÓN! Por desborde #SENAPRED solicita EVACUAR sectores Villa Prat en la localidad El Tránsito y El Retamo en Valle del Carmen, en la comuna de Alto del Carmen, en la Región de #Atacama. Para reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE. REC\n\nUERDA mantener la calma y acatar las indicaciones de laautoridad y de los equipos de respuesta. Dur\n\nante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "de",
-   "comunas": [
-    "Alto del Carmen"
-   ],
-   "estado": "VIGENTE",
-   "ts": "2026-07-18T14:20:52+00:00",
-   "url": "https://t.me/SenapredChile/1326",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "bc41c9455e42",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "¡REITERAMOS! Por crecida solicitamos EVITAR ribera de los ríos El Carmen y El Tránsito, en la comuna de Alto del Carmen, Región de #Atacama.  #SENAPRED activó m",
-   "descripcion": "¡REITERAMOS! Por crecida solicitamos EVITAR ribera de los ríos El Carmen y El Tránsito, en la comuna de Alto del Carmen, Región de #Atacama.  #SENAPRED activó mensajería #SAE.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
-   "region": "de",
-   "comunas": [
-    "Alto del Carmen"
-   ],
-   "estado": "VIGENTE",
-   "ts": "2026-07-18T13:34:50+00:00",
-   "url": "https://t.me/SenapredChile/1325",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
    "id": "eb4c0da43d31",
    "nivel": "ROJA",
    "tipo": "crecida de río",
@@ -1114,31 +624,18 @@
    "sae": true
   },
   {
-   "id": "a9e1dd1908e7",
+   "id": "e5ed2e8238eb",
    "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "🔴 #SENAPREDInforma",
-   "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por desborde de canal, #SENAPRED solicita evacuar sector Quebrada Valparaíso; en la comuna de #Vallenar, Región de Atacama.\n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\n\nMás información en: https://web.senapred.cl/dimension-animal/",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-18T11:48:02+00:00",
-   "url": "https://t.me/SenapredChile/1321",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "6865cc04582c",
-   "nivel": "ROJA",
-   "tipo": "activación de quebradas",
-   "titulo": "🔴 #SENAPREDInforma",
-   "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por activación de quebradas El Arrayán, Marquesa y El Almendral, #SENAPRED solicita evacuar sectores Villa el Arrayán sector Costa, Marquesa, Nueva Talcuna y El Almendral; en la comuna de #Vicuña, Región de Coquimbo.\n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\n\nMás información en: https://web.senapred.cl/dimension-animal/",
+   "tipo": "viento",
+   "titulo": "Se modifica cobertura Alerta Roja para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo : Alertamiento Pronóstico Inicio Fin Alarma AAA4-2 Precipitaciones intensas en la región. 18-07 21-07 Alerta AA90-8 Viento moderado a fuerte en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera de la región. 17-07 19-07 Alerta AA91-2 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa y precordillera y valles precordilleranos de la región. 18-07 20-07 Alerta",
    "region": "Coquimbo",
    "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-18T11:42:08+00:00",
-   "url": "https://t.me/SenapredChile/1320",
-   "origen": "telegram",
+   "estado": "CANCELADA",
+   "ts": "2026-07-18T09:30:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-provincias-de-limari-y-choapa-por-evento-meteorologico-2026-07-17-20-22-31",
+   "origen": "senapred_web",
+   "regiones_extra": [],
    "sae": true
   },
   {
@@ -1152,20 +649,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-18T10:03:30.3030-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-07-13-12-33-07",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e5ed2e8238eb",
-   "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Se modifica cobertura Alerta Roja para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo : Alertamiento Pronóstico Inicio Fin Alarma AAA4-2 Precipitaciones intensas en la región. 18-07 21-07 Alerta AA90-8 Viento moderado a fuerte en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera de la región. 17-07 19-07 Alerta AA91-2 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa y precordillera y valles precordilleranos de la región. 18-07 20-07 Alerta",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-18T09:30:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-provincias-de-limari-y-choapa-por-evento-meteorologico-2026-07-17-20-22-31",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1281,7 +764,8 @@
    "ts": "2026-07-17T19:33:20.2020-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-maria-pinto-por-evento-meteorologico-2026-07-17-19-34-08",
    "origen": "senapred_web",
-   "regiones_extra": []
+   "regiones_extra": [],
+   "sae": true
   },
   {
    "id": "048c72d2f637",
@@ -1294,34 +778,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-17T19:21:32.3232-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "dee53ac5ef5a",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "🔴 #SENAPREDInforma",
-   "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por crecida del Río Mapocho #SENAPRED solicita evacuar sector Campamento Ribera del Río en la comuna de #Talagante, Región Metropolitana.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.  \nMás información en https://web.senapred.cl/dimension-animal/",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-17T17:12:34+00:00",
-   "url": "https://t.me/SenapredChile/1290",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "27ae0b8ee05a",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Los Lagos, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Alerta AA95 Viento moderado a fuerte en litoral, cordillera costa, Chiloé y litoral interior. Aviso A324-3 Viento normal a moderado en valle, precordillera, Chiloé y litoral interior. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Region",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-17T13:56:21.2121-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-07-12-11-38-27",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1452,20 +908,6 @@
    "sae": true
   },
   {
-   "id": "e493cfb7d46a",
-   "nivel": "ROJA",
-   "tipo": "marejadas",
-   "titulo": "🔴 #SENAPREDInforma",
-   "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por marejadas #SENAPRED solicita evacuar borde costero de sectores Malaquías Concha y Barrio Chino en la comuna de #Penco, Región del Biobío. \nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE. \nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades. \nMás información en https://web.senapred.cl/dimension-animal/",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-16T17:07:53+00:00",
-   "url": "https://t.me/SenapredChile/1285",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
    "id": "0164ccb02756",
    "nivel": "AMARILLA",
    "tipo": "viento",
@@ -1478,34 +920,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-07-12-18-52-58",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "ab4a3a7e55ce",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "¡ATENCIÓN! Por alerta de crecida del Río Pichilo, #SENAPRED hace un llamado a evitar sector de la ribera de dicho río en la comuna de #Arauco, Región del Biobío",
-   "descripcion": "¡ATENCIÓN! Por alerta de crecida del Río Pichilo, #SENAPRED hace un llamado a evitar sector de la ribera de dicho río en la comuna de #Arauco, Región del Biobío. \nPara reforzar el alertamiento preventivo, #SENAPRED activó mensajería #SAE.",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-16T13:54:22+00:00",
-   "url": "https://t.me/SenapredChile/1283",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "1c233a1d292c",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "¡ATENCIÓN! Por alerta de crecida del Río Curanilahue, #SENAPRED hace un llamado a evitar sector de la ribera de dicho río en la comuna de #Curanilahue, Región d",
-   "descripcion": "¡ATENCIÓN! Por alerta de crecida del Río Curanilahue, #SENAPRED hace un llamado a evitar sector de la ribera de dicho río en la comuna de #Curanilahue, Región del Biobío.\nPara reforzar el alertamiento preventivo, #SENAPRED activó mensajería #SAE.",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-16T13:06:32+00:00",
-   "url": "https://t.me/SenapredChile/1282",
-   "origen": "telegram",
-   "sae": true
   },
   {
    "id": "676ff02c26ca",
@@ -2128,34 +1542,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-03T13:41:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-2026-06-27-15-55-46",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "b8d59cd77970",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Amarilla para la comuna de Pucón por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , ha sido cancelado los siguientes alertamientos meteorológicos para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Alerta AA81-2 Viento moderado a fuerte para la zona de precordillera y cordillera de la región de La Araucanía. Aviso A285-3 Viento normal a moderado (Raco, puelche, dirección Este) en litoral, cordillera de la costa, precordillera y cordillera de la región. Aviso A292 Heladas normales a moderadas en zona de va",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-03T13:40:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-cancela-alerta-amarilla-y-declara-alerta-roja-para-la-comuna-de-pucon-por-evento-meteorologico-2026-07-01-16-24-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7436fa7af7a8",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Amarilla para la comuna de Villarrica por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado los siguientes alertamientos meteorológicos para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Alerta AA81-2 Viento moderado a fuerte para la zona de precordillera y cordillera de la región de La Araucanía. Aviso A285-3 Viento normal a moderado (Raco, puelche, dirección Este) en litoral, cordillera de la costa, precordillera y cordillera de la región. Aviso A292 Heladas normales a moderadas en zona de val",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-03T13:40:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-cancela-alerta-amarilla-y-declara-alerta-roja-para-la-comuna-de-villarrica-por-evento-meteorologico-2026-07-01-18-54-28",
    "origen": "senapred_web",
    "regiones_extra": []
   },
