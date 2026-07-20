@@ -157,6 +157,7 @@
   <button class="chip activo" data-nivel="AMARILLA" style="--c:var(--amarilla)">AMARILLA</button>
   <button class="chip activo" data-nivel="ATP"      style="--c:var(--atp)">TEMPRANA PREVENTIVA</button>
   <select id="f-tipo" aria-label="Filtrar por tipo de evento"><option value="">Todos los eventos</option></select>
+  <button class="chip activo" id="f-sectores" style="--c:var(--tinta-suave)">SECTORES ⬤</button>
   <div class="conteo"><b id="n-vigentes">0</b> alertas vigentes</div>
 </div>
 
@@ -166,7 +167,8 @@
   <div class="leyenda">
     <i style="background:var(--roja)"></i>Roja&nbsp;&nbsp;
     <i style="background:var(--amarilla)"></i>Amarilla&nbsp;&nbsp;
-    <i style="background:var(--atp)"></i>Temprana preventiva
+    <i style="background:var(--atp)"></i>Temprana preventiva<br>
+    relleno intenso = alerta comunal · tenue = paraguas regional · ⬤ = sector nombrado en boletín
   </div>
 
   <aside id="panel" aria-label="Detalle de la zona">
@@ -245,10 +247,15 @@ function filtroPasa(a){
   return nivelesOn.has(a.nivel) && (!tipoOn || a.tipo === tipoOn);
 }
 function estilo(f){
-  const lista = alertasDe(f), n = nivelMax(lista);
-  return n
-    ? {color:COLOR[n], weight:1, fillColor:COLOR[n], fillOpacity:.42}
-    : {color:"#33424f", weight:.6, fillColor:"#000", fillOpacity:.02};
+  const lista = alertasDe(f);
+  if (!lista.length) return {color:"#33424f", weight:.6, fillColor:"#000", fillOpacity:.02};
+  // Jerarquía visual: alerta declarada PARA la comuna = intensa;
+  // paraguas regional = lavado tenue, para que lo puntual resalte.
+  const comunales = lista.filter(a => a.comunas.length);
+  const n = nivelMax(comunales.length ? comunales : lista);
+  const fuerte = comunales.length > 0;
+  return {color: COLOR[n], weight: fuerte ? 1.8 : .7,
+          fillColor: COLOR[n], fillOpacity: fuerte ? .48 : .14};
 }
 function pintar(){ if (capaComunas) capaComunas.setStyle(estilo); }
 
@@ -341,6 +348,31 @@ function indexar(){
   sel.value = actual;
 }
 
+let capaSectores = L.layerGroup().addTo(map);
+async function cargarSectores(){
+  capaSectores.clearLayers();
+  try{
+    const d = await j("sectores.json");
+    for (const sct of (d.sectores || [])){
+      L.circleMarker([sct.lat, sct.lon], {
+        radius: 6.5, weight: 1.5, color: "#fff",
+        fillColor: COLOR[sct.nivel] || "#999", fillOpacity: .95,
+      }).bindPopup(
+        `<b>${esc(sct.nombre)}</b><br>` +
+        `<span style="color:${COLOR[sct.nivel]};font-weight:700">${sct.nivel}</span>` +
+        ` · ${esc(sct.tipo)}${sct.sae ? " · SAE" : ""}<br>` +
+        `<small>${esc(sct.lugar)} · ${esc(sct.ts)}</small><br>` +
+        `<a href="${esc(sct.url)}" target="_blank" rel="noopener">Ver boletín ↗</a>`
+      ).addTo(capaSectores);
+    }
+  }catch{ /* sin sectores aún: el robot los va generando */ }
+}
+$("f-sectores").onclick = () => {
+  const on = !map.hasLayer(capaSectores);
+  on ? capaSectores.addTo(map) : map.removeLayer(capaSectores);
+  $("f-sectores").classList.toggle("activo", on);
+};
+
 async function cargarDatos(){
   try{
     const d = await j(CFG.alerts);
@@ -356,6 +388,7 @@ async function cargarDatos(){
     $("aviso").style.display = "block";
   }
   try{ media = await j(CFG.media); }catch{ media = {zonas:{}}; }
+  await cargarSectores();
   indexar(); pintar(); actualizarConteo();
 }
 
@@ -386,7 +419,7 @@ function irAZona(){
     if (rg && slug(prop(f.properties, CFG.propRegion)) === rg) grupo.push(l);
   });
   if (objetivo){
-    map.fitBounds(objetivo.getBounds().pad(0.8));
+    map.fitBounds(objetivo.getBounds(), {padding:[40,40], maxZoom:11});
     abrirPanel(objetivo.feature);
   } else if (grupo.length){
     let b = grupo[0].getBounds();

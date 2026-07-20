@@ -74,6 +74,7 @@ def cargar_historico(desde):
         if not t or t < desde or not a.get("nivel"):
             continue
         a["_t"] = t
+        a["region"] = region_limpia(a.get("region"))
         k = (a["nivel"], slug(a.get("region")),
              ",".join(sorted(slug(c) for c in a.get("comunas", []))), str(a["ts"])[:10])
         b = canon.get(k)
@@ -89,6 +90,15 @@ def cargar_historico(desde):
     regs = [canon[k] for k in orden]
     regs.sort(key=lambda x: x["_t"])
     return regs
+
+
+BASURA_REGION = {"de", "del", "de la", "la", "los", "las", "el"}
+
+
+def region_limpia(r):
+    """Sanea registros legados con capturas basura ('de')."""
+    t = slug(r)
+    return "" if (len(t) < 4 or t in BASURA_REGION) else str(r).strip()
 
 
 def lugar_de(a):
@@ -163,7 +173,9 @@ def main():
             }
         elif a.get("sae"):
             z["sae"] = True
-    tipos_detalle = {t: sorted(v.values(), key=lambda x: -PESO[x["nivel"]])[:20]
+    tipos_detalle = {t: sorted((z for z in v.values()
+                                if z["comuna_link"] or z["region_link"]),
+                               key=lambda x: -PESO[x["nivel"]])[:20]
                      for t, v in tipos_detalle.items()}
 
     # ---- cronología reciente -------------------------------------------------

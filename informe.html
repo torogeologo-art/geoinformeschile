@@ -39,7 +39,12 @@
   .tarjeta .l{font-size:12px;color:var(--tinta-suave);margin-top:2px}
   .tarjeta.roja .n{color:var(--roja)}
 
-  .grafico{background:var(--panel-2);border:1px solid var(--linea);border-radius:8px;padding:14px}
+  .grafico{background:var(--panel-2);border:1px solid var(--linea);border-radius:8px;padding:14px;position:relative}
+  .dl{position:absolute;top:8px;right:8px;z-index:2}
+  .ver-mapa{margin-left:auto;font-family:var(--mono);font-size:11.5px;letter-spacing:.03em;
+            padding:4px 11px;border:1px solid var(--roja);border-radius:6px;
+            color:var(--roja);text-decoration:none;white-space:nowrap}
+  .ver-mapa:hover{background:var(--roja);color:#fff}
   .grafico svg{width:100%;height:auto;display:block}
   .leyenda{font-family:var(--mono);font-size:11px;color:var(--tinta-suave);margin-top:8px}
   .leyenda i{display:inline-block;width:9px;height:9px;border-radius:2px;margin:0 5px 0 12px;vertical-align:-1px}
@@ -91,6 +96,7 @@
   .cargando{padding:40px 0;color:var(--tinta-suave);font-family:var(--mono)}
 
   @media print{
+    .dl{display:none}
     :root{--fondo:#fff;--panel:#fff;--panel-2:#fff;--tinta:#111;
           --tinta-suave:#555;--linea:#bbb}
     body{font-size:12.5px}
@@ -187,10 +193,15 @@ function svgClima(horas, lluvia, viento, iAhora){
   out += `<text x="${m.l}" y="10" font-size="9.5" fill="var(--tinta-suave)" font-family="monospace">mm/h</text>`
       +  `<text x="${W-m.r+5}" y="10" font-size="9.5" fill="var(--tinta-suave)" font-family="monospace">km/h</text>`;
   lluvia.forEach((v, i) => { if (v > 0){
-    const y1 = yP(v);
-    out += `<rect x="${m.l + i*xw}" y="${y1}" width="${Math.max(1, xw*0.85)}" height="${(H-m.b)-y1}" fill="var(--atp)" opacity=".85"><title>${horas[i].replace("T"," ")}: ${v} mm</title></rect>`; }});
+    const y1 = yP(v), pron = iAhora >= 0 && i > iAhora;
+    out += `<rect x="${m.l + i*xw}" y="${y1}" width="${Math.max(1, xw*0.85)}" height="${(H-m.b)-y1}" fill="var(--atp)" opacity="${pron ? .38 : .9}"><title>${horas[i].replace("T"," ")}: ${v} mm${pron ? " (pronóstico)" : ""}</title></rect>`; }});
+  const punto = i => `${(m.l + i*xw + xw/2).toFixed(1)},${yV(viento[i]).toFixed(1)}`;
+  const corte = iAhora >= 0 ? Math.min(iAhora, viento.length - 1) : viento.length - 1;
   out += `<polyline fill="none" stroke="var(--amarilla)" stroke-width="2" points="`
-      + viento.map((v, i) => `${(m.l + i*xw + xw/2).toFixed(1)},${yV(v).toFixed(1)}`).join(" ") + `"/>`;
+      + viento.slice(0, corte + 1).map((_, i) => punto(i)).join(" ") + `"/>`;
+  if (corte < viento.length - 1)
+    out += `<polyline fill="none" stroke="var(--amarilla)" stroke-width="2" stroke-dasharray="5 4" opacity=".65" points="`
+        + viento.slice(corte).map((_, i) => punto(corte + i)).join(" ") + `"/>`;
   if (iAhora >= 0){
     const xa = m.l + iAhora*xw;
     out += `<line x1="${xa}" x2="${xa}" y1="${m.t}" y2="${H-m.b}" stroke="var(--roja)" stroke-dasharray="4 3"/>`
@@ -199,6 +210,29 @@ function svgClima(horas, lluvia, viento, iAhora){
   horas.forEach((h, i) => { if (i % 6 === 0)
     out += `<text x="${m.l + i*xw}" y="${H-m.b+14}" font-size="9" fill="var(--tinta-suave)" font-family="monospace">${h.slice(8,10)}·${h.slice(11,13)}h</text>`; });
   return out + "</svg>";
+}
+
+// Descarga cualquiera de los gráficos como PNG (resuelve los colores del tema).
+function descargarPNG(cont, nombre){
+  const svgEl = cont.querySelector("svg"); if (!svgEl) return;
+  let src = svgEl.outerHTML;
+  const css = getComputedStyle(document.documentElement);
+  for (const v of ["--atp","--amarilla","--roja","--linea","--tinta","--tinta-suave","--panel-2","--fondo"])
+    src = src.split(`var(${v})`).join(css.getPropertyValue(v).trim());
+  const img = new Image();
+  img.onload = () => {
+    const esc2 = 2, vb = svgEl.viewBox.baseVal;
+    const cv = document.createElement("canvas");
+    cv.width = vb.width * esc2; cv.height = vb.height * esc2;
+    const cx = cv.getContext("2d");
+    cx.fillStyle = css.getPropertyValue("--panel-2").trim() || "#131c26";
+    cx.fillRect(0, 0, cv.width, cv.height);
+    cx.drawImage(img, 0, 0, cv.width, cv.height);
+    const a = document.createElement("a");
+    a.download = `geoinformeschile_${nombre}.png`;
+    a.href = cv.toDataURL("image/png"); a.click();
+  };
+  img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(src);
 }
 
 const climaCache = {};
@@ -215,12 +249,19 @@ async function pintarClima(region){
       climaCache[region] = {ciudad, datos: (await r.json()).hourly};
     }
     const {ciudad, datos} = climaCache[region];
-    const ahoraISO = new Date().toISOString().slice(0, 13);
-    const iAhora = datos.time.findIndex(t => t.slice(0, 13) >= ahoraISO);
+    // Hora local de Chile (los datos vienen en America/Santiago; comparar
+    // contra UTC corría el marcador ~4 horas — hallazgo de Diego).
+    const ahoraCL = new Date().toLocaleString("sv-SE", {timeZone: "America/Santiago"})
+                    .slice(0, 13).replace(" ", "T");
+    const iAhora = datos.time.findIndex(t => t.slice(0, 13) >= ahoraCL);
     g.innerHTML = svgClima(datos.time, datos.precipitation, datos.wind_speed_10m, iAhora)
-      + `<div class="fuente-clima">Punto de referencia: ${esc(ciudad)}. Barras verdes: lluvia (mm por hora, eje izquierdo).
-         Línea amarilla: viento (km/h, eje derecho). Últimas 48 h y próximas 24.
-         Datos del modelo Open-Meteo — referenciales, no son mediciones oficiales de la DMC.</div>`;
+      + `<div class="leyenda"><i style="background:var(--atp)"></i>lluvia mm/h (eje izq.)
+         &nbsp;<span style="color:var(--amarilla)">━</span> viento km/h (eje der.)
+         &nbsp;<span style="color:var(--amarilla)">╌╌</span> pronóstico
+         &nbsp;<span style="color:var(--roja)">┊</span> ahora</div>
+        <div class="fuente-clima">Punto de referencia: ${esc(ciudad)} · a la izquierda del marcador,
+        lo observado (48 h); a la derecha, el pronóstico del modelo (24 h) ·
+        Open-Meteo, referencial — no reemplaza a la DMC.</div>`;
   }catch{
     g.innerHTML = `<div class="cargando">No se pudo consultar el clima ahora; reintenta en un momento.</div>`;
   }
@@ -245,7 +286,7 @@ function render(d){
       En <b>Alerta Roja</b> en este momento: ${v.regiones_roja.map(esc).join(" · ")}.</p>` : ""}
 
     <h2>Alertas nuevas por día</h2>
-    <div class="grafico">${svgSerie(d.serie)}
+    <div class="grafico"><button class="btn dl" data-n="alertas_por_dia" title="Descargar imagen">⬇ PNG</button>${svgSerie(d.serie)}
       <div class="leyenda">▲n = SAE del día
         <i style="background:var(--roja)"></i>Roja
         <i style="background:var(--amarilla)"></i>Amarilla
@@ -266,7 +307,7 @@ function render(d){
     <h2>Lluvia y viento por hora — territorio nacional</h2>
     <div class="reg-chips">${Object.keys(CAPITALES).map(r =>
       `<span class="reg ${v.regiones_roja.includes(r) ? "roja" : ""}" data-r="${esc(r)}">${esc(REG_CORTA(r))}</span>`).join("")}</div>
-    <div class="grafico" id="g-clima"></div>
+    <div class="grafico"><button class="btn dl" data-n="lluvia_y_viento" title="Descargar imagen">⬇ PNG</button><div id="g-clima"></div></div>
 
     <h2>Tipos de evento en el período <span style="text-transform:none;letter-spacing:0">· toca uno para ver sus zonas</span></h2>
     <div class="tipos" id="tipos">${t.por_tipo.map(([k, n]) =>
@@ -299,10 +340,14 @@ function activar(d){
         <span class="quien">${esc(z.lugar)}</span>
         ${z.sae ? '<span class="sae">SAE</span>' : ""}
         <span class="cuando">${esc(z.ts)} · ${esc(z.region)}</span>
-        <a href="./${z.comuna_link ? "?zona=" + encodeURIComponent(z.comuna_link)
+        <a class="ver-mapa" href="./${z.comuna_link ? "?zona=" + encodeURIComponent(z.comuna_link)
                                    : "?region=" + encodeURIComponent(z.region_link)}">Ver en el mapa ↗</a>
       </div>`).join("")
       : `<div class="cargando">Sin zonas registradas para este tipo.</div>`;
+  });
+  document.body.addEventListener("click", e => {
+    const b = e.target.closest(".dl");
+    if (b) descargarPNG(b.parentElement, b.dataset.n);
   });
   document.querySelector(".reg-chips").addEventListener("click", e => {
     const ch = e.target.closest(".reg"); if (ch) pintarClima(ch.dataset.r);

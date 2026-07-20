@@ -96,6 +96,9 @@ def region_canon(nombre):
     for clave, canon in REGIONES_BCN:
         if clave in t:
             return canon
+    # Guardia anti-basura: si lo capturado es una migaja ("de", "la"...), fuera.
+    if len(t) < 4 or t in ("de", "del", "de la", "los", "las", "el"):
+        return ""
     return str(nombre).strip()
 
 
