@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="es-CL">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GeoInforme del evento — GeoInformesChile</title>
+<meta name="description" content="Informe automático del evento en curso, generado desde los registros públicos de SENAPRED. Sitio ciudadano no oficial.">
+<style>
+  :root{
+    --fondo:#101720; --panel:#18222e; --panel-2:#131c26;
+    --tinta:#e9e4d8; --tinta-suave:#8fa0af; --linea:#263340;
+    --atp:#3f9d63; --amarilla:#e3ac1c; --roja:#e04a31;
+    --mono:ui-monospace,'SF Mono','Cascadia Mono',Consolas,monospace;
+  }
+  *{box-sizing:border-box;margin:0}
+  body{background:var(--fondo);color:var(--tinta);
+       font:15px/1.55 system-ui,-apple-system,'Segoe UI',Roboto,sans-serif}
+  a{color:var(--tinta)}
+  main{max-width:860px;margin:0 auto;padding:20px 18px 40px}
+
+  header{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:6px}
+  .marca{font-size:19px;letter-spacing:-.02em}
+  .marca b{font-weight:800}
+  .marca .cl{color:var(--roja);font-weight:800}
+  .acciones{margin-left:auto;display:flex;gap:8px}
+  .btn{font-family:var(--mono);font-size:12px;letter-spacing:.05em;color:var(--tinta-suave);
+       border:1px solid var(--linea);border-radius:6px;padding:6px 12px;background:var(--panel);
+       cursor:pointer;text-decoration:none}
+  .btn:hover{color:var(--tinta);border-color:var(--tinta-suave)}
+
+  h1{font-size:26px;font-weight:800;letter-spacing:-.02em;margin:18px 0 2px}
+  .periodo{font-family:var(--mono);font-size:12.5px;color:var(--tinta-suave)}
+  h2{font-family:var(--mono);font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;
+     color:var(--tinta-suave);margin:28px 0 10px;border-top:1px solid var(--linea);padding-top:16px}
+
+  .tarjetas{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-top:16px}
+  .tarjeta{background:var(--panel);border:1px solid var(--linea);border-radius:8px;padding:12px 14px}
+  .tarjeta .n{font-family:var(--mono);font-size:26px;font-variant-numeric:tabular-nums}
+  .tarjeta .l{font-size:12px;color:var(--tinta-suave);margin-top:2px}
+  .tarjeta.roja .n{color:var(--roja)}
+
+  .grafico{background:var(--panel-2);border:1px solid var(--linea);border-radius:8px;padding:14px}
+  .grafico svg{width:100%;height:auto;display:block}
+  .leyenda{font-family:var(--mono);font-size:11px;color:var(--tinta-suave);margin-top:8px}
+  .leyenda i{display:inline-block;width:9px;height:9px;border-radius:2px;margin:0 5px 0 12px;vertical-align:-1px}
+
+  .esc{background:var(--panel-2);border:1px solid var(--linea);border-radius:8px;
+       padding:10px 12px;margin-bottom:8px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  .esc .lugar{font-weight:700;min-width:180px}
+  .esc .region{font-size:12px;color:var(--tinta-suave)}
+  .pasos{font-family:var(--mono);font-size:12px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+  .nvl{padding:1px 7px;border-radius:4px;color:#0d1218;font-weight:700}
+  .nvl.ROJA{background:var(--roja);color:#fff}
+  .nvl.AMARILLA{background:var(--amarilla)}
+  .nvl.ATP{background:var(--atp);color:#fff}
+  .flecha{color:var(--tinta-suave)}
+  .sae{background:var(--roja);color:#fff;border-radius:3px;padding:0 5px;
+       font-family:var(--mono);font-size:11px;font-weight:700}
+
+  .crono{border-left:2px solid var(--linea);padding-left:14px}
+  .cr{margin-bottom:10px}
+  .cr .meta{font-family:var(--mono);font-size:11.5px;color:var(--tinta-suave)}
+  .cr .que{font-size:13.5px}
+  .cr a{font-size:12px;color:var(--tinta-suave)}
+  .tipos span{display:inline-block;font-family:var(--mono);font-size:12px;
+       border:1px solid var(--linea);border-radius:999px;padding:3px 10px;margin:0 6px 6px 0;
+       color:var(--tinta-suave)}
+  .tipos b{color:var(--tinta)}
+
+  footer{border-top:1px solid var(--linea);margin-top:30px;padding-top:14px;
+         font-size:12px;color:var(--tinta-suave)}
+  footer b{color:var(--tinta)}
+  .cargando{padding:40px 0;color:var(--tinta-suave);font-family:var(--mono)}
+
+  @media print{
+    :root{--fondo:#fff;--panel:#fff;--panel-2:#fff;--tinta:#111;
+          --tinta-suave:#555;--linea:#bbb}
+    body{font-size:12.5px}
+    .acciones{display:none}
+    .tarjeta,.esc,.grafico{break-inside:avoid}
+    a{text-decoration:none;color:#111}
+  }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <div class="marca">Geo<b>Informes</b><span class="cl">Chile</span></div>
+    <div class="acciones">
+      <a class="btn" href="./">← Mapa en vivo</a>
+      <button class="btn" onclick="window.print()">Imprimir / PDF</button>
+    </div>
+  </header>
+
+  <div id="cuerpo" class="cargando">Generando el informe…</div>
+
+  <footer>
+    <span id="nota"></span><br>
+    Fuente de los registros: SENAPRED (senapred.cl). Sitio independiente, <b>sin afiliación a SENAPRED</b> —
+    ante una emergencia, sigue los canales oficiales y la mensajería SAE.<br>
+    ¿Tu terreno, proyecto o comunidad necesita un <b>informe de riesgos geológicos</b> hecho por profesionales?
+    Escríbenos con confianza a <a href="mailto:geoinformeschile@gmail.com">geoinformeschile@gmail.com</a>.
+  </footer>
+</main>
+
+<script>
+"use strict";
+const $ = id => document.getElementById(id);
+const esc = s => (s||"").toString().replace(/[&<>"']/g, c =>
+               ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const NVL = n => n === "ATP" ? "TEMPRANA PREV." : n;
+
+function svgSerie(serie){
+  // Gráfico de barras apiladas hecho a mano: cero librerías.
+  const W = 800, H = 190, m = {t:10, b:34, l:34, r:6};
+  const max = Math.max(1, ...serie.map(d => d.ROJA + d.AMARILLA + d.ATP));
+  const bw = (W - m.l - m.r) / serie.length;
+  const y = v => (H - m.b) - v * (H - m.t - m.b) / max;
+  let out = `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Alertas por día">`;
+  for (const g of [0, Math.round(max/2), max]){
+    out += `<line x1="${m.l}" x2="${W-m.r}" y1="${y(g)}" y2="${y(g)}" stroke="var(--linea)" stroke-width="1"/>` +
+           `<text x="${m.l-6}" y="${y(g)+4}" text-anchor="end" font-size="10" fill="var(--tinta-suave)" font-family="monospace">${g}</text>`;
+  }
+  serie.forEach((d, i) => {
+    const x = m.l + i*bw + bw*0.15, w = bw*0.7;
+    let acc = 0;
+    for (const [k, c] of [["ATP","var(--atp)"],["AMARILLA","var(--amarilla)"],["ROJA","var(--roja)"]]){
+      if (!d[k]) continue;
+      const y1 = y(acc + d[k]), h = y(acc) - y1;
+      out += `<rect x="${x}" y="${y1}" width="${w}" height="${h}" fill="${c}" rx="1"><title>${d.fecha}: ${d[k]} ${k}</title></rect>`;
+      acc += d[k];
+    }
+    if (d.sae) out += `<text x="${x + w/2}" y="${y(acc) - 4}" text-anchor="middle" font-size="9" fill="var(--roja)" font-family="monospace">▲${d.sae}</text>`;
+    out += `<text x="${x + w/2}" y="${H - m.b + 14}" text-anchor="middle" font-size="9.5" fill="var(--tinta-suave)" font-family="monospace">${d.fecha.slice(5)}</text>`;
+  });
+  return out + "</svg>";
+}
+
+function render(d){
+  const t = d.totales, v = d.vigentes;
+  $("nota").textContent = d.nota + "  Generado: " + new Date(d.generado).toLocaleString("es-CL") + ".";
+  $("cuerpo").className = "";
+  $("cuerpo").innerHTML = `
+    <h1>${esc(d.evento.nombre)}</h1>
+    <div class="periodo">GeoInforme automático · período ${esc(d.evento.desde)} — ${esc(d.evento.hasta)}</div>
+
+    <div class="tarjetas">
+      <div class="tarjeta"><div class="n">${t.alertas}</div><div class="l">alertas registradas</div></div>
+      <div class="tarjeta roja"><div class="n">${t.sae}</div><div class="l">con mensajería SAE</div></div>
+      <div class="tarjeta"><div class="n">${t.comunas}</div><div class="l">comunas afectadas</div></div>
+      <div class="tarjeta"><div class="n">${t.regiones}</div><div class="l">regiones involucradas</div></div>
+      <div class="tarjeta roja"><div class="n">${v.ROJA}</div><div class="l">rojas vigentes ahora</div></div>
+    </div>
+    ${v.regiones_roja.length ? `<p style="margin-top:10px;font-size:13.5px">
+      En <b>Alerta Roja</b> en este momento: ${v.regiones_roja.map(esc).join(" · ")}.</p>` : ""}
+
+    <h2>Alertas nuevas por día</h2>
+    <div class="grafico">${svgSerie(d.serie)}
+      <div class="leyenda">▲n = SAE del día
+        <i style="background:var(--roja)"></i>Roja
+        <i style="background:var(--amarilla)"></i>Amarilla
+        <i style="background:var(--atp)"></i>Temprana preventiva</div>
+    </div>
+
+    <h2>Zonas que escalaron de nivel</h2>
+    ${d.escalamientos.length ? d.escalamientos.map(e => `
+      <div class="esc">
+        <div><div class="lugar">${esc(e.lugar)} ${e.sae ? '<span class="sae">SAE</span>' : ""}</div>
+             <div class="region">${esc(e.region)}</div></div>
+        <div class="pasos">${e.pasos.map(p =>
+          `<span class="nvl ${p.nivel}" title="${esc(p.ts)}">${NVL(p.nivel)}</span>`
+        ).join('<span class="flecha">→</span>')}</div>
+      </div>`).join("")
+      : `<p style="font-size:13.5px;color:var(--tinta-suave)">Sin escalamientos detectados en el período.</p>`}
+
+    <h2>Tipos de evento en el período</h2>
+    <div class="tipos">${t.por_tipo.map(([k, n]) => `<span><b>${n}</b> ${esc(k)}</span>`).join("")}</div>
+
+    <h2>Cronología reciente</h2>
+    <div class="crono">${d.cronologia.map(c => `
+      <div class="cr">
+        <div class="meta">${esc(c.ts)} · <span class="nvl ${c.nivel}">${NVL(c.nivel)}</span>
+          ${c.sae ? '<span class="sae">SAE</span>' : ""} ${c.estado === "CANCELADA" ? "· cancelada" : ""}</div>
+        <div class="que">${esc(c.lugar)} — ${esc(c.tipo)}
+          ${c.url ? ` <a href="${esc(c.url)}" target="_blank" rel="noopener">boletín ↗</a>` : ""}</div>
+      </div>`).join("")}
+    </div>`;
+}
+
+fetch("informe.json?t=" + Date.now())
+  .then(r => { if (!r.ok) throw 0; return r.json(); })
+  .then(render)
+  .catch(() => { $("cuerpo").textContent =
+    "Aún no hay informe generado: el robot lo crea en su próxima corrida (cada 15 minutos)."; });
+</script>
+</body>
+</html>

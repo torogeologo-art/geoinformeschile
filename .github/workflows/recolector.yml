@@ -58,6 +58,9 @@ jobs:
         if: env.YT_API_KEY != ''
         run: python media_youtube.py || echo "media falló; los datos de alertas ya están"
 
+      - name: GeoInforme del evento
+        run: python generar_informe.py || echo "informe falló; el resto sigue"
+
       - name: Publicar datos
         run: |
           git config user.name  "geoinformes-bot"
