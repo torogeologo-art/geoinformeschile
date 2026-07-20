@@ -1,36 +1,36 @@
 {
- "generado": "2026-07-20T12:03:07+00:00",
+ "generado": "2026-07-20T15:32:06+00:00",
  "evento": {
   "nombre": "Sistema frontal — evento meteorológico en monitoreo",
   "desde": "10-07-2026",
   "hasta": "20-07-2026"
  },
  "totales": {
-  "alertas": 88,
-  "sae": 36,
-  "comunas": 13,
+  "alertas": 93,
+  "sae": 39,
+  "comunas": 16,
   "regiones": 17,
   "por_nivel": {
-   "ATP": 29,
-   "ROJA": 41,
-   "AMARILLA": 18
+   "ATP": 30,
+   "ROJA": 44,
+   "AMARILLA": 19
   },
   "por_tipo": [
+   [
+    "crecida de río",
+    22
+   ],
    [
     "desborde",
     21
    ],
    [
-    "crecida de río",
+    "viento",
     19
    ],
    [
-    "viento",
-    18
-   ],
-   [
     "tormentas eléctricas",
-    10
+    11
    ],
    [
     "evento meteorológico",
@@ -51,6 +51,134 @@
   ]
  },
  "tipos_detalle": {
+  "crecida de río": [
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "17-07",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "16-07",
+    "comuna_link": "",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Arauco",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "15-07",
+    "comuna_link": "arauco",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Coihueco",
+    "region": "Ñuble",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "15-07",
+    "comuna_link": "coihueco",
+    "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Metropolitana",
+    "region": "Metropolitana",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "17-07",
+    "comuna_link": "",
+    "region_link": "metropolitana"
+   },
+   {
+    "lugar": "Viña del Mar",
+    "region": "Valparaíso",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "17-07",
+    "comuna_link": "vina del mar",
+    "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Alto del Carmen",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-07",
+    "comuna_link": "alto del carmen",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Los Vilos",
+    "region": "",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "20-07",
+    "comuna_link": "los vilos",
+    "region_link": ""
+   },
+   {
+    "lugar": "Punitaqui",
+    "region": "",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "20-07",
+    "comuna_link": "punitaqui",
+    "region_link": ""
+   },
+   {
+    "lugar": "Salamanca",
+    "region": "",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "20-07",
+    "comuna_link": "salamanca",
+    "region_link": ""
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "11-07",
+    "comuna_link": "",
+    "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "nuble"
+   }
+  ],
   "desborde": [
    {
     "lugar": "Región de Maule",
@@ -188,107 +316,6 @@
     "region_link": "atacama"
    }
   ],
-  "crecida de río": [
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "17-07",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "16-07",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Arauco",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "15-07",
-    "comuna_link": "arauco",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Coihueco",
-    "region": "Ñuble",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "15-07",
-    "comuna_link": "coihueco",
-    "region_link": "nuble"
-   },
-   {
-    "lugar": "Región de Metropolitana",
-    "region": "Metropolitana",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "17-07",
-    "comuna_link": "",
-    "region_link": "metropolitana"
-   },
-   {
-    "lugar": "Viña del Mar",
-    "region": "Valparaíso",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "17-07",
-    "comuna_link": "vina del mar",
-    "region_link": "valparaiso"
-   },
-   {
-    "lugar": "Alto del Carmen",
-    "region": "Atacama",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "18-07",
-    "comuna_link": "alto del carmen",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "11-07",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "19-07",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "19-07",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "19-07",
-    "comuna_link": "",
-    "region_link": "nuble"
-   }
-  ],
   "viento": [
    {
     "lugar": "Región de Coquimbo",
@@ -399,6 +426,15 @@
     "ts": "19-07",
     "comuna_link": "",
     "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "20-07",
+    "comuna_link": "",
+    "region_link": "atacama"
    },
    {
     "lugar": "Región de La Araucanía",
@@ -587,8 +623,8 @@
    {
     "lugar": "Región de Atacama",
     "region": "Atacama",
-    "nivel": "ROJA",
-    "sae": true,
+    "nivel": "AMARILLA",
+    "sae": false,
     "ts": "20-07",
     "comuna_link": "",
     "region_link": "atacama"
@@ -627,9 +663,9 @@
   ]
  },
  "vigentes": {
-  "ROJA": 34,
+  "ROJA": 38,
   "AMARILLA": 4,
-  "ATP": 9,
+  "ATP": 10,
   "regiones_roja": [
    "Atacama",
    "Biobío",
@@ -706,10 +742,10 @@
   },
   {
    "fecha": "2026-07-20",
-   "ROJA": 6,
-   "AMARILLA": 1,
-   "ATP": 1,
-   "sae": 6
+   "ROJA": 9,
+   "AMARILLA": 2,
+   "ATP": 2,
+   "sae": 9
   }
  ],
  "escalamientos": [
@@ -786,11 +822,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "ATP",
-     "ts": "11-07 20:50",
-     "estado": "CANCELADA"
-    },
-    {
      "nivel": "ROJA",
      "ts": "18-07 21:39",
      "estado": "CANCELADA"
@@ -808,6 +839,39 @@
     {
      "nivel": "ROJA",
      "ts": "19-07 18:09",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "20-07 09:15",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Biobío",
+   "region": "Biobío",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "11-07 09:18",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "16-07 17:42",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-07 13:39",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "20-07 10:53",
      "estado": "VIGENTE"
     }
    ]
@@ -860,29 +924,6 @@
      "nivel": "AMARILLA",
      "ts": "18-07 10:03",
      "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Biobío",
-   "region": "Biobío",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "11-07 09:18",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "16-07 17:42",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "17-07 13:39",
-     "estado": "CANCELADA"
     }
    ]
   },
@@ -1007,6 +1048,60 @@
  ],
  "cronologia": [
   {
+   "ts": "20-07 15:28",
+   "nivel": "ROJA",
+   "lugar": "Salamanca",
+   "tipo": "crecida de río",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1392"
+  },
+  {
+   "ts": "20-07 10:53",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17"
+  },
+  {
+   "ts": "20-07 14:25",
+   "nivel": "ROJA",
+   "lugar": "Punitaqui",
+   "tipo": "crecida de río",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1390"
+  },
+  {
+   "ts": "20-07 13:49",
+   "nivel": "ROJA",
+   "lugar": "Los Vilos",
+   "tipo": "crecida de río",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1389"
+  },
+  {
+   "ts": "20-07 09:15",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Atacama",
+   "tipo": "activación de quebradas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-copiapo-y-caldera-por-evento-meteorologico-2026-07-19-03-21-21"
+  },
+  {
+   "ts": "20-07 09:09",
+   "nivel": "ROJA",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-evento-meteorologico-2026-07-18-09-44-14"
+  },
+  {
    "ts": "20-07 02:21",
    "nivel": "AMARILLA",
    "lugar": "Región de Maule",
@@ -1043,15 +1138,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-viento-2026-07-13-18-03-41"
   },
   {
-   "ts": "20-07 03:35",
-   "nivel": "ROJA",
-   "lugar": "Región de Atacama",
-   "tipo": "activación de quebradas",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1382"
-  },
-  {
    "ts": "20-07 03:22",
    "nivel": "ROJA",
    "lugar": "Nivel nacional",
@@ -1086,51 +1172,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1376"
-  },
-  {
-   "ts": "20-07 01:29",
-   "nivel": "ROJA",
-   "lugar": "Huasco",
-   "tipo": "desborde",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1369"
-  },
-  {
-   "ts": "19-07 23:55",
-   "nivel": "ROJA",
-   "lugar": "Freirina",
-   "tipo": "activación de quebradas",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1363"
-  },
-  {
-   "ts": "19-07 23:30",
-   "nivel": "ROJA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "desborde",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1362"
-  },
-  {
-   "ts": "19-07 19:09",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Ñuble",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-pinto-chillan-y-chillan-viejo-por-crecida-2026-07-15-16-25-10"
-  },
-  {
-   "ts": "19-07 18:18",
-   "nivel": "ROJA",
-   "lugar": "Región de Valparaíso",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-de-valparaiso-territorio-continental-por-evento-meteorologico-2026-07-14-18-04-30"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

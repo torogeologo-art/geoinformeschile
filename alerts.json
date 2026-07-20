@@ -1,13 +1,61 @@
 {
- "generado": "2026-07-20T12:02:50+00:00",
+ "generado": "2026-07-20T15:31:52+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 47,
+ "total_vigentes": 52,
  "alertas": [
+  {
+   "id": "b7384a4f2a71",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN!\n Por alerta de crecida de canal Buceta, EVITA sector Tambo Oriente, en la comuna de Salamanca, Región de #Coquimbo.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "",
+   "comunas": [
+    "Salamanca"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-07-20T15:28:05+00:00",
+   "url": "https://t.me/SenapredChile/1392",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "562965219f61",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN! \n\nPor alerta de crecida de quebrada Viña Vieja EVITA sector Las Lluvias, en la comuna de Punitaqui, Región de #Coquimbo.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "",
+   "comunas": [
+    "Punitaqui"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-07-20T14:25:36+00:00",
+   "url": "https://t.me/SenapredChile/1390",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "7e59daaa4c4c",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "¡ATENCIÓN!",
+   "descripcion": "¡ATENCIÓN! \nPor alerta de crecida de embalse Culimo EVITA riberas de ríos, esteros y quebradas, en la comuna de Los Vilos, Región de #Coquimbo.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.\n\n#SENAPRED activó mensajería #SAE Preventiva.",
+   "region": "",
+   "comunas": [
+    "Los Vilos"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-07-20T13:49:30+00:00",
+   "url": "https://t.me/SenapredChile/1389",
+   "origen": "telegram",
+   "sae": true
+  },
   {
    "id": "c16c1c0a1cef",
    "nivel": "ROJA",
@@ -24,18 +72,47 @@
    "sae": true
   },
   {
-   "id": "bc0f567cec90",
+   "id": "fa166207be78",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Aviso A319-9 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 21-07 21-07 Así mismo, conforme a lo indicado en el Informe de Amenaza Meteorológica de la DMC, los montos pronosticados de precipitaciones (mm/cm), viento (km/h) e isoterma 0°C (m.s.n.m.) para los próximos días en la región, son los siguientes: Zona Lunes 20 Martes 21 Miérco",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-20T10:53:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "dc4c16997fb5",
    "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "¡ATENCIÓN! Por desborde del Río Huasco #SENAPRED solicita evacuar sectores aledaños a la ribera de dicho curso de agua en la comuna de #Vallenar, Región de Atac",
-   "descripcion": "¡ATENCIÓN! Por desborde del Río Huasco #SENAPRED solicita evacuar sectores aledaños a la ribera de dicho curso de agua en la comuna de #Vallenar, Región de Atacama. \nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE. \nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades. \nMás información en: https://web.senapred.cl/dimension-animal/",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Roja para la comuna de Tierra Amarilla por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Alerta AA93-2 Viento moderado a fuerte con desarrollo de viento blanco en litoral, cordillera de la costa y sectores de valles, pampa, precordillera y cordillera. 17-07 20-07 Aviso A320-7 Viento normal a moderado con probabilidad de tormentas de arena en litoral, cordillera de la costa y sectores de valles, pampa, precordillera y cordillera. 20-07 22-07 Aviso A334 Probables ne",
    "region": "Atacama",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-07-20T09:15:35+00:00",
-   "url": "https://t.me/SenapredChile/1386",
-   "origen": "telegram",
+   "ts": "2026-07-20T09:09:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-evento-meteorologico-2026-07-18-09-44-14",
+   "origen": "senapred_web",
+   "regiones_extra": [],
    "sae": true
+  },
+  {
+   "id": "b5e5f747dd36",
+   "nivel": "AMARILLA",
+   "tipo": "activación de quebradas",
+   "titulo": "Monitoreo Alerta Amarilla por evento meteorológico para las comunas de Copiapó y Caldera",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Atacama respecto al desarrollo del evento meteorológico, se reporta la activación de diversas quebradas y Ríos en la región. Cabe señalar que, la Dirección Meteorológica de Chile (DMC), mantiene vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Alerta AA93-2 Viento moderado a fuerte con desarrollo de viento blanco en litoral, cordillera de la costa y sectores de valles, pampa, precordillera y cordillera. 17-07 20-07 Aviso A320-7 Viento normal a mode",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-20T09:15:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-copiapo-y-caldera-por-evento-meteorologico-2026-07-19-03-21-21",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "cf5fddd78c61",
@@ -188,18 +265,17 @@
    "regiones_extra": []
   },
   {
-   "id": "6cb5fd68161d",
+   "id": "f850e2267cf0",
    "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Roja para la Provincia de Huasco por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Alarma AAA5-1 Precipitaciones intensas en la provincia de Huasco (costa a precordillera). 19-07 20-07 Alerta AA91-5 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa y sectores de valles, pampa y precordillera. 19-07 19-07 Alerta AA92-5 Nevadas moderadas a fuertes con desarrollo de ventiscas en cordillera. 18-07 19-07 Alerta AA93-2 Viento moderado a fuerte",
+   "tipo": "activación de quebradas",
+   "titulo": "REITERAMOS el llamado de #SENAPRED por activación de Quebrada Alarcón, a EVACUAR el sector #Amancay, en la comuna de #Freirina, Región de Atacama.",
+   "descripcion": "REITERAMOS el llamado de #SENAPRED por activación de Quebrada Alarcón, a EVACUAR el sector #Amancay, en la comuna de #Freirina, Región de Atacama.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
    "region": "Atacama",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-07-19T18:09:23.2323-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-huasco-por-evento-meteorologico-2026-07-16-19-52-57",
-   "origen": "senapred_web",
-   "regiones_extra": [],
+   "ts": "2026-07-19T21:07:28+00:00",
+   "url": "https://t.me/SenapredChile/1356",
+   "origen": "telegram",
    "sae": true
   },
   {
@@ -323,20 +399,6 @@
    "sae": true
   },
   {
-   "id": "3983b9d74ad4",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Aviso A319-9 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 21-07 21-07 Cabe señalar que, conforme a lo señalado en la actualización del Aviso A332-6, la Región del Biobio queda fuera del área de cobertura, debido al debilitamiento de las condiciones meteorológicas en la región. Así mismo, conforme a lo indicado en la actualización del",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-19T13:57:30.3030-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "b1e53fcb23f8",
    "nivel": "ATP",
    "tipo": "viento",
@@ -379,16 +441,16 @@
    "regiones_extra": []
   },
   {
-   "id": "92a59f4e19fc",
+   "id": "4a5b2bdde943",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para las comunas de Copiapó y Caldera por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Atacama respecto al desarrollo del evento meteorológico en la región, se reporta la activación de la Quebrada Burro Muerto en el sector de Nueva Caldera, comuna de Caldera, y la crecida del río Copiapó en la comuna de Copiapó; razón por la que fue enviado un mensaje SAE preventivo a esta última comuna, ante el eventual riesgo para la población cercana a este curso de agua. Cabe señalar que la Meteorológica de Chile (DMC), mantiene vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Ale",
-   "region": "Atacama",
+   "titulo": "Se cancela Alerta Amarilla para la comuna de Los Ángeles por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica Estero Paillihue en ex longitudinal , ubicada en la comuna de Los Ángeles, indica una disminución en su caudal , alcanzando valores de umbral azul . En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida para la comuna de Los Ángeles, que se mantenía vigente desde el 18 de julio.",
+   "region": "Biobío",
    "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-19T03:21:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-copiapo-y-caldera-por-evento-meteorologico-2026-07-19-03-21-21",
+   "estado": "CANCELADA",
+   "ts": "2026-07-19T00:45:24.2424-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-los-angeles-por-crecida-2026-07-18-17-11-22",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -438,21 +500,6 @@
    "ts": "2026-07-18T23:17:42+00:00",
    "url": "https://t.me/SenapredChile/1337",
    "origen": "telegram",
-   "sae": true
-  },
-  {
-   "id": "01825900e776",
-   "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la comuna de Tierra Amarilla por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Alarma AAA5 Precipitaciones intensas en la Provincia de Huasco (costa a precordillera). 18-07 20-07 Alerta AA91-3 Precipitaciones moderadas a fuertes en el litoral, cordillera de la costa y sectores de valles, pampa y precordillera. 18-07 20-07 Alerta AA92-5 Nevadas moderadas a fuertes con desarrollo de ventisca en la región. 18-07 19-07 Alerta AA93-2 Viento moderado a fuerte c",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-18T21:39:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-evento-meteorologico-2026-07-18-09-44-14",
-   "origen": "senapred_web",
-   "regiones_extra": [],
    "sae": true
   },
   {
@@ -620,6 +667,20 @@
    "estado": "VIGENTE",
    "ts": "2026-07-18T12:24:25+00:00",
    "url": "https://t.me/SenapredChile/1322",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "a9e1dd1908e7",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por desborde de canal, #SENAPRED solicita evacuar sector Quebrada Valparaíso; en la comuna de #Vallenar, Región de Atacama.\n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\n\nMás información en: https://web.senapred.cl/dimension-animal/",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-18T11:48:02+00:00",
+   "url": "https://t.me/SenapredChile/1321",
    "origen": "telegram",
    "sae": true
   },

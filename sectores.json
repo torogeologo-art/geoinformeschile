@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-20T12:03:00+00:00",
+ "generado": "2026-07-20T15:31:59+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
   {
@@ -67,17 +67,6 @@
    "lugar": "Vallenar",
    "url": "https://t.me/SenapredChile/1345",
    "ts": "2026-07-19T16:07"
-  },
-  {
-   "nombre": "río Copiapó",
-   "lat": -27.53921,
-   "lon": -70.27293,
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "sae": false,
-   "lugar": "Atacama",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-copiapo-y-caldera-por-evento-meteorologico-2026-07-19-03-21-21",
-   "ts": "2026-07-19T03:21"
   },
   {
    "nombre": "río Elqui",
