@@ -1,13 +1,27 @@
 {
- "generado": "2026-07-20T07:55:18+00:00",
+ "generado": "2026-07-20T08:41:33+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "sin_configurar",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 63,
+ "total_vigentes": 64,
  "alertas": [
+  {
+   "id": "691bd5256f36",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "¡ATENCIÓN! Por desborde del Río Huasco #SENAPRED reitera el llamado a evacuar sector UDA Avenida Costanera en la comuna de #Vallenar, Región de Atacama.",
+   "descripcion": "¡ATENCIÓN! Por desborde del Río Huasco #SENAPRED reitera el llamado a evacuar sector UDA Avenida Costanera en la comuna de #Vallenar, Región de Atacama.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\nMás información en: https://web.senapred.cl/dimension-animal/",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-20T08:21:39+00:00",
+   "url": "https://t.me/SenapredChile/1385",
+   "origen": "telegram",
+   "sae": true
+  },
   {
    "id": "437b05a19fbf",
    "nivel": "ROJA",
