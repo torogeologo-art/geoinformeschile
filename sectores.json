@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-20T11:41:22+00:00",
+ "generado": "2026-07-20T12:03:00+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
   {
@@ -122,6 +122,28 @@
    "lugar": "Coquimbo",
    "url": "https://t.me/SenapredChile/1331",
    "ts": "2026-07-18T17:27"
+  },
+  {
+   "nombre": "estero El Cobre",
+   "lat": -32.73249,
+   "lon": -70.56705,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Valparaíso",
+   "url": "https://t.me/SenapredChile/1316",
+   "ts": "2026-07-18T03:24"
+  },
+  {
+   "nombre": "puente Las Brisas",
+   "lat": -35.62151,
+   "lon": -71.76708,
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "sae": false,
+   "lugar": "Maule",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-linares-villa-alegre-y-san-javier-por-crecida-2026-07-17-15-07-31",
+   "ts": "2026-07-17T23:15"
   }
  ]
 }
