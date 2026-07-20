@@ -34,5 +34,32 @@
 "lat": -27.53921,
 "lon": -70.27293
 },
-"sectores hornitos|tierra amarilla": null
+"sectores hornitos|tierra amarilla": null,
+"sectores valle de los angeles|la serena": null,
+"rio elqui|la serena": {
+"lat": -29.8839,
+"lon": -71.2471
+},
+"sector burro muerto|caldera": null,
+"sector san carlos|vicuna": null,
+"quebrada san carlos|vicuna": {
+"lat": -30.02835,
+"lon": -70.81122
+},
+"rio huasco|alto del carmen": {
+"lat": -29.0774,
+"lon": -70.12676
+},
+"sector higueritas unidas|chile": null,
+"quebrada el ingenio|chile": null,
+"sectores tambillos|coquimbo": null,
+"quebrada tambillos|coquimbo": null,
+"sector carachilla el guindo|coquimbo": null,
+"quebrada seca sotaqui|coquimbo": {
+"lat": -30.6168,
+"lon": -71.0547
+},
+"sector santa cristina|ovalle": null,
+"quebrada santa cristina. para|ovalle": null,
+"sector las rojas|la serena": null
 }

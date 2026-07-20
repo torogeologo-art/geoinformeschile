@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-20T11:18:36+00:00",
+ "generado": "2026-07-20T11:41:22+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
   {
@@ -78,6 +78,50 @@
    "lugar": "Atacama",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-copiapo-y-caldera-por-evento-meteorologico-2026-07-19-03-21-21",
    "ts": "2026-07-19T03:21"
+  },
+  {
+   "nombre": "río Elqui",
+   "lat": -29.8839,
+   "lon": -71.2471,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "La Serena",
+   "url": "https://t.me/SenapredChile/1338",
+   "ts": "2026-07-18T23:25"
+  },
+  {
+   "nombre": "quebrada San Carlos",
+   "lat": -30.02835,
+   "lon": -70.81122,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Vicuña",
+   "url": "https://t.me/SenapredChile/1335",
+   "ts": "2026-07-18T20:19"
+  },
+  {
+   "nombre": "río Huasco",
+   "lat": -29.0774,
+   "lon": -70.12676,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Alto del Carmen",
+   "url": "https://t.me/SenapredChile/1334",
+   "ts": "2026-07-18T20:15"
+  },
+  {
+   "nombre": "quebrada Seca Sotaquí",
+   "lat": -30.6168,
+   "lon": -71.0547,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Coquimbo",
+   "url": "https://t.me/SenapredChile/1331",
+   "ts": "2026-07-18T17:27"
   }
  ]
 }
