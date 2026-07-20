@@ -30,7 +30,7 @@ ALERTS = DIR / "alerts.json"
 SALIDA = DIR / "informe.json"
 
 EVENTO_NOMBRE = os.environ.get(
-    "EVENTO_NOMBRE", "Sistema frontal — evento meteorológico en monitoreo")
+    "EVENTO_NOMBRE", "Sistema frontal julio 2026 — regiones de Atacama a La Araucanía")
 DIAS_DEFECTO = 10
 PESO = {"ATP": 1, "AMARILLA": 2, "ROJA": 3}
 
