@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-20T10:53:51+00:00",
+ "generado": "2026-07-20T11:18:12+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -38,12 +38,12 @@
    "sae": true
   },
   {
-   "id": "a343be87b9d1",
+   "id": "cf5fddd78c61",
    "nivel": "ROJA",
    "tipo": "crecida de río",
    "titulo": "¡ATENCIÓN!",
    "descripcion": "¡ATENCIÓN!\nPor alerta de crecida #SENAPRED hace un llamado a evitar acercarse a riberas de ríos, quebradas y esteros en la provincia de #Huasco, Región de #Atacama.\nPara reforzar alertamiento preventivo #SENAPRED activó Mensajería #SAE.\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
-   "region": "de",
+   "region": "",
    "comunas": [],
    "estado": "VIGENTE",
    "ts": "2026-07-20T03:22:28+00:00",
@@ -456,12 +456,12 @@
    "sae": true
   },
   {
-   "id": "d14f0493f7f1",
+   "id": "d7064f9ff6d4",
    "nivel": "ROJA",
    "tipo": "desborde",
    "titulo": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sector San Carlos, por desborde de quebrada San Carlos, en la comuna de Vicuña, Región de #Coquimbo",
    "descripcion": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sector San Carlos, por desborde de quebrada San Carlos, en la comuna de Vicuña, Región de #Coquimbo \nPara reforzar la evacuación en terreno por parte de loso rganismos técnicos, #SENAPRED activó mensajería #SAE.  \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. \n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "de",
+   "region": "",
    "comunas": [
     "Vicuña"
    ],
@@ -472,12 +472,12 @@
    "sae": true
   },
   {
-   "id": "ea7557c8268c",
+   "id": "4d5fd8ce9779",
    "nivel": "ROJA",
    "tipo": "desborde",
    "titulo": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sector entre La Junta y Embalse Santa Juana, por desborde del río Huasco, en la comuna de Alto del Carmen, Región de #Atac",
    "descripcion": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sector entre La Junta y Embalse Santa Juana, por desborde del río Huasco, en la comuna de Alto del Carmen, Región de #Atacama Para reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE. \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. \n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "de",
+   "region": "",
    "comunas": [
     "Alto del Carmen"
    ],
@@ -532,12 +532,12 @@
    "regiones_extra": []
   },
   {
-   "id": "d03da04951f8",
+   "id": "21adcc682f74",
    "nivel": "ROJA",
    "tipo": "desborde",
    "titulo": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sector Higueritas Unidas, por desborde de quebrada El Ingenio, en la comuna de #Ovalle, Región de #Coquimbo.",
    "descripcion": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sector Higueritas Unidas, por desborde de quebrada El Ingenio, en la comuna de #Ovalle, Región de #Coquimbo. \nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. \nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "de",
+   "region": "",
    "comunas": [],
    "estado": "VIGENTE",
    "ts": "2026-07-18T18:22:46+00:00",
@@ -560,12 +560,12 @@
    "regiones_extra": []
   },
   {
-   "id": "35221be90206",
+   "id": "ba36f5b7b15e",
    "nivel": "ROJA",
    "tipo": "desborde",
    "titulo": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sectores Tambillos, Apatitas y Las Cardas en la comuna de Coquimbo por desborde de quebrada Tambillos; Además del sector C",
    "descripcion": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sectores Tambillos, Apatitas y Las Cardas en la comuna de Coquimbo por desborde de quebrada Tambillos; Además del sector Carachilla El Guindo, en la comuna de Ovalle, por desborde de quebrada Seca Sotaquí, en la Región de #Coquimbo. \nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. \n\nDunte la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapr",
-   "region": "de",
+   "region": "",
    "comunas": [
     "Coquimbo"
    ],
@@ -576,12 +576,12 @@
    "sae": true
   },
   {
-   "id": "636a80c6b47e",
+   "id": "8e4e5417785d",
    "nivel": "ROJA",
    "tipo": "desborde",
    "titulo": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sector Santa Cristina, comuna de Ovalle, en la Región de #Coquimbo por desborde de la quebrada Santa Cristina. Para reforz",
    "descripcion": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sector Santa Cristina, comuna de Ovalle, en la Región de #Coquimbo por desborde de la quebrada Santa Cristina. Para reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. \n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "de",
+   "region": "",
    "comunas": [
     "Ovalle"
    ],
@@ -592,12 +592,12 @@
    "sae": true
   },
   {
-   "id": "625c5da0cfcc",
+   "id": "6637926540f5",
    "nivel": "ROJA",
    "tipo": "desborde",
    "titulo": "¡ATENCIÓN! #SENAPRED solicita EVACUAR Valle de Los Ángeles sector Las Rojas, en la comuna de La Serena, Región de #Coquimbo, por desborde del río Elqui. Para re",
    "descripcion": "¡ATENCIÓN! #SENAPRED solicita EVACUAR Valle de Los Ángeles sector Las Rojas, en la comuna de La Serena, Región de #Coquimbo, por desborde del río Elqui. Para reforzar la evacuación en terreno por parte de los organismos  técnicos, #SENAPRED activó mensajería #SAE.  \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. \nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
-   "region": "de",
+   "region": "",
    "comunas": [
     "La Serena"
    ],

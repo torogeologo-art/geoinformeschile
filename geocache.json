@@ -1,0 +1,38 @@
+{
+"rio huasco|huasco": {
+"lat": -28.55575,
+"lon": -70.83226
+},
+"quebrada agua salada|freirina": {
+"lat": -28.56481,
+"lon": -71.03441
+},
+"sector callejon dona anita|freirina": null,
+"sector tres cruces|coquimbo": null,
+"quebrada tres cruces|coquimbo": {
+"lat": -29.99406,
+"lon": -70.53407
+},
+"sector la arena|huasco": null,
+"quebrada marquesa|vicuna": null,
+"sectores marquesa|vicuna": null,
+"sectores el arrayan|vicuna": null,
+"quebrada el arrayan|vicuna": {
+"lat": -30.00049,
+"lon": -71.00096
+},
+"rio limari|ovalle": {
+"lat": -30.63894,
+"lon": -71.36084
+},
+"sector el jilguero|vallenar": null,
+"quebrada el jilguero|vallenar": {
+"lat": -28.58906,
+"lon": -70.7254
+},
+"rio copiapo|atacama": {
+"lat": -27.53921,
+"lon": -70.27293
+},
+"sectores hornitos|tierra amarilla": null
+}

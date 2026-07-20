@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-20T10:53:59+00:00",
+ "generado": "2026-07-20T11:18:41+00:00",
  "evento": {
   "nombre": "Sistema frontal — evento meteorológico en monitoreo",
   "desde": "10-07-2026",
@@ -9,7 +9,7 @@
   "alertas": 88,
   "sae": 36,
   "comunas": 13,
-  "regiones": 18,
+  "regiones": 17,
   "por_nivel": {
    "ATP": 29,
    "ROJA": 41,
@@ -99,57 +99,48 @@
    },
    {
     "lugar": "La Serena",
-    "region": "de",
+    "region": "",
     "nivel": "ROJA",
     "sae": true,
     "ts": "18-07",
     "comuna_link": "la serena",
-    "region_link": "de"
+    "region_link": ""
    },
    {
     "lugar": "Ovalle",
-    "region": "de",
+    "region": "",
     "nivel": "ROJA",
     "sae": true,
     "ts": "18-07",
     "comuna_link": "ovalle",
-    "region_link": "de"
+    "region_link": ""
    },
    {
     "lugar": "Coquimbo",
-    "region": "de",
+    "region": "",
     "nivel": "ROJA",
     "sae": true,
     "ts": "18-07",
     "comuna_link": "coquimbo",
-    "region_link": "de"
-   },
-   {
-    "lugar": "Región de de",
-    "region": "de",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "18-07",
-    "comuna_link": "",
-    "region_link": "de"
+    "region_link": ""
    },
    {
     "lugar": "Alto del Carmen",
-    "region": "de",
+    "region": "",
     "nivel": "ROJA",
     "sae": true,
     "ts": "18-07",
     "comuna_link": "alto del carmen",
-    "region_link": "de"
+    "region_link": ""
    },
    {
     "lugar": "Vicuña",
-    "region": "de",
+    "region": "",
     "nivel": "ROJA",
     "sae": true,
     "ts": "18-07",
     "comuna_link": "vicuna",
-    "region_link": "de"
+    "region_link": ""
    },
    {
     "lugar": "La Serena",
@@ -260,15 +251,6 @@
     "ts": "18-07",
     "comuna_link": "alto del carmen",
     "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de de",
-    "region": "de",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "20-07",
-    "comuna_link": "",
-    "region_link": "de"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -655,7 +637,6 @@
    "Metropolitana de Santiago",
    "Tarapacá",
    "Valparaíso",
-   "de",
    "Ñuble"
   ]
  },
@@ -1073,7 +1054,7 @@
   {
    "ts": "20-07 03:22",
    "nivel": "ROJA",
-   "lugar": "Región de de",
+   "lugar": "Nivel nacional",
    "tipo": "crecida de río",
    "sae": true,
    "estado": "VIGENTE",

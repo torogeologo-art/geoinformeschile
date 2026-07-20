@@ -1,0 +1,83 @@
+{
+ "generado": "2026-07-20T11:18:36+00:00",
+ "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
+ "sectores": [
+  {
+   "nombre": "río Huasco",
+   "lat": -28.55575,
+   "lon": -70.83226,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Huasco",
+   "url": "https://t.me/SenapredChile/1369",
+   "ts": "2026-07-20T01:29"
+  },
+  {
+   "nombre": "quebrada Agua Salada",
+   "lat": -28.56481,
+   "lon": -71.03441,
+   "nivel": "ROJA",
+   "tipo": "activación de quebradas",
+   "sae": true,
+   "lugar": "Freirina",
+   "url": "https://t.me/SenapredChile/1363",
+   "ts": "2026-07-19T23:55"
+  },
+  {
+   "nombre": "quebrada Tres Cruces",
+   "lat": -29.99406,
+   "lon": -70.53407,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Coquimbo",
+   "url": "https://t.me/SenapredChile/1362",
+   "ts": "2026-07-19T23:30"
+  },
+  {
+   "nombre": "quebrada El Arrayán",
+   "lat": -30.00049,
+   "lon": -71.00096,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Vicuña",
+   "url": "https://t.me/SenapredChile/1352",
+   "ts": "2026-07-19T20:10"
+  },
+  {
+   "nombre": "río Limarí",
+   "lat": -30.63894,
+   "lon": -71.36084,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Ovalle",
+   "url": "https://t.me/SenapredChile/1347",
+   "ts": "2026-07-19T18:04"
+  },
+  {
+   "nombre": "quebrada El Jilguero",
+   "lat": -28.58906,
+   "lon": -70.7254,
+   "nivel": "ROJA",
+   "tipo": "activación de quebradas",
+   "sae": true,
+   "lugar": "Vallenar",
+   "url": "https://t.me/SenapredChile/1345",
+   "ts": "2026-07-19T16:07"
+  },
+  {
+   "nombre": "río Copiapó",
+   "lat": -27.53921,
+   "lon": -70.27293,
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "sae": false,
+   "lugar": "Atacama",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-copiapo-y-caldera-por-evento-meteorologico-2026-07-19-03-21-21",
+   "ts": "2026-07-19T03:21"
+  }
+ ]
+}
