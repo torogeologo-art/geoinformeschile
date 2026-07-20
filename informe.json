@@ -1,7 +1,7 @@
 {
- "generado": "2026-07-20T10:28:01+00:00",
+ "generado": "2026-07-20T10:53:59+00:00",
  "evento": {
-  "nombre": "Sistema frontal julio 2026 — regiones de Atacama a La Araucanía",
+  "nombre": "Sistema frontal — evento meteorológico en monitoreo",
   "desde": "10-07-2026",
   "hasta": "20-07-2026"
  },
@@ -48,6 +48,600 @@
     "incendio forestal",
     2
    ]
+  ]
+ },
+ "tipos_detalle": {
+  "desborde": [
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "10-07",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "17-07",
+    "comuna_link": "",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "17-07",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "17-07",
+    "comuna_link": "",
+    "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "17-07",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "La Serena",
+    "region": "de",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-07",
+    "comuna_link": "la serena",
+    "region_link": "de"
+   },
+   {
+    "lugar": "Ovalle",
+    "region": "de",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-07",
+    "comuna_link": "ovalle",
+    "region_link": "de"
+   },
+   {
+    "lugar": "Coquimbo",
+    "region": "de",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-07",
+    "comuna_link": "coquimbo",
+    "region_link": "de"
+   },
+   {
+    "lugar": "Región de de",
+    "region": "de",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-07",
+    "comuna_link": "",
+    "region_link": "de"
+   },
+   {
+    "lugar": "Alto del Carmen",
+    "region": "de",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-07",
+    "comuna_link": "alto del carmen",
+    "region_link": "de"
+   },
+   {
+    "lugar": "Vicuña",
+    "region": "de",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-07",
+    "comuna_link": "vicuna",
+    "region_link": "de"
+   },
+   {
+    "lugar": "La Serena",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-07",
+    "comuna_link": "la serena",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Ovalle",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "19-07",
+    "comuna_link": "ovalle",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Vicuña",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "19-07",
+    "comuna_link": "vicuna",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Huasco",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "20-07",
+    "comuna_link": "huasco",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Freirina",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "20-07",
+    "comuna_link": "freirina",
+    "region_link": "atacama"
+   }
+  ],
+  "crecida de río": [
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "17-07",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "16-07",
+    "comuna_link": "",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Arauco",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "15-07",
+    "comuna_link": "arauco",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Coihueco",
+    "region": "Ñuble",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "15-07",
+    "comuna_link": "coihueco",
+    "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Metropolitana",
+    "region": "Metropolitana",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "17-07",
+    "comuna_link": "",
+    "region_link": "metropolitana"
+   },
+   {
+    "lugar": "Viña del Mar",
+    "region": "Valparaíso",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "17-07",
+    "comuna_link": "vina del mar",
+    "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Alto del Carmen",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-07",
+    "comuna_link": "alto del carmen",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de de",
+    "region": "de",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "20-07",
+    "comuna_link": "",
+    "region_link": "de"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "11-07",
+    "comuna_link": "",
+    "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "nuble"
+   }
+  ],
+  "viento": [
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-07",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-07",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "16-07",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "18-07",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "18-07",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "10-07",
+    "comuna_link": "",
+    "region_link": "los lagos"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "11-07",
+    "comuna_link": "",
+    "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "16-07",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "17-07",
+    "comuna_link": "",
+    "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "aysen del general carlos ibanez del campo"
+   }
+  ],
+  "tormentas eléctricas": [
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "10-07",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "11-07",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "11-07",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "14-07",
+    "comuna_link": "",
+    "region_link": "aysen del general carlos ibanez del campo"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "20-07",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
+   }
+  ],
+  "evento meteorológico": [
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "17-07",
+    "comuna_link": "",
+    "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "11-07",
+    "comuna_link": "",
+    "region_link": "aysen del general carlos ibanez del campo"
+   },
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "11-07",
+    "comuna_link": "",
+    "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "11-07",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "11-07",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "14-07",
+    "comuna_link": "",
+    "region_link": "magallanes y de la antartica chilena"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "17-07",
+    "comuna_link": "",
+    "region_link": "los lagos"
+   }
+  ],
+  "activación de quebradas": [
+   {
+    "lugar": "Caldera",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-07",
+    "comuna_link": "caldera",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Tierra Amarilla",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-07",
+    "comuna_link": "tierra amarilla",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Vallenar",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "19-07",
+    "comuna_link": "vallenar",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Huasco",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "19-07",
+    "comuna_link": "huasco",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Freirina",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "19-07",
+    "comuna_link": "freirina",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "20-07",
+    "comuna_link": "",
+    "region_link": "atacama"
+   }
+  ],
+  "remoción en masa": [
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "18-07",
+    "comuna_link": "",
+    "region_link": "los lagos"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "10-07",
+    "comuna_link": "",
+    "region_link": "los rios"
+   }
+  ],
+  "incendio forestal": [
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "17-07",
+    "comuna_link": "",
+    "region_link": "tarapaca"
+   }
   ]
  },
  "vigentes": {

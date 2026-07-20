@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-20T10:28:01+00:00",
- "desde": "2026-07-18T10:27:54Z",
+ "generado": "2026-07-20T10:53:58+00:00",
+ "desde": "2026-07-18T10:53:52Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,170 +9,31 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "5IM2KkcW25E",
-     "url": "https://www.youtube.com/watch?v=5IM2KkcW25E",
-     "titulo": "Graves consecuencias en el norte: Desborde de ríos e inundaciones tras potente sistema frontal",
-     "canal": "Meganoticias",
-     "publicado": "2026-07-20T01:53:37Z",
-     "live": false,
-     "score": 2.29,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "de": {
-   "comuna": "de",
-   "region": "de",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "E15kgiiM70Y",
-     "url": "https://www.youtube.com/watch?v=E15kgiiM70Y",
-     "titulo": "Viña del Mar EN VIVO 🇨🇱 Cámara urbana | Chile Live Webcam",
-     "canal": "Viña CAM",
-     "publicado": "2026-07-20T03:31:49Z",
-     "live": true,
-     "score": 9.42,
-     "verificado": false,
-     "embeddable": false
-    },
-    {
-     "id": "MxCGRub9jYU",
-     "url": "https://www.youtube.com/watch?v=MxCGRub9jYU",
-     "titulo": "20.7.2026",
-     "canal": "Galería CIMA",
-     "publicado": "2026-07-20T01:13:44Z",
-     "live": true,
-     "score": 9.23,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "WUEsaM8xkiY",
-     "url": "https://www.youtube.com/watch?v=WUEsaM8xkiY",
-     "titulo": "[EN VIVO] 🔴 España gana el Mundial: Todos Somos Técnicos | TNT Sports",
-     "canal": "TNT Sports Chile",
-     "publicado": "2026-07-20T00:12:10Z",
-     "live": true,
-     "score": 9.14,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "50n6z0PmovU",
-     "url": "https://www.youtube.com/watch?v=50n6z0PmovU",
-     "titulo": "Ledrium - Peñalolen Norte, Chile, Live cam, en vivo, en directo",
-     "canal": "Ledrium",
-     "publicado": "2026-07-19T23:45:57Z",
-     "live": true,
-     "score": 9.11,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "yx3ovka2Yjc",
-     "url": "https://www.youtube.com/watch?v=yx3ovka2Yjc",
-     "titulo": "🔴 EN VIVO | CHV Noticias Central | Domingo 19 de julio - Señal Online",
-     "canal": "Chilevisión",
-     "publicado": "2026-07-19T23:23:09Z",
-     "live": true,
-     "score": 9.08,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "ETVC19vxVfg",
-     "url": "https://www.youtube.com/watch?v=ETVC19vxVfg",
-     "titulo": "🔴 EN VIVO | CHV Noticias 24/7: Señal Internacional - Online",
-     "canal": "CHV Noticias",
-     "publicado": "2026-07-19T17:24:30Z",
-     "live": true,
-     "score": 8.58,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "dBMjuyLYzvw",
-     "url": "https://www.youtube.com/watch?v=dBMjuyLYzvw",
-     "titulo": "EN VIVO | Emergencia por temporal y lluvias en regiones de Chile",
-     "canal": "Radio Infinita ",
-     "publicado": "2026-07-19T10:26:17Z",
-     "live": true,
-     "score": 8.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "TJV-2zstoUQ",
      "url": "https://www.youtube.com/watch?v=TJV-2zstoUQ",
-     "titulo": "🔴 EN VIVO | Meganoticias Ahora - Lluvias extremas en Chile |  Cobertura nacional del sistema frontal",
+     "titulo": "🔴 EN VIVO | Meganoticias Amanece - Fuerte temporal genera estragos en Coquimbo y Atacama",
      "canal": "Meganoticias",
      "publicado": "2026-07-19T10:14:01Z",
      "live": true,
-     "score": 7.98,
+     "score": 7.94,
      "verificado": false,
      "embeddable": true
     }
    ]
   },
-  "la serena": {
-   "comuna": "La Serena",
+  "coquimbo": {
+   "comuna": "Coquimbo",
    "region": "Coquimbo",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "_4Jbhyl2d1s",
-     "url": "https://www.youtube.com/watch?v=_4Jbhyl2d1s",
-     "titulo": "EN VIVO 📡 Alarma meteorológica por temporal en Chile 🔴COBERTURA NACIONAL",
-     "canal": "MEGA Oficial",
-     "publicado": "2026-07-19T19:52:36Z",
-     "live": true,
-     "score": 5.78,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "TJV-2zstoUQ",
      "url": "https://www.youtube.com/watch?v=TJV-2zstoUQ",
-     "titulo": "🔴 EN VIVO | Meganoticias Ahora - Lluvias extremas en Chile |  Cobertura nacional del sistema frontal",
+     "titulo": "🔴 EN VIVO | Meganoticias Amanece - Fuerte temporal genera estragos en Coquimbo y Atacama",
      "canal": "Meganoticias",
      "publicado": "2026-07-19T10:14:01Z",
      "live": true,
-     "score": 4.98,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "AkqGOcpDvZU",
-     "url": "https://www.youtube.com/watch?v=AkqGOcpDvZU",
-     "titulo": "LIVE: Middle East real-time cameras from Iran, Israel, Qatar and more",
-     "canal": "Intel Cams | OSINT",
-     "publicado": "2026-07-18T20:07:39Z",
-     "live": true,
-     "score": 4.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "E15kgiiM70Y",
-     "url": "https://www.youtube.com/watch?v=E15kgiiM70Y",
-     "titulo": "Viña del Mar EN VIVO 🇨🇱 Cámara urbana | Chile Live Webcam",
-     "canal": "Viña CAM",
-     "publicado": "2026-07-20T03:31:49Z",
-     "live": true,
-     "score": 2.42,
-     "verificado": false,
-     "embeddable": false
-    },
-    {
-     "id": "r3s8ZFcyDKw",
-     "url": "https://www.youtube.com/watch?v=r3s8ZFcyDKw",
-     "titulo": "EN VIVO/ PUNTA ARENAS / COSTANERA DEL ESTRECHO",
-     "canal": "STS SpA",
-     "publicado": "2026-07-19T00:39:02Z",
-     "live": true,
-     "score": 0.18,
+     "score": 7.94,
      "verificado": false,
      "embeddable": true
     }
@@ -190,7 +51,7 @@
      "canal": "MEGA Oficial",
      "publicado": "2026-07-20T03:17:34Z",
      "live": false,
-     "score": 9.4,
+     "score": 9.37,
      "verificado": false,
      "embeddable": true
     },
@@ -201,7 +62,7 @@
      "canal": "Teletrece",
      "publicado": "2026-07-19T00:47:54Z",
      "live": false,
-     "score": 7.19,
+     "score": 7.16,
      "verificado": false,
      "embeddable": true
     },
@@ -230,7 +91,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-07-20T01:53:54Z",
      "live": false,
-     "score": 5.29,
+     "score": 5.25,
      "verificado": false,
      "embeddable": true
     },
@@ -241,100 +102,9 @@
      "canal": "Meganoticias",
      "publicado": "2026-07-19T20:54:55Z",
      "live": false,
-     "score": 4.87,
+     "score": 4.83,
      "verificado": false,
      "embeddable": true
-    }
-   ]
-  },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "FOvCI8PH5QA",
-     "url": "https://www.youtube.com/watch?v=FOvCI8PH5QA",
-     "titulo": "#chile #coquimbo #limarí #lluvia #rescate #inundaciones #desborde #latinoamerica #elnino2026",
-     "canal": "TrendNet",
-     "publicado": "2026-07-19T16:36:58Z",
-     "live": false,
-     "score": 4.51,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "B2O8uRMC8FE",
-     "url": "https://www.youtube.com/watch?v=B2O8uRMC8FE",
-     "titulo": "Dramáticos videos muestran desborde de ríos y quebradas en región de Coquimbo",
-     "canal": "ADN Chile",
-     "publicado": "2026-07-18T22:46:40Z",
-     "live": false,
-     "score": 3.03,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "valparaiso": {
-   "comuna": "Valparaíso",
-   "region": "Valparaíso",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "IdNM1mDdKOY",
-     "url": "https://www.youtube.com/watch?v=IdNM1mDdKOY",
-     "titulo": "Marejadas UV || Playa Las Torpederas || Valparaíso || chile en vivo",
-     "canal": "Marejadas UV",
-     "publicado": "2026-07-19T02:41:23Z",
-     "live": true,
-     "score": 7.35,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "q-wnYej3iq0",
-     "url": "https://www.youtube.com/watch?v=q-wnYej3iq0",
-     "titulo": "Señal de TV de Puranoticia.cl 24 horas de noticias",
-     "canal": "Puranoticia,cl",
-     "publicado": "2026-07-18T20:39:14Z",
-     "live": true,
-     "score": 4.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "ABDECR26TmU",
-     "url": "https://www.youtube.com/watch?v=ABDECR26TmU",
-     "titulo": "🏖️🅰🅾🆅🅸🆅🅾🏖️South America Webcam Tour🇧🇷🇦🇷🇨🇱🇨🇴🇵🇪🇺🇾🇵🇾Beaches, Cities, Travel, Weather &amp; Maps📍🌡️LO-FI",
-     "canal": "Cam Nomad",
-     "publicado": "2026-07-18T14:22:56Z",
-     "live": true,
-     "score": 4.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "54ewGgwXvW4",
-     "url": "https://www.youtube.com/watch?v=54ewGgwXvW4",
-     "titulo": "Alerta Roja en Valparaíso por amenaza de desbordes tras intensas lluvias por sistema frontal",
-     "canal": "Bio Bio",
-     "publicado": "2026-07-18T14:30:10Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "E15kgiiM70Y",
-     "url": "https://www.youtube.com/watch?v=E15kgiiM70Y",
-     "titulo": "Viña del Mar EN VIVO 🇨🇱 Cámara urbana | Chile Live Webcam",
-     "canal": "Viña CAM",
-     "publicado": "2026-07-20T03:31:49Z",
-     "live": true,
-     "score": 2.42,
-     "verificado": false,
-     "embeddable": false
     }
    ]
   },
@@ -350,7 +120,7 @@
      "canal": "Agricultura TV",
      "publicado": "2026-07-19T18:35:16Z",
      "live": false,
-     "score": 12.68,
+     "score": 12.64,
      "verificado": false,
      "embeddable": true
     },
@@ -372,7 +142,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-07-19T17:43:53Z",
      "live": false,
-     "score": 4.61,
+     "score": 4.57,
      "verificado": false,
      "embeddable": true
     },
@@ -383,7 +153,7 @@
      "canal": "El Dato Vivo News",
      "publicado": "2026-07-18T23:12:52Z",
      "live": false,
-     "score": 3.06,
+     "score": 3.03,
      "verificado": false,
      "embeddable": true
     },
