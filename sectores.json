@@ -1,7 +1,18 @@
 {
- "generado": "2026-07-20T15:31:59+00:00",
+ "generado": "2026-07-20T20:47:47+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
+  {
+   "nombre": "río Chalinga",
+   "lat": -31.71216,
+   "lon": -70.80609,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Salamanca",
+   "url": "https://t.me/SenapredChile/1396",
+   "ts": "2026-07-20T17:32"
+  },
   {
    "nombre": "río Huasco",
    "lat": -28.55575,
@@ -122,17 +133,6 @@
    "lugar": "Valparaíso",
    "url": "https://t.me/SenapredChile/1316",
    "ts": "2026-07-18T03:24"
-  },
-  {
-   "nombre": "puente Las Brisas",
-   "lat": -35.62151,
-   "lon": -71.76708,
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "sae": false,
-   "lugar": "Maule",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-linares-villa-alegre-y-san-javier-por-crecida-2026-07-17-15-07-31",
-   "ts": "2026-07-17T23:15"
   }
  ]
 }
