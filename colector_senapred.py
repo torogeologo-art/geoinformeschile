@@ -400,6 +400,27 @@ def main():
         todas[a["id"]] = a
     alertas = sorted(todas.values(), key=lambda x: x["ts"], reverse=True)
 
+    # Deduplicación entre fuentes: si dos registros describen el mismo hecho
+    # (mismo nivel, mismo lugar, mismo día), queda uno. Manda la fuente web
+    # (estado oficial + link al boletín); el sello SAE se hereda del gemelo.
+    PRIORIDAD = {"senapred_web": 2, "telegram": 1, "senapred_arcgis": 0}
+    canon, orden = {}, []
+    for a in alertas:
+        k = (a["nivel"], slug(a["region"]),
+             ",".join(sorted(slug(c) for c in a["comunas"])), str(a["ts"])[:10])
+        b = canon.get(k)
+        if b is None:
+            canon[k] = a
+            orden.append(k)
+        elif PRIORIDAD.get(a["origen"], 0) > PRIORIDAD.get(b["origen"], 0):
+            if b.get("sae"):
+                a["sae"] = True
+            canon[k] = a
+        elif a.get("sae"):
+            b["sae"] = True
+    duplicados = len(alertas) - len(orden)
+    alertas = [canon[k] for k in orden]
+
     expiradas = 0
     for a in alertas:
         if a["origen"] in ("telegram", "senapred_web") and a["estado"] == "VIGENTE":
@@ -432,7 +453,8 @@ def main():
                 f.write(json.dumps({**a, "registrado": ahora()}, ensure_ascii=False) + "\n")
                 nuevos += 1
 
-    print(f"OK {ahora()} | vigentes={len(vigentes)} expiradas={expiradas} total={len(alertas)} "
+    print(f"OK {ahora()} | vigentes={len(vigentes)} expiradas={expiradas} "
+          f"duplicados_fusionados={duplicados} total={len(alertas)} "
           f"nuevos_hist={nuevos} | web={est_web} arcgis={est_arcgis} telegram={est_tg}")
     return 0
 
