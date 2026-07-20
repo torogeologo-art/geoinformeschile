@@ -67,6 +67,24 @@
        color:var(--tinta-suave)}
   .tipos b{color:var(--tinta)}
 
+  .tipos span.activo{color:var(--tinta);border-color:var(--tinta-suave);cursor:pointer}
+  .tipos span{cursor:pointer}
+  .zona{display:flex;gap:10px;align-items:center;flex-wrap:wrap;
+        border:1px solid var(--linea);border-radius:6px;padding:7px 10px;margin:0 0 6px;
+        background:var(--panel-2);font-size:13px}
+  .zona .quien{font-weight:600;min-width:160px}
+  .zona .cuando{font-family:var(--mono);font-size:11px;color:var(--tinta-suave)}
+  .zona a{margin-left:auto;font-family:var(--mono);font-size:11.5px;color:var(--tinta-suave)}
+  .zona a:hover{color:var(--tinta)}
+  #detalle-tipo{margin-top:10px}
+
+  .reg-chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .reg{font-family:var(--mono);font-size:11px;letter-spacing:.04em;cursor:pointer;
+       border:1px solid var(--linea);border-radius:999px;padding:3px 10px;color:var(--tinta-suave)}
+  .reg.roja{border-color:var(--roja);color:var(--roja)}
+  .reg.sel{background:var(--panel);color:var(--tinta);border-color:var(--tinta-suave)}
+  .fuente-clima{font-size:11px;color:var(--tinta-suave);margin-top:6px}
+
   footer{border-top:1px solid var(--linea);margin-top:30px;padding-top:14px;
          font-size:12px;color:var(--tinta-suave)}
   footer b{color:var(--tinta)}
@@ -136,6 +154,78 @@ function svgSerie(serie){
   return out + "</svg>";
 }
 
+// Punto representativo por región (capital) para el clima horario nacional.
+const CAPITALES = {
+  "Arica y Parinacota":["Arica",-18.48,-70.31], "Tarapacá":["Iquique",-20.21,-70.15],
+  "Antofagasta":["Antofagasta",-23.65,-70.40], "Atacama":["Copiapó",-27.37,-70.33],
+  "Coquimbo":["La Serena",-29.90,-71.25], "Valparaíso":["Valparaíso",-33.05,-71.62],
+  "Metropolitana de Santiago":["Santiago",-33.45,-70.66],
+  "Libertador General Bernardo O'Higgins":["Rancagua",-34.17,-70.74],
+  "Maule":["Talca",-35.43,-71.65], "Ñuble":["Chillán",-36.61,-72.10],
+  "Biobío":["Concepción",-36.83,-73.05], "La Araucanía":["Temuco",-38.74,-72.59],
+  "Los Ríos":["Valdivia",-39.81,-73.25], "Los Lagos":["Puerto Montt",-41.47,-72.94],
+  "Aysén del General Carlos Ibáñez del Campo":["Coyhaique",-45.57,-72.07],
+  "Magallanes y de la Antártica Chilena":["Punta Arenas",-53.16,-70.91],
+};
+const REG_CORTA = r => r.includes("Metropolitana") ? "RM" :
+  r.includes("Higgins") ? "O'Higgins" : r.includes("Aysén") ? "Aysén" :
+  r.includes("Magallanes") ? "Magallanes" : r.includes("Araucanía") ? "Araucanía" : r;
+
+function svgClima(horas, lluvia, viento, iAhora){
+  const W = 800, H = 230, m = {t:14, b:36, l:36, r:40};
+  const maxP = Math.max(1, ...lluvia), maxV = Math.max(10, ...viento);
+  const xw = (W - m.l - m.r) / horas.length;
+  const yP = v => (H - m.b) - v * (H - m.t - m.b) / maxP;
+  const yV = v => (H - m.b) - v * (H - m.t - m.b) / maxV;
+  let out = `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lluvia y viento por hora">`;
+  for (const f of [0, .5, 1]){
+    const gy = (H - m.b) - f * (H - m.t - m.b);
+    out += `<line x1="${m.l}" x2="${W-m.r}" y1="${gy}" y2="${gy}" stroke="var(--linea)"/>`
+        + `<text x="${m.l-5}" y="${gy+4}" text-anchor="end" font-size="9.5" fill="var(--tinta-suave)" font-family="monospace">${(maxP*f).toFixed(1)}</text>`
+        + `<text x="${W-m.r+5}" y="${gy+4}" font-size="9.5" fill="var(--tinta-suave)" font-family="monospace">${Math.round(maxV*f)}</text>`;
+  }
+  out += `<text x="${m.l}" y="10" font-size="9.5" fill="var(--tinta-suave)" font-family="monospace">mm/h</text>`
+      +  `<text x="${W-m.r+5}" y="10" font-size="9.5" fill="var(--tinta-suave)" font-family="monospace">km/h</text>`;
+  lluvia.forEach((v, i) => { if (v > 0){
+    const y1 = yP(v);
+    out += `<rect x="${m.l + i*xw}" y="${y1}" width="${Math.max(1, xw*0.85)}" height="${(H-m.b)-y1}" fill="var(--atp)" opacity=".85"><title>${horas[i].replace("T"," ")}: ${v} mm</title></rect>`; }});
+  out += `<polyline fill="none" stroke="var(--amarilla)" stroke-width="2" points="`
+      + viento.map((v, i) => `${(m.l + i*xw + xw/2).toFixed(1)},${yV(v).toFixed(1)}`).join(" ") + `"/>`;
+  if (iAhora >= 0){
+    const xa = m.l + iAhora*xw;
+    out += `<line x1="${xa}" x2="${xa}" y1="${m.t}" y2="${H-m.b}" stroke="var(--roja)" stroke-dasharray="4 3"/>`
+        +  `<text x="${xa+4}" y="${m.t+9}" font-size="9.5" fill="var(--roja)" font-family="monospace">ahora</text>`;
+  }
+  horas.forEach((h, i) => { if (i % 6 === 0)
+    out += `<text x="${m.l + i*xw}" y="${H-m.b+14}" font-size="9" fill="var(--tinta-suave)" font-family="monospace">${h.slice(8,10)}·${h.slice(11,13)}h</text>`; });
+  return out + "</svg>";
+}
+
+const climaCache = {};
+async function pintarClima(region){
+  const g = $("g-clima");
+  document.querySelectorAll(".reg").forEach(c => c.classList.toggle("sel", c.dataset.r === region));
+  g.innerHTML = `<div class="cargando">Consultando el modelo meteorológico…</div>`;
+  try{
+    if (!climaCache[region]){
+      const [ciudad, lat, lon] = CAPITALES[region];
+      const r = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}`
+        + `&hourly=precipitation,wind_speed_10m&past_days=2&forecast_days=1&timezone=America%2FSantiago`);
+      if (!r.ok) throw 0;
+      climaCache[region] = {ciudad, datos: (await r.json()).hourly};
+    }
+    const {ciudad, datos} = climaCache[region];
+    const ahoraISO = new Date().toISOString().slice(0, 13);
+    const iAhora = datos.time.findIndex(t => t.slice(0, 13) >= ahoraISO);
+    g.innerHTML = svgClima(datos.time, datos.precipitation, datos.wind_speed_10m, iAhora)
+      + `<div class="fuente-clima">Punto de referencia: ${esc(ciudad)}. Barras verdes: lluvia (mm por hora, eje izquierdo).
+         Línea amarilla: viento (km/h, eje derecho). Últimas 48 h y próximas 24.
+         Datos del modelo Open-Meteo — referenciales, no son mediciones oficiales de la DMC.</div>`;
+  }catch{
+    g.innerHTML = `<div class="cargando">No se pudo consultar el clima ahora; reintenta en un momento.</div>`;
+  }
+}
+
 function render(d){
   const t = d.totales, v = d.vigentes;
   $("nota").textContent = d.nota + "  Generado: " + new Date(d.generado).toLocaleString("es-CL") + ".";
@@ -173,8 +263,15 @@ function render(d){
       </div>`).join("")
       : `<p style="font-size:13.5px;color:var(--tinta-suave)">Sin escalamientos detectados en el período.</p>`}
 
-    <h2>Tipos de evento en el período</h2>
-    <div class="tipos">${t.por_tipo.map(([k, n]) => `<span><b>${n}</b> ${esc(k)}</span>`).join("")}</div>
+    <h2>Lluvia y viento por hora — territorio nacional</h2>
+    <div class="reg-chips">${Object.keys(CAPITALES).map(r =>
+      `<span class="reg ${v.regiones_roja.includes(r) ? "roja" : ""}" data-r="${esc(r)}">${esc(REG_CORTA(r))}</span>`).join("")}</div>
+    <div class="grafico" id="g-clima"></div>
+
+    <h2>Tipos de evento en el período <span style="text-transform:none;letter-spacing:0">· toca uno para ver sus zonas</span></h2>
+    <div class="tipos" id="tipos">${t.por_tipo.map(([k, n]) =>
+      `<span data-tipo="${esc(k)}"><b>${n}</b> ${esc(k)}</span>`).join("")}</div>
+    <div id="detalle-tipo"></div>
 
     <h2>Cronología reciente</h2>
     <div class="crono">${d.cronologia.map(c => `
@@ -187,9 +284,34 @@ function render(d){
     </div>`;
 }
 
+function activar(d){
+  render(d);
+  // clima: parte con la primera región en Roja, o Coquimbo
+  const inicial = (d.vigentes.regiones_roja || []).find(r => CAPITALES[r]) || "Coquimbo";
+  pintarClima(inicial);
+  $("tipos").addEventListener("click", e => {
+    const ch = e.target.closest("span[data-tipo]"); if (!ch) return;
+    document.querySelectorAll("#tipos span").forEach(x => x.classList.toggle("activo", x === ch));
+    const zonas = (d.tipos_detalle || {})[ch.dataset.tipo] || [];
+    $("detalle-tipo").innerHTML = zonas.length ? zonas.map(z => `
+      <div class="zona">
+        <span class="nvl ${z.nivel}">${NVL(z.nivel)}</span>
+        <span class="quien">${esc(z.lugar)}</span>
+        ${z.sae ? '<span class="sae">SAE</span>' : ""}
+        <span class="cuando">${esc(z.ts)} · ${esc(z.region)}</span>
+        <a href="./${z.comuna_link ? "?zona=" + encodeURIComponent(z.comuna_link)
+                                   : "?region=" + encodeURIComponent(z.region_link)}">Ver en el mapa ↗</a>
+      </div>`).join("")
+      : `<div class="cargando">Sin zonas registradas para este tipo.</div>`;
+  });
+  document.querySelector(".reg-chips").addEventListener("click", e => {
+    const ch = e.target.closest(".reg"); if (ch) pintarClima(ch.dataset.r);
+  });
+}
+
 fetch("informe.json?t=" + Date.now())
   .then(r => { if (!r.ok) throw 0; return r.json(); })
-  .then(render)
+  .then(activar)
   .catch(() => { $("cuerpo").textContent =
     "Aún no hay informe generado: el robot lo crea en su próxima corrida (cada 15 minutos)."; });
 </script>

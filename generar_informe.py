@@ -30,7 +30,7 @@ ALERTS = DIR / "alerts.json"
 SALIDA = DIR / "informe.json"
 
 EVENTO_NOMBRE = os.environ.get(
-    "EVENTO_NOMBRE", "Sistema frontal julio 2026 — regiones de Atacama a La Araucanía")
+    "EVENTO_NOMBRE", "Sistema frontal — evento meteorológico en monitoreo")
 DIAS_DEFECTO = 10
 PESO = {"ATP": 1, "AMARILLA": 2, "ROJA": 3}
 
@@ -145,6 +145,27 @@ def main():
             })
     escalamientos.sort(key=lambda e: (-PESO[e["max"]], -len(e["pasos"])))
 
+    # ---- desglose de zonas por tipo (para los chips clickeables) -------------
+    tipos_detalle = {}
+    for a in regs:
+        t = a.get("tipo", "otro")
+        lk = (slug(a.get("region")),
+              ",".join(sorted(slug(c) for c in a.get("comunas", []))))
+        z = tipos_detalle.setdefault(t, {}).get(lk)
+        if z is None or PESO[a["nivel"]] > PESO[z["nivel"]]:
+            tipos_detalle[t][lk] = {
+                "lugar": lugar_de(a), "region": a.get("region", ""),
+                "nivel": a["nivel"],
+                "sae": bool(a.get("sae")) or bool(z and z["sae"]),
+                "ts": a["_t"].strftime("%d-%m"),
+                "comuna_link": slug(a["comunas"][0]) if a.get("comunas") else "",
+                "region_link": slug(a.get("region", "")),
+            }
+        elif a.get("sae"):
+            z["sae"] = True
+    tipos_detalle = {t: sorted(v.values(), key=lambda x: -PESO[x["nivel"]])[:20]
+                     for t, v in tipos_detalle.items()}
+
     # ---- cronología reciente -------------------------------------------------
     cronologia = [{
         "ts": a["_t"].strftime("%d-%m %H:%M"),
@@ -179,6 +200,8 @@ def main():
                     "comunas": len(comunas), "regiones": len(regiones),
                     "por_nivel": dict(por_nivel),
                     "por_tipo": por_tipo.most_common(8)},
+        "tipos_detalle": {t: tipos_detalle.get(t, [])
+                          for t, _ in por_tipo.most_common(8)},
         "vigentes": vigentes,
         "serie": serie,
         "escalamientos": escalamientos[:12],

@@ -371,6 +371,28 @@ async function iniciar(){
     $("aviso").style.display = "block";
   }
   await cargarDatos();
+  irAZona();
+}
+
+function irAZona(){
+  // Visitas dirigidas desde el GeoInforme: ./?zona=<comuna> o ./?region=<region>
+  const q = new URLSearchParams(location.search);
+  const z = slug(q.get("zona") || ""), rg = slug(q.get("region") || "");
+  if (!capaComunas || (!z && !rg)) return;
+  let objetivo = null; const grupo = [];
+  capaComunas.eachLayer(l => {
+    const f = l.feature;
+    if (z && slug(prop(f.properties, CFG.propComuna)) === z) objetivo = l;
+    if (rg && slug(prop(f.properties, CFG.propRegion)) === rg) grupo.push(l);
+  });
+  if (objetivo){
+    map.fitBounds(objetivo.getBounds().pad(0.8));
+    abrirPanel(objetivo.feature);
+  } else if (grupo.length){
+    let b = grupo[0].getBounds();
+    grupo.forEach(l => b.extend(l.getBounds()));
+    map.fitBounds(b.pad(0.05));
+  }
 }
 
 /* ======================= PULSO: cuenta regresiva =========================== */
