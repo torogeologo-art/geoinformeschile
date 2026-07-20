@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-20T08:41:42+00:00",
- "desde": "2026-07-18T08:41:33Z",
+ "generado": "2026-07-20T09:56:23+00:00",
+ "desde": "2026-07-18T09:56:14Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -15,8 +15,9 @@
      "canal": "Meganoticias",
      "publicado": "2026-07-20T01:53:37Z",
      "live": false,
-     "score": 2.43,
-     "verificado": false
+     "score": 2.33,
+     "verificado": false,
+     "embeddable": true
     }
    ]
   },
@@ -32,8 +33,9 @@
      "canal": "kike informando ",
      "publicado": "2026-07-20T02:52:06Z",
      "live": false,
-     "score": 5.51,
-     "verificado": false
+     "score": 5.41,
+     "verificado": false,
+     "embeddable": true
     }
    ]
   },
@@ -49,8 +51,9 @@
      "canal": "Viña CAM",
      "publicado": "2026-07-20T03:31:49Z",
      "live": true,
-     "score": 9.57,
-     "verificado": false
+     "score": 9.47,
+     "verificado": false,
+     "embeddable": false
     },
     {
      "id": "MxCGRub9jYU",
@@ -59,8 +62,9 @@
      "canal": "Galería CIMA",
      "publicado": "2026-07-20T01:13:44Z",
      "live": true,
-     "score": 9.38,
-     "verificado": false
+     "score": 9.27,
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "WUEsaM8xkiY",
@@ -69,8 +73,9 @@
      "canal": "TNT Sports Chile",
      "publicado": "2026-07-20T00:12:10Z",
      "live": true,
-     "score": 9.29,
-     "verificado": false
+     "score": 9.19,
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "50n6z0PmovU",
@@ -79,8 +84,9 @@
      "canal": "Ledrium",
      "publicado": "2026-07-19T23:45:57Z",
      "live": true,
-     "score": 9.26,
-     "verificado": false
+     "score": 9.15,
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "yx3ovka2Yjc",
@@ -89,8 +95,9 @@
      "canal": "Chilevisión",
      "publicado": "2026-07-19T23:23:09Z",
      "live": true,
-     "score": 9.22,
-     "verificado": false
+     "score": 9.12,
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "ETVC19vxVfg",
@@ -99,8 +106,9 @@
      "canal": "CHV Noticias",
      "publicado": "2026-07-19T17:24:30Z",
      "live": true,
-     "score": 8.73,
-     "verificado": false
+     "score": 8.62,
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "dBMjuyLYzvw",
@@ -109,8 +117,9 @@
      "canal": "Radio Infinita ",
      "publicado": "2026-07-19T10:26:17Z",
      "live": true,
-     "score": 8.15,
-     "verificado": false
+     "score": 8.04,
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "TJV-2zstoUQ",
@@ -119,8 +128,9 @@
      "canal": "Meganoticias",
      "publicado": "2026-07-19T10:14:01Z",
      "live": true,
-     "score": 8.13,
-     "verificado": false
+     "score": 8.02,
+     "verificado": false,
+     "embeddable": true
     }
    ]
   },
@@ -130,24 +140,15 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "E15kgiiM70Y",
-     "url": "https://www.youtube.com/watch?v=E15kgiiM70Y",
-     "titulo": "Viña del Mar EN VIVO 🇨🇱 Cámara urbana | Chile Live Webcam",
-     "canal": "Viña CAM",
-     "publicado": "2026-07-20T03:31:49Z",
-     "live": true,
-     "score": 6.57,
-     "verificado": false
-    },
-    {
      "id": "_4Jbhyl2d1s",
      "url": "https://www.youtube.com/watch?v=_4Jbhyl2d1s",
      "titulo": "EN VIVO 📡 Alarma meteorológica por temporal en Chile 🔴COBERTURA NACIONAL",
      "canal": "MEGA Oficial",
      "publicado": "2026-07-19T19:52:36Z",
      "live": true,
-     "score": 5.93,
-     "verificado": false
+     "score": 5.83,
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "c_AsnnLQmIQ",
@@ -156,8 +157,9 @@
      "canal": "MI RADIO TV",
      "publicado": "2026-07-20T02:54:32Z",
      "live": false,
-     "score": 5.52,
-     "verificado": false
+     "score": 5.41,
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "TJV-2zstoUQ",
@@ -166,18 +168,9 @@
      "canal": "Meganoticias",
      "publicado": "2026-07-19T10:14:01Z",
      "live": true,
-     "score": 5.13,
-     "verificado": false
-    },
-    {
-     "id": "r3s8ZFcyDKw",
-     "url": "https://www.youtube.com/watch?v=r3s8ZFcyDKw",
-     "titulo": "EN VIVO/ PUNTA ARENAS / COSTANERA DEL ESTRECHO",
-     "canal": "STS SpA",
-     "publicado": "2026-07-19T00:39:02Z",
-     "live": true,
-     "score": 4.33,
-     "verificado": false
+     "score": 5.02,
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "AkqGOcpDvZU",
@@ -187,7 +180,8 @@
      "publicado": "2026-07-18T20:07:39Z",
      "live": true,
      "score": 4.0,
-     "verificado": false
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "Cy6xe03d2Ik",
@@ -196,8 +190,31 @@
      "canal": "BrahianVlogs",
      "publicado": "2026-07-19T00:47:55Z",
      "live": false,
-     "score": 3.34,
-     "verificado": false
+     "score": 3.24,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "E15kgiiM70Y",
+     "url": "https://www.youtube.com/watch?v=E15kgiiM70Y",
+     "titulo": "Viña del Mar EN VIVO 🇨🇱 Cámara urbana | Chile Live Webcam",
+     "canal": "Viña CAM",
+     "publicado": "2026-07-20T03:31:49Z",
+     "live": true,
+     "score": 2.47,
+     "verificado": false,
+     "embeddable": false
+    },
+    {
+     "id": "r3s8ZFcyDKw",
+     "url": "https://www.youtube.com/watch?v=r3s8ZFcyDKw",
+     "titulo": "EN VIVO/ PUNTA ARENAS / COSTANERA DEL ESTRECHO",
+     "canal": "STS SpA",
+     "publicado": "2026-07-19T00:39:02Z",
+     "live": true,
+     "score": 0.23,
+     "verificado": false,
+     "embeddable": true
     }
    ]
   },
@@ -213,8 +230,9 @@
      "canal": "MEGA Oficial",
      "publicado": "2026-07-20T03:17:34Z",
      "live": false,
-     "score": 9.55,
-     "verificado": false
+     "score": 9.45,
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "pAggAkhT_lk",
@@ -223,8 +241,9 @@
      "canal": "Teletrece",
      "publicado": "2026-07-19T00:47:54Z",
      "live": false,
-     "score": 7.34,
-     "verificado": false
+     "score": 7.24,
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "Liv-ALABoMA",
@@ -233,8 +252,9 @@
      "canal": "Meganoticias",
      "publicado": "2026-07-18T21:30:41Z",
      "live": false,
-     "score": 7.07,
-     "verificado": false
+     "score": 7.0,
+     "verificado": false,
+     "embeddable": true
     }
    ]
   },
@@ -250,8 +270,9 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-07-20T01:53:54Z",
      "live": false,
-     "score": 5.43,
-     "verificado": false
+     "score": 5.33,
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "biJQJgtABRM",
@@ -260,119 +281,9 @@
      "canal": "Meganoticias",
      "publicado": "2026-07-19T20:54:55Z",
      "live": false,
-     "score": 5.02,
-     "verificado": false
-    }
-   ]
-  },
-  "ovalle": {
-   "comuna": "Ovalle",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "-b6rtjNI6Os",
-     "url": "https://www.youtube.com/watch?v=-b6rtjNI6Os",
-     "titulo": "📻 #Ultimominuto | Alerta SAE por desborde del río Limarí,  en la comuna de Ovalle",
-     "canal": "Agricultura TV",
-     "publicado": "2026-07-19T18:35:16Z",
-     "live": false,
-     "score": 12.82,
-     "verificado": false
-    },
-    {
-     "id": "HUkPbergQl8",
-     "url": "https://www.youtube.com/watch?v=HUkPbergQl8",
-     "titulo": "Alerta Senapred por desborde de quebrada en Ovalle",
-     "canal": "Meganoticias",
-     "publicado": "2026-07-18T22:20:27Z",
-     "live": false,
-     "score": 11.14,
-     "verificado": false
-    },
-    {
-     "id": "ETVC19vxVfg",
-     "url": "https://www.youtube.com/watch?v=ETVC19vxVfg",
-     "titulo": "🔴 EN VIVO | CHV Noticias 24/7: Señal Internacional - Online",
-     "canal": "CHV Noticias",
-     "publicado": "2026-07-19T17:24:30Z",
-     "live": true,
-     "score": 5.73,
-     "verificado": false
-    },
-    {
-     "id": "TJV-2zstoUQ",
-     "url": "https://www.youtube.com/watch?v=TJV-2zstoUQ",
-     "titulo": "🔴 EN VIVO | Meganoticias Ahora - Lluvias extremas en Chile |  Cobertura nacional del sistema frontal",
-     "canal": "Meganoticias",
-     "publicado": "2026-07-19T10:14:01Z",
-     "live": true,
-     "score": 5.13,
-     "verificado": false
-    },
-    {
-     "id": "MXgv6ydsiyg",
-     "url": "https://www.youtube.com/watch?v=MXgv6ydsiyg",
-     "titulo": "Minutos de terror: crecida de río arrastró un auto con ocupantes en Ovalle",
-     "canal": "Meganoticias",
-     "publicado": "2026-07-19T17:43:53Z",
-     "live": false,
-     "score": 4.75,
-     "verificado": false
-    },
-    {
-     "id": "X9UC1MTEPvs",
-     "url": "https://www.youtube.com/watch?v=X9UC1MTEPvs",
-     "titulo": "Caos en Ovalle: desborde del estero deja rutas cortadas, viviendas inundadas y familias aisladas",
-     "canal": "El Dato Vivo News",
-     "publicado": "2026-07-18T23:12:52Z",
-     "live": false,
-     "score": 3.21,
-     "verificado": false
-    },
-    {
-     "id": "iEpJLCyA6gs",
-     "url": "https://www.youtube.com/watch?v=iEpJLCyA6gs",
-     "titulo": "Situación en el norte: Desborde de estero provoca corte de rutas en Ovalle",
-     "canal": "Meganoticias",
-     "publicado": "2026-07-18T21:07:00Z",
-     "live": false,
-     "score": 3.04,
-     "verificado": false
-    }
-   ]
-  },
-  "vallenar": {
-   "comuna": "Vallenar",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "1OnyOxM1jHc",
-     "url": "https://www.youtube.com/watch?v=1OnyOxM1jHc",
-     "titulo": "Activación de quebradas en Atacama: Alerta por intensas lluvias en el norte",
-     "canal": "Meganoticias",
-     "publicado": "2026-07-19T01:56:35Z",
-     "live": false,
-     "score": 0.44,
-     "verificado": false
-    }
-   ]
-  },
-  "alto del carmen": {
-   "comuna": "Alto del Carmen",
-   "region": "de",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "pAggAkhT_lk",
-     "url": "https://www.youtube.com/watch?v=pAggAkhT_lk",
-     "titulo": "Alerta por desborde de río Huasco",
-     "canal": "Teletrece",
-     "publicado": "2026-07-19T00:47:54Z",
-     "live": false,
-     "score": 4.34,
-     "verificado": false
+     "score": 4.91,
+     "verificado": false,
+     "embeddable": true
     }
    ]
   },
@@ -388,18 +299,9 @@
      "canal": "Marejadas UV",
      "publicado": "2026-07-19T02:41:23Z",
      "live": true,
-     "score": 7.5,
-     "verificado": false
-    },
-    {
-     "id": "E15kgiiM70Y",
-     "url": "https://www.youtube.com/watch?v=E15kgiiM70Y",
-     "titulo": "Viña del Mar EN VIVO 🇨🇱 Cámara urbana | Chile Live Webcam",
-     "canal": "Viña CAM",
-     "publicado": "2026-07-20T03:31:49Z",
-     "live": true,
-     "score": 6.57,
-     "verificado": false
+     "score": 7.4,
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "q-wnYej3iq0",
@@ -409,7 +311,8 @@
      "publicado": "2026-07-18T20:39:14Z",
      "live": true,
      "score": 4.0,
-     "verificado": false
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "ABDECR26TmU",
@@ -419,7 +322,8 @@
      "publicado": "2026-07-18T14:22:56Z",
      "live": true,
      "score": 4.0,
-     "verificado": false
+     "verificado": false,
+     "embeddable": true
     },
     {
      "id": "54ewGgwXvW4",
@@ -429,17 +333,139 @@
      "publicado": "2026-07-18T14:30:10Z",
      "live": false,
      "score": 3.0,
-     "verificado": false
+     "verificado": false,
+     "embeddable": true
     },
     {
-     "id": "O1_n4gBiTs0",
-     "url": "https://www.youtube.com/watch?v=O1_n4gBiTs0",
-     "titulo": "Alerta Roja por desborde del río Aconcagua en cuatro comunas de Valparaíso",
+     "id": "E15kgiiM70Y",
+     "url": "https://www.youtube.com/watch?v=E15kgiiM70Y",
+     "titulo": "Viña del Mar EN VIVO 🇨🇱 Cámara urbana | Chile Live Webcam",
+     "canal": "Viña CAM",
+     "publicado": "2026-07-20T03:31:49Z",
+     "live": true,
+     "score": 2.47,
+     "verificado": false,
+     "embeddable": false
+    }
+   ]
+  },
+  "ovalle": {
+   "comuna": "Ovalle",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "-b6rtjNI6Os",
+     "url": "https://www.youtube.com/watch?v=-b6rtjNI6Os",
+     "titulo": "📻 #Ultimominuto | Alerta SAE por desborde del río Limarí,  en la comuna de Ovalle",
+     "canal": "Agricultura TV",
+     "publicado": "2026-07-19T18:35:16Z",
+     "live": false,
+     "score": 12.72,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "HUkPbergQl8",
+     "url": "https://www.youtube.com/watch?v=HUkPbergQl8",
+     "titulo": "Alerta Senapred por desborde de quebrada en Ovalle",
      "canal": "Meganoticias",
-     "publicado": "2026-07-18T10:22:39Z",
+     "publicado": "2026-07-18T22:20:27Z",
+     "live": false,
+     "score": 11.03,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "ETVC19vxVfg",
+     "url": "https://www.youtube.com/watch?v=ETVC19vxVfg",
+     "titulo": "🔴 EN VIVO | CHV Noticias 24/7: Señal Internacional - Online",
+     "canal": "CHV Noticias",
+     "publicado": "2026-07-19T17:24:30Z",
+     "live": true,
+     "score": 5.62,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "TJV-2zstoUQ",
+     "url": "https://www.youtube.com/watch?v=TJV-2zstoUQ",
+     "titulo": "🔴 EN VIVO | Meganoticias Ahora - Lluvias extremas en Chile |  Cobertura nacional del sistema frontal",
+     "canal": "Meganoticias",
+     "publicado": "2026-07-19T10:14:01Z",
+     "live": true,
+     "score": 5.02,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "MXgv6ydsiyg",
+     "url": "https://www.youtube.com/watch?v=MXgv6ydsiyg",
+     "titulo": "Minutos de terror: crecida de río arrastró un auto con ocupantes en Ovalle",
+     "canal": "Meganoticias",
+     "publicado": "2026-07-19T17:43:53Z",
+     "live": false,
+     "score": 4.65,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "X9UC1MTEPvs",
+     "url": "https://www.youtube.com/watch?v=X9UC1MTEPvs",
+     "titulo": "Caos en Ovalle: desborde del estero deja rutas cortadas, viviendas inundadas y familias aisladas",
+     "canal": "El Dato Vivo News",
+     "publicado": "2026-07-18T23:12:52Z",
+     "live": false,
+     "score": 3.11,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "iEpJLCyA6gs",
+     "url": "https://www.youtube.com/watch?v=iEpJLCyA6gs",
+     "titulo": "Situación en el norte: Desborde de estero provoca corte de rutas en Ovalle",
+     "canal": "Meganoticias",
+     "publicado": "2026-07-18T21:07:00Z",
      "live": false,
      "score": 3.0,
-     "verificado": false
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "vallenar": {
+   "comuna": "Vallenar",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "1OnyOxM1jHc",
+     "url": "https://www.youtube.com/watch?v=1OnyOxM1jHc",
+     "titulo": "Activación de quebradas en Atacama: Alerta por intensas lluvias en el norte",
+     "canal": "Meganoticias",
+     "publicado": "2026-07-19T01:56:35Z",
+     "live": false,
+     "score": 0.33,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "alto del carmen": {
+   "comuna": "Alto del Carmen",
+   "region": "de",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "pAggAkhT_lk",
+     "url": "https://www.youtube.com/watch?v=pAggAkhT_lk",
+     "titulo": "Alerta por desborde de río Huasco",
+     "canal": "Teletrece",
+     "publicado": "2026-07-19T00:47:54Z",
+     "live": false,
+     "score": 0.24,
+     "verificado": false,
+     "embeddable": true
     }
    ]
   },
@@ -455,8 +481,9 @@
      "canal": "Viña CAM",
      "publicado": "2026-07-20T03:31:49Z",
      "live": true,
-     "score": 9.57,
-     "verificado": false
+     "score": 9.47,
+     "verificado": false,
+     "embeddable": false
     },
     {
      "id": "qZDwPfNEm-Q",
@@ -465,8 +492,9 @@
      "canal": "Marejadas UV",
      "publicado": "2026-07-19T02:42:23Z",
      "live": true,
-     "score": 7.5,
-     "verificado": false
+     "score": 7.4,
+     "verificado": false,
+     "embeddable": true
     }
    ]
   }
