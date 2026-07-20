@@ -1,26 +1,42 @@
 {
- "generado": "2026-07-20T15:31:52+00:00",
+ "generado": "2026-07-20T16:10:46+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 52,
+ "total_vigentes": 53,
  "alertas": [
   {
    "id": "b7384a4f2a71",
    "nivel": "ROJA",
    "tipo": "crecida de río",
    "titulo": "🔴 #SENAPREDInforma",
-   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN!\n Por alerta de crecida de canal Buceta, EVITA sector Tambo Oriente, en la comuna de Salamanca, Región de #Coquimbo.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por alerta de crecida de canal Colliguay, EVITA sectorColliguay, en la comuna de Salamanca, Región de #Coquimbo.#\nSENAPRED activó mensajería #SAE Preventiva. M\nantente informado a través de los canales oficiales. Ysigue las indicaciones de la autoridad y de los equipos de respuesta.",
    "region": "",
    "comunas": [
     "Salamanca"
    ],
    "estado": "VIGENTE",
-   "ts": "2026-07-20T15:28:05+00:00",
-   "url": "https://t.me/SenapredChile/1392",
+   "ts": "2026-07-20T16:00:04+00:00",
+   "url": "https://t.me/SenapredChile/1394",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "7c675c194a1b",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN! \nPor alerta de crecida de quebrada Montegrande, EVITA sector Montegrande, en la comuna de Paihuano, Región de #Coquimbo.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "",
+   "comunas": [
+    "Paihuano"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-07-20T15:32:56+00:00",
+   "url": "https://t.me/SenapredChile/1393",
    "origen": "telegram",
    "sae": true
   },
@@ -70,6 +86,20 @@
    "origen": "senapred_web",
    "regiones_extra": [],
    "sae": true
+  },
+  {
+   "id": "0c6dd40e5114",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , han sido cancelados los siguientes alertamientos meteorológicos para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Alerta AA95-1 Viento moderado a fuerte en valle y precordillera. Aviso A324-3 Viento normal a moderado en litoral y cordillera de la costa. Aviso A329 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en la región. Cabe señalar que, la región mantiene 21.526 clientes sin su",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-07-20T11:17:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-12-19-41-13",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "fa166207be78",
@@ -335,20 +365,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-19T18:18:30.3030-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-de-valparaiso-territorio-continental-por-evento-meteorologico-2026-07-14-18-04-30",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e839d94ff73a",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , han sido cancelados los siguientes alertamientos meteorológicos para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Inicio Fin Alerta AA95-1 Viento moderado a fuerte en valle y precordillera. 16-07 16-07 Aviso A324-3 Viento normal a moderado en litoral y cordillera de la costa. 16-07 16-07 Aviso A329 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en la región. 16-07 16-07 Por otra par",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-19T18:04:42.4242-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-12-19-41-13",
    "origen": "senapred_web",
    "regiones_extra": []
   },

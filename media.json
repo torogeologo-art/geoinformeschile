@@ -1,6 +1,47 @@
 {
- "generado": "2026-07-20T15:32:05+00:00",
- "desde": "2026-07-18T15:31:59Z",
+ "generado": "2026-07-20T16:10:53+00:00",
+ "desde": "2026-07-18T16:10:47Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "SU5wPHZmNT8",
+     "url": "https://www.youtube.com/watch?v=SU5wPHZmNT8",
+     "titulo": "EN VIVO | Estado de Catástrofe por lluvias en el norte: Evacuaciones SAE en Coquimbo y Atacama",
+     "canal": "Radio13c",
+     "publicado": "2026-07-20T14:32:43Z",
+     "live": true,
+     "score": 7.86,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "1iyKKhlt5ys",
+     "url": "https://www.youtube.com/watch?v=1iyKKhlt5ys",
+     "titulo": "Radio Pisco FM en vivo desde la región de Coquimbo",
+     "canal": "Radio Pisco FM",
+     "publicado": "2026-07-20T03:37:25Z",
+     "live": true,
+     "score": 6.95,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "6EljbBj4T7E",
+     "url": "https://www.youtube.com/watch?v=6EljbBj4T7E",
+     "titulo": "🔴 TEMPORAL EN VIVO | Región de Coquimbo: Lluvias, Rutas, Cortes de Luz y Emergencias",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-07-19T20:14:03Z",
+     "live": true,
+     "score": 6.34,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
