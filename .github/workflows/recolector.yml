@@ -1,9 +1,12 @@
-# GeoInformesChile — recolector programado.
+# GeoInformesChile — recolector programado. (v2)
 # Este archivo va en:  .github/workflows/recolector.yml
 #
-# Nota honesta: el cron de Actions es best-effort; con carga en GitHub los */15
-# se atrasan. Si el proyecto agarra tracción, mueve esto a un VPS chico o a un
-# Cloudflare Worker con cron trigger. Para el MVP, sirve y cuesta $0.
+# v2: los secrets ahora entran como variables de entorno del trabajo (env),
+# porque el parser de Actions no acepta `secrets.X` dentro de un `if` de paso.
+#
+# Nota honesta: el cron de Actions es best-effort; con carga los */15 se
+# atrasan. Si el proyecto agarra tracción, muévelo a un VPS chico o a un
+# Cloudflare Worker. Para el MVP, sirve y cuesta $0.
 
 name: recolector
 
@@ -22,6 +25,12 @@ concurrency:
 jobs:
   correr:
     runs-on: ubuntu-latest
+    env:
+      TG_API_ID: ${{ secrets.TG_API_ID }}
+      TG_API_HASH: ${{ secrets.TG_API_HASH }}
+      TG_SESSION_B64: ${{ secrets.TG_SESSION_B64 }}
+      YT_API_KEY: ${{ secrets.YT_API_KEY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
     steps:
       - uses: actions/checkout@v4
 
@@ -32,35 +41,28 @@ jobs:
       - name: Dependencias
         run: pip install --quiet requests telethon
 
-      # La session de Telethon se genera UNA vez en tu PC (login interactivo)
-      # y se guarda como secret en base64:
-      #   base64 -w0 geoinformes.session   ->  secret TG_SESSION_B64
+      # La session se generó UNA vez en el PC de Diego y vive como secret
+      # en base64; aquí se reconstruye el archivo antes de correr Telegram.
       - name: Restaurar session de Telegram
-        if: ${{ secrets.TG_SESSION_B64 != '' }}
-        run: echo "${{ secrets.TG_SESSION_B64 }}" | base64 -d > geoinformes.session
+        if: env.TG_SESSION_B64 != ''
+        run: echo "$TG_SESSION_B64" | base64 -d > geoinformes.session
 
       - name: Telegram (SAE y alertas del canal oficial)
-        if: ${{ secrets.TG_API_ID != '' }}
-        env:
-          TG_API_ID: ${{ secrets.TG_API_ID }}
-          TG_API_HASH: ${{ secrets.TG_API_HASH }}
+        if: env.TG_API_ID != ''
         run: python telegram_sae.py || echo "telegram falló; el colector sigue"
 
       - name: Colector SENAPRED
         run: python colector_senapred.py
 
       - name: Videos por zona (YouTube)
-        if: ${{ secrets.YT_API_KEY != '' }}
-        env:
-          YT_API_KEY: ${{ secrets.YT_API_KEY }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        if: env.YT_API_KEY != ''
         run: python media_youtube.py || echo "media falló; los datos de alertas ya están"
 
       - name: Publicar datos
         run: |
           git config user.name  "geoinformes-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add -A alerts.json media.json historico.jsonl \
-                     telegram_alertas.jsonl state_telegram.json 2>/dev/null || true
+          git add -A
           git diff --cached --quiet || git commit -m "datos $(date -u +'%Y-%m-%dT%H:%MZ')"
+          git pull --rebase origin main
           git push
