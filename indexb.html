@@ -187,8 +187,6 @@
   Sitio referencial e independiente, <b>sin afiliación a SENAPRED</b>. Ante una emergencia sigue los
   canales oficiales (<a href="https://senapred.cl" target="_blank" rel="noopener">senapred.cl</a>) y la mensajería SAE.
   Fuente de las alertas: SENAPRED. Los videos son contenido público de terceros, <b>no verificado</b>.
-  <br>¿Tu terreno, proyecto o comunidad necesita un <b>informe de riesgos geológicos</b> hecho por profesionales?
-  Escríbenos con confianza a <a href="mailto:geoinformeschile@gmail.com">geoinformeschile@gmail.com</a> y te orientamos sin compromiso.
 </footer>
 
 <script src="lib/leaflet.js"></script>
@@ -274,9 +272,7 @@ function abrirPanel(f){
 
   const z = media.zonas[slug(nombre)];
   $("p-videos").innerHTML = (z && z.videos.length) ? z.videos.map(v => `
-    <button class="video" data-id="${esc(v.id)}" data-url="${esc(v.url)}"
-            data-embed="${v.embeddable === false ? 0 : 1}"
-            title="${v.embeddable === false ? "Se abre en YouTube" : "Reproducir aquí"}">
+    <button class="video" data-id="${esc(v.id)}" title="Reproducir aquí">
       <img loading="lazy" src="https://i.ytimg.com/vi/${esc(v.id)}/mqdefault.jpg" alt="">
       <span class="vt"><p>${esc(v.titulo)}</p>
         <span class="vm">${v.live ? '<span class="b-live">● EN VIVO</span> · ' : ""}${esc(v.canal)}
@@ -290,10 +286,6 @@ function abrirPanel(f){
 $("p-cerrar").onclick = () => $("panel").classList.remove("abierto");
 $("p-videos").addEventListener("click", e => {           // thumbnail -> iframe embebido
   const b = e.target.closest(".video"); if (!b) return;
-  if (b.dataset.embed === "0"){                          // dueño bloqueó el embed
-    window.open(b.dataset.url, "_blank", "noopener");
-    return;
-  }
   const ifr = document.createElement("iframe");
   ifr.className = "marco"; ifr.allowFullscreen = true;
   ifr.allow = "autoplay; encrypted-media; picture-in-picture";
@@ -329,10 +321,8 @@ function indexar(){
       if (!idxComuna.has(k)) idxComuna.set(k, []);
       idxComuna.get(k).push(a);
     }
-    for (const rn of [a.region, ...(a.regiones_extra || [])]){
-      const r = slug(rn);
-      if (r){ if (!idxRegion.has(r)) idxRegion.set(r, []); idxRegion.get(r).push(a); }
-    }
+    const r = slug(a.region);
+    if (r){ if (!idxRegion.has(r)) idxRegion.set(r, []); idxRegion.get(r).push(a); }
   }
   const sel = $("f-tipo"), actual = sel.value;
   sel.length = 1;

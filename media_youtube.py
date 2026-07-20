@@ -1,19 +1,20 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-GeoInformesChile — módulo media: videos de YouTube por zona en alerta.
+GeoInformesChile — módulo media: videos de YouTube por zona en alerta. (v3)
 
-Única API legal de geo-video que queda viva. Estrategia:
-  - Barrido solo para zonas en ROJA vigente (cuota: cada search cuesta 100 de
-    las 10.000 unidades diarias => presupuesto duro MAX_BUSQUEDAS).
-  - "Buscador inteligente": expande queries con los topónimos reales del
-    boletín (río X, quebrada Y, sector Z) además del nombre de la comuna,
-    filtra por publishedAfter (nada de videos reciclados de otros años) y
-    puntúa por recencia + topónimo + live.
-  - Re-ranking LLM opcional si hay ANTHROPIC_API_KEY (si no, heurística sola).
+Cambios v3 (tras la primera cosecha real en producción):
+  - Verifica con videos.list si cada video PERMITE embed (status.embeddable);
+    los bloqueados por su dueño se marcan y el sitio los abre en YouTube en
+    vez de mostrar un reproductor roto. Costo: 1 unidad por lote de 50.
+  - Penaliza candidatos cuyo título nombra OTRA comuna de Chile y no la zona
+    objetivo (el caso "Viña del Mar" apareciendo bajo La Serena).
+  - Confirma el estado "en vivo" real desde videos.list.
 
-Salida: media.json  ->  { zonas: { "<slug comuna>": {comuna, videos:[...] } } }
-Todo video sale marcado verificado:false. La verificación humana/visual es fase 3.
+Estrategia general: barrido solo para zonas en ROJA vigente, queries
+expandidas con topónimos del boletín, publishedAfter contra videos
+reciclados, presupuesto duro de cuota, re-ranking LLM opcional
+(ANTHROPIC_API_KEY). Todo sale marcado verificado:false.
 """
 
 import datetime as dt
@@ -28,10 +29,12 @@ import requests
 
 DIR = pathlib.Path(__file__).parent
 ALERTS = DIR / "alerts.json"
+COMUNAS_GEO = DIR / "comunas.geojson"
 SALIDA = DIR / "media.json"
 
-YT_URL = "https://www.googleapis.com/youtube/v3/search"
-MAX_BUSQUEDAS = int(os.environ.get("MAX_BUSQUEDAS", "40"))   # tope duro por corrida
+YT_SEARCH = "https://www.googleapis.com/youtube/v3/search"
+YT_VIDEOS = "https://www.googleapis.com/youtube/v3/videos"
+MAX_BUSQUEDAS = int(os.environ.get("MAX_BUSQUEDAS", "40"))
 MAX_VIDEOS_ZONA = 8
 INCLUIR_AMARILLAS = os.environ.get("INCLUIR_AMARILLAS", "0") == "1"
 VENTANA_HRS_DEFECTO = 48
@@ -57,6 +60,22 @@ def slug(s):
     return " ".join(s.lower().split())
 
 
+def cargar_comunas_chile():
+    """Set de nombres de comunas (slug) para detectar 'otra comuna' en títulos."""
+    try:
+        geo = json.loads(COMUNAS_GEO.read_text(encoding="utf-8"))
+        out = set()
+        for f in geo.get("features", []):
+            p = f.get("properties", {})
+            n = p.get("COMUNA") or p.get("Comuna") or p.get("NOM_COMUNA") or ""
+            s = slug(n)
+            if len(s) >= 4:
+                out.add(s)
+        return out
+    except Exception:
+        return set()
+
+
 def desde_iso():
     v = os.environ.get("EVENTO_DESDE", "").strip()
     if v:
@@ -73,31 +92,54 @@ def yt_search(key, q, desde, live=False):
     }
     if live:
         params["eventType"] = "live"
-        params.pop("order")  # live: relevancia por defecto
-    r = requests.get(YT_URL, params=params, timeout=20)
+        params.pop("order")
+    r = requests.get(YT_SEARCH, params=params, timeout=20)
     r.raise_for_status()
     return r.json().get("items", [])
 
 
-def puntuar(item, comuna, toponimos, live):
+def yt_estado_videos(key, ids):
+    """videos.list en lotes de 50: embeddable + confirmación de live. 1 unidad/lote."""
+    info = {}
+    for i in range(0, len(ids), 50):
+        lote = ids[i:i + 50]
+        try:
+            r = requests.get(YT_VIDEOS, timeout=20, params={
+                "key": key, "part": "status,snippet", "id": ",".join(lote)})
+            r.raise_for_status()
+            for it in r.json().get("items", []):
+                info[it["id"]] = {
+                    "embeddable": bool(it.get("status", {}).get("embeddable", True)),
+                    "live": it.get("snippet", {}).get("liveBroadcastContent") == "live",
+                }
+        except Exception as e:
+            print(f"[yt] videos.list falló (se asume embebible): {e}", file=sys.stderr)
+    return info
+
+
+def puntuar(item, comuna, toponimos, live, otras_comunas):
     sn = item.get("snippet", {})
     titulo = slug(sn.get("title", "") + " " + sn.get("description", ""))
+    pad = f" {titulo} "
+    objetivo = slug(comuna)
     score = 4.0 if live else 0.0
-    if slug(comuna) and slug(comuna) in titulo:
+    if objetivo and objetivo in titulo:
         score += 3
     score += sum(2 for t in toponimos if slug(t) in titulo)
+    if objetivo and objetivo not in titulo:
+        ajenas = sum(1 for c in otras_comunas
+                     if c != objetivo and f" {c} " in pad)
+        score -= 4 * min(ajenas, 2)   # nombra otra comuna y no la nuestra
     try:
         pub = dt.datetime.fromisoformat(sn.get("publishedAt", "").replace("Z", "+00:00"))
         horas = (dt.datetime.now(dt.timezone.utc) - pub).total_seconds() / 3600
-        score += max(0.0, 3.0 - horas / 12.0)  # recencia: 3 pts frescos, 0 a las 36 h
+        score += max(0.0, 3.0 - horas / 12.0)
     except Exception:
         pass
     return round(score, 2)
 
 
 def rerank_llm(candidatos, contexto):
-    """Opcional: Claude bota falsos positivos (mismo topónimo en otra región,
-    videos reciclados, clickbait). Devuelve los índices que sobreviven, en orden."""
     key = os.environ.get("ANTHROPIC_API_KEY")
     if not key or not candidatos:
         return None
@@ -136,6 +178,7 @@ def main():
     objetivo = [a for a in data.get("alertas", [])
                 if a["estado"] == "VIGENTE" and a["nivel"] in niveles]
 
+    otras_comunas = cargar_comunas_chile()
     desde = desde_iso()
     zonas, busquedas = {}, 0
 
@@ -174,12 +217,22 @@ def main():
                         "canal": sn.get("channelTitle", ""),
                         "publicado": sn.get("publishedAt", ""),
                         "live": es_live,
-                        "score": puntuar(it, comuna, toponimos, es_live),
+                        "score": puntuar(it, comuna, toponimos, es_live, otras_comunas),
                         "verificado": False,
+                        "embeddable": True,
                     })
 
             candidatos.sort(key=lambda c: c["score"], reverse=True)
-            orden = rerank_llm(candidatos[:12],
+            candidatos = candidatos[:12]
+
+            # Estado real: ¿permite embed? ¿sigue en vivo?
+            info = yt_estado_videos(key, [c["id"] for c in candidatos])
+            for c in candidatos:
+                if c["id"] in info:
+                    c["embeddable"] = info[c["id"]]["embeddable"]
+                    c["live"] = c["live"] or info[c["id"]]["live"]
+
+            orden = rerank_llm(candidatos,
                                f"{a['nivel']} por {a['tipo']} en {comuna}, {a['region']}")
             if orden is not None:
                 candidatos = [candidatos[i] for i in orden]

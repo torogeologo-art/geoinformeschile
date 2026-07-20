@@ -39,7 +39,7 @@ jobs:
           python-version: "3.12"
 
       - name: Dependencias
-        run: pip install --quiet requests telethon anthropic
+        run: pip install --quiet requests telethon
 
       # La session se generó UNA vez en el PC de Diego y vive como secret
       # en base64; aquí se reconstruye el archivo antes de correr Telegram.
