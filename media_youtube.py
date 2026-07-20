@@ -117,12 +117,27 @@ def yt_estado_videos(key, ids):
     return info
 
 
+RE_CAM_GENERICA = re.compile(r"webcam|c[aá]maras?\s+(urbana|en\s+vivo)|live\s*cam", re.I)
+
+
+def pertinente(item, comuna, toponimos, region):
+    """Regla dura: si el video no nombra la comuna, un topónimo del boletín,
+    la región o al menos 'Chile', queda fuera. Precisión antes que volumen:
+    preferimos perder un video ambiguo a mostrar cámaras de otro continente."""
+    txt = slug(item.get("snippet", {}).get("title", "") + " "
+               + item.get("snippet", {}).get("description", ""))
+    anclas = [slug(comuna), slug(region), "chile"] + [slug(t) for t in toponimos]
+    return any(a and a in txt for a in anclas)
+
+
 def puntuar(item, comuna, toponimos, live, otras_comunas):
     sn = item.get("snippet", {})
     titulo = slug(sn.get("title", "") + " " + sn.get("description", ""))
     pad = f" {titulo} "
     objetivo = slug(comuna)
-    score = 4.0 if live else 0.0
+    score = 2.0 if live else 0.0
+    if RE_CAM_GENERICA.search(sn.get("title", "")) and slug(comuna) not in titulo:
+        score -= 3  # cámara fija genérica sin la comuna en el título
     if objetivo and objetivo in titulo:
         score += 3
     score += sum(2 for t in toponimos if slug(t) in titulo)
@@ -194,8 +209,10 @@ def main():
                 break
 
             vistos, candidatos = set(), []
-            consultas = [(f"{comuna} Chile", True),
-                         (f"{comuna} {a['tipo']} hoy", False)]
+            q_subidos = (f"{toponimos[0]} {comuna}" if toponimos
+                         else f"{comuna} {a['tipo']} hoy")
+            consultas = [(f"{comuna} en vivo", True),
+                         (q_subidos, False)]
             for q, live in consultas:
                 try:
                     items = yt_search(key, q, desde, live=live)
@@ -207,6 +224,8 @@ def main():
                     vid = it.get("id", {}).get("videoId")
                     if not vid or vid in vistos:
                         continue
+                    if not pertinente(it, comuna, toponimos, a.get("region", "")):
+                        continue  # sin ancla chilena: fuera (adiós cámaras de otro continente)
                     vistos.add(vid)
                     sn = it["snippet"]
                     es_live = live or sn.get("liveBroadcastContent") == "live"
@@ -223,7 +242,11 @@ def main():
                     })
 
             candidatos.sort(key=lambda c: c["score"], reverse=True)
-            candidatos = candidatos[:12]
+            # Cupos garantizados: máx 3 transmisiones en vivo; el resto son
+            # videos subidos — el material de la propia gente, que es el alma.
+            vivos = [c for c in candidatos if c["live"]][:3]
+            subidos = [c for c in candidatos if not c["live"]][:9]
+            candidatos = vivos + subidos
 
             # Estado real: ¿permite embed? ¿sigue en vivo?
             info = yt_estado_videos(key, [c["id"] for c in candidatos])
