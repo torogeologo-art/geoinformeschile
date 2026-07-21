@@ -1,13 +1,57 @@
 {
- "generado": "2026-07-20T20:51:14+00:00",
+ "generado": "2026-07-21T00:16:06+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 55,
+ "total_vigentes": 57,
  "alertas": [
+  {
+   "id": "14279eb4b0b7",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN! \nPor alerta de crecida de Río Aconcagua, EVITA sector Puente Colmo, en las comunas de Limache, Quintero, Concón y Quillota, Región de #Valparaíso.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "",
+   "comunas": [
+    "Limache"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-07-20T23:27:53+00:00",
+   "url": "https://t.me/SenapredChile/1398",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "7da94eb72a0e",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para las comunas de Limache, Quintero, Concón y Quillota por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Puente Colmo” , indica un incremento en su caudal , alcanzando valores de umbral amarillo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para las comunas de Limache, Quintero, Concón y Quillota, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con la",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-20T19:52:18.1818-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-limache-quintero-concon-y-quillota-por-crecida-2026-07-20-19-53-12",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1cac88a3e195",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Aysén por Evento Meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguiente alertamientos para la Región de Aysén: Alertamiento Pronóstico Inicio Fin Alerta AA98-4 Heladas moderadas a intensas en Patagonia Subandina Norte. 21-07 22-07 Aviso A335-1 Heladas normales a moderadas en Patagonia Subandina Sur. 21-07 22-07 Aviso A342-1 Viento normal a moderado en Insular Norte. 23-07 23-07 Aviso A344 Nevadas normales a moderadas en Cordillera Austral Norte y Patagonia Subandina Norte. 23-07 23-07 En consideración a lo anterior y en coordinación con",
+   "region": "Aysén del General Carlos Ibáñez del Campo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-20T19:32:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-evento-meteorologico-2026-07-16-12-11-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "9baecc7ce187",
    "nivel": "ROJA",
@@ -23,6 +67,20 @@
    "url": "https://t.me/SenapredChile/1397",
    "origen": "telegram",
    "sae": true
+  },
+  {
+   "id": "838cc800e802",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia del Tamarugal por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Alerta AA93-2 Viento moderado a fuerte con desarrollo de viento blanco en cordillera. 17-07 20-07 Aviso A320-8 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. 20-07 21-07 En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Prev",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-20T17:43:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-viento-2026-07-13-18-03-41",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "4af9d19bd7f4",
@@ -357,20 +415,6 @@
    "sae": true
   },
   {
-   "id": "fa28fcbb5a75",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia del Tamarugal por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Alerta AA93-2 Viento moderado a fuerte con desarrollo de viento blanco en cordillera. 17-07 19-07 Aviso A320-7 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. 20-07 21-07 En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preve",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-19T23:53:44.4444-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-viento-2026-07-13-18-03-41",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "48cd7497c51c",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -473,20 +517,6 @@
    "url": "https://t.me/SenapredChile/1347",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "112504ee0fca",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva  para la Región de Aysén por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguiente alertamientos para la Región de Aysén: Alertamiento Pronóstico Inicio Fin Alerta AA98-3 Heladas moderadas a intensas en Patagonia Subandina Norte. 19-07 21-07 Aviso A335 Heladas normales a moderadas en Patagonia Subandina Sur. 19-07 21-07 Por otra parte, debido al debilitamiento de las condiciones meteorológicas, han sido cancelado los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Aviso A324-3 Viento normal a moderado en el sector Ins",
-   "region": "Aysén del General Carlos Ibáñez del Campo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-19T16:30:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-evento-meteorologico-2026-07-16-12-11-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "3ac62ebcf4b1",
