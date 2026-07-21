@@ -59,7 +59,6 @@
     font-family:var(--mono);font-size:12px;letter-spacing:.06em;
     padding:4px 10px;border:1px solid var(--linea);border-radius:999px;color:var(--tinta-suave);
   }
-  .chip .sm{display:none}
   .chip::before{content:'';display:inline-block;width:9px;height:9px;border-radius:2px;margin-right:6px;vertical-align:-1px;background:var(--c)}
   .chip.activo{color:var(--tinta);border-color:var(--c);background:color-mix(in srgb,var(--c) 14%,transparent)}
   .chip:focus-visible,button:focus-visible,select:focus-visible{outline:2px solid var(--tinta);outline-offset:2px}
@@ -133,27 +132,9 @@
   footer b{color:var(--tinta)}
 
   @media (max-width:640px){
-    /* Móvil: el mapa es el producto; todo lo demás se comprime. */
-    header{padding:7px 10px;gap:8px}
-    .marca{font-size:16px}
-    .marca small{display:none}
-    header > a.chip{font-size:10.5px;padding:3px 8px}
-    .pulso{margin-left:auto;width:auto;padding:4px 8px;gap:8px;font-size:11px}
-    .pulso .hora{font-size:13px}
-    .lbl{display:none}
-    .filtros{flex-wrap:nowrap;overflow-x:auto;padding:6px 10px;gap:6px;scrollbar-width:none}
-    .filtros::-webkit-scrollbar{display:none}
-    .chip{white-space:nowrap;padding:3px 9px;font-size:11px}
-    .chip .lg{display:none}
-    .chip .sm{display:inline}
-    select{font-size:12px;padding:4px 6px;flex:none}
-    .conteo{white-space:nowrap;font-size:11px;margin-left:8px}
-    .leyenda{left:8px;bottom:8px;padding:5px 8px;font-size:10.5px}
-    .ley-det{display:none}
-    footer{font-size:10px;padding:5px 10px;line-height:1.35}
-    .contacto{display:none}
-    aside{top:auto;height:58%;width:100%;border-left:0;border-top:1px solid var(--linea);transform:translateY(102%)}
+    aside{top:auto;height:62%;width:100%;border-left:0;border-top:1px solid var(--linea);transform:translateY(102%)}
     aside.abierto{transform:none}
+    .pulso{width:100%;justify-content:space-between}
   }
 </style>
 </head>
@@ -165,16 +146,16 @@
   </div>
   <a class="chip" style="--c:var(--tinta-suave);text-decoration:none" href="informe.html">GeoInforme del evento ↗</a>
   <div class="pulso" role="status">
-    <span><span class="lbl">Actualizado </span><span class="hora" id="hora">--:--</span></span>
+    <span>Actualizado <span class="hora" id="hora">--:--</span></span>
     <span id="fuentes"></span>
-    <span><span class="lbl">recarga </span><span id="cuenta" style="font-variant-numeric:tabular-nums">5:00</span></span>
+    <span>recarga <span id="cuenta" style="font-variant-numeric:tabular-nums">5:00</span></span>
   </div>
 </header>
 
 <div class="filtros">
   <button class="chip activo" data-nivel="ROJA"     style="--c:var(--roja)">ROJA</button>
   <button class="chip activo" data-nivel="AMARILLA" style="--c:var(--amarilla)">AMARILLA</button>
-  <button class="chip activo" data-nivel="ATP"      style="--c:var(--atp)"><span class="lg">TEMPRANA PREVENTIVA</span><span class="sm">ATP</span></button>
+  <button class="chip activo" data-nivel="ATP"      style="--c:var(--atp)">TEMPRANA PREVENTIVA</button>
   <select id="f-tipo" aria-label="Filtrar por tipo de evento"><option value="">Todos los eventos</option></select>
   <button class="chip activo" id="f-sectores" style="--c:var(--tinta-suave)">SECTORES ⬤</button>
   <div class="conteo"><b id="n-vigentes">0</b> alertas vigentes</div>
@@ -186,8 +167,8 @@
   <div class="leyenda">
     <i style="background:var(--roja)"></i>Roja&nbsp;&nbsp;
     <i style="background:var(--amarilla)"></i>Amarilla&nbsp;&nbsp;
-    <i style="background:var(--atp)"></i>Temprana preventiva<span class="ley-det"><br>
-    relleno intenso = alerta comunal · tenue = paraguas regional · ⬤ = sector nombrado en boletín</span>
+    <i style="background:var(--atp)"></i>Temprana preventiva<br>
+    relleno intenso = alerta comunal · tenue = paraguas regional · ⬤ = sector nombrado en boletín
   </div>
 
   <aside id="panel" aria-label="Detalle de la zona">
@@ -208,9 +189,9 @@
 <footer>
   Sitio referencial e independiente, <b>sin afiliación a SENAPRED</b>. Ante una emergencia sigue los
   canales oficiales (<a href="https://senapred.cl" target="_blank" rel="noopener">senapred.cl</a>) y la mensajería SAE.
-  Fuente de las alertas: SENAPRED. Los videos son contenido público de terceros, <b>no verificado</b>.<span class="contacto">
+  Fuente de las alertas: SENAPRED. Los videos son contenido público de terceros, <b>no verificado</b>.
   <br>¿Tu terreno, proyecto o comunidad necesita un <b>informe de riesgos geológicos</b> hecho por profesionales?
-  Escríbenos con confianza a <a href="mailto:geoinformeschile@gmail.com">geoinformeschile@gmail.com</a> y te orientamos sin compromiso.</span>
+  Escríbenos con confianza a <a href="mailto:geoinformeschile@gmail.com">geoinformeschile@gmail.com</a> y te orientamos sin compromiso.
 </footer>
 
 <script src="lib/leaflet.js"></script>
@@ -222,11 +203,8 @@ const CFG = {
   media:   "media.json",
   comunas: "comunas.geojson",          // división comunal simplificada (ver README)
   refreshMs: 5 * 60 * 1000,
-  // Reporte ciudadano de video: correo pre-armado (no exige cuentas de nada).
-  // La curaduría es manual: nada se publica sin pasar por el buzón del proyecto.
-  reportarURL: "mailto:geoinformeschile@gmail.com?body="
-    + encodeURIComponent("Pega aquí el link del video (YouTube, X u otra plataforma), "
-      + "la fecha en que se grabó y qué se ve:\n\n") + "&subject=",
+  // A dónde llega un reporte ciudadano de video. MVP: issue de GitHub o formulario.
+  reportarURL: "https://github.com/TU_USUARIO/geoinformeschile/issues/new?labels=video&title=",
   // Cómo se llaman las propiedades en tu comunas.geojson (candidatos habituales):
   propComuna: ["Comuna","COMUNA","NOM_COMUNA","comuna","nombre"],
   propRegion: ["Region","REGION","NOM_REGION","region"],
