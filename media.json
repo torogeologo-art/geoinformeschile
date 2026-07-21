@@ -1,21 +1,352 @@
 {
- "generado": "2026-07-21T09:45:25+00:00",
- "desde": "2026-07-19T09:45:14Z",
+ "generado": "2026-07-21T15:56:25+00:00",
+ "desde": "2026-07-19T15:56:05Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "copiapo": {
+   "comuna": "Copiapó",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "EQFtYXiGgUA",
+     "url": "https://www.youtube.com/watch?v=EQFtYXiGgUA",
+     "titulo": "Cortan Ruta 5 entre Copiapó y Vallenar",
+     "canal": "Meganoticias",
+     "publicado": "2026-07-20T02:21:14Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "illapel": {
+   "comuna": "Illapel",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "SmMi_g6Ipm4",
+     "url": "https://www.youtube.com/watch?v=SmMi_g6Ipm4",
+     "titulo": "🔴 EN VIVO | Noticias de la Región de Coquimbo, Chile y Última Hora | RRC Noticias AM",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-07-21T15:53:56Z",
+     "live": true,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "NOnnSbcZpmY",
+     "url": "https://www.youtube.com/watch?v=NOnnSbcZpmY",
+     "titulo": "Ruta cortada por crecida del Río Illapel",
+     "canal": "Meganoticias",
+     "publicado": "2026-07-20T22:15:04Z",
+     "live": false,
+     "score": 4.53,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "m369nyRgNfo",
+     "url": "https://www.youtube.com/watch?v=m369nyRgNfo",
+     "titulo": "Parte de puente en Illapel cede producto de crecida de río",
+     "canal": "Teletrece",
+     "publicado": "2026-07-20T12:26:58Z",
+     "live": false,
+     "score": 3.71,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "la serena": {
+   "comuna": "La Serena",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "SmMi_g6Ipm4",
+     "url": "https://www.youtube.com/watch?v=SmMi_g6Ipm4",
+     "titulo": "🔴 EN VIVO | Noticias de la Región de Coquimbo, Chile y Última Hora | RRC Noticias AM",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-07-21T15:53:56Z",
+     "live": true,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "f558IH2rJNo",
+     "url": "https://www.youtube.com/watch?v=f558IH2rJNo",
+     "titulo": "🔴 TEMPORAL EN VIVO | Región de Coquimbo: Lluvias, Rutas, Cortes de Luz y Emergencias",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-07-21T11:59:41Z",
+     "live": true,
+     "score": 4.67,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "WypSxs59_bk",
+     "url": "https://www.youtube.com/watch?v=WypSxs59_bk",
+     "titulo": "Ledrium - Tobalaba, MUT, Av. Providencia, Santiago, Chile, Live cam, en vivo, en directo",
+     "canal": "Ledrium",
+     "publicado": "2026-07-20T15:20:35Z",
+     "live": true,
+     "score": -0.05,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "ovalle": {
+   "comuna": "Ovalle",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "SmMi_g6Ipm4",
+     "url": "https://www.youtube.com/watch?v=SmMi_g6Ipm4",
+     "titulo": "🔴 EN VIVO | Noticias de la Región de Coquimbo, Chile y Última Hora | RRC Noticias AM",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-07-21T15:53:56Z",
+     "live": true,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "cdJTdVGY7Tw",
+     "url": "https://www.youtube.com/watch?v=cdJTdVGY7Tw",
+     "titulo": "Embalse Recoleta Ovalle 21 de Julio 2026",
+     "canal": "MiRegión Noticias",
+     "publicado": "2026-07-21T15:06:14Z",
+     "live": false,
+     "score": 7.93,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "m7Kx2BpsQYo",
+     "url": "https://www.youtube.com/watch?v=m7Kx2BpsQYo",
+     "titulo": "puente Socos Río Limari #ovalle #limarí #rio",
+     "canal": "Johnson araya",
+     "publicado": "2026-07-21T02:23:33Z",
+     "live": false,
+     "score": 6.87,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "BBkN4r70XKw",
+     "url": "https://www.youtube.com/watch?v=BBkN4r70XKw",
+     "titulo": "Carabineros quedaron atrapados en patrulla tras crecida del río Limarí en Ovalle",
+     "canal": "CHV Noticias",
+     "publicado": "2026-07-20T16:15:30Z",
+     "live": false,
+     "score": 6.03,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "gEcTIbJAcQw",
+     "url": "https://www.youtube.com/watch?v=gEcTIbJAcQw",
+     "titulo": "El Villorrio de Talhuen, Ovalle tras lluvias 20 de julio",
+     "canal": "MiRegión Noticias",
+     "publicado": "2026-07-20T14:19:19Z",
+     "live": false,
+     "score": 5.87,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "dmiGuVUGjsg",
+     "url": "https://www.youtube.com/watch?v=dmiGuVUGjsg",
+     "titulo": "Ovalle está sin suministro de agua potable: Hay 15 mil personas aisladas en la Provincia de Limarí",
+     "canal": "CHV Noticias",
+     "publicado": "2026-07-20T01:51:39Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "MCzadkotD7w",
+     "url": "https://www.youtube.com/watch?v=MCzadkotD7w",
+     "titulo": "🚰 Debido a la alta turbiedad del río Limarí, se suspendió el suministro de agua potable en Ovalle",
+     "canal": "MEGA Oficial",
+     "publicado": "2026-07-20T01:35:12Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "JO1NqFtL9dc",
+     "url": "https://www.youtube.com/watch?v=JO1NqFtL9dc",
+     "titulo": "Despliegue aéreo: El intenso rescate a personas aisladas en Ovalle",
+     "canal": "Meganoticias",
+     "publicado": "2026-07-19T20:17:39Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "salamanca": {
+   "comuna": "Salamanca",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "SmMi_g6Ipm4",
+     "url": "https://www.youtube.com/watch?v=SmMi_g6Ipm4",
+     "titulo": "🔴 EN VIVO | Noticias de la Región de Coquimbo, Chile y Última Hora | RRC Noticias AM",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-07-21T15:53:56Z",
+     "live": true,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "paihuano": {
+   "comuna": "Paihuano",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "SmMi_g6Ipm4",
+     "url": "https://www.youtube.com/watch?v=SmMi_g6Ipm4",
+     "titulo": "🔴 EN VIVO | Noticias de la Región de Coquimbo, Chile y Última Hora | RRC Noticias AM",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-07-21T15:53:56Z",
+     "live": true,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "canela": {
+   "comuna": "Canela",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "x9V-FJdVVwA",
+     "url": "https://www.youtube.com/watch?v=x9V-FJdVVwA",
+     "titulo": "Episódio 17 - Canela Amarela: Açúcar, Etanol e os Anos Difíceis que Estão por Vir",
+     "canal": "Grupo Ceres Investimentos ",
+     "publicado": "2026-07-20T19:36:06Z",
+     "live": false,
+     "score": 4.31,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "DlupBi0xzY4",
+     "url": "https://www.youtube.com/watch?v=DlupBi0xzY4",
+     "titulo": "Potencia tus decretos de abundancia con agua y canela antes del café",
+     "canal": "Reflejo Vital",
+     "publicado": "2026-07-20T17:11:31Z",
+     "live": false,
+     "score": 4.1,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "uVRJSbLhOBw",
+     "url": "https://www.youtube.com/watch?v=uVRJSbLhOBw",
+     "titulo": "Daniela acusada en el Canela Gate gana con Top 10 | MasterChef Argentina",
+     "canal": "MasterChef Argentina",
+     "publicado": "2026-07-20T16:00:23Z",
+     "live": false,
+     "score": 4.01,
+     "verificado": false,
+     "embeddable": false
+    },
+    {
+     "id": "2CH5BX8I1Rc",
+     "url": "https://www.youtube.com/watch?v=2CH5BX8I1Rc",
+     "titulo": "Look - Blusa canela e Pantalona de Viscolinho",
+     "canal": "Amicia Fashion",
+     "publicado": "2026-07-20T15:51:49Z",
+     "live": false,
+     "score": 3.99,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "YLreptR09Vk",
+     "url": "https://www.youtube.com/watch?v=YLreptR09Vk",
+     "titulo": "Dolor de garganta | Remedio natural con miel, limón, jengibre y canela | Aqüita",
+     "canal": "Aqüita RD",
+     "publicado": "2026-07-20T13:04:17Z",
+     "live": false,
+     "score": 3.76,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "3_3A3BLHTt4",
+     "url": "https://www.youtube.com/watch?v=3_3A3BLHTt4",
+     "titulo": "Canela se vuelca con la Virgen del Carmen en una multitudinaria procesión",
+     "canal": "Teleonuba Huelva",
+     "publicado": "2026-07-20T12:27:53Z",
+     "live": false,
+     "score": 3.71,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "MMv8kwxFCUk",
+     "url": "https://www.youtube.com/watch?v=MMv8kwxFCUk",
+     "titulo": "Gabriela, clavo y canela. Capítulo tercero. 11. Gabriela con el pájaro prisionero #jorgeamado",
+     "canal": "Hojeando con h",
+     "publicado": "2026-07-19T16:00:06Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "huasco": {
+   "comuna": "Huasco",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "WynwPMqQlZ0",
+     "url": "https://www.youtube.com/watch?v=WynwPMqQlZ0",
+     "titulo": "EN VIVO | Estado de Catástrofe por lluvias en el norte: Evacuaciones SAE en Coquimbo y Atacama",
+     "canal": "Radio13c",
+     "publicado": "2026-07-21T14:48:16Z",
+     "live": true,
+     "score": 0.91,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "atacama": {
    "comuna": "Atacama",
    "region": "Atacama",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "JlYIn51gutM",
-     "url": "https://www.youtube.com/watch?v=JlYIn51gutM",
-     "titulo": "Michelle Adam advierte nuevos pulsos de lluvia y tormentas eléctricas en Atacama y Coquimbo",
-     "canal": "Teletrece",
-     "publicado": "2026-07-19T13:55:17Z",
-     "live": false,
-     "score": 3.0,
+     "id": "WynwPMqQlZ0",
+     "url": "https://www.youtube.com/watch?v=WynwPMqQlZ0",
+     "titulo": "EN VIVO | Estado de Catástrofe por lluvias en el norte: Evacuaciones SAE en Coquimbo y Atacama",
+     "canal": "Radio13c",
+     "publicado": "2026-07-21T14:48:16Z",
+     "live": true,
+     "score": 7.91,
      "verificado": false,
      "embeddable": true
     }
@@ -33,229 +364,65 @@
      "canal": "Viña CAM",
      "publicado": "2026-07-20T03:31:49Z",
      "live": true,
-     "score": -4.52,
+     "score": -5.0,
      "verificado": false,
      "embeddable": false
-    }
-   ]
-  },
-  "ovalle": {
-   "comuna": "Ovalle",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
+    },
     {
-     "id": "-b6rtjNI6Os",
-     "url": "https://www.youtube.com/watch?v=-b6rtjNI6Os",
-     "titulo": "📻 #Ultimominuto | Alerta SAE por desborde del río Limarí,  en la comuna de Ovalle",
-     "canal": "Agricultura TV",
-     "publicado": "2026-07-19T18:35:16Z",
+     "id": "NPooVTGx1qA",
+     "url": "https://www.youtube.com/watch?v=NPooVTGx1qA",
+     "titulo": "REPORTAN INTENSAS PRECIPITACIONES Y TORMENTAS ELÉCTRICAS EN EL LITORAL DE LA REGIÓN DE VALPARAÍSO",
+     "canal": "EVOLUTIVA MEDIOS  DONDE LA VERDAD, EVOLUCIONA ",
+     "publicado": "2026-07-21T11:36:53Z",
      "live": false,
-     "score": 3.0,
+     "score": 5.64,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "MXgv6ydsiyg",
-     "url": "https://www.youtube.com/watch?v=MXgv6ydsiyg",
-     "titulo": "Minutos de terror: crecida de río arrastró un auto con ocupantes en Ovalle",
-     "canal": "Meganoticias",
-     "publicado": "2026-07-19T17:43:53Z",
+     "id": "1_QqsqCVcsM",
+     "url": "https://www.youtube.com/watch?v=1_QqsqCVcsM",
+     "titulo": "¿Tormenta y fuertes lluvias? El pronóstico para Atacama, Coquimbo, Valparaíso y RM",
+     "canal": "Bio Bio",
+     "publicado": "2026-07-20T14:30:42Z",
      "live": false,
-     "score": 3.0,
+     "score": 3.88,
      "verificado": false,
      "embeddable": true
     }
    ]
   },
-  "salamanca": {
-   "comuna": "Salamanca",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "b2rR9qSgjJU",
-     "url": "https://www.youtube.com/watch?v=b2rR9qSgjJU",
-     "titulo": "Salamanca ALERTA SAE para  evacuar sector Cancha Brava  cruce Huanque por desborde de Rio Chalinga.",
-     "canal": "MEDIO INFORMATIVO NACIONAL 🇨🇱 ",
-     "publicado": "2026-07-20T20:02:12Z",
-     "live": false,
-     "score": 8.86,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "LT5sf-9VE0M",
-     "url": "https://www.youtube.com/watch?v=LT5sf-9VE0M",
-     "titulo": "📻#Ultimominuto | Declaran Alerta Roja en Salamanca por desborde del río Chalinga",
-     "canal": "Agricultura TV",
-     "publicado": "2026-07-20T19:59:54Z",
-     "live": false,
-     "score": 6.85,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "alto del carmen": {
-   "comuna": "Alto del Carmen",
+  "punitaqui": {
+   "comuna": "Punitaqui",
    "region": "",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "osjjlq2NIzU",
-     "url": "https://www.youtube.com/watch?v=osjjlq2NIzU",
-     "titulo": "Crece preocupación por crecida de río Huasco en Alto del Carmen, región de Atacama",
-     "canal": "El Mostrador",
-     "publicado": "2026-07-20T15:36:50Z",
-     "live": false,
-     "score": 4.49,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "OGnetR_7ToA",
-     "url": "https://www.youtube.com/watch?v=OGnetR_7ToA",
-     "titulo": "Sistema Frontal: Alto del Carmen una de las zonas afectadas de la región de Atacama",
-     "canal": "ADN Chile",
-     "publicado": "2026-07-20T14:39:46Z",
-     "live": false,
-     "score": 4.41,
+     "id": "SmMi_g6Ipm4",
+     "url": "https://www.youtube.com/watch?v=SmMi_g6Ipm4",
+     "titulo": "🔴 EN VIVO | Noticias de la Región de Coquimbo, Chile y Última Hora | RRC Noticias AM",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-07-21T15:53:56Z",
+     "live": true,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     }
    ]
   },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
+  "los vilos": {
+   "comuna": "Los Vilos",
+   "region": "",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "ZHTqk7iuUsw",
-     "url": "https://www.youtube.com/watch?v=ZHTqk7iuUsw",
-     "titulo": "🔴 EN VIVO | Meganoticias Ahora - Lunes 20 de julio de 2026",
-     "canal": "Meganoticias",
-     "publicado": "2026-07-21T01:54:48Z",
+     "id": "SmMi_g6Ipm4",
+     "url": "https://www.youtube.com/watch?v=SmMi_g6Ipm4",
+     "titulo": "🔴 EN VIVO | Noticias de la Región de Coquimbo, Chile y Última Hora | RRC Noticias AM",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-07-21T15:53:56Z",
      "live": true,
-     "score": 4.35,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "IdFFQuFYGyw",
-     "url": "https://www.youtube.com/watch?v=IdFFQuFYGyw",
-     "titulo": "Desborde del Río Elqui causa inundaciones en La Serena y Coquimbo",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-07-20T22:10:06Z",
-     "live": false,
-     "score": 5.03,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "FOvCI8PH5QA",
-     "url": "https://www.youtube.com/watch?v=FOvCI8PH5QA",
-     "titulo": "#chile #coquimbo #limarí #lluvia #rescate #inundaciones #desborde #latinoamerica #elnino2026",
-     "canal": "TrendNet",
-     "publicado": "2026-07-19T16:36:58Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "dGBTMsCK4VU",
-     "url": "https://www.youtube.com/watch?v=dGBTMsCK4VU",
-     "titulo": "Desborde del río Elqui causa inundaciones en La Serena | 24 Horas TVN Chile",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-07-20T14:56:19Z",
-     "live": false,
-     "score": -2.57,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "la serena": {
-   "comuna": "La Serena",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "WypSxs59_bk",
-     "url": "https://www.youtube.com/watch?v=WypSxs59_bk",
-     "titulo": "Ledrium - Tobalaba, MUT, Av. Providencia, Santiago, Chile, Live cam, en vivo, en directo",
-     "canal": "Ledrium",
-     "publicado": "2026-07-20T15:20:35Z",
-     "live": true,
-     "score": 0.47,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "E15kgiiM70Y",
-     "url": "https://www.youtube.com/watch?v=E15kgiiM70Y",
-     "titulo": "Viña del Mar EN VIVO 🇨🇱 Cámara urbana | Chile Live Webcam",
-     "canal": "Viña CAM",
-     "publicado": "2026-07-20T03:31:49Z",
-     "live": true,
-     "score": -4.52,
-     "verificado": false,
-     "embeddable": false
-    },
-    {
-     "id": "IdFFQuFYGyw",
-     "url": "https://www.youtube.com/watch?v=IdFFQuFYGyw",
-     "titulo": "Desborde del Río Elqui causa inundaciones en La Serena y Coquimbo",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-07-20T22:10:06Z",
-     "live": false,
-     "score": 5.03,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "MTJ6hjyNzeQ",
-     "url": "https://www.youtube.com/watch?v=MTJ6hjyNzeQ",
-     "titulo": "Alcaldesa de La Serena alerta sobre 11 personas desaparecidas y 80 familias aisladas",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-07-20T15:00:26Z",
-     "live": false,
-     "score": 4.44,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "dGBTMsCK4VU",
-     "url": "https://www.youtube.com/watch?v=dGBTMsCK4VU",
-     "titulo": "Desborde del río Elqui causa inundaciones en La Serena | 24 Horas TVN Chile",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-07-20T14:56:19Z",
-     "live": false,
-     "score": 4.43,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "xvfSLlJ-HFg",
-     "url": "https://www.youtube.com/watch?v=xvfSLlJ-HFg",
-     "titulo": "Casas inundadas en sector de La Florida de La Serena tras desborde de río - CHV Noticias",
-     "canal": "CHV Noticias",
-     "publicado": "2026-07-20T14:07:19Z",
-     "live": false,
-     "score": 4.36,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "c_AsnnLQmIQ",
-     "url": "https://www.youtube.com/watch?v=c_AsnnLQmIQ",
-     "titulo": "Un vecino reportó el desborde del canal en las cercanías de la Plaza de Abastos de La Serena, en…",
-     "canal": "MI RADIO TV",
-     "publicado": "2026-07-20T02:54:32Z",
-     "live": false,
-     "score": 3.43,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     }
@@ -273,102 +440,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-07-20T14:56:18Z",
      "live": false,
-     "score": 4.43,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "huasco": {
-   "comuna": "Huasco",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "XysrssSNISI",
-     "url": "https://www.youtube.com/watch?v=XysrssSNISI",
-     "titulo": "El Tojo - Salar del Huasco",
-     "canal": "Simonky Norambuena",
-     "publicado": "2026-07-21T05:22:30Z",
-     "live": false,
-     "score": 9.63,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "dh4Dzdb14qA",
-     "url": "https://www.youtube.com/watch?v=dh4Dzdb14qA",
-     "titulo": "COLAPSO POR TEMPORAL: COQUIMBO Y HUASCO ENFRENTAN UNA CRISIS SIN PRECEDENTES ⚠️🌧️",
-     "canal": "El Libertario®",
-     "publicado": "2026-07-21T04:33:09Z",
-     "live": false,
-     "score": 9.57,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "w7LtCeiMXm0",
-     "url": "https://www.youtube.com/watch?v=w7LtCeiMXm0",
-     "titulo": "Noticias de Chile Espuma marina aparece en playas de Huasco, Atacama, Chile  Julio 20, 2026",
-     "canal": "Angel noticias del mundo 2",
-     "publicado": "2026-07-21T03:47:30Z",
-     "live": false,
-     "score": 9.5,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "6Y8AlL6dgSQ",
-     "url": "https://www.youtube.com/watch?v=6Y8AlL6dgSQ",
-     "titulo": "🌊😱 ¿POR QUÉ LA PLAYA DE HUASCO AMANECIÓ COMPLETAMENTE CUBIERTA DE ESPUMA?",
-     "canal": "Misteriooculto_fs",
-     "publicado": "2026-07-21T02:32:04Z",
-     "live": false,
-     "score": 9.4,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "_xFVTOdCFvQ",
-     "url": "https://www.youtube.com/watch?v=_xFVTOdCFvQ",
-     "titulo": "El fenómeno climático que sorprende en la costanera de Huasco",
-     "canal": "Teletrece",
-     "publicado": "2026-07-20T22:29:15Z",
-     "live": false,
-     "score": 9.06,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "jZU4TYdZsfc",
-     "url": "https://www.youtube.com/watch?v=jZU4TYdZsfc",
-     "titulo": "Alcalde de Huasco sobre personas afectadas en la zona “un vecino falleció en la calle”  | 24 Horas",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-07-20T22:22:38Z",
-     "live": false,
-     "score": 9.05,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "3C900l1VY08",
-     "url": "https://www.youtube.com/watch?v=3C900l1VY08",
-     "titulo": "Impresionante 🚨 caudal  de la  quebrada Alarcón, destruye todo a su paso en Freirina, Huasco, Chile.",
-     "canal": "Tendencias_Videos",
-     "publicado": "2026-07-20T22:18:00Z",
-     "live": false,
-     "score": 9.05,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "KgJATu4bfX0",
-     "url": "https://www.youtube.com/watch?v=KgJATu4bfX0",
-     "titulo": "Máxima alerta en Vallenar: el río Huasco se desbordó y podría volver a crecer | Mesa Central",
-     "canal": "Tele13 Radio",
-     "publicado": "2026-07-20T21:21:46Z",
-     "live": false,
-     "score": 8.97,
+     "score": 3.92,
      "verificado": false,
      "embeddable": true
     }
@@ -376,7 +448,7 @@
   },
   "vicuna": {
    "comuna": "Vicuña",
-   "region": "Coquimbo",
+   "region": "",
    "alerta": "ROJA",
    "videos": [
     {
@@ -386,36 +458,98 @@
      "canal": "Vicuña con Alameda",
      "publicado": "2026-07-20T13:06:08Z",
      "live": true,
-     "score": 6.28,
+     "score": 5.76,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "SmMi_g6Ipm4",
+     "url": "https://www.youtube.com/watch?v=SmMi_g6Ipm4",
+     "titulo": "🔴 EN VIVO | Noticias de la Región de Coquimbo, Chile y Última Hora | RRC Noticias AM",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-07-21T15:53:56Z",
+     "live": true,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "xsCjFnk0LQw",
+     "url": "https://www.youtube.com/watch?v=xsCjFnk0LQw",
+     "titulo": "Quebrada arrasó carretera y colapsó puente en Vicuña | MegaTiempo",
+     "canal": "MegaTiempo",
+     "publicado": "2026-07-20T20:19:17Z",
+     "live": false,
+     "score": 4.37,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "ecRHCn4Zv34",
+     "url": "https://www.youtube.com/watch?v=ecRHCn4Zv34",
+     "titulo": "Quebrada San Carlos provoca socavón en la ruta",
+     "canal": "Meganoticias",
+     "publicado": "2026-07-19T18:42:52Z",
+     "live": false,
+     "score": 4.0,
      "verificado": false,
      "embeddable": true
     }
    ]
   },
-  "vina del mar": {
-   "comuna": "Viña del Mar",
-   "region": "Valparaíso",
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "E15kgiiM70Y",
-     "url": "https://www.youtube.com/watch?v=E15kgiiM70Y",
-     "titulo": "Viña del Mar EN VIVO 🇨🇱 Cámara urbana | Chile Live Webcam",
-     "canal": "Viña CAM",
-     "publicado": "2026-07-20T03:31:49Z",
-     "live": true,
-     "score": 5.48,
+     "id": "2jVsvCIQpIA",
+     "url": "https://www.youtube.com/watch?v=2jVsvCIQpIA",
+     "titulo": "ALERTA quebrada Tambillos Coquimbo Lluvias 2026",
+     "canal": "MiRegión Noticias",
+     "publicado": "2026-07-20T02:50:04Z",
+     "live": false,
+     "score": 7.0,
      "verificado": false,
-     "embeddable": false
+     "embeddable": true
+    }
+   ]
+  },
+  "alto del carmen": {
+   "comuna": "Alto del Carmen",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "osjjlq2NIzU",
+     "url": "https://www.youtube.com/watch?v=osjjlq2NIzU",
+     "titulo": "Crece preocupación por crecida de río Huasco en Alto del Carmen, región de Atacama",
+     "canal": "El Mostrador",
+     "publicado": "2026-07-20T15:36:50Z",
+     "live": false,
+     "score": 3.97,
+     "verificado": false,
+     "embeddable": true
     },
     {
-     "id": "HQQZ_qj33Bc",
-     "url": "https://www.youtube.com/watch?v=HQQZ_qj33Bc",
-     "titulo": "Monitoreo Sísmico Chile - Sismogramas, Detección y Alerta de Sismos en Tiempo Real | ©Seba Quake WX",
-     "canal": "Viña del Mar Cam",
-     "publicado": "2026-07-21T04:00:43Z",
-     "live": true,
-     "score": 4.52,
+     "id": "OGnetR_7ToA",
+     "url": "https://www.youtube.com/watch?v=OGnetR_7ToA",
+     "titulo": "Sistema Frontal: Alto del Carmen una de las zonas afectadas de la región de Atacama",
+     "canal": "ADN Chile",
+     "publicado": "2026-07-20T14:39:46Z",
+     "live": false,
+     "score": 3.89,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "lKlLTYJBzkw",
+     "url": "https://www.youtube.com/watch?v=lKlLTYJBzkw",
+     "titulo": "Daños del sistema frontal en la región de Atacama",
+     "canal": "ADN Chile",
+     "publicado": "2026-07-20T02:17:16Z",
+     "live": false,
+     "score": -4.0,
      "verificado": false,
      "embeddable": true
     }
