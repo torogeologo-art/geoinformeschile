@@ -1,13 +1,91 @@
 {
- "generado": "2026-07-21T15:56:04+00:00",
+ "generado": "2026-07-21T20:41:10+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 71,
+ "total_vigentes": 76,
  "alertas": [
+  {
+   "id": "5d265ab92ac5",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN!\nPor desborde del río Quilimarí, se solicita evacuar sector ribera del río, comuna de Los Vilos, Región de Coquimbo.\n\n#SENAPRED activó mensajería #SAE. \n\nActúa con calma y acata las indicaciones de la autoridad.\n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información: https://web.senapred.cl/dimension-animal/",
+   "region": "Coquimbo",
+   "comunas": [
+    "Los Vilos"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-07-21T20:16:03+00:00",
+   "url": "https://t.me/SenapredChile/1430",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "85cb6b47fbb9",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN! \nPor crecida del Río Copiapó, EVITA la ribera del río, en la comuna de Tierra Amarilla, Región de #Atacama.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "",
+   "comunas": [
+    "Tierra Amarilla"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-07-21T20:09:19+00:00",
+   "url": "https://t.me/SenapredChile/1429",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "d37b6d9922f1",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN!\nSe reitera por por alerta de crecidas, se solicita evitar riberas de ríos, esteros y quebradas de la provincia de Choapa.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-21T19:58:47+00:00",
+   "url": "https://t.me/SenapredChile/1428",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "ac63613cb12a",
+   "nivel": "ROJA",
+   "tipo": "activación de quebradas",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN!\n Por Activación de quebrada Lo Castillo, EVITA sectores Lo Castillo y Los Toyos, en la comuna de Huasco, Región de #Atacama.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "",
+   "comunas": [
+    "Huasco"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-07-21T18:52:57+00:00",
+   "url": "https://t.me/SenapredChile/1427",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "87d48d761c71",
+   "nivel": "ROJA",
+   "tipo": "activación de quebradas",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN! \nPor Activación de quebrada, EVITA sector Quebrada Valparaíso, en la comuna de Vallenar, Región de #Atacama.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "",
+   "comunas": [
+    "Vallenar"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-07-21T17:09:06+00:00",
+   "url": "https://t.me/SenapredChile/1425",
+   "origen": "telegram",
+   "sae": true
+  },
   {
    "id": "a7e9ffe1679d",
    "nivel": "ROJA",
@@ -57,22 +135,6 @@
    "sae": true
   },
   {
-   "id": "ac63613cb12a",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "🔴 #SENAPREDInforma",
-   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN! Por Alerta de crecida del Río Huasco, EVITA la Ribera del río, en las comunas de Huasco, Freirina y Vallenar, Región de #Atacama.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
-   "region": "",
-   "comunas": [
-    "Huasco"
-   ],
-   "estado": "VIGENTE",
-   "ts": "2026-07-21T15:22:48+00:00",
-   "url": "https://t.me/SenapredChile/1418",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
    "id": "908974fcb525",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -87,6 +149,34 @@
    "url": "https://t.me/SenapredChile/1417",
    "origen": "telegram",
    "sae": true
+  },
+  {
+   "id": "d002a00c6ccb",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Aviso A319-10 Viento normal a moderado en zonas de litoral, cordillera de la costa, valle, precordillera y cordillera. 20-07 22-07 Aviso A332-6 Probables tormentas eléctricas. 19-07 21-07 Aviso A333-7 Precipitaciones normales a moderadas en litoral y cordillera de la costa. 21-07 22-07 Aviso A342-3 Viento normal a moderado en cordillera. 23-07 23-07 Asimismo, conforme a lo indi",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-21T15:04:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "fb00097fd45c",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos en la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Aviso A319-10 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. 20-07 22-07 Aviso A332-6 Probables tormentas eléctricas en la región. 19-07 21-07 Aviso A333-7 Precipitaciones normales a moderadas en litoral y cordillera de la costa de la región. 21-07 21-07 Aviso A342-3 Viento normal a moderado en cordillera de la regi",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-21T15:01:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-evento-meteorologico-2026-07-12-16-14-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "3016c50d64a4",
@@ -153,20 +243,46 @@
    "sae": true
   },
   {
-   "id": "87d48d761c71",
-   "nivel": "ROJA",
-   "tipo": "activación de quebradas",
-   "titulo": "🔴 #SENAPREDInforma",
-   "descripcion": "🔴 #SENAPREDInforma\n\n ¡ATENCIÓN REITERACIÓN! \n\nPor Activación de quebradas, EVITA sectores Cachiyuyo y Domeyko, en la comuna de Vallenar, Región de #Atacama. \n\n#SENAPRED activó mensajería #SAE Preventiva. \n \nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
-   "region": "",
-   "comunas": [
-    "Vallenar"
-   ],
+   "id": "482fc9db7680",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica evento de Alerta Temprana Preventiva para la Región de Antofagasta a viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Aviso A320-8 Viento normal a moderado con probabilidad de tormentas de arena en litoral, cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera de la región. 20-07 22-07 Asimismo, se han cancelado los siguientes alertamientos meteorológicos para la región, debido al debilitamiento de las condiciones meteorológicos que l",
+   "region": "Antofagasta",
+   "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-07-21T13:57:35+00:00",
-   "url": "https://t.me/SenapredChile/1410",
-   "origen": "telegram",
-   "sae": true
+   "ts": "2026-07-21T14:23:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-07-12-14-52-02",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a0efe8f040ba",
+   "nivel": "ROJA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Aviso A319-10 Viento normal a moderado en litoral, cordillera de la costa, precordillera, valles precordilleranos y cordillera (entre 25 y 80 km/h). 20-07 22-07 Aviso A322-7 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera (entre 35 y 45 cm). 20-07 21-07 Aviso A332-6 Probables tormentas eléctricas en la región. 19-07 21-07 Aviso A333-7 Precipitaciones",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-21T14:05:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ebfcdd923234",
+   "nivel": "ATP",
+   "tipo": "marejadas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Isla de Pascua por marejadas anormales",
+   "descripcion": "De acuerdo con la información proporcionada por el Centro Meteorológico Marítimo Regional de Valparaíso , mediante su Aviso N°34, se indica que se presentarán marejadas anormales en el sector de Isla de Pascua, Región de Valparaíso. Se estima que el inicio de esta condición se manifieste desde el jueves 23 hasta el domingo 26 de julio, alcanzando su mayor desarrollo en las respectivas horas de pleamar, especialmente entre las 02:00 y 04:00 horas y entre las 14:00 y 16:00 horas. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dir",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-21T13:42:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-07-21-14-13-53",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "d3ef68ec724b",
@@ -215,6 +331,20 @@
    "url": "https://t.me/SenapredChile/1405",
    "origen": "telegram",
    "sae": true
+  },
+  {
+   "id": "1992fc646ae8",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Se cancela Alerta Roja para la comuna de María Pinto por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile , se registra un debilitamiento de las condiciones meteorológicas que generaron amenaza de desborde del Canal Mercedes y la activación de diversas quebradas que presentaron condiciones de riesgo para la población en los sectores de Améstica, Santa Emilia, y Baracaldo en la comuna de Maria Pinto. En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED cancela la Alerta Roja por evento meteorológico para la comuna de María",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-07-21T12:36:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-maria-pinto-por-evento-meteorologico-2026-07-17-19-34-08",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "01d1afc83a06",
@@ -333,20 +463,6 @@
    "url": "https://t.me/SenapredChile/1398",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "4ed7f2663ac7",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Aviso A320-7 Viento normal a moderado, con probabilidad de tormentas de arena en litoral, cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 20-07 22-07 Aviso A338 Precipitaciones normales a moderadas en costa (Paposo al sur) (entre 1 y 5 mm). 19-07 21-07 Aviso 340-1 Nevadas normales a moderadas con probabilid",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T22:00:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-07-12-14-52-02",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "838cc800e802",
@@ -469,20 +585,6 @@
    "url": "https://t.me/SenapredChile/1393",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "364d3ea6ed93",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Aviso A319-10 Viento normal a moderado en zonas de litoral, cordillera de la costa, valle, precordillera y cordillera. 20-07 22-07 Aviso A332-6 Probables tormentas eléctricas. 19-07 21-07 Aviso A333-6 Precipitaciones normales a moderadas en litoral y cordillera de la costa. 20-07 22-07 Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica, los montos de Precip",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T15:24:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "f34a4c399b40",
@@ -980,20 +1082,6 @@
    "sae": true
   },
   {
-   "id": "64cabc53a749",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), fueron cancelados los siguientes alertamientos meteorológicos para la Región de O’Higgins: Alertamiento Pronóstico Alarma AAA4 Precipitaciones intensas (entre 90 y 120 mm) en la región. Alerta AA90-5 Viento moderado a fuerte en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. Alerta AA91-1 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa, valle y precordillera de la región. Alerta AA92-3 Nevadas Moderadas a Fuertes (con desarrollo de ventisca) en cord",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-18T17:30:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-evento-meteorologico-2026-07-12-16-14-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "ba36f5b7b15e",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -1159,18 +1247,17 @@
    "sae": true
   },
   {
-   "id": "847c319e04db",
+   "id": "dee53ac5ef5a",
    "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se declara Alerta Roja para la comuna de María Pinto por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Metropolitana, el Canal Mercedes presenta amenaza de desborde y se reporta la activación de diversas quebradas en la comuna de María Pinto, las cuales generan condiciones de riesgo para la población en los sectores de Améstica, Santa Emilia, y Baracaldo. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED declara Alerta Roja por evento meteorológico para la comuna de María Pinto, vigente a contar de hoy y hasta que las",
+   "tipo": "crecida de río",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por crecida del Río Mapocho #SENAPRED solicita evacuar sector Campamento Ribera del Río en la comuna de #Talagante, Región Metropolitana.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.  \nMás información en https://web.senapred.cl/dimension-animal/",
    "region": "Metropolitana de Santiago",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-07-17T19:33:20.2020-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-maria-pinto-por-evento-meteorologico-2026-07-17-19-34-08",
-   "origen": "senapred_web",
-   "regiones_extra": [],
+   "ts": "2026-07-17T17:12:34+00:00",
+   "url": "https://t.me/SenapredChile/1290",
+   "origen": "telegram",
    "sae": true
   },
   {
@@ -1367,7 +1454,7 @@
    "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) y en atención a los pronósticos meteorológicos informados por la Dirección Meteorológica de Chile, se prevé una tendencia progresiva del aumento de los cauces de ríos y esteros, generando un aumento del riesgo asociado a crecidas y/o desbordes. Cabe señalar que, conforme al desarrollo del sistema frontal y de acuerdo comportamiento efectivo de los caudales y niveles observados, la DGA mantiene permanentemente monitoreo de las estaciones fluviales en la Región del Biobío. En consideración a estos antecedentes y en",
    "region": "Biobío",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-14T16:05:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-crecida-2026-07-14-17-48-08",
    "origen": "senapred_web",
