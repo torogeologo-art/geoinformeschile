@@ -84,5 +84,35 @@
 },
 "sector cancha brava|salamanca": null,
 "quebrada montegrande|paihuano": null,
-"sector montegrande|paihuano": null
+"sector montegrande|paihuano": null,
+"rio quilimari|los vilos": {
+"lat": -32.13907,
+"lon": -71.35922
+},
+"quebrada lo castillo|huasco": null,
+"sectores lo castillo|huasco": null,
+"sector quebrada valparaiso|vallenar": null,
+"sector totoral|copiapo": null,
+"sectores asiento viejo|illapel": null,
+"sector puente talca|la vallenar": null,
+"quebrada santa gracia|la serena": {
+"lat": -29.89371,
+"lon": -71.18109
+},
+"sector villa pablo neruda|vallenar": null,
+"sector maitencillo|freirina": null,
+"rio choapa|salamanca": {
+"lat": -31.78544,
+"lon": -70.96057
+},
+"sector tambo faro|salamanca": {
+"lat": -31.78497,
+"lon": -71.00078
+},
+"estero canela alta|canela": {
+"lat": -31.38882,
+"lon": -71.39759
+},
+"quebrada tres cruces|paihuano": null,
+"sector tres cruces|paihuano": null
 }

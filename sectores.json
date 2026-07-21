@@ -1,7 +1,73 @@
 {
- "generado": "2026-07-20T20:47:47+00:00",
+ "generado": "2026-07-21T20:44:32+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
+  {
+   "nombre": "río Quilimarí",
+   "lat": -32.13907,
+   "lon": -71.35922,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Los Vilos",
+   "url": "https://t.me/SenapredChile/1430",
+   "ts": "2026-07-21T20:16"
+  },
+  {
+   "nombre": "quebrada Santa Gracia",
+   "lat": -29.89371,
+   "lon": -71.18109,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "La Serena",
+   "url": "https://t.me/SenapredChile/1417",
+   "ts": "2026-07-21T15:09"
+  },
+  {
+   "nombre": "río Limarí",
+   "lat": -30.63894,
+   "lon": -71.36084,
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "sae": true,
+   "lugar": "Ovalle",
+   "url": "https://t.me/SenapredChile/1416",
+   "ts": "2026-07-21T15:00"
+  },
+  {
+   "nombre": "río Choapa",
+   "lat": -31.78544,
+   "lon": -70.96057,
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "sae": true,
+   "lugar": "Salamanca",
+   "url": "https://t.me/SenapredChile/1413",
+   "ts": "2026-07-21T14:49"
+  },
+  {
+   "nombre": "sector Tambo Faro",
+   "lat": -31.78497,
+   "lon": -71.00078,
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "sae": true,
+   "lugar": "Salamanca",
+   "url": "https://t.me/SenapredChile/1413",
+   "ts": "2026-07-21T14:49"
+  },
+  {
+   "nombre": "estero Canela Alta",
+   "lat": -31.38882,
+   "lon": -71.39759,
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "sae": true,
+   "lugar": "Canela",
+   "url": "https://t.me/SenapredChile/1408",
+   "ts": "2026-07-21T13:18"
+  },
   {
    "nombre": "río Chalinga",
    "lat": -31.71216,
@@ -56,17 +122,6 @@
    "lugar": "Vicuña",
    "url": "https://t.me/SenapredChile/1352",
    "ts": "2026-07-19T20:10"
-  },
-  {
-   "nombre": "río Limarí",
-   "lat": -30.63894,
-   "lon": -71.36084,
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "sae": true,
-   "lugar": "Ovalle",
-   "url": "https://t.me/SenapredChile/1347",
-   "ts": "2026-07-19T18:04"
   },
   {
    "nombre": "quebrada El Jilguero",
