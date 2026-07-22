@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-22T09:38:37+00:00",
+ "generado": "2026-07-22T15:25:42+00:00",
  "evento": {
   "nombre": "Sistema frontal — evento meteorológico en monitoreo",
   "desde": "12-07-2026",
@@ -11,14 +11,14 @@
   "comunas": 22,
   "regiones": 17,
   "por_nivel": {
-   "ATP": 32,
    "ROJA": 73,
-   "AMARILLA": 20
+   "ATP": 31,
+   "AMARILLA": 21
   },
   "por_tipo": [
    [
     "crecida de río",
-    35
+    36
    ],
    [
     "desborde",
@@ -41,11 +41,11 @@
     5
    ],
    [
-    "marejadas",
+    "aluvión",
     2
    ],
    [
-    "aluvión",
+    "incendio forestal",
     2
    ]
   ]
@@ -702,17 +702,6 @@
     "region_link": "los lagos"
    }
   ],
-  "marejadas": [
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "12-07",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   }
-  ],
   "aluvión": [
    {
     "lugar": "Región de Valparaíso",
@@ -732,11 +721,22 @@
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
    }
+  ],
+  "incendio forestal": [
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "17-07",
+    "comuna_link": "",
+    "region_link": "tarapaca"
+   }
   ]
  },
  "vigentes": {
-  "ROJA": 63,
-  "AMARILLA": 3,
+  "ROJA": 62,
+  "AMARILLA": 4,
   "ATP": 13,
   "regiones_roja": [
    "Atacama",
@@ -753,7 +753,7 @@
    "fecha": "2026-07-12",
    "ROJA": 1,
    "AMARILLA": 0,
-   "ATP": 1,
+   "ATP": 0,
    "sae": 0
   },
   {
@@ -815,45 +815,12 @@
   {
    "fecha": "2026-07-22",
    "ROJA": 2,
-   "AMARILLA": 0,
+   "AMARILLA": 1,
    "ATP": 1,
    "sae": 1
   }
  ],
  "escalamientos": [
-  {
-   "lugar": "Región de Valparaíso",
-   "region": "Valparaíso",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "19-07 06:19",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "19-07 18:18",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "20-07 19:52",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "20-07 23:00",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "21-07 13:42",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
   {
    "lugar": "Región de Maule",
    "region": "Maule",
@@ -888,6 +855,72 @@
    ]
   },
   {
+   "lugar": "Región de Biobío",
+   "region": "Biobío",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "14-07 16:05",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "16-07 17:42",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-07 13:39",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "20-07 10:53",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "22-07 06:40",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Valparaíso",
+   "region": "Valparaíso",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "19-07 06:19",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "19-07 18:18",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "20-07 19:52",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "20-07 23:00",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "21-07 13:42",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Atacama",
    "region": "Atacama",
    "sae": true,
@@ -916,34 +949,6 @@
     {
      "nivel": "AMARILLA",
      "ts": "21-07 02:42",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Biobío",
-   "region": "Biobío",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "14-07 16:05",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "16-07 17:42",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "17-07 13:39",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "20-07 10:53",
      "estado": "VIGENTE"
     }
    ]
@@ -1019,6 +1024,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "22-07 06:40",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Biobío",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco--por-crecida-2026-07-22-06-41-16"
+  },
   {
    "ts": "22-07 01:52",
    "nivel": "ATP",
@@ -1135,15 +1149,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23"
-  },
-  {
-   "ts": "21-07 13:42",
-   "nivel": "ATP",
-   "lugar": "Región de Valparaíso",
-   "tipo": "marejadas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-07-21-14-13-53"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

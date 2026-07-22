@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-22T09:38:21+00:00",
+ "generado": "2026-07-22T15:25:28+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 79,
  "alertas": [
+  {
+   "id": "bdb410165680",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Se cancela Alerta Roja para la comuna de Salamanca por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ Río Chalinga en La Palmilla ”, ubicada en la comuna de Salamanca, registra nuevamente niveles de caudal establecidos dentro de los parámetros de seguridad óptimos por el organismo técnico, lo que supone una disminución del riesgo para la población cercana a este curso de agua. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Roja por desborde para la comuna de Salamanca , que se man",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-07-22T11:17:11.1111-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-salamanca-por-desborde-2026-07-20-15-12-41",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "3f023a6a8633",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para la comuna de Arauco  por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “Río Pichilo en Pichilo” ubicada en la comuna de Arauco, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Arauco, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-22T06:40:20.2020-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco--por-crecida-2026-07-22-06-41-16",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "9dfa3c17b91e",
    "nivel": "ATP",
@@ -19,20 +47,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-22T01:52:27.2727-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-evento-meteorologico-2026-07-16-12-11-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "3e4f7559b53b",
-   "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Aviso A319-10 Viento normal a moderado en litoral, cordillera de la costa, precordillera, valles precordilleranos y cordillera (entre 25 y 80 km/h). 20-07 22-07 Asimismo, la Dirección Meteorológica de Chile (DMC) informa que se ha cancelado los siguientes alertamientos, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Aviso A322",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-22T01:39:46.4646-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -659,21 +673,6 @@
    "sae": true
   },
   {
-   "id": "f34a4c399b40",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se declara Alerta Roja para la comuna de Salamanca por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ Río Chalinga en La Palmilla ”, ubicada en la comuna de Salamanca, indica un incremento en su caudal , alcanzando valores de umbral rojo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Roja por desborde para la comuna de Salamanca , vigente desde hoy y hasta que las condiciones así lo ameriten.",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T15:08:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-salamanca-por-desborde-2026-07-20-15-12-41",
-   "origen": "senapred_web",
-   "regiones_extra": [],
-   "sae": true
-  },
-  {
    "id": "fa79815343be",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
@@ -730,6 +729,20 @@
    "estado": "VIGENTE",
    "ts": "2026-07-20T13:49:30+00:00",
    "url": "https://t.me/SenapredChile/1389",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "792244ba0e97",
+   "nivel": "ROJA",
+   "tipo": "activación de quebradas",
+   "titulo": "¡ATENCIÓN! Por activación de Quebrada La Lucha #SENAPRED solicita evacuar sector La Lucha en la comuna de #Punitaqui, Región de Coquimbo.",
+   "descripcion": "¡ATENCIÓN! Por activación de Quebrada La Lucha #SENAPRED solicita evacuar sector La Lucha en la comuna de #Punitaqui, Región de Coquimbo.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.  \nMás información en: https://web.senapred.cl/dimension-animal/",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-20T11:26:05+00:00",
+   "url": "https://t.me/SenapredChile/1387",
    "origen": "telegram",
    "sae": true
   },

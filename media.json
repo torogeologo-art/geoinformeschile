@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-22T09:38:37+00:00",
- "desde": "2026-07-20T09:38:26Z",
+ "generado": "2026-07-22T15:25:41+00:00",
+ "desde": "2026-07-20T15:25:31Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,35 +9,46 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "jaROuWI3efE",
-     "url": "https://www.youtube.com/watch?v=jaROuWI3efE",
-     "titulo": "Las fuertes rachas de viento que se registran en Coquimbo por sistema frontal",
-     "canal": "Bio Bio",
-     "publicado": "2026-07-21T13:30:05Z",
+     "id": "gmFWNyqy4Uo",
+     "url": "https://www.youtube.com/watch?v=gmFWNyqy4Uo",
+     "titulo": "😱🚨 Terremoto cerca de Illapel, Provincia de Choapa, Región de Coquimbo, Chile actualizaciones en viv",
+     "canal": "lindunow",
+     "publicado": "2026-07-22T09:56:07Z",
      "live": false,
-     "score": 4.32,
+     "score": 7.54,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "cDzXnb2Vfic",
-     "url": "https://www.youtube.com/watch?v=cDzXnb2Vfic",
-     "titulo": "FUERTES RÁFAGAS DE VIENTO EN LA REGIÓN DE COQUIMBO",
-     "canal": "Bío Bío Plus",
-     "publicado": "2026-07-21T13:10:25Z",
+     "id": "mvgfaFzJwxs",
+     "url": "https://www.youtube.com/watch?v=mvgfaFzJwxs",
+     "titulo": "¿Peor que un terremoto? Los daños del sistema frontal en las provincias de Limarí y Choapa",
+     "canal": "Bio Bio",
+     "publicado": "2026-07-21T14:00:22Z",
      "live": false,
-     "score": 4.29,
+     "score": 5.88,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "ZlYJ59Fs-50",
-     "url": "https://www.youtube.com/watch?v=ZlYJ59Fs-50",
-     "titulo": "¿Dónde lloverá? Anuncian ingreso de nuevo sistema frontal con fuertes vientos",
-     "canal": "Bio Bio",
-     "publicado": "2026-07-21T17:30:02Z",
+     "id": "dppBs1cPz7g",
+     "url": "https://www.youtube.com/watch?v=dppBs1cPz7g",
+     "titulo": "😱🚨 Terremoto cerca de Illapel, Provincia de Choapa, Región de Coquimbo, Chile actualizaciones en viv",
+     "canal": "lindunow",
+     "publicado": "2026-07-21T05:08:27Z",
      "live": false,
-     "score": 1.65,
+     "score": 5.14,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "NWZ_aZAAZoQ",
+     "url": "https://www.youtube.com/watch?v=NWZ_aZAAZoQ",
+     "titulo": "Así luce la impactante confluencia de los ríos Illapel y Choapa tras el temporal",
+     "canal": "TVN Chile",
+     "publicado": "2026-07-20T16:23:45Z",
+     "live": false,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     }
@@ -55,36 +66,7 @@
      "canal": "MATIAS EN ESPAÑOL",
      "publicado": "2026-07-21T16:05:02Z",
      "live": false,
-     "score": 6.54,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "illapel": {
-   "comuna": "Illapel",
-   "region": "",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "NOnnSbcZpmY",
-     "url": "https://www.youtube.com/watch?v=NOnnSbcZpmY",
-     "titulo": "Ruta cortada por crecida del Río Illapel",
-     "canal": "Meganoticias",
-     "publicado": "2026-07-20T22:15:04Z",
-     "live": false,
-     "score": 3.05,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "m369nyRgNfo",
-     "url": "https://www.youtube.com/watch?v=m369nyRgNfo",
-     "titulo": "Parte de puente en Illapel cede producto de crecida de río",
-     "canal": "Teletrece",
-     "publicado": "2026-07-20T12:26:58Z",
-     "live": false,
-     "score": 3.0,
+     "score": 6.05,
      "verificado": false,
      "embeddable": true
     }
@@ -102,29 +84,7 @@
      "canal": "Ledrium",
      "publicado": "2026-07-21T12:38:08Z",
      "live": true,
-     "score": 0.25,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "vEgj0Jutu6k",
-     "url": "https://www.youtube.com/watch?v=vEgj0Jutu6k",
-     "titulo": "Marejadas UV || Reñaca || Viña del Mar || Chile en vivo",
-     "canal": "Marejadas UV",
-     "publicado": "2026-07-21T15:44:37Z",
-     "live": true,
-     "score": -0.49,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "WypSxs59_bk",
-     "url": "https://www.youtube.com/watch?v=WypSxs59_bk",
-     "titulo": "Ledrium - Tobalaba, MUT, Av. Providencia, Santiago, Chile, Live cam, en vivo, en directo",
-     "canal": "Ledrium",
-     "publicado": "2026-07-20T15:20:35Z",
-     "live": true,
-     "score": -1.0,
+     "score": -0.23,
      "verificado": false,
      "embeddable": true
     },
@@ -135,7 +95,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-07-22T01:45:15Z",
      "live": false,
-     "score": 7.34,
+     "score": 6.86,
      "verificado": false,
      "embeddable": true
     },
@@ -146,7 +106,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-07-21T18:22:29Z",
      "live": false,
-     "score": 6.73,
+     "score": 6.25,
      "verificado": false,
      "embeddable": true
     }
@@ -164,7 +124,7 @@
      "canal": "Fe Mundial Bilingüe ",
      "publicado": "2026-07-21T22:55:05Z",
      "live": false,
-     "score": 7.11,
+     "score": 6.62,
      "verificado": false,
      "embeddable": true
     },
@@ -175,7 +135,7 @@
      "canal": "Late Positivo 2026",
      "publicado": "2026-07-21T22:54:11Z",
      "live": false,
-     "score": 7.11,
+     "score": 6.62,
      "verificado": false,
      "embeddable": true
     },
@@ -186,7 +146,7 @@
      "canal": "MiRegión Noticias",
      "publicado": "2026-07-21T15:06:14Z",
      "live": false,
-     "score": 6.46,
+     "score": 5.97,
      "verificado": false,
      "embeddable": true
     },
@@ -197,7 +157,7 @@
      "canal": "Johnson araya",
      "publicado": "2026-07-21T02:23:33Z",
      "live": false,
-     "score": 5.4,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     },
@@ -213,24 +173,13 @@
      "embeddable": true
     },
     {
-     "id": "gEcTIbJAcQw",
-     "url": "https://www.youtube.com/watch?v=gEcTIbJAcQw",
-     "titulo": "El Villorrio de Talhuen, Ovalle tras lluvias 20 de julio",
-     "canal": "MiRegión Noticias",
-     "publicado": "2026-07-20T14:19:19Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "RpFtG558j18",
      "url": "https://www.youtube.com/watch?v=RpFtG558j18",
      "titulo": "Agua ingresa a viviendas tras cecida de río Limarí",
      "canal": "Meganoticias",
      "publicado": "2026-07-21T17:09:26Z",
      "live": false,
-     "score": 3.63,
+     "score": 3.14,
      "verificado": false,
      "embeddable": true
     },
@@ -241,120 +190,18 @@
      "canal": "Meganoticias",
      "publicado": "2026-07-20T23:36:24Z",
      "live": false,
-     "score": 3.16,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "freirina": {
-   "comuna": "Freirina",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "5pfd2-TP600",
-     "url": "https://www.youtube.com/watch?v=5pfd2-TP600",
-     "titulo": "Vecinos salvaron a conductor de un camión tras caer a un socavón en Freirina - CHV Noticias",
-     "canal": "CHV Noticias",
-     "publicado": "2026-07-21T00:35:04Z",
-     "live": false,
-     "score": 5.25,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "6R_c-ohBgtU",
-     "url": "https://www.youtube.com/watch?v=6R_c-ohBgtU",
-     "titulo": "Alcalde de Freirina pide apoyo aéreo urgente por pobladores aislados",
-     "canal": "ADN Chile",
-     "publicado": "2026-07-21T17:32:07Z",
-     "live": false,
-     "score": 4.66,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "ERb2snmVQ-k",
-     "url": "https://www.youtube.com/watch?v=ERb2snmVQ-k",
-     "titulo": "“¡AMÁRRATE A LA CUERDA!”: El impactante rescate de chofer que cayó en socavón en Freirina",
-     "canal": "CHV Noticias",
-     "publicado": "2026-07-20T22:45:04Z",
-     "live": false,
-     "score": 3.09,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "ZfhxDEycgLg",
-     "url": "https://www.youtube.com/watch?v=ZfhxDEycgLg",
-     "titulo": "Camión cayó a socavón en Freirina en medio de sistema frontal: Vecinos rescataron a conductor",
-     "canal": "CHV Noticias",
-     "publicado": "2026-07-20T13:57:37Z",
-     "live": false,
      "score": 3.0,
      "verificado": false,
      "embeddable": true
-    }
-   ]
-  },
-  "salamanca": {
-   "comuna": "Salamanca",
-   "region": "",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "UDtnjSw7K0Q",
-     "url": "https://www.youtube.com/watch?v=UDtnjSw7K0Q",
-     "titulo": "plaza de salamanca",
-     "canal": "VIAJANDO CON PITUTO",
-     "publicado": "2026-07-22T01:00:32Z",
-     "live": false,
-     "score": 7.28,
-     "verificado": false,
-     "embeddable": true
     },
     {
-     "id": "BEPJdI3Pnq0",
-     "url": "https://www.youtube.com/watch?v=BEPJdI3Pnq0",
-     "titulo": "Alcalde de Salamanca y la grave emergencia por lluvias en Choapa",
-     "canal": "ADN Chile",
-     "publicado": "2026-07-21T17:47:17Z",
+     "id": "Ry7At9Fqb3s",
+     "url": "https://www.youtube.com/watch?v=Ry7At9Fqb3s",
+     "titulo": "El Embalse Recoleta, ubicado en la Provincia del Limarí, continúa siendo monitoreado debido al…",
+     "canal": "MI RADIO TV",
+     "publicado": "2026-07-21T00:21:04Z",
      "live": false,
-     "score": 6.68,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "xjkncJ-zbHk",
-     "url": "https://www.youtube.com/watch?v=xjkncJ-zbHk",
-     "titulo": "🚨 Alerta SAE interrumpe entrevista en vivo durante cobertura especial desde Salamanca #shorts",
-     "canal": "Radio Riquelme",
-     "publicado": "2026-07-22T02:51:40Z",
-     "live": false,
-     "score": 5.43,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "7FmIEzVZCNQ",
-     "url": "https://www.youtube.com/watch?v=7FmIEzVZCNQ",
-     "titulo": "❄️ Nieva en Tencadán: equipos recorren la cordillera de Salamanca por la emergencia #shorts",
-     "canal": "Radio Riquelme",
-     "publicado": "2026-07-21T21:02:54Z",
-     "live": false,
-     "score": 4.95,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "-1_FOYiTBHU",
-     "url": "https://www.youtube.com/watch?v=-1_FOYiTBHU",
-     "titulo": "🚨 Centro de Salamanca se inunda por intensas lluvias: calles completamente anegadas #shorts",
-     "canal": "Radio Riquelme",
-     "publicado": "2026-07-21T20:01:27Z",
-     "live": false,
-     "score": 4.87,
+     "score": 2.0,
      "verificado": false,
      "embeddable": true
     }
@@ -366,13 +213,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "xCeTC9X1d1M",
-     "url": "https://www.youtube.com/watch?v=xCeTC9X1d1M",
-     "titulo": "Câmera Ao Vivo 02 - Gramado Canela Brasil AGORA - NOW Live - Brazil Brasil IRL",
-     "canal": "Tarcila STR",
-     "publicado": "2026-07-21T17:45:04Z",
+     "id": "1qO5YFBqT6o",
+     "url": "https://www.youtube.com/watch?v=1qO5YFBqT6o",
+     "titulo": "RADIACIÓN TEMPRANA | RADIO CANELA | EN VIVO",
+     "canal": "RADIO CANELA",
+     "publicado": "2026-07-22T13:50:13Z",
      "live": true,
-     "score": 6.68,
+     "score": 7.87,
      "verificado": false,
      "embeddable": true
     },
@@ -383,91 +230,87 @@
      "canal": "Tarcila STR",
      "publicado": "2026-07-21T17:43:32Z",
      "live": true,
-     "score": 6.67,
+     "score": 6.19,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "FiIMQIktjnY",
-     "url": "https://www.youtube.com/watch?v=FiIMQIktjnY",
-     "titulo": "Fenogreco y Canela para la Glucosa: Qué Funciona Realmente en 21 Días",
-     "canal": "EDU Diabetes en Español",
-     "publicado": "2026-07-22T03:00:34Z",
-     "live": false,
-     "score": 5.45,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "N9scdfTLaps",
-     "url": "https://www.youtube.com/watch?v=N9scdfTLaps",
-     "titulo": "Episódio 18 - Canela Amarela: Pecuária, Ciclo de Alta e a Conta que Vai Chegar",
-     "canal": "Grupo Ceres Investimentos ",
-     "publicado": "2026-07-21T19:52:27Z",
-     "live": false,
-     "score": 4.85,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "x9V-FJdVVwA",
-     "url": "https://www.youtube.com/watch?v=x9V-FJdVVwA",
-     "titulo": "Episódio 17 - Canela Amarela: Açúcar, Etanol e os Anos Difíceis que Estão por Vir",
-     "canal": "Grupo Ceres Investimentos ",
-     "publicado": "2026-07-20T19:36:06Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "DlupBi0xzY4",
-     "url": "https://www.youtube.com/watch?v=DlupBi0xzY4",
-     "titulo": "Potencia tus decretos de abundancia con agua y canela antes del café",
-     "canal": "Reflejo Vital",
-     "publicado": "2026-07-20T17:11:31Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "uVRJSbLhOBw",
-     "url": "https://www.youtube.com/watch?v=uVRJSbLhOBw",
-     "titulo": "Daniela acusada en el Canela Gate gana con Top 10 | MasterChef Argentina",
-     "canal": "MasterChef Argentina",
-     "publicado": "2026-07-20T16:00:23Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": false
-    },
-    {
-     "id": "2CH5BX8I1Rc",
-     "url": "https://www.youtube.com/watch?v=2CH5BX8I1Rc",
-     "titulo": "Look - Blusa canela e Pantalona de Viscolinho",
-     "canal": "Amicia Fashion",
-     "publicado": "2026-07-20T15:51:49Z",
-     "live": false,
-     "score": 3.0,
+     "id": "xCeTC9X1d1M",
+     "url": "https://www.youtube.com/watch?v=xCeTC9X1d1M",
+     "titulo": "Câmera Ao Vivo 02 - Gramado Canela Brasil AGORA - NOW Live - Brazil Brasil IRL",
+     "canal": "Tarcila STR",
+     "publicado": "2026-07-21T17:45:04Z",
+     "live": true,
+     "score": 6.19,
      "verificado": false,
      "embeddable": true
     }
    ]
   },
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
+  "valparaiso": {
+   "comuna": "Valparaíso",
+   "region": "Valparaíso",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "1_QqsqCVcsM",
-     "url": "https://www.youtube.com/watch?v=1_QqsqCVcsM",
-     "titulo": "¿Tormenta y fuertes lluvias? El pronóstico para Atacama, Coquimbo, Valparaíso y RM",
-     "canal": "Bio Bio",
-     "publicado": "2026-07-20T14:30:42Z",
+     "id": "THrd09aV42Q",
+     "url": "https://www.youtube.com/watch?v=THrd09aV42Q",
+     "titulo": "Transmisión en vivo , Camaras Valparaiso y Viña del Mar",
+     "canal": "PortalMedios Comunicaciones",
+     "publicado": "2026-07-21T18:27:03Z",
+     "live": true,
+     "score": 6.25,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "4Oh2HUpy4Rw",
+     "url": "https://www.youtube.com/watch?v=4Oh2HUpy4Rw",
+     "titulo": "Marejadas UV || Playa Las Torpederas || Valparaíso || chile en vivo",
+     "canal": "Marejadas UV",
+     "publicado": "2026-07-21T16:01:29Z",
+     "live": true,
+     "score": 6.05,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "bBgyVWG1mjc",
+     "url": "https://www.youtube.com/watch?v=bBgyVWG1mjc",
+     "titulo": "Viña del Mar EN VIVO 🇨🇱 Cámara urbana | Chile Live Webcam",
+     "canal": "Viña CAM",
+     "publicado": "2026-07-22T02:29:00Z",
+     "live": true,
+     "score": -3.08,
+     "verificado": false,
+     "embeddable": false
+    }
+   ]
+  },
+  "salamanca": {
+   "comuna": "Salamanca",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "b2rR9qSgjJU",
+     "url": "https://www.youtube.com/watch?v=b2rR9qSgjJU",
+     "titulo": "Salamanca ALERTA SAE para  evacuar sector Cancha Brava  cruce Huanque por desborde de Rio Chalinga.",
+     "canal": "MEDIO INFORMATIVO NACIONAL 🇨🇱 ",
+     "publicado": "2026-07-20T20:02:12Z",
      "live": false,
-     "score": 3.0,
+     "score": 7.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "LT5sf-9VE0M",
+     "url": "https://www.youtube.com/watch?v=LT5sf-9VE0M",
+     "titulo": "📻#Ultimominuto | Declaran Alerta Roja en Salamanca por desborde del río Chalinga",
+     "canal": "Agricultura TV",
+     "publicado": "2026-07-20T19:59:54Z",
+     "live": false,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     }
