@@ -1,35 +1,35 @@
 {
- "generado": "2026-07-21T20:44:45+00:00",
+ "generado": "2026-07-22T00:04:13+00:00",
  "evento": {
   "nombre": "Sistema frontal — evento meteorológico en monitoreo",
-  "desde": "11-07-2026",
-  "hasta": "21-07-2026"
+  "desde": "12-07-2026",
+  "hasta": "22-07-2026"
  },
  "totales": {
-  "alertas": 123,
-  "sae": 61,
+  "alertas": 124,
+  "sae": 62,
   "comunas": 22,
   "regiones": 17,
   "por_nivel": {
    "ATP": 32,
-   "ROJA": 71,
+   "ROJA": 72,
    "AMARILLA": 20
   },
   "por_tipo": [
    [
     "crecida de río",
-    34
+    35
    ],
    [
     "desborde",
     27
    ],
    [
-    "tormentas eléctricas",
-    18
+    "viento",
+    19
    ],
    [
-    "viento",
+    "tormentas eléctricas",
     17
    ],
    [
@@ -38,7 +38,7 @@
    ],
    [
     "evento meteorológico",
-    8
+    6
    ],
    [
     "marejadas",
@@ -397,98 +397,6 @@
     "region_link": "coquimbo"
    }
   ],
-  "tormentas eléctricas": [
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "19-07",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "20-07",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "21-07",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "19-07",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "11-07",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-    "region": "Aysén del General Carlos Ibáñez del Campo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "14-07",
-    "comuna_link": "",
-    "region_link": "aysen del general carlos ibanez del campo"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "19-07",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "19-07",
-    "comuna_link": "",
-    "region_link": "tarapaca"
-   },
-   {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "20-07",
-    "comuna_link": "",
-    "region_link": "arica y parinacota"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "20-07",
-    "comuna_link": "",
-    "region_link": "maule"
-   }
-  ],
   "viento": [
    {
     "lugar": "Región de Coquimbo",
@@ -590,6 +498,98 @@
     "region_link": "los lagos"
    }
   ],
+  "tormentas eléctricas": [
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "20-07",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "21-07",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "14-07",
+    "comuna_link": "",
+    "region_link": "aysen del general carlos ibanez del campo"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "20-07",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "20-07",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "21-07",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
+   }
+  ],
   "activación de quebradas": [
    {
     "lugar": "Caldera",
@@ -684,24 +684,6 @@
     "region_link": "los rios"
    },
    {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "11-07",
-    "comuna_link": "",
-    "region_link": "tarapaca"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "11-07",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
     "lugar": "Región de Atacama",
     "region": "Atacama",
     "nivel": "ATP",
@@ -762,9 +744,9 @@
   ]
  },
  "vigentes": {
-  "ROJA": 62,
+  "ROJA": 63,
   "AMARILLA": 3,
-  "ATP": 11,
+  "ATP": 13,
   "regiones_roja": [
    "Atacama",
    "Biobío",
@@ -780,7 +762,7 @@
    "fecha": "2026-07-11",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 4,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -843,8 +825,15 @@
    "fecha": "2026-07-21",
    "ROJA": 22,
    "AMARILLA": 1,
-   "ATP": 6,
+   "ATP": 9,
    "sae": 17
+  },
+  {
+   "fecha": "2026-07-22",
+   "ROJA": 1,
+   "AMARILLA": 0,
+   "ATP": 0,
+   "sae": 1
   }
  ],
  "escalamientos": [
@@ -948,34 +937,6 @@
    ]
   },
   {
-   "lugar": "Región de Tarapacá",
-   "region": "Tarapacá",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "11-07 19:53",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "17-07 19:40",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "18-07 19:36",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "19-07 23:53",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Biobío",
    "region": "Biobío",
    "sae": true,
@@ -1027,24 +988,24 @@
    ]
   },
   {
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "region": "Libertador General Bernardo O'Higgins",
+   "lugar": "Región de Los Ríos",
+   "region": "Los Ríos",
    "sae": false,
    "max": "AMARILLA",
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "11-07 20:02",
+     "ts": "17-07 11:53",
      "estado": "CANCELADA"
     },
     {
      "nivel": "AMARILLA",
-     "ts": "18-07 17:30",
+     "ts": "17-07 12:36",
      "estado": "CANCELADA"
     },
     {
      "nivel": "ATP",
-     "ts": "21-07 15:01",
+     "ts": "21-07 17:35",
      "estado": "VIGENTE"
     }
    ]
@@ -1071,27 +1032,45 @@
      "estado": "VIGENTE"
     }
    ]
-  },
-  {
-   "lugar": "Región de Los Ríos",
-   "region": "Los Ríos",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "17-07 11:53",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "17-07 12:36",
-     "estado": "CANCELADA"
-    }
-   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "22-07 00:02",
+   "nivel": "ROJA",
+   "lugar": "Salamanca",
+   "tipo": "crecida de río",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1433"
+  },
+  {
+   "ts": "21-07 18:34",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "nevadas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
+  },
+  {
+   "ts": "21-07 17:52",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59"
+  },
+  {
+   "ts": "21-07 17:35",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-viento-2026-07-21-18-46-40"
+  },
   {
    "ts": "21-07 20:16",
    "nivel": "ROJA",
@@ -1181,42 +1160,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1421"
-  },
-  {
-   "ts": "21-07 15:47",
-   "nivel": "ROJA",
-   "lugar": "Illapel",
-   "tipo": "crecida de río",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1420"
-  },
-  {
-   "ts": "21-07 15:42",
-   "nivel": "ROJA",
-   "lugar": "La Vallenar",
-   "tipo": "crecida de río",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1419"
-  },
-  {
-   "ts": "21-07 15:22",
-   "nivel": "ROJA",
-   "lugar": "Huasco",
-   "tipo": "crecida de río",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1418"
-  },
-  {
-   "ts": "21-07 11:20",
-   "nivel": "ROJA",
-   "lugar": "Región de Valparaíso",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-limache-quintero-concon-y-quillota-por-crecida-2026-07-20-19-53-12"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

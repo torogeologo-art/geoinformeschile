@@ -1,7 +1,18 @@
 {
- "generado": "2026-07-21T20:44:32+00:00",
+ "generado": "2026-07-22T00:04:01+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
+  {
+   "nombre": "estero Camisas",
+   "lat": -31.91017,
+   "lon": -70.91354,
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "sae": true,
+   "lugar": "Salamanca",
+   "url": "https://t.me/SenapredChile/1433",
+   "ts": "2026-07-22T00:02"
+  },
   {
    "nombre": "río Quilimarí",
    "lat": -32.13907,
