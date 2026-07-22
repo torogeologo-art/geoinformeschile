@@ -1,13 +1,71 @@
 {
- "generado": "2026-07-22T20:00:33+00:00",
+ "generado": "2026-07-22T23:44:16+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 77,
+ "total_vigentes": 78,
  "alertas": [
+  {
+   "id": "2954ce1a9841",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Alerta AA106-1 Viento moderado a fuerte en litoral, cordillera de la costa, valle y Chiloé de la región. 23-07 23-07 Aviso A342-4 Viento normal a moderado en litoral interior de la región. 23-07 23-07 Aviso A344-1 Nevadas normales a moderadas en cordillera austral de la región. 22-07 23-07 Asimismo, conforme a lo indicado en el alertamiento vigente y el Informe de Amenaza Met",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-22T19:19:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "b97c0908a9b2",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por Altas Temperaturas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Aviso A346 Altas temperaturas en Pampa de la región (32-34°C) 24-07 24-07 En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por Altas Temperaturas , vigente a contar de hoy y hasta que las co",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-22T19:09:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-07-22-19-18-07",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1bb9e31fe443",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Alerta AA107 Viento moderado a fuerte en litoral, cordillera de la costa, valle y precordillera. 23-07 23-07 Aviso A319-10 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 20-07 22-07 Aviso A342-4 Viento normal a moderado en cordillera. 23-07 23-07 Aviso A347 Viento normal a moderado en cordillera. 25-07 75-07 Así mismo, conforme a",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-22T17:25:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "7f179673c45b",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Alerta AA106-1 Viento moderado a fuerte en Litoral, Cordillera Costa y Cordillera (40 - 60 rachas 90). 23-07 23-07 Aviso A342-4 Viento normal a moderado en Valle y Precordillera (40 - 60 rachas 80). 23-07 23-07 En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED mantiene la Alerta Tempr",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-22T16:01:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-viento-2026-07-21-18-46-40",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
   {
    "id": "f4ab2b6e51ef",
    "nivel": "ATP",
@@ -47,20 +105,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-22T13:21:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1f18a4165f6a",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Aviso A319-10 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 20-07 22-07 Aviso A342-3 Viento normal a moderado en cordillera. 23-07 23-07 Así mismo, conforme a lo indicado en el Informe de Amenaza Meteorológica de la DMC, los montos pronosticados de precipitaciones (mm/cm), viento (km/h) e isoterma 0°C (m.s.n.m.) para los próximo",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-22T12:39:52.5252-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -223,34 +267,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-21T18:34:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "01bce90410ee",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se modifica Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Alerta AA106 Viento moderado a fuerte en litoral, cordillera de la costa y Chiloé. 23-07 23-07 Aviso A342-3 Viento normal a moderado en litoral interior de la región. 23-07 23-07 Aviso A344-1 Nevadas normales a moderadas en cordillera austral de la región. 22-07 23-07 Asimismo, se han cancelado los siguientes alertamientos meteorológicos para la región, debido al debilitamie",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-21T17:52:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "18ccde6f9222",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Ríos por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Aviso A342-3 Viento normal a moderado en Litoral (entre 40 y 60 rachas 80), Cordillera de La Costa (entre 40 y 60 rachas 80) y Valle (entre 40 y 60 rachas 70) 23-07 23-07 En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva regional por viento , vigent",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-21T17:35:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-viento-2026-07-21-18-46-40",
    "origen": "senapred_web",
    "regiones_extra": []
   },
