@@ -121,5 +121,17 @@
 },
 "quebrada camilo henriquez|huasco": null,
 "sector puente colmo|limache": null,
-"sector campamento ribera del rio|metropolitana de santiago": null
+"sector campamento ribera del rio|metropolitana de santiago": null,
+"rio choapa|coquimbo": {
+"lat": -31.76145,
+"lon": -71.0694
+},
+"sector mincha norte|coquimbo": {
+"lat": -31.56745,
+"lon": -71.53883
+},
+"sector huentelauquen norte|coquimbo": {
+"lat": -31.59349,
+"lon": -71.52732
+}
 }

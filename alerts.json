@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-22T00:03:53+00:00",
+ "generado": "2026-07-22T09:38:21+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 79,
  "alertas": [
+  {
+   "id": "9dfa3c17b91e",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Aysén por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguiente alertamientos para la Región de Aysén: Alertamiento Pronóstico Inicio Fin Alerta AA106 Viento moderado a fuerte en Insular Norte (60 – 100 km/h). 23-07 23-07 Alerta AA98-5 Heladas moderadas a intensas en Patagonia Subandina Norte (-12 / -8 °C). 22-07 22-07 Aviso A335-1 Heladas normales a moderadas en Patagonia Subandina Sur. 21-07 22-07 Aviso A344-1 Nevadas normales a moderadas en Litoral Interior Norte, Cordillera Austral Norte y Patagonia Subandina Norte (5 – 30 cm",
+   "region": "Aysén del General Carlos Ibáñez del Campo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-22T01:52:27.2727-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-evento-meteorologico-2026-07-16-12-11-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "3e4f7559b53b",
+   "nivel": "ROJA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Aviso A319-10 Viento normal a moderado en litoral, cordillera de la costa, precordillera, valles precordilleranos y cordillera (entre 25 y 80 km/h). 20-07 22-07 Asimismo, la Dirección Meteorológica de Chile (DMC) informa que se ha cancelado los siguientes alertamientos, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Aviso A322",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-22T01:39:46.4646-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "bf6e2801fcbd",
    "nivel": "ROJA",
@@ -25,18 +53,17 @@
    "sae": true
   },
   {
-   "id": "a0efe8f040ba",
+   "id": "b79eff94b80c",
    "nivel": "ROJA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Aviso A319-10 Viento normal a moderado en litoral, cordillera de la costa, precordillera, valles precordilleranos y cordillera (entre 25 y 80 km/h). 20-07 22-07 Aviso A322-7 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera (entre 35 y 45 cm). 20-07 21-07 Aviso A332-6 Probables tormentas eléctricas en la región. 19-07 21-07 Aviso A333-7 Precipitaciones",
+   "tipo": "desborde",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN! Por desborde del río Choapa, se solicita evacuares sector Mincha Norte y Sur, y sector Huentelauquén Norte y Sur, comuna de #Canela, Región de Coquimbo. \n\n#SENAPRED activó mensajería #SAE.\n\nActúa con calma y acata las indicaciones de la autoridad.\n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información: https://web.senapred.cl/dimension-animal",
    "region": "Coquimbo",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-07-21T14:05:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
-   "origen": "senapred_web",
-   "regiones_extra": [],
+   "ts": "2026-07-21T22:32:13+00:00",
+   "url": "https://t.me/SenapredChile/1432",
+   "origen": "telegram",
    "sae": true
   },
   {
@@ -548,20 +575,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-20T21:00:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-de-valparaiso-territorio-continental-por-evento-meteorologico-2026-07-14-18-04-30",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1cac88a3e195",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Aysén por Evento Meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguiente alertamientos para la Región de Aysén: Alertamiento Pronóstico Inicio Fin Alerta AA98-4 Heladas moderadas a intensas en Patagonia Subandina Norte. 21-07 22-07 Aviso A335-1 Heladas normales a moderadas en Patagonia Subandina Sur. 21-07 22-07 Aviso A342-1 Viento normal a moderado en Insular Norte. 23-07 23-07 Aviso A344 Nevadas normales a moderadas en Cordillera Austral Norte y Patagonia Subandina Norte. 23-07 23-07 En consideración a lo anterior y en coordinación con",
-   "region": "Aysén del General Carlos Ibáñez del Campo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T19:32:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-evento-meteorologico-2026-07-16-12-11-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1485,7 +1498,7 @@
    "comunas": [
     "Arauco"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-15T03:37:40+00:00",
    "url": "https://t.me/SenapredChile/1277",
    "origen": "telegram",

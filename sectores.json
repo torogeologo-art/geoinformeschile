@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-22T00:04:01+00:00",
+ "generado": "2026-07-22T09:38:25+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
   {
@@ -12,6 +12,39 @@
    "lugar": "Salamanca",
    "url": "https://t.me/SenapredChile/1433",
    "ts": "2026-07-22T00:02"
+  },
+  {
+   "nombre": "río Choapa",
+   "lat": -31.76145,
+   "lon": -71.0694,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Coquimbo",
+   "url": "https://t.me/SenapredChile/1432",
+   "ts": "2026-07-21T22:32"
+  },
+  {
+   "nombre": "sector Mincha Norte",
+   "lat": -31.56745,
+   "lon": -71.53883,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Coquimbo",
+   "url": "https://t.me/SenapredChile/1432",
+   "ts": "2026-07-21T22:32"
+  },
+  {
+   "nombre": "sector Huentelauquén Norte",
+   "lat": -31.59349,
+   "lon": -71.52732,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Coquimbo",
+   "url": "https://t.me/SenapredChile/1432",
+   "ts": "2026-07-21T22:32"
   },
   {
    "nombre": "río Quilimarí",
