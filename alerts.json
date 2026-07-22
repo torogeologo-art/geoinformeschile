@@ -1,13 +1,83 @@
 {
- "generado": "2026-07-22T15:25:28+00:00",
+ "generado": "2026-07-22T20:00:33+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 79,
+ "total_vigentes": 77,
  "alertas": [
+  {
+   "id": "f4ab2b6e51ef",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Alerta AA107 Viento moderado a fuerte en precordillera. 23-07 23-07 Aviso A319-10 Viento normal a moderado en zonas de litoral, cordillera de la costa, valle, precordillera y cordillera. 20-07 22-07 Aviso A342-4 Viento normal a moderado en litoral, cordillera costa, valle y cordillera. 23-07 23-07 Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica, los monto",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-22T15:45:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "b305130fbfc2",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Amarilla para las comunas de Limache, Quintero, Concón y Quillota por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Puente Colmo” , ha registrado un continuo descenso en su caudal en las últimas horas, alcanzando valores de umbral azul , lo que supone una disminución del riesgo para la población cercana a este curso de agua. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida para las comunas de Limache, Quintero, Concón y Quillota, que se encontraba vigente desde el 21 de juli",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-07-22T13:29:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-limache-quintero-concon-y-quillota-por-crecida-2026-07-20-19-53-12",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "f831fee9b055",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Aviso A342-3 Viento normal a moderado en litoral, cordillera de la costa y valle. 23-07 23-07 Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica y en Pronóstico Especial emitidos por la DMC, los montos de precipitaciones (mm/cm), viento (km/h) e isoterma (m.s.n.m.) son los siguientes: Sector Miércoles 22 de julio Jueves 23 de julio Viernes 24 de julio Precip",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-22T13:21:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1f18a4165f6a",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Aviso A319-10 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 20-07 22-07 Aviso A342-3 Viento normal a moderado en cordillera. 23-07 23-07 Así mismo, conforme a lo indicado en el Informe de Amenaza Meteorológica de la DMC, los montos pronosticados de precipitaciones (mm/cm), viento (km/h) e isoterma 0°C (m.s.n.m.) para los próximo",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-22T12:39:52.5252-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "278320e81950",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Aviso A319-10 Viento normal a moderado en cordillera de la costa, valle, precordillera y cordillera. 20-07 22-07 Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica, los montos de precipitación (mm), las velocidades del viento (km/h) y la altura de la isoterma 0 °C (m. s. n. m.) son los siguientes: Sector 22 de julio 23 de julio 24 de julio Precipitaciones Viento Precipitaci",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-07-22T11:59:52.5252-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-07-13-12-33-07",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "bdb410165680",
    "nivel": "ROJA",
@@ -265,20 +335,6 @@
    "sae": true
   },
   {
-   "id": "d002a00c6ccb",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Aviso A319-10 Viento normal a moderado en zonas de litoral, cordillera de la costa, valle, precordillera y cordillera. 20-07 22-07 Aviso A332-6 Probables tormentas eléctricas. 19-07 21-07 Aviso A333-7 Precipitaciones normales a moderadas en litoral y cordillera de la costa. 21-07 22-07 Aviso A342-3 Viento normal a moderado en cordillera. 23-07 23-07 Asimismo, conforme a lo indi",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-21T15:04:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "fb00097fd45c",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -461,34 +517,6 @@
    "url": "https://t.me/SenapredChile/1404",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "966aff1f78a8",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Roja por desborde y declara Alerta Amarilla para las comunas de Limache, Quintero, Concón y Quillota por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “Puente Colmo” , ha registrado un continuo descenso en su caudal , alcanzando valores de umbral amarillo . En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED cancela la Alerta Roja por desborde y declara Alerta Amarilla por crecida para las comunas de Limache, Quintero, Concón y Quillota, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con la declaración de la Alerta Amarilla, se",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-21T11:20:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-limache-quintero-concon-y-quillota-por-crecida-2026-07-20-19-53-12",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "fbf4f6638dad",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Aviso A319-10 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 20-07 22-07 Así mismo, conforme a lo indicado en el Informe de Amenaza Meteorológica de la DMC, los montos pronosticados de precipitaciones (mm/cm), viento (km/h) e isoterma 0°C (m.s.n.m.) para los próximos días en la región, son los siguientes: Zona Martes 21 Miércoles 22 J",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-21T10:55:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "8180f60e72a2",
@@ -683,20 +711,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-20T14:55:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-linares-villa-alegre-y-san-javier-por-crecida-2026-07-17-15-07-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ef8f29af15d4",
-   "nivel": "AMARILLA",
-   "tipo": "aluvión",
-   "titulo": "Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Aviso A319-10 Viento normal a moderado en cordillera de la costa, valle, precordillera y cordillera. 20-07 22-07 Aviso A332-6 Probables tormentas eléctricas en la región. 19-07 21-07 Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (f",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-20T14:47:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-07-13-12-33-07",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1481,7 +1495,7 @@
    "comunas": [
     "Coihueco"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-15T19:17:39+00:00",
    "url": "https://t.me/SenapredChile/1279",
    "origen": "telegram",
@@ -1495,7 +1509,7 @@
    "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) y en atención a los pronósticos meteorológicos informados por la Dirección Meteorológica de Chile, se prevé una tendencia progresiva del aumento de los cauces de ríos y esteros, así como eventuales aumento de volúmenes de agua en embalses, generando un aumento del riesgo asociado a crecidas y/o desbordes. Cabe señalar que, conforme al desarrollo del sistema frontal y de acuerdo comportamiento efectivo de los caudales y niveles observados, la DGA mantiene permanentemente monitoreo de las estaciones fluviales en la",
    "region": "Maule",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-15T13:31:38.3838-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-crecida-2026-07-15-13-32-30",
    "origen": "senapred_web",
