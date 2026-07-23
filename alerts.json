@@ -1,13 +1,27 @@
 {
- "generado": "2026-07-23T20:20:44+00:00",
+ "generado": "2026-07-23T23:44:07+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 73,
+ "total_vigentes": 72,
  "alertas": [
+  {
+   "id": "8da111ffd151",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos a evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos : Alertamiento Pronóstico Inicio Fin Aviso A348 Probable desarrollo de tormentas eléctricas en el litoral. 23-07 23-07 Aviso A351 Precipitaciones normales a moderadas en el litoral, cordillera de la costa, valle, precordillera y cordillera. 24-07 25-07 Aviso A352 Precipitaciones normales a moderadas en el litoral, cordillera de la costa, valle, precordillera y cordillera. 26-07 27-07 Asimismo, conforme al debili",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-23T18:35:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-viento-2026-07-21-18-46-40",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "283019eacb42",
    "nivel": "ATP",
@@ -147,20 +161,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-22T22:27:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-07-12-14-52-02",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "34e847af465a",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica Alerta Temprana Preventiva para la Región de Los Ríos a evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Alerta AA106-1 Viento moderado a fuerte en Litoral, Cordillera Costa y Cordillera (40 - 60 rachas 90). 23-07 23-07 Aviso A342-4 Viento normal a moderado en Valle y Precordillera (40 - 60 rachas 80). 23-07 23-07 Aviso A348 Probable desarrollo de tormentas eléctricas en el litoral de la región. 23-07 24-07 En consideración a estos antecedentes y en coordinación con la Delegació",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-22T22:03:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-viento-2026-07-21-18-46-40",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1465,7 +1465,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por peligro de aluvión #SENAPRED solicita evacuar sector Población Argentina en la comuna de #Quilpué, Región de Valparaíso.  \nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.   \nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.  Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.  \nMás información en https://web.senapred.cl/dimension-animal/",
    "region": "Valparaíso",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-16T22:18:16+00:00",
    "url": "https://t.me/SenapredChile/1287",
    "origen": "telegram",
