@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-23T09:14:58+00:00",
- "desde": "2026-07-21T09:14:48Z",
+ "generado": "2026-07-23T16:04:03+00:00",
+ "desde": "2026-07-21T16:03:50Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "valparaiso": {
@@ -9,13 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "4Oh2HUpy4Rw",
-     "url": "https://www.youtube.com/watch?v=4Oh2HUpy4Rw",
+     "id": "9RLlb0WW_5o",
+     "url": "https://www.youtube.com/watch?v=9RLlb0WW_5o",
      "titulo": "Marejadas UV || Playa Las Torpederas || Valparaíso || chile en vivo",
      "canal": "Marejadas UV",
-     "publicado": "2026-07-21T16:01:29Z",
+     "publicado": "2026-07-23T13:06:37Z",
      "live": true,
-     "score": 5.0,
+     "score": 7.75,
      "verificado": false,
      "embeddable": true
     },
@@ -37,20 +37,9 @@
      "canal": "Viña CAM",
      "publicado": "2026-07-22T02:29:00Z",
      "live": true,
-     "score": -4.56,
+     "score": -5.0,
      "verificado": false,
      "embeddable": false
-    },
-    {
-     "id": "NPooVTGx1qA",
-     "url": "https://www.youtube.com/watch?v=NPooVTGx1qA",
-     "titulo": "REPORTAN INTENSAS PRECIPITACIONES Y TORMENTAS ELÉCTRICAS EN EL LITORAL DE LA REGIÓN DE VALPARAÍSO",
-     "canal": "EVOLUTIVA MEDIOS  DONDE LA VERDAD, EVOLUCIONA ",
-     "publicado": "2026-07-21T11:36:53Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
     }
    ]
   },
@@ -60,24 +49,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "riDaj7ZgKnE",
+     "url": "https://www.youtube.com/watch?v=riDaj7ZgKnE",
+     "titulo": "😱🚨 Terremoto cerca de Illapel, Provincia de Choapa, Región de Coquimbo, Chile actualizaciones en viv",
+     "canal": "lindunow",
+     "publicado": "2026-07-23T13:33:15Z",
+     "live": false,
+     "score": 7.79,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "gmFWNyqy4Uo",
      "url": "https://www.youtube.com/watch?v=gmFWNyqy4Uo",
      "titulo": "😱🚨 Terremoto cerca de Illapel, Provincia de Choapa, Región de Coquimbo, Chile actualizaciones en viv",
      "canal": "lindunow",
      "publicado": "2026-07-22T09:56:07Z",
      "live": false,
-     "score": 6.06,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "mvgfaFzJwxs",
-     "url": "https://www.youtube.com/watch?v=mvgfaFzJwxs",
-     "titulo": "¿Peor que un terremoto? Los daños del sistema frontal en las provincias de Limarí y Choapa",
-     "canal": "Bio Bio",
-     "publicado": "2026-07-21T14:00:22Z",
-     "live": false,
-     "score": 5.0,
+     "score": 5.49,
      "verificado": false,
      "embeddable": true
     }
@@ -95,7 +84,7 @@
      "canal": "En Vivo - IMVallenar",
      "publicado": "2026-07-22T16:01:44Z",
      "live": true,
-     "score": 6.57,
+     "score": 6.0,
      "verificado": false,
      "embeddable": true
     }
@@ -125,35 +114,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "FUIqR1Nqg3U",
-     "url": "https://www.youtube.com/watch?v=FUIqR1Nqg3U",
-     "titulo": "Ledrium - Costanera Center, Titanium, Sanhattan, Santiago, Chile, live cam, en vivo, en directo",
-     "canal": "Ledrium",
-     "publicado": "2026-07-21T12:38:08Z",
-     "live": true,
-     "score": -1.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "vEgj0Jutu6k",
-     "url": "https://www.youtube.com/watch?v=vEgj0Jutu6k",
-     "titulo": "Marejadas UV || Reñaca || Viña del Mar || Chile en vivo",
-     "canal": "Marejadas UV",
-     "publicado": "2026-07-21T15:44:37Z",
-     "live": true,
-     "score": -2.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "7jmWQpNJ4jM",
      "url": "https://www.youtube.com/watch?v=7jmWQpNJ4jM",
      "titulo": "EL ISLÓN, la zona más golpeada de La Serena: La vital labor de vecino que ayudó a evacuar",
      "canal": "CHV Noticias",
      "publicado": "2026-07-22T01:45:15Z",
      "live": false,
-     "score": 5.38,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     },
@@ -182,7 +149,7 @@
      "canal": "Fe Mundial Bilingüe ",
      "publicado": "2026-07-21T22:55:05Z",
      "live": false,
-     "score": 5.14,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     },
@@ -192,17 +159,6 @@
      "titulo": "Nunca lo dejaron solo: Carabineros rescatan a perro herido en el río Limarí",
      "canal": "Late Positivo 2026",
      "publicado": "2026-07-21T22:54:11Z",
-     "live": false,
-     "score": 5.14,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "cdJTdVGY7Tw",
-     "url": "https://www.youtube.com/watch?v=cdJTdVGY7Tw",
-     "titulo": "Embalse Recoleta Ovalle 21 de Julio 2026",
-     "canal": "MiRegión Noticias",
-     "publicado": "2026-07-21T15:06:14Z",
      "live": false,
      "score": 5.0,
      "verificado": false,
@@ -227,17 +183,6 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "Ag4cqL--LEU",
-     "url": "https://www.youtube.com/watch?v=Ag4cqL--LEU",
-     "titulo": "Puente Maitencillo colapsó tras sistema frontal",
-     "canal": "Teletrece",
-     "publicado": "2026-07-22T14:30:16Z",
-     "live": false,
-     "score": 3.44,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "6R_c-ohBgtU",
      "url": "https://www.youtube.com/watch?v=6R_c-ohBgtU",
      "titulo": "Alcalde de Freirina pide apoyo aéreo urgente por pobladores aislados",
@@ -247,66 +192,15 @@
      "score": 3.0,
      "verificado": false,
      "embeddable": true
-    }
-   ]
-  },
-  "salamanca": {
-   "comuna": "Salamanca",
-   "region": "",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "UDtnjSw7K0Q",
-     "url": "https://www.youtube.com/watch?v=UDtnjSw7K0Q",
-     "titulo": "plaza de salamanca",
-     "canal": "VIAJANDO CON PITUTO",
-     "publicado": "2026-07-22T01:00:32Z",
-     "live": false,
-     "score": 5.31,
-     "verificado": false,
-     "embeddable": true
     },
     {
-     "id": "BEPJdI3Pnq0",
-     "url": "https://www.youtube.com/watch?v=BEPJdI3Pnq0",
-     "titulo": "Alcalde de Salamanca y la grave emergencia por lluvias en Choapa",
-     "canal": "ADN Chile",
-     "publicado": "2026-07-21T17:47:17Z",
+     "id": "Ag4cqL--LEU",
+     "url": "https://www.youtube.com/watch?v=Ag4cqL--LEU",
+     "titulo": "Puente Maitencillo colapsó tras sistema frontal",
+     "canal": "Teletrece",
+     "publicado": "2026-07-22T14:30:16Z",
      "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "xjkncJ-zbHk",
-     "url": "https://www.youtube.com/watch?v=xjkncJ-zbHk",
-     "titulo": "🚨 Alerta SAE interrumpe entrevista en vivo durante cobertura especial desde Salamanca #shorts",
-     "canal": "Radio Riquelme",
-     "publicado": "2026-07-22T02:51:40Z",
-     "live": false,
-     "score": 3.47,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "7FmIEzVZCNQ",
-     "url": "https://www.youtube.com/watch?v=7FmIEzVZCNQ",
-     "titulo": "❄️ Nieva en Tencadán: equipos recorren la cordillera de Salamanca por la emergencia #shorts",
-     "canal": "Radio Riquelme",
-     "publicado": "2026-07-21T21:02:54Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "-1_FOYiTBHU",
-     "url": "https://www.youtube.com/watch?v=-1_FOYiTBHU",
-     "titulo": "🚨 Centro de Salamanca se inunda por intensas lluvias: calles completamente anegadas #shorts",
-     "canal": "Radio Riquelme",
-     "publicado": "2026-07-21T20:01:27Z",
-     "live": false,
-     "score": 3.0,
+     "score": 2.87,
      "verificado": false,
      "embeddable": true
     }
@@ -318,59 +212,91 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "dO9uit-mpeU",
-     "url": "https://www.youtube.com/watch?v=dO9uit-mpeU",
-     "titulo": "Bondinhos Canela ao Vivo",
-     "canal": "Parque Bondinhos Canela",
-     "publicado": "2026-07-22T18:59:11Z",
+     "id": "vTk5mSxI94Q",
+     "url": "https://www.youtube.com/watch?v=vTk5mSxI94Q",
+     "titulo": "REPRISE - Gente que Faz | com Thainá da Rosa Evangelista Schweig  e Mateus Schweig 11/06/2026",
+     "canal": "Igreja Canela",
+     "publicado": "2026-07-23T15:37:53Z",
      "live": true,
-     "score": 6.81,
+     "score": 7.96,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "5zgoczf-ob0",
-     "url": "https://www.youtube.com/watch?v=5zgoczf-ob0",
+     "id": "hGFP7FxB4aA",
+     "url": "https://www.youtube.com/watch?v=hGFP7FxB4aA",
+     "titulo": "RADIACIÓN TEMPRANA GUAYAQUIL RADIO CANELA | JUEVES 23 DE JULIO EN VIVO",
+     "canal": "RADIO CANELA",
+     "publicado": "2026-07-23T14:19:06Z",
+     "live": true,
+     "score": 7.85,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "8S0Z5wxnbZo",
+     "url": "https://www.youtube.com/watch?v=8S0Z5wxnbZo",
      "titulo": "Câmera Ao Vivo 01 - Gramado Canela Brasil AGORA - NOW Live - Brazil IRL",
      "canal": "Tarcila STR",
-     "publicado": "2026-07-21T17:43:32Z",
+     "publicado": "2026-07-23T13:47:26Z",
      "live": true,
-     "score": 5.0,
+     "score": 7.81,
      "verificado": false,
      "embeddable": true
-    },
+    }
+   ]
+  },
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
     {
-     "id": "xCeTC9X1d1M",
-     "url": "https://www.youtube.com/watch?v=xCeTC9X1d1M",
-     "titulo": "Câmera Ao Vivo 02 - Gramado Canela Brasil AGORA - NOW Live - Brazil Brasil IRL",
-     "canal": "Tarcila STR",
-     "publicado": "2026-07-21T17:45:04Z",
+     "id": "VRSGWOKvtXo",
+     "url": "https://www.youtube.com/watch?v=VRSGWOKvtXo",
+     "titulo": "Transmisión en vivo Sesión Ordinaria N° 60 (23.07.2026) Concejo Municipal de Caldera - Atacama",
+     "canal": "Concejo Municipal Caldera - Atacama",
+     "publicado": "2026-07-23T15:34:41Z",
      "live": true,
-     "score": 5.0,
+     "score": 7.96,
      "verificado": false,
      "embeddable": true
-    },
+    }
+   ]
+  },
+  "vicuna": {
+   "comuna": "Vicuña",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
     {
-     "id": "FiIMQIktjnY",
-     "url": "https://www.youtube.com/watch?v=FiIMQIktjnY",
-     "titulo": "Fenogreco y Canela para la Glucosa: Qué Funciona Realmente en 21 Días",
-     "canal": "EDU Diabetes en Español",
-     "publicado": "2026-07-22T03:00:34Z",
-     "live": false,
-     "score": 3.48,
+     "id": "q7gfUtME-70",
+     "url": "https://www.youtube.com/watch?v=q7gfUtME-70",
+     "titulo": "Transmisión en vivo de Vicuña con Alameda",
+     "canal": "Vicuña con Alameda",
+     "publicado": "2026-07-23T13:49:58Z",
+     "live": true,
+     "score": 7.81,
      "verificado": false,
      "embeddable": true
-    },
+    }
+   ]
+  },
+  "tarapaca": {
+   "comuna": "Tarapacá",
+   "region": "Tarapacá",
+   "alerta": "ROJA",
+   "videos": [
     {
-     "id": "N9scdfTLaps",
-     "url": "https://www.youtube.com/watch?v=N9scdfTLaps",
-     "titulo": "Episódio 18 - Canela Amarela: Pecuária, Ciclo de Alta e a Conta que Vai Chegar",
-     "canal": "Grupo Ceres Investimentos ",
-     "publicado": "2026-07-21T19:52:27Z",
-     "live": false,
-     "score": 3.0,
+     "id": "2N_oysdmtuY",
+     "url": "https://www.youtube.com/watch?v=2N_oysdmtuY",
+     "titulo": "Transmisión en vivo de la voz de tarapaca",
+     "canal": "la voz de tarapaca",
+     "publicado": "2026-07-23T12:22:40Z",
+     "live": true,
+     "score": 7.69,
      "verificado": false,
-     "embeddable": true
+     "embeddable": false
     }
    ]
   }
