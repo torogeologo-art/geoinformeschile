@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-24T13:08:35+00:00",
+ "generado": "2026-07-24T18:06:45+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,48 @@
  },
  "total_vigentes": 72,
  "alertas": [
+  {
+   "id": "8a24a2b18bfc",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Aviso A348 Probables tormentas eléctricas en la Provincia de Osorno. 25-07 25-07 Asimismo, debido al debilitamiento de las condiciones meteorológicas que los originaron, han sido cancelados los siguientes alertamientos técnicos: Alertamiento Pronóstico Alerta AA106-1 Viento moderado a fuerte en litoral, cordillera de la costa, valle y Chiloé. Aviso A342-4 Viento normal a moderado e",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-24T12:52:48.4848-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a6e5796bca34",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Aviso A348-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en Provincia del Ranco. 25-07 25-07 Aviso A351 Precipitaciones normales a moderadas en el litoral, cordillera de la costa, valle, precordillera y cordillera. 24-07 25-07 Aviso A353 Precipitaciones normales a moderadas con isoterma cero alta en el litoral, cordillera de",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-24T12:45:56.5656-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-viento-2026-07-21-18-46-40",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "2ca4ed57706b",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente los siguientes alertamientos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Aviso A347-1 Viento normal a moderado con probabilidad de ventisca en cordillera. 25-07 27-07 Aviso A349 Precipitaciones normales a moderadas con isoterma cero alta en cordillera. 25-07 25-07 Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica, los montos de precipitación (mm), las velocidades del viento (km/h) y la altura de la isoterma 0 °C (m. s. n. m.) son los siguien",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-24T09:47:34.3434-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-07-13-12-33-07",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "89048f8e4b68",
    "nivel": "AMARILLA",
@@ -163,34 +205,6 @@
    "regiones_extra": []
   },
   {
-   "id": "8da111ffd151",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos a evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos : Alertamiento Pronóstico Inicio Fin Aviso A348 Probable desarrollo de tormentas eléctricas en el litoral. 23-07 23-07 Aviso A351 Precipitaciones normales a moderadas en el litoral, cordillera de la costa, valle, precordillera y cordillera. 24-07 25-07 Aviso A352 Precipitaciones normales a moderadas en el litoral, cordillera de la costa, valle, precordillera y cordillera. 26-07 27-07 Asimismo, conforme al debili",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-23T18:35:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-viento-2026-07-21-18-46-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "283019eacb42",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Alerta AA106-1 Viento moderado a fuerte en litoral, cordillera de la costa, valle y Chiloé de la región. 23-07 23-07 Aviso A342-4 Viento normal a moderado en litoral interior de la región. 23-07 23-07 Aviso A344-1 Nevadas normales a moderadas en cordillera austral de la región. 22-07 23-07 Aviso A348 Probables tormentas eléctricas en sectores de litoral, cordillera costa, Chi",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-23T16:09:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "f2398ffd116d",
    "nivel": "ATP",
    "tipo": "evento meteorológico",
@@ -287,20 +301,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-22T13:29:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-limache-quintero-concon-y-quillota-por-crecida-2026-07-20-19-53-12",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "278320e81950",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Aviso A319-10 Viento normal a moderado en cordillera de la costa, valle, precordillera y cordillera. 20-07 22-07 Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica, los montos de precipitación (mm), las velocidades del viento (km/h) y la altura de la isoterma 0 °C (m. s. n. m.) son los siguientes: Sector 22 de julio 23 de julio 24 de julio Precipitaciones Viento Precipitaci",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-22T11:59:52.5252-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-07-13-12-33-07",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1406,7 +1406,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por crecida del Río Mapocho #SENAPRED solicita evacuar sector Campamento Ribera del Río en la comuna de #Talagante, Región Metropolitana.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.  \nMás información en https://web.senapred.cl/dimension-animal/",
    "region": "Metropolitana de Santiago",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-17T17:12:34+00:00",
    "url": "https://t.me/SenapredChile/1290",
    "origen": "telegram",
