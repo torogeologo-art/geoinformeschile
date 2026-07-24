@@ -1,6 +1,181 @@
 {
- "generado": "2026-07-23T23:44:16+00:00",
- "desde": "2026-07-21T23:44:07Z",
+ "generado": "2026-07-24T08:01:12+00:00",
+ "desde": "2026-07-22T08:00:58Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "riDaj7ZgKnE",
+     "url": "https://www.youtube.com/watch?v=riDaj7ZgKnE",
+     "titulo": "😱🚨 Terremoto cerca de Illapel, Provincia de Choapa, Región de Coquimbo, Chile actualizaciones en viv",
+     "canal": "lindunow",
+     "publicado": "2026-07-23T13:33:15Z",
+     "live": false,
+     "score": 6.46,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "gmFWNyqy4Uo",
+     "url": "https://www.youtube.com/watch?v=gmFWNyqy4Uo",
+     "titulo": "😱🚨 Terremoto cerca de Illapel, Provincia de Choapa, Región de Coquimbo, Chile actualizaciones en viv",
+     "canal": "lindunow",
+     "publicado": "2026-07-22T09:56:07Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "TeMKjg7ZoVs",
+     "url": "https://www.youtube.com/watch?v=TeMKjg7ZoVs",
+     "titulo": "💜 Capital Abeja impulsa el emprendimiento femenino y fortalece negocios en el Choapa",
+     "canal": "CORE COQUIMBO OFICIAL",
+     "publicado": "2026-07-23T20:48:57Z",
+     "live": false,
+     "score": 4.07,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "vallenar": {
+   "comuna": "Vallenar",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "KPQ6m17YR14",
+     "url": "https://www.youtube.com/watch?v=KPQ6m17YR14",
+     "titulo": "Plaza de Armas, Vallenar",
+     "canal": "En Vivo - IMVallenar",
+     "publicado": "2026-07-22T16:01:44Z",
+     "live": true,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "ovalle": {
+   "comuna": "Ovalle",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "asTzC9nV6yM",
+     "url": "https://www.youtube.com/watch?v=asTzC9nV6yM",
+     "titulo": "Review Mazo DEFENSOR AGGRO ft. Mauricio Ávalos -  Campeón Torneo Avanzado PBX Julio GH Store Ovalle",
+     "canal": "Ecos del Limarí Myl",
+     "publicado": "2026-07-23T22:38:05Z",
+     "live": false,
+     "score": 7.22,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "freirina": {
+   "comuna": "Freirina",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "Ag4cqL--LEU",
+     "url": "https://www.youtube.com/watch?v=Ag4cqL--LEU",
+     "titulo": "Puente Maitencillo colapsó tras sistema frontal",
+     "canal": "Teletrece",
+     "publicado": "2026-07-22T14:30:16Z",
+     "live": false,
+     "score": 2.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "salamanca": {
+   "comuna": "Salamanca",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "37-82C-VgRg",
+     "url": "https://www.youtube.com/watch?v=37-82C-VgRg",
+     "titulo": "#choapa #illapel #salamanca #limahuida #chile #cuartaregion #plantasia #plantas #jardin #vivero",
+     "canal": "Aves Del Paraiso Plantas Choapa",
+     "publicado": "2026-07-24T03:44:56Z",
+     "live": false,
+     "score": 7.64,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "canela": {
+   "comuna": "Canela",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "5O_poSKq7_M",
+     "url": "https://www.youtube.com/watch?v=5O_poSKq7_M",
+     "titulo": "Câmera Ao Vivo 02 - Gramado Canela Brasil AGORA - NOW Live - Brazil Brasil IRL",
+     "canal": "Tarcila STR",
+     "publicado": "2026-07-24T06:47:37Z",
+     "live": true,
+     "score": 7.9,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "8S0Z5wxnbZo",
+     "url": "https://www.youtube.com/watch?v=8S0Z5wxnbZo",
+     "titulo": "Câmera Ao Vivo 01 - Gramado Canela Brasil AGORA - NOW Live - Brazil IRL",
+     "canal": "Tarcila STR",
+     "publicado": "2026-07-23T13:47:26Z",
+     "live": true,
+     "score": 6.48,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "dO9uit-mpeU",
+     "url": "https://www.youtube.com/watch?v=dO9uit-mpeU",
+     "titulo": "Bondinhos Canela ao Vivo",
+     "canal": "Parque Bondinhos Canela",
+     "publicado": "2026-07-22T18:59:11Z",
+     "live": true,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "7zAtapv08ck",
+     "url": "https://www.youtube.com/watch?v=7zAtapv08ck",
+     "titulo": "Sal grosso e canela, dois ingredientes que todo mundo tem em casa para usar em magias e bruxaria",
+     "canal": "Bruxaria Moderna",
+     "publicado": "2026-07-23T20:00:35Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "zJHC3tKQn8c",
+     "url": "https://www.youtube.com/watch?v=zJHC3tKQn8c",
+     "titulo": "Roles de Canela en el Horno de Alta Velocidad Panasonic SCV3",
+     "canal": "Panasonic México",
+     "publicado": "2026-07-23T17:05:31Z",
+     "live": false,
+     "score": 4.76,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
