@@ -1,13 +1,55 @@
 {
- "generado": "2026-07-24T18:06:45+00:00",
+ "generado": "2026-07-24T21:47:59+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 72,
+ "total_vigentes": 69,
  "alertas": [
+  {
+   "id": "b7889eb64dd1",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Aviso A351 Precipitaciones normales a moderadas en cordillera. 24-07 25-07 Aviso A354-1 Viento normal a moderado en el litoral, cordillera de la costa y valle. 25-07 26-07 Aviso A355 Precipitaciones normales a moderadas con isoterma cero alta en cordillera. 26-07 27-07 Aviso A356 Precipitaciones normales a moderadas en precordillera. 26-07 27-07 Asimismo, conforme a lo ind",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-24T16:38:42.4242-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "eeb8d70c5719",
+   "nivel": "ROJA",
+   "tipo": "aluvión",
+   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada la Dirección Meteorológicas de Chile (DMC) mediante su Informe de Riesgo Meteorológico de la presente jornada y el análisis realizado por Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa, se indican los montos de precipitaciones pronosticados y la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos, caídas de rocas) conforme al siguiente detalle: Zona Precipitaciones Viernes 24 Precipitaciones Sábado 25 Precipitaciones Domingo 26 P",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-24T15:55:09.099-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "64aa29965c3d",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Aviso A347-1 Viento normal a moderado con probabilidad de ventisca en litoral, cordillera de la costa, valle, precordillera y cordillera. 25-07 27-07 Aviso A349 Precipitaciones normales a moderadas con isoterma cero alta en precordillera y cordillera. 25-07 26-07 Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica de la DMC, los montos pronostica",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-07-24T14:51:54.5454-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "8a24a2b18bfc",
    "nivel": "ATP",
@@ -107,20 +149,6 @@
    "regiones_extra": []
   },
   {
-   "id": "5307a1db9814",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Aviso A347-1 Viento normal a moderado con probabilidad de ventisca en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. 25-07 27-07 Aviso A349 Precipitaciones normales a moderadas con isoterma cero alta en precordillera y cordillera de la región. 25-07 26-07 Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica de la DMC, los mon",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-24T01:30:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "889c75479527",
    "nivel": "ATP",
    "tipo": "viento",
@@ -159,20 +187,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-23T23:49:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-huasco-por-evento-meteorologico-2026-07-16-19-52-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e7694e7b898f",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Aviso A348 Probables tormentas eléctricas en litoral y cordillera de la costa de la región. 23-07 23-07 Aviso A351 Precipitaciones normales a moderadas en cordillera de la región. 24-07 25-07 Aviso A353 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la región. 26-07 27-07 Asimismo, conforme a lo indicado en los alertamientos vigentes y en el",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-23T21:48:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -263,20 +277,6 @@
    "regiones_extra": []
   },
   {
-   "id": "3e4f7559b53b",
-   "nivel": "ROJA",
-   "tipo": "remoción en masa",
-   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado el siguiente alertamiento meteorológico para la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que los originaron.: Alertamiento Pronóstico Aviso A319-10 Viento normal a moderado en litoral, cordillera de la costa, precordillera, valles precordilleranos y cordillera (entre 25 y 80 km/h). Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa, indica que la posi",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-22T23:58:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "085c71be4673",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -301,6 +301,20 @@
    "estado": "CANCELADA",
    "ts": "2026-07-22T13:29:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-limache-quintero-concon-y-quillota-por-crecida-2026-07-20-19-53-12",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "bdb410165680",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Se cancela Alerta Roja para la comuna de Salamanca por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ Río Chalinga en La Palmilla ”, ubicada en la comuna de Salamanca, registra nuevamente niveles de caudal establecidos dentro de los parámetros de seguridad óptimos por el organismo técnico, lo que supone una disminución del riesgo para la población cercana a este curso de agua. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Roja por desborde para la comuna de Salamanca , que se man",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-07-22T11:17:11.1111-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-salamanca-por-desborde-2026-07-20-15-12-41",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1378,7 +1392,7 @@
    "comunas": [
     "Viña del Mar"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-17T19:46:38+00:00",
    "url": "https://t.me/SenapredChile/1292",
    "origen": "telegram",
@@ -1392,7 +1406,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por incendio forestal #SENAPRED solicita evacuar calles Arturo Prat y O'Higgins (Poblado de Camiña), en la comuna de #Camiña, Región de Tarapacá.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE. \nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\nMás información en https://web.senapred.cl/dimension-animal/",
    "region": "Tarapacá",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-17T19:40:26+00:00",
    "url": "https://t.me/SenapredChile/1291",
    "origen": "telegram",
