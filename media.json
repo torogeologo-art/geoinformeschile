@@ -1,13 +1,42 @@
 {
- "generado": "2026-07-24T08:01:12+00:00",
- "desde": "2026-07-22T08:00:58Z",
+ "generado": "2026-07-24T13:08:48+00:00",
+ "desde": "2026-07-22T13:08:36Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "0U0ufqPKKsk",
+     "url": "https://www.youtube.com/watch?v=0U0ufqPKKsk",
+     "titulo": "EN VIVO DESDE CALAMA - Primera edición de Punto de Prensa – 24 julio 2026",
+     "canal": "diarioenlalinea",
+     "publicado": "2026-07-24T12:05:07Z",
+     "live": true,
+     "score": 7.91,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "coquimbo": {
    "comuna": "Coquimbo",
    "region": "Coquimbo",
    "alerta": "ROJA",
    "videos": [
+    {
+     "id": "qc4vO3Exrt0",
+     "url": "https://www.youtube.com/watch?v=qc4vO3Exrt0",
+     "titulo": "😱🚨 Terremoto cerca de Los Vilos, Provincia de Choapa, Región de Coquimbo, Chile actualizaciones en v",
+     "canal": "lindunow",
+     "publicado": "2026-07-24T10:35:20Z",
+     "live": false,
+     "score": 7.79,
+     "verificado": false,
+     "embeddable": true
+    },
     {
      "id": "riDaj7ZgKnE",
      "url": "https://www.youtube.com/watch?v=riDaj7ZgKnE",
@@ -15,18 +44,7 @@
      "canal": "lindunow",
      "publicado": "2026-07-23T13:33:15Z",
      "live": false,
-     "score": 6.46,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "gmFWNyqy4Uo",
-     "url": "https://www.youtube.com/watch?v=gmFWNyqy4Uo",
-     "titulo": "😱🚨 Terremoto cerca de Illapel, Provincia de Choapa, Región de Coquimbo, Chile actualizaciones en viv",
-     "canal": "lindunow",
-     "publicado": "2026-07-22T09:56:07Z",
-     "live": false,
-     "score": 5.0,
+     "score": 6.03,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +55,7 @@
      "canal": "CORE COQUIMBO OFICIAL",
      "publicado": "2026-07-23T20:48:57Z",
      "live": false,
-     "score": 4.07,
+     "score": 3.64,
      "verificado": false,
      "embeddable": true
     }
@@ -56,24 +74,6 @@
      "publicado": "2026-07-22T16:01:44Z",
      "live": true,
      "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "ovalle": {
-   "comuna": "Ovalle",
-   "region": "",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "asTzC9nV6yM",
-     "url": "https://www.youtube.com/watch?v=asTzC9nV6yM",
-     "titulo": "Review Mazo DEFENSOR AGGRO ft. Mauricio Ávalos -  Campeón Torneo Avanzado PBX Julio GH Store Ovalle",
-     "canal": "Ecos del Limarí Myl",
-     "publicado": "2026-07-23T22:38:05Z",
-     "live": false,
-     "score": 7.22,
      "verificado": false,
      "embeddable": true
     }
@@ -109,7 +109,7 @@
      "canal": "Aves Del Paraiso Plantas Choapa",
      "publicado": "2026-07-24T03:44:56Z",
      "live": false,
-     "score": 7.64,
+     "score": 7.22,
      "verificado": false,
      "embeddable": true
     }
@@ -121,35 +121,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "5O_poSKq7_M",
-     "url": "https://www.youtube.com/watch?v=5O_poSKq7_M",
-     "titulo": "Câmera Ao Vivo 02 - Gramado Canela Brasil AGORA - NOW Live - Brazil Brasil IRL",
-     "canal": "Tarcila STR",
-     "publicado": "2026-07-24T06:47:37Z",
-     "live": true,
-     "score": 7.9,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "8S0Z5wxnbZo",
-     "url": "https://www.youtube.com/watch?v=8S0Z5wxnbZo",
-     "titulo": "Câmera Ao Vivo 01 - Gramado Canela Brasil AGORA - NOW Live - Brazil IRL",
-     "canal": "Tarcila STR",
-     "publicado": "2026-07-23T13:47:26Z",
-     "live": true,
-     "score": 6.48,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "dO9uit-mpeU",
-     "url": "https://www.youtube.com/watch?v=dO9uit-mpeU",
-     "titulo": "Bondinhos Canela ao Vivo",
-     "canal": "Parque Bondinhos Canela",
-     "publicado": "2026-07-22T18:59:11Z",
-     "live": true,
-     "score": 5.0,
+     "id": "WKwq7p2YDo8",
+     "url": "https://www.youtube.com/watch?v=WKwq7p2YDo8",
+     "titulo": "Canela do Ceilão: Por Que Ela É Tão Diferente? | Nutri Alessandra Feltre",
+     "canal": "Souly | Superalimentos Naturais",
+     "publicado": "2026-07-24T12:00:13Z",
+     "live": false,
+     "score": 5.9,
      "verificado": false,
      "embeddable": true
     },
@@ -160,7 +138,7 @@
      "canal": "Bruxaria Moderna",
      "publicado": "2026-07-23T20:00:35Z",
      "live": false,
-     "score": 5.0,
+     "score": 4.57,
      "verificado": false,
      "embeddable": true
     },
@@ -171,7 +149,25 @@
      "canal": "Panasonic México",
      "publicado": "2026-07-23T17:05:31Z",
      "live": false,
-     "score": 4.76,
+     "score": 4.33,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "vicuna": {
+   "comuna": "Vicuña",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "5q-EKJXODj4",
+     "url": "https://www.youtube.com/watch?v=5q-EKJXODj4",
+     "titulo": "Transmisión en vivo de Vicuña con Alameda",
+     "canal": "Vicuña con Alameda",
+     "publicado": "2026-07-24T13:01:23Z",
+     "live": true,
+     "score": 7.99,
      "verificado": false,
      "embeddable": true
     }

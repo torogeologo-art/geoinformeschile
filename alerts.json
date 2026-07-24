@@ -1,13 +1,55 @@
 {
- "generado": "2026-07-24T08:00:57+00:00",
+ "generado": "2026-07-24T13:08:35+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 73,
+ "total_vigentes": 72,
  "alertas": [
+  {
+   "id": "89048f8e4b68",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Amarilla para la comuna de Arauco por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Pichilo en Pichilo” ubicada en la comuna de Arauco, indica un descenso en su caudal y se encuentra sin umbral de alerta. Adicionalmente, no se prevén precipitaciones de mayor intensidad en la zona durante las próximas horas. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida para la comuna de Arauco, que se mantenía vigente desde el 22 de julio.",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-07-24T08:43:35.3535-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco--por-crecida-2026-07-22-06-41-16",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "2a0b3f769bfa",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Aviso A349 Precipitaciones normales a moderadas con isoterma cero alta en precordillera y cordillera. 25-07 26-07 Aviso A347-1 Viento normal a moderado con probabilidad de ventisca en litoral, cordillera de la costa, valle, precordillera y cordillera. 25-07 27-07 Así mismo, conforme a lo indicado en el Informe de Amenaza Meteorológica y Avisos Meteorológicos de la DMC, los mont",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-24T08:37:28.2828-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e000d98ad594",
+   "nivel": "ROJA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Roja para la comuna de Tierra Amarilla por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Aviso A345 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 22-07 24-07 Aviso A346-1 Altas temperaturas en litoral, cordillera de la costa y sectores de valles y pampa de la región. 24-07 24-07 Por otra parte, han sido cancelado los siguientes alertamientos meteorológicos para la región, debido al debilitamiento de las condiciones meteorológica",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-24T04:57:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-evento-meteorologico-2026-07-18-09-44-14",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "e6d6acd71c8b",
    "nivel": "AMARILLA",
@@ -193,20 +235,6 @@
    "regiones_extra": []
   },
   {
-   "id": "72124fa61452",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Alerta AA107 Viento moderado a fuerte en litoral, cordillera de la costa, valle y precordillera. 23-07 23-07 Aviso A342-4 Viento normal a moderado en cordillera. 23-07 23-07 Aviso A347 Viento normal a moderado con probabilidad de ventisca en cordillera. 25-07 27-07 Así mismo, conforme a lo indicado en el Informe de Amenaza Meteorológica de la DMC, los montos pronosticados de pr",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-23T09:49:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "fd3506e10611",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
@@ -273,20 +301,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-22T11:59:52.5252-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-07-13-12-33-07",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "3f023a6a8633",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para la comuna de Arauco  por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “Río Pichilo en Pichilo” ubicada en la comuna de Arauco, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Arauco, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-22T06:40:20.2020-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco--por-crecida-2026-07-22-06-41-16",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -643,20 +657,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-21T02:49:25.2525-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comuna-de-cauquenes-y-parral-por-crecida-2026-07-16-18-02-32",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "65f0484b846a",
-   "nivel": "ROJA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Roja para la comuna de Tierra Amarilla por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Alerta AA102 nevadas moderadas a fuertes en cordillera, 21-07 21-07 Aviso A320-8 Viento normal a moderado con probabilidad de tormentas de arena en litoral, cordillera de la costa y sectores de valles, pampa, precordillera y cordillera. 20-07 21-07 Aviso A334-1 Probables Nevadas en precordillera. 21-07 21-07 Aviso A340 Nevadas Normales a moderadas con probabilidad de ventisca",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-21T01:33:25.2525-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-evento-meteorologico-2026-07-18-09-44-14",
    "origen": "senapred_web",
    "regiones_extra": []
   },
