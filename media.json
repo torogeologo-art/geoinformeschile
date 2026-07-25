@@ -1,59 +1,8 @@
 {
- "generado": "2026-07-25T11:03:18+00:00",
- "desde": "2026-07-23T11:03:10Z",
+ "generado": "2026-07-25T14:51:28+00:00",
+ "desde": "2026-07-23T14:51:18Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "_MAq7KFwoxQ",
-     "url": "https://www.youtube.com/watch?v=_MAq7KFwoxQ",
-     "titulo": "😱🚨 Terremoto cerca de Illapel, Provincia de Choapa, Región de Coquimbo, Chile actualizaciones en viv",
-     "canal": "lindunow",
-     "publicado": "2026-07-25T03:26:27Z",
-     "live": false,
-     "score": 7.37,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "qc4vO3Exrt0",
-     "url": "https://www.youtube.com/watch?v=qc4vO3Exrt0",
-     "titulo": "😱🚨 Terremoto cerca de Los Vilos, Provincia de Choapa, Región de Coquimbo, Chile actualizaciones en v",
-     "canal": "lindunow",
-     "publicado": "2026-07-24T10:35:20Z",
-     "live": false,
-     "score": 5.96,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "riDaj7ZgKnE",
-     "url": "https://www.youtube.com/watch?v=riDaj7ZgKnE",
-     "titulo": "😱🚨 Terremoto cerca de Illapel, Provincia de Choapa, Región de Coquimbo, Chile actualizaciones en viv",
-     "canal": "lindunow",
-     "publicado": "2026-07-23T13:33:15Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "TeMKjg7ZoVs",
-     "url": "https://www.youtube.com/watch?v=TeMKjg7ZoVs",
-     "titulo": "💜 Capital Abeja impulsa el emprendimiento femenino y fortalece negocios en el Choapa",
-     "canal": "CORE COQUIMBO OFICIAL",
-     "publicado": "2026-07-23T20:48:57Z",
-     "live": false,
-     "score": 2.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "los vilos": {
    "comuna": "Los Vilos",
    "region": "Coquimbo",
@@ -66,7 +15,7 @@
      "canal": "HD LL",
      "publicado": "2026-07-25T03:45:06Z",
      "live": false,
-     "score": 7.39,
+     "score": 7.07,
      "verificado": false,
      "embeddable": false
     }
@@ -102,7 +51,7 @@
      "canal": "Aves Del Paraiso Plantas Choapa",
      "publicado": "2026-07-24T03:44:56Z",
      "live": false,
-     "score": 5.39,
+     "score": 5.07,
      "verificado": false,
      "embeddable": true
     }
@@ -114,90 +63,42 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "PWi_zf_3_Js",
-     "url": "https://www.youtube.com/watch?v=PWi_zf_3_Js",
-     "titulo": "Câmera Ao Vivo 01 - Gramado Canela Brasil AGORA - NOW Live - Brazil IRL",
-     "canal": "Tarcila STR",
-     "publicado": "2026-07-25T06:55:27Z",
-     "live": true,
-     "score": 7.66,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "Kc9EPuyAYEw",
      "url": "https://www.youtube.com/watch?v=Kc9EPuyAYEw",
      "titulo": "Câmera Ao Vivo 02 - Gramado Canela Brasil AGORA - NOW Live - Brazil Brasil IRL",
      "canal": "Tarcila STR",
      "publicado": "2026-07-25T06:56:43Z",
      "live": true,
-     "score": 7.66,
+     "score": 7.34,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "FYuUx4rLeO0",
-     "url": "https://www.youtube.com/watch?v=FYuUx4rLeO0",
-     "titulo": "CANELA SONHO DE NATAL NA CATEDRAL DE PEDRA | SHOW IMPERDÍVEL",
-     "canal": "Alesromano Tips&Travel",
-     "publicado": "2026-07-25T11:00:38Z",
-     "live": false,
-     "score": 6.0,
+     "id": "PWi_zf_3_Js",
+     "url": "https://www.youtube.com/watch?v=PWi_zf_3_Js",
+     "titulo": "Câmera Ao Vivo 01 - Gramado Canela Brasil AGORA - NOW Live - Brazil IRL",
+     "canal": "Tarcila STR",
+     "publicado": "2026-07-25T06:55:27Z",
+     "live": true,
+     "score": 7.34,
      "verificado": false,
      "embeddable": true
-    },
+    }
+   ]
+  },
+  "vicuna": {
+   "comuna": "Vicuña",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
     {
-     "id": "9FpiDrGss-w",
-     "url": "https://www.youtube.com/watch?v=9FpiDrGss-w",
-     "titulo": "Mostrando opções de locação em Gramado e Canela agora na alta temporada. dia 24/07/2026",
-     "canal": "Lázaro Antunes",
-     "publicado": "2026-07-25T01:54:22Z",
-     "live": false,
-     "score": 5.24,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "6oG3XmD-Vy0",
-     "url": "https://www.youtube.com/watch?v=6oG3XmD-Vy0",
-     "titulo": "CINCO AÑOS JUNTANDO PIEDRAS EN UN BALDE 🐕🪨😂",
-     "canal": "Cuentacuentos",
-     "publicado": "2026-07-25T00:15:31Z",
-     "live": false,
-     "score": 5.1,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "FVsi6bw8L6U",
-     "url": "https://www.youtube.com/watch?v=FVsi6bw8L6U",
-     "titulo": "Canela ligado a crime organizado #Shorts",
-     "canal": "gmcortes",
-     "publicado": "2026-07-24T20:38:44Z",
-     "live": false,
-     "score": 4.8,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "XcvgW0MQQBI",
-     "url": "https://www.youtube.com/watch?v=XcvgW0MQQBI",
-     "titulo": "Flávio Bolsonaro escolhe Canela como candidato #Shorts",
-     "canal": "gmcortes",
-     "publicado": "2026-07-24T19:40:30Z",
-     "live": false,
-     "score": 4.72,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "WKwq7p2YDo8",
-     "url": "https://www.youtube.com/watch?v=WKwq7p2YDo8",
-     "titulo": "Canela do Ceilão: Por Que Ela É Tão Diferente? | Nutri Alessandra Feltre",
-     "canal": "Souly | Superalimentos Naturais",
-     "publicado": "2026-07-24T12:00:13Z",
-     "live": false,
-     "score": 4.08,
+     "id": "5q-EKJXODj4",
+     "url": "https://www.youtube.com/watch?v=5q-EKJXODj4",
+     "titulo": "Transmisión en vivo de Vicuña con Alameda",
+     "canal": "Vicuña con Alameda",
+     "publicado": "2026-07-24T13:01:23Z",
+     "live": true,
+     "score": 5.85,
      "verificado": false,
      "embeddable": true
     }

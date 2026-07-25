@@ -1,12 +1,12 @@
 {
- "generado": "2026-07-25T11:03:09+00:00",
+ "generado": "2026-07-25T14:51:16+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 67,
+ "total_vigentes": 65,
  "alertas": [
   {
    "id": "426aa7d404f9",
@@ -1319,7 +1319,7 @@
    "comunas": [
     "Alto del Carmen"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-18T12:24:25+00:00",
    "url": "https://t.me/SenapredChile/1322",
    "origen": "telegram",
@@ -1333,7 +1333,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por desborde de canal, #SENAPRED solicita evacuar sector Quebrada Valparaíso; en la comuna de #Vallenar, Región de Atacama.\n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\n\nMás información en: https://web.senapred.cl/dimension-animal/",
    "region": "Atacama",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-18T11:48:02+00:00",
    "url": "https://t.me/SenapredChile/1321",
    "origen": "telegram",

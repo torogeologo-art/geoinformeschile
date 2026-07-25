@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-25T11:03:18+00:00",
+ "generado": "2026-07-25T14:51:29+00:00",
  "evento": {
   "nombre": "Sistema frontal — evento meteorológico en monitoreo",
   "desde": "15-07-2026",
@@ -807,7 +807,7 @@
   ]
  },
  "vigentes": {
-  "ROJA": 54,
+  "ROJA": 52,
   "AMARILLA": 4,
   "ATP": 9,
   "regiones_roja": [
