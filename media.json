@@ -1,8 +1,26 @@
 {
- "generado": "2026-07-25T14:51:28+00:00",
- "desde": "2026-07-23T14:51:18Z",
+ "generado": "2026-07-25T18:10:50+00:00",
+ "desde": "2026-07-23T18:10:41Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "maule": {
+   "comuna": "Maule",
+   "region": "Maule",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "0BK9-6jd3ys",
+     "url": "https://www.youtube.com/watch?v=0BK9-6jd3ys",
+     "titulo": "Team Maule está en vivo",
+     "canal": "Team Maule",
+     "publicado": "2026-07-25T15:15:47Z",
+     "live": true,
+     "score": 7.76,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "los vilos": {
    "comuna": "Los Vilos",
    "region": "Coquimbo",
@@ -15,45 +33,9 @@
      "canal": "HD LL",
      "publicado": "2026-07-25T03:45:06Z",
      "live": false,
-     "score": 7.07,
+     "score": 6.8,
      "verificado": false,
      "embeddable": false
-    }
-   ]
-  },
-  "ovalle": {
-   "comuna": "Ovalle",
-   "region": "",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "asTzC9nV6yM",
-     "url": "https://www.youtube.com/watch?v=asTzC9nV6yM",
-     "titulo": "Review Mazo DEFENSOR AGGRO ft. Mauricio Ávalos -  Campeón Torneo Avanzado PBX Julio GH Store Ovalle",
-     "canal": "Ecos del Limarí Myl",
-     "publicado": "2026-07-23T22:38:05Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "salamanca": {
-   "comuna": "Salamanca",
-   "region": "",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "37-82C-VgRg",
-     "url": "https://www.youtube.com/watch?v=37-82C-VgRg",
-     "titulo": "#choapa #illapel #salamanca #limahuida #chile #cuartaregion #plantasia #plantas #jardin #vivero",
-     "canal": "Aves Del Paraiso Plantas Choapa",
-     "publicado": "2026-07-24T03:44:56Z",
-     "live": false,
-     "score": 5.07,
-     "verificado": false,
-     "embeddable": true
     }
    ]
   },
@@ -69,7 +51,7 @@
      "canal": "Tarcila STR",
      "publicado": "2026-07-25T06:56:43Z",
      "live": true,
-     "score": 7.34,
+     "score": 7.06,
      "verificado": false,
      "embeddable": true
     },
@@ -80,25 +62,7 @@
      "canal": "Tarcila STR",
      "publicado": "2026-07-25T06:55:27Z",
      "live": true,
-     "score": 7.34,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "vicuna": {
-   "comuna": "Vicuña",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "5q-EKJXODj4",
-     "url": "https://www.youtube.com/watch?v=5q-EKJXODj4",
-     "titulo": "Transmisión en vivo de Vicuña con Alameda",
-     "canal": "Vicuña con Alameda",
-     "publicado": "2026-07-24T13:01:23Z",
-     "live": true,
-     "score": 5.85,
+     "score": 7.06,
      "verificado": false,
      "embeddable": true
     }

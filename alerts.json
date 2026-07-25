@@ -1,23 +1,37 @@
 {
- "generado": "2026-07-25T14:51:16+00:00",
+ "generado": "2026-07-25T18:10:40+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 65,
+ "total_vigentes": 61,
  "alertas": [
   {
-   "id": "426aa7d404f9",
+   "id": "93471a8f2b60",
    "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para las comunas de Molina y Curicó por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica Río Palos en junta con Colorado , ubicada en precordillera de las comunas de Molina y Curicó, indica un incremento en su caudal , alcanzando valores de umbral amarillo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. Cabe señalar, que el resto de las estaciones aguas abajo se encuentran al momento en umbrales normales. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SE",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Amarilla para la Región de Aysén por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones meteorológicas iniciales, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Aysén: Alertamiento Pronóstico Aviso A344-1 Nevadas normales a moderadas en cordillera austral norte y patagonia subandina norte de la región. Aviso A342-4 Viento normal a moderado en insular norte de la región. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Aysén, la Dirección Regional del SENAPRED canc",
+   "region": "Aysén del General Carlos Ibáñez del Campo",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-07-25T13:55:41.4141-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-evento-meteorologico-2026-07-16-12-11-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "359e691adb9e",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para las comunas de Molina y Curicó por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica Río Palos en junta con Colorado , ubicada en precordillera de las comunas de Molina y Curicó, indica un incremento en su caudal , alcanzando valores de umbral rojo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. Cabe señalar, que el resto de las estaciones aguas abajo se encuentran al momento en umbrales normales. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED",
    "region": "Maule",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-07-25T05:09:00.000-04:00",
+   "ts": "2026-07-25T11:36:12.1212-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-molina-y-curico-por-crecida-2026-07-25-05-11-57",
    "origen": "senapred_web",
    "regiones_extra": []
@@ -47,20 +61,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-24T21:51:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-viento-2026-07-21-18-46-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e6d6acd71c8b",
-   "nivel": "AMARILLA",
-   "tipo": "evento meteorológico",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Aysén por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Aysén, a la hora del presente informe la región presenta la siguiente condición de tiempo: LUGAR CONDICIÓN DE TIEMPO Melinka Despejado Puerto Aguirre Nublado Raúl Marín Balmaceda Nublado Lago Verde Nublado La Junta Nublado Puyuhuapi Nublado Puerto Cisnes Nublado Puerto Aysén Nublado Chacabuco Nublado Coyhaique Nubosidad parcial Coyhaique Alto Nubosidad parcial Balmaceda Nubosidad parcial Puerto Ibáñez Nubosidad parcial Chile Chico Nublado Cochrane Despejado Tortel Nubosidad parcial Villa O’Higgins Nublado Product",
-   "region": "Aysén del General Carlos Ibáñez del Campo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-24T19:57:49.4949-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-evento-meteorologico-2026-07-16-12-11-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1271,7 +1271,7 @@
    "comunas": [
     "Coquimbo"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-18T17:27:32+00:00",
    "url": "https://t.me/SenapredChile/1331",
    "origen": "telegram",
@@ -1287,7 +1287,7 @@
    "comunas": [
     "Ovalle"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-18T16:40:05+00:00",
    "url": "https://t.me/SenapredChile/1329",
    "origen": "telegram",
@@ -1303,7 +1303,7 @@
    "comunas": [
     "La Serena"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-18T16:31:02+00:00",
    "url": "https://t.me/SenapredChile/1328",
    "origen": "telegram",
