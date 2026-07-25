@@ -1,32 +1,32 @@
 {
- "generado": "2026-07-25T14:51:29+00:00",
+ "generado": "2026-07-25T18:11:32+00:00",
  "evento": {
   "nombre": "Sistema frontal — evento meteorológico en monitoreo",
   "desde": "15-07-2026",
   "hasta": "25-07-2026"
  },
  "totales": {
-  "alertas": 158,
+  "alertas": 159,
   "sae": 62,
   "comunas": 21,
   "regiones": 17,
   "por_nivel": {
-   "ATP": 51,
-   "ROJA": 77,
-   "AMARILLA": 30
+   "ROJA": 78,
+   "AMARILLA": 31,
+   "ATP": 50
   },
   "por_tipo": [
    [
     "viento",
-    41
+    42
    ],
    [
     "crecida de río",
-    38
+    37
    ],
    [
     "desborde",
-    26
+    27
    ],
    [
     "tormentas eléctricas",
@@ -125,6 +125,15 @@
     "region_link": "biobio"
    },
    {
+    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "25-07",
+    "comuna_link": "",
+    "region_link": "aysen del general carlos ibanez del campo"
+   },
+   {
     "lugar": "Región de Los Ríos",
     "region": "Los Ríos",
     "nivel": "ATP",
@@ -132,15 +141,6 @@
     "ts": "17-07",
     "comuna_link": "",
     "region_link": "los rios"
-   },
-   {
-    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-    "region": "Aysén del General Carlos Ibáñez del Campo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "19-07",
-    "comuna_link": "",
-    "region_link": "aysen del general carlos ibanez del campo"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -181,15 +181,6 @@
   ],
   "crecida de río": [
    {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "17-07",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
     "lugar": "Coihueco",
     "region": "Ñuble",
     "nivel": "ROJA",
@@ -206,6 +197,15 @@
     "ts": "16-07",
     "comuna_link": "",
     "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "17-07",
+    "comuna_link": "",
+    "region_link": "maule"
    },
    {
     "lugar": "Región de Metropolitana",
@@ -807,12 +807,13 @@
   ]
  },
  "vigentes": {
-  "ROJA": 52,
-  "AMARILLA": 4,
+  "ROJA": 50,
+  "AMARILLA": 2,
   "ATP": 9,
   "regiones_roja": [
    "Atacama",
-   "Coquimbo"
+   "Coquimbo",
+   "Maule"
   ]
  },
  "serie": [
@@ -820,7 +821,7 @@
    "fecha": "2026-07-15",
    "ROJA": 1,
    "AMARILLA": 0,
-   "ATP": 1,
+   "ATP": 0,
    "sae": 1
   },
   {
@@ -888,46 +889,13 @@
   },
   {
    "fecha": "2026-07-25",
-   "ROJA": 1,
-   "AMARILLA": 1,
+   "ROJA": 2,
+   "AMARILLA": 2,
    "ATP": 0,
    "sae": 0
   }
  ],
  "escalamientos": [
-  {
-   "lugar": "Región de Maule",
-   "region": "Maule",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "21-07 02:49",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "21-07 15:04",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "23-07 08:21",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "24-07 01:30",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "24-07 14:51",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
   {
    "lugar": "Región de Biobío",
    "region": "Biobío",
@@ -990,6 +958,39 @@
     {
      "nivel": "ROJA",
      "ts": "22-07 20:50",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Maule",
+   "region": "Maule",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "21-07 15:04",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "23-07 08:21",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "24-07 01:30",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "24-07 14:51",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "25-07 11:36",
      "estado": "VIGENTE"
     }
    ]
@@ -1127,6 +1128,24 @@
  ],
  "cronologia": [
   {
+   "ts": "25-07 13:55",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-evento-meteorologico-2026-07-16-12-11-26"
+  },
+  {
+   "ts": "25-07 11:36",
+   "nivel": "ROJA",
+   "lugar": "Región de Maule",
+   "tipo": "desborde",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-molina-y-curico-por-crecida-2026-07-25-05-11-57"
+  },
+  {
    "ts": "25-07 05:09",
    "nivel": "AMARILLA",
    "lugar": "Región de Maule",
@@ -1233,24 +1252,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-evento-meteorologico-2026-07-18-09-44-14"
-  },
-  {
-   "ts": "24-07 01:57",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-evento-meteorologico-2026-07-16-12-11-26"
-  },
-  {
-   "ts": "24-07 01:30",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
