@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-22T15:25:30+00:00",
+ "generado": "2026-07-25T11:03:09+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
   {
@@ -221,17 +221,6 @@
    "lugar": "Coquimbo",
    "url": "https://t.me/SenapredChile/1331",
    "ts": "2026-07-18T17:27"
-  },
-  {
-   "nombre": "estero El Cobre",
-   "lat": -32.73249,
-   "lon": -70.56705,
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "sae": true,
-   "lugar": "Valparaíso",
-   "url": "https://t.me/SenapredChile/1316",
-   "ts": "2026-07-18T03:24"
   }
  ]
 }

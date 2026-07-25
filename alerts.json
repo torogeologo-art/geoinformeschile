@@ -1,13 +1,27 @@
 {
- "generado": "2026-07-25T06:37:08+00:00",
+ "generado": "2026-07-25T11:03:09+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 66,
+ "total_vigentes": 67,
  "alertas": [
+  {
+   "id": "426aa7d404f9",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para las comunas de Molina y Curicó por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica Río Palos en junta con Colorado , ubicada en precordillera de las comunas de Molina y Curicó, indica un incremento en su caudal , alcanzando valores de umbral amarillo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. Cabe señalar, que el resto de las estaciones aguas abajo se encuentran al momento en umbrales normales. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SE",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-25T05:09:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-molina-y-curico-por-crecida-2026-07-25-05-11-57",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "30f2e80115b3",
    "nivel": "ROJA",
