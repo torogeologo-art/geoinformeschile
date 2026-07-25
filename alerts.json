@@ -1,13 +1,41 @@
 {
- "generado": "2026-07-25T18:11:21+00:00",
+ "generado": "2026-07-25T21:12:59+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 61,
+ "total_vigentes": 58,
  "alertas": [
+  {
+   "id": "721331b33e29",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Aviso A348-2 Tormentas eléctricasen zona del litoral, cordillera de la costa, valle, precordillera y cordillera. 26-07 27-07 Aviso A349-2 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la costa, valle, precordillera y cordillera. 25-07 26-07 Aviso A347-3 Viento normal a moderado con probabilidad de ventisca en litoral, cordillera de la costa, valle",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-25T15:13:29.2929-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "c176709dd68c",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Aviso A348-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle y precordillera. 26-07 26-07 Aviso A351 Precipitaciones normales a moderadas en el litoral, cordillera de la costa, valle, precordillera y cordillera. 24-07 25-07 Aviso A354-1 Viento normal a moderado en litoral y cordillera de",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-25T15:11:06.066-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-viento-2026-07-21-18-46-40",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "93471a8f2b60",
    "nivel": "AMARILLA",
@@ -51,20 +79,6 @@
    "regiones_extra": []
   },
   {
-   "id": "a6e5796bca34",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Aviso A348-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en Provincia del Ranco. 25-07 25-07 Aviso A351 Precipitaciones normales a moderadas en el litoral, cordillera de la costa, valle, precordillera y cordillera. 24-07 25-07 Aviso A354-1 Viento normal a moderado en litoral y cordillera de la costa. 25-07 26-07 Aviso A355 Pr",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-24T21:51:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-viento-2026-07-21-18-46-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "c4820bdb8811",
    "nivel": "AMARILLA",
    "tipo": "viento",
@@ -75,20 +89,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-24T19:39:20.2020-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2a0b3f769bfa",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Aviso A349-1 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la costa, valle, precordillera y cordillera. 25-07 26-07 Aviso A347-3 Viento normal a moderado con probabilidad de ventisca en litoral, cordillera de la costa, valle, precordillera y cordillera. 25-07 27-07 Así mismo, conforme a lo indicado en el Informe de Amenaza Meteorológica y Avisos M",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-24T18:52:37.3737-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1197,7 +1197,7 @@
    "comunas": [
     "Vicuña"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-18T20:19:40+00:00",
    "url": "https://t.me/SenapredChile/1335",
    "origen": "telegram",
@@ -1213,7 +1213,7 @@
    "comunas": [
     "Alto del Carmen"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-18T20:15:10+00:00",
    "url": "https://t.me/SenapredChile/1334",
    "origen": "telegram",
@@ -1255,7 +1255,7 @@
    "descripcion": "¡ATENCIÓN! #SENAPRED solicita EVACUAR sector Higueritas Unidas, por desborde de quebrada El Ingenio, en la comuna de #Ovalle, Región de #Coquimbo. \nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. \nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
    "region": "",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-18T18:22:46+00:00",
    "url": "https://t.me/SenapredChile/1332",
    "origen": "telegram",
@@ -2329,20 +2329,6 @@
    "estado": "CANCELADA",
    "ts": "2026-06-26T18:54:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-vicuna-por-incendio-forestal-2026-06-25-15-51-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a8afee14310c",
-   "nivel": "ATP",
-   "tipo": "otros",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario",
-   "descripcion": "En atención a los antecedentes proporcionados por el Servicio Agricola y Ganadero (SAG) , se encuentran vigentes las siguientes Resoluciones Exentas en la Región de Los Ríos: Resolución Exenta N°1833 de 2023 Declaración de Emergencia Sanitaria, por la presencia del virus aviar de alta patogenicidad H5N1 (IAPP). Resolución Exenta N°585 de 2026 Confirmación de presencia de virus aviar de alta patogenicidad H5N1 (IAPP) en la Región de Los Ríos. Activación de protocolos de vigilancia junto con formación del Centro de Operación Regional. En tanto, de acuerdo con el avance de la emergencia y product",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-06-26T18:01:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
    "origen": "senapred_web",
    "regiones_extra": []
   },
