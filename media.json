@@ -1,6 +1,167 @@
 {
- "generado": "2026-07-25T21:13:06+00:00",
- "desde": "2026-07-23T21:13:00Z",
+ "generado": "2026-07-26T07:20:51+00:00",
+ "desde": "2026-07-24T07:20:39Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "maule": {
+   "comuna": "Maule",
+   "region": "Maule",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "HO_JfEBoEks",
+     "url": "https://www.youtube.com/watch?v=HO_JfEBoEks",
+     "titulo": "Senapred emite alerta roja preventiva en Molina y Curicó por desborde",
+     "canal": "Meganoticias",
+     "publicado": "2026-07-25T16:39:01Z",
+     "live": false,
+     "score": 4.78,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "_MAq7KFwoxQ",
+     "url": "https://www.youtube.com/watch?v=_MAq7KFwoxQ",
+     "titulo": "😱🚨 Terremoto cerca de Illapel, Provincia de Choapa, Región de Coquimbo, Chile actualizaciones en viv",
+     "canal": "lindunow",
+     "publicado": "2026-07-25T03:26:27Z",
+     "live": false,
+     "score": 5.67,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "qc4vO3Exrt0",
+     "url": "https://www.youtube.com/watch?v=qc4vO3Exrt0",
+     "titulo": "😱🚨 Terremoto cerca de Los Vilos, Provincia de Choapa, Región de Coquimbo, Chile actualizaciones en v",
+     "canal": "lindunow",
+     "publicado": "2026-07-24T10:35:20Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "los vilos": {
+   "comuna": "Los Vilos",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "Rz3Iu-CDTHs",
+     "url": "https://www.youtube.com/watch?v=Rz3Iu-CDTHs",
+     "titulo": "🇨🇱 Entrevista a Hugo Tapia, Rio Quilimarí 24-07-26",
+     "canal": "HD LL",
+     "publicado": "2026-07-25T03:45:06Z",
+     "live": false,
+     "score": 5.7,
+     "verificado": false,
+     "embeddable": false
+    }
+   ]
+  },
+  "canela": {
+   "comuna": "Canela",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "0OQ6Ljx6OXE",
+     "url": "https://www.youtube.com/watch?v=0OQ6Ljx6OXE",
+     "titulo": "GRAMADO, CANELA E RUA COBERTA  AO VIVO E MUITA FESTA",
+     "canal": "Tobias In Gramado",
+     "publicado": "2026-07-26T00:37:39Z",
+     "live": true,
+     "score": 7.44,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Kc9EPuyAYEw",
+     "url": "https://www.youtube.com/watch?v=Kc9EPuyAYEw",
+     "titulo": "Câmera Ao Vivo 02 - Gramado Canela Brasil AGORA - NOW Live - Brazil Brasil IRL",
+     "canal": "Tarcila STR",
+     "publicado": "2026-07-25T06:56:43Z",
+     "live": true,
+     "score": 5.97,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "PWi_zf_3_Js",
+     "url": "https://www.youtube.com/watch?v=PWi_zf_3_Js",
+     "titulo": "Câmera Ao Vivo 01 - Gramado Canela Brasil AGORA - NOW Live - Brazil IRL",
+     "canal": "Tarcila STR",
+     "publicado": "2026-07-25T06:55:27Z",
+     "live": true,
+     "score": 5.96,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "FYuUx4rLeO0",
+     "url": "https://www.youtube.com/watch?v=FYuUx4rLeO0",
+     "titulo": "CANELA SONHO DE NATAL NA CATEDRAL DE PEDRA | SHOW IMPERDÍVEL",
+     "canal": "Alesromano Tips&Travel",
+     "publicado": "2026-07-25T11:00:38Z",
+     "live": false,
+     "score": 4.31,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "9FpiDrGss-w",
+     "url": "https://www.youtube.com/watch?v=9FpiDrGss-w",
+     "titulo": "Mostrando opções de locação em Gramado e Canela agora na alta temporada. dia 24/07/2026",
+     "canal": "Lázaro Antunes",
+     "publicado": "2026-07-25T01:54:22Z",
+     "live": false,
+     "score": 3.55,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "6oG3XmD-Vy0",
+     "url": "https://www.youtube.com/watch?v=6oG3XmD-Vy0",
+     "titulo": "CINCO AÑOS JUNTANDO PIEDRAS EN UN BALDE 🐕🪨😂",
+     "canal": "Cuentacuentos",
+     "publicado": "2026-07-25T00:15:31Z",
+     "live": false,
+     "score": 3.41,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "FVsi6bw8L6U",
+     "url": "https://www.youtube.com/watch?v=FVsi6bw8L6U",
+     "titulo": "Canela ligado a crime organizado #Shorts",
+     "canal": "gmcortes",
+     "publicado": "2026-07-24T20:38:44Z",
+     "live": false,
+     "score": 3.11,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "XcvgW0MQQBI",
+     "url": "https://www.youtube.com/watch?v=XcvgW0MQQBI",
+     "titulo": "Flávio Bolsonaro escolhe Canela como candidato #Shorts",
+     "canal": "gmcortes",
+     "publicado": "2026-07-24T19:40:30Z",
+     "live": false,
+     "score": 3.03,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
