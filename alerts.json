@@ -1,13 +1,41 @@
 {
- "generado": "2026-07-26T20:17:03+00:00",
+ "generado": "2026-07-26T23:46:28+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 56,
+ "total_vigentes": 54,
  "alertas": [
+  {
+   "id": "81066bc2d3c9",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para las comunas de San Fabián y Ñiquén por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “Río Perquilauquén en San Manuel”, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para las comunas de San Fabián y Ñiquén, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con la declara",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-26T19:20:51.5151-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-fabian-y-iquen-por-crecida-2026-07-26-19-21-53",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "8dafdcfcc3f4",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos en la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Aviso A347-4 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 26-07 28-07 Aviso A349-2 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la región. 25-07 25-07 Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica de la DMC, los montos pronosticados de precipitaciones (mm/cm), viento (km/h) e isoterm",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-26T19:10:20.2020-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-evento-meteorologico-2026-07-12-16-14-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "b110bc036c8c",
    "nivel": "ROJA",
@@ -25,32 +53,76 @@
    "sae": true
   },
   {
-   "id": "4a006d7928aa",
+   "id": "4e01d67ca305",
    "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para las comunas de Licantén y Curepto por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Mataquito en Licantén” ubicada en pasarela peatonal, ex puente Escalones de la comuna de Licantén, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para las comunas de Licantén y Curepto, vigente a conta",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Aviso A349-2 Precipitaciones normales a moderadas con isoterma cero alta en precordillera y cordillera. 25-07 26-07 Aviso A347-4 Viento normal a moderado con probabilidad de ventisca en litoral, cordillera de la costa, valle, precordillera y cordillera. 26-07 28-07 Aviso A348-4 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos",
    "region": "Maule",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-07-26T15:20:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-licanten-y-curepto-por-crecida-2026-07-26-15-28-24",
+   "ts": "2026-07-26T17:56:39.3939-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
    "origen": "senapred_web",
    "regiones_extra": []
   },
   {
-   "id": "99f330167a94",
-   "nivel": "AMARILLA",
+   "id": "3e3203ee04b1",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Aviso A348-4 Probables tormentas eléctricas, con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle y precordillera. 26-07 26-07 Aviso A357-1 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en litoral, cordillera de la costa y valle.",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-26T17:40:47.4747-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "593c54cf7cb6",
+   "nivel": "ROJA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se ha cancelado el siguiente alertamiento meteorológico para la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que lo originaron.: Alertamiento Pronóstico Inicio Fin Aviso A347-4 Viento normal a moderado en cordillera. 28-07 28-07 Además, se informa que son susceptibles a caídas de rocas y deslizamientos, los taludes de las rutas CH-5 (cuesta Pajonales, sector Incahuasi, sector Talinay), CH-41 (sectores Embalses y paso Agua Negra), D-51, D-485, D-487, D-605 (cuesta los Ma",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-26T16:50:38.3838-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a3f5a0d20aee",
+   "nivel": "ROJA",
    "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para la comuna de Arauco por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “Río Pichilo en Pichilo” ubicada en la comuna de Arauco, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Arauco, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con l",
+   "titulo": "Se declara Alerta Roja para la comuna de Arauco por desborde y cancela Alerta Amarilla por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Pichilo en Pichilo” ubicada en la comuna de Arauco, indica un incremento en su caudal, alcanzando valores de umbral rojo, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED cancela la Alerta Amarilla&nbsp; para la comuna de Arauco por crecida , que se mantuvo vigente desde hoy domingo 26 de julio y declara Alerta",
    "region": "Biobío",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-07-26T14:50:21.2121-04:00",
+   "ts": "2026-07-26T16:45:53.5353-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-07-26-14-51-05",
    "origen": "senapred_web",
    "regiones_extra": []
+  },
+  {
+   "id": "14ffadf2cc30",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Magallanes por heladas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantiene vigente el siguiente alertamiento para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Aviso A361 Heladas normales a moderadas con formación de hielo en Cordillera Austral Sur, Insular Sur, Pampa Patagónica Norte y Pampa Patagónica Sur (entre -9 y -2 °C). 27-07 30-07 Además, el pronóstico especial emitido durante la presente jornada por el Centro Meteorológico Regional Austral de la DMC señala que las temperaturas mínimas esperadas por comuna son las siguientes: Sector Comuna Lun",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-26T16:27:52.5252-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-heladas-2026-07-26-16-29-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
   },
   {
    "id": "d119edafba72",
@@ -81,20 +153,6 @@
    "regiones_extra": []
   },
   {
-   "id": "25c1d3b95f62",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Aviso A349-2 Precipitaciones normales a moderadas con isoterma cero alta en precordillera y cordillera. 25-07 27-07 Aviso A347-3 Viento normal a moderado con probabilidad de ventisca en litoral, cordillera de la costa, valle, precordillera y cordillera. 25-07 27-07 Aviso A348-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos l",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-25T18:59:01.011-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "b21104684823",
    "nivel": "ATP",
    "tipo": "viento",
@@ -105,20 +163,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-25T18:03:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-07-25-18-03-01",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "cb33d7eb5a53",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Aviso A348-2 Probables tormentas eléctricas, con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle y precordillera. 26-07 26-07 Aviso A357 Probable desarrollo de nubes convectivas con características tornádicas en litoral, cordillera de la costa y valle. 26-07 26-07 Asimismo, debido al debilitamiento de las condiciones meteorológ",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-25T17:27:12.1212-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -193,20 +237,6 @@
    "regiones_extra": []
   },
   {
-   "id": "eeb8d70c5719",
-   "nivel": "ROJA",
-   "tipo": "aluvión",
-   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada la Dirección Meteorológicas de Chile (DMC) mediante su Informe de Riesgo Meteorológico de la presente jornada y el análisis realizado por Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa, se indican los montos de precipitaciones pronosticados y la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos, caídas de rocas) conforme al siguiente detalle: Zona Precipitaciones Viernes 24 Precipitaciones Sábado 25 Precipitaciones Domingo 26 P",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-24T15:55:09.099-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "2ca4ed57706b",
    "nivel": "ATP",
    "tipo": "viento",
@@ -273,20 +303,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-23T23:49:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-huasco-por-evento-meteorologico-2026-07-16-19-52-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "fa112f089371",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos en la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Aviso A347-1 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 25-07 27-07 Aviso A349 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la región. 25-07 25-07 Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica de la DMC, los montos pronosticados de precipitaciones (mm/cm), viento (km/h) e isoterma",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-23T21:33:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-evento-meteorologico-2026-07-12-16-14-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1032,7 +1048,7 @@
    "descripcion": "REITERAMOS el llamado a EVACUAR sector Tres Cruces, por desborde de la quebrada Tres Cruces, en la comuna de #Paihuano, Región de Coquimbo. \n\nPara reforzar la evacuación en terreno por parte de losorganismos técnicos, #SENAPRED activó mensajería #SAE.  \n\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. \n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
    "region": "Coquimbo",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-19T23:30:35+00:00",
    "url": "https://t.me/SenapredChile/1362",
    "origen": "telegram",
@@ -1046,7 +1062,7 @@
    "descripcion": "REITERAMOS el llamado de #SENAPRED por activación de Quebrada Alarcón, a EVACUAR el sector #Amancay, en la comuna de #Freirina, Región de Atacama.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
    "region": "Atacama",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-19T21:07:28+00:00",
    "url": "https://t.me/SenapredChile/1356",
    "origen": "telegram",
@@ -1062,7 +1078,7 @@
    "comunas": [
     "Huasco"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-19T20:52:36+00:00",
    "url": "https://t.me/SenapredChile/1355",
    "origen": "telegram",
@@ -1609,20 +1625,6 @@
    "url": "https://t.me/SenapredChile/1286",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "0164ccb02756",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Alerta AA91-1 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa, valle y precordillera. 14-07 16-07 Alerta AA90-3 Viento moderado a fuerte en el litoral, cordillera de la costa, valle, precordillera y cordillera. 15-07 16-07 Aviso A319-5 Viento normal a moderado en precordillera y cordillera. 15-07 17-07 Aviso 322-4 Nevadas normales a moderadas en zona cordil",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-16T14:40:58.5858-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-07-12-18-52-58",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "676ff02c26ca",
