@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-25T18:11:22+00:00",
+ "generado": "2026-07-26T11:48:04+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
   {
@@ -177,39 +177,6 @@
    "lugar": "Vallenar",
    "url": "https://t.me/SenapredChile/1345",
    "ts": "2026-07-19T16:07"
-  },
-  {
-   "nombre": "río Elqui",
-   "lat": -29.8839,
-   "lon": -71.2471,
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "sae": true,
-   "lugar": "La Serena",
-   "url": "https://t.me/SenapredChile/1338",
-   "ts": "2026-07-18T23:25"
-  },
-  {
-   "nombre": "quebrada San Carlos",
-   "lat": -30.02835,
-   "lon": -70.81122,
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "sae": true,
-   "lugar": "Vicuña",
-   "url": "https://t.me/SenapredChile/1335",
-   "ts": "2026-07-18T20:19"
-  },
-  {
-   "nombre": "río Huasco",
-   "lat": -29.0774,
-   "lon": -70.12676,
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "sae": true,
-   "lugar": "Alto del Carmen",
-   "url": "https://t.me/SenapredChile/1334",
-   "ts": "2026-07-18T20:15"
   }
  ]
 }

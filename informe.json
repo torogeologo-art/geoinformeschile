@@ -1,24 +1,24 @@
 {
- "generado": "2026-07-25T18:11:32+00:00",
+ "generado": "2026-07-26T11:48:18+00:00",
  "evento": {
   "nombre": "Sistema frontal — evento meteorológico en monitoreo",
-  "desde": "15-07-2026",
-  "hasta": "25-07-2026"
+  "desde": "16-07-2026",
+  "hasta": "26-07-2026"
  },
  "totales": {
-  "alertas": 159,
-  "sae": 62,
-  "comunas": 21,
+  "alertas": 164,
+  "sae": 61,
+  "comunas": 20,
   "regiones": 17,
   "por_nivel": {
-   "ROJA": 78,
-   "AMARILLA": 31,
-   "ATP": 50
+   "ROJA": 77,
+   "AMARILLA": 32,
+   "ATP": 55
   },
   "por_tipo": [
    [
     "viento",
-    42
+    44
    ],
    [
     "crecida de río",
@@ -30,7 +30,7 @@
    ],
    [
     "tormentas eléctricas",
-    24
+    27
    ],
    [
     "activación de quebradas",
@@ -177,18 +177,18 @@
     "ts": "23-07",
     "comuna_link": "",
     "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "25-07",
+    "comuna_link": "",
+    "region_link": "antofagasta"
    }
   ],
   "crecida de río": [
-   {
-    "lugar": "Coihueco",
-    "region": "Ñuble",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "15-07",
-    "comuna_link": "coihueco",
-    "region_link": "nuble"
-   },
    {
     "lugar": "Región de Biobío",
     "region": "Biobío",
@@ -359,6 +359,15 @@
     "ts": "19-07",
     "comuna_link": "",
     "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-07",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
    }
   ],
   "desborde": [
@@ -633,6 +642,15 @@
     "ts": "23-07",
     "comuna_link": "",
     "region_link": "los lagos"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "25-07",
+    "comuna_link": "",
+    "region_link": "biobio"
    }
   ],
   "activación de quebradas": [
@@ -807,9 +825,9 @@
   ]
  },
  "vigentes": {
-  "ROJA": 50,
-  "AMARILLA": 2,
-  "ATP": 9,
+  "ROJA": 44,
+  "AMARILLA": 3,
+  "ATP": 10,
   "regiones_roja": [
    "Atacama",
    "Coquimbo",
@@ -817,13 +835,6 @@
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-07-15",
-   "ROJA": 1,
-   "AMARILLA": 0,
-   "ATP": 0,
-   "sae": 1
-  },
   {
    "fecha": "2026-07-16",
    "ROJA": 2,
@@ -891,6 +902,13 @@
    "fecha": "2026-07-25",
    "ROJA": 2,
    "AMARILLA": 2,
+   "ATP": 5,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-07-26",
+   "ROJA": 0,
+   "AMARILLA": 1,
    "ATP": 0,
    "sae": 0
   }
@@ -902,11 +920,6 @@
    "sae": true,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "17-07 13:39",
-     "estado": "CANCELADA"
-    },
     {
      "nivel": "ATP",
      "ts": "20-07 10:53",
@@ -926,6 +939,11 @@
      "nivel": "AMARILLA",
      "ts": "24-07 08:43",
      "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "25-07 15:13",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -969,11 +987,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "ATP",
-     "ts": "21-07 15:04",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "AMARILLA",
      "ts": "23-07 08:21",
      "estado": "CANCELADA"
@@ -991,6 +1004,11 @@
     {
      "nivel": "ROJA",
      "ts": "25-07 11:36",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "26-07 03:55",
      "estado": "VIGENTE"
     }
    ]
@@ -1128,6 +1146,60 @@
  ],
  "cronologia": [
   {
+   "ts": "26-07 03:55",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Maule",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-clemente-y-talca-por-crecida-2026-07-25-22-44-05"
+  },
+  {
+   "ts": "25-07 18:03",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-07-25-18-03-01"
+  },
+  {
+   "ts": "25-07 17:50",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00"
+  },
+  {
+   "ts": "25-07 17:27",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59"
+  },
+  {
+   "ts": "25-07 15:13",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17"
+  },
+  {
+   "ts": "25-07 15:11",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-viento-2026-07-21-18-46-40"
+  },
+  {
    "ts": "25-07 13:55",
    "nivel": "AMARILLA",
    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
@@ -1198,60 +1270,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55"
-  },
-  {
-   "ts": "24-07 12:52",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59"
-  },
-  {
-   "ts": "24-07 12:45",
-   "nivel": "ATP",
-   "lugar": "Región de Los Ríos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-viento-2026-07-21-18-46-40"
-  },
-  {
-   "ts": "24-07 09:47",
-   "nivel": "ATP",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-07-13-12-33-07"
-  },
-  {
-   "ts": "24-07 08:43",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Biobío",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco--por-crecida-2026-07-22-06-41-16"
-  },
-  {
-   "ts": "24-07 08:37",
-   "nivel": "ATP",
-   "lugar": "Región de Biobío",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17"
-  },
-  {
-   "ts": "24-07 04:57",
-   "nivel": "ROJA",
-   "lugar": "Región de Atacama",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-evento-meteorologico-2026-07-18-09-44-14"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

@@ -1,24 +1,38 @@
 {
- "generado": "2026-07-26T07:20:39+00:00",
+ "generado": "2026-07-26T11:47:59+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 56,
+ "total_vigentes": 57,
  "alertas": [
   {
-   "id": "a150f75fa51d",
+   "id": "2889064c89d5",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para las comunas de San Clemente y Talca por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica Río Lircay en Puente Rastras , ubicada en camino a Corralones del sector Bajos de Lircay, indica un incremento en su caudal , alcanzando valores de umbral amarillo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. Cabe señalar, que el resto de las estaciones aguas abajo se encuentran al momento en umbrales normales. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPR",
+   "titulo": "Se modifica cobertura de Alerta Amarilla para las comunas de San Clemente, Talca y Pelarco por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica Río Lircay en Puente Rastras , ubicada en camino a Corralones del sector Bajos de Lircay, mantiene un incremento en su caudal , y permanece con valores de umbral amarillo , con amenaza en la ribera norte del río en el sector Gomeros Sur de la comuna de Pelarco. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Amarilla por crecida para las comunas de San Clemente,",
    "region": "Maule",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-07-25T22:43:35.3535-04:00",
+   "ts": "2026-07-26T03:55:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-clemente-y-talca-por-crecida-2026-07-25-22-44-05",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "25c1d3b95f62",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Aviso A349-2 Precipitaciones normales a moderadas con isoterma cero alta en precordillera y cordillera. 25-07 27-07 Aviso A347-3 Viento normal a moderado con probabilidad de ventisca en litoral, cordillera de la costa, valle, precordillera y cordillera. 25-07 27-07 Aviso A348-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos l",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-25T18:59:01.011-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
    "origen": "senapred_web",
    "regiones_extra": []
   },
