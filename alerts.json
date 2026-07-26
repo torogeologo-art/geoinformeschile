@@ -1,24 +1,82 @@
 {
- "generado": "2026-07-26T15:47:47+00:00",
+ "generado": "2026-07-26T20:17:03+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 57,
+ "total_vigentes": 56,
  "alertas": [
   {
-   "id": "2889064c89d5",
+   "id": "b110bc036c8c",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "¡ATENCIÓN! EVITA ribera del río Pichilo por alerta de crecida, en la comuna de Arauco, Región del #Biobío.",
+   "descripcion": "¡ATENCIÓN! EVITA ribera del río Pichilo por alerta de crecida, en la comuna de Arauco, Región del #Biobío.\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.\n#SENAPRED activó mensajería #SAE Preventiva.",
+   "region": "",
+   "comunas": [
+    "Arauco"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-07-26T18:50:02+00:00",
+   "url": "https://t.me/SenapredChile/1441",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "4a006d7928aa",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
-   "titulo": "Se modifica cobertura de Alerta Amarilla para las comunas de San Clemente, Talca y Pelarco por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica Río Lircay en Puente Rastras , ubicada en camino a Corralones del sector Bajos de Lircay, mantiene un incremento en su caudal , y permanece con valores de umbral amarillo , con amenaza en la ribera norte del río en el sector Gomeros Sur de la comuna de Pelarco. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Amarilla por crecida para las comunas de San Clemente,",
+   "titulo": "Se declara Alerta Amarilla para las comunas de Licantén y Curepto por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Mataquito en Licantén” ubicada en pasarela peatonal, ex puente Escalones de la comuna de Licantén, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para las comunas de Licantén y Curepto, vigente a conta",
    "region": "Maule",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-07-26T03:55:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-clemente-y-talca-por-crecida-2026-07-25-22-44-05",
+   "ts": "2026-07-26T15:20:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-licanten-y-curepto-por-crecida-2026-07-26-15-28-24",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "99f330167a94",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para la comuna de Arauco por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “Río Pichilo en Pichilo” ubicada en la comuna de Arauco, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Arauco, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con l",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-26T14:50:21.2121-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-07-26-14-51-05",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "d119edafba72",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Aviso A354-1 Viento normal a moderado en el litoral, cordillera de la costa y valle. 25-07 26-07 Aviso A355 Precipitaciones normales a moderadas con isoterma cero alta en cordillera. 26-07 27-07 Aviso A356 Precipitaciones normales a moderadas en precordillera. 26-07 27-07 Aviso A348-4 Probables tormentas eléctricas, con probabilidad de granizos y fuertes rachas de vientos",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-26T14:36:17.1717-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "cc3a56567c81",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Aviso A357-1 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en litoral, cordillera de la costa y valle. 26-07 26-07 Aviso A348-4 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y c",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-26T13:56:10.1010-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -51,20 +109,6 @@
    "regiones_extra": []
   },
   {
-   "id": "06254daf097b",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Aviso A351 Precipitaciones normales a moderadas en cordillera. 24-07 25-07 Aviso A354-1 Viento normal a moderado en el litoral, cordillera de la costa y valle. 25-07 26-07 Aviso A355 Precipitaciones normales a moderadas con isoterma cero alta en cordillera. 26-07 27-07 Aviso A356 Precipitaciones normales a moderadas en precordillera. 26-07 27-07 Aviso A348-2 Probables torm",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-25T17:50:44.4444-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "cb33d7eb5a53",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -75,20 +119,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-25T17:27:12.1212-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "721331b33e29",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Aviso A348-2 Tormentas eléctricasen zona del litoral, cordillera de la costa, valle, precordillera y cordillera. 26-07 27-07 Aviso A349-2 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la costa, valle, precordillera y cordillera. 25-07 26-07 Aviso A347-3 Viento normal a moderado con probabilidad de ventisca en litoral, cordillera de la costa, valle",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-25T15:13:29.2929-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1048,7 +1078,7 @@
    "comunas": [
     "Vicuña"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-19T20:10:23+00:00",
    "url": "https://t.me/SenapredChile/1352",
    "origen": "telegram",
@@ -1078,7 +1108,7 @@
    "comunas": [
     "Ovalle"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-19T18:04:23+00:00",
    "url": "https://t.me/SenapredChile/1347",
    "origen": "telegram",
@@ -1094,7 +1124,7 @@
    "comunas": [
     "Vallenar"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-19T16:07:47+00:00",
    "url": "https://t.me/SenapredChile/1345",
    "origen": "telegram",

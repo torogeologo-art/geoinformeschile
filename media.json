@@ -1,25 +1,6 @@
 {
- "generado": "2026-07-26T15:47:55+00:00",
- "desde": "2026-07-24T15:47:48Z",
+ "generado": "2026-07-26T20:17:13+00:00",
+ "desde": "2026-07-24T20:17:04Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "maule": {
-   "comuna": "Maule",
-   "region": "Maule",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "HO_JfEBoEks",
-     "url": "https://www.youtube.com/watch?v=HO_JfEBoEks",
-     "titulo": "Senapred emite alerta roja preventiva en Molina y Curicó por desborde",
-     "canal": "Meganoticias",
-     "publicado": "2026-07-25T16:39:01Z",
-     "live": false,
-     "score": 4.07,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
