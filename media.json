@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-26T11:48:17+00:00",
- "desde": "2026-07-24T11:48:05Z",
+ "generado": "2026-07-26T15:47:55+00:00",
+ "desde": "2026-07-24T15:47:48Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "maule": {
@@ -15,116 +15,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-07-25T16:39:01Z",
      "live": false,
-     "score": 4.4,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "_MAq7KFwoxQ",
-     "url": "https://www.youtube.com/watch?v=_MAq7KFwoxQ",
-     "titulo": "😱🚨 Terremoto cerca de Illapel, Provincia de Choapa, Región de Coquimbo, Chile actualizaciones en viv",
-     "canal": "lindunow",
-     "publicado": "2026-07-25T03:26:27Z",
-     "live": false,
-     "score": 5.3,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "los vilos": {
-   "comuna": "Los Vilos",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "Rz3Iu-CDTHs",
-     "url": "https://www.youtube.com/watch?v=Rz3Iu-CDTHs",
-     "titulo": "🇨🇱 Entrevista a Hugo Tapia, Rio Quilimarí 24-07-26",
-     "canal": "HD LL",
-     "publicado": "2026-07-25T03:45:06Z",
-     "live": false,
-     "score": 5.33,
-     "verificado": false,
-     "embeddable": false
-    }
-   ]
-  },
-  "canela": {
-   "comuna": "Canela",
-   "region": "",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "FYuUx4rLeO0",
-     "url": "https://www.youtube.com/watch?v=FYuUx4rLeO0",
-     "titulo": "CANELA SONHO DE NATAL NA CATEDRAL DE PEDRA | SHOW IMPERDÍVEL",
-     "canal": "Alesromano Tips&Travel",
-     "publicado": "2026-07-25T11:00:38Z",
-     "live": false,
-     "score": 3.93,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "9FpiDrGss-w",
-     "url": "https://www.youtube.com/watch?v=9FpiDrGss-w",
-     "titulo": "Mostrando opções de locação em Gramado e Canela agora na alta temporada. dia 24/07/2026",
-     "canal": "Lázaro Antunes",
-     "publicado": "2026-07-25T01:54:22Z",
-     "live": false,
-     "score": 3.18,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "6oG3XmD-Vy0",
-     "url": "https://www.youtube.com/watch?v=6oG3XmD-Vy0",
-     "titulo": "CINCO AÑOS JUNTANDO PIEDRAS EN UN BALDE 🐕🪨😂",
-     "canal": "Cuentacuentos",
-     "publicado": "2026-07-25T00:15:31Z",
-     "live": false,
-     "score": 3.04,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "FVsi6bw8L6U",
-     "url": "https://www.youtube.com/watch?v=FVsi6bw8L6U",
-     "titulo": "Canela ligado a crime organizado #Shorts",
-     "canal": "gmcortes",
-     "publicado": "2026-07-24T20:38:44Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "XcvgW0MQQBI",
-     "url": "https://www.youtube.com/watch?v=XcvgW0MQQBI",
-     "titulo": "Flávio Bolsonaro escolhe Canela como candidato #Shorts",
-     "canal": "gmcortes",
-     "publicado": "2026-07-24T19:40:30Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "WKwq7p2YDo8",
-     "url": "https://www.youtube.com/watch?v=WKwq7p2YDo8",
-     "titulo": "Canela do Ceilão: Por Que Ela É Tão Diferente? | Nutri Alessandra Feltre",
-     "canal": "Souly | Superalimentos Naturais",
-     "publicado": "2026-07-24T12:00:13Z",
-     "live": false,
-     "score": 3.0,
+     "score": 4.07,
      "verificado": false,
      "embeddable": true
     }
