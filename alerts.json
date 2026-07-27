@@ -1,13 +1,83 @@
 {
- "generado": "2026-07-27T18:15:10+00:00",
+ "generado": "2026-07-27T21:14:55+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 45,
+ "total_vigentes": 47,
  "alertas": [
+  {
+   "id": "94967659e737",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Amarilla para la Provincia de Palena por heladas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC ), se encuentra vigente el siguiente alertamiento para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Alarma AAA6 Heladas intensas a extremas en sector de patagonia subandina (-12 a -9°C). 28-07 28-07 En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED declara Alerta Amarilla para la Provincia de Palena por heladas , vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con la declaración",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-27T16:32:08.088-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-palena-por-heladas-2026-07-27-16-33-08",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "23baf3cce496",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Amarilla para la Región de Aysén por heladas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente los siguientes alertamientos para la Región de Aysén: Alertamiento Pronóstico Inicio Fin Alarma AAA6 Heladas intensas a extremas en sector de patagonia subandina norte. 28-07 28-07 Alerta AA110 Heladas moderadas a intensas en sectores de patagonia subandina norte y patagonia subandina sur. 28-07 29-07 Aviso A362-1 Heladas normales a moderadas en sectores de patagonia subandina norte y patagonia subandina sur. 29-07 30-07 Asimismo, conforme a lo indicado en los alertamientos vigentes",
+   "region": "Aysén del General Carlos Ibáñez del Campo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-27T15:56:48.4848-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-de-aysen-por-heladas-2026-07-27-15-57-39",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ce7e1fb45d7a",
+   "nivel": "ROJA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo : Alertamiento Pronóstico Inicio Fin Aviso A347-5 Viento normal a moderado con probabilidad de ventiscas en cordillera (25 – 70 km/h). 28-07 28-07 Aviso A365 Viento normal a moderado en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera (25 – 80 km/h). 31-07 01-08 En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dir",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-27T15:53:36.3636-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "eca2dbd641ab",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Amarilla para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Aviso A347-5 Viento normal a moderado con probabilidad de ventisca en litoral, cordillera de la costa, valle, precordillera y cordillera. 26-07 28-07 Aviso A364 Precipitaciones normales a moderadas en litoral, cordillera de la costa y precordillera. 30-07 31-07 Aviso A365 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-27T15:42:33.3333-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ac7c05ae31ee",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Aviso A362-1 Heladas normales a moderadas en Patagonia Subandina (-6 a -3 °C). 29-07 30-07 Asimismo, se ha cancelado el siguiente alertamiento meteorológico para la región, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A348-4 Probables tormentas eléctricas, con probabilidad de granizos y fuertes rachas de vientos local",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-27T15:23:09.099-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "7a19225ad897",
    "nivel": "ROJA",
@@ -24,20 +94,6 @@
    "sae": true
   },
   {
-   "id": "ac7c05ae31ee",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Aviso A348-4 Probables tormentas eléctricas, con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle y precordillera. 26-07 26-07 Aviso A362 Heladas normales a moderadas en Patagonia Subandina 28-07 31-07 Asimismo, se ha cancelado el siguiente alertamiento meteorológico para la región, debido al debilitamiento de las condici",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-27T08:42:46.4646-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "6cbe2302f55e",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -48,20 +104,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-27T08:22:11.1111-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-07-13-12-33-07",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "af18e0b3c716",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para la Región del Maule por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo reportan un incremento en los valores de caudal, lo que supone un aumento del riesgo para la población cercana a estos cursos de agua: Estación hidrométrica Umbral Rio Perquilauquén en San Manuel Rojo Río Achibueno en la Recova Rojo Río El Melado en el Salto Rojo Río Maule en Armerillo Rojo Río Palos en junta con Colorado Rojo Asimismo, se indica que las condiciones meteorológicas son favorables para que continúe el aumento de caudales en los diferentes afluentes de la re",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-27T06:41:47.4747-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-07-26-23-32-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -220,20 +262,6 @@
    "url": "https://t.me/SenapredChile/1441",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "593c54cf7cb6",
-   "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se ha cancelado el siguiente alertamiento meteorológico para la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que lo originaron.: Alertamiento Pronóstico Inicio Fin Aviso A347-4 Viento normal a moderado en cordillera. 28-07 28-07 Además, se informa que son susceptibles a caídas de rocas y deslizamientos, los taludes de las rutas CH-5 (cuesta Pajonales, sector Incahuasi, sector Talinay), CH-41 (sectores Embalses y paso Agua Negra), D-51, D-485, D-487, D-605 (cuesta los Ma",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-26T16:50:38.3838-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "14ffadf2cc30",
@@ -887,7 +915,7 @@
    "comunas": [
     "Ovalle"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-20T19:06:14+00:00",
    "url": "https://t.me/SenapredChile/1397",
    "origen": "telegram",

@@ -1,93 +1,13 @@
 {
- "generado": "2026-07-27T18:15:20+00:00",
- "desde": "2026-07-25T18:15:11Z",
+ "generado": "2026-07-27T21:15:02+00:00",
+ "desde": "2026-07-25T21:14:56Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "nuble": {
-   "comuna": "Ñuble",
-   "region": "Ñuble",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "nr2WabveNto",
-     "url": "https://www.youtube.com/watch?v=nr2WabveNto",
-     "titulo": "Transmisión en vivo de Ferias CAR Ñuble Ltda.",
-     "canal": "Ferias CAR Ñuble Ltda.",
-     "publicado": "2026-07-27T13:57:53Z",
-     "live": true,
-     "score": 7.64,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "arauco": {
-   "comuna": "Arauco",
-   "region": "",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "69jD0fIhGqw",
-     "url": "https://www.youtube.com/watch?v=69jD0fIhGqw",
-     "titulo": "Alerta roja preventiva por desborde del río Pichilo en comuna de Arauco",
-     "canal": "Meganoticias",
-     "publicado": "2026-07-27T14:02:56Z",
-     "live": false,
-     "score": 9.65,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "JIMQDhEsmcE",
-     "url": "https://www.youtube.com/watch?v=JIMQDhEsmcE",
-     "titulo": "Arauco bajo alerta roja por crecida del río Pichilo | 24 Horas TVN Chile",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-07-27T01:21:45Z",
-     "live": false,
-     "score": 8.59,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "zHVm46fR0gQ",
-     "url": "https://www.youtube.com/watch?v=zHVm46fR0gQ",
-     "titulo": "Alerta Roja en Arauco por desborde del río Pichilo",
-     "canal": "Meganoticias",
-     "publicado": "2026-07-27T00:58:01Z",
-     "live": false,
-     "score": 8.56,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "RXMUkONKqHU",
-     "url": "https://www.youtube.com/watch?v=RXMUkONKqHU",
-     "titulo": "Senapred declara Alerta roja por aumento del caudal del Río Pichilo en Arauco",
-     "canal": "Notifyalerta Emergencias y Eventos",
-     "publicado": "2026-07-26T21:24:06Z",
-     "live": false,
-     "score": 8.26,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "coquimbo": {
    "comuna": "Coquimbo",
    "region": "Coquimbo",
    "alerta": "ROJA",
    "videos": [
-    {
-     "id": "3F2H5FMfKEQ",
-     "url": "https://www.youtube.com/watch?v=3F2H5FMfKEQ",
-     "titulo": "RRC Noticias | EN VIVO",
-     "canal": "Radio Riquelme",
-     "publicado": "2026-07-27T18:04:50Z",
-     "live": true,
-     "score": 7.99,
-     "verificado": false,
-     "embeddable": true
-    },
     {
      "id": "s-l3becCt6I",
      "url": "https://www.youtube.com/watch?v=s-l3becCt6I",
@@ -95,98 +15,36 @@
      "canal": "La Serena Drone",
      "publicado": "2026-07-27T17:41:22Z",
      "live": true,
-     "score": -2.05,
+     "score": -2.3,
      "verificado": false,
      "embeddable": true
     }
    ]
   },
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
+  "maule": {
+   "comuna": "Maule",
+   "region": "Maule",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "joQiyWaRa24",
-     "url": "https://www.youtube.com/watch?v=joQiyWaRa24",
-     "titulo": "ENLACE ALBINARANJA EN VIVO  -  🎤  RADIO DAMIANA 88.3 🔉 #futbolchileno",
-     "canal": " Radio Damiana 88.3",
-     "publicado": "2026-07-26T00:04:28Z",
-     "live": true,
-     "score": 2.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "canela": {
-   "comuna": "Canela",
-   "region": "",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "GeFoBRx5FXw",
-     "url": "https://www.youtube.com/watch?v=GeFoBRx5FXw",
-     "titulo": "Câmera Ao Vivo 02 - Gramado Canela Brasil AGORA - NOW Live - Brazil Brasil IRL",
-     "canal": "Tarcila STR",
-     "publicado": "2026-07-27T02:49:20Z",
-     "live": true,
-     "score": 6.71,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "02RIVIbBNiY",
-     "url": "https://www.youtube.com/watch?v=02RIVIbBNiY",
-     "titulo": "Câmera Ao Vivo 01 - Gramado Canela Brasil AGORA - NOW Live - Brazil IRL",
-     "canal": "Tarcila STR",
-     "publicado": "2026-07-27T02:47:43Z",
-     "live": true,
-     "score": 6.71,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "NjgQIK5xnTA",
-     "url": "https://www.youtube.com/watch?v=NjgQIK5xnTA",
-     "titulo": "Veja como comer bem pagando até R$ 50 na Festa Colonial de Canela",
-     "canal": "Jornal NH",
-     "publicado": "2026-07-27T17:25:32Z",
+     "id": "TLA3P8xuUKg",
+     "url": "https://www.youtube.com/watch?v=TLA3P8xuUKg",
+     "titulo": "Alerta Roja para las regiones de Ñuble y del Maule por peligro de desborde de ríos",
+     "canal": "Cooperativa Podcast",
+     "publicado": "2026-07-27T19:06:24Z",
      "live": false,
-     "score": 5.93,
+     "score": 5.82,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "N1JjZgqz5c8",
-     "url": "https://www.youtube.com/watch?v=N1JjZgqz5c8",
-     "titulo": "AVENA CREMOSA DE MANZANA Y CANELA 🍏✨ | DESINFLAMA TU ABDOMEN Y MEJORA TU DIGESTIÓN 🥣shorts",
-     "canal": "Cocina Rica y Fácil ",
-     "publicado": "2026-07-27T16:55:39Z",
+     "id": "kyn6W-Yusew",
+     "url": "https://www.youtube.com/watch?v=kyn6W-Yusew",
+     "titulo": "Alerta Roja en Maule y 3 comunas del Biobío por desborde de ríos: Alerta por crecida de río Andalien",
+     "canal": "CHV Noticias",
+     "publicado": "2026-07-27T18:30:20Z",
      "live": false,
-     "score": 5.89,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "mBpUC4spoLE",
-     "url": "https://www.youtube.com/watch?v=mBpUC4spoLE",
-     "titulo": "Canela, Cúrcuma y Jengibre para la Glucosa: Lo que la Ciencia Realmente Dice",
-     "canal": "Clave Saludable",
-     "publicado": "2026-07-27T16:10:39Z",
-     "live": false,
-     "score": 5.83,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "zJnMx6rPLXI",
-     "url": "https://www.youtube.com/watch?v=zJnMx6rPLXI",
-     "titulo": "MUDA DE CANELA: BELEZA, AROMA E NATUREZA NO SEU JARDIM!",
-     "canal": "Cooper Mudas",
-     "publicado": "2026-07-27T13:46:51Z",
-     "live": false,
-     "score": 5.63,
+     "score": 5.77,
      "verificado": false,
      "embeddable": true
     }
