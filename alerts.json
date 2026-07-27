@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-27T22:00:18+00:00",
+ "generado": "2026-07-27T22:17:40+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 49,
  "alertas": [
+  {
+   "id": "6235e5ad7104",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Aviso A360 Viento normal a moderado en el litoral, cordillera de la costa y valle. 27-07 27-07 Aviso A366 Viento normal a moderado en litoral, cordillera de la costa y valle 30-07 30-07 Cabe señalar que han sido cancelados los siguientes alertamientos, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A354-1 Vient",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-27T18:04:35.3535-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "22bd1a90e48a",
    "nivel": "ROJA",
@@ -307,20 +321,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "d119edafba72",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Aviso A354-1 Viento normal a moderado en el litoral, cordillera de la costa y valle. 25-07 26-07 Aviso A355 Precipitaciones normales a moderadas con isoterma cero alta en cordillera. 26-07 27-07 Aviso A356 Precipitaciones normales a moderadas en precordillera. 26-07 27-07 Aviso A348-4 Probables tormentas eléctricas, con probabilidad de granizos y fuertes rachas de vientos",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-26T14:36:17.1717-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "cc3a56567c81",
