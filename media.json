@@ -1,54 +1,6 @@
 {
- "generado": "2026-07-27T21:15:02+00:00",
- "desde": "2026-07-25T21:14:56Z",
+ "generado": "2026-07-27T21:31:20+00:00",
+ "desde": "2026-07-25T21:31:15Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "s-l3becCt6I",
-     "url": "https://www.youtube.com/watch?v=s-l3becCt6I",
-     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
-     "canal": "La Serena Drone",
-     "publicado": "2026-07-27T17:41:22Z",
-     "live": true,
-     "score": -2.3,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "maule": {
-   "comuna": "Maule",
-   "region": "Maule",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "TLA3P8xuUKg",
-     "url": "https://www.youtube.com/watch?v=TLA3P8xuUKg",
-     "titulo": "Alerta Roja para las regiones de Ñuble y del Maule por peligro de desborde de ríos",
-     "canal": "Cooperativa Podcast",
-     "publicado": "2026-07-27T19:06:24Z",
-     "live": false,
-     "score": 5.82,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "kyn6W-Yusew",
-     "url": "https://www.youtube.com/watch?v=kyn6W-Yusew",
-     "titulo": "Alerta Roja en Maule y 3 comunas del Biobío por desborde de ríos: Alerta por crecida de río Andalien",
-     "canal": "CHV Noticias",
-     "publicado": "2026-07-27T18:30:20Z",
-     "live": false,
-     "score": 5.77,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
