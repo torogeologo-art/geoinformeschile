@@ -424,6 +424,18 @@ def main():
     duplicados = len(alertas) - len(orden)
     alertas = [canon[k] for k in orden]
 
+    # Cancelación cruzada: "Se cancela X" publicado DÍAS después debe apagar
+    # la declaración equivalente (mismo nivel y lugar), venga de la fuente
+    # que venga. Antes solo casaban gemelos del mismo día.
+    apagadas = 0
+    llave = lambda a: (a["nivel"], slug(a["region"]),
+                       ",".join(sorted(slug(c) for c in a["comunas"])))
+    canceladas = {llave(a): a["ts"] for a in alertas if a["estado"] == "CANCELADA"}
+    for a in alertas:
+        if a["estado"] == "VIGENTE" and llave(a) in canceladas                 and str(a["ts"]) <= str(canceladas[llave(a)]):
+            a["estado"] = "CANCELADA"
+            apagadas += 1
+
     expiradas = 0
     for a in alertas:
         if a["origen"] in ("telegram", "senapred_web") and a["estado"] == "VIGENTE":
@@ -456,7 +468,7 @@ def main():
                 f.write(json.dumps({**a, "registrado": ahora()}, ensure_ascii=False) + "\n")
                 nuevos += 1
 
-    print(f"OK {ahora()} | vigentes={len(vigentes)} expiradas={expiradas} "
+    print(f"OK {ahora()} | vigentes={len(vigentes)} expiradas={expiradas} apagadas_por_cancelacion={apagadas} "
           f"duplicados_fusionados={duplicados} total={len(alertas)} "
           f"nuevos_hist={nuevos} | web={est_web} arcgis={est_arcgis} telegram={est_tg}")
     return 0

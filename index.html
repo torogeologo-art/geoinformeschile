@@ -118,6 +118,11 @@
   .b-nover{border:1px solid var(--linea);border-radius:3px;padding:0 4px}
   .marco{aspect-ratio:16/9;width:100%;border:0;border-radius:6px;margin-bottom:8px;background:#000}
   .vacio{font-size:13px;color:var(--tinta-suave);padding:8px 0}
+  .noti{border-left:2px solid var(--linea);padding:4px 0 4px 10px;margin-bottom:8px}
+  .noti .nm{font-family:var(--mono);font-size:10.5px;color:var(--tinta-suave)}
+  .noti .nsec{color:var(--tinta)}
+  .noti a{font-size:13px;line-height:1.35;color:var(--tinta);text-decoration:none}
+  .noti a:hover{text-decoration:underline}
   .reportar{
     display:block;width:100%;text-align:center;margin-top:10px;padding:9px;
     border:1px dashed var(--tinta-suave);border-radius:6px;color:var(--tinta-suave);
@@ -200,6 +205,8 @@
       <div id="p-alertas"></div>
       <h3>Videos públicos de la zona</h3>
       <div id="p-videos"></div>
+      <h3>Noticias e historial de la zona</h3>
+      <div id="p-noticias"></div>
       <a class="reportar" id="p-reportar" target="_blank" rel="noopener">Reportar un video de esta zona</a>
     </div>
   </aside>
@@ -220,6 +227,7 @@
 const CFG = {
   alerts:  "alerts.json",
   media:   "media.json",
+  noticias:"noticias.json",
   comunas: "comunas.geojson",          // división comunal simplificada (ver README)
   refreshMs: 5 * 60 * 1000,
   // Reporte ciudadano de video: correo pre-armado (no exige cuentas de nada).
@@ -235,7 +243,7 @@ const COLOR = { ROJA:"#e04a31", AMARILLA:"#e3ac1c", ATP:"#3f9d63" };
 const PESO  = { ROJA:3, AMARILLA:2, ATP:1 };
 
 /* =============================== ESTADO ==================================== */
-let alertas = [], media = {zonas:{}}, capaComunas = null;
+let alertas = [], media = {zonas:{}}, noticias = {zonas:{}}, capaComunas = null;
 let idxComuna = new Map(), idxRegion = new Map();
 const nivelesOn = new Set(["ROJA","AMARILLA","ATP"]);
 let tipoOn = "";
@@ -315,6 +323,15 @@ function abrirPanel(f){
     </button>`).join("")
     : `<div class="vacio">Aún no aparecen videos públicos de esta zona. Si viste uno, repórtalo abajo.</div>`;
 
+  const nz = noticias.zonas[slug(nombre)];
+  $("p-noticias").innerHTML = (nz && nz.noticias.length) ? nz.noticias.map(n => `
+    <div class="noti">
+      <span class="nm">${esc((n.fecha||"").slice(0,10))} · ${esc(n.medio||"prensa")}
+        ${n.sector ? ` · <span class="nsec">📍 ${esc(n.sector.nombre)}</span>` : ""}</span><br>
+      <a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.titulo)}</a>
+    </div>`).join("")
+    : `<div class="vacio">Aún no hay noticias recopiladas de esta zona. La memoria se construye evento a evento.</div>`;
+
   $("panel").classList.add("abierto");
 }
 $("p-cerrar").onclick = () => $("panel").classList.remove("abierto");
@@ -388,6 +405,28 @@ async function cargarSectores(){
       ).addTo(capaSectores);
     }
   }catch{ /* sin sectores aún: el robot los va generando */ }
+  try{
+    const nd = noticias.zonas || (await j(CFG.noticias)).zonas || {};
+    const porSector = new Map();
+    for (const z of Object.values(nd))
+      for (const n of z.noticias || [])
+        if (n.sector){
+          const k = slug(n.sector.nombre) + n.sector.lat;
+          if (!porSector.has(k)) porSector.set(k, {s: n.sector, lista: []});
+          porSector.get(k).lista.push(n);
+        }
+    for (const {s: sct, lista} of porSector.values()){
+      L.circleMarker([sct.lat, sct.lon], {
+        radius: 5.5, weight: 2, color: "var(--tinta-suave)".startsWith("var") ? "#8fa0af" : "#8fa0af",
+        fillColor: "#131c26", fillOpacity: .9,
+      }).bindPopup(
+        `<b>📰 ${esc(sct.nombre)}</b><br>` + lista.slice(0, 3).map(n =>
+          `<small>${esc((n.fecha||"").slice(0,10))} · ${esc(n.medio||"")}</small><br>` +
+          `<a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.titulo)}</a>`
+        ).join("<br>")
+      ).addTo(capaSectores);
+    }
+  }catch{ /* sin noticias aún */ }
 }
 $("f-sectores").onclick = () => {
   const on = !map.hasLayer(capaSectores);
@@ -410,6 +449,7 @@ async function cargarDatos(){
     $("aviso").style.display = "block";
   }
   try{ media = await j(CFG.media); }catch{ media = {zonas:{}}; }
+  try{ noticias = await j(CFG.noticias); }catch{ noticias = {zonas:{}}; }
   await cargarSectores();
   indexar(); pintar(); actualizarConteo();
 }

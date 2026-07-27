@@ -57,6 +57,9 @@ jobs:
       - name: Sectores geocodificados
         run: python geocodificar_sectores.py || echo "sectores falló; el resto sigue"
 
+      - name: Noticias por zona
+        run: python noticias_zonas.py || echo "noticias falló; el resto sigue"
+
       - name: Videos por zona (YouTube)
         if: env.YT_API_KEY != ''
         run: python media_youtube.py || echo "media falló; los datos de alertas ya están"
