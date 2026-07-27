@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-27T21:31:14+00:00",
+ "generado": "2026-07-27T22:00:26+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -753,6 +753,35 @@
    "comuna": "Ovalle",
    "noticias": [
     {
+     "titulo": "Municipalidad de Ovalle se defiende tras eutanasia a viral perrita que combatió por su vida en el Río Limarí - La Cuarta",
+     "medio": "La Cuarta",
+     "fecha": "2026-07-24T15:12:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV3dZWXNXOEwtN3ZabndiRUNlQWk2N3E3UnRWVnJ1eVEzMjFQbUhlM0V1Y2RNUlJjZ1BKbXl0bElvM0l1Q3pSSy1zeFZYTnQxbjFzaHl4elV6dmJ5SV8xQ05uWVA2N2ZxTEI0SWlmampvOEM1cmxoREYtWEhzRTQ0NEFvTWx1YklzOG0zUkg3QlpBOWtDam1GOWFRMTBNVXp5T0VEVmE5cXoxbTdkelZ5a2k2RUVOVmdPRjVKRkQtTXd5UFRVMHM2Nk1pc1VKdFpXZk03SnU4Zy14bW05Z2JpOVdR0gGDAkFVX3lxTE5mZFFUQVA0WHdjclJOMmtUOTFhTHZrQXpRQXp3UHB0WE4zOTZXbGN6Wk51Ujg3anVKQm5zYlh6UWNfcGZySF9UVmZCX0JCR2daSW9WMm56VzlqOE40ZTlGN2FaSFBlT0hLTHB3aUhxT2U3dWdpN2hHM09iTkwwX1EzWmpQRDhaVGJSV204bFhqT0lURmFZcklvQjlIeUVGN2EzNGstWVJmUmFYLWxpLVM0U1JCNUpjSHVBM1BjNnRLZE4xV0xKOE5Oak9SUXZPQWN4SFpUalpCN1l1LXRFUGNFQlRsSDdsRFpOYzBRMEVLNURtai0tTEd0UjJFS0phYUdJMGM?oc=5",
+     "sector": {
+      "nombre": "río Limarí",
+      "lat": -30.63894,
+      "lon": -71.36084
+     }
+    },
+    {
+     "titulo": "Comunidad exige explicaciones: perrita sobrevivió al temporal en Ovalle, pero fue sometida a eutanasia por veterinarios municipales - Diario El Centro",
+     "medio": "Diario El Centro",
+     "fecha": "2026-07-23T19:00:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQR3R6UnhZbVI0X1hxZXE4ZFhPNUxRWXQtd05heXprTTQxZjhuSnYtOUc1aGdhcV9ackNLY1c0ZlR0NzhTWUtaSHRKSlc4bHh5eDA2SkxCcHRtQTh1SkN4dlJieEs1Z0YxUzBfcGU5STRnbXBDNUtqMWhhcy1ERVMySGozYW9sZ3pHUExQMjVfSlRsaW8wTEhXU1B3Um1fSDZZRUZNYUoxVXI5VXAybGZ6U3N3TklKYjBjOGJOdngyUV9NYVRWRlI3dnpmX3pmRWN0dVNuOHJScnJiS2Z3QzlCWXNGa1NSY2hZSW51c0p2S2Y3bGRrTGNXMXFnMzZvcjBJ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Perrita arrastrada por el río Limarí fue eutanasiada - diarioeldia.cl",
+     "medio": "diarioeldia.cl",
+     "fecha": "2026-07-22T22:12:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRUlzSS14Z01kODZzSTYtWGl3Q1ZXQlc0ZWE1OXlzSTVud3M4dno5TThSbTRkc3NvY2d2eEQ4NnhRS0VRUGRaUG1hN3BkNTM0MlFscmdxdE1TRTBmaHJpVElxMUppbVdFNVczTk9XUVpETGtTMmloMENCOHJYZURrUFRocFQtQ1h4RWZoR1NuOE9WLVFYaEVhME9MV0Y3THFFNkNkcjFGUzV5QQ?oc=5",
+     "sector": {
+      "nombre": "río Limarí",
+      "lat": -30.63894,
+      "lon": -71.36084
+     }
+    },
+    {
      "titulo": "Ovalle y Río Hurtado concentran los problemas de abastecimiento de agua - diarioeldia.cl",
      "medio": "diarioeldia.cl",
      "fecha": "2026-07-22T21:02:05+00:00",
@@ -767,6 +796,13 @@
      "sector": null
     },
     {
+     "titulo": "Emotivo rescate en Ovalle: carabineros salvaron a perro que quedó aislado por las lluvias - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-07-22T12:37:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNkNEX1BKRWFHODVuaWtTSm0tUWtFZ25lbmNvMW1QakdVZE9IVk9zWHBUMnJveDdIVlI2YVg2M2Fqb0RacWo2anhUSS1qWS1JQ0tzY1k0X3ExZ3doZUlVNlczM2xKRUhSN1EtaTd1cUZ3TWh5SjBJcl9uSzFYaFZOOU1JM3ZOUmFwaXpOQjNtWVAzakFwamZPdzk4VTI4MjQ4V28tc19PcmNxejlYMFFaVHlyQmpxbDN3U3BkOXJnOW5La3pkUmFzdkpGRld6ZURUUHM5QnZncTRLc0UzZEQ2WEVB?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Aguas del Valle suspende entrega de agua para uso sanitario en Ovalle tras desborde del embalse Recoleta - Portal Innova",
      "medio": "Portal Innova",
      "fecha": "2026-07-22T11:51:45+00:00",
@@ -774,24 +810,10 @@
      "sector": null
     },
     {
-     "titulo": "Aguas del Valle suspendió entrega de agua para uso sanitario en Ovalle por desborde de embalse - MSN",
-     "medio": "MSN",
-     "fecha": "2026-07-21T22:24:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdGJNbGJwU2M5eElUb1pLNFhrQnlqa05kWWdoX2p0LTloUVZBeXBUMkY3WENlNGY2RjdUUUFzRjBHSjBQemFveXdNQ05EbHB1VGh3am4wOTBmRzNONXprT29xOVk4UW52d3dYdGZVWEU4VFFnbkVLa3hRelVCNDFqZzJySnlQZ0NfcE1nNDF3TllhSU4yb1FCOEtCdTQxdGpWbEJOVTQ5Vnc2VGVKVk40WFZoeXR5T09OQnZLZnlGN25jNWpDYmVpYVE3UHVjSWNzOXItRFdKb09KY09LVWFYRElGVFlqX0k?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Corte de agua en Ovalle: desborde del embalse Recoleta obliga a suspensión de emergencia del suministro - El Desconcierto",
-     "medio": "El Desconcierto",
-     "fecha": "2026-07-21T21:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSEJ5WlA0M3ZGUDJyV3dmQ1lWTFpKdVFaZUtMSUpYdUtSdXVhOWVsNy1kU2FfeTRseWZuN1BnbnB0U1ZocmVLNUN0cTRVS1p1LURIZnFBaFF0SmR0UEt0QnV4Z2g4ZVdlSXlkQW9OLUdRQUdvclRFOVN3VVJwcG9GbTROclRHdS11cEcxVmVoR1RCTW41QlZtYUdOQTFVMmVGQ1Z1ZGs2ZXV2MENkR3lHV2I5VDdKeFF0Smhub0ZlSVVwOFYwQkZRdlpkWUF3b2xQUWtR?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Aguas del Valle ejecuta corte de emergencia en Ovalle por desborde del embalse Recoleta y crecida del río Limarí - Radio Riquelme",
+     "titulo": "Carabineros rescatan y salvan a perro herido tras cruzar nadando el peligroso río Limarí - Radio Riquelme",
      "medio": "Radio Riquelme",
-     "fecha": "2026-07-21T20:36:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeW1vZVdtLWQ5QndWbkFMbU9qR1EwNGgxMVRTOEtDeGJYV3ZNcGJLR1FCQ21BcEU5OVZPSFpYSXRJVHZEZW1lcUlzY1lTc3RneHhKWUdaN1hQNThjZXRnNWhYRS1HWjY0NHVUUHJSRWF0M29IWmdMNms5SDhwaC1pd3pRbDctRGtGRE9FNGExaUpQZ09Nc2s5eGw2SExDVWR5T3hPdlJicGFyMnVBUk9UZXEyQmZ3LTB1a1drM25LVGxGWV9ZNzRTMEhQcjFUYjhETzVTaVg2S2Jwc3NMeFVVQnRVOA?oc=5",
+     "fecha": "2026-07-21T23:11:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeXlRa25PY1lZUkpkV2J5NEhZXy02aXZBQXVqRkFEMjJDVjFxVVhraE9KUHlycjhsWF8yalhMYW5wVU40ZXVlT1FQVkZlOTVuMUh2ak1LS3A5OUREcERPZnZmaHlubDVTa1lYUjVSR2N2M3VPY2tsVU1CQi1YMmdTNGhsMFFpeldUbWs5blh5aC1lcThoaWNOMHZzNndTWFFIajEzVjhYMVJHbHgyZkhtQ2xCVEw5SzBmZmdmdzZXV0htYkk?oc=5",
      "sector": {
       "nombre": "río Limarí",
       "lat": -30.63894,
@@ -799,31 +821,21 @@
      }
     },
     {
-     "titulo": "Anuncian corte de agua de emergencia en Ovalle luego de desborde de embalse Recoleta - La Nación",
-     "medio": "La Nación",
-     "fecha": "2026-07-21T20:23:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3QyU2htMVhFZFhVbk1Pd2lQaEVmMXZRUHlzY01VdEQxTnFNdEJBTnZub2VXWnFBbFpaWkZLSG04QWMtWDlFY0lDcjBNZk8tYnVLZk1iQXhyNEdQY3VITGZDQklsTUhzS3N4SERZMWFNZG5seDRpMVdwZ2tEb1VoNVVZa3JpejZzN1BoWndZVlJuYnBhQUt1ZFEzZzNTR2ZJN2F4bThGc084M2NOSlE?oc=5",
-     "sector": null
+     "titulo": "Nunca lo dejaron solo: carabineros rescatan a perro herido en medio de la emergencia en el río Limarí - G5noticias",
+     "medio": "G5noticias",
+     "fecha": "2026-07-21T22:29:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUm84NHAwUjc1a04xeWFvdkVJb2d2ZDI4Q1Ezb1ZxeWdONkM5dERMcWRueURBQVE0Yk1LdDlVWngyWVJTUVRxNzREWGZEVTR2QUlyU2hSbGlxU1pvQ2sxNlU5WlVWc1pkWFZtYVhMcnVENVJEQldFUUZZekhQeG1ETk02cll1aXZZY0UwNHdmUy13UjgyUmh2QktPUTk2NmNudVlCMEpKa1pjcF9UVS1RbENYc0VJd1NGU3dCVnZHOGd4OGRPRDZOTllYNXhZdkU?oc=5",
+     "sector": {
+      "nombre": "río Limarí",
+      "lat": -30.63894,
+      "lon": -71.36084
+     }
     },
     {
-     "titulo": "Aguas del Valle decreta corte de emergencia en Ovalle por desborde de embalse Recoleta - Epicentro Chile",
-     "medio": "Epicentro Chile",
-     "fecha": "2026-07-21T19:35:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHI0MnBUQXdmb0xjTFlCaGIxcTRiVU1TbGdTREQ5Uzd3TUlIYjFLMzJ6TnRhRkFQZU5WTlVGR0JibTZUbnI1SzZBY0Iza1hmSWRuOV92RnhQeHNsMUZyTGdGeFUwd1RadXhqVEd2YzVjT0lSQklGZDJIQWpMblo3YVZiWHRDNUVzRE9TMGtWRkYzcm13S1ZmS0M4UFFPUlo2SVd5UzlDT0V3aHhPQ2piMHJYNmg0VHY0Wk42b0wtSV9XYkhMWl9JRA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Aguas del Valle suspendió entrega de agua para uso sanitario en Ovalle por desborde de embalse - Cooperativa",
-     "medio": "Cooperativa",
-     "fecha": "2026-07-21T19:19:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYnR0QnlWb3pCWDVQZWd1RGRzU0thR2JVbHNibWVqYk1hU194VVc1RmZnc0U4bTJrcFNXd3Noa0RUNjJ6a1BGSDZqWE9PRFZQVDRhbUJjeXVFM09USTlHYXNMQ2h5Y0RybERPblhkSWpmWXFRNlE3eHYxdHFwZC03WUoxbTRMOTBPQXFHWGJRRzYxUjgtWXdVZWtYMVZVLWZhdmM3b0I5eDd5bzg4R0stRDloQmNVVUxfblNJZlFoNWo5cU9XZWpZbi1TcWZOczMtWUxYQ0RYOXFxOUZvSjhQYm5HcVJRVnV0V0dqMGxn0gGMAUFVX3lxTE82Ni1TMzRtYVVHbnkyTm1hOV9JVGZLM2Q5cXo1WFNpQTNBMVg5Ty1lWEExN2x6cjZ4dncycnc0VGl1YTh2S0lPSUw1VnU1X0RVZzFxazJHTFhqVWlsZW5kRjVEcFRhUjhVYWM4OWsyNlctZVdCamlnbE5Yc1B6cHo5ZzBFcjhHaXV3X2xj?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Aguas del valle anuncia corte de suministro en Ovalle tras desborde del embalse Recoleta - Radio Agricultura",
-     "medio": "Radio Agricultura",
-     "fecha": "2026-07-21T19:10:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOY1JSbWZEV2RNUHlOTm1JUEVWeS01RnN3ODhiZG15aVdWVUxpVHVtX1h1eEN4M05sMm1YdzFZU0hWVmNlckhod2dYU3B3TnN3dnVXR1pZVFV1dWprd3VwM3J3eWszYk5Fd0tTRkZnTlY3eFd1a2Z1bV9jVTExOEVoRGZLcEJoc2hFbXA2SnJSYkM3Y3J5TlJXRktGaE9RTno5STVQcTdwY2NlM2tHNEJ0QXpIUEh1dlVvNjBpbDNDRDNDRC0yUTJpSk5GLW05cEN4bjYxMENHczZHV0xJSzVBWVlR?oc=5",
+     "titulo": "Aguas del Valle suspendió entrega de agua para uso sanitario en Ovalle por desborde de embalse - MSN",
+     "medio": "MSN",
+     "fecha": "2026-07-21T22:24:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdGJNbGJwU2M5eElUb1pLNFhrQnlqa05kWWdoX2p0LTloUVZBeXBUMkY3WENlNGY2RjdUUUFzRjBHSjBQemFveXdNQ05EbHB1VGh3am4wOTBmRzNONXprT29xOVk4UW52d3dYdGZVWEU4VFFnbkVLa3hRelVCNDFqZzJySnlQZ0NfcE1nNDF3TllhSU4yb1FCOEtCdTQxdGpWbEJOVTQ5Vnc2VGVKVk40WFZoeXR5T09OQnZLZnlGN25jNWpDYmVpYVE3UHVjSWNzOXItRFdKb09KY09LVWFYRElGVFlqX0k?oc=5",
      "sector": null
     }
    ]
@@ -989,6 +1001,13 @@
      "sector": null
     },
     {
+     "titulo": "Alertas SAE: Ríos desbordados y activación de quebradas provocan evacuaciones en Coquimbo y Atacama - Radar BioBio",
+     "medio": "Radar BioBio",
+     "fecha": "2026-07-21T15:24:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVXBOSTNDTkRiR2pnaTc2anZNVENJUFRfQ3hEcTBGcTZVTkF1RFJMRVBCNldVMHFBZjZvY1NiZVNPbTg5U0dXb1hXS3lmcDdQVnU4VFRwT1BBejBaV1AwU0FfVG5GbEVYcDczTzFrRXQ1YUZsNmg4UkIxYWtrN3lSSnRERFpLaU5WV0NhZnQyaVhrOC03N0xOU1ZMVEEwbGNhNTFhZ1B5QlowUWpra1AxQ0dnVGpuOUh2cDhHTW50cjZvaVZJb09BS1ZKUUpiZVlNN3owcUdqZ0t3Zw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Alerta SAE en Canela: Senapred pide evitar ribera de estero Canela Alta cruce Los Canelos por crecida - VLN Radio",
      "medio": "VLN Radio",
      "fecha": "2026-07-21T13:20:24+00:00",
@@ -1018,13 +1037,6 @@
      "medio": "G5noticias",
      "fecha": "2026-07-18T10:44:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeFhuVlZwMDRUUVlqQ2xGTzVtUFUtOHBHY3hKcHNMSkxrR1RkaTVFbmNnZkY0MkwtcnRhUmFoUmR0TDBZeXl0WTZhaXFVLTkxWGhxQm14QTg0M0hpSENOUHdNcnJhZkhleXdzUUVpN3hCUzRvRkI3eDRkOWdvcEkwbmNxbUpKZHJIT2lnZGU4VjdwOXVqS01BTXMzWlBISE9uVEhlVUJlUXltQ1VNZkJuRGUyVkp4Y0xucmxxX1BlWHA4OHFWS3BQRg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Aguas del Valle activa fuentes de respaldo ante turbiedad en ríos de la Región de Coquimbo - La Tercera",
-     "medio": "La Tercera",
-     "fecha": "2026-07-18T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRGg4WWxTMXVremRjMjJ2Q0RfNER4SVFGd2ZydHBMblRVeE5RcFdBci1XXzRsM2ZIN1VFRjNPNnQwNGF1UXZ0bzBvNVpiUm9RTGd5V1MzZlRtNE91RkpwYmt0SHZWZHdVV1plREpaUjdPTEs4dExvcXhHeWRoWjY3dTE4a2ZoNFNNVXlrakpjRElzcDloeGwyVklDQTlBTExqS1A1VEpfdFJ6MTF5Y3JxS0g0cUc5RGpLMW83SzcxOXZsUDVOVGgyYVVUQ1hCMjRV0gHyAUFVX3lxTE1GeTBaaDhhSHBwNzM3YURKSzhqUlJ0YkNBdmxSUHlpRmI5Yjdta1ZoWnRmaWFBdG5uamppSzVSbm14R2RWZ3ctSDF5YU9DRU1rOG5DWXNlSjE0QkFDN2FVTEwwZm4zNUtQUEM3aU4wcUFSNG56YkZ6S1phT1VyV1NEZXQ5UERubjRxLTZiM001V1VyNU5tWndONzRiR0szaGpHTjVSUHFnMVFNdTZGLVd5SHhMRF9GNENCeUEtdXU5bDZfWFdvRWxHenNSVXdEUnJlN1pLbjczbHpvd21TYUxoN2Z3Z3VuNDRpbU8waUU2YVR3?oc=5",
      "sector": null
     }
    ]

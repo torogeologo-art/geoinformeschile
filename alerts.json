@@ -1,13 +1,70 @@
 {
- "generado": "2026-07-27T21:30:50+00:00",
+ "generado": "2026-07-27T22:00:18+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 47,
+ "total_vigentes": 49,
  "alertas": [
+  {
+   "id": "22bd1a90e48a",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Monitoreo Alerta Roja para la Región del Maule por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , las estaciones hidrométricas de monitoreo reportan un incremento en los valores de caudal, lo que supone un aumento del riesgo para la población cercana a estos cursos de agua: Estación hidrométrica Umbral Río Loncomilla en las Brisas Rojo Rio Perquilauquén en San Manuel Rojo Río Achibueno en la Recova Rojo Río El Melado en el Salto Rojo Río Maule en Armerillo Rojo Río Palos en junta con Colorado Rojo En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dire",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-27T17:56:24.2424-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-molina-y-curico-por-crecida-2026-07-25-05-11-57",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "795c182f3497",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para las comunas de Los Lagos y Valdivia por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “ Río Callecalle en Pupunahue ”, indica un incremento en su caudal, alcanzando valores de umbral amarillo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para las comunas de Los Lagos y Valdivia, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con la decl",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-27T17:50:48.4848-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-lagos-y-valdivia-por-crecida-2026-07-27-17-51-44",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "2b978f50f812",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "Se modifica cobertura Alerta Roja para las comunas de Pinto, Yungay, Pemuco, Bulnes, Quillón, Ránquil, Portezuelo, Coelemu, Trehuaco, Coihueco, Chillán y Chillán Viejo por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Itata en Puente Coelemu” indica un incremento en su caudal, alcanzando valores de umbral rojo , lo que supone un aumento del riesgo para la población cercana a estos cursos de agua. Cabe señalar que, las estaciones “ Río Niblinto antes canal alimentador Embalse Coihueco ” y “ Río Chillán en Esperanza 2 ”, mantiene su caudal en nivel umbral rojo. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-27T17:47:04.044-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-pinto-coihueco-chillan-y-chillan-viejo-por-crecida-2026-07-26-19-07-13",
+   "origen": "senapred_web",
+   "regiones_extra": [],
+   "sae": true
+  },
+  {
+   "id": "f178e430446c",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Temprana Preventiva para la comuna de Taltal por precipitaciones",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC ), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Aviso A367 Precipitaciones normales a moderadas en Paposo al sur costa de la Región de Antofagasta (2 – 7 mm). 31-07 31-07 En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva para la comuna de Taltal por precipitaciones, vigente a contar de hoy y hast",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-27T17:00:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-taltal-por-precipitaciones-2026-07-27-17-41-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "94967659e737",
    "nivel": "AMARILLA",
@@ -108,20 +165,6 @@
    "regiones_extra": []
   },
   {
-   "id": "7ed0df47e258",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se modifica cobertura de Alerta Roja para la Región del Maule por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo reportan un incremento en los valores de caudal, lo que supone un aumento del riesgo para la población cercana a estos cursos de agua: Estación hidrométrica Umbral Rio Perquilauquén en San Manuel Rojo Río Achibueno en la Recova Rojo Río El Melado en el Salto Rojo Río Maule en Armerillo Rojo Río Palos en junta con Colorado Rojo En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED modific",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-27T05:20:46.4646-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-molina-y-curico-por-crecida-2026-07-25-05-11-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "2610aa32304b",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
@@ -150,20 +193,6 @@
    "regiones_extra": []
   },
   {
-   "id": "97ac4301c51e",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "¡ATENCIÓN! Por alerta de crecida del Río Perquilauquén #SENAPRED hace un llamado a evitar acercarse a la ribera de dicho río en las comunas de #SanFabián y #Ñiq",
-   "descripcion": "¡ATENCIÓN! Por alerta de crecida del Río Perquilauquén #SENAPRED hace un llamado a evitar acercarse a la ribera de dicho río en las comunas de #SanFabián y #Ñiquén, Región de Ñuble.\nPara reforzar el alertamiento preventivo, #SENAPRED activó mensajería #SAE.",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-27T01:27:10+00:00",
-   "url": "https://t.me/SenapredChile/1442",
-   "origen": "telegram",
-   "sae": true
-  },
-  {
    "id": "5e4552febda7",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -178,16 +207,16 @@
    "regiones_extra": []
   },
   {
-   "id": "6472ec3cc94a",
+   "id": "212dcfc3310d",
    "nivel": "ROJA",
    "tipo": "crecida de río",
-   "titulo": "Monitoreo Alerta Roja para las comunas de Pinto, Coihueco, Chillán y Chillán Viejo por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ Río Niblinto antes canal alimentador Embalse Coihueco ”, indica un incremento en su caudal, alcanzando valores de umbral rojo , lo que supone un aumento del riesgo para la población cercana a estos cursos de agua. Cabe señalar que la estación ““ Río Chillán en Esperanza 2 ”, mantiene su caudal en nivel umbral rojo. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED mantiene la Alerta Roja por creci",
+   "titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para las comunas de San Fabián y Ñiquén por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ Río Perquilauquén en San Manuel” , indica un incremento en su caudal , alcanzando valores de umbral rojo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED cancela la Alerta Amarilla , que se mantuvo vigente desde hoy domingo 26 de julio y declara Alerta Roja por crecida para las comunas de San Fabián y Ñiquén, vige",
    "region": "Ñuble",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-07-26T22:01:16.1616-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-pinto-coihueco-chillan-y-chillan-viejo-por-crecida-2026-07-26-19-07-13",
+   "ts": "2026-07-26T21:39:27.2727-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-fabian-y-iquen-por-crecida-2026-07-26-19-21-53",
    "origen": "senapred_web",
    "regiones_extra": []
   },
