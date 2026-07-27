@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-27T12:41:18+00:00",
+ "generado": "2026-07-27T18:15:10+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
   {
@@ -122,17 +122,6 @@
    "lugar": "Canela",
    "url": "https://t.me/SenapredChile/1408",
    "ts": "2026-07-21T13:18"
-  },
-  {
-   "nombre": "río Chalinga",
-   "lat": -31.71216,
-   "lon": -70.80609,
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "sae": true,
-   "lugar": "Salamanca",
-   "url": "https://t.me/SenapredChile/1396",
-   "ts": "2026-07-20T17:32"
   }
  ]
 }
