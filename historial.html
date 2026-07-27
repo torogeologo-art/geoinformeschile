@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es-CL">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Historial de eventos — GeoInformesChile</title>
+<meta name="description" content="Archivo de eventos de emergencia registrados por GeoInformesChile: alertas, escalamientos y clima de cada evento. La memoria del territorio, evento a evento.">
+<style>
+  :root{
+    --fondo:#101720; --panel:#18222e; --panel-2:#131c26;
+    --tinta:#e9e4d8; --tinta-suave:#8fa0af; --linea:#263340;
+    --atp:#3f9d63; --amarilla:#e3ac1c; --roja:#e04a31;
+    --mono:ui-monospace,'SF Mono','Cascadia Mono',Consolas,monospace;
+  }
+  *{box-sizing:border-box;margin:0}
+  body{background:var(--fondo);color:var(--tinta);
+       font:15px/1.55 system-ui,-apple-system,'Segoe UI',Roboto,sans-serif}
+  a{color:var(--tinta)}
+  main{max-width:760px;margin:0 auto;padding:20px 18px 40px}
+  header{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:6px}
+  .marca{font-size:19px;letter-spacing:-.02em}
+  .marca b{font-weight:800}
+  .marca .cl{color:var(--roja);font-weight:800}
+  .btn{margin-left:auto;font-family:var(--mono);font-size:12px;color:var(--tinta-suave);
+       border:1px solid var(--linea);border-radius:6px;padding:6px 12px;background:var(--panel);
+       text-decoration:none}
+  .btn:hover{color:var(--tinta)}
+  h1{font-size:24px;font-weight:800;letter-spacing:-.02em;margin:18px 0 4px}
+  .baja{font-size:13.5px;color:var(--tinta-suave);max-width:56ch}
+  .ev{display:block;background:var(--panel);border:1px solid var(--linea);border-radius:10px;
+      padding:16px 18px;margin-top:14px;text-decoration:none;transition:border-color .15s}
+  .ev:hover{border-color:var(--tinta-suave)}
+  .ev h2{font-size:17px;font-weight:700}
+  .ev .fechas{font-family:var(--mono);font-size:11.5px;color:var(--tinta-suave);margin-top:2px}
+  .ev .stats{display:flex;gap:18px;flex-wrap:wrap;margin-top:10px;font-family:var(--mono);font-size:12px;color:var(--tinta-suave)}
+  .ev .stats b{color:var(--tinta);font-size:16px;display:block}
+  .ev .stats .rj b{color:var(--roja)}
+  .vivo{border-color:color-mix(in srgb, var(--roja) 45%, var(--linea))}
+  .vivo .tag{font-family:var(--mono);font-size:10px;letter-spacing:.12em;color:var(--roja);
+             border:1px solid var(--roja);border-radius:4px;padding:1px 7px;margin-left:8px;vertical-align:2px}
+  .pend{font-size:12.5px;color:var(--tinta-suave)}
+  footer{border-top:1px solid var(--linea);margin-top:30px;padding-top:12px;
+         font-size:12px;color:var(--tinta-suave)}
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <div class="marca">Geo<b>Informes</b><span class="cl">Chile</span></div>
+    <a class="btn" href="./">← Mapa en vivo</a>
+  </header>
+
+  <h1>Historial de eventos</h1>
+  <p class="baja">La memoria del territorio, evento a evento: cada uno queda archivado con sus
+  alertas, escalamientos, cronología y el clima hora a hora del período. Los territorios que
+  registran sus desastres aprenden de ellos.</p>
+
+  <a class="ev vivo" href="informe.html">
+    <h2>Situación actual<span class="tag">EN CURSO</span></h2>
+    <div class="fechas">informe rodante · se actualiza cada 15 minutos</div>
+  </a>
+
+  <div id="lista"><p class="pend" style="margin-top:16px">Cargando el archivo…</p></div>
+
+  <footer>
+    Sitio referencial e independiente, sin afiliación a SENAPRED. Fuente de las alertas: SENAPRED.
+    Series de clima: archivo Open-Meteo (modelo, referencial).
+  </footer>
+</main>
+
+<script>
+"use strict";
+const esc = s => (s||"").toString().replace(/[&<>"']/g, c =>
+               ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+(async () => {
+  const cont = document.getElementById("lista");
+  let evs = [];
+  try{
+    evs = (await (await fetch("eventos.json?t=" + Date.now())).json()).eventos || [];
+  }catch{ cont.innerHTML = `<p class="pend">No se pudo cargar el registro de eventos.</p>`; return; }
+  if (!evs.length){ cont.innerHTML = `<p class="pend">Aún no hay eventos archivados.</p>`; return; }
+  cont.innerHTML = "";
+  for (const ev of evs.slice().reverse()){
+    let inf = null;
+    try{ inf = await (await fetch(`informes/${encodeURIComponent(ev.id)}.json?t=` + Date.now())).json(); }
+    catch{ /* aún no congelado */ }
+    const t = inf ? inf.totales : null;
+    cont.insertAdjacentHTML("beforeend", `
+      <a class="ev" href="informe.html?evento=${encodeURIComponent(ev.id)}">
+        <h2>${esc(ev.nombre)}</h2>
+        <div class="fechas">${esc(ev.desde)} → ${esc(ev.hasta)}</div>
+        ${t ? `<div class="stats">
+            <span><b>${t.alertas}</b>alertas</span>
+            <span class="rj"><b>${t.sae}</b>con SAE</span>
+            <span><b>${t.comunas}</b>comunas</span>
+            <span><b>${t.regiones}</b>regiones</span>
+            <span><b>${(inf.clima_archivo && Object.keys(inf.clima_archivo).length) || 0}</b>series de clima</span>
+          </div>`
+          : `<div class="stats"><span class="pend">El robot lo archiva en su próxima corrida…</span></div>`}
+      </a>`);
+  }
+})();
+</script>
+</body>
+</html>

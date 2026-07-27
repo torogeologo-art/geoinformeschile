@@ -1,0 +1,11 @@
+{
+ "nota": "Registro de eventos nombrados. Este archivo lo edita Diego (la curaduría es humana): id sin espacios ni eñes, fechas YYYY-MM-DD. El robot congela cada evento en informes/<id>.json la primera vez que lo ve; para regenerar uno, borra su archivo en informes/.",
+ "eventos": [
+  {
+   "id": "supernino-julio-2026",
+   "nombre": "Evento Superniño — Julio 2026",
+   "desde": "2026-07-14",
+   "hasta": "2026-07-23"
+  }
+ ]
+}

@@ -112,6 +112,7 @@
     <div class="marca">Geo<b>Informes</b><span class="cl">Chile</span></div>
     <div class="acciones">
       <a class="btn" href="./">← Mapa en vivo</a>
+      <a class="btn" href="historial.html">Historial</a>
       <button class="btn" onclick="window.print()">Imprimir / PDF</button>
     </div>
   </header>
@@ -235,10 +236,24 @@ function descargarPNG(cont, nombre){
   img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(src);
 }
 
+const PARAMS = new URLSearchParams(location.search);
+const EVENTO_ID = PARAMS.get("evento");
+let CLIMA_ARCHIVO = null;   // series congeladas cuando el informe es de un evento pasado
+
 const climaCache = {};
 async function pintarClima(region){
   const g = $("g-clima");
   document.querySelectorAll(".reg").forEach(c => c.classList.toggle("sel", c.dataset.r === region));
+  if (CLIMA_ARCHIVO){   // evento pasado: series congeladas del período, sin "ahora"
+    const a = CLIMA_ARCHIVO[region];
+    if (!a){ g.innerHTML = `<div class="cargando">Sin datos de esa región en este evento.</div>`; return; }
+    g.innerHTML = svgClima(a.time, a.precipitation, a.wind_speed_10m, -1)
+      + `<div class="leyenda"><i style="background:var(--atp)"></i>lluvia mm/h (eje izq.)
+         &nbsp;<span style="color:var(--amarilla)">━</span> viento km/h (eje der.)</div>
+        <div class="fuente-clima">Punto de referencia: ${esc(a.ciudad)} · lluvia y viento HORA A HORA
+        durante el evento completo · archivo Open-Meteo (modelo, referencial) — no reemplaza a la DMC.</div>`;
+    return;
+  }
   g.innerHTML = `<div class="cargando">Consultando el modelo meteorológico…</div>`;
   try{
     if (!climaCache[region]){
@@ -272,7 +287,7 @@ function render(d){
   $("nota").textContent = d.nota + "  Generado: " + new Date(d.generado).toLocaleString("es-CL") + ".";
   $("cuerpo").className = "";
   $("cuerpo").innerHTML = `
-    <h1>${esc(d.evento.nombre)}</h1>
+    <h1>${esc(d.evento.nombre)} ${d.archivado ? '<span style="font-family:var(--mono);font-size:11px;letter-spacing:.1em;vertical-align:middle;border:1px solid var(--linea);border-radius:4px;padding:2px 8px;color:var(--tinta-suave)">ARCHIVO</span>' : ""}</h1>
     <div class="periodo">GeoInforme automático · período ${esc(d.evento.desde)} — ${esc(d.evento.hasta)}</div>
 
     <div class="tarjetas">
@@ -326,10 +341,20 @@ function render(d){
 }
 
 function activar(d){
+  CLIMA_ARCHIVO = d.clima_archivo || null;
   render(d);
-  // clima: parte con la primera región en Roja, o Coquimbo
-  const inicial = (d.vigentes.regiones_roja || []).find(r => CAPITALES[r]) || "Coquimbo";
-  pintarClima(inicial);
+  if (CLIMA_ARCHIVO){
+    // Los chips solo de las regiones con datos del evento
+    const cont = document.querySelector(".reg-chips");
+    cont.innerHTML = Object.keys(CLIMA_ARCHIVO).map(r =>
+      `<span class="reg" data-r="${esc(r)}">${esc(REG_CORTA(r))}</span>`).join("")
+      || `<span class="fuente-clima">Sin series de clima archivadas para este evento.</span>`;
+    const inicial = Object.keys(CLIMA_ARCHIVO)[0];
+    if (inicial) pintarClima(inicial);
+  } else {
+    const inicial = (d.vigentes.regiones_roja || []).find(r => CAPITALES[r]) || "Coquimbo";
+    pintarClima(inicial);
+  }
   $("tipos").addEventListener("click", e => {
     const ch = e.target.closest("span[data-tipo]"); if (!ch) return;
     document.querySelectorAll("#tipos span").forEach(x => x.classList.toggle("activo", x === ch));
@@ -354,7 +379,7 @@ function activar(d){
   });
 }
 
-fetch("informe.json?t=" + Date.now())
+fetch((EVENTO_ID ? `informes/${encodeURIComponent(EVENTO_ID)}.json` : "informe.json") + "?t=" + Date.now())
   .then(r => { if (!r.ok) throw 0; return r.json(); })
   .then(activar)
   .catch(() => { $("cuerpo").textContent =
