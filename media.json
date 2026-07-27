@@ -1,6 +1,141 @@
 {
- "generado": "2026-07-26T23:46:35+00:00",
- "desde": "2026-07-24T23:46:29Z",
+ "generado": "2026-07-27T12:41:29+00:00",
+ "desde": "2026-07-25T12:41:19Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "DI6gBMomrPg",
+     "url": "https://www.youtube.com/watch?v=DI6gBMomrPg",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-07-27T05:39:58Z",
+     "live": true,
+     "score": -2.59,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "GnY6vnaG1yg",
+     "url": "https://www.youtube.com/watch?v=GnY6vnaG1yg",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-07-27T05:39:59Z",
+     "live": true,
+     "score": -2.59,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "maule": {
+   "comuna": "Maule",
+   "region": "Maule",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "HO_JfEBoEks",
+     "url": "https://www.youtube.com/watch?v=HO_JfEBoEks",
+     "titulo": "Senapred emite alerta roja preventiva en Molina y Curicó por desborde",
+     "canal": "Meganoticias",
+     "publicado": "2026-07-25T16:39:01Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "arauco": {
+   "comuna": "Arauco",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "JIMQDhEsmcE",
+     "url": "https://www.youtube.com/watch?v=JIMQDhEsmcE",
+     "titulo": "Arauco bajo alerta roja por crecida del río Pichilo",
+     "canal": "24 Horas - TVN Chile",
+     "publicado": "2026-07-27T01:21:45Z",
+     "live": false,
+     "score": 9.06,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "zHVm46fR0gQ",
+     "url": "https://www.youtube.com/watch?v=zHVm46fR0gQ",
+     "titulo": "Alerta Roja en Arauco por desborde del río Pichilo",
+     "canal": "Meganoticias",
+     "publicado": "2026-07-27T00:58:01Z",
+     "live": false,
+     "score": 9.02,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "RXMUkONKqHU",
+     "url": "https://www.youtube.com/watch?v=RXMUkONKqHU",
+     "titulo": "Senapred declara Alerta roja por aumento del caudal del Río Pichilo en Arauco",
+     "canal": "Notifyalerta Emergencias y Eventos",
+     "publicado": "2026-07-26T21:24:06Z",
+     "live": false,
+     "score": 8.73,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "_TTwqFv4tCk",
+     "url": "https://www.youtube.com/watch?v=_TTwqFv4tCk",
+     "titulo": "Alerta en el Biobío por intensas lluvias: Se esperan marejadas para el lunes",
+     "canal": "Meganoticias",
+     "publicado": "2026-07-25T17:09:39Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "EXCHnbrHxZo",
+     "url": "https://www.youtube.com/watch?v=EXCHnbrHxZo",
+     "titulo": "EN VIVO DESDE CALAMA - Primera edición de Punto de Prensa – 27 julio 2026",
+     "canal": "diarioenlalinea",
+     "publicado": "2026-07-27T12:03:40Z",
+     "live": true,
+     "score": 7.95,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "Q807qS6aIlo",
+     "url": "https://www.youtube.com/watch?v=Q807qS6aIlo",
+     "titulo": "😱🚨 Terremoto cerca de Illapel, Provincia de Choapa, Región de Coquimbo, Chile actualizaciones en viv",
+     "canal": "lindunow",
+     "publicado": "2026-07-27T11:58:47Z",
+     "live": false,
+     "score": 7.94,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }

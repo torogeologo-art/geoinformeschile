@@ -136,5 +136,12 @@
 },
 "sector la lucha|coquimbo": null,
 "sector bajos de lircay|maule": null,
-"sector gomeros sur|maule": null
+"sector gomeros sur|maule": null,
+"rio pichilo|arauco": {
+"lat": -37.30311,
+"lon": -73.17435
+},
+"sector incahuasi|coquimbo": null,
+"sector talinay|coquimbo": null,
+"sectores embalses|coquimbo": null
 }
