@@ -212,22 +212,26 @@ def clima_de_archivo(regiones, desde, hasta):
         if r not in CAPITALES:
             continue
         ciudad, lat, lon = CAPITALES[r]
-        try:
-            resp = requests.get("https://archive-api.open-meteo.com/v1/archive",
-                                timeout=25, params={
-                                    "latitude": lat, "longitude": lon,
-                                    "start_date": desde, "end_date": hasta,
-                                    "hourly": "precipitation,wind_speed_10m",
-                                    "timezone": "America/Santiago"})
-            resp.raise_for_status()
-            h = resp.json().get("hourly", {})
-            if h.get("time"):
-                out[r] = {"ciudad": ciudad, "time": h["time"],
-                          "precipitation": h["precipitation"],
-                          "wind_speed_10m": h["wind_speed_10m"]}
-            time.sleep(0.4)
-        except Exception as e:
-            print(f"[clima-archivo] {r}: {e}")
+        for intento in range(3):  # las descargas fallan a veces: se reintenta
+            try:
+                resp = requests.get("https://archive-api.open-meteo.com/v1/archive",
+                                    timeout=25, params={
+                                        "latitude": lat, "longitude": lon,
+                                        "start_date": desde, "end_date": hasta,
+                                        "hourly": "precipitation,wind_speed_10m,wind_gusts_10m",
+                                        "timezone": "America/Santiago"})
+                resp.raise_for_status()
+                h = resp.json().get("hourly", {})
+                if h.get("time"):
+                    out[r] = {"ciudad": ciudad, "time": h["time"],
+                              "precipitation": h["precipitation"],
+                              "wind_speed_10m": h["wind_speed_10m"],
+                              "wind_gusts_10m": h.get("wind_gusts_10m", [])}
+                time.sleep(0.4)
+                break
+            except Exception as e:
+                print(f"[clima-archivo] {r} intento {intento + 1}: {e}")
+                time.sleep(1.5)
     return out
 
 
@@ -251,10 +255,32 @@ def main():
     CARPETA.mkdir(exist_ok=True)
     for ev in json.loads(EVENTOS.read_text(encoding="utf-8")).get("eventos", []):
         destino = CARPETA / f"{ev['id']}.json"
-        if destino.exists():
-            continue  # congelado: no se recalcula (borrar el archivo para regenerar)
         d0 = dt.datetime.fromisoformat(ev["desde"]).replace(tzinfo=tz)
         d1 = dt.datetime.fromisoformat(ev["hasta"]).replace(hour=23, minute=59, tzinfo=tz)
+
+        if destino.exists():
+            # Congelado, PERO auto-sanable: si al clima archivado le faltan
+            # regiones (descargas caídas) o la variable de ráfagas, se completa
+            # sin tocar el resto del informe.
+            if d1 < hoy - dt.timedelta(days=2):
+                inf = json.loads(destino.read_text(encoding="utf-8"))
+                regs_ev = cargar_historico(d0, d1)
+                regiones_ev = {region_limpia(x.get("region")) for x in regs_ev}
+                regiones_ev = {r for r in regiones_ev if r and r in CAPITALES}
+                actuales = inf.get("clima_archivo", {})
+                faltan = sorted(r for r in regiones_ev
+                                if r not in actuales
+                                or "wind_gusts_10m" not in actuales.get(r, {}))
+                if faltan:
+                    nuevos = clima_de_archivo(faltan, ev["desde"], ev["hasta"])
+                    if nuevos:
+                        actuales.update(nuevos)
+                        inf["clima_archivo"] = actuales
+                        destino.write_text(json.dumps(inf, ensure_ascii=False, indent=1),
+                                           encoding="utf-8")
+                        print(f"OK evento sanado | {ev['id']} clima_agregado={len(nuevos)} "
+                              f"(faltaban: {', '.join(faltan)})")
+            continue
         inf, regiones = construir_informe(ev["nombre"], d0, d1, incluir_vigentes=False)
         inf["archivado"] = True
         if d1 < hoy - dt.timedelta(days=2):  # el archivo meteorológico ya está firme

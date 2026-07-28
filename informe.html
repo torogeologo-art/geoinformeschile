@@ -39,7 +39,10 @@
   .tarjeta .l{font-size:12px;color:var(--tinta-suave);margin-top:2px}
   .tarjeta.roja .n{color:var(--roja)}
 
-  .grafico{background:var(--panel-2);border:1px solid var(--linea);border-radius:8px;padding:14px;position:relative}
+  .grafico{background:var(--panel-2);border:1px solid var(--linea);border-radius:8px;padding:40px 14px 14px;position:relative}
+  .clima-stats{font-family:var(--mono);font-size:11.5px;color:var(--tinta-suave);
+               margin-top:8px;line-height:1.7}
+  .clima-stats b{color:var(--tinta);font-size:13px}
   .dl{position:absolute;top:8px;right:8px;z-index:2}
   .ver-mapa{margin-left:auto;font-family:var(--mono);font-size:11.5px;letter-spacing:.03em;
             padding:4px 11px;border:1px solid var(--roja);border-radius:6px;
@@ -178,9 +181,10 @@ const REG_CORTA = r => r.includes("Metropolitana") ? "RM" :
   r.includes("Higgins") ? "O'Higgins" : r.includes("Aysén") ? "Aysén" :
   r.includes("Magallanes") ? "Magallanes" : r.includes("Araucanía") ? "Araucanía" : r;
 
-function svgClima(horas, lluvia, viento, iAhora){
+function svgClima(horas, lluvia, viento, iAhora, rachas){
   const W = 800, H = 230, m = {t:14, b:36, l:36, r:40};
-  const maxP = Math.max(1, ...lluvia), maxV = Math.max(10, ...viento);
+  const maxP = Math.max(1, ...lluvia);
+  const maxV = Math.max(10, ...viento, ...(rachas && rachas.length ? rachas : [0]));
   const xw = (W - m.l - m.r) / horas.length;
   const yP = v => (H - m.b) - v * (H - m.t - m.b) / maxP;
   const yV = v => (H - m.b) - v * (H - m.t - m.b) / maxV;
@@ -196,6 +200,9 @@ function svgClima(horas, lluvia, viento, iAhora){
   lluvia.forEach((v, i) => { if (v > 0){
     const y1 = yP(v), pron = iAhora >= 0 && i > iAhora;
     out += `<rect x="${m.l + i*xw}" y="${y1}" width="${Math.max(1, xw*0.85)}" height="${(H-m.b)-y1}" fill="var(--atp)" opacity="${pron ? .38 : .9}"><title>${horas[i].replace("T"," ")}: ${v} mm${pron ? " (pronóstico)" : ""}</title></rect>`; }});
+  if (rachas && rachas.length)
+    out += `<polyline fill="none" stroke="var(--amarilla)" stroke-width="1.4" stroke-dasharray="2 4" opacity=".55" points="`
+        + rachas.map((v, i) => `${(m.l + i*xw + xw/2).toFixed(1)},${yV(v).toFixed(1)}`).join(" ") + `"/>`;
   const punto = i => `${(m.l + i*xw + xw/2).toFixed(1)},${yV(viento[i]).toFixed(1)}`;
   const corte = iAhora >= 0 ? Math.min(iAhora, viento.length - 1) : viento.length - 1;
   out += `<polyline fill="none" stroke="var(--amarilla)" stroke-width="2" points="`
@@ -208,9 +215,26 @@ function svgClima(horas, lluvia, viento, iAhora){
     out += `<line x1="${xa}" x2="${xa}" y1="${m.t}" y2="${H-m.b}" stroke="var(--roja)" stroke-dasharray="4 3"/>`
         +  `<text x="${xa+4}" y="${m.t+9}" font-size="9.5" fill="var(--roja)" font-family="monospace">ahora</text>`;
   }
-  horas.forEach((h, i) => { if (i % 6 === 0)
-    out += `<text x="${m.l + i*xw}" y="${H-m.b+14}" font-size="9" fill="var(--tinta-suave)" font-family="monospace">${h.slice(8,10)}·${h.slice(11,13)}h</text>`; });
+  const paso = horas.length > 120 ? 24 : 6;   // rangos largos: una etiqueta por día
+  horas.forEach((h, i) => { if (i % paso === 0)
+    out += `<text x="${m.l + i*xw}" y="${H-m.b+14}" text-anchor="middle" font-size="9" fill="var(--tinta-suave)" font-family="monospace">${h.slice(8,10)}${paso === 24 ? "" : "·" + h.slice(11,13) + "h"}</text>`; });
   return out + "</svg>";
+}
+
+// Mini-reporte bajo el gráfico: totales y máximos con su día·hora.
+function statsClima(horas, lluvia, viento, rachas){
+  const cuando = i => i >= 0 && horas[i] ? ` (${horas[i].slice(8,10)}·${horas[i].slice(11,13)}h)` : "";
+  const iMax = arr => arr.reduce((mi, v, i) => v > arr[mi] ? i : mi, 0);
+  const total = lluvia.reduce((a, b) => a + (b || 0), 0);
+  const iL = iMax(lluvia), iV = iMax(viento);
+  let html = `Σ lluvia del período: <b>${total.toFixed(1)} mm</b>
+    · intensidad máx: <b>${(lluvia[iL] || 0).toFixed(1)} mm/h</b>${cuando(iL)}
+    · viento medio máx: <b>${Math.round(viento[iV] || 0)} km/h</b>${cuando(iV)}`;
+  if (rachas && rachas.length){
+    const iR = iMax(rachas);
+    html += ` · ráfaga máx: <b>${Math.round(rachas[iR] || 0)} km/h</b>${cuando(iR)}`;
+  }
+  return `<div class="clima-stats">${html}</div>`;
 }
 
 // Descarga cualquiera de los gráficos como PNG (resuelve los colores del tema).
@@ -247,11 +271,14 @@ async function pintarClima(region){
   if (CLIMA_ARCHIVO){   // evento pasado: series congeladas del período, sin "ahora"
     const a = CLIMA_ARCHIVO[region];
     if (!a){ g.innerHTML = `<div class="cargando">Sin datos de esa región en este evento.</div>`; return; }
-    g.innerHTML = svgClima(a.time, a.precipitation, a.wind_speed_10m, -1)
+    g.innerHTML = svgClima(a.time, a.precipitation, a.wind_speed_10m, -1, a.wind_gusts_10m)
       + `<div class="leyenda"><i style="background:var(--atp)"></i>lluvia mm/h (eje izq.)
-         &nbsp;<span style="color:var(--amarilla)">━</span> viento km/h (eje der.)</div>
-        <div class="fuente-clima">Punto de referencia: ${esc(a.ciudad)} · lluvia y viento HORA A HORA
-        durante el evento completo · archivo Open-Meteo (modelo, referencial) — no reemplaza a la DMC.</div>`;
+         &nbsp;<span style="color:var(--amarilla)">━</span> viento medio km/h (eje der.)
+         &nbsp;<span style="color:var(--amarilla);opacity:.6">┈┈</span> ráfagas</div>`
+      + statsClima(a.time, a.precipitation, a.wind_speed_10m, a.wind_gusts_10m)
+      + `<div class="fuente-clima">Punto de referencia: ${esc(a.ciudad)} · lluvia y viento HORA A HORA
+        durante el evento completo · archivo Open-Meteo (modelo, referencial) — las estaciones
+        puntuales de la DMC pueden registrar valores mayores.</div>`;
     return;
   }
   g.innerHTML = `<div class="cargando">Consultando el modelo meteorológico…</div>`;
@@ -259,7 +286,7 @@ async function pintarClima(region){
     if (!climaCache[region]){
       const [ciudad, lat, lon] = CAPITALES[region];
       const r = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}`
-        + `&hourly=precipitation,wind_speed_10m&past_days=2&forecast_days=1&timezone=America%2FSantiago`);
+        + `&hourly=precipitation,wind_speed_10m,wind_gusts_10m&past_days=2&forecast_days=1&timezone=America%2FSantiago`);
       if (!r.ok) throw 0;
       climaCache[region] = {ciudad, datos: (await r.json()).hourly};
     }
@@ -269,14 +296,16 @@ async function pintarClima(region){
     const ahoraCL = new Date().toLocaleString("sv-SE", {timeZone: "America/Santiago"})
                     .slice(0, 13).replace(" ", "T");
     const iAhora = datos.time.findIndex(t => t.slice(0, 13) >= ahoraCL);
-    g.innerHTML = svgClima(datos.time, datos.precipitation, datos.wind_speed_10m, iAhora)
+    g.innerHTML = svgClima(datos.time, datos.precipitation, datos.wind_speed_10m, iAhora, datos.wind_gusts_10m)
       + `<div class="leyenda"><i style="background:var(--atp)"></i>lluvia mm/h (eje izq.)
-         &nbsp;<span style="color:var(--amarilla)">━</span> viento km/h (eje der.)
+         &nbsp;<span style="color:var(--amarilla)">━</span> viento medio km/h (eje der.)
+         &nbsp;<span style="color:var(--amarilla);opacity:.6">┈┈</span> ráfagas
          &nbsp;<span style="color:var(--amarilla)">╌╌</span> pronóstico
-         &nbsp;<span style="color:var(--roja)">┊</span> ahora</div>
-        <div class="fuente-clima">Punto de referencia: ${esc(ciudad)} · a la izquierda del marcador,
+         &nbsp;<span style="color:var(--roja)">┊</span> ahora</div>`
+      + statsClima(datos.time, datos.precipitation, datos.wind_speed_10m, datos.wind_gusts_10m)
+      + `<div class="fuente-clima">Punto de referencia: ${esc(ciudad)} · a la izquierda del marcador,
         lo observado (48 h); a la derecha, el pronóstico del modelo (24 h) ·
-        Open-Meteo, referencial — no reemplaza a la DMC.</div>`;
+        Open-Meteo, referencial — las estaciones puntuales de la DMC pueden registrar valores mayores.</div>`;
   }catch{
     g.innerHTML = `<div class="cargando">No se pudo consultar el clima ahora; reintenta en un momento.</div>`;
   }
