@@ -1,13 +1,29 @@
 {
- "generado": "2026-07-28T08:02:21+00:00",
+ "generado": "2026-07-28T16:10:19+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 49,
+ "total_vigentes": 36,
  "alertas": [
+  {
+   "id": "0f6898ef8fef",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "🔴 #SenapredInforma  ¡ATENCIÓN! Por desborde del Río Llollelhue, #SENAPRED solicita evacuar sectores Población Foitzick, Ex Población Osvaldo Leal, y Rapaco  El",
+   "descripcion": "🔴 #SenapredInforma  ¡ATENCIÓN! Por desborde del Río Llollelhue, #SENAPRED solicita evacuar sectores Población Foitzick, Ex Población Osvaldo Leal, y Rapaco  El Molino en la comuna de La Unión, Región de Los Ríos. \n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, se activó mensajería #SAE 📷. \n\nActúa con calma y acata las indicaciones de la autoridad. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.  Más información: https://web.senapred.cl/dimension-animal",
+   "region": "Los Ríos",
+   "comunas": [
+    "La Unión"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-07-28T13:42:50+00:00",
+   "url": "https://t.me/SenapredChile/1448",
+   "origen": "telegram",
+   "sae": true
+  },
   {
    "id": "adf11d86bb2f",
    "nivel": "ROJA",
@@ -20,33 +36,48 @@
    "ts": "2026-07-28T03:59:34.3434-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-molina-y-curico-por-crecida-2026-07-25-05-11-57",
    "origen": "senapred_web",
-   "regiones_extra": []
+   "regiones_extra": [],
+   "sae": true
   },
   {
-   "id": "ca5ab2535640",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para la comuna de Los Lagos por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ Río Callecalle en Pupunahue ”, indica un incremento en su caudal, alcanzando valores de umbral rojo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela Alerta Amarilla por crecida para la comuna de Los Lagos, vigente desde el 27 de julio y declara Alerta Roja por desborde para la comuna de Los Lagos vigent",
-   "region": "Los Ríos",
+   "id": "49a79ac34501",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para el territorio continental de la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Aviso A347-5 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 26-07 28-07 Asimismo, se informa que la DMC ha cancelado el siguiente alertamiento meteorológico según el siguiente detalle: Alertamiento Pronóstico Aviso A349 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la región. Por otra par",
+   "region": "Valparaíso",
    "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-28T03:41:02.022-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-lagos-y-valdivia-por-crecida-2026-07-27-17-51-44",
+   "estado": "CANCELADA",
+   "ts": "2026-07-28T10:14:07.077-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-de-valparaiso-territorio-continental-por-evento-meteorologico-2026-07-14-18-04-30",
    "origen": "senapred_web",
    "regiones_extra": []
   },
   {
-   "id": "254cb69e3c70",
+   "id": "9a6d48408d73",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la comuna de La Unión por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ Río Llollelhue en La Unión ”, indica un incremento en su caudal, alcanzando valores de&nbsp; umbral Rojo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED&nbsp; cancela Alerta Amarilla por crecida y declara Alerta Roja por desborde para la comuna de La Unión,&nbsp; vigente a contar de hoy y hasta que las condici",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-07-28T10:04:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-la-union-por-crecida-2026-07-28-07-54-02",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "17cff67da5fb",
    "nivel": "ROJA",
    "tipo": "desborde",
-   "titulo": "Se declara Alerta Roja para la comuna de Arauco por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ Río Pichilo ”, ubicada en la comuna de Arauco, indica un incremento en su caudal , alcanzando valores de umbral rojo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED declara Alerta Roja por desborde para la comuna de Arauco , vigente desde hoy y hasta que las condiciones así lo ameriten. Con la declaración de es",
+   "titulo": "Se declara Alerta Roja para la comuna de Hualqui por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ Río Estero Hualqui en desembocadura ”, indica un incremento en su caudal, alcanzando valores de umbral rojo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED declara Alerta Roja por desborde para la comuna de Hualqui, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Cabe señalar que, en virtud",
    "region": "Biobío",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-07-28T02:51:48.4848-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-arauco-por-desborde-2026-07-28-02-52-39",
+   "ts": "2026-07-28T07:36:57.5757-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-hualqui-por-desborde-2026-07-28-07-37-48",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -72,7 +103,7 @@
    "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Los Ríos, se indica que el Río Coique, localizado en la comuna de Futrono, se encuentra desbordado con amenaza a 3 viviendas. Asimismo, se indica que el Río Santo Domingo, ubicado en la comuna de Valdivia, se encuentra desbordado afectando la conectividad en la Ruta T-206 y con una posible afectación a viviendas, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Direcci",
    "region": "Los Ríos",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "CANCELADA",
    "ts": "2026-07-27T20:28:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comunas-de-futrono-y-valdivia-por-desborde-2026-07-27-20-28-22",
    "origen": "senapred_web",
@@ -519,20 +550,6 @@
    "regiones_extra": []
   },
   {
-   "id": "c0b9371c621f",
-   "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Roja y Declara Alerta Amarilla para la Región de Valparaíso por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para el territorio continental de la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Aviso A347-1 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 25-07 27-07 Aviso A349 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la región. 25-07 26-07 Asimismo, se informa que la DMC ha cancelado los siguientes alertamientos meteorológicos según el siguiente detalle: Alertamiento Pronóst",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-23T21:16:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-de-valparaiso-territorio-continental-por-evento-meteorologico-2026-07-14-18-04-30",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "f2398ffd116d",
    "nivel": "ATP",
    "tipo": "evento meteorológico",
@@ -750,7 +767,7 @@
    "comunas": [
     "Copiapó"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-21T15:54:11+00:00",
    "url": "https://t.me/SenapredChile/1421",
    "origen": "telegram",
@@ -766,7 +783,7 @@
    "comunas": [
     "Illapel"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-21T15:47:28+00:00",
    "url": "https://t.me/SenapredChile/1420",
    "origen": "telegram",
@@ -782,7 +799,7 @@
    "comunas": [
     "La Vallenar"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-21T15:42:40+00:00",
    "url": "https://t.me/SenapredChile/1419",
    "origen": "telegram",
@@ -798,7 +815,7 @@
    "comunas": [
     "La Serena"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-21T15:09:21+00:00",
    "url": "https://t.me/SenapredChile/1417",
    "origen": "telegram",
@@ -814,7 +831,7 @@
    "comunas": [
     "Ovalle"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-21T15:00:36+00:00",
    "url": "https://t.me/SenapredChile/1416",
    "origen": "telegram",
@@ -830,7 +847,7 @@
    "comunas": [
     "Vallenar"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-21T14:57:09+00:00",
    "url": "https://t.me/SenapredChile/1415",
    "origen": "telegram",
@@ -846,7 +863,7 @@
    "comunas": [
     "Freirina"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-21T14:54:10+00:00",
    "url": "https://t.me/SenapredChile/1414",
    "origen": "telegram",
@@ -862,7 +879,7 @@
    "comunas": [
     "Salamanca"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-21T14:49:59+00:00",
    "url": "https://t.me/SenapredChile/1413",
    "origen": "telegram",
@@ -878,7 +895,7 @@
    "comunas": [
     "Paihuano"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-21T13:33:19+00:00",
    "url": "https://t.me/SenapredChile/1409",
    "origen": "telegram",
@@ -894,7 +911,7 @@
    "comunas": [
     "Canela"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-21T13:18:38+00:00",
    "url": "https://t.me/SenapredChile/1408",
    "origen": "telegram",
@@ -910,7 +927,7 @@
    "comunas": [
     "Paihuano"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-21T13:03:27+00:00",
    "url": "https://t.me/SenapredChile/1405",
    "origen": "telegram",
@@ -940,7 +957,7 @@
    "comunas": [
     "Huasco"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-21T12:27:47+00:00",
    "url": "https://t.me/SenapredChile/1404",
    "origen": "telegram",
@@ -1634,7 +1651,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por desborde del estero El Cobre, #SENAPRED solicita evacuar sector El Cobre, en la comuna de #SanEsteban, Región de Valparaíso.  \n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.  \n \nMás información en: https://web.senapred.cl/dimension-animal/",
    "region": "Valparaíso",
    "comunas": [],
-   "estado": "CANCELADA",
+   "estado": "EXPIRADA",
    "ts": "2026-07-18T03:24:28+00:00",
    "url": "https://t.me/SenapredChile/1316",
    "origen": "telegram",
@@ -1648,7 +1665,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por desborde del Estero El Garretón #SENAPRED solicita evacuar sectores cercanos a dicho curso de agua en la comuna de #Nogales, Región de Valparaíso.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\nMás información en: https://web.senapred.cl/dimension-animal/",
    "region": "Valparaíso",
    "comunas": [],
-   "estado": "CANCELADA",
+   "estado": "EXPIRADA",
    "ts": "2026-07-17T23:02:30+00:00",
    "url": "https://t.me/SenapredChile/1302",
    "origen": "telegram",
@@ -1804,7 +1821,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por peligro de aluvión #SENAPRED solicita evacuar sector Población Argentina en la comuna de #Quilpué, Región de Valparaíso.  \nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.   \nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.  Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.  \nMás información en https://web.senapred.cl/dimension-animal/",
    "region": "Valparaíso",
    "comunas": [],
-   "estado": "CANCELADA",
+   "estado": "EXPIRADA",
    "ts": "2026-07-16T22:18:16+00:00",
    "url": "https://t.me/SenapredChile/1287",
    "origen": "telegram",
@@ -1869,20 +1886,6 @@
    "url": "https://t.me/SenapredChile/1277",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "f2b76b0c2196",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Biobío por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) y en atención a los pronósticos meteorológicos informados por la Dirección Meteorológica de Chile, se prevé una tendencia progresiva del aumento de los cauces de ríos y esteros, generando un aumento del riesgo asociado a crecidas y/o desbordes. Cabe señalar que, conforme al desarrollo del sistema frontal y de acuerdo comportamiento efectivo de los caudales y niveles observados, la DGA mantiene permanentemente monitoreo de las estaciones fluviales en la Región del Biobío. En consideración a estos antecedentes y en",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-07-14T16:05:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-crecida-2026-07-14-17-48-08",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "557b167489dc",

@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-28T08:02:57+00:00",
- "desde": "2026-07-26T08:02:47Z",
+ "generado": "2026-07-28T16:10:27+00:00",
+ "desde": "2026-07-26T16:10:20Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "maule": {
@@ -9,13 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "gDa6uk2l07Y",
+     "url": "https://www.youtube.com/watch?v=gDa6uk2l07Y",
+     "titulo": "ALERTA en Licantén por desborde de río Mataquito: Ordenan evacuar la zona - Contigo en la Mañana",
+     "canal": "Chilevisión",
+     "publicado": "2026-07-28T14:52:05Z",
+     "live": false,
+     "score": 5.89,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "4VvTDsiJ9rU",
      "url": "https://www.youtube.com/watch?v=4VvTDsiJ9rU",
      "titulo": "último minuto, región del maule, evacuacion  en licanten por posible desborde de río mataquito",
      "canal": "Daniel Garcia",
      "publicado": "2026-07-27T23:15:52Z",
      "live": false,
-     "score": 5.27,
+     "score": 4.59,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +37,7 @@
      "canal": "Cooperativa Podcast",
      "publicado": "2026-07-27T19:06:24Z",
      "live": false,
-     "score": 4.92,
+     "score": 4.24,
      "verificado": false,
      "embeddable": true
     },
@@ -37,25 +48,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-07-27T18:30:20Z",
      "live": false,
-     "score": 4.87,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "los rios": {
-   "comuna": "Los Ríos",
-   "region": "Los Ríos",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "rJxX7A68yKI",
-     "url": "https://www.youtube.com/watch?v=rJxX7A68yKI",
-     "titulo": "Alerta por crecida de ríos en el sur: Jaime Leyton adelanta pronóstico para el país",
-     "canal": "Meganoticias",
-     "publicado": "2026-07-27T11:53:51Z",
-     "live": false,
-     "score": 1.32,
+     "score": 4.19,
      "verificado": false,
      "embeddable": true
     }
@@ -67,24 +60,24 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "VzpUn5TiRO4",
-     "url": "https://www.youtube.com/watch?v=VzpUn5TiRO4",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-07-27T15:34:54Z",
-     "live": true,
-     "score": -3.37,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "1PxgjvDBkXQ",
      "url": "https://www.youtube.com/watch?v=1PxgjvDBkXQ",
      "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
      "canal": "SRGenial",
      "publicado": "2026-07-27T15:34:54Z",
      "live": true,
-     "score": -3.37,
+     "score": -4.05,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "VzpUn5TiRO4",
+     "url": "https://www.youtube.com/watch?v=VzpUn5TiRO4",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-07-27T15:34:54Z",
+     "live": true,
+     "score": -4.05,
      "verificado": false,
      "embeddable": true
     },
@@ -95,7 +88,7 @@
      "canal": "tvnredbiobio",
      "publicado": "2026-07-28T02:21:29Z",
      "live": false,
-     "score": 5.53,
+     "score": 4.85,
      "verificado": false,
      "embeddable": true
     },
@@ -106,7 +99,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-07-27T18:30:20Z",
      "live": false,
-     "score": 4.87,
+     "score": 4.19,
      "verificado": false,
      "embeddable": true
     }
@@ -124,7 +117,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-07-27T18:30:20Z",
      "live": false,
-     "score": -2.13,
+     "score": -2.81,
      "verificado": false,
      "embeddable": true
     }
@@ -142,7 +135,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-07-27T17:41:22Z",
      "live": true,
-     "score": -3.2,
+     "score": -3.87,
      "verificado": false,
      "embeddable": true
     }
@@ -160,7 +153,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-07-27T14:02:56Z",
      "live": false,
-     "score": 8.5,
+     "score": 7.82,
      "verificado": false,
      "embeddable": true
     },
@@ -171,7 +164,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-07-27T01:21:45Z",
      "live": false,
-     "score": 7.44,
+     "score": 7.0,
      "verificado": false,
      "embeddable": true
     },
@@ -182,7 +175,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-07-27T00:58:01Z",
      "live": false,
-     "score": 7.41,
+     "score": 7.0,
      "verificado": false,
      "embeddable": true
     },
@@ -193,25 +186,7 @@
      "canal": "Notifyalerta Emergencias y Eventos",
      "publicado": "2026-07-26T21:24:06Z",
      "live": false,
-     "score": 7.11,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "la serena": {
-   "comuna": "La Serena",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "s-l3becCt6I",
-     "url": "https://www.youtube.com/watch?v=s-l3becCt6I",
-     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
-     "canal": "La Serena Drone",
-     "publicado": "2026-07-27T17:41:22Z",
-     "live": true,
-     "score": 6.8,
+     "score": 7.0,
      "verificado": false,
      "embeddable": true
     }
