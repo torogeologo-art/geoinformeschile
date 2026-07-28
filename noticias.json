@@ -1,10 +1,17 @@
 {
- "generado": "2026-07-27T22:00:26+00:00",
+ "generado": "2026-07-28T08:02:46+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
    "comuna": "Arauco",
    "noticias": [
+    {
+     "titulo": "Senapred declara Alerta Roja para la comuna de Arauco por desborde - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-07-28T06:53:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLUFBZUlCWmlWUjIzWmttR3FuT2dJTFlOLU9ITWY2dmNIWm1GZzdoUG5HNHVlOFB1dElETjc0bk5jSzlVRTRGQTlaU1BtNTBMdFBQTGhITmFoRXQ3NlQ0SlNZM0k2SnYtRU1sb3hyTDFvN09SWTNOOVVUcC1rano2UmpJaThHMlpvdEhYUUZZOUFRczBJSXBFWVo3WWg0UGpxckI5cFJ6RWJoMENtcm9fWUpwVTNBajlnaU54WDVHakVSRWN3b1F5aGt3Y1owWXFjblhCLQ?oc=5",
+     "sector": null
+    },
     {
      "titulo": "Cancelan Alerta Roja para la comuna de Arauco tras disminución del riesgo por desborde de río Pichilo - latribuna.cl",
      "medio": "latribuna.cl",
@@ -94,17 +101,6 @@
      "medio": "Cooperativa",
      "fecha": "2026-07-26T21:42:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPelducGhOQ3dkQXRadk1mOUtDZWNlTDZpRllGbmttcTZwUm9fM1RNdTgwMXZROE4xbzBudFQ2YjU1ekc4NWNwb2VRYmVROFJzMkRnTDhWLVJTSnFZZXFZVWViZTRuMWU2a2VBbC1oeUxheElDWk1TUlk4WVdpWmVzdnZyb1owbDNaZ0p6NGxDQndjcUgtV1JZWHB6MC1iUlVnTjlYTWxIUHd6X0xQdWVTZjAyZmZTUW1JYU5WaHNhYVd1RENQT28zYmRtOXo3d3dsRC1hV0dhT05tcWtzS1lNV2s4a9IBjAFBVV95cUxNNDFVdEZRMFFURUZuR2wxNjc5RG5MbjM5UUVkNUFnbXhOSVppSkVvMEVCN2tBWnduVDZyWGVQTzJMNW1HX2lxNDV4VE4ySVBqM01ISVgxejJJcDJ0NWhJS0dBM2xONnZpTUVmNXA2cktSYTh4SE1DU3NBUndjR3lyTUVMejN5Y0dXczZuMQ?oc=5",
-     "sector": {
-      "nombre": "río Pichilo",
-      "lat": -37.30311,
-      "lon": -73.17435
-     }
-    },
-    {
-     "titulo": "Senapred declara alerta roja en Arauco por desborde del río Pichilo: se envió mensaje SAE - La Tercera",
-     "medio": "La Tercera",
-     "fecha": "2026-07-26T21:26:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZS1DZXRPVnN1UWhvWFVkYTdlMGV2M1pCWGJpWlZhMy04UW1nMURsM2c5Q0dTWmNCZjBfY2N3Mm00Rjl6dy15MktsV0RjSmtpZHl3RnJlT1lJeFBUcUpTWDRIUjE5OE04a1p4TURCbEtZdEY2dDlzR0pZWDVwSTNGMzJ4b3hkalFMTFRIZkN5Y2lyQ0ZHQV9LbTJZM0J6cWh5UVlFMi1OTDBoVk1EUzFwcTJaSGw3cGYwYjFOOXlkdExLVzBZdUpUaThCSXlMaHd2NmpYZ3A0VFRlZ3p4SDdr0gGAAkFVX3lxTE1HZUhzU3N2V2JZT2RfOW5DOEY0c1VzYlk3dUpyWXNXY24tU2tEZjc4cGNGd2lyalkxT2ZZVk5OZVdkY1EzSXBHMFE5SkdJZHprWl95Sk5SZXJrc180NE1KZmRhcFo5MXdGV2M0aUQyZHRvTDBuaEtCdjFtYmNucmFBUnV2Vml0QlR3WkV2Qkk5QnhtZFQtVEZlZk5hYUNlZzRkall0Z2xPOU1lV3BqRF8yOUpVZWlPWVRSeWZnVlBrQWdEYmdlT0lkaHFyOTBIaTlVT2xDbUN1aDRqcDNuSHhYeW4wSWdtb1NWZzZQUmp0cWprMXhOTXByMUlWbEIwOFg?oc=5",
      "sector": {
       "nombre": "río Pichilo",
       "lat": -37.30311,
@@ -298,6 +294,13 @@
      "sector": null
     },
     {
+     "titulo": "Declaran Alerta Amarilla por crecida del río Chillán en cuatro comunas de la Región de Ñuble - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-07-26T23:31:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUHpEcHlHUk9ZNUZ0dkZVbVo2LVo3LUhIZG5OLXhZMGJFWDd2MDR4RTZhb0JnN2IxbVJzX3l2SjdtbEJGTkZvZnBWeGM1bFFEN1BzZHY3OU5TZjRkZFI0bklFUXJGWlNuWjNkRzROcU12cFlyZDNTZGs3Q1dTZFFqZFJQbE1QZnlrdDdpNDdiaGdoSnZJZXJjV0FjWThiaF9oVDhqMkNDWXMzNWF3ZDczUGZoblpjNWIzOHNMbmxnQUVDWEk?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "SEREMI del Medio Ambiente de Atacama entrega instrucciones para el manejo sanitario de residuos tras sistema frontal - Radio Maray",
      "medio": "Radio Maray",
      "fecha": "2026-07-23T20:21:43+00:00",
@@ -352,19 +355,19 @@
      "fecha": "2026-07-21T23:07:54+00:00",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX2hKTEdoWF9wdzVSbV9YTFZ0X0Q2M3dVWlBaUG5QSW56UHdRRVRoRWtxS205ZUxoSDJaS2hObmpPdzVTTUd2TkJFaE9EczZqdHM4dEdSR2M2c21ZWlo1U01LNEl6aWlDWVN0ZTJ4UlI0YXVoZGhBRUExMjJwcWhpcWU1TF9KQlQ2N2UtUklERXdOLWdvdmRZazAtLUptMmRtRjdUVjYwMTVTMVl0WG9XQ3FsVTBJZE5KNUlyYUgtWndvZmZhOC13?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "Senapred llama a la población a evitar sectores de la provincia de Choapa y la comuna de Tierra Amarilla por crecida de ríos - CNN Chile",
-     "medio": "CNN Chile",
-     "fecha": "2026-07-21T20:53:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUlpIWUFEc1VwVUJtOEJSbzRBb3lXSndrQzB4b2dYbmxtckRIZUdwZUNVSUxRLTl0RktoMDh1SWdrMEJBYmZycE1oOHJrbDh0THE5VFhCamU1WTZhSVRYZ3lBRTlWbWxTYVB2X1otZVR0YUJPVmM5TXp0NmVvYnhYMFE1WUd6dV9iNUlNWEpIQjk4WWNKSHk2cnhQREtuaEsyc2Vxek9qejVMLXp2bUpXTF9FNFRJY2dZQkxPYTE5Vm1QZklMaGl2WkMyVWxicndUcFVibjVyLVdhMWh1WHpmZ0FoMmd2elpPeHBB?oc=5",
-     "sector": null
     }
    ]
   },
   "huasco": {
    "comuna": "Huasco",
    "noticias": [
+    {
+     "titulo": "Hasta el 29 de junio estarán suspendidas las clases en la provincia del Huasco - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-07-27T19:15:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYlNtVkstMDZFZnBtcjRUWVVfQmFFLUtNOUgtcmc3M0tvNlgxVWtxeEVDcF80QjRfUzhmZUtJTFhweXpIN1dQemg3ekRyVjMwc05jYTR4WjJadG9NV1RON3JOVXM3NVdJZUl5dkZVdTF3TGF5NEJMODlwdE9VcFJkR1I5SzJLZlhwQUZYVEhqZHp6S28?oc=5",
+     "sector": null
+    },
     {
      "titulo": "Hasta el 29 de junio estarán suspendidas las clases en la provincia del Huasco - SoyChile.cl",
      "medio": "SoyChile.cl",
@@ -427,13 +430,6 @@
      "fecha": "2026-07-21T15:55:51+00:00",
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNGkzYmRTdkQ3cm1OQ3RCVGFjVTdRa3huUVgwQmc4R3ZCWElwd2otYi1hUF9UYUxOYU9mRDltX0JqS2dFOXBXZTVZdDJtZThXUEFsMURycWFaSHNUN0M1cUdlUVBIa0RNSktodWxHLTVEa0MzbXlMc0JsajZNUGRWUHF2cVByam5nWHFaRjZTVUpwMER4ZDJJMnU0NTd5aGRZVnFQdUV0VjJTRlJacUNtdDBJYUVwVGtvNktkRTlwRFc4SnJSU0Q0RUNiT3FDTjYwdmY0Mk9OelB3a2RDSURjRVFFa3VOcDNHOVJhWA?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "SENAPRED llama a evitar los sectores de Vallenar y Huasco por activación de quebradas - Medio digital El Zorro Nortino",
-     "medio": "Medio digital El Zorro Nortino",
-     "fecha": "2026-07-21T14:32:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSk1qdkRtYzFuTTcwWE5HU1NzcUtqZzJCbXhfUERzRGhENHZRU054OGgwLXIzQXZNSV93Tk03Z1lBYkRZX3pHeDFjTDFLT2NpdjlkTll3WTdXa2lnODJ3alpoUkxtQ3Z4NFFLekN6R3NwZGpqV1VhWXRaNXlyRFV5bHNlNGQyYTRuenc5SlpaTmFDYjg1TXRpUUpMU2txWUh1WXppSVViUXI5RDdUY0xWNTdvWUtfOFZtWUwwalc2U1l4VThTSUE?oc=5",
-     "sector": null
     }
    ]
   },
@@ -445,6 +441,13 @@
      "medio": "Radio Atacama",
      "fecha": "2026-07-23T14:08:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkJxWHFFbVNhcHJPR042eXVNd0Y5TjRBTEF3Qk9EQjlBdjdHLWNjOThQd1FWZzNFc3RRZHF1MVZKMmJXdVc0bnY2UzRpM3Q5SEdpYksyY0JES25NRDZScldYOGNKeGhkZGRybHdBNGJuemV6ZGI4enNLOFdDbmNyM2pjcHoyNkVlNG1aNWxKYkNzWWNUX2RCbW1iUm55bC02dXFCOURmMlg0M2pOMVhqVmxrYW13UU9tYUE?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Ruta 5 desde La Serena al norte permanece cerrada por socavones, rodados y desprendimientos - diarioeldia.cl",
+     "medio": "diarioeldia.cl",
+     "fecha": "2026-07-22T15:37:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ25feDI2eVVmZzd0aENsdEhiRFJGdXV4ZHF4cnotSllfdk9iX1VqbVlWWVN4WVktdWNLeFRWdTVFbGFyWEhuREF2UGhOWHpDN2xaaktuVV94a3U0V0tnNXlGRU5aNks3UUczUWFyOTItWTBSd3lzcENIWG5fMDRFaGhadUtpRmdDeUF1NDh4T0ZzbFVuUFJsVk5wSmVUeGgtdTFaRHNLdS1DV3FlbDRQWlMwUlliT2MxSWRjR3NCaE1uZUV0Y3gyU2NxX1BjcXN2ZmMyV1E3cTRDc3V6?oc=5",
      "sector": null
     },
     {
@@ -501,13 +504,6 @@
      "medio": "VLN Radio",
      "fecha": "2026-07-21T16:44:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbW5DdWVSWlBGVTVFYTlNX3ZYQm1nMFhabXRucFlfbk1mc3o0SWxLengxU0l4UnMwRW82elZUQXVLZEdNQkN1b2JHRWZteEZtb0VUcV9zUF8tczdpUzZuaUlQUklwdFNfNzdiZ0dDX0JjSGxUeTR2cHF3YV9ERmZTVmRqVFZmSmEyYVhBeXNlZ2V0MGtWYUVJX0JzNVBKR1Qtbm1sLWxGMzhkVi1ZRk82Q0dNZzlyM2t6eGFPMzY2ekdPNXZtSXVvU0l2Y0d0OTNCMndtdlV2Rm5icllDcWtISFZVcXRqRVBlY2tMWndhSkw5bk9tYmwyS1BRTWlKdFAtbmd4YzN0WGJ3MkU?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Suspensión de clases para este miércoles 22 de julio: Estas son las comunas incluidas en el anuncio del Gobierno - Meganoticias",
-     "medio": "Meganoticias",
-     "fecha": "2026-07-21T16:12:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS003MnFtNDY3aDFJOHBKY1RaNGR0NXZERUpBNkNhRnYxbklqb0hxYmRQN0RyYWNRbGMzdEhMT053X2xiY0RmM2dCQWdqZ2s1aVctbVM0U19URkw4NzRENzl6TkRKdnYwWmNvTFExNzFydGNsNndjTG8xaTZKRzlTdGNieE40VE9kWjJhanA4M1dNWUtsX1oxOS1VWWpfSWZwWk1mMTh2QzRmTmxwMDRlTHBWYmNuSXNfTWIwb29JQTRaUnZ5aDFLWktrSDc0MlR2TC1wbEhpONIB3AFBVV95cUxPWW1maVI4WGo3YW1COUZEdTVtaGNBemtzSkdYdGQ1UzcwRDdncXpvX2lqRXEwT2F4NVBnYUtFTTMzR2hmcGZKZmNjc1BZcWkyclUxM2EzWVQyMS0yWUdjU0JSaWJBSzNxUVAwc2VtTTFRYmFEOTRNN2dabXkyVVMyVjF1RGNCRzctYzZnUlhuNThBb0ZXdjJpU1pqY1VfbW9CNFVCc0RZcjBaNzF4cFRueUhTRlIxckVTMUNjRlBncTl2cm15S2lHNnEzVlhseXBmN1p1ekZVbmtoQ1Rj?oc=5",
      "sector": null
     }
    ]
@@ -591,6 +587,13 @@
    "comuna": "Illapel",
    "noticias": [
     {
+     "titulo": "Crianceros de Illapel reportan graves pérdidas tras paso de sistema frontal - David Noticias",
+     "medio": "David Noticias",
+     "fecha": "2026-07-26T18:16:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2wzdDlsWG9hSG1KZlJLdFhQMVJ2Uk92WFRDb09RcnY0V2VZXy1lMjZpbEZkV0dzUDRtYlN6bHA4U2VxNlJVMWhlWFk0U095al95YUlnUkRIVk9LR2VwbTZCakc4NDlIRXQ0X2NpT2F6ZkRUUHlaS3ZmazFnQUJJc0NzMkNycWl3V2x4ZjlRSVVmLUNEV1VlZGlvcDVaaTNhVG9KTzd5V2I?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Desborde del embalse Recoleta obliga a suspender el suministro de agua potable en Ovalle - David Noticias",
      "medio": "David Noticias",
      "fecha": "2026-07-22T13:13:41+00:00",
@@ -652,13 +655,6 @@
      "fecha": "2026-07-18T01:40:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMWFkc1h4QWcwbU5qTEt0MFYxZkVtWFpFNk1hcHExUDItSnJVaGliaHpQTDJGaHFOQkhuSTR1cHY3NU5ZRzhNNXp2bEJ2M2M2VzBDVFRBSVB4aHFNRzRHcVZTcFd3c3ZfY2d0aDc2eTduVkFhaGtGS3F6MVJBOEpTRGk3a0xNM0wyaVBjYnhyTWNrdkxWZGNLaU5wQzFDSHJiblprb001aXZ3bjdaSVVxSTlXMjJNOGpIbzNnTXAzcGJqS19JN0hydTRLUFRMWEpubFlrVlRNTGVWU3RfeFg0YVN5NDVuSmhMODVyYTUyenVIM0Ezbnc?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "\"Hasta ayer estaba seco\": crecida del Estero Aucó provoca corte de ruta en Illapel - 24horas",
-     "medio": "24horas",
-     "fecha": "2026-07-17T12:49:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU5KNFhJd0c4dU1IZ21OX2FwZnZoMDhXb1hGU0NkVjdHOTM4bnpkYUNyd19zcDIxZFNtQ2V6bnVNWklJTm9LOTQyb2llVllBUTlBZ1JoY3hNTHBSU0ZHQm9UTmg0R3ltXzk0d2gtZzg0WVg2aUVJaWREVURjTVdNME5rS243bjd0cTFPZkFKa2dQQzhDRWRNVndYcDVSZ2pMUGd2T25ZbmxkU1Z6ZVItcWJ3T0VmaGllU1V1VjdiUDlJQ3BGM2pz0gHMAUFVX3lxTE9rdHM3c2IxaHBwbzhfQ3NOaGJORGo1N0RhYXAxY01RSE90aGJvelg3bWcza3FRV3BoYmVQUHhOMkloRWkzTkJZcWpjWHhvZ2MtV0c4dndsaFJ1QXlkOXBBTmUwUFhLTzVYVjg1cWU0cVZTcjJvUlZxNGNUWng5a3czYUU5ZVhvY3JVWllmc1N2T2o4VzktOHE1djJJc3RQRGVTaTlRN082cVpvOVJ1R0pfSVFlUmdlQ3haRGlKNWtWZklKdjJQdUdsYVctNg?oc=5",
-     "sector": null
     }
    ]
   },
@@ -670,6 +666,13 @@
      "medio": "VLN Radio",
      "fecha": "2026-07-21T15:57:57+00:00",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbnNBdVpzZ0hISldrQVhMQm1McHZyenM5b2M1am9QMnM3ZWxVNDR3WVI2TmNuQ2hELS1UTjhsSklWNTFuZk5xX083UDFuMWRXaHRfb2gtSkhEUWhuOWszVmtqU1oyQzZhNGFpdmc5dXFkZUNuWS1HY2JTY1c5OWU0MVlaZkQxdG4zNkJoMk5EUDhpeHVBLTZ6TnRQSVNkcUdLeEZXRGYwOWxYZGxCcTJqSVViTmFEWjBsUExzckhXQm1BNVpJSkpxZDBxLTJXTzJBQVNLZ29DTDVxNVltM1BGdlZhOFRuM3RkdkRJMFBTZEp5UHhxbGNMR1hSNWJVZw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Ordenan evacuar sector Puente Talca y Matta en La Vallenar por crecida de cauces - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-07-21T15:43:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc3h6ZFJHRjJCc2YwX1NRTFJIb1liZWJXaUVfWmZRLXJxaFpoVGVQVXowWGtWam1TR0NLdFFhWmNuZ3BnSnljWUdYNTRvRjM5V2txbmpIaWgzTEdKalIyTy1GS2IwNEgwQzBZU2FIXzJwNW9DT1FGQmFabVRSdzUxczJVUnptc19ZN2FtZ2JGUFM5eHYycWpzemdlSWp1dU41X05Vc3NCQXdhZFBkd0staElPQlp3RWdqci1OREFpVGtDdWlfbW5LMVdRZjZNcWdNbUxJOXRycGt0WkN0c0lGWEtDTnMxakU?oc=5",
      "sector": null
     }
    ]
@@ -893,6 +896,13 @@
      "sector": null
     },
     {
+     "titulo": "Nuevo balance SENAPRED: un fallecido, 403 damnificados y graves daños en rutas deja el sistema frontal en Atacama - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-07-21T14:24:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbnQ4QlJCUWtpNzctN2g5M0hNSms2dzJrT3hlYmxfY2ktWHhncUN0RzR4bHRSRGg0S1Frdmg2X0V6Ui1VbEJDTF8zekZERTcyV1NrYmxkMUN6OURoUXVFWmZ5TFlPYmRWWWdOMkNTTnVCcE9EYkc5bHhlTFZreXE3MUZhNFNMUThrQ1lsRUZsaWFvUWpHbE1mTVlDcHY5Xy1rVkMzVUxWaGRrYWE3X3FXWllEYXdNdTZvZFV5OVUtd0h0bUEwTE90UW1RdDduTXVIWTB3Wg?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Freirina: Colapsa Puente Maitencillo y caida de vehículo mayor producto de la activación de las quebradas - Atacama Noticias",
      "medio": "Atacama Noticias",
      "fecha": "2026-07-20T11:28:50+00:00",
@@ -904,13 +914,6 @@
      "medio": "24horas",
      "fecha": "2026-07-20T11:26:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcG5uQ3JZUm9yR1BtZEpER0lPazlQRjYwWFRuR0p5MXZMSkpQVVlJSkZNWHU3RW40QW01d0otTW1rSXVNX2VKYTZhS0xmUS12UEE2d2M2NjN1U2J1RTdiWGNsTUpoQnVJWjdWYWNqQzExZEI1NjBPUUs3S3JJaEdtVElCdll0MTTSAYwBQVVfeXFMTmZ3REJmNjkwYko3ZUFKQ3JfRm1KSkRBeTJGUVJqcldCY0EtNEI1MzhlN0IwS0FXa3VtS3RuUHExd2ZhU0lTTnNyOThxREVZTXBuSkRpVTRKMTRvZV8wbF9XYk4wTHpYZ3BtYVFxNHppMEFpY2FmRGxhM01kNzZ0Y2FNMkVZRlhJV3NDa3Q?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alerta SAE: calles inundadas en Freirina por activación de quebrada - 24horas",
-     "medio": "24horas",
-     "fecha": "2026-07-20T00:19:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdTVVSTRjRjBMWUktcWJDOHZubzlVLWNBNHliV0R0ZGVBQmRRYWVyMzlyb0pBWTEtcHZQRXU0LVZPWjFYd2pVb19pM2UtdHcxTjMxT0FSazRVNl9JQldFOVVUOXJNWUJfcWdKTVFfRUpfdWhhX0pRQ1hUd3d4MW1uYTZ5ZTNDTXRWMmVCOGMxVllYNXY2SXNwUUIzT1FFNVRSN2xERnR5UU5wNkt2bmZMQkg1bHppTDBV0gG-AUFVX3lxTE0wYU13OHFCS0IwY09vY0M5NXRvTnBBVkN2WnR6aElGNjJVandCSlRxajB2RTBGVlFtSklRT0prZ0VyQ3AyQTZwQ2ltQXJvYVBuOHZWUzlYRkVKT2JaUjNaalNxSjd4REQzdHp5TzdkWThXTkNONG04R0s4bV8tSFIzb19mRDBQWEowTWtqcGs1MkIxQ2lrUFJ1Wk9hRGd2ME9OdWFHNTBodXYwZG5NeWFfM1RWVy1FRWZ5Q2ViSFE?oc=5",
      "sector": null
     }
    ]
@@ -1019,6 +1022,13 @@
      }
     },
     {
+     "titulo": "Balance Aguas del Valle ¿Se cortará el agua? - La Serena Online",
+     "medio": "La Serena Online",
+     "fecha": "2026-07-19T12:55:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFpoSmJaeFU5anZYQjE5UlVXZWNGR1A3UHZQN1YzcGFUazFQbTU2c2E0M3hpNmdrdWxUc0FDQjVPZGF1akRMOWprblpYaVNNTDJYT09zdzhPc1BxVGhNR3Y3dUhLa2xDZkZmLWhsUVZpUWpqWUU3bHlnVnBRTGM1aW1EeC1hMzA?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Alertas SAE por sistema frontal: revisa todas las evacuaciones y recomendaciones de Senapred de este sábado - radiomodelo.cl",
      "medio": "radiomodelo.cl",
      "fecha": "2026-07-18T13:05:08+00:00",
@@ -1030,13 +1040,6 @@
      "medio": "El Mostrador",
      "fecha": "2026-07-18T13:00:40+00:00",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2tET0ZKZDgwR0V0bXd0MC1zV19kLWhiOHRlY0pfbDExLUg2dWVrdzZGZGFuc2FMQ2tMZDZhUmVVZE5ZWHVjdFZhOVM2ZFQ1QWZFSzJIY2k4RDRMTl9oVFlWdUY2TzVuM1lGWjZCMU5aS1UwYTVrVDY4SzVENlNIZzNfZ1dlU0s1WUVJVTA0ZWdoSVFJOW1tOXV3elViU3FJQlNZNlh3SEdHbzFOdkRLb3RqbmhLVGVRc2Q5VWN3MC1yZjJ3MWtrTERpQ25jZlhmYkgyajJ4LWJqZmpjRzlyczRBamg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Emiten alerta SAE por crecida del estero de Reñaca y desborde del estero El Garretón de Nogales - G5noticias",
-     "medio": "G5noticias",
-     "fecha": "2026-07-18T10:44:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeFhuVlZwMDRUUVlqQ2xGTzVtUFUtOHBHY3hKcHNMSkxrR1RkaTVFbmNnZkY0MkwtcnRhUmFoUmR0TDBZeXl0WTZhaXFVLTkxWGhxQm14QTg0M0hpSENOUHdNcnJhZkhleXdzUUVpN3hCUzRvRkI3eDRkOWdvcEkwbmNxbUpKZHJIT2lnZGU4VjdwOXVqS01BTXMzWlBISE9uVEhlVUJlUXltQ1VNZkJuRGUyVkp4Y0xucmxxX1BlWHA4OHFWS3BQRg?oc=5",
      "sector": null
     }
    ]
@@ -1209,6 +1212,13 @@
      "sector": null
     },
     {
+     "titulo": "El temporal dejó comunas aisladas y miles de afectados en Chile - Diario Huarpe",
+     "medio": "Diario Huarpe",
+     "fecha": "2026-07-21T14:15:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUlpYQ2REQXQ1YjVPX3pSQ3N4OTdyOXN3Zy1JOW56bGZPb0hkTnQwSFV5dUhjYUpiTEJYUjZzTXhhTGp1RkY5WnBFNVlpVERlUUxLWmtmTVhKTEtxdXU0UGRRWEJjdHZERVBDRk5rdThIMWRJQVk2aDVRY1ZBM0RicllyMFFhMzFYazZ0d2tZRjFtWHVnSUFhVUpySE5DelNXSnk2LW9YQjJBejlVMFc0OXBZd09ub0pIaXY1Zkk0ajZySFE?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Combarbalá y Punitaqui en aislamiento total, Ovalle despliega red de albergues y Monte Patria combate colapso vial - madero.cl",
      "medio": "madero.cl",
      "fecha": "2026-07-21T14:14:20+00:00",
@@ -1256,13 +1266,6 @@
      "fecha": "2026-07-17T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMDFUaXg1V1h3WEhER0M4Y0s2SUF6QTNLVHVHOGtDbUJlSDI2TVRGNjhfa2VkZjVDbFQyaDFidGN1R09HOE1Ocm9FMFN2c3hkUWZzRFFJNlpxS3k1M0tpSkJxU2xJYUoxcFZmN3pqMDBHT1BvcDBoWTN1b2xiaHlmTHl3bmIyX0VCWjhwMl9BMFNZS29jV3AxbFpWdlZ5dDA2M0pacTczR2YtdDlnNl92dWFPaXh6UFNKS000dU05eFJpYUZKNG9pNVVNT0pQUXh0R1Fv0gHYAUFVX3lxTE9CMHBIYXkxZ0dpNHMxQm9TZS1hQ0dMWTJoOHJ2TXRNem1NU2JmdUhDWTB3X0JIY2Rib0VNWlhNdzdhN0FieGdEZ3laZHE1ZGw0TXc1V3FOemFzNG8zWFFxOGotTkMzSHFhVnRJT2NQZU9hNTFvYzJBM3BQZkxsaGhMbDFUbHZhd2kzVFphUks5VTA3RTRTX3FSWDNFQy1sM1htRkc4cFQxclpIX3Zkcnh5eFFmS2J3a3NJT08zdm5mcDlwaE9fTjl6bmNaTnFCa0kzVEgtU0ZsUQ?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "'De un momento a otro se transforma en río': Gustavo Huerta en Punitaqui y posible crecida del estero por intenso sistema frontal - Meganoticias",
-     "medio": "Meganoticias",
-     "fecha": "2026-07-16T22:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYmU0ME1xWVVlcVEzT1RnYkdTLUJBMUZhdElCX3VXQXJDdHB1OTNDcVpXTlhnOEJHMjgxLUhMWWdmSVhUWUNjOHd6N2hNbDRyRXpKT21CN1Q2QVN3VmZlU3J1R1NGalloOEVWNkxjVHhqNndpZjVFT0ZRUmh4YjltX1Z5ZmhycS1JYjd6MFNiMmNYQVc0SWl4M1NpNl84NzA4S1d3c3BOSVU2Q2EtZHFNamxCVHp3UU8weVFsdkRzZnlPQy1ZSTRLc1JQRHd0NVRUOG1weVUyd0NwaW_SAeABQVVfeXFMTWp2aFJrWlZraWhHU1Z6MTNXaHVLMmRNTEJqeFhRY2ZHUTBoWmxPdDBjNXBVTkpiMEpjeUYxT24yM1d5OTdoMkVhbkw3R2puNE9vY1I3b3RVYlZVWnoyQ185ZUp6ZTVRRmJIS1VQV2xPZ1ZKRGQ3U2pmTmVuWG9McndZLUZuSGlZdTZZOGZyMTNMcEZWN0dua2NsaU94Y1lVNHUxSDZmai1iQXNJbm4tZFhZVU9HY21uYVFVUW1aTVNrMGYtTHB6VWR0SVMtR0F1R05WNkpEWUpKN1g1RHo1Skg?oc=5",
-     "sector": null
     }
    ]
   },
@@ -1298,6 +1301,13 @@
      "sector": null
     },
     {
+     "titulo": "Gobierno confirma hallazgo sin vida de trabajador CGE desaparecido durante el sistema frontal en el Maule - auroranoticias.cl",
+     "medio": "auroranoticias.cl",
+     "fecha": "2026-07-19T20:06:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb1FEQjVQNjlfSGlhS1daMlJqck5acDdXc2lqWndzSk9ILVlSaTBUVHkzaXN1RzJwXzgzWE1PWWJ0TjluNHVROXc1aWoyQV9LN0tnOV9WZEtFUnJQd0stOUVlTWRnWkZrX21yb1RiYzQ2azBTVzdkQVlWODh6bGxHMW51WWZHZ1ItUF9EZElwT3JiQXBMSEtpNjBCYjFvN29QREhhaG5iNUM5OEFKWEVwRXo3X3pjcnowb29BU2MtYkY4NVRCQzd1cg?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Sistema frontal obliga a activar evacuación por SAE en sectores de Vallenar y Vicuña por riesgo de desbordes - Radio Agricultura",
      "medio": "Radio Agricultura",
      "fecha": "2026-07-18T12:20:57+00:00",
@@ -1326,17 +1336,10 @@
      "sector": null
     },
     {
-     "titulo": "\"Ustedes son responsables\": Desbordes endurece crítica al CMN e insiste que \"no debería existir\" - Canal 9 Bío Bío Televisión",
-     "medio": "Canal 9 Bío Bío Televisión",
-     "fecha": "2026-06-17T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUlBpUHA0WHB2Sl9ocmlUbmNHSEtnX21qOVB1UzdkeklYZGMyYnY3Z1B1OE9xQWJxV3F3TV82NmoxczgtTFZCUkZGbDJHbWVtbDVRRE82QmVLc0t2a3M3OEhhMkFaWnB6aURsdGp4RHJ2cnN5SUpuamFiTlBaNi01SWxOTFJ5dUxwcVduNVZuLUdGRlRTU3ZDUGVuYnhCRGtkcXl5aDhRN3ctSG5mRDZEcXp6eWtSdEU5aVZud0xzcDZvakdBRk5lazdWUWpvRjA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "¿Cierre del Parque Forestal o enrejar la Fuente Alemana? Monumentos Nacionales pide aclarar \"prioridad\" de Desbordes - Diario Usach",
-     "medio": "Diario Usach",
-     "fecha": "2026-06-16T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVHFRZXRzYjM0ZHIyQVRwRnpwU1hub05XSHhrMDVqdE9DR3JrNEQ3SEZteENETklsSzJMQUd3R082VTgyb2s1TGUzVDRZMDJ2Z0JFRjhuS3JYel91Q3VObnlmeE1rY2toOF9tTWpLT1kxa2w2Yl9hQUd6RUE5RzdXNlNvUjBMaUc3Sl9Oa2ZZemxIR29SQmtj?oc=5",
+     "titulo": "Lluvia en Santiago: conoce los puntos críticos que identificó la Gobernación Metropolitana en cada comuna - Canal 13",
+     "medio": "Canal 13",
+     "fecha": "2026-07-15T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQblhSbXFnSVl5Ty1BUDFTOTRJTUJmV1hCcF90Z3RIUUhTclZCVnhNYTR5ZWkzV1RYVDIzdndkMXNKd1dLSGtrbngzNlh6VEtaOFA4cm1uSGNEbXB3SnZ3WTJFc0tsd2ZDbGFxYkRYT3pGVTFyblZkMzlQTzFLQ29Rajd1THZxdW5HaDlldnRobUN4TjRXdHNoa1hUWTlMYTdudEwxNGNsLW5tLWpEQ3RCaWZGYw?oc=5",
      "sector": null
     }
    ]
@@ -1401,17 +1404,17 @@
      "sector": null
     },
     {
+     "titulo": "Se mantiene operativa la Ruta 5 Norte en Atacama tras frente meteorológico, pero llaman a la precaución por activación de quebradas - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-07-19T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbXJaUWtBcWktRUJVYkpodkUzZmpnSWJLRTdVTU85Y3R2Und6MXQ1aFhJcEdOdUwyZnhZaUE0WUQ4UE0wOW1Ucml5UlZzYS14b1VPYk1TczVpTWhQOHpFYlE2bjJleUx1Q3c5TE5jNVhodGNURXpMSnBvQ3BRYWI4ZnBOc2ZtYWVvN3VFbGp6a29YQUY2OE9oaUViOEhsYUJ2RXFpU1Y0ZzRyWEg3Y2pVZVFFSXF4eWwyQVhUSVB3RE00Nk1fU0hlajlaMEdacFAwU3U5dnhUVzNhUThpSks1VlBhUzVvZWlRU0huQkh3?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Activan alerta SAE en el sector de Nueva Caldera y al interior de Tierra Amarilla - Medio digital El Zorro Nortino",
      "medio": "Medio digital El Zorro Nortino",
      "fecha": "2026-07-19T00:59:47+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOTV4aVdLRENoU0tnalFIWEwwRk5pRXFmUHI1SWtIU3JyQVVRb0VGS3k0SklaZnI5Ym1wazV6a0VOcndabDZaLU1oZy1BUFBnNWlZNnk5ZDU3VU9YVFVJSDhJOGdiN0luWGpueUNIV1dHRGdRel83R1Z5bHNubGhXTVpZMTdxM29jT2ZmZmFFd2I3OEN3NS1KUGlsS29YenhFc3g1THhEYXdObnRaUmpIRk1hckFaODl1MUNFMXhRRzc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alerta SAE: Senapred ordena evacuaciones en las regiones de Atacama y Coquimbo - Radio La Señal",
-     "medio": "Radio La Señal",
-     "fecha": "2026-07-19T00:43:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbjRsZE4tX1RESEZRM2dsaXRYS2QwNFREb29fTWVDZmxXOVJRa3Zfb05RQWRSRFFuQnRldEFoMkZqYnhQUERJQm9LS3JfVlVPYzcwZ3RwSm1MazQyTmxPTlV5d1pVUEhXQURfWl9lVy1XcTByUjBrSmgtODRJNndYT0JTUFlQdXpWQXdEODJjUFpjTUY5ZlBSYW5pWVlEOVZHeXlBdA?oc=5",
      "sector": null
     }
    ]
