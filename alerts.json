@@ -1,13 +1,111 @@
 {
- "generado": "2026-07-29T16:05:44+00:00",
+ "generado": "2026-07-29T20:17:00+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 25,
+ "total_vigentes": 23,
  "alertas": [
+  {
+   "id": "faddd8039b72",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la comuna de Taltal por precipitaciones",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Aviso A367 Precipitaciones normales a moderadas en Paposo al sur costa de la Región de Antofagasta (2 - 7 mm). 31-07 31-07 Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica, los montos de precipitación (mm) y la altura de la isoterma 0 °C (m. s. n. m.) son los siguientes: Zona Sector 30 de julio 31 de julio Litoral Al norte de Paposo 0,5 - 1,0 0,1 - 0,3 Al",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-29T15:39:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-taltal-por-precipitaciones-2026-07-27-17-41-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "29b104b7fad1",
+   "nivel": "ROJA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Aviso A365-3 Viento normal a moderado en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera (25 – 80 km/h). 30-07 01-08 Aviso A364-3 Precipitaciones normales a moderadas en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera de la región. 31-07 31-07 En consideración a estos antecedentes y en coordinación con la D",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-29T14:52:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "885977e674be",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente los siguientes alertamientos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Aviso A364-3 Precipitaciones normales a moderadas en precordillera y cordillera de la región. 30-07 02-08 Aviso A365-3 Viento normal a moderado con probabilidad de ventisca en cordillera de la costa, valle, precordillera y cordillera de la región. 30-07 01-08 Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica, los montos de precipitación (mm), las velocidades del viento",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-29T14:45:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-07-13-12-33-07",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1027ec050d02",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Amarilla para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Alerta AA114 Precipitaciones moderadas a fuertes en litoral de la región. 30-07 30-07 Aviso A364-3 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. 30-07 01-08 Aviso A365-2 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera 30-07 01-08 &nbsp;&nbsp;&nbs",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-29T13:50:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "0953ce9df155",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la comuna de Juan Fernández por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la comuna de Juan Fernández: Alertamiento Pronóstico Inicio Fin Alerta AA115 Viento moderado a fuerte (60–80 km/h) en el Archipiélago Juan Fernández. 29-07 29-07 Aviso A371 Precipitaciones normales a moderadas (30–40 mm) en el Archipiélago Juan Fernández. 29-07 30-07 En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED declara Alerta Temprana",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-29T12:31:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-juan-fernandez-por-evento-meteorologico-2026-07-29-12-46-03",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e05a9e2df59d",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Amarilla para las comunas de El Carmen, San Ignacio, San Carlos y San Nicolás por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) , las estaciones hidrométricas de la región registran un descenso en los caudales, alcanzando valores por debajo de los umbrales de alerta. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED cancela la Alerta Amarilla para las comunas de El Carmen, San Ignacio, San Carlos y San Nicolás por crecida, que se mantuvo vigente desde el 26 de julio de 2026.",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-07-29T12:05:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-el-carmen-san-ignacio-pemuco-y-bulnes-por-crecida-2026-07-26-22-20-48",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "9cf0658bce47",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Roja para las comunas de San Fabián y Ñiquén por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) , las estaciones hidrométricas de la región registran un descenso en sus caudales, alcanzando valores por debajo de los umbrales de alerta. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED cancela la Alerta Roja por crecida para las comunas de San Fabián y Ñiquén, que se mantuvo vigente desde el 26 de julio de 2026.",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-07-29T12:01:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-fabian-y-iquen-por-crecida-2026-07-26-19-21-53",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "be5c56e3f542",
    "nivel": "ROJA",
@@ -65,20 +163,6 @@
    "url": "https://t.me/SenapredChile/1450",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "29b104b7fad1",
-   "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC ), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Aviso A365-2 Viento normal a moderado en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera (25 – 80 km/h). 30-07 01-08 Asimismo, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Aviso A347-5 Viento normal a moderado con probabilidad de ventiscas en cordillera (25 – 70 km/h). En consider",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-29T00:14:02.022-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "f9aa0043bad0",
@@ -165,20 +249,6 @@
    "regiones_extra": []
   },
   {
-   "id": "db81f1f406a0",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Alerta AA111 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en valle, precordillera y cordillera. 28-07 28-07 Aviso A347-5 Viento normal a moderado con probabilidad de ventisca en litoral, cordillera de la costa, valle, precordillera y cordillera. 26-07 28-07 Aviso A364-1 Precipitaciones normales a moderadas en litora",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-28T15:16:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "e1f3a2baa0ea",
    "nivel": "ATP",
    "tipo": "viento",
@@ -223,20 +293,6 @@
    "sae": true
   },
   {
-   "id": "49a79ac34501",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para el territorio continental de la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Aviso A347-5 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 26-07 28-07 Asimismo, se informa que la DMC ha cancelado el siguiente alertamiento meteorológico según el siguiente detalle: Alertamiento Pronóstico Aviso A349 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la región. Por otra par",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-28T10:14:07.077-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-de-valparaiso-territorio-continental-por-evento-meteorologico-2026-07-14-18-04-30",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "bf6adc7461c6",
    "nivel": "ATP",
    "tipo": "marejadas",
@@ -265,49 +321,6 @@
    "regiones_extra": []
   },
   {
-   "id": "a28d05cd856e",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se  modifica cobertura Alerta Amarilla para las comunas de El Carmen y San Ignacio por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “Río Diguillín en San Lorenzo”, mantienen un incremento en su caudal y permanecen con valores de umbral amarillo. En consideración a estos antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Amarilla para las comunas de El Carmen y San Ignacio por crecida , que se mantiene vigente desde el 26 de julio y hasta que las condiciones así lo ameriten. Con esta Alerta Amarilla, se mantendrán alista",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-27T18:19:02.022-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-el-carmen-san-ignacio-pemuco-y-bulnes-por-crecida-2026-07-26-22-20-48",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2b978f50f812",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Se modifica cobertura Alerta Roja para las comunas de Pinto, Yungay, Pemuco, Bulnes, Quillón, Ránquil, Portezuelo, Coelemu, Trehuaco, Coihueco, Chillán y Chillán Viejo por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Itata en Puente Coelemu” indica un incremento en su caudal, alcanzando valores de umbral rojo , lo que supone un aumento del riesgo para la población cercana a estos cursos de agua. Cabe señalar que, las estaciones “ Río Niblinto antes canal alimentador Embalse Coihueco ” y “ Río Chillán en Esperanza 2 ”, mantiene su caudal en nivel umbral rojo. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-27T17:47:04.044-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-pinto-coihueco-chillan-y-chillan-viejo-por-crecida-2026-07-26-19-07-13",
-   "origen": "senapred_web",
-   "regiones_extra": [],
-   "sae": true
-  },
-  {
-   "id": "f178e430446c",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Temprana Preventiva para la comuna de Taltal por precipitaciones",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC ), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Aviso A367 Precipitaciones normales a moderadas en Paposo al sur costa de la Región de Antofagasta (2 – 7 mm). 31-07 31-07 En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva para la comuna de Taltal por precipitaciones, vigente a contar de hoy y hast",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-27T17:00:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-taltal-por-precipitaciones-2026-07-27-17-41-04",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "7a19225ad897",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -321,20 +334,6 @@
    "origen": "senapred_web",
    "regiones_extra": [],
    "sae": true
-  },
-  {
-   "id": "6cbe2302f55e",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente los siguientes alertamientos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Aviso A347-5 Viento normal a moderado con probabilidad de ventisca en cordillera. 26-07 28-07 Aviso A363 Probables tormentas eléctricas en precordillera y cordillera. 27-07 27-07 Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica, los montos de precipitación (mm), las velocidades del viento (km/h) y la altura de la isoterma 0 °C (m. s. n. m.) son los siguientes: Precipi",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-27T08:22:11.1111-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-07-13-12-33-07",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "af18e0b3c716",
@@ -379,18 +378,18 @@
    "regiones_extra": []
   },
   {
-   "id": "212dcfc3310d",
+   "id": "97ac4301c51e",
    "nivel": "ROJA",
    "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para las comunas de San Fabián y Ñiquén por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ Río Perquilauquén en San Manuel” , indica un incremento en su caudal , alcanzando valores de umbral rojo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED cancela la Alerta Amarilla , que se mantuvo vigente desde hoy domingo 26 de julio y declara Alerta Roja por crecida para las comunas de San Fabián y Ñiquén, vige",
+   "titulo": "¡ATENCIÓN! Por alerta de crecida del Río Perquilauquén #SENAPRED hace un llamado a evitar acercarse a la ribera de dicho río en las comunas de #SanFabián y #Ñiq",
+   "descripcion": "¡ATENCIÓN! Por alerta de crecida del Río Perquilauquén #SENAPRED hace un llamado a evitar acercarse a la ribera de dicho río en las comunas de #SanFabián y #Ñiquén, Región de Ñuble.\nPara reforzar el alertamiento preventivo, #SENAPRED activó mensajería #SAE.",
    "region": "Ñuble",
    "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-26T21:39:27.2727-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-fabian-y-iquen-por-crecida-2026-07-26-19-21-53",
-   "origen": "senapred_web",
-   "regiones_extra": []
+   "estado": "CANCELADA",
+   "ts": "2026-07-27T01:27:10+00:00",
+   "url": "https://t.me/SenapredChile/1442",
+   "origen": "telegram",
+   "sae": true
   },
   {
    "id": "1883a2b5fd8c",

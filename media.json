@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-29T16:05:49+00:00",
- "desde": "2026-07-27T16:05:45Z",
+ "generado": "2026-07-29T20:17:05+00:00",
+ "desde": "2026-07-27T20:17:01Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "la union": {
@@ -15,25 +15,7 @@
      "canal": "origentv",
      "publicado": "2026-07-28T21:01:05Z",
      "live": false,
-     "score": 4.41,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "s-l3becCt6I",
-     "url": "https://www.youtube.com/watch?v=s-l3becCt6I",
-     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
-     "canal": "La Serena Drone",
-     "publicado": "2026-07-27T17:41:22Z",
-     "live": true,
-     "score": -5.0,
+     "score": 4.06,
      "verificado": false,
      "embeddable": true
     }
@@ -51,7 +33,7 @@
      "canal": "24 Horas TVN Chile - Red Maule",
      "publicado": "2026-07-28T15:32:34Z",
      "live": false,
-     "score": 5.95,
+     "score": 5.6,
      "verificado": false,
      "embeddable": true
     },
@@ -62,58 +44,7 @@
      "canal": "VLN Radio",
      "publicado": "2026-07-28T12:38:46Z",
      "live": false,
-     "score": 5.71,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "nuble": {
-   "comuna": "Ñuble",
-   "region": "Ñuble",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "7h1duPCFGGs",
-     "url": "https://www.youtube.com/watch?v=7h1duPCFGGs",
-     "titulo": "Transmisión en vivo de Ferias CAR Ñuble Ltda.",
-     "canal": "Ferias CAR Ñuble Ltda.",
-     "publicado": "2026-07-29T12:53:28Z",
-     "live": true,
-     "score": 7.73,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "kyG9FWcWdN8",
-     "url": "https://www.youtube.com/watch?v=kyG9FWcWdN8",
-     "titulo": "🚨 ALERTA ROJA en Maule, Ñuble y Biobío: Crecida de ríos pone en riesgo a varias comunas",
-     "canal": "Sabes Radio",
-     "publicado": "2026-07-27T22:01:15Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "1sJx28dWVQY",
-     "url": "https://www.youtube.com/watch?v=1sJx28dWVQY",
-     "titulo": "Alerta roja en Ñuble: Gobernador advierte por crecida de ríos y llama al MOP por personas aisladas",
-     "canal": "Bio Bio",
-     "publicado": "2026-07-27T19:00:14Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "kyn6W-Yusew",
-     "url": "https://www.youtube.com/watch?v=kyn6W-Yusew",
-     "titulo": "Alerta Roja en Maule y 3 comunas del Biobío por desborde de ríos: Alerta por crecida de río Andalien",
-     "canal": "CHV Noticias",
-     "publicado": "2026-07-27T18:30:20Z",
-     "live": false,
-     "score": -4.0,
+     "score": 5.36,
      "verificado": false,
      "embeddable": true
     }
