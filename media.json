@@ -1,13 +1,42 @@
 {
- "generado": "2026-07-29T20:17:05+00:00",
- "desde": "2026-07-27T20:17:01Z",
+ "generado": "2026-07-29T23:48:40+00:00",
+ "desde": "2026-07-27T23:48:37Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "ML7VbqVs9t8",
+     "url": "https://www.youtube.com/watch?v=ML7VbqVs9t8",
+     "titulo": "🌿 Después de la lluvia,los árboles bailan con el viento #Chile #Coquimbo #Nature #SlowLiving",
+     "canal": "Amandi’s simple life | Chile ",
+     "publicado": "2026-07-29T23:10:30Z",
+     "live": false,
+     "score": 5.95,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "la union": {
    "comuna": "La Unión",
    "region": "Los Ríos",
    "alerta": "ROJA",
    "videos": [
+    {
+     "id": "9AEpNU0957A",
+     "url": "https://www.youtube.com/watch?v=9AEpNU0957A",
+     "titulo": "🔴 CULTO EN VIVO 29-07-2026 |  MMM Central Montevideo Uruguay",
+     "canal": "MMM Montevideo Uruguay",
+     "publicado": "2026-07-29T21:43:58Z",
+     "live": true,
+     "score": 4.83,
+     "verificado": false,
+     "embeddable": true
+    },
     {
      "id": "N5yyc8tM5Wk",
      "url": "https://www.youtube.com/watch?v=N5yyc8tM5Wk",
@@ -15,7 +44,7 @@
      "canal": "origentv",
      "publicado": "2026-07-28T21:01:05Z",
      "live": false,
-     "score": 4.06,
+     "score": 3.77,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +62,7 @@
      "canal": "24 Horas TVN Chile - Red Maule",
      "publicado": "2026-07-28T15:32:34Z",
      "live": false,
-     "score": 5.6,
+     "score": 5.31,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +73,7 @@
      "canal": "VLN Radio",
      "publicado": "2026-07-28T12:38:46Z",
      "live": false,
-     "score": 5.36,
+     "score": 5.07,
      "verificado": false,
      "embeddable": true
     }
