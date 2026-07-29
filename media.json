@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-29T10:17:25+00:00",
- "desde": "2026-07-27T10:17:21Z",
+ "generado": "2026-07-29T16:05:49+00:00",
+ "desde": "2026-07-27T16:05:45Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "la union": {
@@ -9,24 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "93QEXtlrM0A",
-     "url": "https://www.youtube.com/watch?v=93QEXtlrM0A",
-     "titulo": "LA UNIÓN 👉👈. HACE LA FUERZA  está en vivo buenas madrugadas",
-     "canal": "LA UNIÓN 👉👈. HACE LA FUERZA ",
-     "publicado": "2026-07-29T00:57:36Z",
-     "live": true,
-     "score": 7.22,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "N5yyc8tM5Wk",
      "url": "https://www.youtube.com/watch?v=N5yyc8tM5Wk",
      "titulo": "Situacion actual rio llollelhue en La Union",
      "canal": "origentv",
      "publicado": "2026-07-28T21:01:05Z",
      "live": false,
-     "score": 4.89,
+     "score": 4.41,
      "verificado": false,
      "embeddable": true
     }
@@ -50,103 +39,30 @@
     }
    ]
   },
-  "los rios": {
-   "comuna": "Los Ríos",
-   "region": "Los Ríos",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "txctcy2dzlU",
-     "url": "https://www.youtube.com/watch?v=txctcy2dzlU",
-     "titulo": "Los Ríos,Esmeraldas, Guayas,El Oro,Pichincha, Santa Elena,Santo Domingo de los Tsáchilas y Orellana.",
-     "canal": "UnionRadio580amEC",
-     "publicado": "2026-07-28T03:00:31Z",
-     "live": false,
-     "score": 5.39,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "zE3oyoRNwjg",
-     "url": "https://www.youtube.com/watch?v=zE3oyoRNwjg",
-     "titulo": "AUTORIDADES DE LOS RÍOS INFORMAN DE ALERTA ROJA Y SUSPENSIÓN DE CLASES",
-     "canal": "Atv Valdivia",
-     "publicado": "2026-07-28T03:22:18Z",
-     "live": false,
-     "score": 3.42,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "HQ6MIIjZx7s",
-     "url": "https://www.youtube.com/watch?v=HQ6MIIjZx7s",
-     "titulo": "Transmisión en directo de Los Rios Al Dia",
-     "canal": "Los Rios Al Dia",
-     "publicado": "2026-07-28T02:32:51Z",
-     "live": false,
-     "score": 3.35,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "AY3ZDP0wX_s",
-     "url": "https://www.youtube.com/watch?v=AY3ZDP0wX_s",
-     "titulo": "Capilla Santo Domingo. Colonia Crespo. Dpto. Parana. Entre Rios",
-     "canal": "Anibal Gonzalez Comas",
-     "publicado": "2026-07-28T01:18:46Z",
-     "live": false,
-     "score": 2.25,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "maule": {
    "comuna": "Maule",
    "region": "Maule",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "gDa6uk2l07Y",
-     "url": "https://www.youtube.com/watch?v=gDa6uk2l07Y",
-     "titulo": "ALERTA en Licantén por desborde de río Mataquito: Ordenan evacuar la zona - Contigo en la Mañana",
-     "canal": "Chilevisión",
-     "publicado": "2026-07-28T14:52:05Z",
+     "id": "A6fde5LsMkE",
+     "url": "https://www.youtube.com/watch?v=A6fde5LsMkE",
+     "titulo": "Alerta SAE activa evacuación en sector Placilla de Licantén | 24 Horas TVN - Red Maule",
+     "canal": "24 Horas TVN Chile - Red Maule",
+     "publicado": "2026-07-28T15:32:34Z",
      "live": false,
-     "score": 4.38,
+     "score": 5.95,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "4VvTDsiJ9rU",
-     "url": "https://www.youtube.com/watch?v=4VvTDsiJ9rU",
-     "titulo": "último minuto, región del maule, evacuacion  en licanten por posible desborde de río mataquito",
-     "canal": "Daniel Garcia",
-     "publicado": "2026-07-27T23:15:52Z",
+     "id": "TTKlaqOArIA",
+     "url": "https://www.youtube.com/watch?v=TTKlaqOArIA",
+     "titulo": "Alerta en Licantén: Río Mataquito se desborda en Placilla",
+     "canal": "VLN Radio",
+     "publicado": "2026-07-28T12:38:46Z",
      "live": false,
-     "score": 3.08,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "TLA3P8xuUKg",
-     "url": "https://www.youtube.com/watch?v=TLA3P8xuUKg",
-     "titulo": "Alerta Roja para las regiones de Ñuble y del Maule por peligro de desborde de ríos",
-     "canal": "Cooperativa Podcast",
-     "publicado": "2026-07-27T19:06:24Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "kyn6W-Yusew",
-     "url": "https://www.youtube.com/watch?v=kyn6W-Yusew",
-     "titulo": "Alerta Roja en Maule y 3 comunas del Biobío por desborde de ríos: Alerta por crecida de río Andalien",
-     "canal": "CHV Noticias",
-     "publicado": "2026-07-27T18:30:20Z",
-     "live": false,
-     "score": 3.0,
+     "score": 5.71,
      "verificado": false,
      "embeddable": true
     }
@@ -157,6 +73,28 @@
    "region": "Ñuble",
    "alerta": "ROJA",
    "videos": [
+    {
+     "id": "7h1duPCFGGs",
+     "url": "https://www.youtube.com/watch?v=7h1duPCFGGs",
+     "titulo": "Transmisión en vivo de Ferias CAR Ñuble Ltda.",
+     "canal": "Ferias CAR Ñuble Ltda.",
+     "publicado": "2026-07-29T12:53:28Z",
+     "live": true,
+     "score": 7.73,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "kyG9FWcWdN8",
+     "url": "https://www.youtube.com/watch?v=kyG9FWcWdN8",
+     "titulo": "🚨 ALERTA ROJA en Maule, Ñuble y Biobío: Crecida de ríos pone en riesgo a varias comunas",
+     "canal": "Sabes Radio",
+     "publicado": "2026-07-27T22:01:15Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    },
     {
      "id": "1sJx28dWVQY",
      "url": "https://www.youtube.com/watch?v=1sJx28dWVQY",
@@ -176,24 +114,6 @@
      "publicado": "2026-07-27T18:30:20Z",
      "live": false,
      "score": -4.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "arauco": {
-   "comuna": "Arauco",
-   "region": "",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "69jD0fIhGqw",
-     "url": "https://www.youtube.com/watch?v=69jD0fIhGqw",
-     "titulo": "Alerta roja preventiva por desborde del río Pichilo en comuna de Arauco",
-     "canal": "Meganoticias",
-     "publicado": "2026-07-27T14:02:56Z",
-     "live": false,
-     "score": 7.0,
      "verificado": false,
      "embeddable": true
     }
