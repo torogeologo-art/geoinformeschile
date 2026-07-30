@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-30T09:38:31+00:00",
+ "generado": "2026-07-30T16:03:39+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -681,6 +681,13 @@
    "comuna": "La Serena",
    "noticias": [
     {
+     "titulo": "Más de 3 mil viviendas afectadas y 31 destruidas: Balance preliminar que deja el Sistema Frontal en La Serena - La Serena Online",
+     "medio": "La Serena Online",
+     "fecha": "2026-07-30T14:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZi1LcjB4N0JiUUdZYWtVdXpuTUNHcGtCYVVpai1fQlBISXVNOG5adnN1OHpUZ1gzcGpvdTRmVERXeUF0OUJRdXhOSFRXa0Y0cTlRZ1E3UHZHa21qblF4cjRONjZOemVoZEJvRURjcFJzb0hmSTFubnpHdEZVOHJZYm12Q1FBSDRnaEI2RVNPcnlLaTRPYXR1VENJRjd1LWN4VmxYM1Z1TjZXdWdDQkh5aU1CbFdaWHZCcDQwODg0WjhkdndLQ0VITjBqTXRBSlZjUFhGVlp6d2VXUkdESHk0?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Estragos por las intensas lluvias: Zonas rurales de La Serena continúan aisladas y catastran más de 3 mil hogares dañados - Radio Riquelme",
      "medio": "Radio Riquelme",
      "fecha": "2026-07-29T15:25:51+00:00",
@@ -741,13 +748,6 @@
      "medio": "0264Noticias",
      "fecha": "2026-07-22T15:14:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQS1ZkZHVrWXpnejB4Nmd5VGFvQ0ZlaS1wMEJEZUhWeFNNTElYUTlCUk1yU0ZMYnVsNWVRanppOTUwellHWVd5aWVPMTJwdndVSy1IR0xFNHVPdzVYVGFySG53R3dQZE1GMmRnWmsxTHF0Qkp2SGh4RnR0U2dfeC1YSXNSY0x1a0hNY3RMdlA1T2gzRDh4UjlLVGZTSUE1Z3c3UmFDako1eGVzTFA3LUFhS19hR0NBaVRvUFpGWmtkQlBvdWJtMGRFWVFxODg0TXFrWUt0ZHQxZ0ItM2IyTmEwbGY1dW9RUTdqMmo0MEJxSl9CczU0Rmt6dHRDRmdWWXpiZXJBWnd1RjnSAY4CQVVfeXFMUEZqMDNVYThPWWdZazVGSzMxckM5WlFaeW1ady1qSkNiTml5MEs4TmQ3OGJscTFaaVEySVNGc25CaEU0cDJpTlpiOTBXa2dod3hRcXloRFcxOEkyOHcxZGcza01qcjMxSkNfV1I1Yk1hVmN6a0JpdXRwSjBsamQ1dC02SnpoNkJHMWQ1d0kzZEpVbU9SRFcxU3FTVDdrU0dKNUQwMHJyWmpmcjM3Qm9NbWpIQlhDZmQ2c1NtMkVua0xaV3Rxdk9jNmp2OGpKWmFqM0w5RURQbXgwY3JhcW96MWRCOGlnU0h1ZU1oSWRhUHhfRm41WWdNQ3lxZDBrZ25PZkFTOV82cjhmSndObDJR?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "La Serena bajo el agua: el temporal arrasó la ciudad turística chilena - Diario Huarpe",
-     "medio": "Diario Huarpe",
-     "fecha": "2026-07-22T14:40:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONVNLM1ZjTFVWcEhJRmp1azJBTDJFSUktMTlHdlRUZmIzTXlYN2d2TkctQUVUaG1BV191NWw1QWxWZTVwTllpejRrTHU5dmpVUEZQbFJLNk1XR1JtZ1NMWVBFRVNHVmFmd2VjUUhxUkpBbm8zeEQ2bjBGNFVPR21tTzZQbmc4NHlmbzRxSUhkc1ljUHhqbDFWOGtFNmpDZ1ZYQXI1SDRiVWctRVRNMjZjR2hlbXZfZ2lw?oc=5",
      "sector": null
     }
    ]
@@ -1130,6 +1130,13 @@
      "sector": null
     },
     {
+     "titulo": "SEREMI del Medio Ambiente de Atacama entrega instrucciones para el manejo sanitario de residuos tras sistema frontal - Medio digital El Zorro Nortino",
+     "medio": "Medio digital El Zorro Nortino",
+     "fecha": "2026-07-25T04:13:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRFNiRzFlUWFYR19OYkxuSkVCZGY4ZUdWV1JOdndSY0N6TFFvZk1VSzEzcUZQenE0UXFwMHdEODdmUjRaa0pOeTUyWVZsUlpaSENDX1RBak1IVGZxN1FkMFZBNjFzV1RJaVVXTUY2ZHA1eWExdU1NRE9ERmVjUm5IRWpxU0gwRVlxZy1ZOXpzMjdxZ2daZDFnNDhGVHo2TjY0d1hhN0NWenFKWFNKaTVfZnBNVDJ1QmFjQ0M4cHpCNnZvOXAtQ1hrWWtQUEZZTUdoYURzWjlPd1BsM20xc2FoMGFOakc4bkk4Q2tUSnE3NmhkRDY4RlpKcFFEZw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Cortes en la Ruta 5 Norte complican la conexión de Atacama y Coquimbo tras sistema frontal: ¿Qué puntos siguen afectados? - elquehaydecierto.cl",
      "medio": "elquehaydecierto.cl",
      "fecha": "2026-07-22T21:11:27+00:00",
@@ -1183,13 +1190,6 @@
      "medio": "SoyChile.cl",
      "fecha": "2026-07-21T13:32:25+00:00",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQejROcW9kMUpVdWo1VDlSbEwtaGVfVHNzTGhoUFotSWQ3dnhDQXUtazZZZFhUWFVvbXBQZTZmTGtoSThEd21taTlDeEhVeEVXejZCb2pNT0lwRXlmNGFkM3VFbGtLZUpycFFiQ2hnOFdEQ2hpRUJOUVNVaGhrakFKZGhaZVBRZ2tENWNKOF9KUTBHQQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Chile bajo el agua: un fuerte temporal deja 10 fallecidos, desaparecidos y miles de evacuados - Sitio Andino",
-     "medio": "Sitio Andino",
-     "fecha": "2026-07-21T11:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUjkzV1MxNWVsTlg5LXI2NUJkWWpEWUNKc250RVlXWHVpbHczRG5iVnVpZkFoTzN0REFfalNjdXZLWmNhMnNReXRIN3RiR2xaVVRNMEhPRm5RV2NzN2tyNklmZGs1WEtkdEFXc09rMWhRWTlUcGV0TUV5UEN4aGxrb01lYnVLbTMwZTUxNld5NFlrajBOT1Q1cV9vLWxxeU13WmNvR2VMUXIzWVh6aktDUHljQVFOcTB3YkJPM05KeTJldk5tU053VNIBzgFBVV95cUxQeHoyYzhWdWpUODU0RUZqcEVjMDk4N2FYREtWbXl1SFBfYVNNWW54YVU0bEk2cVVtQ21GUjNyS0VDMlMwWWxPa1VxS2VySFlxanFHU0FselpZSXZIeDZOc29mb19DZ1hPVUFpMU13LU1aM2E5bC1PUzdDYVVZc0hMUEJwR0NzR3lqOTA2RklSd1ExNFNDdVphem5GY2RNQWc1dFMzZjR1NlFjTTd5YlNFZEZHV3d3dEFXLWdaT1I4MFpSbXF3RHBxc21iVDN4Zw?oc=5",
      "sector": null
     }
    ]
@@ -1648,6 +1648,13 @@
    "comuna": "La Unión",
    "noticias": [
     {
+     "titulo": "Decenas de familias afectadas y clases suspendidas dejan las inundaciones en La Unión - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-07-30T14:00:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU0NnZGtqRzhHdXhEQWNhdnduWlZzNXZ0ZV9aeWRUb0lPVmxfVzZGYmRIdkVqVlE2VVl1Q3JKOHhHZDdNLVNscmphVHZRR0FIU0tzNHc4X0JEZU83T2dHZWppSFp6dDQtZFNRVW90Y2pEV2NMTUpFbXVYV3B4SXZwX3U0c3FhbnJaLXI5c3NGb0hoWDd1S3c3TGx3?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Dirigente de La Unión y los severos estragos provocados por el desborde del río Llollelhue - Paislobo Prensa",
      "medio": "Paislobo Prensa",
      "fecha": "2026-07-29T21:11:00+00:00",
@@ -1708,13 +1715,6 @@
      "medio": "RioenLinea",
      "fecha": "2026-07-28T22:00:56+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOEdfS0tPYTR6SFRLb205YnAzVnA5RmU0bXo3THVjcjNyVl9yLUsySVhtdVlDSXdhZ0FBRmdybUtseVByT2lDMXV1MUQxal9XSXVydmd3bWh4cnl4S0hYTDI4M05YM3VVWi1hRVl1YnBYbEMyVk53dGRNeWhuVElYSWRJOVRWcUJORWpZN2swLTVHdm9YSlZ1LTd0LWpZSGh5ZS1lOWZTeVJteWVHcUFHdXpfcGhrRXd4?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Sistema frontal deja más de 200 personas aisladas y más de 300 viviendas afectadas en Los Ríos - RioenLinea",
-     "medio": "RioenLinea",
-     "fecha": "2026-07-28T17:08:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRzZXOXhTM3dDYWp1Z0VVb1NPaTdSd3R0UEFpbkczU09rc0xGcDJBLTB0RkR3b29RTVRDUkcwMmlmUl9iV0J2QTNUVVNWZ0dVcmtFTnhzWVVfb2IxNUhQckJxRmd4eXBaQ3ZVM0huQmtsLTVlMkFUVTVlbHF1eldTS1ozNnNOeUNPckdHWS1HUnRleTBTRTJJOHFyWWFMNllabTJmTzJEbHBlSHBhMmtjM3Fma0xycWI5cmc4WkZ3?oc=5",
      "sector": null
     }
    ]

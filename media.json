@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-30T16:02:21+00:00",
- "desde": "2026-07-28T16:02:17Z",
+ "generado": "2026-07-30T16:03:43+00:00",
+ "desde": "2026-07-28T16:03:39Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -15,7 +15,7 @@
      "canal": "Info Red Digital",
      "publicado": "2026-07-30T06:01:18Z",
      "live": false,
-     "score": 5.17,
+     "score": 5.16,
      "verificado": false,
      "embeddable": true
     },
@@ -73,7 +73,7 @@
      "canal": "Radio Buena Nueva",
      "publicado": "2026-07-30T11:54:00Z",
      "live": true,
-     "score": 7.66,
+     "score": 7.65,
      "verificado": false,
      "embeddable": true
     }
