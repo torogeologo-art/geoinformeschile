@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-30T09:38:35+00:00",
- "desde": "2026-07-28T09:38:31Z",
+ "generado": "2026-07-30T16:02:21+00:00",
+ "desde": "2026-07-28T16:02:17Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -15,7 +15,7 @@
      "canal": "Info Red Digital",
      "publicado": "2026-07-30T06:01:18Z",
      "live": false,
-     "score": 5.7,
+     "score": 5.17,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "Amandi’s simple life | Chile ",
      "publicado": "2026-07-29T23:10:30Z",
      "live": false,
-     "score": 5.13,
+     "score": 4.59,
      "verificado": false,
      "embeddable": true
     }
@@ -37,17 +37,6 @@
    "region": "Los Ríos",
    "alerta": "ROJA",
    "videos": [
-    {
-     "id": "Vah8kseT644",
-     "url": "https://www.youtube.com/watch?v=Vah8kseT644",
-     "titulo": "LA UNIÓN 👉👈. HACE LA FUERZA  está en vivo. hola buenas 🤙",
-     "canal": "LA UNIÓN 👉👈. HACE LA FUERZA ",
-     "publicado": "2026-07-30T08:22:16Z",
-     "live": true,
-     "score": 7.89,
-     "verificado": false,
-     "embeddable": true
-    },
     {
      "id": "N5yyc8tM5Wk",
      "url": "https://www.youtube.com/watch?v=N5yyc8tM5Wk",
@@ -67,24 +56,24 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "A6fde5LsMkE",
-     "url": "https://www.youtube.com/watch?v=A6fde5LsMkE",
-     "titulo": "Alerta SAE activa evacuación en sector Placilla de Licantén | 24 Horas TVN - Red Maule",
-     "canal": "24 Horas TVN Chile - Red Maule",
-     "publicado": "2026-07-28T15:32:34Z",
-     "live": false,
-     "score": 5.0,
+     "id": "A2OI5RAMFwE",
+     "url": "https://www.youtube.com/watch?v=A2OI5RAMFwE",
+     "titulo": "Día de la Región  del Maule 2026",
+     "canal": "Teatro San Javier  TMSJTV",
+     "publicado": "2026-07-30T14:50:33Z",
+     "live": true,
+     "score": 7.9,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "TTKlaqOArIA",
-     "url": "https://www.youtube.com/watch?v=TTKlaqOArIA",
-     "titulo": "Alerta en Licantén: Río Mataquito se desborda en Placilla",
-     "canal": "VLN Radio",
-     "publicado": "2026-07-28T12:38:46Z",
-     "live": false,
-     "score": 5.0,
+     "id": "SQDMH3NpBXo",
+     "url": "https://www.youtube.com/watch?v=SQDMH3NpBXo",
+     "titulo": "Linares Chile, Region de Maule",
+     "canal": "Radio Buena Nueva",
+     "publicado": "2026-07-30T11:54:00Z",
+     "live": true,
+     "score": 7.66,
      "verificado": false,
      "embeddable": true
     }

@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-30T09:38:00+00:00",
+ "generado": "2026-07-30T16:02:17+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 25,
  "alertas": [
+  {
+   "id": "3a7c0dc653ff",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos, debido al término de las condiciones meteorológicas que lo generaron: Alertamiento Pronóstico Aviso A362-1 Heladas normales a moderadas en Patagonia Subandina. Conforme a lo indicado en el Informe de Amenaza Meteorológica, el pronóstico para la región entre los días 30 de julio y 02 de agosto es el siguiente: Precipitación: Entre 5 y 50 mm. Nevadas: Entre 5 y 20 cm, en zona cordillerana, cordillera austral y patagonia",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-30T11:13:04.044-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "ea74b60ded17",
    "nivel": "ATP",
@@ -361,20 +375,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-27T18:53:39.3939-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-07-21-14-13-53",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ac7c05ae31ee",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Alarma AAA6 Heladas intensas a extremas en patagonia subandina. 28-07 28-07 Aviso A362-1 Heladas normales a moderadas en Patagonia Subandina (-6 a -3 °C). 29-07 30-07 Por otra parte, conforme a lo indicado en el Informe de Amenaza Meteorológica, los montos de precipitación (mm/cm), las velocidades del viento (km/h) y la altura de la isoterma 0 °C (m. s. n. m.) son los siguientes:",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-27T18:49:25.2525-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
    "origen": "senapred_web",
    "regiones_extra": []
   },
