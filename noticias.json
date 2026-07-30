@@ -1,5 +1,5 @@
 {
- "generado": "2026-07-29T00:13:34+00:00",
+ "generado": "2026-07-30T09:38:31+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -142,6 +142,13 @@
      }
     },
     {
+     "titulo": "Región de Coquimbo: piden evitar zonas ribereñas de Canela, Salamanca y otras 2 comunas por crecidas de cauces - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-07-21T16:21:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONUJpdkZYbzNKQXc0enZRUE9ZQnBnMUxlTVAyeEpuNEJfTWVUWFE5Um1sOVU1aGpVNHB5b3UybElHSmhyRXZ0VnA4cjZlNE5VSS1qWEplelE5YU5YZE9wZ2kxeDF5MjJkcDBZRmJCZGpDT0psZnB6eUI4bXdXZ0tQdkRkVjc1cDRqM1JGSjZwLWVFc0I2dERJYklTQTA5cGJjMXJrb0hmTU9BQnVpU1BLVkJERm5JS21jWVRmRW1NSFp6X1ZybTZNVlA3NGlCSnBVLWNob1VCalFiY3l1OGRFaXJlQnVOUHVSS2tRN2JOMHZiX0lMNUYzSWZIazNmN29ZclViZVhTZF9VSzlFeXc?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Piden evitar sector Tambo Faro en la comuna de Salamanca por crecida del río Choapa - VLN Radio",
      "medio": "VLN Radio",
      "fecha": "2026-07-21T14:50:32+00:00",
@@ -189,13 +196,6 @@
      "medio": "SALAMANCArtv AL DÍA",
      "fecha": "2026-05-06T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOFBoVTBNM1VfZ0YzdWRtcWRvR3RaTmlJV1RuZGQwRWptNWJncDVjN2tNdXZ0OTJseEdGVy1WNk5XUkdkQ1FlZ1hKajBEb2twTFZJTDAxQl9WRjdjYVNBTTNDZTJNUHoxdl93eTBJV2piYjVnb1ZNTHB4ZWZia3FzLXJKYV9UTFBfX0VYR2NKQzRISi1hYjhQUXJYYlFESE5KdUVYVkZZM05sOTlRUVN3QmV6RFkzM0pQR25PWndQMThSU2plR2tnd3pXSkJodw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Arrojar las toallitas al WC, un grave problema ambiental que se acentúa en Salamanca: \"Las orillas del río Tormes están completamente blancas\" - Salamanca24horas",
-     "medio": "Salamanca24horas",
-     "fecha": "2026-04-05T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KaXZ1ZTV6SGx6TzA5LWx6Z1k1YmF2UG1leFgwSklUM0Q2STdrb0hiZ0w3RWh6LVBPaDlDM3hSYTc3R0dndlZ5Rm9UNVUyTFVOLWRuajFTeGdVQlJabzlqWWs2THBoWjdxVWdYdTNPaER4YzlUc3lZNXROLVUxdEU?oc=5",
      "sector": null
     }
    ]
@@ -519,6 +519,13 @@
      "sector": null
     },
     {
+     "titulo": "Municipio de Copiapó llegó con ayuda humanitaria a Totoral y caletas tras el sistema frontal - Municipalidad de Copiapó",
+     "medio": "Municipalidad de Copiapó",
+     "fecha": "2026-07-24T20:40:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTWFYR3BHNHVOMnBIcTFHUk5RTHA0bHFlSjh4dWJtQTd0N2d0Qm4yVndLTTJhdHFMSW5JQndSdVcyMVNkTkhGczlLNlhhX0xXTkVVVHVCbUJLcnJxZGsxRThsTDdkeWV4Mm43M0ozaWw3NmJUdGtZMmpfcDJtZlExSDJSV0hHWWRJUDhqWTA1X0V3U3pFWU90SzFsTmdIcVk5RE54QVVKODV3SHU3Sl9RV3lSbHdsMDlENk9NX0pmd3Z2N2ZwMDQydWFVbDVnQQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Copiapó: Largas filas en Ruta 5 Norte carabineros mantiene control de tránsito en sector Nantoco y llama a la paciencia - Atacama Noticias",
      "medio": "Atacama Noticias",
      "fecha": "2026-07-24T16:45:13+00:00",
@@ -572,13 +579,6 @@
      "medio": "ADN Radio",
      "fecha": "2026-07-22T23:50:30+00:00",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWFNyUmxKTTBTWG0tejFyN0RWSzZSV1hlTFY4TTREbXNYTlRKOXNJb2k3SGhtenhkcGRtaXIwWnBnQmx0Q3RLQW43YnVySUwzWVNJWGZBR1dURktTOTJTTmIwNUloN1ZDdUF2cDRibmdmMHh3X3RWTFV3emtNUW9qUE5DS3BBUHcydnJiTjR1NFJ6VldFZmV6enFpaGZBZG1jTUJwNDV1N2hHSC1MVjdsZ3J5aE9TOFgybmNiOVpwWC1mV0x6aU8xVjZ6VE9uSlJXb2RqdTdJWXpoOFNueXo3bkxB0gH2AUFVX3lxTE9EMm11SmJOamJIOHM1aGMwbXNlVUZFYmh2dUhZWjJTVkxtNUtBaVhURVg1eDZZU3c3NUVIdXZLSWdiMm1zTm0yWnVXTVVFV3RYN3JONEdBRXdKY010R0NXZXAtemE4NHNCeHFMTWswcjM4ajZMLUZFVmZwdXpwOV9SQ2FJZ1JYaGhYRy1XblhVb1R5LU9uNGI3cnE3aVVHUUI1S0VEdjBPQnd4NzNSWFRxZS1EWmlsSENpUDdCbzFlRnpnZlBmUXZhTkRwVElqR3gzSHpBTk1BQlU3bXloQXZVa0JrRHFHc19FQjl6N3oxQUZBRnZvZw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "MOP avanza en la recuperación de la conectividad en la ruta C-345, sector Cerrillos–Juntas del Potro - Atacama Noticias",
-     "medio": "Atacama Noticias",
-     "fecha": "2026-07-22T22:06:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaWVfbXhUc2pNc1hSU1Y0b0Qxb0VwQkdEaEFmMHNENTFWUVhQd3Z4YWJWUHZQRGtsVHBFT0VoS1Z2ei1kT0JYR09jd0lnSk00aDhGdDZ5SlNWdVI4ZGtFYjJCcjdfSTNkQVl3eHQ3emdUQ0I0ZjIwaTBBR1pVVzdlU1AwdWktOFpOZ1hkbzNiR1ljdTQyNlJzOGVISVBMRjlmc2FmVVM5STQxMmg5TDBKRGFaX3BTWWtJMUJIWk9CbTVWTHl4S1RyQWIxN0c4MlpNTHBNeThNSXBqQQ?oc=5",
      "sector": null
     }
    ]
@@ -681,6 +681,13 @@
    "comuna": "La Serena",
    "noticias": [
     {
+     "titulo": "Estragos por las intensas lluvias: Zonas rurales de La Serena continúan aisladas y catastran más de 3 mil hogares dañados - Radio Riquelme",
+     "medio": "Radio Riquelme",
+     "fecha": "2026-07-29T15:25:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeUtRVVdKZUxyamo4T3pkb3VUUFI2ZGxWY3A1SG1OUlZaeUNkVUZHYTY3VWVLXzcxRTZaNmpVVVhxaE9CaDIxdGtnd2MzRk4tTzVJS1F0MEFvbUxXVFZZYkdrQVFiRTRvcF9tQXZIQjNRNG1YZ0NsNWs1OFc3YmJjMXpydnZiTEVZR2FzN0JfczNnZ2lINEpRZ0VjejNDZGw5NzJ0RFY1dUt4OVp0V21RNjFMUEgyd3JIWlBCWkNsRWlkT2Zta0FTbEY3dkVPWkdZUVlMbVc5LXlJMm5OM09KaG1adjQ5RkQwUG1fenN3?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Declaran Alerta Roja para Hualqui por desborde: Informan “riesgo para la población cercana al curso de agua” - Sabes.cl",
      "medio": "Sabes.cl",
      "fecha": "2026-07-28T11:58:53+00:00",
@@ -699,6 +706,13 @@
      "medio": "El Desconcierto",
      "fecha": "2026-07-25T12:24:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMi1fWWxiOGhpUVA0V2JQYS1QRGJsazg5MzlrUjRISFhEeDNBWkFET21MQ012RnBIczhha0JnNUpkZDhFb2RYczFQS3dXek0yS1M2ampURW5YT05WTkdPakQ5aG9qcVMzOE8xa1Z6Qkx3VUlLdGVqMlVwN18tM2RUR0pqaHkxd1N2eXZWdnAzejd3aGpjTThOQ0lUbGZIdzgwOTNCZE5oX0VNWHZVSjhtRFdRZExQcUN1M0M2RlpfMzM4TkxfalNUTW9uT1FXMnhx?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Relatos del drama en La Serena tras el temporal: locales destruidos, socavones y una playa en riesgo - Los Andes",
+     "medio": "Los Andes",
+     "fecha": "2026-07-24T15:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUnp6cTZncVRIMjhMcVpzS25zTG1yY3VIZjMwQ290NlU3WW8zcGFuSnB3X1Eycmxfejhjd1hFOW10MEwtSmRMako1NWVQQ3duZ0FwZ0NkTEFzQUJJTGQ2R3dyb1I1TElseW1OVVFCN1hyR18tcnJsX3BNOXZva2RHd1EwWUc3Rl9MTHVFWS03YlI4SWxwSlpoYUE0QW1TN2o4d3JBX3hzclJmNmZSTzVjcC0zeTBJdzI5UC1KYmVqRkpKTnpSV0QyRkF3?oc=5",
      "sector": null
     },
     {
@@ -734,20 +748,6 @@
      "medio": "Diario Huarpe",
      "fecha": "2026-07-22T14:40:28+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONVNLM1ZjTFVWcEhJRmp1azJBTDJFSUktMTlHdlRUZmIzTXlYN2d2TkctQUVUaG1BV191NWw1QWxWZTVwTllpejRrTHU5dmpVUEZQbFJLNk1XR1JtZ1NMWVBFRVNHVmFmd2VjUUhxUkpBbm8zeEQ2bjBGNFVPR21tTzZQbmc4NHlmbzRxSUhkc1ljUHhqbDFWOGtFNmpDZ1ZYQXI1SDRiVWctRVRNMjZjR2hlbXZfZ2lw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "El temporal en Chile dejó graves inundaciones y desaparecidos en La Serena - 123news",
-     "medio": "123news",
-     "fecha": "2026-07-22T13:16:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkRrejlKeVlFbFVyMTFJZkJGcFpSejhuY2pJT3MzNlEwcmtGSVF4LURKOEM0Uk5jZnU5N1RFV2pjUHhkdndBVXBCNll5bFZCcVdFM3FqNk9lOVpIOEx5c3h3c0lNWTFBclh1QW5sTGJYTXVWOXUzcWpydDdtVXNwY3BhT0dqRDlOaEtocHZSY2pTV0NoX1pGLWJVRDhnb2VTTkw1dUhONA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "La Serena con casas inundadas, playa destruida y montaña de desechos: ya son 13 muertos por el temporal en Chile - Los Andes",
-     "medio": "Los Andes",
-     "fecha": "2026-07-22T12:04:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUHFJREJ3UjczOURIQ1RKUmE3cHZBRy0wVDFVSmJ3MEdLWjJyczIzTnliZXo2NXVCVmlsOTRwZTdPTmNfd2ZnenNpTTRVRDFzcjRvYnhWeXkxSVlEbWZnckk4N2p6QVVBUzZBMGFkSjZMZjhUN2gtaVItampyQ18yZDhVY0dJU2NIVWp4Y2F3eGFrTkhaamtYNjB5S1ZrQVROMTZlZ2w3T0VUWFNOX0p5MXJlMTlCV2N0MEVLUWc5OUo4d0VwdnBGQjMzQkI4U2c5bHppSUdB?oc=5",
      "sector": null
     }
    ]
@@ -1069,6 +1069,13 @@
      "sector": null
     },
     {
+     "titulo": "Senapred cancela Alerta Amarilla en Limache, Quintero, Concón y Quillota por desborde del río Aconcagua - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-07-22T13:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDBGaDJmeXg4cGhBaHFSMkFGZGhBcUhzaXpXR09UdzRJM2ZaVzRTRkUwMW4xSGpveVEtYVZVQ2toZ3N5NnpVa1dNa3psQ0k3dXpNcm9EZ2JETjN2bHRSX3NfWjFnaHJoRVJqNENndFlYZ1VmczR5MmdhRzlacjJ3UVlmWlVmRkFuUlNaWnl0c01veGExa2UxM01oVEhRTmhGd3NoaXFXTXRPeDRVa19N?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Cancelan Alerta Roja y decretan Alerta Amarilla por crecida del río Aconcagua - observador.cl",
      "medio": "observador.cl",
      "fecha": "2026-07-21T15:44:25+00:00",
@@ -1109,19 +1116,19 @@
      "fecha": "2026-07-21T04:43:03+00:00",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM1ExMG9scTVaRE1udDBGcVB4WjJ5Z3cyRTBxTDh6LVpQUTQ0NXJUQWtoalhIUkVTWl9vTkJPdm9mUlF2OFM5dnRzVkc3QU5WdURGenFDeEk1b2tzMTRraDljTWNfU1JOekxyZFdqSHRGSlVkVHE1Q1UtMG5jN2pqd1VfREl2MHRPdkhQYlJjb0FJdnNiN2RCNENPQlJ3aEU0SV9sUUVCenpudWZBZmxhM0ZUM2l4YldTOE9sQnJFN2gwZS1zM3A1UG8xTVBGOU1KWHA2MW9FVjdnYTZEX1dreEdTQnhOLWhV0gGKAkFVX3lxTFBLd0k0YXZqMGNwMVd2bWxZLW5IeTRzbFMzZEhKWW1QTzI3QUNzNFE5N1BPeE9VWlctYWh1VEFPQTlhVm4taXNFZF8zS3RLWFkySmtzcHRsMnREUTZERGFFOEpCXzNtaW41eWJsTHJ1NlJVZ3FHYmtmTlpfd0dtUGtkWHRxTWxPaXJPckVUNklJYVRfOWJPRF8tUi1vUFdIU0ZwY2NBOVNTUEdXQkJzQVpPakVROW5yMl9aZm9aZno1clBMUUtNOEgwTGU3WGI5bnpGV2FmbnhKTlE0azJfcGJUNk4wZkd0SlRXRzlHRzZONUQ1c1VRTmxjVGF3ZkVtNDloQ1lraWExMlJB?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "Senapred establece Alerta Amarilla por crecida del rio Aconcagua en sector Puente Colmo - G5noticias",
-     "medio": "G5noticias",
-     "fecha": "2026-07-21T04:39:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYTdkZVBlSzE4Y2FPNjJFSGNNN1N0MWlNOHVKREV4OGlHQ28zU3lQSlFxUDkxaEhmNWppeHZmTW9wM0tvRVJHakpNazJPM3U2QlNUODhQN2pHVWdYanQ1bUE2NUtPUFkwbnlVR19XSGxNSUFMcS1jY0lBZ3k4VU9jQ1FtM3BjOEd6ZHZXSnFPUWFBT1hoZllHVWtPS3VfTUNaZjI2aTRFS25hbGFXSGd1bC1yU0xrcUdWbVhsMUpB?oc=5",
-     "sector": null
     }
    ]
   },
   "alto del carmen": {
    "comuna": "Alto del Carmen",
    "noticias": [
+    {
+     "titulo": "Encuentran con vida a tres crianceros que estaban desaparecidos en Alto del Carmen tras sistema frontal - meganoticias.cl",
+     "medio": "meganoticias.cl",
+     "fecha": "2026-07-25T20:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHdLY1c4SnNiRzN6OHpXanVMSlcxa3A3YW5aQVVsZXV0SndYYm1ESEhLdExHYVJYbTJDTVdaR1JILVJhTkpqWjd0d3hqQTRvUzlRSVQ1UHV5TnNSd1A0ODVtaGp4LVJEc2pGY1JkMDkyZ0I1ck54T3l0eVdvZHVJS01veDlWYmZleHI3S1ZCSXkwZXpXbGdzbE43eXdPY09RZ1JtRVlJZnRSNlpKOGfSAbMBQVVfeXFMTUtJRGxlYThPYzVXV18yUTRUWC1qdDQ0R2w2aWk0eDlCQk44ejJfczU5aGFqd0J4NXEtclluMEQzSThJWExMaXVHVDVHRVFhODUwS2FpOFpyaU8yWVp2cUFwTHJmckFqRXMyLWM1SGJWMG5WUklFSXNrY2NlN2Q1SHctcnFRWFBvVHRXNWZBdl9NM3EwLTR3c1pXYk5GSWRITE1nZm9YZW1lXy1SZjdlb1luN3c?oc=5",
+     "sector": null
+    },
     {
      "titulo": "Cortes en la Ruta 5 Norte complican la conexión de Atacama y Coquimbo tras sistema frontal: ¿Qué puntos siguen afectados? - elquehaydecierto.cl",
      "medio": "elquehaydecierto.cl",
@@ -1141,6 +1148,13 @@
      "medio": "ADN Radio",
      "fecha": "2026-07-22T12:49:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNHFhdG9JYUhvME1mZWpsT0xwbThXVXVVdUJCc3Z6ZUw5eHp5aEI4VVBwOGpMRGE3aGdHOHV0RlRPczRqaGFkakw0SXZEZnlxSVRfM00ta05tc3RwWXdCa0Z0SDVDcC1acUJjMllqQ052UzhNZWY2SEpWN1ZsdmJwMWpzUkRuc0ZsTGtTUG5NLXVGUUFGOExTWGI4WjdSYWZGTHloZDdSN3dhaEhWRW5iZXV2dVpQYWt2S195UHh4ZkJ0ZUd5Ry0zcnBCYTd2UmpzRGh1U1BObXZtN2vSAe8BQVVfeXFMUFBYMk0yOHpzVUpQX3FGYlBTdE44bjdpbW1PNmwzMVJRMGJXTzNSUTNyd3YyT1ZhQlNFSU8tN25iVmNmYmVENWJnMkxIcE1wM3UzcG81Y0JtajkyLVdkU090aU9wRFZVQlZLSERrRVd4RWlUd29YaXNNQ3FMaWpsMTdobHlHeXYtSkg3TENxMVlwSy1oT3ZzMUZUbk5lbHhOQ19XMm1Yb0JUWVZURVNWNnlpTVlENEFGTmhpZE1jNW5NLVE0UW01WW9XUFBjZnJMRmstenphUkc0b0FCNWIySWNJS19wdERrNURBWEo3dXc?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Chile declaró el estado de catástrofe tras un temporal que dejó 10 muertos y graves inundaciones - losprimeros.tv",
+     "medio": "losprimeros.tv",
+     "fecha": "2026-07-21T15:34:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMk5TaVpjdFZxdGwwc0owRi1UZ3pUTUdNS2haTWFUQkxQaWkxV2Q1NjJNdkh0empGR1JqcHVmOXRXdkNVaHpYS3FGU1JpXzIwWGUzd1NkUWFGSzZTUEZiQm9LWF9TaUhDcmtleGN0NFpPVTBsc2ZlR3lpekUzeUh0UGtJaUlrTV9NakdsOUVwTlVNenlmelRmNzNoVU5kZ1pPVGNRM0gyVFhUemp1aVhYTE0tQjd5cHUzV1RCbGI0MWZ4OURpSGpnbFg3cm1FNU1BWXB3SXdhdno4WF9CbEJfM1N0T2VJNU9JSW5oMA?oc=5",
      "sector": null
     },
     {
@@ -1176,20 +1190,6 @@
      "medio": "Sitio Andino",
      "fecha": "2026-07-21T11:50:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUjkzV1MxNWVsTlg5LXI2NUJkWWpEWUNKc250RVlXWHVpbHczRG5iVnVpZkFoTzN0REFfalNjdXZLWmNhMnNReXRIN3RiR2xaVVRNMEhPRm5RV2NzN2tyNklmZGs1WEtkdEFXc09rMWhRWTlUcGV0TUV5UEN4aGxrb01lYnVLbTMwZTUxNld5NFlrajBOT1Q1cV9vLWxxeU13WmNvR2VMUXIzWVh6aktDUHljQVFOcTB3YkJPM05KeTJldk5tU053VNIBzgFBVV95cUxQeHoyYzhWdWpUODU0RUZqcEVjMDk4N2FYREtWbXl1SFBfYVNNWW54YVU0bEk2cVVtQ21GUjNyS0VDMlMwWWxPa1VxS2VySFlxanFHU0FselpZSXZIeDZOc29mb19DZ1hPVUFpMU13LU1aM2E5bC1PUzdDYVVZc0hMUEJwR0NzR3lqOTA2RklSd1ExNFNDdVphem5GY2RNQWc1dFMzZjR1NlFjTTd5YlNFZEZHV3d3dEFXLWdaT1I4MFpSbXF3RHBxc21iVDN4Zw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Sistema frontal: 10 fallecidos, 4 desaparecidos y más de 2.400 damnificados desde Atacama a Los Ríos - Atacama Noticias",
-     "medio": "Atacama Noticias",
-     "fecha": "2026-07-21T11:16:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZE8xS2podFFHSGdaZnpCT2NQdHU3V0h4S0h1WDRicWxvZGIySy1TSmd5dGUzVndyZGVlNjZuOUVhQmNEMGs0OV82UWdTdEV0NTRRMDBxMHZveFVfTGwyVEVvVm5BN3BBWldzTXVPWFpKQ2tHTkpHTUl0bXREWlhIQmVsR1FZOFZVRkFqRl9yMHhRNnpmcjdmUm5Mb1dGb0FZOGV1OHR3SS1FdjNreHp2YWpKMV9KX3MzWE1PSk5zRW1rM1BaUXdoWUVkYlh1UGtUamE5NWtUNTQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "“Nos sentimos colapsados”: alcalde de Freirina alerta por los efectos del sistema frontal en la comuna - ADN Radio",
-     "medio": "ADN Radio",
-     "fecha": "2026-07-20T14:45:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOajdCYnlUYXM5dVpzdU8yZ2JoZEdyX3VfMFc5bno3amFTZTkwMjNuNUctU1l3UVdXYnJyNUVhV0lnUHhfUzlZN21vUEJETHRGMXVzYUR0dkxfVmw3U0p2RTdUdTA3VzFnaVJ4SVVCVWZYVEYwRlo3TzRXOUNZZXBDSDFQbzFXTlE0NEhKODEwQU1jSnNrT3huRFcteDI2SzI4LVZybTU3Rk5rUlN0SWV5dHlyTjhlNWxPZ2Z4YWd2QzZ1OG1NOWlLN0pLRFpIQ05n0gHkAUFVX3lxTFBVdkg2UXZCUC1peHNBZktwXzhCNlRRMGV3ei0zT1dTU2ZtcGJ2N1VrUUZmYzd0d21oaHUyVXlhUlpPMktJZmxaSTYtbVpJVEtYdHNpNHJlNGl6QTIzV1RZcVJoS3VVaklKZzNLT0JMRS05ZlJaR1Jfb3pZNDA0ZkJpNWhrV2VzYXI5OEItVk9nc211bVhqRVJ5QXh4ZVZEaEFnQmxkclN0bkNKSHp1dTZxam5SVEl5NHQ5TmhrTjhHQU9wNWYzMVVVS1VYTnBVcGRRaDFjMzB3b1BFV3F1VHU4TG1GLQ?oc=5",
      "sector": null
     }
    ]
@@ -1308,6 +1308,13 @@
      "sector": null
     },
     {
+     "titulo": "Video: Ruta Alcohuaz-Vicuña queda cortada por la activación de la quebrada de Leiva - meganoticias.cl",
+     "medio": "meganoticias.cl",
+     "fecha": "2026-07-19T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaWd3anhaZW5ab1Fab1QtYVlfRG12STh3MTFIbFU1ZVdpQnBpYVBKVGJuZU9LYlNhZ0xLaXZES0hGN3MwSDA5aGRUU3AzNnE3cFg3NjNQX2RORmpNUTVKa0JwR1BOMmRMMlVYWXphVEhuWEd1NlpQclR6cVJWNzRJdm1qR0paa1Q4aWphcWJFaU04TDZHMlNwcVhNbVVfSUh5LWtCVjlic09Lc2VrTVU2WC13cHk3Z2UyV0hldWIwaHFBOWtJaE1CR2VxOGRCWDRiX1cyNW5Ud3d4UdIB3wFBVV95cUxOMjlfdVgzZkJtS1Rqb0pVbktRczRQa3lLU2xlS1hJN0haczBxeV9uMDlMU3o4N0thNmNnNEVFR3RQeFhyM2FzS1BmNGhKSlpYMFRsNENUVzBlOHpQY3lqb1pEVjFybGo0RlZoc1czVzdtQlFfdjZkMmt1RFltU2tUak5GbjZfamV1ZllXV3FPYXFJWlRUd0R1bXZHS0FLQTR5Y0NfRU95d0FmdFoxeUpMVnpodHZLcmJKZGpGVlR0bWdtdjhJdC1zbmh5VWJ6SVZNS3lUV3k5Zm83YXh0bkVz?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Sistema frontal obliga a activar evacuación por SAE en sectores de Vallenar y Vicuña por riesgo de desbordes - Radio Agricultura",
      "medio": "Radio Agricultura",
      "fecha": "2026-07-18T12:20:57+00:00",
@@ -1333,13 +1340,6 @@
      "medio": "agustinafm.cl",
      "fecha": "2026-07-15T23:40:44+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPakFJOTJtRjBrUGlrVXc5VW0waGpQdXhiRm1SV2NrUUVCN3lvRU93X2VRVzlKQmxoVDNHeWFCbDVxUU5sRWFSTmhXV0p6a1FNcW5GUGFSd2pGeTY1SDJaSDVqeUh0V3l6eXpQM2tpX1FsTjFSYjdMc21KYXRDdS1nbDk3RkFJQ1ZrZWh2ODNfUlZyQTBiYTluckt0Zk1hYkNiSi1xWWt6Rkl1Qmh3T2NZUDA5ckd3aW02SkFB?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Sistema Frontal: Conoce los puntos críticos de la Región de Coquimbo - La Serena Online",
-     "medio": "La Serena Online",
-     "fecha": "2026-07-15T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUUtza0Fkdnp5V1V6bktaV2l4aG05WWdFT2tSVTQ1N0p1U1Y5cHdCWWdlbHpJSDluNFlhOW9LTHhlaXEzZUc3em1sVG81M1I5LW9zeGNTNl9fdWJ6bGdBdFhjRFRKeENrME9vQ1hNQzAwTnJUWnk0aGJVdXg3TFNGQnlTYllmZ2M5MkJDZndFakMxaWdOT21FWnhrTDd0RFU1OTBlN3pHVUlmcFBRZ0ZVb09zNFVDNXZo?oc=5",
      "sector": null
     }
    ]
@@ -1561,10 +1561,10 @@
      "sector": null
     },
     {
-     "titulo": "4 muertos y miles de evacuados en Chile por intensos temporales - El Litoral",
-     "medio": "El Litoral",
-     "fecha": "2026-07-18T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUVZXa2hxZUF0OGhjbzVDMDJRR1M2dU1ZZ2RjZWxMQjFHa1poSEt1SHNLd19xUWw3SUNzOUVNZWNXVUhtX2VoaXJBRERTTXR2U19tTFAwVDF0MFFpUjhjcE92UV9uWnl4TVIyb0NuRnBPbFlVZ3B4R05DU1BGaklqSHhfM0wyRTh4ejU4bE5uaWtmWDlld2QxUUFrLWwySV9Tb3MwbzB4NDhRSnNOV3c4R1BEWGtUeFBTM0lab3d2WXVjdnNIWXhWLTVxSndYaGdS0gHWAUFVX3lxTE9seEQyZ0x4d0tWcTVhenAycHpjR2RGalJ4Ni1YSzJIUEI0aWFOYTdEb045d2V2Z05hWENWdWdhaE9zSzk1YWxXY3hZTDlOZF96b2o2MHl3NXRMZ2d5TEFyVG9jVG5hRUw4NlVDUzNaRm1LOWZXMnFBb3dIUjBIaEtLdWNYZmt4eHlxQkZqNnRKa3BYcjB4SmNIYzJieEZ3d1N5a1FXYTFEYW4ycUx2TW1CeDFGSl9WSk1JYkhYVlFwMmtFOVFzTTA1NFg3Y2VxRmk1LTlwVWc?oc=5",
+     "titulo": "Delegado revela que estero de Reñaca estuvo \"a centímetros\" de desbordarse y Marga Marga a \"un metro\" durante el sistema frontal - Puranoticia.cl",
+     "medio": "Puranoticia.cl",
+     "fecha": "2026-07-18T15:44:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORzVMVlkzVGZmT21TLTFfdWdFcy1jTDg4RC10eUNjTktNTU5WSldpNEJrNzFUX2U5VTUxdUEwVDhSblVyOVplakFJcDlfYWJSbWsxUDdZdWpqUU5hRE02dlk3WkRYYzBNbm03Qy1oaS0yVDFyTDNNQ2lGVmxFcVhNbVBTSzZvekVqMWw1cHcwWFV0U05DVWl2WFdpcGxJSFZqWEZhdFNubjdyZjBtWUZVNmtlT1dIdlY5?oc=5",
      "sector": null
     }
    ]
@@ -1594,6 +1594,13 @@
      "sector": null
     },
     {
+     "titulo": "Senapred decretó Alerta Roja para seis comunas de Ñuble por peligro de desborde de ríos - Cooperativa",
+     "medio": "Cooperativa",
+     "fecha": "2026-07-27T12:02:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWmlOeDNyMS1oVVQ5X1NCTHFnV0RndGhldVNZSzJVaGc5VmFKeGx5cndZVlZlM0o2ajktLWlnVHl6UUJVX1h0dWZSbFA0VzlxV21tQ25mSVNMemNxX092b0UwLTUwMlNsN0Z6SFJES210Z2hVS3V3ZE8weV9ZS0taZElvQW5uVkVkWG5UcEQ2OFJ6OE5lblZmeXFtRzNRVEpUMnJHRnFFdmtmT25WM1BuS0hqMDBvQTd4dkQtTzI4cm44SlVOMTh3Wk1Eb0x5bXdmLUMybVVnbDd0WGdnd2thaGpWUDlvR2tBSzhpUzJ0TlJoc3VKYU43cjBNY9IBjAFBVV95cUxQS3dCeHdGU01RWkVXSURieFZSNE5nT1Y4YVpWNGFVaUFsT0t2VkNPRVJPdHJMdktPRjVDanFmUThBNjBWbEV5RFotdUtJX21WWkFqUERLMTZyZTNLMlMzVm9CRExKaWZQQzdNQ0VXLUhZTjZEYmRNZDNfS0lWcmVKb2V3TXNzZkhPZVR1UA?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Alerta Roja en seis comunas de Ñuble por crecidas de los ríos Chillán, Niblinto y Perquilauquén - Radio Agricultura",
      "medio": "Radio Agricultura",
      "fecha": "2026-07-27T03:51:10+00:00",
@@ -1615,6 +1622,13 @@
      "sector": null
     },
     {
+     "titulo": "Alerta Amarilla en seis comunas de Ñuble por crecidas en los ríos Perquilauquén y Chillán - Radio La Señal",
+     "medio": "Radio La Señal",
+     "fecha": "2026-07-27T01:42:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTFFMGdpcWJDVFZHUHBtWW5wMEhVWDVVX0xUQWRIUjgzUEk3bnp6RjNoS2xPTkg3TTd4X0NGcFBOeFl2T1VMNjBwRm9xQ05UY0VWRE5QcE54S0FTVUxoVGdhT1I0T2VEVkpZaVNCMlFzQkRQWVBWcXVYSzNpN3h0MkN6Z2F4OG1DN0RZWUIwaU55UjI1OFdnd3NZQ0t5QkdpN2VmS0VySkNuTk04cnpHRjV5a2Y?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Alerta Amarilla en seis comunas de Ñuble por crecidas en los ríos Perquilauquén y Chillán - Cooperativa",
      "medio": "Cooperativa",
      "fecha": "2026-07-27T00:11:00+00:00",
@@ -1627,20 +1641,6 @@
      "fecha": "2026-07-26T23:39:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPT3NUajVHSFR1LUZkaks0OS1tNjQ2ckxRYmxQLVdBanZlazZCUTk1Vks4QXlFRHBIdVM1QXF4cklpREJOM0tqbWt0VHZPQXFGUDRDd1RNTHppREc5Q0hickNZNWdTTXlURU5fVzkwTnlkYzZEOE5Rc1VxeEVkdjZtTDRjN2FGSWlZUEswM0YyTXktSXBYaG1OWFVseXFWakJwVVRESGhKZmlfanRadFdmUXVnSVJPSHR1d3Y1a3JrR3ItUm83ZXoza1RBRm4tR0FheWNIekNqZEFRcnV1bjhuVEtVUkpuZ1ZVZDJkT1hVblRuRl9XNG1KTw?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "Senapred declara Alerta Amarilla para las comunas de Pinto, Coihueco, Chillán y Chillán Viejo por crecida - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-07-26T23:08:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOV3ZDZGFIOHptMDNacHFDN0Z1WjdMZ1J6N05PWHRwU1F5cUczSU83OVBHTV9oMlFjNVQzblZLWGlwM2NGZFVlb1ZpZ1NIbUxibWlNLUNRVV81TjVXX0FRaFl4Si0wczM3NXVPMi1YVzQzZGJRNUVwenI4R0tyTG5HazZwSHpHWFNHSGFKYzllN2FPRzh1Z1p6d082YnpIalB5elA4Z010ZFpmYUp0eEV3U215T3JkdEZXRmpPNmQ1UzROOTlpUU8xenlid1NVTWxzZmFPNXQ3Z0E3RV9Hai1WdWc0WktSWi0xcTE5VXFMcG9reGFTQmxiVmFRZWQ0bUI5b1RV?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Crecida de ríos y anegamientos: decretan Alerta Amarilla en cuatro comunas tras sistema frontal - La Discusión",
-     "medio": "La Discusión",
-     "fecha": "2026-07-16T00:53:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTHRIcUlnUnZlZTJoQlJJR2xxcE1VeVptU1Mta1RjSC1yQTJEYXJMR3g1N2ViQU9xMlctaWhuN2ZVNnpWSlU4ZUVTN29GZTNWazhDNTdZWVhrTklWZS1ZbU5LQjY1Z0dMM0gzS1p1ZUpFejFmRFc4dU9oU25KT3VRZ2lPQ0h5X0FIR29PbXpzSlBiR1BDd1NSeUdGd0FmY0dqbG51QWVFWXhxcURSOGsyQjNCbkNuTlZvYXc?oc=5",
-     "sector": null
     }
    ]
   },
@@ -1648,74 +1648,185 @@
    "comuna": "La Unión",
    "noticias": [
     {
-     "titulo": "Sistema frontal deja más de 200 personas aisladas y más de 300 viviendas afectadas en Los Ríos - RioenLinea",
-     "medio": "RioenLinea",
-     "fecha": "2026-07-28T17:08:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRzZXOXhTM3dDYWp1Z0VVb1NPaTdSd3R0UEFpbkczU09rc0xGcDJBLTB0RkR3b29RTVRDUkcwMmlmUl9iV0J2QTNUVVNWZ0dVcmtFTnhzWVVfb2IxNUhQckJxRmd4eXBaQ3ZVM0huQmtsLTVlMkFUVTVlbHF1eldTS1ozNnNOeUNPckdHWS1HUnRleTBTRTJJOHFyWWFMNllabTJmTzJEbHBlSHBhMmtjM3Fma0xycWI5cmc4WkZ3?oc=5",
+     "titulo": "Dirigente de La Unión y los severos estragos provocados por el desborde del río Llollelhue - Paislobo Prensa",
+     "medio": "Paislobo Prensa",
+     "fecha": "2026-07-29T21:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KOEp5aUlVR0hwSWt3aU8tZDRSOTRVY1NsNDZKRHNmTUt3Q3lqNzlwaW94MVdUdkZ3bTFTRWpvbHVDbWhCTDg0QWgtSklzcG96c2I4UEhvWm9RVlRKZFEtekNlVVVnMUJYUVhsbE9sREJNUUo3SERqNXAtdlA?oc=5",
      "sector": null
     },
     {
-     "titulo": "Infiltración del río Llollelhue inunda población Foitzick y calles en La Unión - MiradaSurTV",
+     "titulo": "Desborde del Llollelhue deja más de 200 damnificados en La Unión - MiradaSurTV",
      "medio": "MiradaSurTV",
-     "fecha": "2026-07-28T15:37:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmFnSlJOM0FneVlZU0xxRFZRWHlRNG51X1QxZFF0VmtMeEs3QlZXTzA5TzhvVWlaTV9NVE9ISEJrbHB3Y3Npa2dBanMwUXR5V3c0X2o5WnZNVVBHWU5VWEYyX2VvZmY3YkdVSnhBb29tVlVsQWpyek9ma2VXRW55WlJsNC1ETVloZ3hvQlVQNzNqdmpscjI5UVQxZGpCdVRPV09RYQ?oc=5",
+     "fecha": "2026-07-29T16:13:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVdvY29KSDZscHg1M1BJejJaSEppR0tVcXdkQnRRMXlxaEF2eTk5RE5rbTZPbFZQNlRQMzVib0x3bVBzVk5xZWFCYWVyQi1HWTBxTFlzQnl2MFRiVEdVUC1KNEEtWHBxMVNmZjI2ZmpYZURRMnVMYUZXb1F3N1FGV1JkbkxiZmw4SnFtZktQbHU2QQ?oc=5",
      "sector": null
     },
     {
-     "titulo": "Crecida de ríos en el sur motiva activación de mensajería SAE y alertas rojas de Senapred - Cooperativa",
+     "titulo": "La Unión: 200 damnificados y suspensión de clases por desborde de río - Paislobo Prensa",
+     "medio": "Paislobo Prensa",
+     "fecha": "2026-07-29T14:52:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOclR0elIxamx6QVZpSTNSQU9FelM4aTBJcm9zZDg4VTBadFI0Umo1YkZPeExQRDVybFk3cDBQQWEtdmdQTU8yMGEtVFdQdVZtd2FUUE5tSTZjZEdWU0I1Y2ZLUEpDSERoUzFNOE1iaDhDbjZ2ajJZMHBDTUpfTzBUNw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Reporte del impacto de sistema frontal en zona centro sur del país - Paislobo Prensa",
+     "medio": "Paislobo Prensa",
+     "fecha": "2026-07-29T12:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUDR0b3dTeEVaSWoxTnJCdThUeE1YVWg2NVRsSmxrcWdKYzR3V0pPLVJOWGRUSmotTlVjRjFuR3JSbjRwTVM4WUVYNkExRXNlbGpjcUljMjZndExjVDQ5LW1JY0l3am5KMUdFcmZ5cklEdjc3S3FJTWs0UUJvYURtTQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred emitió triple alerta por riesgo de desborde en Los Ríos y confirmó nuevo sistema frontal - Cooperativa",
      "medio": "Cooperativa",
-     "fecha": "2026-07-28T15:29:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaFZwcTNLZHRQU3cyVGpKN0lSaUFzZXN3bzV5MmE2cGRHUWh5WUxBSHpTRkNQTzFzSExncHpCelBXdHpTOWVaVHBEb2l1RXViajZ6R0J5TXgzZW1pZW9Hck1xa2djSU9iRF9uLVhHamp3OHY0bFJmekZFWVFkSE1QSW1zV1NhNFprcXl0Z2NZblNNWmhnZHY2ODAySjByS2Zzc3VDYmdRYTJpVzlUMEJBdzFKTi1QcEVZaVhZQ1U2dGR3QmtBY3JCazk2ZTB2czNGd3hpZjZmVVBYQQ?oc=5",
+     "fecha": "2026-07-29T02:09:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUThBUEZha1Brb0NvSGx1cVZnVUhwNUhGbXdQaEN6UDd6TEZ4TDFlSklEQ0xWQ2ZZRUNRelozR0dhNFRublVyQ3g3RWIyUU12bnhGRjdZaWNBQ1I2WEVDR2ZydXNMdlJmYW5wbUtHNDZ4SDNZbnU0dUdRRHNIbk1jZF9RZWE3OFVFdlozQjhuQWI2Z2xBRlI2U0htZzg5UncybzdHRkMxUExtbWxsclFjWDBaZ0t1bk9NU2NXYWhnMFg5WURBYjBRZ1FsbEhpU1pfSU1ZamNYbmtpbXZXX3M0MG9jLWVaRkpwbFFQNy1kc0pKTzNNQ1HSAYwBQVVfeXFMTWFfdlU5aE9oMHc0WnlxTy1TbVByS1lYdU5vQ21MYTV1MjY5bGY5LS1Ic3VCYk5aRmVWR3pqVHMwOWFyR3IzTFFERVpaWXpfTVRyMnpreVF5NV9DZlZiME9tQVd6RHpmbGtvMGV2WkZyYjg3N2hYcjlyU3IwX1lDTlN5RUl4X2g5Yjh4MzY?oc=5",
      "sector": null
     },
     {
-     "titulo": "Declaran Alerta Roja para La Unión por desborde: Río Llollelhue aumentó su caudal - BioBioChile",
-     "medio": "BioBioChile",
-     "fecha": "2026-07-28T15:01:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNS2VYSFcwRkgwQkJtWWVjUG85WU9FREh3bTlaU1pieHFLVWM5aHZZUWRjcVBXRGd0ckUzRU1md1Z6S1psa0dBS1MzdjViNmxjV3A4SjhRakthUDhfa19HSC1BSTR4MmFGZExsMlFFbmxBM1V5MXEteWNOTl9LaWlvOFhzWW90c1cwYjJPaTlVOHVuaUt1UTJtdGM4cWdPZ3IzXy1hbWR0TmExVTdkTlRMTkdQZ05pakx1TUtxR2N1LWVNajBMeUlCdnViSk1Xa0dfbEVuakROSXlOOWFUNC03SUQxRGhEdjRGNHY3ajJaaENEdzA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Por desborde del río Llollelhue: Senapred llama a evacuar tres sectores de La Unión - CNN Chile",
-     "medio": "CNN Chile",
-     "fecha": "2026-07-28T14:49:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmJ0YVZOVjRESW85OXZWdlN6U3JuemtJVGdrU3VGYjUtNjBEalpjdFFFODVsT3otSzQ1cVVXOHlRMm9TOGh5eDRndWlyR1ZqN2hQVzVudDdqWHl4VzdUSU1faUQwVWRpSmFEa2RtQ1BCY3JtMW5zVmhTSXBEdnY4VElPaXlYaXd1Q3RuT2c5WHVVRWhDVjg1QldqTGZvMlcwWHZrbjB6ZDhRMktQLVRfVmRtSQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred declara Alerta Roja en La Unión por desborde del río Llollelhue - Radio Agricultura",
-     "medio": "Radio Agricultura",
-     "fecha": "2026-07-28T14:39:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRVhFRnBmczNicEVLRnVnWi1FUjJkcUZoY29yS3MySkE0U2lpbnZSNmVCUnpqenNnN3lydkExdTBLRGhULW9LWFZkb2dWRXpVa3ZfTThsRzktWlJXSzV3ZUNzb25hUUJyeklBVC1FQkZUTXZsb2NMSl9GRjhMbGNwNHZHYVJYUEx2YTlNM3NyaTdKalo1V0NlWWlEWkdlanFEZ29MSElhSFM3MXhxWHV0V2NFNV9zSndDbzhyVENIdkdSVGh5WlVmVkVjUzM?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "SENAPRED solicita evacuar sectores de La Unión por desborde del río Llollelhue - Radio Agricultura",
-     "medio": "Radio Agricultura",
-     "fecha": "2026-07-28T14:10:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEJrMnBTWXRISHRnc3RtYTE0T3FBenpHRVo0djlhMk51TDB1Ym5NUGdrZ05sZ3JjV1dKbDlGU2dyVFVUUE56UktXeWJZbXZiWnZydlUxQ04yejJ4V05jMkxOWnJBZnFQeVJQTW9YMTRuSk9Od1NNTTBma0dEbDBzV19JbkpEbXJKUGFyRzBOdWJEZE9oLXVnX0VtOFhxYjZCRHBjdzlFSWdPVTBIWnVha1hvZ1B4bE5iNFpSdnYxdDB2WHRxTE11Q2xsbWI3N1pjRWlLbg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred declara Alerta Roja por desborde para la comuna de La Unión por crecida - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-07-28T14:07:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbEstMl8yTTBSN2YxWEduZlF6UUl5eHhiY0gxLWRBSkhaZnhBVkdMNENEWk9XR2xNQURvVFJJNGEwOG5xaVpUMHpLNHVNS1VkNF9ObjlCS0Vwb1BVRUxTcDV5ZnpHWjJsSzFGa2JDRURMVWFzak5JanhpLVBzZkxmRjBTVTJmcnFPUzU2SjhXWlZIaDNIaFlhTmd4ZWRYZk9XVEJQVDZ0VzlmSjZRS3hOM0wtZnFFVjZaeUFrTlM4dk9YXzhTYVgwT25oY01FcHY3T1VOcV8zbk1MN1doN1VIQkJMMnFMdl9D?oc=5",
+     "titulo": "Sistema frontal: piden evacuar tres zonas de La Unión por desborde del río Llollelhue - La Tercera",
+     "medio": "La Tercera",
+     "fecha": "2026-07-29T01:24:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSlRXakNnQTZlVm0yNlo1b0pXOTVlNFE3NEx2WnVzREhNbnRxZ1ZIdkRxdVF6Uk00VVVISzRCTktDbTE2Mi1BR2JPaVJ4WDR0b1dLRWVONHB1ZUFnZWRWWEsyQU92aU4tekc2UTJyTko4M1B0SmE0SDAyWVRaMVktWnVmZ0Y2VFFGOHlYWnJCbERzdm5HY0pBWjNoMUNuY1RPcjk3RHBmVk1XVk8tMmY5bmdUZDA1dGU5V1dUWjFuRHpGcUIzNEE40gHoAUFVX3lxTFB4cFBiVmZSZEJLSW1uanZXWlE5d3ZCNENrZEhQN21iV1hCMTdpWXlCRW85SERxbnlmYUUxVnJ1UnZaZWlLNXEySVJUQkNFWElTMlcySnVQVHlpSThzNW03SC1aYV8zM3p0XzQzS1FuTTdHSVBRYVpNRUZiWmxuN2VSM1B4bGpUOFhBRkVrUDBoSHVsTnV4VUlrVEZsbjhaSW5UdUo1SHBHY1JOTWI0OEtVTWhSanFlbFh2ZXJ2ZkJqbS1fX1Vrdjd5ZFRVTEdxT245Y0F4bTRTanBsMEt1bzU3UEowVUEzb28?oc=5",
      "sector": null
     },
     {
      "titulo": "Senapred ordena evacuar sectores de La Unión por desborde del río Llollelhue - VLN Radio",
      "medio": "VLN Radio",
-     "fecha": "2026-07-28T13:43:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVklDSE15empDT21tbUkyZG1aMmhMdjd0YVEyUEd5NXVNOE5TM2tob2l4cXF2X2ZaUWo4NDVKTU91aGhFQVFBdVJ5Y0k3LWlVNWU0SkQ1WXlaamNYUW1NR0pfdExkR3NyTy1SN3Axei1ZWEExTG54LWRlUUdRR1U4V3RiejB5LWkwbWN0b28zeWFBcFBzdDdGN3BqRjM5RUtacFpubFdDZW16em8yNVZyTkhpWG80NXJBLWhZRTZ1U1RtQ0prTGVMT01MQXVYS0hxYTlWcFhzd1pOM0ljZEppV1Z6WQ?oc=5",
+     "fecha": "2026-07-29T00:25:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOE5QM0FQX3dNU2ZtWHA3UzgzVVZrWkdLTUNsZkI5dFE2dnJzSFppVkVlMkk5LU5WSUY3THBLVGhrMllnamI4S3F2amlqekRsc3I5WGN6eVlxSmNRRm92R2VvMkpHSllSeWE2c1N6bndtdGo4VUtHS0NqNnllXzh1enROR2M2X2RtWTVZUFM3V2dqcWF2YXBTVE1STE95LVFDZWgzRXJQZ1luLUNENk5xTmtZRnRDdlgtWlE5NE1QYVlKcG52NllhNldQSmh0SElpbko0dUFZMVJ1dVBkX0UxeWdEQ1drZw?oc=5",
      "sector": null
     },
     {
-     "titulo": "Crecida de ríos activa Alerta Roja en Los Lagos y Amarilla en La Unión - RioenLinea",
-     "medio": "RioenLinea",
-     "fecha": "2026-07-28T12:20:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQy1zcG10SU5teC1vNjhrbHJCWFJ6Q2xFY21hVDJyTzF4MmR2bWRnMExiRDRKUjIyamF0WmE3bWh0MmFyWThpOTFYWGVZRGcwV0ttUTNsN3o2ZnozVHJEZVg4YUtPSFlwLWc2bUdRX1ZTM2cxdnJiUTJDYmphb1Q4NWhpckg1YzFyTWRFMjF5dmdIUW1oSmxYX2tOcUZEdw?oc=5",
+     "titulo": "Senapred llama a evitar sectores de La Unión por inundación: Registros muestran estragos por aumento de caudal de río Llollelhue - meganoticias.cl",
+     "medio": "meganoticias.cl",
+     "fecha": "2026-07-28T23:26:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcGZQTC1pTTZLX29jdXBUN3R1enZlTGtzcTJRcFBlV2NMY1BTMkFzemMxMnRfdzZFaklvanpseFFVMlZ1bFhjWkR3RUpid1h1ZW1jSFFZc2tqTHU2YjRVTXBSTFNaNWMtanNwSlhjdHA1MGZ1b09Ibm55Y2c1M05FXzdWbFZtZHdjaS1QUUxrZEFYaXJyZXk1Y3hkV2RJdjFqS0poTW50ZHlGbjVKemlEeTZwWnM5TktMNFpDYUZiNXctdTFJUFpWa2VrVkpwM1XSAdQBQVVfeXFMUDdXVVRUTG9IVlhMcElFQ3hTVUs3bFE1WGsyWUxQdWhnN0VfWGxTOUk4ZHdETzhFanNZcUNyX0pEZXl2eEI0b1Nsb0F5R0duNDh2cV9tY1VjZ3RUUDRsbHJCTUdFeXRPeUJmMWNxa3BiUHlGeWJ5ZjdsMXpiUGY0RlNZdk42ZDdHUTZQeTF4VXRyM0QzMXBLUzlPdVd3bXVCVm9lYTZ1V1A5UGY3QkdHMDlzdG8xR2VoT2NtejdCVXJ1TzJIMTdnS2R6Ri1xY0ZrV3ExcFQ?oc=5",
      "sector": null
+    },
+    {
+     "titulo": "Aumentan a 40 los damnificados y hay más de 130 viviendas dañadas por temporal en Los Ríos - RioenLinea",
+     "medio": "RioenLinea",
+     "fecha": "2026-07-28T22:00:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOEdfS0tPYTR6SFRLb205YnAzVnA5RmU0bXo3THVjcjNyVl9yLUsySVhtdVlDSXdhZ0FBRmdybUtseVByT2lDMXV1MUQxal9XSXVydmd3bWh4cnl4S0hYTDI4M05YM3VVWi1hRVl1YnBYbEMyVk53dGRNeWhuVElYSWRJOVRWcUJORWpZN2swLTVHdm9YSlZ1LTd0LWpZSGh5ZS1lOWZTeVJteWVHcUFHdXpfcGhrRXd4?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Sistema frontal deja más de 200 personas aisladas y más de 300 viviendas afectadas en Los Ríos - RioenLinea",
+     "medio": "RioenLinea",
+     "fecha": "2026-07-28T17:08:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRzZXOXhTM3dDYWp1Z0VVb1NPaTdSd3R0UEFpbkczU09rc0xGcDJBLTB0RkR3b29RTVRDUkcwMmlmUl9iV0J2QTNUVVNWZ0dVcmtFTnhzWVVfb2IxNUhQckJxRmd4eXBaQ3ZVM0huQmtsLTVlMkFUVTVlbHF1eldTS1ozNnNOeUNPckdHWS1HUnRleTBTRTJJOHFyWWFMNllabTJmTzJEbHBlSHBhMmtjM3Fma0xycWI5cmc4WkZ3?oc=5",
+     "sector": null
+    }
+   ]
+  },
+  "los lagos": {
+   "comuna": "Los Lagos",
+   "noticias": [
+    {
+     "titulo": "Senapred decreta Alerta Roja en comuna de San Pablo por desborde del río Bueno: 15 familias quedaron aisladas - ADN Radio",
+     "medio": "ADN Radio",
+     "fecha": "2026-07-30T00:54:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaTc0emdFLVFZc1Z2NW90Y1JsNGtIcmVsLXpsa0tGUWFzN3NHdmhteElaNGJoQTh2TklYTzdxVnFqSURDYm9GSElnQmMzbmJZZVNVbExySVowUzBSZjhQYXNDY1ZwNl90N0pjWkNhQ25UQVczOTVlck5xSEtuQlUwWndvdGpFbUlTZDZCRGhWTkNRcUdZVXBRVktZTmM3Ykt0ZmRlU1pvaGEzLXA0Qk02dk9aZjNRamVVUmZqUmNSbDZ1ZXpqeVN6dmU3V2VzbTdSVVVkQ1ZFZFhCeURU0gHwAUFVX3lxTFBJMmFQSE0tOHpzUHdpMjdtZUtGaGo3NkNVdWFuR3RMa3R5UFVFZGYxZy1PLW8xLXBJTndCT0ltTFgwNFlKUVMyRHk5bk5FWGxCcy1Hcm13SHVsT2dYZ250TDhONXZNeU1sTkNpUkVBM2Rzc1RiX1BBVERrRmE4bGoyWjJZcmFXc0pwdXR0eFdtWDFZQ1p2UTBGSGJDTXVZeVZvN0Y3bXhYcUw5MWNuTUZKeEtPMWJSQ0xzbWV0U0RkTGVnbDhlbEtyZFI3bmxLX3hOQnZRc3ItLXhQRVZMb211NEJBNmYtQ0pmTWphMXlQcw?oc=5",
+     "sector": {
+      "nombre": "río Bueno",
+      "lat": -40.33685,
+      "lon": -73.12731
+     }
+    },
+    {
+     "titulo": "Desborde del río Bueno obliga a declarar Alerta Roja para San Pablo: más de 80 familias aisladas - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2026-07-30T00:39:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNkNkeHVWbHRXQmQtZXctWGdRM0RMVUlhN0ZkazF3bWxTQVc0UE5WeXhtZlctZElXZG83ZzlrbU5SVGhPal9kd0FWTjd1UVQzY2hCN3FCa2g1MzV1cm1LeFpWeS1xc2lReWw4NFpnZzZBNFVwLXk2RHBhOEhXdWlxRDJkMWhfUHpFZngtb2RMMkxfQ25iZ04wa3B4OFhGajg2RmpiUE5qNHBkNWpBcjM3bGFHUTdvcTkya2pFcUNpOWlHSDJQSjRrMkxwLXlySWNuWnBGVFdQU1Z6SGI3eXZQRFhhNEFkRXpXclRRYkRjUlE3MHM2bEZ3MzFzTVFHd05JeFJXX2JqTFdScTg?oc=5",
+     "sector": {
+      "nombre": "río Bueno",
+      "lat": -40.33685,
+      "lon": -73.12731
+     }
+    },
+    {
+     "titulo": "Los Lagos: 80 familias de la comuna de San Pablo están aisladas producto de la crecida del río Bueno - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2026-07-29T23:44:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTWRGR1ZmSloyZS1QQnlNb2ZyOUlWd0NuUFBnNXJqSXM3SU5fekkzdnRTNTRkUEJtZ0JteGNxcmQ4VWNOUkpDWlJvYXJUWnJaVkhpUUIza3VjSW81ckllQ2tQc3lMTkt3TWFzU2ZVU0h2WS1vbXpZWjEtcU4tSkVoYlNZVW1kTmt3TVVKZDVxNENMYVMyb25TemVKdnl5TWFMLS1nZEhQVnYtR0UzU0EwU3Q1aHBVOXh3STE1ek5IMFM4bFQyWUo2ckRSaTV0Mi1OeWZjTlVtSDFmT1ptcWx2WERiUEhXVG9ZX0JqSmh5NVhZZ21NaGhabk5sd21sWnI1UU9zRldkejVsckJ4akE?oc=5",
+     "sector": {
+      "nombre": "río Bueno",
+      "lat": -40.33685,
+      "lon": -73.12731
+     }
+    },
+    {
+     "titulo": "Se inició cuenta regresiva para instalar cobro electrónico en peajes de Ruta 5, en tramo Río Bueno-Puerto Montt - Radio Sago",
+     "medio": "Radio Sago",
+     "fecha": "2026-07-03T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNWxxR0NuVHgwU1Vpa1RfaXA3d290ZF94YXdQLVFjYUJlR3NnbFJXLTZkanptWG5BeU5MVVlsSnJlaGI4eEtHakNfbzNrQ0VMM0huZXVTaG9HYUNCeV9sMHgzbEc1QVhIX3RIQjQwaWNlQnVncFRRRkJlUDkxeDZpXzQ3Z2FaN1Byd0FIRHczMVJrZFljVW9IcVhacTh2X0RWUUpDeUkxZ3FySlQ1bDhUZ2lOZ2I3LWgtYUZtNkFXemRKenp5NDVHVTM0VGxtUDZUc1E?oc=5",
+     "sector": {
+      "nombre": "río Bueno",
+      "lat": -40.33685,
+      "lon": -73.12731
+     }
+    },
+    {
+     "titulo": "Hospital Río Bueno destacó avances en resolutividad y preparación para el futuro hospital durante Cuenta Pública 2025 - pautalosrios.cl",
+     "medio": "pautalosrios.cl",
+     "fecha": "2026-06-26T15:07:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQVQ0eE9tb21tbVFObEF4VE1vRTFSVEY0YUZzWnJtSE9TN2ZONU8yQkZCS21WSHBQcmRZZVFnMkl0WUs4S0lxOVVmdjJsU05BNzZ1TkZHQkhwOUZnTnFCT3JsWE80VUZqZWQtejA2SW5PdDZsSTMzQzVLZFp0QnZQeExNUDJqdlNiSGo5M0EwLWZPelBfaTJzVjJtZVpseEllbUlYUkFRd2FKS1JGOFU3VXg0VmxUWnF4MkJSRlV5TWVPdV9venJBMEkyalBIQmNuWndKTFpMSGxzUQ?oc=5",
+     "sector": {
+      "nombre": "río Bueno",
+      "lat": -40.33685,
+      "lon": -73.12731
+     }
+    },
+    {
+     "titulo": "Piden al MOP socializar nueva concesión de la Ruta 5 entre Río Bueno y Puerto Montt - Periódico El Insular",
+     "medio": "Periódico El Insular",
+     "fecha": "2026-06-24T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORW1QWmh2QnJZeWJLbHhXN2R1bkVSUi15NzJNeThtVS1FMmxEUDVUWmZxUWNIUVEtaEh2TDhjV1Iza1p5RzZxMHk1R2xuTXJoVWpLM3d6dkZPeXlVeWkyVk9WbDNYSHUyRTNjSmdTeWJCS1VLeUFaMGNzMWhLSjJlclhVc3l3bWFLUDlaRk14dEJUYkNJR01TRVFuS1ZKY29CNXdVS2Y1WE8wSk1IUU1hU2t1Um9GMzQ?oc=5",
+     "sector": {
+      "nombre": "río Bueno",
+      "lat": -40.33685,
+      "lon": -73.12731
+     }
+    },
+    {
+     "titulo": "CORE Los Lagos exige al MOP socializar detalles de nueva concesión de Ruta 5 entre Río Bueno y Puerto Montt - Radio Sago",
+     "medio": "Radio Sago",
+     "fecha": "2026-06-24T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY2NoQ1puNTJWR1BfSF9pN2toNnd5cmZpa3ptNnl5LTItaUl1VzJzNDNYZnFBdjFnVGVSMDg1NllHQnhoM3JoektRTHNfbEFUU0tSRDZhTzFfbG5ZQ0RfQmJPV214TWI0WG1kVE5ONGE2WThNMHVBNTFibXhLbFZ5akRNTlV1XzJ3UzhWVjRqbUNNX2FFRjVfc01USHNycmdfOFFWVTEtR0lLVVd5UGJ1MXVsdC01V0ZhMlhQbFNHNTM0T3NtMWloTDkzS0hhdw?oc=5",
+     "sector": {
+      "nombre": "río Bueno",
+      "lat": -40.33685,
+      "lon": -73.12731
+     }
+    },
+    {
+     "titulo": "¡Feliz día!: soldador de Río Bueno obtuvo tercer lugar en concurso Súper Papá 2026 - Diario Río Bueno",
+     "medio": "Diario Río Bueno",
+     "fecha": "2026-06-21T16:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTTdBeUR3U2dxVWRFRjlBUUhyOWNKaGw2SDl1Z0wzMEY3ZWFJR3JzdmltcEJPV0dfY1h0MGtGYVpSYzhfRHVZalJqV0VPcTBjOFoycTVnQ2F5U3dqcUNubXhQYlRCWElsS01LV0NZXzJZUFZUbTFGeVl4SjRFaVVuYnJsb2haUU4yZzdLYmxpZ1IwcDE0REdxbjNGbFhtSGVkRzFfQzZxS3piWmlSMWdPQTlyY3dYWjR1SjZ3MUhFVUpScVRmVG5IM3JtRDl1Sk1zNnc?oc=5",
+     "sector": {
+      "nombre": "río Bueno",
+      "lat": -40.33685,
+      "lon": -73.12731
+     }
+    },
+    {
+     "titulo": "Conoce a los cinco padres que compiten por el título de “Súper Papá 2026” - Diario Lago Ranco",
+     "medio": "Diario Lago Ranco",
+     "fecha": "2026-06-17T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakx5R0pQTWk1TTY3ODBtdEFFQWpWbV83SW9VYWRnZ2d3TTBfQ0d2aVItMkRNLUhfTUNiMWdzQ2hZR0ZrLXZRbk9uNnZHeGRwck41UVEzLU5kanlTeWRsQzd2elcyejVCeFhCLVJIVXJDRFA2elR1dlU3cUJIRjRmTmxYdVNuQ1MwdHJWMk1HejRkWGZEc0hMZTFBb1NpU2hid1FiT25ObkpoSkw3N3NRV2pUTlVtVkNnelQ5WkZ4dEM4bnZxSG9oRA?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Soldador mecánico de Río Bueno busca ser el ganador del concurso “Súper Papá 2026” - Diario Río Bueno",
+     "medio": "Diario Río Bueno",
+     "fecha": "2026-06-16T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeVFoQXZyUWJWVU8zazhHY0RtRUQ3TGFqM216QXlCVlNkUjJQV0lOeFN1S0xuQ2RYTlU0YnRzeFJWTGZ5a3pWSzJDYzZPVFl4TlAwZmpKcl9Xb0l5ZnRXY0NxeXJSVndTaGdOWmktcU1aYlVHbEVGa3R5empRZ0FoNjVlWld2clZVS0RJQUNzaE83SXdtVlFkY29TV2VZSElCTXhaNlk5UHNWZUNObFhpTHdWcmFMRnRPMzloN18wU2duZy1leW0weG4zajl1ZWYtVlhN?oc=5",
+     "sector": {
+      "nombre": "río Bueno",
+      "lat": -40.33685,
+      "lon": -73.12731
+     }
     }
    ]
   }

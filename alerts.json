@@ -1,13 +1,71 @@
 {
- "generado": "2026-07-29T23:48:36+00:00",
+ "generado": "2026-07-30T09:38:00+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 24,
+ "total_vigentes": 25,
  "alertas": [
+  {
+   "id": "ea74b60ded17",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se modifica cobertura Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por heladas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantiene vigente el siguiente alertamiento para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Aviso A361-1 Heladas normales a moderadas con formación de hielo en Cordillera Austral Sur, Insular Sur, Pampa Patagónica Norte y Pampa Patagónica Sur (entre -9 y -1 °C). 30-07 31-07 Además, el pronóstico especial emitido durante la presente jornada por el Centro Meteorológico Regional Austral de la DMC señala que las temperaturas mínimas esperadas por comuna son las siguientes: Sector Comuna J",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-29T21:53:47.4747-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-heladas-2026-07-26-16-29-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "29b104b7fad1",
+   "nivel": "ROJA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Aviso A365-3 Viento normal a moderado en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera (25 – 80 km/h). 30-07 01-08 Aviso A364-3 Precipitaciones normales a moderadas en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera de la región. 31-07 31-07 Asimismo, conforme a lo indicado en los alertamientos vigentes,",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-29T20:52:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "253b289b7d3d",
+   "nivel": "ATP",
+   "tipo": "otros",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero SAG de Los Lagos, mediante resolución exenta N°703/2026, el 23 de abril de 2026 se declaró emergencia zoosanitaria activando al Sistema Nacional de Emergencia del Servicio Agrícola y Ganadero de la Región de Los Lagos. Cabe señalar que, al día 27 de julio del 2026, la Región de Los Lagos cuenta con, 01 foco activo de Influenza Aviar de Alta Patogenicidad, en aves de traspatio, en la comuna de Quemchi y 01 foco activo de Influenza Aviar de Alta Patogenicidad en aves silvestres, en la comuna de Ancud. Adicionalmen",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-29T20:21:17.1717-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-zoosanitario-2026-04-23-19-16-12",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1027ec050d02",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Amarilla para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Alerta AA114 Precipitaciones moderadas a fuertes en litoral de la región. 30-07 30-07 Aviso A364-3 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. 30-07 01-08 Aviso A365-3 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. 30-07 01-08 &nbsp;&nbsp;&n",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-29T19:57:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "5a27046b2bf9",
    "nivel": "ROJA",
@@ -65,20 +123,6 @@
    "regiones_extra": []
   },
   {
-   "id": "29b104b7fad1",
-   "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Aviso A365-3 Viento normal a moderado en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera (25 – 80 km/h). 30-07 01-08 Aviso A364-3 Precipitaciones normales a moderadas en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera de la región. 31-07 31-07 En consideración a estos antecedentes y en coordinación con la D",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-29T14:52:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "885977e674be",
    "nivel": "ATP",
    "tipo": "viento",
@@ -89,20 +133,6 @@
    "estado": "VIGENTE",
    "ts": "2026-07-29T14:45:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-07-13-12-33-07",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1027ec050d02",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Amarilla para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Alerta AA114 Precipitaciones moderadas a fuertes en litoral de la región. 30-07 30-07 Aviso A364-3 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. 30-07 01-08 Aviso A365-2 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera 30-07 01-08 &nbsp;&nbsp;&nbs",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-29T13:50:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -476,22 +506,6 @@
    "url": "https://t.me/SenapredChile/1441",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "14ffadf2cc30",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Magallanes por heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantiene vigente el siguiente alertamiento para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Aviso A361 Heladas normales a moderadas con formación de hielo en Cordillera Austral Sur, Insular Sur, Pampa Patagónica Norte y Pampa Patagónica Sur (entre -9 y -2 °C). 27-07 30-07 Además, el pronóstico especial emitido durante la presente jornada por el Centro Meteorológico Regional Austral de la DMC señala que las temperaturas mínimas esperadas por comuna son las siguientes: Sector Comuna Lun",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-26T16:27:52.5252-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-heladas-2026-07-26-16-29-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "9ab1b5149c38",
@@ -2620,20 +2634,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "27df20f70f10",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por bajas temperaturas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) ha sido cancelado el siguiente alertamiento meteorológico para la Región del Maule, debido al debilitamiento de las condiciones meteorológicas que lo originaron. Alertamiento cancelado Pronóstico Aviso A284 Bajas temperaturas en Cordillera de la Costra, Valle y Precordillera. En consideración a este antecedente y en coordinación con la Delegación Presidencial de la Región del Maule, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por Bajas Temperaturas , que se mantenía v",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-06-29T12:19:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-bajas-temperaturas-2026-06-26-13-37-33",
-   "origen": "senapred_web",
-   "regiones_extra": []
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-29T23:48:40+00:00",
- "desde": "2026-07-27T23:48:37Z",
+ "generado": "2026-07-30T09:38:35+00:00",
+ "desde": "2026-07-28T09:38:31Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,13 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "XWRGFUU9kts",
+     "url": "https://www.youtube.com/watch?v=XWRGFUU9kts",
+     "titulo": "desde coquimbo al biobio viento moderados a normales por lluvias",
+     "canal": "Info Red Digital",
+     "publicado": "2026-07-30T06:01:18Z",
+     "live": false,
+     "score": 5.7,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "ML7VbqVs9t8",
      "url": "https://www.youtube.com/watch?v=ML7VbqVs9t8",
      "titulo": "🌿 Después de la lluvia,los árboles bailan con el viento #Chile #Coquimbo #Nature #SlowLiving",
      "canal": "Amandi’s simple life | Chile ",
      "publicado": "2026-07-29T23:10:30Z",
      "live": false,
-     "score": 5.95,
+     "score": 5.13,
      "verificado": false,
      "embeddable": true
     }
@@ -27,13 +38,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "9AEpNU0957A",
-     "url": "https://www.youtube.com/watch?v=9AEpNU0957A",
-     "titulo": "🔴 CULTO EN VIVO 29-07-2026 |  MMM Central Montevideo Uruguay",
-     "canal": "MMM Montevideo Uruguay",
-     "publicado": "2026-07-29T21:43:58Z",
+     "id": "Vah8kseT644",
+     "url": "https://www.youtube.com/watch?v=Vah8kseT644",
+     "titulo": "LA UNIÓN 👉👈. HACE LA FUERZA  está en vivo. hola buenas 🤙",
+     "canal": "LA UNIÓN 👉👈. HACE LA FUERZA ",
+     "publicado": "2026-07-30T08:22:16Z",
      "live": true,
-     "score": 4.83,
+     "score": 7.89,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +55,7 @@
      "canal": "origentv",
      "publicado": "2026-07-28T21:01:05Z",
      "live": false,
-     "score": 3.77,
+     "score": 3.0,
      "verificado": false,
      "embeddable": true
     }
@@ -62,7 +73,7 @@
      "canal": "24 Horas TVN Chile - Red Maule",
      "publicado": "2026-07-28T15:32:34Z",
      "live": false,
-     "score": 5.31,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     },
@@ -73,7 +84,7 @@
      "canal": "VLN Radio",
      "publicado": "2026-07-28T12:38:46Z",
      "live": false,
-     "score": 5.07,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     }
