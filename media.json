@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-30T16:03:43+00:00",
- "desde": "2026-07-28T16:03:39Z",
+ "generado": "2026-07-30T20:44:28+00:00",
+ "desde": "2026-07-28T20:44:25Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,13 +9,35 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "_Pmlj5LAh6Y",
+     "url": "https://www.youtube.com/watch?v=_Pmlj5LAh6Y",
+     "titulo": "RRC Noticias | EN VIVO",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-07-30T20:03:28Z",
+     "live": true,
+     "score": 7.94,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "NJihjMvWhyY",
+     "url": "https://www.youtube.com/watch?v=NJihjMvWhyY",
+     "titulo": "CEAZA advierte lluvias, nieve y fuertes vientos en la Región de Coquimbo este viernes #shorts",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-07-30T17:42:35Z",
+     "live": false,
+     "score": 5.75,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "XWRGFUU9kts",
      "url": "https://www.youtube.com/watch?v=XWRGFUU9kts",
      "titulo": "desde coquimbo al biobio viento moderados a normales por lluvias",
      "canal": "Info Red Digital",
      "publicado": "2026-07-30T06:01:18Z",
      "live": false,
-     "score": 5.16,
+     "score": 4.77,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +48,7 @@
      "canal": "Amandi’s simple life | Chile ",
      "publicado": "2026-07-29T23:10:30Z",
      "live": false,
-     "score": 4.59,
+     "score": 4.2,
      "verificado": false,
      "embeddable": true
     }
@@ -56,24 +78,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "A2OI5RAMFwE",
-     "url": "https://www.youtube.com/watch?v=A2OI5RAMFwE",
-     "titulo": "Día de la Región  del Maule 2026",
-     "canal": "Teatro San Javier  TMSJTV",
-     "publicado": "2026-07-30T14:50:33Z",
-     "live": true,
-     "score": 7.9,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "SQDMH3NpBXo",
      "url": "https://www.youtube.com/watch?v=SQDMH3NpBXo",
      "titulo": "Linares Chile, Region de Maule",
      "canal": "Radio Buena Nueva",
      "publicado": "2026-07-30T11:54:00Z",
      "live": true,
-     "score": 7.65,
+     "score": 7.26,
      "verificado": false,
      "embeddable": true
     }
