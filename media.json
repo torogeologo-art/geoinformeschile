@@ -1,43 +1,98 @@
 {
- "generado": "2026-07-31T13:21:04+00:00",
- "desde": "2026-07-29T13:20:59Z",
+ "generado": "2026-07-31T18:49:06+00:00",
+ "desde": "2026-07-29T18:49:00Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
+  "puren": {
+   "comuna": "Purén",
+   "region": "La Araucanía",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "Ya1g1oCC0fM",
-     "url": "https://www.youtube.com/watch?v=Ya1g1oCC0fM",
-     "titulo": "🔴 EN VIVO | NoticiasMatinal | Canal 9 BíoBíoTV 💻",
+     "id": "T91VB9a0_dw",
+     "url": "https://www.youtube.com/watch?v=T91VB9a0_dw",
+     "titulo": "LOBAS PURÉN VS FÉNIX CASTRO - COPA ALEMANIA FEMENINA 2026",
+     "canal": "Rama basquetbol CDA",
+     "publicado": "2026-07-31T14:44:15Z",
+     "live": false,
+     "score": 9.66,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "9TWXLYDbvho",
+     "url": "https://www.youtube.com/watch?v=9TWXLYDbvho",
+     "titulo": "LOBAS PURÉN VS FÉNIX CASTRO - COPA ALEMANIA FEMENINA 2026",
+     "canal": "Rama basquetbol CDA",
+     "publicado": "2026-07-31T14:43:42Z",
+     "live": false,
+     "score": 9.66,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "9jO2Yp8tJT8",
+     "url": "https://www.youtube.com/watch?v=9jO2Yp8tJT8",
+     "titulo": "Sommer Inspiration bei ESTID Fashion. Entdecke puren Luxus von www.estid-fashion.de. Jetzt shoppen!",
+     "canal": "ESTID Fashion",
+     "publicado": "2026-07-31T14:27:21Z",
+     "live": false,
+     "score": 9.64,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "jqWsfKXa9v8",
+     "url": "https://www.youtube.com/watch?v=jqWsfKXa9v8",
+     "titulo": "Copa Alemania 2026 - Gabriela Mistral VS Lobas Purén - Dia 2 (Cancha Fritz)",
+     "canal": "CopaAlemania CDA",
+     "publicado": "2026-07-31T10:19:42Z",
+     "live": false,
+     "score": 9.29,
+     "verificado": false,
+     "embeddable": false
+    },
+    {
+     "id": "pMf3xHTqRJI",
+     "url": "https://www.youtube.com/watch?v=pMf3xHTqRJI",
+     "titulo": "Entspannungsmeditation: Das Ego loslassen &amp; puren Frieden finden (SEHR STARK)",
+     "canal": "Guido Ludwigs - Tiefschlaf Hypnosen & Meditationen",
+     "publicado": "2026-07-30T19:49:26Z",
+     "live": false,
+     "score": 8.08,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "s5VI3n9wkVY",
+     "url": "https://www.youtube.com/watch?v=s5VI3n9wkVY",
+     "titulo": "Erpressung in der Familie_ Als ich verschwand, versank alles im puren Chaos",
+     "canal": "Das Familiengeheimnis",
+     "publicado": "2026-07-30T16:00:32Z",
+     "live": false,
+     "score": 7.77,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "36xzmoNtG8I",
+     "url": "https://www.youtube.com/watch?v=36xzmoNtG8I",
+     "titulo": "Copa Alemania 2026 -Lobas Purén VS EFBA Ancud  - Dia 1 (Cancha Fritz)",
+     "canal": "CopaAlemania CDA",
+     "publicado": "2026-07-30T14:12:18Z",
+     "live": false,
+     "score": 7.62,
+     "verificado": false,
+     "embeddable": false
+    },
+    {
+     "id": "WBDCrbez764",
+     "url": "https://www.youtube.com/watch?v=WBDCrbez764",
+     "titulo": "Aumento del caudal del río Biobío en San Carlos de Purén",
      "canal": "Canal 9 BiobioTV",
-     "publicado": "2026-07-31T11:32:55Z",
-     "live": true,
-     "score": 7.85,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "madf7I0lM5c",
-     "url": "https://www.youtube.com/watch?v=madf7I0lM5c",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-07-29T23:39:20Z",
-     "live": true,
-     "score": -5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "R-JNj5YVAOQ",
-     "url": "https://www.youtube.com/watch?v=R-JNj5YVAOQ",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-07-29T23:39:20Z",
-     "live": true,
-     "score": -5.0,
+     "publicado": "2026-07-30T13:46:21Z",
+     "live": false,
+     "score": 7.58,
      "verificado": false,
      "embeddable": true
     }
@@ -49,46 +104,93 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "sro9uw5CJXI",
-     "url": "https://www.youtube.com/watch?v=sro9uw5CJXI",
-     "titulo": "🔴 Coquimbo EN VIVO | ¿Está lloviendo? Mira la ciudad en tiempo real #shorts",
-     "canal": "Radio Riquelme",
-     "publicado": "2026-07-31T02:24:47Z",
+     "id": "ZQY6R6rPgx0",
+     "url": "https://www.youtube.com/watch?v=ZQY6R6rPgx0",
+     "titulo": "ALERTA METEOROLÓGICA",
+     "canal": "MI RADIO TV",
+     "publicado": "2026-07-31T10:25:58Z",
      "live": true,
-     "score": 7.09,
+     "score": 7.3,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "NJihjMvWhyY",
-     "url": "https://www.youtube.com/watch?v=NJihjMvWhyY",
-     "titulo": "CEAZA advierte lluvias, nieve y fuertes vientos en la Región de Coquimbo este viernes #shorts",
-     "canal": "Radio Riquelme",
-     "publicado": "2026-07-30T17:42:35Z",
+     "id": "37-O2tyR_Ck",
+     "url": "https://www.youtube.com/watch?v=37-O2tyR_Ck",
+     "titulo": "LA LUCHA DE PAN DE AZÚCAR",
+     "canal": "Red Coquimbo TVN",
+     "publicado": "2026-07-30T03:29:21Z",
      "live": false,
-     "score": 4.36,
+     "score": 7.0,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "XWRGFUU9kts",
-     "url": "https://www.youtube.com/watch?v=XWRGFUU9kts",
-     "titulo": "desde coquimbo al biobio viento moderados a normales por lluvias",
-     "canal": "Info Red Digital",
-     "publicado": "2026-07-30T06:01:18Z",
+     "id": "pxkXBJAnBck",
+     "url": "https://www.youtube.com/watch?v=pxkXBJAnBck",
+     "titulo": "&quot;Coquimbo más Unido&quot; por la gente de Pan de Azúcar. ",
+     "canal": "FutCoquimbo",
+     "publicado": "2026-07-29T22:15:05Z",
      "live": false,
-     "score": 3.39,
+     "score": 7.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "la serena": {
+   "comuna": "La Serena",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "ZQY6R6rPgx0",
+     "url": "https://www.youtube.com/watch?v=ZQY6R6rPgx0",
+     "titulo": "ALERTA METEOROLÓGICA",
+     "canal": "MI RADIO TV",
+     "publicado": "2026-07-31T10:25:58Z",
+     "live": true,
+     "score": 4.3,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "8pUNWJYp4bc",
+     "url": "https://www.youtube.com/watch?v=8pUNWJYp4bc",
+     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-07-31T17:45:09Z",
+     "live": true,
+     "score": 7.91,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "ML7VbqVs9t8",
-     "url": "https://www.youtube.com/watch?v=ML7VbqVs9t8",
-     "titulo": "🌿 Después de la lluvia,los árboles bailan con el viento #Chile #Coquimbo #Nature #SlowLiving",
-     "canal": "Amandi’s simple life | Chile ",
-     "publicado": "2026-07-29T23:10:30Z",
-     "live": false,
-     "score": 3.0,
+     "id": "Ya1g1oCC0fM",
+     "url": "https://www.youtube.com/watch?v=Ya1g1oCC0fM",
+     "titulo": "🔴 EN VIVO | NoticiasMatinal | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-07-31T11:32:55Z",
+     "live": true,
+     "score": 7.39,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "meTKsoEw-PY",
+     "url": "https://www.youtube.com/watch?v=meTKsoEw-PY",
+     "titulo": "Miss Universo Chile 👑  coronas, polémicas y mucho que comentar - Tranqui esto es un Piloto",
+     "canal": "Florencia Digital",
+     "publicado": "2026-07-31T15:53:02Z",
+     "live": true,
+     "score": 4.76,
      "verificado": false,
      "embeddable": true
     }
@@ -100,13 +202,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "PtY2KAoBjRc",
-     "url": "https://www.youtube.com/watch?v=PtY2KAoBjRc",
-     "titulo": "RADIO GAMA VILLA UNIÓN EN VIVO",
-     "canal": "RADIO GAMA VILLA UNIÓN",
-     "publicado": "2026-07-30T16:02:13Z",
-     "live": true,
-     "score": 6.22,
+     "id": "68z8xMZ58tM",
+     "url": "https://www.youtube.com/watch?v=68z8xMZ58tM",
+     "titulo": "Desborde del río Llollelhue mantiene sectores de La Unión bajo el agua  familias enfrentan graves",
+     "canal": "Canal Latino",
+     "publicado": "2026-07-30T12:35:15Z",
+     "live": false,
+     "score": 3.48,
      "verificado": false,
      "embeddable": true
     }
@@ -118,13 +220,42 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "aw40HxibIzo",
+     "url": "https://www.youtube.com/watch?v=aw40HxibIzo",
+     "titulo": "EN VIVO | 24 Horas al Día Red Maule. 31 de julio 2026 con Mónica Mejías González",
+     "canal": "24 Horas TVN Chile - Red Maule",
+     "publicado": "2026-07-30T19:04:27Z",
+     "live": true,
+     "score": 6.02,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "SQDMH3NpBXo",
      "url": "https://www.youtube.com/watch?v=SQDMH3NpBXo",
      "titulo": "Linares Chile, Region de Maule",
      "canal": "Radio Buena Nueva",
      "publicado": "2026-07-30T11:54:00Z",
      "live": true,
-     "score": 5.88,
+     "score": 5.42,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "arauco": {
+   "comuna": "Arauco",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "pHLTe4tm888",
+     "url": "https://www.youtube.com/watch?v=pHLTe4tm888",
+     "titulo": "RÍO PICHILO EN ALERTA: Caudal sube a nivel crítico y amenaza con desbordarse en Arauco",
+     "canal": "MegaTiempo",
+     "publicado": "2026-07-31T15:39:23Z",
+     "live": false,
+     "score": 9.74,
      "verificado": false,
      "embeddable": true
     }
@@ -136,13 +267,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "rf_5maUGiQM",
-     "url": "https://www.youtube.com/watch?v=rf_5maUGiQM",
-     "titulo": "EN VIVO DESDE CALAMA - Primera edición de Punto de Prensa – 31 ulio 2026",
-     "canal": "diarioenlalinea",
-     "publicado": "2026-07-31T12:14:31Z",
+     "id": "VE9krc0Pg-M",
+     "url": "https://www.youtube.com/watch?v=VE9krc0Pg-M",
+     "titulo": "ENLACE ALBINARANJA EN VIVO  -  🎤  RADIO DAMIANA 88.3 🔉 #futbolchileno",
+     "canal": " Radio Damiana 88.3",
+     "publicado": "2026-07-29T19:01:00Z",
      "live": true,
-     "score": 7.91,
+     "score": 2.0,
      "verificado": false,
      "embeddable": true
     }
