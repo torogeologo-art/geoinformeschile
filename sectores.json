@@ -1,7 +1,29 @@
 {
- "generado": "2026-07-31T07:41:36+00:00",
+ "generado": "2026-07-31T22:40:46+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
+  {
+   "nombre": "río Guatulame",
+   "lat": -30.89599,
+   "lon": -71.01929,
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "sae": true,
+   "lugar": "Combarbalá",
+   "url": "https://t.me/SenapredChile/1460",
+   "ts": "2026-07-31T19:26"
+  },
+  {
+   "nombre": "río Purén",
+   "lat": -37.60097,
+   "lon": -72.28064,
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "sae": true,
+   "lugar": "Purén",
+   "url": "https://t.me/SenapredChile/1459",
+   "ts": "2026-07-31T18:10"
+  },
   {
    "nombre": "río Pichilo",
    "lat": -37.30311,

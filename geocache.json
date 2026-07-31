@@ -152,5 +152,14 @@
 "rio llollelhue evacua|la union": null,
 "poblacion foitzick|la union": null,
 "sector placilla|maule": null,
-"sectores paso hondo orilla|ranquil": null
+"sectores paso hondo orilla|ranquil": null,
+"rio guatulame|combarbala": {
+"lat": -30.89599,
+"lon": -71.01929
+},
+"rio puren|puren": {
+"lat": -37.60097,
+"lon": -72.28064
+},
+"sector pan de azucar|coquimbo": null
 }
