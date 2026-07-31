@@ -1,18 +1,7 @@
 {
- "generado": "2026-07-30T16:03:14+00:00",
+ "generado": "2026-07-31T07:41:36+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
-  {
-   "nombre": "río Bueno",
-   "lat": -40.33685,
-   "lon": -73.12731,
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "sae": false,
-   "lugar": "Los Lagos",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-san-pablo-por-desborde-2026-07-29-19-05-35",
-   "ts": "2026-07-29T18:59"
-  },
   {
    "nombre": "río Pichilo",
    "lat": -37.30311,
