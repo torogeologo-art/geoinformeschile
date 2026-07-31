@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-30T20:44:28+00:00",
- "desde": "2026-07-28T20:44:25Z",
+ "generado": "2026-07-31T07:41:03+00:00",
+ "desde": "2026-07-29T07:40:58Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,13 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "_Pmlj5LAh6Y",
-     "url": "https://www.youtube.com/watch?v=_Pmlj5LAh6Y",
-     "titulo": "RRC Noticias | EN VIVO",
+     "id": "sro9uw5CJXI",
+     "url": "https://www.youtube.com/watch?v=sro9uw5CJXI",
+     "titulo": "🔴 Coquimbo EN VIVO | ¿Está lloviendo? Mira la ciudad en tiempo real #shorts",
      "canal": "Radio Riquelme",
-     "publicado": "2026-07-30T20:03:28Z",
+     "publicado": "2026-07-31T02:24:47Z",
      "live": true,
-     "score": 7.94,
+     "score": 7.56,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "Radio Riquelme",
      "publicado": "2026-07-30T17:42:35Z",
      "live": false,
-     "score": 5.75,
+     "score": 4.84,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +37,7 @@
      "canal": "Info Red Digital",
      "publicado": "2026-07-30T06:01:18Z",
      "live": false,
-     "score": 4.77,
+     "score": 3.86,
      "verificado": false,
      "embeddable": true
     },
@@ -48,7 +48,7 @@
      "canal": "Amandi’s simple life | Chile ",
      "publicado": "2026-07-29T23:10:30Z",
      "live": false,
-     "score": 4.2,
+     "score": 3.29,
      "verificado": false,
      "embeddable": true
     }
@@ -60,11 +60,22 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "N5yyc8tM5Wk",
-     "url": "https://www.youtube.com/watch?v=N5yyc8tM5Wk",
-     "titulo": "Situacion actual rio llollelhue en La Union",
-     "canal": "origentv",
-     "publicado": "2026-07-28T21:01:05Z",
+     "id": "68z8xMZ58tM",
+     "url": "https://www.youtube.com/watch?v=68z8xMZ58tM",
+     "titulo": "Desborde del río Llollelhue mantiene sectores de La Unión bajo el agua  familias enfrentan graves",
+     "canal": "Canal Latino",
+     "publicado": "2026-07-30T12:35:15Z",
+     "live": false,
+     "score": 4.41,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "2oQf3wFRWe4",
+     "url": "https://www.youtube.com/watch?v=2oQf3wFRWe4",
+     "titulo": "Aalerta roja: desborde de ríos deja viviendas bajo el agua y tornados provocan severos daños",
+     "canal": "24 Horas - TVN Chile",
+     "publicado": "2026-07-29T15:48:40Z",
      "live": false,
      "score": 3.0,
      "verificado": false,
@@ -84,7 +95,7 @@
      "canal": "Radio Buena Nueva",
      "publicado": "2026-07-30T11:54:00Z",
      "live": true,
-     "score": 7.26,
+     "score": 6.35,
      "verificado": false,
      "embeddable": true
     }
