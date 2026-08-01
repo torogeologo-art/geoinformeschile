@@ -1,7 +1,18 @@
 {
- "generado": "2026-07-31T22:40:46+00:00",
+ "generado": "2026-08-01T07:39:18+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
+  {
+   "nombre": "río Traiguén",
+   "lat": -38.20402,
+   "lon": -72.45423,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Traiguén",
+   "url": "https://t.me/SenapredChile/1462",
+   "ts": "2026-07-31T22:54"
+  },
   {
    "nombre": "río Guatulame",
    "lat": -30.89599,

@@ -161,5 +161,11 @@
 "lat": -37.60097,
 "lon": -72.28064
 },
-"sector pan de azucar|coquimbo": null
+"sector pan de azucar|coquimbo": null,
+"sector santa rita|concepcion": null,
+"rio traiguen|traiguen": {
+"lat": -38.20402,
+"lon": -72.45423
+},
+"sector las obras|traiguen": null
 }

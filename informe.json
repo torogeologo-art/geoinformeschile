@@ -1,40 +1,40 @@
 {
- "generado": "2026-07-31T22:41:16+00:00",
+ "generado": "2026-08-01T07:39:50+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "21-07-2026",
-  "hasta": "31-07-2026"
+  "desde": "22-07-2026",
+  "hasta": "01-08-2026"
  },
  "totales": {
-  "alertas": 140,
-  "sae": 12,
-  "comunas": 9,
+  "alertas": 141,
+  "sae": 13,
+  "comunas": 10,
   "regiones": 16,
   "por_nivel": {
-   "ROJA": 41,
-   "ATP": 60,
-   "AMARILLA": 39
+   "AMARILLA": 40,
+   "ROJA": 42,
+   "ATP": 59
   },
   "por_tipo": [
    [
     "viento",
-    50
+    49
    ],
    [
     "crecida de río",
-    31
+    30
    ],
    [
     "tormentas eléctricas",
     22
    ],
    [
-    "evento meteorológico",
-    16
+    "desborde",
+    17
    ],
    [
-    "desborde",
-    14
+    "evento meteorológico",
+    16
    ],
    [
     "nevadas",
@@ -52,15 +52,6 @@
  },
  "tipos_detalle": {
   "viento": [
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "22-07",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
    {
     "lugar": "Región de Valparaíso",
     "region": "Valparaíso",
@@ -80,13 +71,13 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-    "region": "Aysén del General Carlos Ibáñez del Campo",
-    "nivel": "AMARILLA",
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
     "sae": false,
-    "ts": "25-07",
+    "ts": "26-07",
     "comuna_link": "",
-    "region_link": "aysen del general carlos ibanez del campo"
+    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -123,6 +114,15 @@
     "ts": "24-07",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "25-07",
+    "comuna_link": "",
+    "region_link": "aysen del general carlos ibanez del campo"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -189,15 +189,6 @@
    }
   ],
   "crecida de río": [
-   {
-    "lugar": "Salamanca",
-    "region": "",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "22-07",
-    "comuna_link": "salamanca",
-    "region_link": ""
-   },
    {
     "lugar": "Región de Biobío",
     "region": "Biobío",
@@ -381,54 +372,16 @@
     "region_link": "libertador general bernardo o'higgins"
    }
   ],
-  "evento meteorológico": [
+  "desborde": [
    {
-    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-    "region": "Aysén del General Carlos Ibáñez del Campo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "24-07",
-    "comuna_link": "",
-    "region_link": "aysen del general carlos ibanez del campo"
-   },
-   {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "27-07",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
     "sae": false,
     "ts": "22-07",
     "comuna_link": "",
-    "region_link": "antofagasta"
+    "region_link": "coquimbo"
    },
-   {
-    "lugar": "Región de Magallanes y de la Antártica Chilena",
-    "region": "Magallanes y de la Antártica Chilena",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "23-07",
-    "comuna_link": "",
-    "region_link": "magallanes y de la antartica chilena"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "30-07",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   }
-  ],
-  "desborde": [
    {
     "lugar": "Región de Maule",
     "region": "Maule",
@@ -491,6 +444,71 @@
     "ts": "31-07",
     "comuna_link": "",
     "region_link": "la araucania"
+   },
+   {
+    "lugar": "Traiguén",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "31-07",
+    "comuna_link": "traiguen",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Concepción",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "01-08",
+    "comuna_link": "concepcion",
+    "region_link": "biobio"
+   }
+  ],
+  "evento meteorológico": [
+   {
+    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "24-07",
+    "comuna_link": "",
+    "region_link": "aysen del general carlos ibanez del campo"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "27-07",
+    "comuna_link": "",
+    "region_link": "los lagos"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "22-07",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "23-07",
+    "comuna_link": "",
+    "region_link": "magallanes y de la antartica chilena"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "30-07",
+    "comuna_link": "",
+    "region_link": "la araucania"
    }
   ],
   "nevadas": [
@@ -546,11 +564,10 @@
   ]
  },
  "vigentes": {
-  "ROJA": 13,
-  "AMARILLA": 6,
-  "ATP": 9,
+  "ROJA": 14,
+  "AMARILLA": 8,
+  "ATP": 10,
   "regiones_roja": [
-   "Atacama",
    "Biobío",
    "Coquimbo",
    "La Araucanía",
@@ -563,10 +580,10 @@
  "serie": [
   {
    "fecha": "2026-07-22",
-   "ROJA": 3,
+   "ROJA": 2,
    "AMARILLA": 3,
-   "ATP": 8,
-   "sae": 1
+   "ATP": 7,
+   "sae": 0
   },
   {
    "fecha": "2026-07-23",
@@ -626,10 +643,17 @@
   },
   {
    "fecha": "2026-07-31",
-   "ROJA": 11,
+   "ROJA": 12,
    "AMARILLA": 6,
    "ATP": 4,
-   "sae": 5
+   "sae": 6
+  },
+  {
+   "fecha": "2026-08-01",
+   "ROJA": 1,
+   "AMARILLA": 1,
+   "ATP": 0,
+   "sae": 1
   }
  ],
  "escalamientos": [
@@ -891,27 +915,36 @@
      "estado": "VIGENTE"
     }
    ]
-  },
-  {
-   "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-   "region": "Aysén del General Carlos Ibáñez del Campo",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "22-07 01:52",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "23-07 12:35",
-     "estado": "CANCELADA"
-    }
-   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "01-08 00:02",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Maule",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55"
+  },
+  {
+   "ts": "01-08 01:38",
+   "nivel": "ROJA",
+   "lugar": "Concepción",
+   "tipo": "desborde",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1465"
+  },
+  {
+   "ts": "31-07 22:54",
+   "nivel": "ROJA",
+   "lugar": "Traiguén",
+   "tipo": "desborde",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1462"
+  },
   {
    "ts": "31-07 16:41",
    "nivel": "AMARILLA",
@@ -1010,33 +1043,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1457"
-  },
-  {
-   "ts": "31-07 11:25",
-   "nivel": "ROJA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23"
-  },
-  {
-   "ts": "31-07 11:15",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-evento-meteorologico-2026-07-12-16-14-26"
-  },
-  {
-   "ts": "31-07 08:41",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Ñuble",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-ninhue-san-nicolas-portezuelo-y-trehuaco-por-crecida-2026-07-31-08-42-37"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
