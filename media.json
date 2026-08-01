@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-01T07:39:50+00:00",
- "desde": "2026-07-30T07:39:42Z",
+ "generado": "2026-08-01T11:48:52+00:00",
+ "desde": "2026-07-30T11:48:46Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "concepcion": {
@@ -44,7 +44,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-08-01T00:42:47Z",
      "live": false,
-     "score": 13.42,
+     "score": 13.08,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +55,7 @@
      "canal": "Canditraigúen ",
      "publicado": "2026-08-01T05:19:49Z",
      "live": false,
-     "score": 9.81,
+     "score": 9.46,
      "verificado": false,
      "embeddable": true
     },
@@ -66,7 +66,7 @@
      "canal": "Chile informa",
      "publicado": "2026-08-01T02:27:27Z",
      "live": false,
-     "score": 9.57,
+     "score": 9.22,
      "verificado": false,
      "embeddable": true
     },
@@ -77,7 +77,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-08-01T01:58:42Z",
      "live": false,
-     "score": 9.53,
+     "score": 9.18,
      "verificado": false,
      "embeddable": true
     },
@@ -88,7 +88,7 @@
      "canal": "Chile informa",
      "publicado": "2026-08-01T01:17:33Z",
      "live": false,
-     "score": 9.47,
+     "score": 9.12,
      "verificado": false,
      "embeddable": true
     },
@@ -99,7 +99,7 @@
      "canal": "Canditraigúen ",
      "publicado": "2026-07-31T20:24:22Z",
      "live": false,
-     "score": 9.06,
+     "score": 8.72,
      "verificado": false,
      "embeddable": true
     },
@@ -110,7 +110,7 @@
      "canal": "Canditraigúen ",
      "publicado": "2026-07-31T05:15:55Z",
      "live": false,
-     "score": 7.8,
+     "score": 7.45,
      "verificado": false,
      "embeddable": true
     },
@@ -133,13 +133,35 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "_goQxpTTqr8",
+     "url": "https://www.youtube.com/watch?v=_goQxpTTqr8",
+     "titulo": "Copa Alemania 2026 - Lobas Purén VS Kimün - Día 3 (Cancha Fritz)",
+     "canal": "CopaAlemania CDA",
+     "publicado": "2026-08-01T10:03:27Z",
+     "live": false,
+     "score": 9.85,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "cLeoCcnxAn4",
+     "url": "https://www.youtube.com/watch?v=cLeoCcnxAn4",
+     "titulo": "ICH WAR UNTERWEGS IN EINEN CHAOS DER PUREN VERZWEIFLUNG [ROBLOX]",
+     "canal": "METAL-UNCUT ",
+     "publicado": "2026-08-01T08:45:00Z",
+     "live": false,
+     "score": 9.74,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "T91VB9a0_dw",
      "url": "https://www.youtube.com/watch?v=T91VB9a0_dw",
      "titulo": "LOBAS PURÉN VS FÉNIX CASTRO - COPA ALEMANIA FEMENINA 2026",
      "canal": "Rama basquetbol CDA",
      "publicado": "2026-08-01T04:56:51Z",
      "live": false,
-     "score": 9.77,
+     "score": 9.43,
      "verificado": false,
      "embeddable": true
     },
@@ -150,18 +172,7 @@
      "canal": "Luze Lule Liba  -  3 Aussies",
      "publicado": "2026-08-01T04:24:37Z",
      "live": false,
-     "score": 9.73,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "_goQxpTTqr8",
-     "url": "https://www.youtube.com/watch?v=_goQxpTTqr8",
-     "titulo": "Copa Alemania 2026 - Lobas Purén VS Kimün - Día 3 (Cancha Fritz)",
-     "canal": "CopaAlemania CDA",
-     "publicado": "2026-07-31T20:35:43Z",
-     "live": false,
-     "score": 9.08,
+     "score": 9.38,
      "verificado": false,
      "embeddable": true
     },
@@ -172,7 +183,7 @@
      "canal": "Rama basquetbol CDA",
      "publicado": "2026-07-31T14:43:42Z",
      "live": false,
-     "score": 8.59,
+     "score": 8.24,
      "verificado": false,
      "embeddable": true
     },
@@ -183,7 +194,7 @@
      "canal": "ESTID Fashion",
      "publicado": "2026-07-31T14:27:21Z",
      "live": false,
-     "score": 8.57,
+     "score": 8.22,
      "verificado": false,
      "embeddable": true
     },
@@ -194,7 +205,7 @@
      "canal": "CopaAlemania CDA",
      "publicado": "2026-07-31T10:19:42Z",
      "live": false,
-     "score": 8.22,
+     "score": 7.88,
      "verificado": false,
      "embeddable": false
     },
@@ -204,17 +215,6 @@
      "titulo": "Entspannungsmeditation: Das Ego loslassen &amp; puren Frieden finden (SEHR STARK)",
      "canal": "Guido Ludwigs - Tiefschlaf Hypnosen & Meditationen",
      "publicado": "2026-07-30T19:49:26Z",
-     "live": false,
-     "score": 7.01,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "s5VI3n9wkVY",
-     "url": "https://www.youtube.com/watch?v=s5VI3n9wkVY",
-     "titulo": "Erpressung in der Familie_ Als ich verschwand, versank alles im puren Chaos",
-     "canal": "Das Familiengeheimnis",
-     "publicado": "2026-07-30T16:00:32Z",
      "live": false,
      "score": 7.0,
      "verificado": false,
@@ -234,7 +234,7 @@
      "canal": "Info Red Digital",
      "publicado": "2026-07-31T21:00:44Z",
      "live": false,
-     "score": 5.11,
+     "score": 4.77,
      "verificado": false,
      "embeddable": true
     },
@@ -245,7 +245,18 @@
      "canal": "Radio Riquelme",
      "publicado": "2026-07-31T20:06:03Z",
      "live": false,
-     "score": 5.04,
+     "score": 4.69,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "XohVALC8XRA",
+     "url": "https://www.youtube.com/watch?v=XohVALC8XRA",
+     "titulo": "Sistema frontal afecta a zona centro-sur y norte: se activaron quebradas en región de Coquimbo",
+     "canal": "Meganoticias",
+     "publicado": "2026-07-31T17:32:10Z",
+     "live": false,
+     "score": 4.48,
      "verificado": false,
      "embeddable": true
     },
@@ -256,7 +267,7 @@
      "canal": "Radio Riquelme",
      "publicado": "2026-07-31T15:23:33Z",
      "live": false,
-     "score": 4.64,
+     "score": 4.3,
      "verificado": false,
      "embeddable": true
     },
@@ -267,7 +278,7 @@
      "canal": "MI RADIO TV",
      "publicado": "2026-07-31T13:54:52Z",
      "live": false,
-     "score": 4.52,
+     "score": 4.18,
      "verificado": false,
      "embeddable": true
     },
@@ -314,7 +325,7 @@
      "canal": "Tercera de Huaquén",
      "publicado": "2026-07-31T23:50:28Z",
      "live": true,
-     "score": 7.35,
+     "score": 7.0,
      "verificado": false,
      "embeddable": false
     },
@@ -343,7 +354,7 @@
      "canal": "MegaTiempo",
      "publicado": "2026-07-31T15:39:23Z",
      "live": false,
-     "score": 8.67,
+     "score": 8.32,
      "verificado": false,
      "embeddable": true
     }
