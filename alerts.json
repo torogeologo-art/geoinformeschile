@@ -1,13 +1,89 @@
 {
- "generado": "2026-08-01T15:43:03+00:00",
+ "generado": "2026-08-01T20:02:45+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 33,
+ "total_vigentes": 36,
  "alertas": [
+  {
+   "id": "ee9a3de5ecac",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "🔴#SENAPREDInforma ¡ATENCIÓN!",
+   "descripcion": "🔴#SENAPREDInforma ¡ATENCIÓN!\n\nPor alerta de crecida evite la ribera del Río Damas, comuna de Osorno, Región de Los Lagos.\n\n#SENAPRED activó mensajería SAE preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "Los Lagos",
+   "comunas": [
+    "Osorno"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-01T19:38:40+00:00",
+   "url": "https://t.me/SenapredChile/1470",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "9feab8b7e69c",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "🔴#SENAPREDInforma ¡ATENCIÓN!",
+   "descripcion": "🔴#SENAPREDInforma ¡ATENCIÓN!\n\nPor alerta de desborde evacúe la ribera del Río Bueno, comuna de San Pablo, Región de Los Lagos.\n\n#SENAPRED activó mensajería SAE.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "Los Lagos",
+   "comunas": [
+    "San Pablo"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-01T19:20:08+00:00",
+   "url": "https://t.me/SenapredChile/1468",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "04e755a39243",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "🔴#SENAPREDInforma ¡ATENCIÓN!",
+   "descripcion": "🔴#SENAPREDInforma ¡ATENCIÓN!\n\nPor alerta de crecida EVITE la ribera del Río Rehue, comuna de Los Sauces, Región de La Araucanía.\n\n#SENAPRED activó mensajería SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "La Araucanía",
+   "comunas": [
+    "Los Sauces"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-01T17:12:26+00:00",
+   "url": "https://t.me/SenapredChile/1467",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "a3fd5da41179",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A375-1 Viento normal a moderado en litoral, cordillera de la costa, Chiloé y litoral interior de la región. 01-08 02-08 Abri aquí Aviso A377 Precipitaciones normales a moderadas en litoral, cordillera de la costa y valle de la región. 01-08 02-08 Abri aquí Aviso A378-1 Probables tormentas eléctricas en el litoral, cordillera de la costa y Chiloé de la región. 01-08 01-08 Abrir",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-01T16:00:39.3939-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "8d22c0fd3e0f",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA118-1 Precipitaciones moderadas a fuertes en litoral de la región. 01-08 01-08 Abrir aquí Aviso A365-6 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 01-08 02-08 Abrir aquí Aviso A364-7 Precipitaciones normales a moderadas en cordillera de la costa, valle, precordillera y cordillera de la región. 01-08 02-08 Abrir aquí Por ot",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-01T15:51:18.1818-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-evento-meteorologico-2026-07-12-16-14-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "4b0d959552be",
    "nivel": "ROJA",
@@ -23,15 +99,71 @@
    "sae": true
   },
   {
+   "id": "e8b3070fb82a",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la región de Biobío por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) de la región del Biobío, las estaciones de la red hidrométrica ubicadas en la región indican un incremento gradual y sostenido en sus caudales, lo que supone un aumento del riesgo para la población cercana a estos cursos de agua. A su vez, de acuerdo con las intensas precipitaciones registradas y pronóstico para las próximas horas, por lo cual se prevé la superación de umbrales de alerta roja en los distintos cursos de agua de ríos y esteros de la región. En este contexto, la Dirección General de Aguas (DGA), m",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-01T14:30:10.1010-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-crecida-2026-07-27-02-52-32",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "44e993e42b64",
+   "nivel": "ATP",
+   "tipo": "remoción en masa",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A364-7 Precipitaciones normales a moderadas en cordillera. 01-08 02-08 Abrir Aquí Aviso A365-6 Viento normal a moderado con probabilidad de ventisca en cordillera. 01-08 02-08 Abrir Aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrenci",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-01T14:21:53.5353-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-07-13-12-33-07",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "d5ca7f362914",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Amarilla para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA118-1 Precipitaciones moderadas a fuertes en litoral y cordillera de la costa. 01-08 02-08 Abrir aquí Alerta AA120-1 Viento moderado a fuerte en el litoral, cordillera de la costa, valle, precordillera y cordillera 01-08 01-08 Abrir aquí Aviso A364-7 Precipitaciones normales a moderadas en valle, precordillera y cordillera. 01-08 01-08 Abrir aquí Aviso A365-6 Vie",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-01T14:10:12.1212-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "cb0f21af0e17",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Los Ríos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A375-1 Viento normal a moderado en litoral, cordillera de la costa, valle y precordillera. 01-08 01-08 Abrir aquí Aviso A377 Precipitaciones normales a moderadas en el litoral, cordillera de la costa, valle, precordillera y cordillera. 01-08 02-08 Abrir aquí Aviso A378-1 Probables tormentas eléctricas en el litoral y cordillera de la costa. 01-08 01-08 Abrir aquí",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-01T13:46:56.5656-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-viento-2026-07-21-18-46-40",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
    "id": "24db1a706b6d",
    "nivel": "AMARILLA",
    "tipo": "viento",
    "titulo": "Monitoreo Alerta Amarilla para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA118 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa, valle y precordillera. 01-08 02-08 Abrir aquí Alerta AA120-1 Viento moderado a fuerte en el litoral, cordillera de la costa, valle, precordillera y cordillera. 01-08 01-08 Abrir aquí Aviso A364-6 Precipitaciones normales a moderadas en cordillera. 01-08 01-08 Abrir aquí Aviso A365-6 Vien",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA118-1 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa, valle y precordillera de la región. 01-08 02-08 Abrir aquí Alerta AA120-1 Viento moderado a fuerte en el litoral, cordillera de la costa, valle, precordillera y cordillera de la región. 01-08 01-08 Abrir aquí Aviso A364-7 Precipitaciones normales a moderadas en cordillera de la región",
    "region": "Biobío",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-01T11:27:05.055-04:00",
+   "ts": "2026-08-01T13:40:58.5858-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
    "origen": "senapred_web",
    "regiones_extra": []
@@ -47,20 +179,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-01T09:57:44.4444-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "3f87e7487747",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Monitoreo Alerta Amarilla para la Región del Maule por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) , las estaciones hidrométricas de monitoreo mantienen el siguiente registro en sus caudales. Estación hidrométrica Umbral Río Palos en junta con Colorado Amarillo Estación Río Loncomilla en Bodega Amarillo Por su parte, la Dirección General de Aguas (DGA) mantiene un monitoreo permanente de la red hidrométrica regional, efectuando un seguimiento continuo de la evolución de los caudales y niveles de los principales cursos de agua, considerando tanto el comportamiento observado como la evolución prevista de las c",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-01T07:38:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-07-26-23-32-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -332,20 +450,6 @@
    "regiones_extra": []
   },
   {
-   "id": "ee4afe7d2aed",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos en la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Aviso A365-3 Viento normal a moderado con probabilidad de ventisca en litoral, cordillera de la costa, valle, precordillera y cordillera. 30-07 01-08 Aviso A364-5 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle, precordillera y cordillera. 31-07 01-08 Aviso A373-1 Probables tormentas eléctricas en el litoral y cordillera de la costa. 31-07 31-07 P",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-31T11:15:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-evento-meteorologico-2026-07-12-16-14-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "202594839e1e",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -400,34 +504,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-30T21:00:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-juan-fernandez-por-evento-meteorologico-2026-07-29-12-46-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2c629912ef91",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A364-4 Precipitaciones normales a moderadas en precordillera y cordillera. 30-07 01-08 Abrir aquí Aviso A365-3 Viento normal a moderado con probabilidad de ventisca en cordillera de la costa, valle, precordillera y cordillera. 30-07 01-08 Abrir aquí Conforme a lo indicado en los alertamientos vigentes y en el Informe de Amenaza Meteorológica, el pronóstico para la región entr",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-30T19:08:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-07-13-12-33-07",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "3a7c0dc653ff",
-   "nivel": "ATP",
-   "tipo": "desborde",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de SENPRED Los Lagos , se reporta la siguiente afectación debido al evento meteorológico que se desarrolla en la región: Comuna de San Pablo: 240 personas aisladas debido a la interrupción de la Ruta U-220, producto del desborde del río Bueno. Cabe señalar, que si las condiciones continúan evolucionando desfavorablemente, existe la posibilidad de requerir una eventual evacuación en sectores aledaños. Además, se determinó la suspensión de clases en 7 establecimientos educacionales. Comuna de Osorno: 2 personas damnificadas y",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-30T18:55:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -512,20 +588,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-29T11:25:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-molina-y-curico-por-crecida-2026-07-25-05-11-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e7c9ddb71272",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se modifica cobertura de Alerta Amarilla para la Región del Biobío por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , a través de la emisión de su Alerta y Aviso Meteorológico por precipitaciones para los próximos días en la Región del Biobío, se prevé un incremento progresivo de los caudales de ríos, esteros y cursos de agua, especialmente en aquellas cuencas de respuesta rápida y sectores históricamente sensibles a eventos meteorológicos, aumentando la probabilidad de crecidas y eventuales desbordes en caso de intensificarse las precipitaciones pronosticadas, asociadas también a una isoterma cero alta. En este contex",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-29T10:14:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-crecida-2026-07-27-02-52-32",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -2701,48 +2763,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-03T21:35:10.1010-04:00",
    "url": "https://senapred.cl/alerta/se-modifica-cobertura-de-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-alteracion-sanitaria-2026-03-03-08-31-11",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "f76052f4b734",
-   "nivel": "AMARILLA",
-   "tipo": "otros",
-   "titulo": "Se modifica cobertura de Alerta Amarilla para la provincia de Los Andes por alteración sanitaria",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Valparaíso, la Secretaría Regional Ministerial de Salud mediante su minuta técnica elaborada a solicitud de SENAPRED, informa que no se presentan casos activos ni se han detectado brotes de Dengue (vector Aedes aegipty) en la provincia de Isla de Pascua. Cabe señalar que producto de los anterior, se da cierre al brote de Dengue en Isla de Pascua, habiéndose registrado un total de 29 casos confirmados, de los cuales 27 correspondieron a casos autóctonos y 2 a casos importados. En consideración a lo anterior y en c",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-03T21:13:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-las-provincias-de-los-andes-e-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-alteracion-sanitaria",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "55bab3502e48",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se  cancela Alerta Amarilla para las comunas de Comunas de Collipulli, Lonquimay, Curacautín, Melipeuco, Cunco, Vilcún y Curarrehue por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , ha sido cancelado los siguientes alertamientos meteorológicos para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Alerta AA81-2 Viento moderado a fuerte para la zona de precordillera y cordillera de la región de La Araucanía. Aviso A285-3 Viento normal a moderado (Raco, puelche, dirección Este) en litoral, cordillera de la costa, precordillera y cordillera de la región. Aviso A292 Heladas normales a moderadas en zona de va",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-03T13:42:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-collipulli-lonquimay-curacautin-melipeuco-cunco-vilcun-villarrica-pucon-y-curarrehue-por-evento-meteorologico-2026-07-01-11-02-05",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "0175f81003e2",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado los siguientes alertamientos meteorológicos para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Alerta AA81-2 Viento moderado a fuerte para la zona de precordillera y cordillera de la región de La Araucanía. Aviso A285-3 Viento normal a moderado (Raco, puelche, dirección Este) en litoral, cordillera de la costa, precordillera y cordillera de la región. Aviso A292 Heladas normales a moderadas en zona de val",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-03T13:41:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-2026-06-27-15-55-46",
    "origen": "senapred_web",
    "regiones_extra": []
   }
