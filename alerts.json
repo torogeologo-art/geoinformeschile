@@ -1,13 +1,41 @@
 {
- "generado": "2026-08-02T11:45:59+00:00",
+ "generado": "2026-08-02T15:47:45+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 50,
+ "total_vigentes": 52,
  "alertas": [
+  {
+   "id": "c88eee758e63",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por desborde del Río Andalién #SENAPRED solicita evacuar sector Santa Rita en la comuna de #Concepción, Región del Biobío.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos #SENAPRED activó mensajería #SAE.\nRecuerda actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\nMás información en:  https://web.senapred.cl/dimension-animal/",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-02T15:15:00+00:00",
+   "url": "https://t.me/SenapredChile/1490",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "758706172cb8",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de Isla de Pascua por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos para la Provincia de Isla de Pascua, en la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA121-1 Precipitaciones moderadas a fuertes en corto período de tiempo en Isla de Pascua. 02-08 03-08 Abrir aquí Aviso A383 Viento normal a moderado en Isla de Pascua. 03-08 04-08 Abrir aquí Asimismo, ha sido cancelado el siguiente alertamiento meteorológico para la provincia: Alertamiento Pronóstico Aviso A382 Viento normal a moderado en Isl",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-02T11:44:53.5353-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-07-31-17-26-47",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "fd71d8e7e260",
    "nivel": "ROJA",
@@ -672,16 +700,16 @@
    ]
   },
   {
-   "id": "df2e20067e86",
+   "id": "d7e0d991bbab",
    "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la provincia de Isla de Pascua por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos para la Provincia de Isla de Pascua, en la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA121 Precipitaciones moderadas a fuertes en corto período de tiempo en Isla de Pascua 03-08 03-08 Abrir aquí Aviso A382 Viento normal a moderado en Isla de Pascua 01-08 01-08 Abrir aquí Aviso A383 Viento normal a moderado en Isla de Pascua 03-08 04-08 Abrir aquí Conforme a lo anterior, se esperan los siguientes montos de precipitación y vel",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para el territorio continental de la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A364-6 Precipitaciones normales a moderadas en el litoral. 31-07 31-07 Abrir aquí Aviso A365-4 Viento normal a moderado en litoral, cordillera de la costa, precordillera y valles precordilleranos, y cordillera. 31-07 02-08 Abrir aquí Aviso A373-2 Probables tormentas eléctricas en litoral y cordillera de la costa. 31-07 31-07 Abrir aqu",
    "region": "Valparaíso",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-07-31T15:49:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-07-31-17-26-47",
+   "ts": "2026-07-31T15:31:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-de-valparaiso-territorio-continental-por-evento-meteorologico-2026-07-14-18-04-30",
    "origen": "senapred_web",
    "regiones_extra": []
   },
