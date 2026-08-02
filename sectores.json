@@ -1,7 +1,18 @@
 {
- "generado": "2026-08-01T07:39:18+00:00",
+ "generado": "2026-08-02T07:54:45+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
+  {
+   "nombre": "río Purén",
+   "lat": -37.60097,
+   "lon": -72.28064,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Purén",
+   "url": "https://t.me/SenapredChile/1480",
+   "ts": "2026-08-02T00:32"
+  },
   {
    "nombre": "río Traiguén",
    "lat": -38.20402,
@@ -23,17 +34,6 @@
    "lugar": "Combarbalá",
    "url": "https://t.me/SenapredChile/1460",
    "ts": "2026-07-31T19:26"
-  },
-  {
-   "nombre": "río Purén",
-   "lat": -37.60097,
-   "lon": -72.28064,
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "sae": true,
-   "lugar": "Purén",
-   "url": "https://t.me/SenapredChile/1459",
-   "ts": "2026-07-31T18:10"
   },
   {
    "nombre": "río Pichilo",

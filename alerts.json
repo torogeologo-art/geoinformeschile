@@ -1,13 +1,168 @@
 {
- "generado": "2026-08-01T23:43:27+00:00",
+ "generado": "2026-08-02T07:54:35+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 40,
+ "total_vigentes": 49,
  "alertas": [
+  {
+   "id": "973477d205af",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "🔴 #SENAPREDInforma ¡ATENCIÓN!",
+   "descripcion": "🔴 #SENAPREDInforma ¡ATENCIÓN!\n\nPor desborde del río Rehue, #SENAPRED solicita evacuar sectores Villa La Arboleda y Santa Teresita, en la comuna de Angol, Región de La Araucanía. \n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRecuerda actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en:\n\nhttps://web.senapred.cl/dimension-animal/",
+   "region": "La Araucanía",
+   "comunas": [
+    "Angol"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-02T06:04:21+00:00",
+   "url": "https://t.me/SenapredChile/1485",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "c7e8df6caa46",
+   "nivel": "ROJA",
+   "tipo": "aluvión",
+   "titulo": "🔴 #SENAPREDInforma ¡ATENCIÓN!",
+   "descripcion": "🔴 #SENAPREDInforma ¡ATENCIÓN!\n\nPor aluvión, #SENAPRED solicita evacuar sector Andrés Bello, en la comuna de Penco, Región del Biobío. \n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRecuerda actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en:\n\nhttps://web.senapred.cl/dimension-animal/",
+   "region": "Biobío",
+   "comunas": [
+    "Penco"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-02T02:53:22+00:00",
+   "url": "https://t.me/SenapredChile/1484",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "2a3a6e5b1218",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Amarilla para la Región del Maule por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro en sus caudales. Estación hidrométrica Umbral Estero Culenar en Villa Prat Amarillo Por su parte, la Dirección General de Aguas (DGA) mantiene un monitoreo permanente de la red hidrométrica regional, efectuando un seguimiento continuo de la evolución de los caudales y niveles de los principales cursos de agua, considerando tanto el comportamiento observado como la evolución prevista de las condiciones meteorológicas. consideración a esto",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-02T02:43:24.2424-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-07-26-23-32-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "bbe508c2567d",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "🔴 #SENAPREDInforma ¡ATENCIÓN!",
+   "descripcion": "🔴 #SENAPREDInforma ¡ATENCIÓN!\n\nPor desborde del Estero El Carmen, #SENAPRED solicita evacuar sector Cuatro Tubo, en la comuna de Cañete, Región del Biobío. \n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRecuerda actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en:\n\nhttps://web.senapred.cl/dimension-animal/",
+   "region": "Biobío",
+   "comunas": [
+    "Cañete"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-02T02:12:16+00:00",
+   "url": "https://t.me/SenapredChile/1483",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "388be576277e",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN! Por alerta de crecida, EVITA riberas de los ríos Biobío, Duqueco, Quillaileo, en la comuna de Santa Bárbara, Región del Biobío.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "Biobío",
+   "comunas": [
+    "Santa Bárbara"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-02T00:49:21+00:00",
+   "url": "https://t.me/SenapredChile/1482",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "76113a375d6c",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "🔴#SENAPREDInforma",
+   "descripcion": "🔴#SENAPREDInforma\n\n¡ATENCIÓN! Por alerta de crecida, EVITA riberas de los ríos Quilleco, Duqueco, Varden del Laja, Río Cañileo y Estero Coreo, en la comuna de Quilleco, Región del Biobío.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "Biobío",
+   "comunas": [
+    "Quilleco"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-02T00:39:08+00:00",
+   "url": "https://t.me/SenapredChile/1481",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "e6c9a23359dd",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "🔴#SENAPREDInforma",
+   "descripcion": "🔴#SENAPREDInforma \n\n¡ATENCIÓN! Por desborde del río Purén, #SENAPRED solicita evacuar sectores Boyeco, Tranaman, La Isla, Huitranlebu, El Valle, Remehueico e Ipinco Bajo, en la comuna de Purén, Región de La Araucanía. \n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRecuerda actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en:\n\nhttps://web.senapred.cl/dimension-animal/",
+   "region": "La Araucanía",
+   "comunas": [
+    "Purén"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-02T00:32:36+00:00",
+   "url": "https://t.me/SenapredChile/1480",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "7f115c38bd33",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN! Por alerta de crecida, EVITA ribera de Río Vergara, en la comuna de Nacimiento, Región del Biobío.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "Biobío",
+   "comunas": [
+    "Nacimiento"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-02T00:14:45+00:00",
+   "url": "https://t.me/SenapredChile/1479",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "dbfd0a9e2768",
+   "nivel": "ROJA",
+   "tipo": "remoción en masa",
+   "titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Maule, se registran remociones en masa y un incremento de caudal en los cursos de agua de la región, debido a las precipitaciones y viento presente por el evento meteorológico, lo que supone un aumento del factor del riesgo para la población. Del mismo modo, según el pronóstico de la Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta aa118-1 Precipitaciones moderadas a fuertes en el litoral y c",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-02T00:09:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e8b3070fb82a",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la región de Biobío por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) de la región del Biobío, las estaciones de la red hidrométrica ubicadas en la región indican un incremento gradual y sostenido en sus caudales, lo que supone un aumento del riesgo para la población cercana a estos cursos de agua. A su vez, de acuerdo con las intensas precipitaciones registradas y pronóstico para las próximas horas, por lo cual se prevé la superación de umbrales de alerta roja en los distintos cursos de agua de ríos y esteros de la región. En este contexto, la Dirección General de Aguas (DGA), m",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-01T14:30:10.1010-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-crecida-2026-07-27-02-52-32",
+   "origen": "senapred_web",
+   "regiones_extra": [],
+   "sae": true
+  },
   {
    "id": "b6492e13c505",
    "nivel": "ROJA",
@@ -23,6 +178,20 @@
    "url": "https://t.me/SenapredChile/1477",
    "origen": "telegram",
    "sae": true
+  },
+  {
+   "id": "b496c600059e",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "Se modifica cobertura de Alerta Roja para las comunas de Ninhue, San Nicolás, Portezuelo, Trehuaco y Quillón por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro en sus caudales: Estación hidrométrica Umbral Río Lonquén en Trehuaco Roja Estero Coyanco en Puente Coyanco PCF Roja En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Roja por crecida a las comunas de Ninhue, San Nicolás, Portezuelo, Trehuaco y Quillón , vigente a contar del 31 de julio y hasta que las condiciones",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-01T22:25:38.3838-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-ninhue-san-nicolas-portezuelo-y-trehuaco-por-crecida-2026-07-31-08-42-37",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "d1784d7bd8e8",
@@ -57,6 +226,20 @@
    "sae": true
   },
   {
+   "id": "717d57ea1ed5",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A379 Altas temperaturas en cordillera de la costa, sectores de valles, pampa y precordillera. 03-08 04-08 Aviso A380 Viento normal a moderado con probabilidad de tormentas de arena en el litoral. 03-08 04-08 En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED modifica la cobe",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-01T21:39:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
    "id": "94a832ae4f4e",
    "nivel": "ROJA",
    "tipo": "crecida de río",
@@ -71,6 +254,34 @@
    "url": "https://t.me/SenapredChile/1472",
    "origen": "telegram",
    "sae": true
+  },
+  {
+   "id": "e1a5af465d6a",
+   "nivel": "ROJA",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Roja para la comuna de Tierra Amarilla por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la comuna, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Enlace Alerta AA112-1 Viento moderado a fuerte en cordillera. Abrir aquí Aviso A359-4 Viento normal a moderado en cordillera. Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Atacama, la Dirección Regional del SENAPRED cancela la Alerta Roja por evento meteorológico p",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-01T21:25:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-evento-meteorologico-2026-07-18-09-44-14",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1eaf4c7c0ff3",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Amarilla para las comunas de Copiapó y Caldera por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , han sido cancelados los siguientes alertamientos meteorológicos para la región, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Enlace Alerta AA112-1 Viento moderado a fuerte en precordillera y cordillera. Abrir aquí Aviso A359-4 Viento normal a moderado en cordillera. Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED cancela la Alerta Amarilla po",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-01T21:21:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-cancela-alerta-amarilla-para-las-comunas-de-copiapo-y-caldera-por-evento-meteorologico-2026-08-01-21-46-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "ee7f5e3da9ea",
@@ -89,19 +300,48 @@
    "sae": true
   },
   {
-   "id": "ee9a3de5ecac",
-   "nivel": "ROJA",
+   "id": "70bbac442a33",
+   "nivel": "AMARILLA",
    "tipo": "crecida de río",
-   "titulo": "🔴#SENAPREDInforma ¡ATENCIÓN!",
-   "descripcion": "🔴#SENAPREDInforma ¡ATENCIÓN!\n\nPor alerta de crecida evite la ribera del Río Damas, comuna de Osorno, Región de Los Lagos.\n\n#SENAPRED activó mensajería SAE preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "titulo": "Se modifica cobertura de Alerta Amarilla para las comunas de Yungay, Pemuco, Bulnes, Quillón, Chillán, Ránquil, Coelemu, Pinto, Coihueco y Chillán Viejo por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro en sus caudales: Estación hidrométrica Umbral Estero Coyanco en Puente Coyanco PCF Amarillo Río Itata en Balsa Nueva Aldea Azul Río Chillán en Esperanza 2 Amarillo Cabe señalar que esta situación supone un incremento del riesgo para la población ubicada en las cercanías de estos cursos de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED modifi",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-01T20:39:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-quillon-por-crecida-2026-07-31-17-01-27",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "4621f17bbe20",
+   "nivel": "ROJA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo : Alertamiento Pronóstico Inicio Fin Enlace Aviso A365-6 Viento normal a moderado con probabilidad de ventisca en cordillera. 01-08 01-08 Abrir aquí Asimismo, ha sido cancelado el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Alerta AA119 Precipitaciones moderadas a fuertes en corto periodo de tiempo en litoral, cordillera de la costa, precordillera y valles precordilleranos y cord",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-01T20:07:09.099-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "21829025169f",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Se declara Alerta Roja para la Comuna de Osorno por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Lagos, personal de la Ilustre Municipalidad de Osorno reportó un aumento sostenido del caudal del&nbsp; Río Damas , en el sector del Parque Cuarto Centenario, situación que mantiene en condiciones de riesgo a la población ubicada en el sector ribereño. Por otro lado, se realizó la evacuación preventiva de un grupo familiar de cinco personas en el asentamiento Chauracahuin debido al aumento sostenido del caudal del&nbsp; Río Rahue , el que también provocó preliminarmente, el anegamiento de tres viviendas. En",
    "region": "Los Lagos",
    "comunas": [
     "Osorno"
    ],
    "estado": "VIGENTE",
-   "ts": "2026-08-01T19:38:40+00:00",
-   "url": "https://t.me/SenapredChile/1470",
-   "origen": "telegram",
+   "ts": "2026-08-01T19:42:40.4040-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-osorno-por-desborde-2026-08-01-19-43-36",
+   "origen": "senapred_web",
+   "regiones_extra": [],
    "sae": true
   },
   {
@@ -179,20 +419,6 @@
    "sae": true
   },
   {
-   "id": "e8b3070fb82a",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la región de Biobío por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) de la región del Biobío, las estaciones de la red hidrométrica ubicadas en la región indican un incremento gradual y sostenido en sus caudales, lo que supone un aumento del riesgo para la población cercana a estos cursos de agua. A su vez, de acuerdo con las intensas precipitaciones registradas y pronóstico para las próximas horas, por lo cual se prevé la superación de umbrales de alerta roja en los distintos cursos de agua de ríos y esteros de la región. En este contexto, la Dirección General de Aguas (DGA), m",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-01T14:30:10.1010-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-crecida-2026-07-27-02-52-32",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "44e993e42b64",
    "nivel": "ATP",
    "tipo": "remoción en masa",
@@ -203,20 +429,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-01T14:21:53.5353-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-07-13-12-33-07",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "d5ca7f362914",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Amarilla para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA118-1 Precipitaciones moderadas a fuertes en litoral y cordillera de la costa. 01-08 02-08 Abrir aquí Alerta AA120-1 Viento moderado a fuerte en el litoral, cordillera de la costa, valle, precordillera y cordillera 01-08 01-08 Abrir aquí Aviso A364-7 Precipitaciones normales a moderadas en valle, precordillera y cordillera. 01-08 01-08 Abrir aquí Aviso A365-6 Vie",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-01T14:10:12.1212-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -384,20 +596,6 @@
    "regiones_extra": []
   },
   {
-   "id": "9e4116a01ef1",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se modifica cobertura de Alerta Amarilla para las comunas de Yungay, Pemuco, Bulnes, Quillón, Chillán, Ránquil, Portezuelo, Coelemu y Trehuaco por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas “ Estero Coyanco en Puente Coyanco PFC ” y “Río Itata en Balsa Nueva Aldea ” indican un incremento en sus caudales, alcanzando valores correspondientes al umbral amarillo. Esta situación supone un incremento del riesgo para la población ubicada en las cercanías de estos cursos de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Amarilla por crecida a las c",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-31T19:01:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-quillon-por-crecida-2026-07-31-17-01-27",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "a97ec261cda8",
    "nivel": "ROJA",
    "tipo": "crecida de río",
@@ -474,20 +672,6 @@
    "regiones_extra": []
   },
   {
-   "id": "30bdf22566a4",
-   "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA119 Precipitaciones moderadas a fuertes en corto periodo de tiempo en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera. 31-07 31-07 Abrir Aquí Aviso A365-4 Viento normal a moderado con probabilidad de ventisca en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera. 31-07 02-08 Abrir aquí Avi",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-31T15:25:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "d41d60471e95",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
@@ -516,20 +700,6 @@
    "regiones_extra": []
   },
   {
-   "id": "084492479454",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para las comunas de Ninhue, San Nicolás, Portezuelo y Trehuaco por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ Río Lonquén en Trehuaco ”, indica un incremento en su caudal, alcanzando valores de umbral rojo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED cancela Alerta Amarilla y declara Alerta Roja por crecida para las comunas de Ninhue, San Nicolás, Portezuelo y Trehuaco , vigente a contar de hoy y hasta que las condici",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-31T11:53:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-ninhue-san-nicolas-portezuelo-y-trehuaco-por-crecida-2026-07-31-08-42-37",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "202594839e1e",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -544,6 +714,20 @@
    "url": "https://t.me/SenapredChile/1453",
    "origen": "telegram",
    "sae": true
+  },
+  {
+   "id": "1a4d3fd6a6f0",
+   "nivel": "ROJA",
+   "tipo": "nevadas",
+   "titulo": "Se cancela Alerta Amarilla y Declara Alerta Roja para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA114 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa, valle y precordillera. 30-07 31-07 Abrir aquí Alerta AA118 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa, valle y precordillera. 01-08 02-08 Abrir aquí Aviso A370-1 Nevadas normales a moderadas con probabilidad de ventisca en corto periodo de tiempo en cordillera.",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-07-31T03:55:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-07-12-18-52-58",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "b06ff4ab3e83",
@@ -903,20 +1087,6 @@
    "regiones_extra": []
   },
   {
-   "id": "30f2e80115b3",
-   "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Roja para la comuna de Tierra Amarilla por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Aviso A346-3 Altas temperaturas en cordillera de la costa y sectores de valles y pampa. 25-07 25-07 En tanto, ha sido cancelado el siguiente alertamiento meteorológico para la región, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A345 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. Por otr",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-07-25T01:15:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-evento-meteorologico-2026-07-18-09-44-14",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "bbebffabb767",
    "nivel": "ATP",
    "tipo": "evento meteorológico",
@@ -945,20 +1115,6 @@
    "regiones_extra": []
   },
   {
-   "id": "889c75479527",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Chañaral y Diego de Almagro por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Aviso A345 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 22-07 24-07 Aviso A346-1 Altas temperaturas en litoral, cordillera de la costa y sectores de valles y pampa de la región. 24-07 24-07 Por otra parte, han sido cancelados los siguientes alertamientos meteorológicos para la región, debido al debilitamiento de las condiciones meteorológic",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-07-24T00:23:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "343b841baa44",
    "nivel": "AMARILLA",
    "tipo": "viento",
@@ -966,7 +1122,7 @@
    "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Aviso A345 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 22-07 24-07 Aviso A346-1 Altas temperaturas en litoral, cordillera de la costa y sectores de valles y pampa de la región. 24-07 24-07 Por otra parte, han sido cancelados los siguientes alertamientos meteorológicos para la región, debido al debilitamiento de las condiciones meteorológic",
    "region": "Atacama",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-07-23T23:59:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-copiapo-y-caldera-por-evento-meteorologico-2026-07-19-03-21-21",
    "origen": "senapred_web",
@@ -980,7 +1136,7 @@
    "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Aviso A345 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 22-07 24-07 Aviso A346-1 Altas temperaturas en litoral, cordillera de la costa y sectores de valles y pampa de la región. 24-07 24-07 Por otra parte, han sido cancelados los siguientes alertamientos meteorológicos para la región, debido al debilitamiento de las condiciones meteorológica",
    "region": "Atacama",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-07-23T23:49:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-huasco-por-evento-meteorologico-2026-07-16-19-52-57",
    "origen": "senapred_web",
@@ -1592,7 +1748,7 @@
    "descripcion": "¡ATENCIÓN! Por desborde del Río Huasco #SENAPRED solicita evacuar sectores aledaños a la ribera de dicho curso de agua en la comuna de #Vallenar, Región de Atacama. \nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE. \nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades. \nMás información en: https://web.senapred.cl/dimension-animal/",
    "region": "Atacama",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-07-20T09:15:35+00:00",
    "url": "https://t.me/SenapredChile/1386",
    "origen": "telegram",
@@ -1714,7 +1870,7 @@
    "descripcion": "REITERAMOS el llamado de #SENAPRED por activación de Quebrada Alarcón, a EVACUAR el sector #Amancay, en la comuna de #Freirina, Región de Atacama.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
    "region": "Atacama",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-07-19T21:07:28+00:00",
    "url": "https://t.me/SenapredChile/1356",
    "origen": "telegram",
@@ -2059,7 +2215,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por desborde de canal, #SENAPRED solicita evacuar sector Quebrada Valparaíso; en la comuna de #Vallenar, Región de Atacama.\n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\n\nMás información en: https://web.senapred.cl/dimension-animal/",
    "region": "Atacama",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-07-18T11:48:02+00:00",
    "url": "https://t.me/SenapredChile/1321",
    "origen": "telegram",
@@ -2803,48 +2959,6 @@
    "regiones_extra": [
     "Parinacota"
    ]
-  },
-  {
-   "id": "9d7721f2aa8f",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se Cancela Alerta Temprana Preventiva para la Región del Maule por Heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , ha sido cancelado el siguiente alertamiento meteorológico para la Región del Maule. Alertamiento Pronóstico Aviso A290-1 Heladas normales a moderadas con probabilidad de formación de escarcha en cordillera de la costa, valle y precordillera de la región. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED Cancela Alerta Temprana Preventiva Regional por Heladas , que se mantuvo vigente desde el 30 de junio del 2026.",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-04T11:35:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-heladas-2026-06-30-13-31-04",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7297c4498c73",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se Cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , ha sido cancelado el siguiente alertamiento meteorológico para la Región de Ñuble, debido al debilitamiento de las condiciones meteorológicas que lo originaron. Alertamiento Pronóstico Alerta AA81-2 Viento moderado a fuerte, en dirección Este (Raco, Puelche), en precordillera y cordillera. A287-3* Viento normal a moderado en precordillera y cordillera, en dirección Este (Raco, Puelche), en precordillera y cordillera. A290-1* Heladas normales a moderadas con probabilidad de formación de escarcha en cordi",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-04T10:28:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-06-30-15-48-39",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "6be13e1f0f7b",
-   "nivel": "ATP",
-   "tipo": "otros",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las provincias de San Antonio, Valparaíso, Quillota, San Felipe, Petorca, Isla de Pascua y Marga por alteración sanitaria",
-   "descripcion": "De acuerdo con la información proporcionada por la Secretaría Regional Ministerial de Salud, se informa la presencia de un brote de Dengue (Aedes aegypti), registrándose 8 focos positivos durante el 2026, el ultimo hallazgo corresponde a larvas y pupas confirmadas a Aedes por el ISP el 19 de mayo del presente año. De manera complementaria, se indica que el 20 de junio de 2026 se da cierre al brote de Dengue en Isla de Pascua, habiéndose registrado un total de 29 casos confirmados, de los cuales 27 correspondieron a casos autóctonos y 2 a casos importados. Adicionalmente se informa que durante",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-03T21:35:10.1010-04:00",
-   "url": "https://senapred.cl/alerta/se-modifica-cobertura-de-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-alteracion-sanitaria-2026-03-03-08-31-11",
-   "origen": "senapred_web",
-   "regiones_extra": []
   }
  ]
 }

@@ -1,8 +1,295 @@
 {
- "generado": "2026-08-01T23:43:35+00:00",
- "desde": "2026-07-30T23:43:28Z",
+ "generado": "2026-08-02T07:55:21+00:00",
+ "desde": "2026-07-31T07:55:10Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "penco": {
+   "comuna": "Penco",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "U2V_uGdjjZ0",
+     "url": "https://www.youtube.com/watch?v=U2V_uGdjjZ0",
+     "titulo": "Senapred ordena evacuar sector Andrés Bello de Penco por riesgo de aluvión",
+     "canal": "El PeriodistaTV",
+     "publicado": "2026-08-02T03:38:25Z",
+     "live": false,
+     "score": 7.64,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "santa barbara": {
+   "comuna": "Santa Bárbara",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "DMIfWTxc7lU",
+     "url": "https://www.youtube.com/watch?v=DMIfWTxc7lU",
+     "titulo": "Live streaming di Webcam DANTA di Cadore - Dolomiti",
+     "canal": "Webcam DANTA",
+     "publicado": "2026-08-01T17:56:57Z",
+     "live": true,
+     "score": 6.84,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "puren": {
+   "comuna": "Purén",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "P9jhGtLDPYo",
+     "url": "https://www.youtube.com/watch?v=P9jhGtLDPYo",
+     "titulo": "Copa Alemania 2026 - UDEC  VS Lobas Purén  -  (U18)   Día 4 (Cancha Fritz)",
+     "canal": "CopaAlemania CDA",
+     "publicado": "2026-08-02T05:20:05Z",
+     "live": false,
+     "score": 7.78,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "y-1GBeoF3rs",
+     "url": "https://www.youtube.com/watch?v=y-1GBeoF3rs",
+     "titulo": "EL TIEMPO LA ARAUCANÍA| 🚨 SENAPRED emite evacuación inmediata para sectores de Purén por inundación",
+     "canal": "Punto Nueve Araucanía ",
+     "publicado": "2026-08-02T01:42:14Z",
+     "live": false,
+     "score": 7.48,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "kjVurPCSRmU",
+     "url": "https://www.youtube.com/watch?v=kjVurPCSRmU",
+     "titulo": "pom pom puren as human #dog",
+     "canal": "Jody King",
+     "publicado": "2026-08-01T19:27:06Z",
+     "live": false,
+     "score": 6.96,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Kx-rxNGsuGA",
+     "url": "https://www.youtube.com/watch?v=Kx-rxNGsuGA",
+     "titulo": "Mach dir das anstatt puren Magerquark zu essen…",
+     "canal": "GymsKitchen",
+     "publicado": "2026-08-01T19:00:21Z",
+     "live": false,
+     "score": 6.92,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "_goQxpTTqr8",
+     "url": "https://www.youtube.com/watch?v=_goQxpTTqr8",
+     "titulo": "Copa Alemania 2026 - Lobas Purén VS Kimün - Día 3 (Cancha Fritz)",
+     "canal": "CopaAlemania CDA",
+     "publicado": "2026-08-01T10:03:27Z",
+     "live": false,
+     "score": 6.18,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "cLeoCcnxAn4",
+     "url": "https://www.youtube.com/watch?v=cLeoCcnxAn4",
+     "titulo": "ICH WAR UNTERWEGS IN EINEN CHAOS DER PUREN VERZWEIFLUNG [ROBLOX]",
+     "canal": "METAL-UNCUT ",
+     "publicado": "2026-08-01T08:45:00Z",
+     "live": false,
+     "score": 6.07,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "T91VB9a0_dw",
+     "url": "https://www.youtube.com/watch?v=T91VB9a0_dw",
+     "titulo": "LOBAS PURÉN VS FÉNIX CASTRO - COPA ALEMANIA FEMENINA 2026",
+     "canal": "Rama basquetbol CDA",
+     "publicado": "2026-08-01T04:56:51Z",
+     "live": false,
+     "score": 5.75,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "25b8S_vVAgs",
+     "url": "https://www.youtube.com/watch?v=25b8S_vVAgs",
+     "titulo": "Tag 50! Lule im puren Welpen-Glück auf dem Feld 🥹🌾",
+     "canal": "Luze Lule Liba  -  3 Aussies",
+     "publicado": "2026-08-01T04:24:37Z",
+     "live": false,
+     "score": 5.71,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "arauco": {
+   "comuna": "Arauco",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "mDXXcx67nps",
+     "url": "https://www.youtube.com/watch?v=mDXXcx67nps",
+     "titulo": "Arauco: Complicaciones en el ingreso al sector Guzmanes de Pichilo por el desborde del río.",
+     "canal": "La Voz Araucana",
+     "publicado": "2026-08-02T02:22:02Z",
+     "live": false,
+     "score": 5.54,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "elP9O2xCVg8",
+     "url": "https://www.youtube.com/watch?v=elP9O2xCVg8",
+     "titulo": "tormenta eléctrica, lluvias y vientos importantes entre coquimbo y biobio #chile #coquimbo #biobío",
+     "canal": "Info Red Digital",
+     "publicado": "2026-07-31T21:00:44Z",
+     "live": false,
+     "score": 3.09,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "X3ut6VPogrs",
+     "url": "https://www.youtube.com/watch?v=X3ut6VPogrs",
+     "titulo": "Poste se mueve peligrosamente por los fuertes vientos en Coquimbo #shorts #viral",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-07-31T20:06:03Z",
+     "live": false,
+     "score": 3.01,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "XohVALC8XRA",
+     "url": "https://www.youtube.com/watch?v=XohVALC8XRA",
+     "titulo": "Sistema frontal afecta a zona centro-sur y norte: se activaron quebradas en región de Coquimbo",
+     "canal": "Meganoticias",
+     "publicado": "2026-07-31T17:32:10Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "5ZzwDxa3v00",
+     "url": "https://www.youtube.com/watch?v=5ZzwDxa3v00",
+     "titulo": "💨 Alertan por fuertes ráfagas de viento en La Serena y Coquimbo #shorts #viral",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-07-31T15:23:33Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "pFPQqP0qgYc",
+     "url": "https://www.youtube.com/watch?v=pFPQqP0qgYc",
+     "titulo": "🌧️ La lluvia y el viento ya se hacen sentir con fuerza en La Serena y Coquimbo.  Nuestros auditores…",
+     "canal": "MI RADIO TV",
+     "publicado": "2026-07-31T13:54:52Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "osorno": {
+   "comuna": "Osorno",
+   "region": "Los Lagos",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "kj2JYFPsJd8",
+     "url": "https://www.youtube.com/watch?v=kj2JYFPsJd8",
+     "titulo": "SENAPRED declara Alerta Roja para la comuna de Osorno por desborde de los ríos Damas y Rahue",
+     "canal": "Grupo DiarioSur",
+     "publicado": "2026-08-02T02:14:51Z",
+     "live": false,
+     "score": 5.53,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "san pablo": {
+   "comuna": "San Pablo",
+   "region": "Los Lagos",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "BXqmRLAMQC0",
+     "url": "https://www.youtube.com/watch?v=BXqmRLAMQC0",
+     "titulo": "01-08-26, Estado de México, En Vivo Cerro Tonala, San Pablo Tecalco, Chiconautla, AIFA",
+     "canal": "Nicery World ",
+     "publicado": "2026-08-01T19:55:12Z",
+     "live": true,
+     "score": 7.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "ZKvPAWkLOGE",
+     "url": "https://www.youtube.com/watch?v=ZKvPAWkLOGE",
+     "titulo": "DESBORDE DEL RIO BUENO MANTIENE 80 FAMILIAS AISLADAS EN SAN PABLO.",
+     "canal": "OsornoTV",
+     "publicado": "2026-07-31T20:17:24Z",
+     "live": false,
+     "score": 3.03,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "jX7dNs9mDYY",
+     "url": "https://www.youtube.com/watch?v=jX7dNs9mDYY",
+     "titulo": "SENAPRED declara Alerta Roja para San Pablo por desborde del río Bueno",
+     "canal": "Canal Latino",
+     "publicado": "2026-07-31T12:26:08Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "la araucania": {
+   "comuna": "La Araucanía",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "MDZ4lhhcRhQ",
+     "url": "https://www.youtube.com/watch?v=MDZ4lhhcRhQ",
+     "titulo": "Alerta por peligro de desborde del río Biobío : Intensas precipitaciones en la zona centro-sur",
+     "canal": "Meganoticias",
+     "publicado": "2026-08-02T02:23:31Z",
+     "live": false,
+     "score": 5.54,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "concepcion": {
    "comuna": "Concepción",
    "region": "Biobío",
@@ -15,7 +302,7 @@
      "canal": "CONCEPCION MULTIMEDIOS",
      "publicado": "2026-08-01T04:34:58Z",
      "live": true,
-     "score": 6.4,
+     "score": 5.72,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +320,29 @@
      "canal": "Meganoticias",
      "publicado": "2026-08-01T00:42:47Z",
      "live": false,
-     "score": 12.08,
+     "score": 11.4,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "h5HMoU7lwIY",
+     "url": "https://www.youtube.com/watch?v=h5HMoU7lwIY",
+     "titulo": "Ruta Traiguen victoria full viento y lluvia. 01/08/2026",
+     "canal": "Cristian Sanchez",
+     "publicado": "2026-08-02T07:46:05Z",
+     "live": false,
+     "score": 9.99,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "B0eehF4Jbqk",
+     "url": "https://www.youtube.com/watch?v=B0eehF4Jbqk",
+     "titulo": "Emergencia en Traiguén: Río Colpi arrastra puente y deja a 300 familias aisladas",
+     "canal": "Meganoticias",
+     "publicado": "2026-08-02T02:40:45Z",
+     "live": false,
+     "score": 9.56,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +353,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-08-01T15:50:15Z",
      "live": false,
-     "score": 9.34,
+     "score": 8.66,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +364,7 @@
      "canal": "Canditraigúen ",
      "publicado": "2026-08-01T05:19:49Z",
      "live": false,
-     "score": 8.47,
+     "score": 7.78,
      "verificado": false,
      "embeddable": true
     },
@@ -66,7 +375,7 @@
      "canal": "Chile informa",
      "publicado": "2026-08-01T02:27:27Z",
      "live": false,
-     "score": 8.23,
+     "score": 7.54,
      "verificado": false,
      "embeddable": true
     },
@@ -77,7 +386,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-08-01T01:58:42Z",
      "live": false,
-     "score": 8.19,
+     "score": 7.5,
      "verificado": false,
      "embeddable": true
     },
@@ -88,193 +397,7 @@
      "canal": "Chile informa",
      "publicado": "2026-08-01T01:17:33Z",
      "live": false,
-     "score": 8.13,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "m9z8pXFNOSs",
-     "url": "https://www.youtube.com/watch?v=m9z8pXFNOSs",
-     "titulo": "#fiesta #decoracion #candi #traiguen #encanto #eventos #cumpleaños #hermoso",
-     "canal": "Canditraigúen ",
-     "publicado": "2026-07-31T20:24:22Z",
-     "live": false,
-     "score": 7.72,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "mqHc9CDavDU",
-     "url": "https://www.youtube.com/watch?v=mqHc9CDavDU",
-     "titulo": "#decoracion #spiderman #evento #shorts #traiguén #fiesta #cumpleañosinfantil",
-     "canal": "Canditraigúen ",
-     "publicado": "2026-07-31T05:15:55Z",
-     "live": false,
-     "score": 7.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "puren": {
-   "comuna": "Purén",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "kjVurPCSRmU",
-     "url": "https://www.youtube.com/watch?v=kjVurPCSRmU",
-     "titulo": "pom pom puren as human #dog",
-     "canal": "Jody King",
-     "publicado": "2026-08-01T19:27:06Z",
-     "live": false,
-     "score": 9.64,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "Kx-rxNGsuGA",
-     "url": "https://www.youtube.com/watch?v=Kx-rxNGsuGA",
-     "titulo": "Mach dir das anstatt puren Magerquark zu essen…",
-     "canal": "GymsKitchen",
-     "publicado": "2026-08-01T19:00:21Z",
-     "live": false,
-     "score": 9.61,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "P9jhGtLDPYo",
-     "url": "https://www.youtube.com/watch?v=P9jhGtLDPYo",
-     "titulo": "Copa Alemania 2026 - UDEC  VS Lobas Purén  -  (U18)   Día 4 (Cancha Fritz)",
-     "canal": "CopaAlemania CDA",
-     "publicado": "2026-08-01T16:03:35Z",
-     "live": false,
-     "score": 9.36,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "_goQxpTTqr8",
-     "url": "https://www.youtube.com/watch?v=_goQxpTTqr8",
-     "titulo": "Copa Alemania 2026 - Lobas Purén VS Kimün - Día 3 (Cancha Fritz)",
-     "canal": "CopaAlemania CDA",
-     "publicado": "2026-08-01T10:03:27Z",
-     "live": false,
-     "score": 8.86,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "cLeoCcnxAn4",
-     "url": "https://www.youtube.com/watch?v=cLeoCcnxAn4",
-     "titulo": "ICH WAR UNTERWEGS IN EINEN CHAOS DER PUREN VERZWEIFLUNG [ROBLOX]",
-     "canal": "METAL-UNCUT ",
-     "publicado": "2026-08-01T08:45:00Z",
-     "live": false,
-     "score": 8.75,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "T91VB9a0_dw",
-     "url": "https://www.youtube.com/watch?v=T91VB9a0_dw",
-     "titulo": "LOBAS PURÉN VS FÉNIX CASTRO - COPA ALEMANIA FEMENINA 2026",
-     "canal": "Rama basquetbol CDA",
-     "publicado": "2026-08-01T04:56:51Z",
-     "live": false,
-     "score": 8.44,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "25b8S_vVAgs",
-     "url": "https://www.youtube.com/watch?v=25b8S_vVAgs",
-     "titulo": "Tag 50! Lule im puren Welpen-Glück auf dem Feld 🥹🌾",
-     "canal": "Luze Lule Liba  -  3 Aussies",
-     "publicado": "2026-08-01T04:24:37Z",
-     "live": false,
-     "score": 8.39,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "9TWXLYDbvho",
-     "url": "https://www.youtube.com/watch?v=9TWXLYDbvho",
-     "titulo": "LOBAS PURÉN VS FÉNIX CASTRO - COPA ALEMANIA FEMENINA 2026",
-     "canal": "Rama basquetbol CDA",
-     "publicado": "2026-07-31T14:43:42Z",
-     "live": false,
-     "score": 7.25,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "1HWhTAZnFfA",
-     "url": "https://www.youtube.com/watch?v=1HWhTAZnFfA",
-     "titulo": "PALESTINO VS COQUIMBO UNIDO",
-     "canal": "MI RADIO TV",
-     "publicado": "2026-08-01T20:33:36Z",
-     "live": true,
-     "score": 7.74,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "GyZJ1HeVJTA",
-     "url": "https://www.youtube.com/watch?v=GyZJ1HeVJTA",
-     "titulo": "PALESTINO V/S COQUIMBO UNIDO - EN VIVO - SoloDeportes FM",
-     "canal": "SoloDeportes FM",
-     "publicado": "2026-08-01T20:36:47Z",
-     "live": true,
-     "score": 7.74,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "BUw84ls8ZCs",
-     "url": "https://www.youtube.com/watch?v=BUw84ls8ZCs",
-     "titulo": "PALESTINO VS COQUIMBO UNIDO | LIGA DE PRIMERA EN VIVO",
-     "canal": "Vistazo Deportivo",
-     "publicado": "2026-08-01T02:04:52Z",
-     "live": true,
-     "score": 6.2,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "arauco": {
-   "comuna": "Arauco",
-   "region": "",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "qRtJ2xJ1v9A",
-     "url": "https://www.youtube.com/watch?v=qRtJ2xJ1v9A",
-     "titulo": "🚨 ÚLTIMO MINUTO | ARAUCO Pichilo",
-     "canal": "La Voz Araucana",
-     "publicado": "2026-08-01T22:41:21Z",
-     "live": false,
-     "score": 9.91,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "pHLTe4tm888",
-     "url": "https://www.youtube.com/watch?v=pHLTe4tm888",
-     "titulo": "RÍO PICHILO EN ALERTA: Caudal sube a nivel crítico y amenaza con desbordarse en Arauco",
-     "canal": "MegaTiempo",
-     "publicado": "2026-07-31T15:39:23Z",
-     "live": false,
-     "score": 7.33,
+     "score": 7.45,
      "verificado": false,
      "embeddable": true
     }
