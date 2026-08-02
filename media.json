@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-02T07:55:21+00:00",
- "desde": "2026-07-31T07:55:10Z",
+ "generado": "2026-08-02T11:46:10+00:00",
+ "desde": "2026-07-31T11:46:00Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "penco": {
@@ -15,7 +15,7 @@
      "canal": "El PeriodistaTV",
      "publicado": "2026-08-02T03:38:25Z",
      "live": false,
-     "score": 7.64,
+     "score": 7.32,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +33,7 @@
      "canal": "Webcam DANTA",
      "publicado": "2026-08-01T17:56:57Z",
      "live": true,
-     "score": 6.84,
+     "score": 6.52,
      "verificado": false,
      "embeddable": true
     }
@@ -51,7 +51,7 @@
      "canal": "CopaAlemania CDA",
      "publicado": "2026-08-02T05:20:05Z",
      "live": false,
-     "score": 7.78,
+     "score": 7.46,
      "verificado": false,
      "embeddable": true
     },
@@ -62,7 +62,7 @@
      "canal": "Punto Nueve Araucanía ",
      "publicado": "2026-08-02T01:42:14Z",
      "live": false,
-     "score": 7.48,
+     "score": 7.16,
      "verificado": false,
      "embeddable": true
     },
@@ -73,7 +73,7 @@
      "canal": "Jody King",
      "publicado": "2026-08-01T19:27:06Z",
      "live": false,
-     "score": 6.96,
+     "score": 6.64,
      "verificado": false,
      "embeddable": true
     },
@@ -84,7 +84,7 @@
      "canal": "GymsKitchen",
      "publicado": "2026-08-01T19:00:21Z",
      "live": false,
-     "score": 6.92,
+     "score": 6.6,
      "verificado": false,
      "embeddable": true
     },
@@ -95,7 +95,7 @@
      "canal": "CopaAlemania CDA",
      "publicado": "2026-08-01T10:03:27Z",
      "live": false,
-     "score": 6.18,
+     "score": 5.86,
      "verificado": false,
      "embeddable": true
     },
@@ -106,7 +106,7 @@
      "canal": "METAL-UNCUT ",
      "publicado": "2026-08-01T08:45:00Z",
      "live": false,
-     "score": 6.07,
+     "score": 5.75,
      "verificado": false,
      "embeddable": true
     },
@@ -117,7 +117,7 @@
      "canal": "Rama basquetbol CDA",
      "publicado": "2026-08-01T04:56:51Z",
      "live": false,
-     "score": 5.75,
+     "score": 5.43,
      "verificado": false,
      "embeddable": true
     },
@@ -128,7 +128,7 @@
      "canal": "Luze Lule Liba  -  3 Aussies",
      "publicado": "2026-08-01T04:24:37Z",
      "live": false,
-     "score": 5.71,
+     "score": 5.39,
      "verificado": false,
      "embeddable": true
     }
@@ -146,7 +146,7 @@
      "canal": "La Voz Araucana",
      "publicado": "2026-08-02T02:22:02Z",
      "live": false,
-     "score": 5.54,
+     "score": 5.22,
      "verificado": false,
      "embeddable": true
     }
@@ -164,7 +164,7 @@
      "canal": "Info Red Digital",
      "publicado": "2026-07-31T21:00:44Z",
      "live": false,
-     "score": 3.09,
+     "score": 3.0,
      "verificado": false,
      "embeddable": true
     },
@@ -175,7 +175,7 @@
      "canal": "Radio Riquelme",
      "publicado": "2026-07-31T20:06:03Z",
      "live": false,
-     "score": 3.01,
+     "score": 3.0,
      "verificado": false,
      "embeddable": true
     },
@@ -226,7 +226,7 @@
      "canal": "Grupo DiarioSur",
      "publicado": "2026-08-02T02:14:51Z",
      "live": false,
-     "score": 5.53,
+     "score": 5.21,
      "verificado": false,
      "embeddable": true
     }
@@ -238,24 +238,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "BXqmRLAMQC0",
-     "url": "https://www.youtube.com/watch?v=BXqmRLAMQC0",
-     "titulo": "01-08-26, Estado de México, En Vivo Cerro Tonala, San Pablo Tecalco, Chiconautla, AIFA",
-     "canal": "Nicery World ",
-     "publicado": "2026-08-01T19:55:12Z",
-     "live": true,
-     "score": 7.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "ZKvPAWkLOGE",
      "url": "https://www.youtube.com/watch?v=ZKvPAWkLOGE",
      "titulo": "DESBORDE DEL RIO BUENO MANTIENE 80 FAMILIAS AISLADAS EN SAN PABLO.",
      "canal": "OsornoTV",
      "publicado": "2026-07-31T20:17:24Z",
      "live": false,
-     "score": 3.03,
+     "score": 3.0,
      "verificado": false,
      "embeddable": true
     },
@@ -284,25 +273,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-08-02T02:23:31Z",
      "live": false,
-     "score": 5.54,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "concepcion": {
-   "comuna": "Concepción",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "Ep427Stp5CI",
-     "url": "https://www.youtube.com/watch?v=Ep427Stp5CI",
-     "titulo": "12° Festival Nacional del Locro desde el estadio de Concepción Fútbol Club",
-     "canal": "CONCEPCION MULTIMEDIOS",
-     "publicado": "2026-08-01T04:34:58Z",
-     "live": true,
-     "score": 5.72,
+     "score": 5.22,
      "verificado": false,
      "embeddable": true
     }
@@ -320,7 +291,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-08-01T00:42:47Z",
      "live": false,
-     "score": 11.4,
+     "score": 11.08,
      "verificado": false,
      "embeddable": true
     },
@@ -331,7 +302,7 @@
      "canal": "Cristian Sanchez",
      "publicado": "2026-08-02T07:46:05Z",
      "live": false,
-     "score": 9.99,
+     "score": 9.67,
      "verificado": false,
      "embeddable": true
     },
@@ -342,7 +313,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-08-02T02:40:45Z",
      "live": false,
-     "score": 9.56,
+     "score": 9.24,
      "verificado": false,
      "embeddable": true
     },
@@ -353,7 +324,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-08-01T15:50:15Z",
      "live": false,
-     "score": 8.66,
+     "score": 8.34,
      "verificado": false,
      "embeddable": true
     },
@@ -364,7 +335,7 @@
      "canal": "Canditraigúen ",
      "publicado": "2026-08-01T05:19:49Z",
      "live": false,
-     "score": 7.78,
+     "score": 7.46,
      "verificado": false,
      "embeddable": true
     },
@@ -375,7 +346,7 @@
      "canal": "Chile informa",
      "publicado": "2026-08-01T02:27:27Z",
      "live": false,
-     "score": 7.54,
+     "score": 7.22,
      "verificado": false,
      "embeddable": true
     },
@@ -386,7 +357,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-08-01T01:58:42Z",
      "live": false,
-     "score": 7.5,
+     "score": 7.18,
      "verificado": false,
      "embeddable": true
     },
@@ -397,7 +368,25 @@
      "canal": "Chile informa",
      "publicado": "2026-08-01T01:17:33Z",
      "live": false,
-     "score": 7.45,
+     "score": 7.13,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "los lagos": {
+   "comuna": "Los Lagos",
+   "region": "Los Lagos",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "IfxCW-1K4OM",
+     "url": "https://www.youtube.com/watch?v=IfxCW-1K4OM",
+     "titulo": "Temporal en Chile: Viento y lluvia en la Región de Los Lagos (EN VIVO)",
+     "canal": "notisurweb",
+     "publicado": "2026-08-01T22:58:43Z",
+     "live": true,
+     "score": 6.93,
      "verificado": false,
      "embeddable": true
     }
