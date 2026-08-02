@@ -1,36 +1,6 @@
 {
- "generado": "2026-08-02T15:47:52+00:00",
- "desde": "2026-07-31T15:47:45Z",
+ "generado": "2026-08-02T20:15:07+00:00",
+ "desde": "2026-07-31T20:15:00Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "eK9OEdK3dqc",
-     "url": "https://www.youtube.com/watch?v=eK9OEdK3dqc",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-08-02T03:24:08Z",
-     "live": true,
-     "score": -3.03,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "wGUm_4Mom28",
-     "url": "https://www.youtube.com/watch?v=wGUm_4Mom28",
-     "titulo": "San Pedro de la Paz en Vivo",
-     "canal": "San Pedro de la Paz en Vivo",
-     "publicado": "2026-08-02T05:00:18Z",
-     "live": true,
-     "score": -3.9,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
