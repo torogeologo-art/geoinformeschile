@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-02T07:54:45+00:00",
+ "generado": "2026-08-02T20:15:53+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
   {
@@ -34,17 +34,6 @@
    "lugar": "Combarbalá",
    "url": "https://t.me/SenapredChile/1460",
    "ts": "2026-07-31T19:26"
-  },
-  {
-   "nombre": "río Pichilo",
-   "lat": -37.30311,
-   "lon": -73.17435,
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "sae": true,
-   "lugar": "Arauco",
-   "url": "https://t.me/SenapredChile/1441",
-   "ts": "2026-07-26T18:50"
   }
  ]
 }
