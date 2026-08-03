@@ -1,166 +1,13 @@
 {
- "generado": "2026-08-03T18:59:50+00:00",
- "desde": "2026-08-01T18:59:37Z",
+ "generado": "2026-08-03T22:37:46+00:00",
+ "desde": "2026-08-01T22:37:40Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "traiguen": {
-   "comuna": "Traiguén",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "tjwaHHBZpN0",
-     "url": "https://www.youtube.com/watch?v=tjwaHHBZpN0",
-     "titulo": "SENAPRED mantiene alerta roja por desborde de ríos Andalién, Vergara y Traiguén",
-     "canal": "Cooperativa Podcast",
-     "publicado": "2026-08-03T14:28:41Z",
-     "live": false,
-     "score": 7.62,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "8hfCa80Ef8Y",
-     "url": "https://www.youtube.com/watch?v=8hfCa80Ef8Y",
-     "titulo": "SENAPRED mantiene alerta roja por desborde de ríos Andalién, Vergara y Traiguén",
-     "canal": "CooperativaFM",
-     "publicado": "2026-08-03T14:28:39Z",
-     "live": false,
-     "score": 7.62,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "ju5-iKp01bg",
-     "url": "https://www.youtube.com/watch?v=ju5-iKp01bg",
-     "titulo": "2026 08 02 inundaciones rio Traiguen entrevista zona D - Carlos Stappung  R.",
-     "canal": "Carlos Stappung",
-     "publicado": "2026-08-03T00:08:44Z",
-     "live": false,
-     "score": 6.43,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "TLo3pHHhxJ8",
-     "url": "https://www.youtube.com/watch?v=TLo3pHHhxJ8",
-     "titulo": "#toystory #cumpleaños #fiesta #decoracion #candi #traiguen #evento #viral #fypシ゚viral  #hermoso",
-     "canal": "Canditraigúen ",
-     "publicado": "2026-08-03T00:02:39Z",
-     "live": false,
-     "score": 6.42,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "h5HMoU7lwIY",
-     "url": "https://www.youtube.com/watch?v=h5HMoU7lwIY",
-     "titulo": "Ruta Traiguen victoria full viento y lluvia. 01/08/2026",
-     "canal": "Cristian Sanchez",
-     "publicado": "2026-08-02T07:46:05Z",
-     "live": false,
-     "score": 5.06,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "B0eehF4Jbqk",
-     "url": "https://www.youtube.com/watch?v=B0eehF4Jbqk",
-     "titulo": "Emergencia en Traiguén: Río Colpi arrastra puente y deja a 300 familias aisladas",
-     "canal": "Meganoticias",
-     "publicado": "2026-08-02T02:40:45Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "la araucania": {
-   "comuna": "La Araucanía",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "Biyt0xPSFrM",
-     "url": "https://www.youtube.com/watch?v=Biyt0xPSFrM",
-     "titulo": "300 familias afectadas por desborde de río en Angol",
-     "canal": "Meganoticias",
-     "publicado": "2026-08-03T09:36:22Z",
-     "live": false,
-     "score": 7.22,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "9fSIfkvt_ac",
-     "url": "https://www.youtube.com/watch?v=9fSIfkvt_ac",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-08-03T04:41:40Z",
-     "live": true,
-     "score": -3.19,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "j-iOI9E7rxM",
-     "url": "https://www.youtube.com/watch?v=j-iOI9E7rxM",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-08-03T04:41:40Z",
-     "live": true,
-     "score": -3.19,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "uHKj61iGBR0",
-     "url": "https://www.youtube.com/watch?v=uHKj61iGBR0",
-     "titulo": "La Araucanía y Biobío: el daño tras los desbordes de ríos | 24 Horas TVN Chile",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-08-03T01:35:03Z",
-     "live": false,
-     "score": 4.55,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "MDZ4lhhcRhQ",
-     "url": "https://www.youtube.com/watch?v=MDZ4lhhcRhQ",
-     "titulo": "Alerta por peligro de desborde del río Biobío : Intensas precipitaciones en la zona centro-sur",
-     "canal": "Meganoticias",
-     "publicado": "2026-08-02T02:23:31Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "nuble": {
    "comuna": "Ñuble",
    "region": "Ñuble",
    "alerta": "ROJA",
    "videos": [
-    {
-     "id": "ppm3XA-6f30",
-     "url": "https://www.youtube.com/watch?v=ppm3XA-6f30",
-     "titulo": "Transmisión en vivo de Ferias CAR Ñuble Ltda.",
-     "canal": "Ferias CAR Ñuble Ltda.",
-     "publicado": "2026-08-03T14:07:23Z",
-     "live": true,
-     "score": 7.59,
-     "verificado": false,
-     "embeddable": true
-    },
     {
      "id": "d7T4BVqcr3I",
      "url": "https://www.youtube.com/watch?v=d7T4BVqcr3I",
@@ -168,7 +15,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-08-03T17:45:12Z",
      "live": false,
-     "score": 5.9,
+     "score": 5.59,
      "verificado": false,
      "embeddable": true
     },
@@ -179,120 +26,7 @@
      "canal": "Cristian electricidad automotriz",
      "publicado": "2026-08-02T21:22:33Z",
      "live": false,
-     "score": 4.2,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "angol": {
-   "comuna": "Angol",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "QEOR_6hzEaY",
-     "url": "https://www.youtube.com/watch?v=QEOR_6hzEaY",
-     "titulo": "🔴 EN VIVO | TU MAÑANA ARAUCANÍA | (03 DE AGOSTO 2026)",
-     "canal": "UfroMedios",
-     "publicado": "2026-08-03T13:01:13Z",
-     "live": true,
-     "score": 7.5,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "o4atlL1l0ec",
-     "url": "https://www.youtube.com/watch?v=o4atlL1l0ec",
-     "titulo": "Intensas lluvias y desborde de ríos Rehue y Vergara, han provocado inundaciones al sur de Chile",
-     "canal": "La Onda Oaxaca",
-     "publicado": "2026-08-03T14:52:11Z",
-     "live": false,
-     "score": 7.66,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "GQVHA8v_YzQ",
-     "url": "https://www.youtube.com/watch?v=GQVHA8v_YzQ",
-     "titulo": "Militares evacúan en bote a familias en Angol tras repentino desborde de río Rehue | Tu Día",
-     "canal": "El 13",
-     "publicado": "2026-08-03T13:28:11Z",
-     "live": false,
-     "score": 7.54,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "wOjNboHtI98",
-     "url": "https://www.youtube.com/watch?v=wOjNboHtI98",
-     "titulo": "Estragos en Angol tras desborde del río Rehue: Evalúan estado de catástrofe",
-     "canal": "Bio Bio",
-     "publicado": "2026-08-03T12:00:25Z",
-     "live": false,
-     "score": 7.42,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "4DYq8jCJy6U",
-     "url": "https://www.youtube.com/watch?v=4DYq8jCJy6U",
-     "titulo": "Desborde de río rehue en Angol.",
-     "canal": "Área Audiovisual",
-     "publicado": "2026-08-03T11:54:35Z",
-     "live": false,
-     "score": 7.41,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "3UeVeGRKIq4",
-     "url": "https://www.youtube.com/watch?v=3UeVeGRKIq4",
-     "titulo": "BANJIR BESAR CHILE RENDAM RATUSAN RUMAH WARGA",
-     "canal": "METRO TV ",
-     "publicado": "2026-08-03T07:28:57Z",
-     "live": false,
-     "score": 7.04,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "9N2uc3g0KwY",
-     "url": "https://www.youtube.com/watch?v=9N2uc3g0KwY",
-     "titulo": "Río Rehue en Angol Región de la Araucania, Deja Poblaciones Anegadas",
-     "canal": "Turismo y Noticias ",
-     "publicado": "2026-08-03T06:06:34Z",
-     "live": false,
-     "score": 6.93,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "bS0BHM17MSk",
-     "url": "https://www.youtube.com/watch?v=bS0BHM17MSk",
-     "titulo": "Noticias: Río Rehue en Angol Región de la Araucania, Deja Poblaciones Anegadas este fin de semana.",
-     "canal": "Turismo y Noticias ",
-     "publicado": "2026-08-03T05:59:54Z",
-     "live": false,
-     "score": 6.92,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "penco": {
-   "comuna": "Penco",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "U2V_uGdjjZ0",
-     "url": "https://www.youtube.com/watch?v=U2V_uGdjjZ0",
-     "titulo": "Senapred ordena evacuar sector Andrés Bello de Penco por riesgo de aluvión",
-     "canal": "El PeriodistaTV",
-     "publicado": "2026-08-02T03:38:25Z",
-     "live": false,
-     "score": 5.0,
+     "score": 3.9,
      "verificado": false,
      "embeddable": true
     }
@@ -304,13 +38,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "Jim3npQhQ1E",
+     "url": "https://www.youtube.com/watch?v=Jim3npQhQ1E",
+     "titulo": "Ein deutscher Motorradfahrer erlebt aufseiner Kanada-Reise den puren Horr.",
+     "canal": "Aktuelle Nachrichten",
+     "publicado": "2026-08-03T20:36:58Z",
+     "live": false,
+     "score": 7.83,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "zH7QkdpDf3o",
      "url": "https://www.youtube.com/watch?v=zH7QkdpDf3o",
      "titulo": "Wo Natur auf puren Luxus trifft 🐎✨ | AVIRELLE #shorts",
      "canal": "Avirelle Schweiz",
      "publicado": "2026-08-03T16:00:13Z",
      "live": false,
-     "score": 7.75,
+     "score": 7.45,
      "verificado": false,
      "embeddable": true
     },
@@ -321,7 +66,7 @@
      "canal": "Familienlicht",
      "publicado": "2026-08-03T12:00:16Z",
      "live": false,
-     "score": 7.42,
+     "score": 7.11,
      "verificado": false,
      "embeddable": true
     },
@@ -332,7 +77,7 @@
      "canal": "Lamjing AI",
      "publicado": "2026-08-03T04:25:40Z",
      "live": false,
-     "score": 6.79,
+     "score": 6.48,
      "verificado": false,
      "embeddable": true
     },
@@ -343,7 +88,7 @@
      "canal": "MondMatsch",
      "publicado": "2026-08-02T16:00:30Z",
      "live": false,
-     "score": 5.75,
+     "score": 5.45,
      "verificado": false,
      "embeddable": true
     },
@@ -366,184 +111,6 @@
      "publicado": "2026-08-02T01:42:14Z",
      "live": false,
      "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "kjVurPCSRmU",
-     "url": "https://www.youtube.com/watch?v=kjVurPCSRmU",
-     "titulo": "pom pom puren as human #dog",
-     "canal": "Jody King",
-     "publicado": "2026-08-01T19:27:06Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "Kx-rxNGsuGA",
-     "url": "https://www.youtube.com/watch?v=Kx-rxNGsuGA",
-     "titulo": "Mach dir das anstatt puren Magerquark zu essen…",
-     "canal": "GymsKitchen",
-     "publicado": "2026-08-01T19:00:21Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "arauco": {
-   "comuna": "Arauco",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "mDXXcx67nps",
-     "url": "https://www.youtube.com/watch?v=mDXXcx67nps",
-     "titulo": "Arauco: Complicaciones en el ingreso al sector Guzmanes de Pichilo por el desborde del río.",
-     "canal": "La Voz Araucana",
-     "publicado": "2026-08-02T02:22:02Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "osorno": {
-   "comuna": "Osorno",
-   "region": "Los Lagos",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "07iGsWF04lc",
-     "url": "https://www.youtube.com/watch?v=07iGsWF04lc",
-     "titulo": "Ribera Del Rio Damas Por Crecida en Osorno 1 de agosto de 20265",
-     "canal": "Canal Chile Televistion 2017",
-     "publicado": "2026-08-02T05:04:41Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "vZ80GIs9JBI",
-     "url": "https://www.youtube.com/watch?v=vZ80GIs9JBI",
-     "titulo": "Ultimo Minuto Ribera Del Rio Rahue Por Crecida en Osorno 1 de agosto de 20264",
-     "canal": "CanalChile TV2017",
-     "publicado": "2026-08-02T04:56:58Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "kj2JYFPsJd8",
-     "url": "https://www.youtube.com/watch?v=kj2JYFPsJd8",
-     "titulo": "SENAPRED declara Alerta Roja para la comuna de Osorno por desborde de los ríos Damas y Rahue",
-     "canal": "Grupo DiarioSur",
-     "publicado": "2026-08-02T02:14:51Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "6hQTHB2M_8A",
-     "url": "https://www.youtube.com/watch?v=6hQTHB2M_8A",
-     "titulo": "#Alerta #osorno #emergencia por crecida del Río rahue osorno sector trumao",
-     "canal": "daniel queipul vidal",
-     "publicado": "2026-08-01T23:37:25Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "g3Ml_UTCIhY",
-     "url": "https://www.youtube.com/watch?v=g3Ml_UTCIhY",
-     "titulo": "Alerta de crecidas en ríos de Osorno",
-     "canal": "Grupo DiarioSur",
-     "publicado": "2026-08-01T19:45:41Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "Uyi6nOTMj2E",
-     "url": "https://www.youtube.com/watch?v=Uyi6nOTMj2E",
-     "titulo": "Delegado presidencial provincial de Osorno se refiere a alerta por crecida del río Rahue en Osorno",
-     "canal": "Radio Sago",
-     "publicado": "2026-08-01T19:44:09Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "san pablo": {
-   "comuna": "San Pablo",
-   "region": "Los Lagos",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "BXqmRLAMQC0",
-     "url": "https://www.youtube.com/watch?v=BXqmRLAMQC0",
-     "titulo": "01-08-26, Estado de México, En Vivo Cerro Tonala, San Pablo Tecalco, Chiconautla, AIFA",
-     "canal": "Nicery World ",
-     "publicado": "2026-08-01T19:55:12Z",
-     "live": true,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "UcZDk2IzIu8",
-     "url": "https://www.youtube.com/watch?v=UcZDk2IzIu8",
-     "titulo": "Se mantiene Alerta Roja en la comuna de San Pablo",
-     "canal": "Grupo DiarioSur",
-     "publicado": "2026-08-03T02:21:29Z",
-     "live": false,
-     "score": 4.61,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "la serena": {
-   "comuna": "La Serena",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "FlzJ05o_iUA",
-     "url": "https://www.youtube.com/watch?v=FlzJ05o_iUA",
-     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
-     "canal": "La Serena Drone",
-     "publicado": "2026-08-02T21:18:53Z",
-     "live": true,
-     "score": 6.19,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "QQw1e6UCLS4",
-     "url": "https://www.youtube.com/watch?v=QQw1e6UCLS4",
-     "titulo": "[EN VIVO] Partimiento del Pan",
-     "canal": "Iglesia En Coquimbo",
-     "publicado": "2026-08-03T05:49:35Z",
-     "live": false,
-     "score": 8.9,
      "verificado": false,
      "embeddable": true
     }

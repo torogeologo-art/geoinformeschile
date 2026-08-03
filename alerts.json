@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-03T18:59:36+00:00",
+ "generado": "2026-08-03T22:37:39+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,62 @@
  },
  "total_vigentes": 48,
  "alertas": [
+  {
+   "id": "814aeb9fdac7",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta y Taltal por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388 Viento normal a moderado en cordillera. 06-08 08-08 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por viento para la provincia de El Loa y las comunas de Antofagasta y Taltal , vigente desde hoy y hasta que las condici",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-03T18:32:38.3838-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "cef00698d748",
+   "nivel": "ROJA",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Roja para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región del Maule, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A364-7 Precipitaciones normales a moderadas en valle, precordillera y cordillera. Aviso A365-6 Viento normal a moderado con probabilidad de ventisca en cordillera. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; En consideración a esta información y en coordinación c",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-03T18:22:09.099-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "fd047874027f",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Biobío y se cancela Alerta Amarilla por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Aviso A385 Precipitaciones normales a moderadas en corto periodo de tiempo, en litoral y cordillera de la costa. 05-08 05-08 Abrir aquí Aviso A386 Nevadas normales a moderadas con probabilidad de ventiscas, en sector cordillera. 05-08 06-08 Abrir aquí Aviso A387 Viento normal a moderado, en litoral, cordillera de la costa, valle, precordillera y cordillera. 05-08 07-08",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-03T17:42:16.1616-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "2e8fb2d7476a",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de O’Higgins, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Alerta AA118-1 Precipitaciones moderadas a fuertes en litoral. Aviso A364-7 Precipitaciones normales a moderadas en cordillera de la costa, valle, precordillera y cordillera. Aviso A365-6 Viento normal a moderado con probabilidad de ventisca en cordillera. En consideración a estos antecedentes y en coordinación c",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-03T16:17:15.1515-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-evento-meteorologico-2026-07-12-16-14-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "773e24b2be84",
    "nivel": "ATP",
@@ -33,20 +89,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-03T05:03:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-07-26-23-32-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "593a1c3c90eb",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se cancela la Alerta Roja para las comunas de Linares, Villa Alegre y San Javier por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro en sus caudales. Estación hidrométrica Umbral Río Loncomilla en Bodega Amarillo Por su parte, la Dirección General de Aguas (DGA) mantiene un monitoreo permanente de la red hidrométrica regional, efectuando un seguimiento continuo de la evolución de los caudales y niveles de los principales cursos de agua, considerando tanto el comportamiento observado como la evolución prevista de las condiciones meteorológicas. En consideración a estos",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-03T04:55:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comunas-de-linares-villa-alegre-y-san-javier-por-desborde-2026-08-02-07-33-52",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -516,20 +558,6 @@
    "url": "https://t.me/SenapredChile/1467",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "8d22c0fd3e0f",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA118-1 Precipitaciones moderadas a fuertes en litoral de la región. 01-08 01-08 Abrir aquí Aviso A365-6 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 01-08 02-08 Abrir aquí Aviso A364-7 Precipitaciones normales a moderadas en cordillera de la costa, valle, precordillera y cordillera de la región. 01-08 02-08 Abrir aquí Por ot",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-01T15:51:18.1818-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-evento-meteorologico-2026-07-12-16-14-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "4b0d959552be",
@@ -2914,20 +2942,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-06T20:45:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-viento-2026-07-03-16-42-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ec11ee541ace",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de O'Higgins por heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso A300/2026, el cual pronosticaba heladas normales a moderadas en cordillera de la costa y valle de la región. Lo anterior, debido al debilitamiento de las condiciones que lo originaron. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por heladas , que se mantuvo vigente desde 01 de julio de 2026.",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-06T13:52:28.2828-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-heladas-2026-07-01-14-10-35",
    "origen": "senapred_web",
    "regiones_extra": []
   }
