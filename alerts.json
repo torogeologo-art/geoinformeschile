@@ -1,24 +1,124 @@
 {
- "generado": "2026-08-03T22:37:39+00:00",
+ "generado": "2026-08-04T08:08:38+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 48,
+ "total_vigentes": 49,
  "alertas": [
   {
-   "id": "814aeb9fdac7",
+   "id": "84d3d7b15a9a",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "¡ATENCIÓN! EVITA ribera de los ríos Imperial, Cholchol y Cautín por crecida, en la comuna de Nueva Imperial, Región de La Araucanía.",
+   "descripcion": "¡ATENCIÓN! EVITA ribera de los ríos Imperial, Cholchol y Cautín por crecida, en la comuna de Nueva Imperial, Región de La Araucanía.\nInfórmate a través de los canales oficiales. Y sigue las indicaciones de la autoridad.\nSENAPRED activó mensajería #SAE Preventiva.",
+   "region": "La Araucanía",
+   "comunas": [
+    "Nueva Imperial"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-04T00:00:43+00:00",
+   "url": "https://t.me/SenapredChile/1502",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "6f7b07d7a082",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Monitoreo Alerta Roja para la comuna de San Pablo por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro en sus caudales: Estación hidrométrica Umbral Río Pilmaiquén en San Pablo. Verde Río Bueno en Bueno. Amarillo Por otra parte, según lo informado por personal de la I. Municipalidad de San Pablo, se mantiene interrumpida la conectividad terrestre en la ruta U-220, debido al desborde del río Bueno, registrándose acumulación de agua en la calzada y terrenos agrícolas. Cabe señalar que, no se han reportado anegamientos a viviendas. Producto de",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-03T22:42:10.1010-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-san-pablo-por-desborde-2026-07-29-19-05-35",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e36e9cc9a101",
+   "nivel": "ROJA",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Ñuble y la Dirección Meteorológica de Chile (DMC), la evolución de las condiciones meteorológicas indica una disminución de la severidad del evento que motivó el alertamiento. Al momento, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble : Alertamiento Pronóstico Inicio Fin Enlace Aviso A387 Viento normal a moderado en el litoral, cordillera de la costa, valle, precordillera y cordillera. 05-08 07-08 Abrir aquí Aviso A385 Precipitaciones normales a moderadas en corto perio",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-03T21:30:19.1919-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-07-12-18-52-58",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "f8f23d6ddc2d",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A384-2 Probables tormentas eléctricas en litoral, cordillera de la costa, Chiloé y litoral interior. 04-08 04-08 Abrir Aquí Asimismo, debido al debilitamiento de las condiciones que los originaron, ha sido cancelado el siguiente alertamiento técnico: Alertamiento Pronóstico Enlace Aviso A381-2 Probable desarrollo de nubes convectivas con características tornádicas en litoral, cordil",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-03T21:25:23.2323-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "2044251d2626",
    "nivel": "ATP",
    "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta y Taltal por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388 Viento normal a moderado en cordillera. 06-08 08-08 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por viento para la provincia de El Loa y las comunas de Antofagasta y Taltal , vigente desde hoy y hasta que las condici",
+   "titulo": "Se modifica evento de Alerta Temprana Preventiva para la provincia de Isla de Pascua por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para Isla de Pascua, Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA122 Viento moderado a fuerte en Isla de Pascua. 05-08 05-08 Abrir aquí Asimismo, han sido cancelados los siguientes alertamientos meteorológicos para la Provincia de Isla de Pascua, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Alerta AA121-1 Precipitaciones moderadas a fuertes en corto período de",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-03T20:14:33.3333-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-07-31-17-26-47",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "23a86bb365de",
+   "nivel": "ROJA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A387 Viento normal a moderado en cordillera. 05-08 07-08 Abrir aquí Asimismo, ha sido cancelado el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Aviso A365-6 Viento normal a moderado con probabilidad de ventisca en cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Di",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-03T19:41:18.1818-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "3195f741f4e9",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A379-1 Altas temperaturas en cordillera de la costa y sectores de valles, pampa y precordillera. 04-08 04-08 Abrir aquí Aviso A380 Viento normal a moderado con probabilidad de tormentas de arena en el litoral. 03-08 04-08 Abrir aquí Aviso A388 Viento normal a moderado en cordillera. 06-08 08-08 Abrir aquí En consideración a estos antecedentes y en coordinación con",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-03T18:46:37.3737-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "70027a6d4398",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A379-1 Altas temperaturas en pampa. 04-08 05-08 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por Altas Temperaturas para las comunas de Antofagasta, Sierra Gorda y María Elena , vigente desde hoy y hasta que las condicione",
    "region": "Antofagasta",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-03T18:32:38.3838-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
+   "ts": "2026-08-03T18:38:35.3535-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-08-03-18-40-17",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -109,20 +209,6 @@
    "sae": true
   },
   {
-   "id": "e9233c5ac8a1",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A381-2 Probable desarrollo de nubes convectivas con características tornádicas en litoral, cordillera de la costa, valle, Chiloé y litoral interior. 02-08 03-08 Abrir Aquí Aviso A384 Probables tormentas eléctricas en la región. 02-08 03-08 Abrir Aquí Asimismo, debido al debilitamiento de las condiciones que los originaron, han sido cancelados los siguientes alertamientos técnicos: A",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-02T23:23:53.5353-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "2598ed52491b",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -203,20 +289,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-02T13:05:27.2727-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-alto-biobio-por-crecida-2026-07-31-19-26-56",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "758706172cb8",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de Isla de Pascua por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos para la Provincia de Isla de Pascua, en la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA121-1 Precipitaciones moderadas a fuertes en corto período de tiempo en Isla de Pascua. 02-08 03-08 Abrir aquí Aviso A383 Viento normal a moderado en Isla de Pascua. 03-08 04-08 Abrir aquí Asimismo, ha sido cancelado el siguiente alertamiento meteorológico para la provincia: Alertamiento Pronóstico Aviso A382 Viento normal a moderado en Isl",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-02T11:44:53.5353-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-07-31-17-26-47",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -410,20 +482,6 @@
    "sae": true
   },
   {
-   "id": "717d57ea1ed5",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A379 Altas temperaturas en cordillera de la costa, sectores de valles, pampa y precordillera. 03-08 04-08 Aviso A380 Viento normal a moderado con probabilidad de tormentas de arena en el litoral. 03-08 04-08 En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED modifica la cobe",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-01T21:39:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "94a832ae4f4e",
    "nivel": "ROJA",
    "tipo": "crecida de río",
@@ -494,20 +552,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-01T20:39:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-quillon-por-crecida-2026-07-31-17-01-27",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "4621f17bbe20",
-   "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo : Alertamiento Pronóstico Inicio Fin Enlace Aviso A365-6 Viento normal a moderado con probabilidad de ventisca en cordillera. 01-08 01-08 Abrir aquí Asimismo, ha sido cancelado el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Alerta AA119 Precipitaciones moderadas a fuertes en corto periodo de tiempo en litoral, cordillera de la costa, precordillera y valles precordilleranos y cord",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-01T20:07:09.099-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -771,20 +815,6 @@
    ]
   },
   {
-   "id": "d7e0d991bbab",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para el territorio continental de la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A364-6 Precipitaciones normales a moderadas en el litoral. 31-07 31-07 Abrir aquí Aviso A365-4 Viento normal a moderado en litoral, cordillera de la costa, precordillera y valles precordilleranos, y cordillera. 31-07 02-08 Abrir aquí Aviso A373-2 Probables tormentas eléctricas en litoral y cordillera de la costa. 31-07 31-07 Abrir aqu",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-31T15:31:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-de-valparaiso-territorio-continental-por-evento-meteorologico-2026-07-14-18-04-30",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "d41d60471e95",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
@@ -827,34 +857,6 @@
    "url": "https://t.me/SenapredChile/1453",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "1a4d3fd6a6f0",
-   "nivel": "ROJA",
-   "tipo": "nevadas",
-   "titulo": "Se cancela Alerta Amarilla y Declara Alerta Roja para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA114 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa, valle y precordillera. 30-07 31-07 Abrir aquí Alerta AA118 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa, valle y precordillera. 01-08 02-08 Abrir aquí Aviso A370-1 Nevadas normales a moderadas con probabilidad de ventisca en corto periodo de tiempo en cordillera.",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-31T03:55:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-07-12-18-52-58",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "b06ff4ab3e83",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Monitoreo Alerta Roja para la comuna de San Pablo por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), se encuentran vigentes los siguientes alertamientos para la comuna de San Pablo: Río Pilmaiquén en San Pablo. Alerta Azul Superior. Río Bueno en Bueno, Río Bueno. Alerta Amarilla Superior. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED mantiene Alerta Roja por desborde para la comuna de San Pablo, que se mantiene vigente desde el 29 de julio y hasta que las condiciones así lo ameriten. Con esta Alerta Roja, se movili",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-31T01:44:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-san-pablo-por-desborde-2026-07-29-19-05-35",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "645dc445c883",
@@ -2928,20 +2930,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-08T11:43:25.2525-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-07-03-16-28-12",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "af5233542f66",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se Cancela Alerta Temprana Preventiva para la Provincia de Isla de Pascua por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , han sido cancelados los siguientes alertamientos meteorológicos para la Isla de Pascua en la Región de Valparaíso, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Alerta AA85 Viento moderado a fuerte. Aviso A295-1 Viento normal a moderado. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED Cancela Alerta Temprana Preventiva por viento para la Provincia de",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-06T20:45:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-viento-2026-07-03-16-42-03",
    "origen": "senapred_web",
    "regiones_extra": []
   }

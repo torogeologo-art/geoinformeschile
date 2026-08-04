@@ -1,7 +1,29 @@
 {
- "generado": "2026-08-02T20:15:53+00:00",
+ "generado": "2026-08-04T08:08:39+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
+  {
+   "nombre": "río Bueno",
+   "lat": -40.33685,
+   "lon": -73.12731,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": false,
+   "lugar": "Los Lagos",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-san-pablo-por-desborde-2026-07-29-19-05-35",
+   "ts": "2026-08-03T22:42"
+  },
+  {
+   "nombre": "río Traiguén",
+   "lat": -38.20402,
+   "lon": -72.45423,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Traiguén",
+   "url": "https://t.me/SenapredChile/1497",
+   "ts": "2026-08-03T01:50"
+  },
   {
    "nombre": "río Purén",
    "lat": -37.60097,
@@ -12,17 +34,6 @@
    "lugar": "Purén",
    "url": "https://t.me/SenapredChile/1480",
    "ts": "2026-08-02T00:32"
-  },
-  {
-   "nombre": "río Traiguén",
-   "lat": -38.20402,
-   "lon": -72.45423,
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "sae": true,
-   "lugar": "Traiguén",
-   "url": "https://t.me/SenapredChile/1462",
-   "ts": "2026-07-31T22:54"
   },
   {
    "nombre": "río Guatulame",
