@@ -1,79 +1,43 @@
 {
- "generado": "2026-08-05T12:29:16+00:00",
- "desde": "2026-08-03T12:29:07Z",
+ "generado": "2026-08-05T18:09:54+00:00",
+ "desde": "2026-08-03T18:09:45Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "traiguen": {
-   "comuna": "Traiguén",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "tjwaHHBZpN0",
-     "url": "https://www.youtube.com/watch?v=tjwaHHBZpN0",
-     "titulo": "SENAPRED mantiene alerta roja por desborde de ríos Andalién, Vergara y Traiguén",
-     "canal": "Cooperativa Podcast",
-     "publicado": "2026-08-03T14:28:41Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "8hfCa80Ef8Y",
-     "url": "https://www.youtube.com/watch?v=8hfCa80Ef8Y",
-     "titulo": "SENAPRED mantiene alerta roja por desborde de ríos Andalién, Vergara y Traiguén",
-     "canal": "CooperativaFM",
-     "publicado": "2026-08-03T14:28:39Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "biobio": {
    "comuna": "Biobío",
    "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "W5wRbdJkfvY",
-     "url": "https://www.youtube.com/watch?v=W5wRbdJkfvY",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-08-05T10:22:49Z",
+     "id": "tor9brqmYAQ",
+     "url": "https://www.youtube.com/watch?v=tor9brqmYAQ",
+     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-08-05T17:45:12Z",
      "live": true,
-     "score": -2.18,
+     "score": 7.97,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "7nNecO9kscc",
-     "url": "https://www.youtube.com/watch?v=7nNecO9kscc",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-08-05T10:22:49Z",
+     "id": "w3FC3oA2UDQ",
+     "url": "https://www.youtube.com/watch?v=w3FC3oA2UDQ",
+     "titulo": "Tu Deporte Radio #801, 5 de agosto 2026 📱",
+     "canal": "Tu Deporte Radio",
+     "publicado": "2026-08-05T17:00:24Z",
      "live": true,
-     "score": -2.18,
+     "score": 7.9,
      "verificado": false,
      "embeddable": true
-    }
-   ]
-  },
-  "nuble": {
-   "comuna": "Ñuble",
-   "region": "Ñuble",
-   "alerta": "ROJA",
-   "videos": [
+    },
     {
-     "id": "d7T4BVqcr3I",
-     "url": "https://www.youtube.com/watch?v=d7T4BVqcr3I",
-     "titulo": "ALERTA ROJA en 11 comunas de la región de Ñuble ante la crecida del río Itata - CHV Noticias",
-     "canal": "CHV Noticias",
-     "publicado": "2026-08-03T17:45:12Z",
-     "live": false,
-     "score": 3.0,
+     "id": "HFt4cNyeSj8",
+     "url": "https://www.youtube.com/watch?v=HFt4cNyeSj8",
+     "titulo": "Tu Deporte Radio #801, 5 de agosto 2026",
+     "canal": "Tu Deporte Radio",
+     "publicado": "2026-08-05T16:39:47Z",
+     "live": true,
+     "score": 7.87,
      "verificado": false,
      "embeddable": true
     }
@@ -85,24 +49,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "2KhVrGbHi6Q",
-     "url": "https://www.youtube.com/watch?v=2KhVrGbHi6Q",
-     "titulo": "🔴 EN VIVO | YA ES HORA DE NOTICIAS | (05 DE AGOSTO 2026)",
-     "canal": "UfroMedios",
-     "publicado": "2026-08-05T11:45:27Z",
-     "live": true,
-     "score": 7.94,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "Ho0GYm-BMMM",
      "url": "https://www.youtube.com/watch?v=Ho0GYm-BMMM",
      "titulo": "Chile floods inundate dozens of homes in Angol after Rehue River overflows amid heavy rains",
      "canal": "Bizna TV",
      "publicado": "2026-08-05T07:55:57Z",
      "live": false,
-     "score": 7.62,
+     "score": 7.15,
      "verificado": false,
      "embeddable": true
     },
@@ -113,7 +66,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-08-04T15:10:21Z",
      "live": false,
-     "score": 6.22,
+     "score": 5.75,
      "verificado": false,
      "embeddable": true
     },
@@ -124,7 +77,7 @@
      "canal": "1212 Studios",
      "publicado": "2026-08-04T10:08:58Z",
      "live": false,
-     "score": 5.81,
+     "score": 5.33,
      "verificado": false,
      "embeddable": true
     },
@@ -135,7 +88,7 @@
      "canal": "METRO TV ",
      "publicado": "2026-08-04T06:55:41Z",
      "live": false,
-     "score": 5.54,
+     "score": 5.06,
      "verificado": false,
      "embeddable": true
     },
@@ -151,24 +104,35 @@
      "embeddable": true
     },
     {
-     "id": "o4atlL1l0ec",
-     "url": "https://www.youtube.com/watch?v=o4atlL1l0ec",
-     "titulo": "Intensas lluvias y desborde de ríos Rehue y Vergara, han provocado inundaciones al sur de Chile",
-     "canal": "La Onda Oaxaca",
-     "publicado": "2026-08-03T14:52:11Z",
+     "id": "sQRYZNGKnjg",
+     "url": "https://www.youtube.com/watch?v=sQRYZNGKnjg",
+     "titulo": "Emergencia en Chile: Viviendas y comercios quedan bajo el agua tras intensas lluvias",
+     "canal": "Red Uno De Bolivia",
+     "publicado": "2026-08-04T23:36:26Z",
      "live": false,
-     "score": 5.0,
+     "score": 3.45,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "GQVHA8v_YzQ",
-     "url": "https://www.youtube.com/watch?v=GQVHA8v_YzQ",
-     "titulo": "Militares evacúan en bote a familias en Angol tras repentino desborde de río Rehue | Tu Día",
-     "canal": "El 13",
-     "publicado": "2026-08-03T13:28:11Z",
+     "id": "En_AYeAAtvQ",
+     "url": "https://www.youtube.com/watch?v=En_AYeAAtvQ",
+     "titulo": "Delegado provincial de Malleco explicó tardía alerta preventiva en Angol - Contigo en la Mañana",
+     "canal": "Chilevisión",
+     "publicado": "2026-08-03T21:15:11Z",
      "live": false,
-     "score": 5.0,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "WXi0uA28xbc",
+     "url": "https://www.youtube.com/watch?v=WXi0uA28xbc",
+     "titulo": "Temporal deja La Araucanía bajo el agua tras desborde del río Rehue en Chile",
+     "canal": "GlobaLAT",
+     "publicado": "2026-08-04T01:44:00Z",
+     "live": false,
+     "score": 2.0,
      "verificado": false,
      "embeddable": true
     }
@@ -186,7 +150,7 @@
      "canal": "Webcam DANTA",
      "publicado": "2026-08-05T07:32:09Z",
      "live": true,
-     "score": 7.59,
+     "score": 7.11,
      "verificado": false,
      "embeddable": true
     }
@@ -198,13 +162,46 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "ElNF43QsOJs",
+     "url": "https://www.youtube.com/watch?v=ElNF43QsOJs",
+     "titulo": "Start des puren Fiebertraums 🔴 LIVE | !discord !social",
+     "canal": "MrRoonix",
+     "publicado": "2026-08-05T15:57:46Z",
+     "live": true,
+     "score": 9.82,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "c1KZdjc0zTM",
+     "url": "https://www.youtube.com/watch?v=c1KZdjc0zTM",
+     "titulo": "Dieses Instrument löst puren Frieden aus",
+     "canal": "SYYRREACTZ",
+     "publicado": "2026-08-05T17:27:33Z",
+     "live": false,
+     "score": 7.94,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "YHISOknddQc",
+     "url": "https://www.youtube.com/watch?v=YHISOknddQc",
+     "titulo": "App to nirale baba #mahdev sab ki eccaha puren kere#bol bam🙏🙏",
+     "canal": "Magic mom's and bhakti 🙏",
+     "publicado": "2026-08-05T13:10:32Z",
+     "live": false,
+     "score": 7.58,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "nDA-upUp4D8",
      "url": "https://www.youtube.com/watch?v=nDA-upUp4D8",
      "titulo": "Wenn Natur auf puren Soulfood-Plot-Twist trifft! 🌿✨ #shorts",
      "canal": "Kurt-Erik Göhner",
      "publicado": "2026-08-05T06:15:17Z",
      "live": false,
-     "score": 7.48,
+     "score": 7.01,
      "verificado": false,
      "embeddable": true
     },
@@ -215,7 +212,7 @@
      "canal": "Leon roblox ",
      "publicado": "2026-08-04T20:31:41Z",
      "live": false,
-     "score": 6.67,
+     "score": 6.2,
      "verificado": false,
      "embeddable": true
     },
@@ -229,15 +226,66 @@
      "score": 5.0,
      "verificado": false,
      "embeddable": true
+    }
+   ]
+  },
+  "concepcion": {
+   "comuna": "Concepción",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "qlRcTtM50y0",
+     "url": "https://www.youtube.com/watch?v=qlRcTtM50y0",
+     "titulo": "Concepción: Así evacuaron a familias tras el desborde del río Andalién | 24 Horas TVN Chile",
+     "canal": "24 Horas - TVN Chile",
+     "publicado": "2026-08-04T14:41:17Z",
+     "live": false,
+     "score": 5.71,
+     "verificado": false,
+     "embeddable": true
     },
     {
-     "id": "zH7QkdpDf3o",
-     "url": "https://www.youtube.com/watch?v=zH7QkdpDf3o",
-     "titulo": "Wo Natur auf puren Luxus trifft 🐎✨ | AVIRELLE #shorts",
-     "canal": "Avirelle Schweiz",
-     "publicado": "2026-08-03T16:00:13Z",
+     "id": "msQ4rc2EE74",
+     "url": "https://www.youtube.com/watch?v=msQ4rc2EE74",
+     "titulo": "Familias de Santa Rita siguen sin poder volver a sus casas",
+     "canal": "tvnredbiobio",
+     "publicado": "2026-08-04T02:12:45Z",
      "live": false,
      "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "1kKNhyBuyoc",
+     "url": "https://www.youtube.com/watch?v=1kKNhyBuyoc",
+     "titulo": "ORAÇÃO PODEROSA DAS SANTAS: Virgem Maria, Nossa Senhora da Conceição e Santa Rita",
+     "canal": "Fé Paz e Vida",
+     "publicado": "2026-08-04T21:00:06Z",
+     "live": false,
+     "score": 3.24,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "u7MHF4bwo6k",
+     "url": "https://www.youtube.com/watch?v=u7MHF4bwo6k",
+     "titulo": "Alerta por crecida del Río Andalién en Concepción: Viviendas inundadas y más de 100 evacuados",
+     "canal": "CHV Noticias",
+     "publicado": "2026-08-03T18:15:05Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "N2-LqIelk-Q",
+     "url": "https://www.youtube.com/watch?v=N2-LqIelk-Q",
+     "titulo": "Desborde de cauce en Santa Rita - Matinal Siempre Juntos - 3  de agosto 2026",
+     "canal": "TVU",
+     "publicado": "2026-08-04T04:41:06Z",
+     "live": false,
+     "score": 2.0,
      "verificado": false,
      "embeddable": true
     }

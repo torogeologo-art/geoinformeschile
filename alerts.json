@@ -1,13 +1,55 @@
 {
- "generado": "2026-08-05T12:28:41+00:00",
+ "generado": "2026-08-05T18:09:44+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 48,
+ "total_vigentes": 47,
  "alertas": [
+  {
+   "id": "8b64ed7cd20d",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para la comuna de La Unión por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), la estación hidrométrica “ Río Llollelhue en La Unión ” registra valores de caudal en el umbral verde. Sin embargo, tras mediciones realizadas en terreno se constató que la crecida y posterior desborde del río Llollelhue, ocurrido el 28 de julio en la comuna de La Unión, provocó una inundación que afectó gran parte del sector Foitzick. Asimismo, se verificó la extensión del área afectada y los impactos derivados del desborde, antecedentes que sustentaron la declaración de la alerta y que justifican mantener el",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-05T11:58:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-la-union-por-crecida-2026-08-05-12-03-46",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "57d610bf80a4",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Amarilla para las comunas de Pinto, Coihueco y Chillán Viejo por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo de la región mantienen sus caudales por debajo del umbral de alerta. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida para las comunas de Pinto, Coihueco y Chillán Viejo, que se mantuvo vigente desde el 31 de julio de 2026.",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-05T11:45:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-quillon-por-crecida-2026-07-31-17-01-27",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "50942ff8893f",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Roja para las comunas de Yungay, Pemuco, Bulnes, Quillón, Chillán, Ránquil, Portezuelo, Coelemu, Trehuaco, Ninhue y San Nicolás por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo de la región mantienen sus caudales por debajo del umbral de alerta. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED cancela la Alerta Roja por crecida para las comunas de Yungay, Pemuco, Bulnes, Quillón, Chillán, Ránquil, Portezuelo, Coelemu, Trehuaco, Ninhue y San Nicolás , que se mantuvo vigente desde el 31 de julio de 2026.",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-05T11:41:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-ninhue-san-nicolas-portezuelo-y-trehuaco-por-crecida-2026-07-31-08-42-37",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "5ff89358f8de",
    "nivel": "AMARILLA",
@@ -391,20 +433,6 @@
    "sae": true
   },
   {
-   "id": "5e61732f1365",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Se modifica cobertura de Alerta Roja para las comunas de Yungay, Pemuco, Bulnes, Quillón, Chillán, Ránquil, Portezuelo, Coelemu, Trehuaco, Ninhue y San Nicolás por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), la estación hidrométrica de monitoreo mantiene el siguiente registro en su caudal: Estación hidrométrica Umbral PCF Río Itata en Puente Coelemu Roja. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Roja por crecida a las comunas de Yungay, Pemuco, Bulnes, Quillón, Chillán, Ránquil, Portezuelo, Coelemu, Trehuaco, Ninhue y San Nicolás , vigente a contar del 31 de julio y hasta que las con",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-02T14:07:30.3030-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-ninhue-san-nicolas-portezuelo-y-trehuaco-por-crecida-2026-07-31-08-42-37",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "2cb28d90b36d",
    "nivel": "ROJA",
    "tipo": "viento",
@@ -652,20 +680,6 @@
    "url": "https://t.me/SenapredChile/1471",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "70bbac442a33",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se modifica cobertura de Alerta Amarilla para las comunas de Yungay, Pemuco, Bulnes, Quillón, Chillán, Ránquil, Coelemu, Pinto, Coihueco y Chillán Viejo por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro en sus caudales: Estación hidrométrica Umbral Estero Coyanco en Puente Coyanco PCF Amarillo Río Itata en Balsa Nueva Aldea Azul Río Chillán en Esperanza 2 Amarillo Cabe señalar que esta situación supone un incremento del riesgo para la población ubicada en las cercanías de estos cursos de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED modifi",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-01T20:39:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-quillon-por-crecida-2026-07-31-17-01-27",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "ee9a3de5ecac",
