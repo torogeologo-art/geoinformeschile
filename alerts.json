@@ -1,13 +1,115 @@
 {
- "generado": "2026-08-05T18:09:44+00:00",
+ "generado": "2026-08-05T22:31:44+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 47,
+ "total_vigentes": 49,
  "alertas": [
+  {
+   "id": "042a2481ea4b",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN! \nPor alerta de crecida, EVITA sector Rehue, en la comuna de Los Sauces, Región de La Araucanía.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "La Araucanía",
+   "comunas": [
+    "Los Sauces"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-05T21:51:04+00:00",
+   "url": "https://t.me/SenapredChile/1506",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "5df3bafb0bfd",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! \nPor desbordedel río Rehue, se solicita evacuarsectores Arboleda y Santa Teresita, comuna de Angol, Región de La Araucanía. #S\nENAPREDactivó mensajería #SAE. Actúa con calma y acata las indicaciones de laautoridad.Dura\nnte laevacuación, no olvides considerar a tu mascota y sus necesidades. Másinformación: https://web.senapred.cl/dimension-animal/",
+   "region": "La Araucanía",
+   "comunas": [
+    "Angol"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-05T21:38:14+00:00",
+   "url": "https://t.me/SenapredChile/1505",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "5b6c035b20d8",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Amarilla para la Provincia de Osorno por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas en la Provincia de Osorno se encuentran en umbral verde, con una tendencia sostenida a la disminución de sus caudales. De igual forma mediante observación de campo, las autoridades provinciales e integrantes del SINAPRED indican un descenso en los niveles de caudal en aquellos sectores donde no existen estaciones hidrométricas de la DGA. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED cancel",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-05T17:03:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-osorno-por-crecida-2026-07-31-16-48-56",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1b8b4b3f5795",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Amarilla para la comuna de Alto Biobío por crecida",
+   "descripcion": "1.- RESUMEN DE LA SITUACIÓN De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), a las 03:00 horas de hoy se inició el vertimiento preventivo y paulatino de la central, tras alcanzar la cota de 724,60 m.s.n.m. Debido a los pronósticos de aumento de precipitaciones y línea de nieve para hoy y con la finalidad de evitar alcanzar un caudal efluente de 1.800 m 3 /s, se mantiene la programación de vertimiento escalonado, la cual se inició a las 13:00 horas, con caudal efluente total de 1.250 m 3 /s, proyectando a las 18:00 horas, un caudal efluente total de 1.400 m 3",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-05T16:01:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-alto-biobio-por-crecida-2026-07-31-19-26-56",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "998f78efc1c5",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A387-2 Viento normal a moderado en cordillera de la región. 05-08 08-08 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED mantiene la Alerta Amarilla regional por viento , que se encuentra vigente desde el 04 de agosto y hasta que las condiciones así lo ameriten. Con",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-05T15:40:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "35da874204c0",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de La Araucanía por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A389 Viento normal a moderado en las zonas del litoral y cordillera costa de la región. 07-08 07-08 Abrir aquí Aviso A390 Probables nevadas con probabilidad de riesgo en el desplazamiento en valle y precordillera de la región. 07-08 08-08 Abrir Aquí &nbsp;A su vez, el Centro Zonal de Meteorología Marina de Talcahuano de la Armada mantiene un Aviso de Mal Tiem",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-05T14:26:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1a15ecdaa016",
+   "nivel": "ATP",
+   "tipo": "marejadas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Isla de Pascua por marejadas anormales",
+   "descripcion": "De acuerdo con la información proporcionada por el Centro Meteorológico Marítimo Regional de Valparaíso , mediante la actualización de su Aviso N° 36-A, se indica que se presentarán marejadas anormales en el sector de Isla de Pascua, Región de Valparaíso. Se estima que la condición más intensa se manifieste desde el miércoles 5 al jueves 6 de agosto, alcanzando su mayor desarrollo en las respectivas horas de pleamar, especialmente entre las 00:00 y 02:00 horas y entre las 13:00 y 15:00 horas. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Val",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-05T14:10:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-08-05-14-36-47",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "8b64ed7cd20d",
    "nivel": "AMARILLA",
@@ -61,34 +163,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-05T00:43:52.5252-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "c502ab0395b4",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica evento de Alerta Temprana Preventiva para la provincia de Isla de Pascua por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para Isla de Pascua, Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA122-1 Viento moderado a fuerte en Isla de Pascua. 05-08 06-08 Abrir aquí Alerta AA126 Tormentas eléctricas en Isla de Pascua. 04-08 05-08 Abrir aquí Aviso A383-1 Viendo normal a moderado en Isla de Pascua. 03-08 06-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Direc",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-05T00:21:20.2020-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-07-31-17-26-47",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1018f6809010",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Monitoreo Alerta Amarilla para la comuna de Alto Biobío por crecida",
-   "descripcion": "1.- RESUMEN DE LA SITUACIÓN En consideración a la Minuta técnica emitida durante la jornada de hoy por la Dirección General de Aguas, se informa que, a partir de las actualizaciones de los pronósticos meteorológicos de la Dirección Meteorológica de Chile y de las reuniones técnicas sostenidas entre la DGA, SENAPRED, DMC y Enel, se ha actualizado la proyección operacional del embalse Ralco, anticipando el inicio del vertimiento respecto de las proyecciones previamente informadas. Con el objeto de evitar que el vertimiento coincida con el máximo caudal afluente proyectado y de reducir los potenc",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-04T22:51:17.1717-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-alto-biobio-por-crecida-2026-07-31-19-26-56",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -229,20 +303,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-04T15:00:46.4646-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "bf4d0780530a",
-   "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Roja por evento meteorológico y declara Alerta Amarilla para la Región de Coquimbo por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A387 Viento normal a moderado en cordillera. 05-08 07-08 Abrir aquí Asimismo, y conforme al acuerdo de los participantes de la convocatoria del COGRID Regional, realizada el día 03 de agosto del 2026 a las 19:00 horas y al término de las condiciones meteorológica que las ocasionaron, la Dirección Regional de SENAPRED Coquimbo cancela la Alerta Roja regional por evento",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-04T09:06:24.2424-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -897,20 +957,6 @@
    "sae": true
   },
   {
-   "id": "54625308025d",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A375-1 Viento normal a moderado en las zonas del litoral, cordillera costa y valle. 01-08 02-08 Abrir aquí Aviso A378 Probables tormentas eléctricas en las zonas litoral y cordillera costa. 01-08 01-08 Abrir Aquí Aviso A381 Probable desarrollo de nubes convectivas con características tornádicas en las zonas litoral, cordillera costa y valle. 01-08 01-08 Abrir",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-31T16:41:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "6bdd854ba4e9",
    "nivel": "ATP",
    "tipo": "evento meteorológico",
@@ -925,20 +971,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "d41d60471e95",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para la Provincia de Osorno por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas “ Río Damas en Tacamó \" y \" Río Rahue ante Junta Río Negro \", se observa un incremento en sus caudales, alcanzando valores correspondientes al umbral amarillo. Asimismo, las estaciones \" Río Negro en Chahuilco \", “ Río Rahue en Forrahue ”, “ Río Pilmaiquén en San Pablo ”, alcanzan valores de umbral azul. Esta situación supone un incremento del riesgo para la población ubicada en las cercanías de estos cursos de agua. En consideración a este antecedente y en coordinación con la Delegac",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-31T15:09:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-osorno-por-crecida-2026-07-31-16-48-56",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "203349383bbe",
@@ -2972,20 +3004,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-09T14:12:44.4444-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-04-17-30-02",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a4d1c26d2d41",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para las comunas de Lanco y Mariquina por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), se indica que la estación hidrométrica “Río Leufucade en Purulón” presenta una disminución en su caudal, encontrándose en rangos normales. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela la Alerta Amarilla para las comunas de Lanco y Mariquina por crecida , que se mantuvo vigente desde el 08 de julio de 2026.",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-09T13:03:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-lanco-y-mariquina-por-crecida-2026-07-08-11-28-58",
    "origen": "senapred_web",
    "regiones_extra": []
   }
