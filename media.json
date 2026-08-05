@@ -1,6 +1,247 @@
 {
- "generado": "2026-08-05T06:14:48+00:00",
- "desde": "2026-08-03T06:14:44Z",
+ "generado": "2026-08-05T12:29:16+00:00",
+ "desde": "2026-08-03T12:29:07Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "traiguen": {
+   "comuna": "Traiguén",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "tjwaHHBZpN0",
+     "url": "https://www.youtube.com/watch?v=tjwaHHBZpN0",
+     "titulo": "SENAPRED mantiene alerta roja por desborde de ríos Andalién, Vergara y Traiguén",
+     "canal": "Cooperativa Podcast",
+     "publicado": "2026-08-03T14:28:41Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "8hfCa80Ef8Y",
+     "url": "https://www.youtube.com/watch?v=8hfCa80Ef8Y",
+     "titulo": "SENAPRED mantiene alerta roja por desborde de ríos Andalién, Vergara y Traiguén",
+     "canal": "CooperativaFM",
+     "publicado": "2026-08-03T14:28:39Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "W5wRbdJkfvY",
+     "url": "https://www.youtube.com/watch?v=W5wRbdJkfvY",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-08-05T10:22:49Z",
+     "live": true,
+     "score": -2.18,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "7nNecO9kscc",
+     "url": "https://www.youtube.com/watch?v=7nNecO9kscc",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-08-05T10:22:49Z",
+     "live": true,
+     "score": -2.18,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "nuble": {
+   "comuna": "Ñuble",
+   "region": "Ñuble",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "d7T4BVqcr3I",
+     "url": "https://www.youtube.com/watch?v=d7T4BVqcr3I",
+     "titulo": "ALERTA ROJA en 11 comunas de la región de Ñuble ante la crecida del río Itata - CHV Noticias",
+     "canal": "CHV Noticias",
+     "publicado": "2026-08-03T17:45:12Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "angol": {
+   "comuna": "Angol",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "2KhVrGbHi6Q",
+     "url": "https://www.youtube.com/watch?v=2KhVrGbHi6Q",
+     "titulo": "🔴 EN VIVO | YA ES HORA DE NOTICIAS | (05 DE AGOSTO 2026)",
+     "canal": "UfroMedios",
+     "publicado": "2026-08-05T11:45:27Z",
+     "live": true,
+     "score": 7.94,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Ho0GYm-BMMM",
+     "url": "https://www.youtube.com/watch?v=Ho0GYm-BMMM",
+     "titulo": "Chile floods inundate dozens of homes in Angol after Rehue River overflows amid heavy rains",
+     "canal": "Bizna TV",
+     "publicado": "2026-08-05T07:55:57Z",
+     "live": false,
+     "score": 7.62,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "54yVaurZY8A",
+     "url": "https://www.youtube.com/watch?v=54yVaurZY8A",
+     "titulo": "Desborde Río Rehue: Vecinos de Angol critican demora de alerta SAE | 24 Horas TVN Chile",
+     "canal": "24 Horas - TVN Chile",
+     "publicado": "2026-08-04T15:10:21Z",
+     "live": false,
+     "score": 6.22,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "DJ1RitQYv4A",
+     "url": "https://www.youtube.com/watch?v=DJ1RitQYv4A",
+     "titulo": "Angol residents move through flooded streets after heavy rains and Rehue River overflow",
+     "canal": "1212 Studios",
+     "publicado": "2026-08-04T10:08:58Z",
+     "live": false,
+     "score": 5.81,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "WSLvmD6n320",
+     "url": "https://www.youtube.com/watch?v=WSLvmD6n320",
+     "titulo": "Hujan Deras Picu Banjir Besar di Angol Chile",
+     "canal": "METRO TV ",
+     "publicado": "2026-08-04T06:55:41Z",
+     "live": false,
+     "score": 5.54,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "faxD4eCJDJc",
+     "url": "https://www.youtube.com/watch?v=faxD4eCJDJc",
+     "titulo": "Dramáticos rescates tras anegamientos en Angol por desborde de ríos - CHV Noticias",
+     "canal": "CHV Noticias",
+     "publicado": "2026-08-04T00:15:02Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "o4atlL1l0ec",
+     "url": "https://www.youtube.com/watch?v=o4atlL1l0ec",
+     "titulo": "Intensas lluvias y desborde de ríos Rehue y Vergara, han provocado inundaciones al sur de Chile",
+     "canal": "La Onda Oaxaca",
+     "publicado": "2026-08-03T14:52:11Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "GQVHA8v_YzQ",
+     "url": "https://www.youtube.com/watch?v=GQVHA8v_YzQ",
+     "titulo": "Militares evacúan en bote a familias en Angol tras repentino desborde de río Rehue | Tu Día",
+     "canal": "El 13",
+     "publicado": "2026-08-03T13:28:11Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "santa barbara": {
+   "comuna": "Santa Bárbara",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "WaqKc1QyizQ",
+     "url": "https://www.youtube.com/watch?v=WaqKc1QyizQ",
+     "titulo": "Live streaming di Webcam DANTA di Cadore - Dolomiti",
+     "canal": "Webcam DANTA",
+     "publicado": "2026-08-05T07:32:09Z",
+     "live": true,
+     "score": 7.59,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "puren": {
+   "comuna": "Purén",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "nDA-upUp4D8",
+     "url": "https://www.youtube.com/watch?v=nDA-upUp4D8",
+     "titulo": "Wenn Natur auf puren Soulfood-Plot-Twist trifft! 🌿✨ #shorts",
+     "canal": "Kurt-Erik Göhner",
+     "publicado": "2026-08-05T06:15:17Z",
+     "live": false,
+     "score": 7.48,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "07zMPl-KURo",
+     "url": "https://www.youtube.com/watch?v=07zMPl-KURo",
+     "titulo": "Ey du bist toll Ja dein 🩵 ist aus puren gold",
+     "canal": "Leon roblox ",
+     "publicado": "2026-08-04T20:31:41Z",
+     "live": false,
+     "score": 6.67,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Jim3npQhQ1E",
+     "url": "https://www.youtube.com/watch?v=Jim3npQhQ1E",
+     "titulo": "Ein deutscher Motorradfahrer erlebt aufseiner Kanada-Reise den puren Horr.",
+     "canal": "Aktuelle Nachrichten",
+     "publicado": "2026-08-03T20:36:58Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "zH7QkdpDf3o",
+     "url": "https://www.youtube.com/watch?v=zH7QkdpDf3o",
+     "titulo": "Wo Natur auf puren Luxus trifft 🐎✨ | AVIRELLE #shorts",
+     "canal": "Avirelle Schweiz",
+     "publicado": "2026-08-03T16:00:13Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
