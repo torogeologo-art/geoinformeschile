@@ -175,5 +175,19 @@
 "sectores boyeco|puren": null,
 "sector los guzmanes|arauco": null,
 "sector las rocas|la araucania": null,
-"sectores santa rita|biobio": null
+"sectores santa rita|biobio": null,
+"estero caillin|biobio": null,
+"rio biobio|santa barbara": {
+"lat": -37.6573,
+"lon": -72.14449
+},
+"rio las chacras|los lagos": null,
+"sectores pichilo|arauco": null,
+"sector rehue|los sauces": null,
+"sectores arboleda|angol": null,
+"rio llollelhue|los rios": {
+"lat": -40.26227,
+"lon": -73.02752
+},
+"sector foitzick. asimismo|los rios": null
 }

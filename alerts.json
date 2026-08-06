@@ -1,13 +1,103 @@
 {
- "generado": "2026-08-05T22:31:44+00:00",
+ "generado": "2026-08-06T08:05:33+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 49,
+ "total_vigentes": 52,
  "alertas": [
+  {
+   "id": "efebfc7cf25b",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "¡ATENCIÓN! EVITA ribera del estero Caillín por alerta de crecida, en la comuna de #Cañete, Región del Biobío.",
+   "descripcion": "¡ATENCIÓN! EVITA ribera del estero Caillín por alerta de crecida, en la comuna de #Cañete, Región del Biobío. \nInfórmate a través de los canales oficiales y sigue las indicaciones de la autoridad.\n#SENAPRED activó mensajería #SAE Preventiva.",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-06T02:59:25+00:00",
+   "url": "https://t.me/SenapredChile/1511",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "32e1cf9ea7be",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Amarilla para las comunas de Lanco, Mariquina y Panguipulli por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , se indica que las estaciones hidrométricas “Río Leufucade en Purulón” y “Río Cruces en Rucaco” presentan una disminución en su caudal a rangos normales. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela la Alerta Amarilla para las comunas de Lanco, Mariquina y Panguipulli por crecida , que se mantuvo vigente desde el 31 de julio de 2026.",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-06T01:40:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-lanco-y-panguipulli-por-crecida-2026-07-31-04-26-55",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "43c2eab035bd",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "¡ATENCIÓN! EVITA ribera del río Biobío, por alerta de crecida, en la comuna de Santa Bárbara, Región del Biobío.",
+   "descripcion": "¡ATENCIÓN! EVITA ribera del río Biobío, por alerta de crecida, en la comuna de Santa Bárbara, Región del Biobío.\nInfórmate a través de los canales oficiales. Y sigue las indicaciones de la autoridad.\n#SENAPREDactivó mensajería #SAE Preventiva.",
+   "region": "Biobío",
+   "comunas": [
+    "Santa Bárbara"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-06T01:08:27+00:00",
+   "url": "https://t.me/SenapredChile/1509",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "8a7c588f4ac5",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por alerta de crecida del río Purén, EVITA sectoresBoyeco, Chacayal, Tranaman, La Loma, La Isla, Ipinco Bajo, Remehueico, El Valley Huitranlebu, en la comuna de Purén, Región de La Araucanía.#S\nENAPRED activó mensajería #SAE Preventiva. Ma\nntente informado a través de los canales oficiales. Ysigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "La Araucanía",
+   "comunas": [
+    "Purén"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-05T23:28:04+00:00",
+   "url": "https://t.me/SenapredChile/1508",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "920c3ed5b0bb",
+   "nivel": "AMARILLA",
+   "tipo": "otros",
+   "titulo": "Se declara Alerta Amarilla para la comuna de Castro por accidente de infraestructura",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) de la Región de Los Lagos, se indica que producto de la realización de obras de intervención de relleno y regularización de cauce del río Las Chacras, comuna de Castro, cuyo colapso estructural generó el embanque del estero y la obstrucción de la obra de atravieso del bypass Castro, se generó la suspensión preventiva del tránsito vehicular en el bypass Ruta 5. A raíz de lo anterior, se realizaron obras de intervención de cauce del río Las Chacras, en la Ruta Bypass Castro- Chonchi, mediante el movimiento de tie",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-05T22:46:04.044-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-castro-por-accidente-de-infraestructura-2026-08-05-22-51-15",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a6abfb937c7b",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN!\nPor desborde del Río Pichilo, se solicita evacuar sectores Pichilo y La Faja, comuna de Arauco, Región del Biobío.\n\n#SENAPRED activó mensajería #SAE. Actúa con calma y acata las indicaciones de la autoridad.\n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información: https://web.senapred.cl/dimension-animal/",
+   "region": "Biobío",
+   "comunas": [
+    "Arauco"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-05T22:35:21+00:00",
+   "url": "https://t.me/SenapredChile/1507",
+   "origen": "telegram",
+   "sae": true
+  },
   {
    "id": "042a2481ea4b",
    "nivel": "ROJA",
@@ -41,16 +131,44 @@
    "sae": true
   },
   {
-   "id": "5b6c035b20d8",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para la Provincia de Osorno por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas en la Provincia de Osorno se encuentran en umbral verde, con una tendencia sostenida a la disminución de sus caudales. De igual forma mediante observación de campo, las autoridades provinciales e integrantes del SINAPRED indican un descenso en los niveles de caudal en aquellos sectores donde no existen estaciones hidrométricas de la DGA. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED cancel",
-   "region": "Los Lagos",
+   "id": "852dfc0880c6",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , ha sido cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta, debido al debilitamiento de las condiciones que lo originaron: Alertamiento Pronóstico Aviso A379-1 Altas temperaturas en pampa. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por Altas Temperaturas para las comunas de Antofagasta, Sierra Gorda y María Elena , la cual se mantuvo vig",
+   "region": "Antofagasta",
    "comunas": [],
    "estado": "CANCELADA",
-   "ts": "2026-08-05T17:03:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-osorno-por-crecida-2026-07-31-16-48-56",
+   "ts": "2026-08-05T20:40:56.5656-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-08-03-18-40-17",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "d8f8934e9d16",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A390-1 Probables nevadas con probabilidad de riesgo en el desplazamiento en precordillera, Chiloé y litoral interior de la región. 07-08 08-08 Abrir Aquí Aviso A391-1 Heladas normales a moderadas con probabilidad de formación de escarcha en Patagonia Subandina de la región. 08-08 10-08 Abrir Aquí Aviso A392 Probables tormentas eléctricas en litoral, cordillera de la Costa, C",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-05T18:36:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ef4fc600c45d",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de Isla de Pascua por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos para la Provincia de Isla de Pascua en la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA122-2 Viento moderado a fuerte en Isla de Pascua. 05-08 06-08 Abrir aquí Aviso A393 Viento normal a moderado en Isla de Pascua. 07-08 07-08 Abrir aquí Asimismo, han sido cancelados los siguientes alertamientos meteorológicos para la provincia: Alertamiento Pronóstico Alerta AA126 Probables tormentas eléctricas. Aviso A383-1 Viento normal a m",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-05T18:22:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-07-31-17-26-47",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -93,20 +211,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-05T14:26:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1a15ecdaa016",
-   "nivel": "ATP",
-   "tipo": "marejadas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Isla de Pascua por marejadas anormales",
-   "descripcion": "De acuerdo con la información proporcionada por el Centro Meteorológico Marítimo Regional de Valparaíso , mediante la actualización de su Aviso N° 36-A, se indica que se presentarán marejadas anormales en el sector de Isla de Pascua, Región de Valparaíso. Se estima que la condición más intensa se manifieste desde el miércoles 5 al jueves 6 de agosto, alcanzando su mayor desarrollo en las respectivas horas de pleamar, especialmente entre las 00:00 y 02:00 horas y entre las 13:00 y 15:00 horas. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Val",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-05T14:10:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-08-05-14-36-47",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -177,20 +281,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-04T19:50:49.4949-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-lanco-mafil-los-lagos-paillaco-rio-bueno-futrono-panguipulli-y-lago-ranco--por-nevadas-2026-08-04-19-52-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2b6c93428b7a",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A390 Probables nevadas en Valle y Chiloé. 07-08 08-08 Abrir Aquí Aviso A391 Heladas normales a moderadas en Patagonia Subandina. 08-08 09-08 Abrir Aquí Aviso A392 Probables tormentas eléctricas en Litoral, Cordillera de la Costa, Chiloé y Litoral Interior. 05-08 05-08 Abrir Aquí Asimismo, de acuerdo con el Informe de Amenaza Meteorológica emitido por la Dirección Meteorológic",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-04T19:29:37.3737-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -361,20 +451,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-03T18:55:51.5151-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-de-valparaiso-territorio-continental-por-evento-meteorologico-2026-07-14-18-04-30",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "70027a6d4398",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A379-1 Altas temperaturas en pampa. 04-08 05-08 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por Altas Temperaturas para las comunas de Antofagasta, Sierra Gorda y María Elena , vigente desde hoy y hasta que las condicione",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-03T18:38:35.3535-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-08-03-18-40-17",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -850,20 +926,6 @@
    "sae": true
   },
   {
-   "id": "a03f4a502bd4",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se modifica cobertura de Alerta Amarilla para las comunas de Mariquina, Lanco y Panguipulli por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométrica “Río Leufucade en Purulón” y “Río Cruces en Rucaco”, indican un incremento en sus caudales, alcanzando valores de umbral amarillo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED Modifica cobertura de Alerta Amarilla por crecida para las comunas de Mariquina, Lanco y Panguipulli, que se mantiene vigente desde",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-07-31T22:39:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-lanco-y-panguipulli-por-crecida-2026-07-31-04-26-55",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "522a86a3f36c",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -1003,6 +1065,20 @@
    "sae": true
   },
   {
+   "id": "ab6591564ad9",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para la comuna de Río Bueno por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “ Río Bueno e Bueno ”, indica un incremento en su caudal, alcanzando valores de umbral amarillo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Río Bueno, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con la declaración de la Alerta Am",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-07-31T00:44:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-rio-bueno-por-crecida-2026-07-31-00-46-05",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
    "id": "0bed42afe0c9",
    "nivel": "ATP",
    "tipo": "viento",
@@ -1052,7 +1128,7 @@
    "descripcion": "De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero SAG de Los Lagos, mediante resolución exenta N°703/2026, el 23 de abril de 2026 se declaró emergencia zoosanitaria activando al Sistema Nacional de Emergencia del Servicio Agrícola y Ganadero de la Región de Los Lagos. Cabe señalar que, al día 27 de julio del 2026, la Región de Los Lagos cuenta con, 01 foco activo de Influenza Aviar de Alta Patogenicidad, en aves de traspatio, en la comuna de Quemchi y 01 foco activo de Influenza Aviar de Alta Patogenicidad en aves silvestres, en la comuna de Ancud. Adicionalmen",
    "region": "Los Lagos",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-29T20:21:17.1717-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-zoosanitario-2026-04-23-19-16-12",
    "origen": "senapred_web",
@@ -2990,20 +3066,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-10T16:50:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-corral-por-remocion-en-masa",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "22d90af323c1",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Amarilla para la provincia de Cautín por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A298-1 Viento normal a moderado en litoral y cordillera de la costa de la región. En consideración a este antecedente y en coordinación con la Delegación Presidencial de la Región de La Araucanía, la Dirección Regional del SENAPRED cancela Alerta Amarilla por evento meteorológico para la provincia de Cautín ,",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-09T14:12:44.4444-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-04-17-30-02",
    "origen": "senapred_web",
    "regiones_extra": []
   }
