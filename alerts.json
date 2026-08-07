@@ -1,13 +1,27 @@
 {
- "generado": "2026-08-07T01:44:38+00:00",
+ "generado": "2026-08-07T06:01:32+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 52,
+ "total_vigentes": 50,
  "alertas": [
+  {
+   "id": "e41a75d31a16",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A390-1 Probables nevadas con probabilidad de riesgo en el desplazamiento en precordillera, Chiloé y litoral interior de la región. 07-08 08-08 Abrir Aquí Aviso A391-1 Heladas normales a moderadas con probabilidad de formación de escarcha en Patagonia Subandina de la región. 08-08 10-08 Abrir Aquí Aviso A394 Probables nevadas en sector Ensenada de la provincia de Llanquihue.",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-06T23:41:16.1616-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "71b598a07c3b",
    "nivel": "AMARILLA",
@@ -75,20 +89,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-06T18:15:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e41a75d31a16",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A390-1 Probables nevadas con probabilidad de riesgo en el desplazamiento en precordillera, Chiloé y litoral interior de la región. 07-08 08-08 Abrir Aquí Aviso A391-1 Heladas normales a moderadas con probabilidad de formación de escarcha en Patagonia Subandina de la región. 08-08 10-08 Abrir Aquí Aviso A392 Probables tormentas eléctricas en litoral, cordillera de la Costa, C",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-06T17:39:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1072,7 +1072,7 @@
    "comunas": [
     "Ránquil"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-31T04:44:52+00:00",
    "url": "https://t.me/SenapredChile/1453",
    "origen": "telegram",
@@ -1086,7 +1086,7 @@
    "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “ Río Bueno e Bueno ”, indica un incremento en su caudal, alcanzando valores de umbral amarillo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Río Bueno, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con la declaración de la Alerta Am",
    "region": "Los Ríos",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-31T00:44:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-rio-bueno-por-crecida-2026-07-31-00-46-05",
    "origen": "senapred_web",
@@ -3066,20 +3066,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-10T22:12:40.4040-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-los-lagos-por-evento-meteorologico-2026-06-29-20-38-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7dcb658cbf3d",
-   "nivel": "ATP",
-   "tipo": "remoción en masa",
-   "titulo": "Se modifica cobertura Alerta Temprana Preventiva para las comunas de Corral y Valdivia por remoción en masa",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Ríos , y según los antecedentes entregados por SERNAGEOMIN, debido a las precipitaciones registradas en la región, existen áreas con peligro importante de remoción en masa en las comunas de Corral y Valdivia, particularmente en los sectores Embarcadero, Chacabuco - Arica, Ruta T-450, Bonifacio, La Aguada y Ruta T-450 en dirección a San Juan en la comuna de Corral, así como en los sectores de Bonifacio, Feria Costumbrista y algunos puntos de las Rutas T-352 y T-350 de la localidad de Niebla en la comuna de Va",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-10T16:50:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-corral-por-remocion-en-masa",
    "origen": "senapred_web",
    "regiones_extra": []
   }
