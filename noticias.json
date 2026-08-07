@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-06T08:06:09+00:00",
+ "generado": "2026-08-07T01:45:05+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -2193,6 +2193,13 @@
    "comuna": "Traiguén",
    "noticias": [
     {
+     "titulo": "5 sujetos vinculados a la WAM fueron condenados a 12 años de cárcel por el asesinato de Manuel Huenupil - Araucanía Diario",
+     "medio": "Araucanía Diario",
+     "fecha": "2026-08-04T12:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1Z0eTNReW16d3Joa0tnaUkyXzBPYjJVa09EWFRiMEhHMHZxa3ZoQ3JQLUpjRVdFNmdhM1BYbW1xcElfRWJFYmVfMUlrNDZaZ1FXRG15WkpiTk0ybkNXQnl4NTlZT3Rtbmc1cFRxa0t3SGROeW5Rc2pRbXR4SnRIRnM1czlGUVUyVk1rbGhVS2JiRVg1dFBfYjVXOXNFRWl5NWxhc09NRlI4SUhqWVVncmdLZlNhYUpP0gG4AUFVX3lxTE5nVnR5M1F5bXp3cmhrS2dpSTJfME9iMlVrT0RYVGIwSEcwdnFrdmhDclAtSmNFV0U2Z2EzUFhtbXFwSV9FYkViZV8xSWs0NlpnUVdEbXlaSmJOTTJuQ1dCeXg1OVlPdG1uZzVwVHFrS3dIZE55blFzalFtdHhKdEhGczVzOUZRVTJWTWtsaFVLYmJFWDV0UF9iNVc5c0VFaXk1bGFzT01GUjhJSGpZVWdyZ0tmU2FhSk8?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Traiguén avanza hacia la recuperación: autoridades coordinan nuevas ayudas y habilitan tránsito parcial en la ruta a Galvarino - Traiguencity.cl",
      "medio": "Traiguencity.cl",
      "fecha": "2026-08-04T04:34:25+00:00",
@@ -2225,6 +2232,13 @@
      "sector": null
     },
     {
+     "titulo": "Mineduc suspende las clases en 11 comunas de la región - Araucanía Diario",
+     "medio": "Araucanía Diario",
+     "fecha": "2026-08-03T11:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQczFCTE5laGFmY0xzTnBKOXpnbUtSZUtpdGt1X1hhM0FlSFU0Wm03Z2VSYjdxdjdUSS1MNm92VUR1YjRyRW9DcFU2VDVjNmhVTXA2c3VGSFBENFdpMjV6WkJXUExlOWQwcFVUUWU5QlRMVkp4VHlIWkVCa0NWbzlBYW9RTkdOUERmaHVabTNkZDNQUmlteld3V1RVRVZlZ9IBlgFBVV95cUxPc0c3UF9NTXBIS3RpbGFBa2hrOVBSX2ktdmNocUFRZ0hfRkpCWXU2RHY2V1BpR2RGbE9yRVcwNjh1WGQtN3VsTEhPRElPMGNUQU0tOGZMSG9WTXl3cHROVHEwMm5OVG1JT3NLOTZsYkFnRWU0U2VxS0lTZnNaVnl5UllDeXE0UFg4LXJ5Y1B6bE1iX2t3dlE?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred emite alerta para evacuar sector Las Obras de Traiguén por desborde de río - Araucanía Diario",
      "medio": "Araucanía Diario",
      "fecha": "2026-08-03T10:53:00+00:00",
@@ -2251,30 +2265,33 @@
      "fecha": "2026-08-03T02:39:09+00:00",
      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNzJia0lKeVpzS0EzRko0Q3ZtNHJfdUdCZ2lqRjlWcXloWkNpUzhmTDZkSGtTbm41THkzcEl1R2sySTNoVW5wclZ6UkJTTmRad2hzZEdUSVpkRFVya0dpcjBNNkdYV055aElTeUNwRG5EbVRzNGgzUktBQmNDeE84djlLenpwLXpzRm5HdmthdUZUeDhmMUl1djBVNGZ0czVtTEN3MzlrZGVBMXFaZ3E0MmtzcENIaElYSEdaaFRuT3loVEExWGJvd0Vaejl3TjRCOTlkSWFYM0hoV0xBbkMxN3hydWtWRGRZZzkwWWdjbDE1OGhvbmpaU09ZRWJjWEls?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "Ordenan evacuar sector Las Obras en Traiguén por desborde del río Traiguén y humedales - vlnradio.cl",
-     "medio": "vlnradio.cl",
-     "fecha": "2026-08-03T01:51:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMnhMUVkxRDg2QTlxS3JZTHllMU1QMFVJeC0xcW9ZVnh3TEtHQUxkdmVQMmE1ak9Bc0lMN2xWRXBWU0R2dnBpZng0NmI0OGROV2szMmtuc09BT25rNXlGbzgxY3FDeEMyZ1g5Z1cwSGtzVHdJUmV3a25pYkEtVjhIZFkzV2c4dnBmSi1wdHBrSGpfVk5rcS1IS1UwQ1VyaUNNRVFvU1ZVMXRhM3RLc2hzOUp3NHdvTVh0TVkwWUtsT09nZVJCZmt5TFRVcUI1YXNNRjRhcUpZOWdoM2pEbVl5TmdFVWh2ZnFPY2JpeFlFT2JnMVczVkE?oc=5",
-     "sector": {
-      "nombre": "río Traiguén",
-      "lat": -38.20402,
-      "lon": -72.45423
-     }
-    },
-    {
-     "titulo": "Suspenden clases en comunas de La Araucanía y otras regiones por sistema frontal este lunes 3 de agosto - El diario de la Araucanía",
-     "medio": "El diario de la Araucanía",
-     "fecha": "2026-08-02T22:08:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX3lRZXRSVzdNMjNlbklXS0tyWGp3Nlp4bUw0U3pfM01HaUxBWDJaeXJlQl8yX3RQOGt4RWthNmh4MDZ5MWYwTnZjLTA3Rm56eEZaRTk0aG01QkMxTVFwd3VwNzdwazE2X21ZRTNaQngzcGpUZFRpeF94emlZVGJraXVNdUZKYlFCSmQ4UktSUjA0cncwQ1930gGXAUFVX3lxTE9feVFldFJXN00yM2VuSVdLS3JYanc2WnhtTDRTel8zTUdpTEFYMlp5cmVCXzJfdFA4a3hFa2E2aHgwNnkxZjBOdmMtMDdGbnp4RlpFOTRobTVCQzFNUXB3dXA3N3BrMTZfbVlFM1pCeDNwalRkVGl4X3h6aVlUYmtpdU11RkpiUUJKZDhSS1JSMDRydzBDX3c?oc=5",
-     "sector": null
     }
    ]
   },
   "angol": {
    "comuna": "Angol",
    "noticias": [
+    {
+     "titulo": "Empresarios de Angol donan cuatro hectáreas para apoyar reubicación de familias afectadas por inundaciones - temucodiario.cl",
+     "medio": "temucodiario.cl",
+     "fecha": "2026-08-06T23:42:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUHRTdVZVNGJzMGY4NzZrc2NCaGVmRFA0ZWk1VXdxeGFzMFcydXNCS3NfMGZMVmNJTVJCaVhTandMRTFOblU4ajFWeW5MYnRqU0J5NV9hQTFEeFU2eEpSVUVlcEZscjlMRTJ2LU4zRlUyR3BkbGdJR2NRVERhNG9hVFFvbG90Z0xLMG9tbTJ1aTFCVXVKSmllbXNUaDZjQldkZF9TWi02YUZ3X1oyTlhRSGNubnNpVl93Q0I0eDBERmdLVkFQYTRwVGd4aU5tSXJpNVV2cFpLNXpsUQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Gobierno anuncia reubicación de cerca de 400 viviendas tras inundaciones en Angol - tiempo21.cl",
+     "medio": "tiempo21.cl",
+     "fecha": "2026-08-06T14:09:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWNsTW4zLUMxQVN2a1pNLUFzYndIN1FUUXZuRTJmeHJXOEhJUXhXS0xhbk9QVHdPc2dLVVlLTDN6bEVhUXZ4alpTMTI2aEI1SzJFVlZ1U3lKUndHMTgycVh5cFdSTHlWcU1qWlRWNWk4dGFuRUJ3alpGaFpNajh5aGJDOWFIbWF2WGdJLWhiel9feEFyWHJuQ2pkaEVFWWs2ZlBxT2c2SmFxZw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Poduje anuncia reubicación y reconstrucción de 3 villas de Angol afectadas por desborde de río Rehue - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2026-08-06T12:50:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPcjBCWk4yTnpjdXNQQVNKTFo4ZlBMc2lJLXowMEN6WTg4bzFJR1ZxYkVkcXBXUGNLeGZ2R2paYzdwR1U1ekF2akVrUjA0Zmp2a3N2ODVaNDdta3paenNHc2xpb3F4VGpxYkUzWFJNZlFUczAtREtmNW1LcTIzaFl6amtURmlja1FmeU1qUWtmMktGYkJPemtRcm1KNVd1MnNxQjZ6dEI3MDVnNjcwM3d0NVV1Yko4aVI5aFkycVRNcDVxR1pLNkgxSVRpaTBpYzgxa1BnQndpdVJVMEpvSlZpZ2cyRHNHeVByTmlCaXAyMlpVOVJNSl8xNC10Njk5eUdKMkg0Y3UySXlEQnYtcm5OcW94UQ?oc=5",
+     "sector": null
+    },
     {
      "titulo": "Senapred pide evacuar sectores Arboleda y Santa Teresita en Angol por desborde del río Rehue - VLN Radio",
      "medio": "VLN Radio",
@@ -2322,27 +2339,6 @@
      "medio": "urgente.cl",
      "fecha": "2026-08-04T08:39:17+00:00",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb0M2WFo2djgxUXExdENHeUdtVkNWX0x1dGZNcmY4R3RZQkhZNlNhUjdLbEFYTnF5UVd3bGM3UzNTbVBOalhDZkpDUk1NOEROdUNVdjdtdTJaTTFHcVhEWFN3aWF6VElVcHlva3RFQWxfV01QWDRFQUllMWhCNDdxV1JObm1HWGNWQk1nNlRLdmZuQlFpcWJyREV5aE9UM2h5WGxldFdxcEwtS0VNRkNyRnc0T3NONG8xN1dfV3NpWTNVZGpnT0R3?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Vecinos de Angol acusan tardía Alerta SAE: llegó 7 horas después de desborde de río que inundó sus casas - El Dínamo",
-     "medio": "El Dínamo",
-     "fecha": "2026-08-03T22:38:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSUkyY1FwS0FYb0xhMlI1MVIzaS1oVEdlUjdfNzZIenczZ3c4TDhfMWkxTzFSX3M4eThpNUZTbW9xM3ZEeHdLV0dFOW9lTUpsTnVwWU5RODlST2ZsMS1WQVVZTHdkTEhxWXhmcjZoX3Q5eDBmQU9EUm9Hd2JzaEdpM3ZzQ2Ytc3dqSXRHTTExNk8wZklkcEpuZXlOQTlNMlJnYTVlRnhVNHI4dk5iR2dGQnpCRTBsSHpqR1I3bWlvV3JFd2RvYnB5blFudFdMQzdCbWJmQjNEc01HRHFf?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "“Pasó todo en segundos”: El dramático relato tras inundación de casas en Angol por desborde de río - Chilevisión",
-     "medio": "Chilevisión",
-     "fecha": "2026-08-03T21:13:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTGF2ODlvN2pTOUJWWmNETmhKSHpNR0RIWXhnNUZxTF9vYW54bDB5Um5pRTNTRVFQajl5d2lXbV9XQVVjRnlqM3hqR3c0TFF3dDNmVVRwOTFjaWpnNGY2ajVfVWtGa1BycktfRXpuNzh2SGRvMzhyNHRpdjdqdTI0YmRvc0gzUThrOFlzeTJlWUJnV2lya1lwdnE5M3JlRGxuTFVCc1k1bHBKNWVlWGN3SDRZazRRNFZndm1nMVRVNll5c3pubnVnVlhoNm9PR3hsME5YTHozVmd5bEFYbHM3S0s1TzRINGM?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "VIDEOS | Alerta SAE, casas bajo el agua y vecinos rescatando pertenencias: así amanece Angol tras el temporal - laopinon.cl",
-     "medio": "laopinon.cl",
-     "fecha": "2026-08-03T17:51:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdXhhZ01qN2N0MlpvZVBvUEVQZlJkdmR1R05KTFBSc3E1VWp3VU1MSkVobk5fRl9sX21DTWxUbWtfa1lVRnNLenppWXBXandmQ2JXV09yc3J5eUVlS2ZzdEFYR1phVmZjb1VoMTBRYVNMbnNHVnQ2MUxaMklpRnNYdU1mZmZfYThjMy1kN3FFeEFxZS14N3RGSUtyLVI1dlF0em9ScGVMYy15MFpFa1hPR0dUYmpuMVRxR2lLNVlrUzVudw?oc=5",
      "sector": null
     }
    ]
@@ -2629,6 +2625,13 @@
      "sector": null
     },
     {
+     "titulo": "Encuentran muerto a joven desaparecido tras caer a canal de regadío en Quilleco - El Contraste",
+     "medio": "El Contraste",
+     "fecha": "2026-06-04T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUk2dTdvQjIxSjBfMS15ZTJUWmFhZVI5MU1DdEJPQjRKS0xhOXpZTWcyS1JKeEF1YjlzZVd5eG5hc1hudlhTaXZuVGZPVnEyRUZPLUxKXzNMTk56WV9XcEVGX2J5cWlSMk9WYy1qakM2ZW1rZm9vOWJwS3Q2WWIwcXd5Z0JmV3o3UnpjMDJKNUFEZC1CbnBfYUtJZUpvYkUxcGFlUWFUTnlGVXNPTXhUZ2QzMlktbnVLZzZiYUNpRQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Antuco se mantiene bajo Alerta Amarilla por incendio forestal que ya supera las 480 hectáreas - latribuna.cl",
      "medio": "latribuna.cl",
      "fecha": "2026-05-22T07:00:00+00:00",
@@ -2640,13 +2643,6 @@
      "medio": "latribuna.cl",
      "fecha": "2026-02-17T08:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdzI4WDlMaEw2X2dSQm56c0tGMFA4TnVVTXZsS3hfWXVmYkpCVkZOTkRHaTJ0UGp5cVJoWjNmNk8xOEpxbmx5Z0VXYmZ1aUVEcDk5ZmtpQjA0anhUYU5KeUJ4bTluZmZvdFJHMHRqNVRiMG9yanFLYkxXVUMwNy03SkVqenRiQ1NBRUlJaTFsMi1OZHplTmk4QXV0ekthdlJLTEhmQUM5WGh5aUZRXzNxWnotbEZERzJSdTduVFBjNUh3QTRTWTVSZFRvdFJLcFnSAdcBQVVfeXFMTUJKSTdFUHU0eUthbmRSbDZXOWNqSGhpbXZOaEx0cjVSQ1R5NVBFR1Q0QjZteTJyN1YxbkFkUFpxLVVqb05DZjBjb05ZcVk0VWZObDRaeUdpazEwXzk5OTU3OEVKaExoSzFkblUtMEZCVTl1YnhuamozMDZ3NzgyYlFFdS1zMmVGNS1Vb1ltTXN4ZkxhcFc3WG91SU53OXRDdlNDbGl4Y0ZST1c4UFlmdnNEUE1XUG92TFBuN1N4eG0zdmJMekx4dHRIMTd2bGs4M1l1Y2hGZnc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Más de 3.700 clientes afectados por corte de energía en Antuco y Quilleco: cuadrillas continúan trabajos - latribuna.cl",
-     "medio": "latribuna.cl",
-     "fecha": "2026-01-29T08:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNHhvTGhjLTI5RmFLZ3Y2eU9PY21LNXAwLV9RSmtYemRHVHRkUy13ZTZ1Y2I1WU1heGJ6QWJ5ZTlFaUJkVUQ3V3hkQWRTUUd4RDhOV24zQzR0cURDTWs5QlhyWG1SRE5rcllPM1BTZEE5eXhfbDBaZnFVMlpWTUhWV3pKbTlqLWpRR1poYURSOWJSWHZiTk0xeXdhRF9hbE1QMmQtTXgyVXZoUDE3cnZVT3hNXzNHTkVLY1RfeTc4YkUtRWxfb21WZDBaUEF5T0g1RVpXdU8zeXFkblRNaFF5UVFNVzlOX1dVamJzRWhGbjJGQjjSAfsBQVVfeXFMTmVxVE90Y2FWSXpxeDZWbUc5Q3VjcHJwUWt0cGd0UkstRU02NTFRYkdXakVEZ2ZHam9neG9YaUdVSTFLZC12bUtGeWtfeXJHN1RoeDUxa2JvYVk5a25KVTNVTl9BSnBEZGhVMFFGbjFjU3U4U1h1Z3N3bGxKVG5WNVVnY0R1NEp0TG1kV0lmN19raVB5WlA5RHV0SFZMaVVYOXJJRXdNZ282M3pTTlRrWFVjaG51Um03eTU4ME1oTHhMNzFfVXh1LUhVblk3eldRcENTc1hGS0lqN1lNd3B2ZG5zMVZqazktM2ktWktfcFdlbFNWY2w5N2w4SkE?oc=5",
      "sector": null
     }
    ]
@@ -2673,6 +2669,13 @@
      "medio": "latribuna.cl",
      "fecha": "2026-08-03T15:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLVJBR2FJcm5kSDlWbFZMV2FKQ2huN19RbnR0OGpYT1FNOE10VnljU3hKUkdzMThjOFNQd0hBUmxKS001SnY4RnMtdnhhLWhvcURGd2JlcW8xTXJ2bWFLZE1hLWk1M0tJTl85TUhzdUFkYjBwU01CbzFRNUJOU19vWVJOdnB3Z1FOV2tYUV9CdzFJVndxd2lVcFE1eXlORkJHMkFUR0hJeV9JaEd6RkM3Y2MtZks0UENhNzFZb2FBak82NHZzZUxBaUtHVW0xV1ZBOTNrMtIB1AFBVV95cUxPLVJBR2FJcm5kSDlWbFZMV2FKQ2huN19RbnR0OGpYT1FNOE10VnljU3hKUkdzMThjOFNQd0hBUmxKS001SnY4RnMtdnhhLWhvcURGd2JlcW8xTXJ2bWFLZE1hLWk1M0tJTl85TUhzdUFkYjBwU01CbzFRNUJOU19vWVJOdnB3Z1FOV2tYUV9CdzFJVndxd2lVcFE1eXlORkJHMkFUR0hJeV9JaEd6RkM3Y2MtZks0UENhNzFZb2FBak82NHZzZUxBaUtHVW0xV1ZBOTNrMg?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Más de 250 personas permanecen aisladas tras el sistema frontal en Biobío - latribuna.cl",
+     "medio": "latribuna.cl",
+     "fecha": "2026-08-03T15:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRHdnMnZfbWdqNGtuZFB0NUpVU3gxNHNuZUNqN0JIWnRQZ21zYXg3MFZpcHRnb2JLa2dKQlN2NXAxcGtMWWYzRW1GSm9tSGtMZHBNNWpuZlhSdWI3Y3N2ZW9xa1lZQ0NVTnRybnZES0FQQ3EtRFM4VnVwRFctZlpkazE4bVNoSW1VWDd1dk5ZWWVqY1U0TnpPVkswQkZ3Z3BnV1hPNmFuei14ZnljWklJZW1yWlhMbk1mcGIxdVdWSEFLNUJTS0NHbnZvSkXSAdQBQVVfeXFMTy1SQUdhSXJuZEg5VmxWTFdhSkNobjdfUW50dDhqWE9RTThNdFZ5Y1N4SlJHczE4YzhTUHdIQVJsSktNNUp2OEZzLXZ4YS1ob3FERndiZXFvMU1ydm1hS2RNYS1pNTNLSU5fOU1Ic3VBZGIwcFNNQm8xUTVCTlNfb1lSTnZwd2dRTldrWFFfQncxSVZ3cXdpVXBRNXl5TkZCRzJBVEdISXlfSWhHekZDN2NjLWZLNFBDYTcxWW9hQWpPNjR2c2VMQWlLR1VtMVdWQTkzazI?oc=5",
      "sector": null
     },
     {
@@ -2715,13 +2718,6 @@
      "medio": "latribuna.cl",
      "fecha": "2026-08-02T13:56:27+00:00",
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY0RkY09WX2dMZFF4akVSZ0NWZlhfT09Ma09fVThDV0xQcjNVbnYzRVlXb1Rna2x2X2RXT013T1RnbXo0SjRfd25CdkJGVjdKQWdZWjVIdkttaUo4LS1ZcERhNzducjhwTFdKRkx3TXhCSWl4VlFsMzVBLVplVFYwaGxfVzBoNXcwNDNzeTJxWEtxekxhV0p1Z0I4dlV4THZhVVZJQVB0Sk1mSUtKY2xQQVl4NnlCUGtNYXNzaDFtdVRiV25UUzFBc1V4YjNUV0NEblpTS2hoOHpsSUNybWlLb05JcTVwbVnSAecBQVVfeXFMUGNEZGNPVl9nTGRReGpFUmdDVmZYX09PTGtPX1U4Q1dMUHIzVW52M0VZV29UZ2tsdl9kV09Nd09UZ216NEo0X3duQnZCRlY3SkFnWVo1SHZLbWlKOC0tWXBEYTc3bnI4cExXSkZMd014QklpeFZRbDM1QS1aZVRWMGhsX1cwaDV3MDQzc3kycVhLcXpMYVdKdWdCOHZVeEx2YVVWSUFQdEpNZklLSmNsUEFZeDZ5QlBrTWFzc2gxbXVUYlduVFMxQXNVeGIzVFdDRG5aU0toaDh6bElDcm1pS29OSXE1cG1Z?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred ordena evacuar sectores Las Golondrinas y San Francisco Millapoa en Nacimiento por desborde del río Taboleo - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-08-02T13:45:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMzFFbDJ3cERxbVcxZDlDcnpWMXdaRlJoY3V1UEtmTXdsdW1mdVkyTmpIbWNIY1FiekZCYkhaNnZZRkVsSGVkamFXbUVGZlg4QmdwUnI5eGhrZ1dNellUdVVRRG84SFN5WDRoM3dSUWpPYnlBQ2dJXzJ1blZfUkJyd212VE5XOWZ6Y3FETWVwX3FNRDY2WVdtZlcwekFMUldpcE5pUTRYRXg2Vms5cFY4Vm15cmoyZ2ZqQUVoVlIyTXMxdHZ6Rml0S255VUJPYmNFM1Z5ZlMwVk14TGZGX05ialdydFlwTVdMZVVMTFU4b1M0Uld2OHJHVWJ4OTcxQmdNQjBRNTN3R0JOVzJnSE5CaVV0dm95eVk?oc=5",
      "sector": null
     }
    ]
@@ -3030,6 +3026,20 @@
    "comuna": "Nueva Imperial",
    "noticias": [
     {
+     "titulo": "Montalva acusa contradicciones en el Gobierno por test de drogas: \"¿quién está mintiendo? - Araucanía Diario",
+     "medio": "Araucanía Diario",
+     "fecha": "2026-08-06T13:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3lWWE1KOWVwMzc5Sndtd1gtOTdpeExGa3ltQUtVUjNGbFpncGVSWVI3QjZoRnhSeURJaEcyMnF5cUlHZkdZYkVoeHJ0WExhc2xhMlRsSGdINjBieEFGNUd4NmF5TFdGaEVGejVkZVdVTTFnR0Q0NnBXRTRfWFlNRTZzTTZPOTI0QzlsbGhKcEFrVHU1NkpnSFpQcUhFZ0pocXdzYm5TaFJUUF9CaEItNkxEOVI0SHhy0gG4AUFVX3lxTE5feVZYTUo5ZXAzNzlKd213WC05N2l4TEZreW1BS1VSM0ZsWmdwZVJZUjdCNmhGeFJ5REloRzIycXlxSUdmR1liRWh4cnRYTGFzbGEyVGxIZ0g2MGJ4QUY1R3g2YXlMV0ZoRUZ6NWRlV1VNMWdHRDQ2cFdFNF9YWU1FNnNNNk85MjRDOWxsaEpwQWtUdTU2SmdIWlBxSEVnSmhxd3NiblNoUlRQX0JoQi02TEQ5UjRIeHI?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Huenchumilla y fórmula del Gobierno para compensar a los municipios: “Esperaba del Gobierno un poco más de pudor” - Araucanía Diario",
+     "medio": "Araucanía Diario",
+     "fecha": "2026-08-06T12:42:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjdlZTBINEpmcjdkN2djbFVlNHo4RnN3cXVtV1lnOHkyV0FXdWtKN21EU1F6U2xBak5hTWZvNURkYk15Y3MxanA0Nnpnb0tlU3RGZ2dVSkplNGIya2NlVVNvcjlUMjJFeUMtZFRPOHZ0WW0tNmNPd3RXSFNHaXU1U3kwNWY2N1lCMjh5OFR2a0lRd2Fucm4xY2Q0X2dSeUtNWklGSGNYUkdUYmVQZTVoMFJzaW9XOWQ10gG4AUFVX3lxTE5CN2VlMEg0SmZyN2Q3Z2NsVWU0ejhGc3dxdW1XWWc4eTJXQVd1a0o3bURTUXpTbEFqTmFNZm81RGRiTXljczFqcDQ2emdvS2VTdEZnZ1VKSmU0YjJrY2VVU29yOVQyMkV5Qy1kVE84dnRZbS02Y093dFdIU0dpdTVTeTA1ZjY3WUIyOHk4VHZrSVF3YW5ybjFjZDRfZ1J5S01aSUZIY1hSR1RiZVBlNWgwUnNpb1c5ZDU?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senador Huenchumilla oficiará al MOP por emergencia climática en Ragñintuleufu: familias aisladas, vivie... - El diario de la Araucanía",
      "medio": "El diario de la Araucanía",
      "fecha": "2026-08-06T04:07:26+00:00",
@@ -3044,10 +3054,24 @@
      "sector": null
     },
     {
+     "titulo": "Sistema frontal deja más de 3.000 damnificados y cerca de 9.000 aislados en el centro-sur - Cooperativa",
+     "medio": "Cooperativa",
+     "fecha": "2026-08-05T21:15:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbnRfZzN2dkhRdXpmcXE4VHI0SjhidmZsYnVvME51NnRPRVR5dVpQTUdENlBzMG1OMnFweFludzAyanc0cFhXZnRsSWFjRDZOUjEtejdCWUtvb2I1eEZUczZoeWc4S252bkx5R2k5cUxNbzFpTDBTT2NCa2NUaS1lR05GZUZwZ1Nla19TNVlGRmFONEROTmtnY2YzMHY1UGp5NklUUmNvUDhySlhoRTIwYXFqMDU0cFBBQ2g1Rk0xdHVKenpjZ0ppYkY4VW9yS3NjX1FPbHln?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Nueva Imperial da el primer paso para concretar un nuevo recinto para el Club de Canoa y Kayak - Araucanía Diario",
      "medio": "Araucanía Diario",
      "fecha": "2026-08-05T15:55:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYmdRVmJTWFFIdks3ejhwVXNxamxjU3BIcVhPNmFka2VLTXNwMlRUV0c0clYtZzVjTG9QMExNN2lkRC1pX0FFcm1mU2t5d0d1aDRsVzJQYjFWemwzRk81LTZYQkM0TTJhcEt1YklTMFdXSzJ3ZVdWWEhvZzlPMUhObGJYd3dWbVpuN3Vac3J6V0hrOFBmemVTek04SWQyY3RKdkM1VWlpdTgyWFN3QjJ2SVozSlJ0S1VsMWhfZDloaVbSAbgBQVVfeXFMTlpDQk1iQ0Y2QUdodFFlZkZmYWVlWDJXREstaWcwREhqVU5zVkFKRDdac181UjZrRWlubHFLNlpveEFlRi1fSERJRFJnNDFVT1FZUEhncllLRGE2QUtwaEpqVGJTcDREYU9pOUpZeWdmWWRWanVjWXBIT2M3MmFvRHhTRGdWZjRrNUxiZzhLYS0wSkZIWld4Njl0b0JVVEx1WWxNNU9kdEIzYllnNm10TC1PMklOQ013ag?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Diputado Tomás Kast pide declarar emergencia agrícola en La Araucanía por daños del sistema frontal - Araucanía Diario",
+     "medio": "Araucanía Diario",
+     "fecha": "2026-08-05T13:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3VjNzNVZUI5enV6RWxFaU0wbEpYZ3dhcVpqSDdYQTNmQ25yMURzWW13UW02dkRibFlOZE9qZ0ZVOTBNVkdwNV9uOG1HSEtlZ0s1NkE3QS1zanZUM1JyandQZzlxUS0wT2g3MkhpTXZKcU1zQzA4X3FVN3MyTENId2ZGbmJoUFlGLVNGQU5HN2k3SVFnaDZ3NTl6bHVzblZwUGFSVGVlb2ZPRWlpZkNTc3BZQzNXTHlt0gG4AUFVX3lxTFBPdWM3M1VlQjl6dXpFbEVpTTBsSlhnd2FxWmpIN1hBM2ZDbnIxRHNZbXdRbTZ2RGJsWU5kT2pnRlU5ME1WR3A1X244bUdIS2VnSzU2QTdBLXNqdlQzUnJqd1BnOXFRLTBPaDcySGlNdkpxTXNDMDhfcVU3czJMQ0h3ZkZuYmhQWUYtU0ZBTkc3aTdJUWdoNnc1OXpsdXNuVnBQYVJUZWVvZk9FaWlmQ1NzcFlDM1dMeW0?oc=5",
      "sector": null
     },
     {
@@ -3069,34 +3093,6 @@
      "medio": "tiempo21.cl",
      "fecha": "2026-08-04T19:01:41+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDBCalJUbmJYWGFWVmxxNU9YLTlUNEIydkZMTWRDajJDcUx3MTBKWWN1M2QyNjFyMzdSeEFLZ1FBVkxGMzl6Y0QzV0plMnFNUTJjX1c3eGRUYzRxT1NIa0VoUzVtMG5NOE1hU1RiXzlkWXdBZ0ZoNU02aERURUN5a285aGxiTjdQZVo0aWw3OUJTdzhrc0pj?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Huenchumilla exige obras fluviales tras emergencia en Nueva Imperial - tiempo21.cl",
-     "medio": "tiempo21.cl",
-     "fecha": "2026-08-04T19:01:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2xidEI4WFNEcy10QjZSOXJNSVJDcG1hS0tMc3hNbHdjZEFpMFd0MTM5aDh0ZkFMbEVVZHBMWGFYSXR3bU5MS3pzbVNmaTRwZzJOX1YwM2RkZFNRbDM5dGN3LUlyWGU1Tno0d0w0MW00OFJCbDdOOVBQcWpHVnI2Zk9zUHdoSHhRUkpsVHBHanlXd1VwTTNVYw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Sistema frontal ha abierto socavones, inundado casas y aumentado cauces de ríos: en La Araucanía hay más de 14.000 damnificados - Hora12",
-     "medio": "Hora12",
-     "fecha": "2026-08-04T14:09:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQXNMOWQ5YklvVFM1d04xdTBhZ2RlTEVFeWNqUDVoUFA5Rk1QU3N0d0REQlRSSlpaU1lsQWZDY2hMSGFDRDM2X2FlNVJLdXNXMENOUEIzUnliLXNsM285NEJIZlZfWmhYQjhPUjRmeHpZNnI5Q1ZCbmlPYjE0U28tTk5CdGlhaF9UY3hwSDB1UTFkNUkxcnlaTjg2bWNJSXpleFlTRThoWUFRNG9TdVQ4SWZGRExqMld2R0JkRUtQalA0U1UwNHk4YlZtY2pyRFZfQTdva2Nwd0hRS1luRXFTZ3I2WDAtbll4azZJ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Sistema frontal: Casas bajo el agua, socavones y miles de afectados entre el Maule a La Araucanía - Cooperativa",
-     "medio": "Cooperativa",
-     "fecha": "2026-08-04T08:52:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQVlIVkhtWEEybGxmV2gwRUZFZUtxRGMySnY0aC14Ymt6b1pOTERMSDAya1pZVmV2ODVLV1RVVTBxRlotTlp1clNySmV6cHZXZXZlTVBwWkdqZjNWR1otMmUzeXpqVVA5SG5UUGVaWjdMZXhKRmN3YWZPUXN1SmV5XzNKT3VZeTVSVFJoTWEtb1hhblNuR25zcE5lSlhTSnZZdnl2MDJISzFMYVJpMmJicHdIbTJheno2Z3pfRW4ySTB2eDIxdVlHWXBqMmQ4RjQ4eXc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Sistema frontal: Senapred contabiliza más de 2.000 damnificados y sobre 6.000 aislados - Cooperativa",
-     "medio": "Cooperativa",
-     "fecha": "2026-08-04T03:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeVpZNGFGQTNfU1NMY3VRYjI3TFk3QURSMGctZ0xoRS0xbnZIQXYxQUwxZEVYN05Gd2F6aUVDaVVsWVVCZ3RkZjFVTk83YjNwd1NvQXBYbi1PZXNZUkJTekVpb3dEaHprV0xKMHI4WEVleWFSR1g4alJtYjZLX0JsYTNhLTUyX2thNFVqQTlXN1o0NmIwWDl1ZDBveGpFemEtdG1zV0hoVGV5bXJvZk02YnktWU1RWUU2Rkx2OTZkZEI1aHVGU1prRVJHZ19UdDBHVlFoQWlYM0k?oc=5",
      "sector": null
     }
    ]

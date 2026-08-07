@@ -1,21 +1,50 @@
 {
- "generado": "2026-08-06T08:06:19+00:00",
- "desde": "2026-08-04T08:06:10Z",
+ "generado": "2026-08-07T01:45:15+00:00",
+ "desde": "2026-08-05T01:45:06Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "ywDnO9haQRk",
+     "url": "https://www.youtube.com/watch?v=ywDnO9haQRk",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-08-06T19:24:41Z",
+     "live": true,
+     "score": -2.53,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "dZc4KuMuSWs",
+     "url": "https://www.youtube.com/watch?v=dZc4KuMuSWs",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-08-06T19:24:42Z",
+     "live": true,
+     "score": -2.53,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "santa barbara": {
    "comuna": "Santa Bárbara",
    "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "lErN00XYKtw",
-     "url": "https://www.youtube.com/watch?v=lErN00XYKtw",
+     "id": "indyjzoL3MU",
+     "url": "https://www.youtube.com/watch?v=indyjzoL3MU",
      "titulo": "Live streaming di Webcam DANTA di Cadore - Dolomiti",
      "canal": "Webcam DANTA",
-     "publicado": "2026-08-06T05:56:03Z",
+     "publicado": "2026-08-06T15:07:06Z",
      "live": true,
-     "score": 7.82,
+     "score": 7.11,
      "verificado": false,
      "embeddable": true
     }
@@ -27,13 +56,57 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "TgWlcar2PRw",
+     "url": "https://www.youtube.com/watch?v=TgWlcar2PRw",
+     "titulo": "Aliens erwarteten ein Shuttle, doch die Erde entfesselte ein Raumschiff der puren Zerstörung! | HFY",
+     "canal": "Sternenkern HFY",
+     "publicado": "2026-08-06T21:00:02Z",
+     "live": false,
+     "score": 7.6,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "WsC5yD1IMPg",
+     "url": "https://www.youtube.com/watch?v=WsC5yD1IMPg",
+     "titulo": "01. Gimmick geboren ",
+     "canal": "Team Stormvogels",
+     "publicado": "2026-08-06T11:47:51Z",
+     "live": false,
+     "score": 6.84,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "EBRNRE2_9_Q",
+     "url": "https://www.youtube.com/watch?v=EBRNRE2_9_Q",
+     "titulo": "WAHLKAMPF IN BERLIN: SPD-Spitzenkandidat Steffen Krach wirft der Linken „puren Populismus“ vor!",
+     "canal": "WELT Nachrichtensender",
+     "publicado": "2026-08-06T11:45:20Z",
+     "live": false,
+     "score": 6.83,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Z31lxu7UuBo",
+     "url": "https://www.youtube.com/watch?v=Z31lxu7UuBo",
+     "titulo": "(GANZE STORY) Bist du jemals dem puren Bösen von Angesicht zu Angesicht begegnet？",
+     "canal": "ScrollZone",
+     "publicado": "2026-08-06T10:00:37Z",
+     "live": false,
+     "score": 6.69,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "YqOlmIVpfno",
      "url": "https://www.youtube.com/watch?v=YqOlmIVpfno",
      "titulo": "Sosdiklih Latihan Menentukan Pilihan Siswa SD Puren, Condongcatur, Depok",
      "canal": "KPU Sleman",
      "publicado": "2026-08-06T03:05:04Z",
      "live": false,
-     "score": 7.58,
+     "score": 6.11,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +117,7 @@
      "canal": "MrRoonix",
      "publicado": "2026-08-05T19:20:30Z",
      "live": false,
-     "score": 6.94,
+     "score": 5.47,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +128,7 @@
      "canal": "SYYRREACTZ",
      "publicado": "2026-08-05T17:27:33Z",
      "live": false,
-     "score": 6.78,
+     "score": 5.31,
      "verificado": false,
      "embeddable": true
     },
@@ -66,29 +139,7 @@
      "canal": "Magic mom's and bhakti 🙏",
      "publicado": "2026-08-05T13:10:32Z",
      "live": false,
-     "score": 6.42,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "nDA-upUp4D8",
-     "url": "https://www.youtube.com/watch?v=nDA-upUp4D8",
-     "titulo": "Wenn Natur auf puren Soulfood-Plot-Twist trifft! 🌿✨ #shorts",
-     "canal": "Kurt-Erik Göhner",
-     "publicado": "2026-08-05T06:15:17Z",
-     "live": false,
-     "score": 5.85,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "07zMPl-KURo",
-     "url": "https://www.youtube.com/watch?v=07zMPl-KURo",
-     "titulo": "Ey du bist toll Ja dein 🩵 ist aus puren gold",
-     "canal": "Leon roblox ",
-     "publicado": "2026-08-04T20:31:41Z",
-     "live": false,
-     "score": 5.04,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     }
@@ -106,7 +157,7 @@
      "canal": "La Voz Araucana",
      "publicado": "2026-08-06T03:07:22Z",
      "live": false,
-     "score": 5.58,
+     "score": 4.11,
      "verificado": false,
      "embeddable": true
     }
@@ -124,7 +175,7 @@
      "canal": "Punto Nueve Araucanía ",
      "publicado": "2026-08-05T22:42:41Z",
      "live": false,
-     "score": 7.22,
+     "score": 5.75,
      "verificado": false,
      "embeddable": true
     }
@@ -136,13 +187,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "vJ7isD81RPI",
+     "url": "https://www.youtube.com/watch?v=vJ7isD81RPI",
+     "titulo": "Hundreds Displaced as Rehue River Floods Angol Homes in Chile #shorts #flood",
+     "canal": "ALERT News",
+     "publicado": "2026-08-06T08:54:55Z",
+     "live": false,
+     "score": 6.6,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "o_Y_6nlSVsg",
      "url": "https://www.youtube.com/watch?v=o_Y_6nlSVsg",
      "titulo": "🚨 Evacuación en Angol: Desborde del río Rehue obliga a salir de dos sectores",
      "canal": "Punto Nueve Araucanía ",
      "publicado": "2026-08-05T22:45:49Z",
      "live": false,
-     "score": 7.22,
+     "score": 5.75,
      "verificado": false,
      "embeddable": true
     },
@@ -153,7 +215,7 @@
      "canal": "Teletrece",
      "publicado": "2026-08-05T18:10:26Z",
      "live": false,
-     "score": 6.84,
+     "score": 5.37,
      "verificado": false,
      "embeddable": true
     },
@@ -164,40 +226,7 @@
      "canal": "Bizna TV",
      "publicado": "2026-08-05T07:55:57Z",
      "live": false,
-     "score": 5.99,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "54yVaurZY8A",
-     "url": "https://www.youtube.com/watch?v=54yVaurZY8A",
-     "titulo": "Desborde Río Rehue: Vecinos de Angol critican demora de alerta SAE | 24 Horas TVN Chile",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-08-04T15:10:21Z",
-     "live": false,
      "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "DJ1RitQYv4A",
-     "url": "https://www.youtube.com/watch?v=DJ1RitQYv4A",
-     "titulo": "Angol residents move through flooded streets after heavy rains and Rehue River overflow",
-     "canal": "1212 Studios",
-     "publicado": "2026-08-04T10:08:58Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "sQRYZNGKnjg",
-     "url": "https://www.youtube.com/watch?v=sQRYZNGKnjg",
-     "titulo": "Emergencia en Chile: Viviendas y comercios quedan bajo el agua tras intensas lluvias",
-     "canal": "Red Uno De Bolivia",
-     "publicado": "2026-08-04T23:36:26Z",
-     "live": false,
-     "score": 2.29,
      "verificado": false,
      "embeddable": true
     }
@@ -209,31 +238,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "Vdsy8t-lwHw",
-     "url": "https://www.youtube.com/watch?v=Vdsy8t-lwHw",
-     "titulo": "05-08-26, Estado de México, En Vivo Cerro Tonala, San Pablo Tecalco, Chiconautla, AIFA",
+     "id": "g8Vby-sU-9g",
+     "url": "https://www.youtube.com/watch?v=g8Vby-sU-9g",
+     "titulo": "06-08-26, Estado de México, En Vivo Cerro Tonala, San Pablo Tecalco, Chiconautla, AIFA",
      "canal": "Nicery World ",
-     "publicado": "2026-08-05T21:46:33Z",
+     "publicado": "2026-08-06T23:00:24Z",
      "live": true,
-     "score": 7.14,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "la araucania": {
-   "comuna": "La Araucanía",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "gY1PKxZzwyk",
-     "url": "https://www.youtube.com/watch?v=gY1PKxZzwyk",
-     "titulo": "La Araucanía: Vecinos evacúan en bote debido a inundaciones de calles y viviendas en Angol",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-08-04T14:39:29Z",
-     "live": false,
-     "score": 3.0,
+     "score": 7.77,
      "verificado": false,
      "embeddable": true
     }
