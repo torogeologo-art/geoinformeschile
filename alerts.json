@@ -1,13 +1,41 @@
 {
- "generado": "2026-08-07T18:05:52+00:00",
+ "generado": "2026-08-07T20:23:35+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 50,
+ "total_vigentes": 48,
  "alertas": [
+  {
+   "id": "67fac9d7d8e7",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A395 Probables precipitaciones de aguanieve con probabilidad de incidentes en el desplazamiento en zonas de las regiones del Maule, Ñuble y Biobío 07-08 08-08 Abrir aquí Aviso A387-4 Viento normal a moderado, en precordillera y cordillera. 07-08 08-08 Abrir aquí Aviso A396-1 Tormentas eléctricas en litoral, cordillera de la costa y valle. 07-08 08-08 Abrir aquí Avis",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-07T15:45:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-04-15-07-37",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "823db9a7dd27",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla por crecida y cancela Alerta Roja por desborde para la comuna de San Pablo",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), través de su plataforma digital, la estación hidrométrica \"Río Bueno en Bueno\" registra un nivel de 2.98 metros, ubicándose en el umbral de Alerta Amarilla Superior. Cabe mencionar, que si bien esta medición refleja una disminución en el nivel del cauce, la condición observada mantiene el riesgo para la población emplazada en las cercanías del río, como los sectores: Trumao, Cofalmo y Llancacura bajo. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-07T15:01:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-san-pablo-por-desborde-2026-07-29-19-05-35",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "315154688e6e",
    "nivel": "ATP",
@@ -133,20 +161,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-06T18:15:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e41692bb7bd8",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A395 Probables precipitaciones de aguanieve con probabilidad de incidentes en el desplazamiento en zonas de las regiones del Maule, Ñuble y Biobío 07-08 08-08 Abrir aquí Aviso A387-4 Viento normal a moderado, en precordillera y cordillera. 07-08 08-08 Abrir aquí Aviso A397 Por Viento Normal a Moderado en dirección Este (Raco -Puelche) en cordillera de la región. 09-",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-06T17:09:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-04-15-07-37",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -441,20 +455,6 @@
    "url": "https://t.me/SenapredChile/1502",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "6f7b07d7a082",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Monitoreo Alerta Roja para la comuna de San Pablo por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro en sus caudales: Estación hidrométrica Umbral Río Pilmaiquén en San Pablo. Verde Río Bueno en Bueno. Amarillo Por otra parte, según lo informado por personal de la I. Municipalidad de San Pablo, se mantiene interrumpida la conectividad terrestre en la ruta U-220, debido al desborde del río Bueno, registrándose acumulación de agua en la calzada y terrenos agrícolas. Cabe señalar que, no se han reportado anegamientos a viviendas. Producto de",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-03T22:42:10.1010-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-san-pablo-por-desborde-2026-07-29-19-05-35",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "e36e9cc9a101",
@@ -1010,7 +1010,7 @@
     "Combarbalá",
     "Monte Patria"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-31T19:26:08+00:00",
    "url": "https://t.me/SenapredChile/1460",
    "origen": "telegram",
@@ -1026,7 +1026,7 @@
    "comunas": [
     "Purén"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-31T18:10:18+00:00",
    "url": "https://t.me/SenapredChile/1459",
    "origen": "telegram",
@@ -3012,76 +3012,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-11T08:35:14.1414-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-rio-claro-pelarco-san-clemente-colbun-linares-longavi-retiro-y-parral-por-evento-meteorologico-2026-07-05-17-03-17",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "af3bd6d87e5b",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Combarbalá, Illapel, La Higuera, Monte Patria, Paihuano, Río Hurtado, Salamanca y Vicuña por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento para la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Aviso A303-3 Viento normal a moderado en cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED cancela Alerta Temprana Preventiva por viento para las comunas de Combarbalá, Illapel, La Higuera, Monte Patria, Paihuano, Río Hurtado, S",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-11T08:32:29.2929-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-combarbala-illapel-la-higuera-monte-patria-paihuano-rio-hurtado-salamanca-y-vicuna-por-viento-2026-07-08-13-01-09",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "098e22f606bf",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para la comuna de San Clemente por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Estación Río Maule en Armerillo” en la comuna de San Clemente, se encuentra en umbral verde, con valores estables en su caudal. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida para la comuna de San Clemente , que se mantenía vigente desde el 10 de julio.",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-11T00:35:46.4646-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-san-clemente-por-crecida-2026-07-10-19-14-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7e3c9ed4ea93",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos para la Región Metropolitana, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento cancelado Pronóstico Aviso A302-5 Precipitaciones normales a moderadas en cordillera. Aviso A303-3 Viento normal a moderado en cordillera. A309 Probables tormentas eléctricas en cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED ca",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-10T23:27:01.011-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-evento-meteorologico-2026-07-08-11-39-04",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "9c1a0f09950e",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se cancela Alerta Roja para las comunas de Linares y Longaví por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Achibueno en la Recova” se encuentra en umbral verde, con valores estables en su caudal. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED cancela la Alerta Roja por desborde para la comunas de Linares y Longaví, que se mantenía vigente desde el 10 de julio.",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-10T22:19:11.1111-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comunas-de-linares-y-longavi-por-desborde-2026-07-10-08-55-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e6f16fe62235",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), conforme a lo indicado en el Informe de Amenaza Meteorológica de la presente jornada, para los próximos días se pronostican vientos y precipitaciones que se mantendrán dentro de rangos débiles a normales. Por otra parte, las estaciones hidrométricas de la Dirección General de Aguas (DGA), registran umbrales de caudal en nivel verde, con excepción de la estación Río Rahue en Forrahue, que se mantiene en nivel azul y tendencia sostenida a la baja. En consideración a estos antecedentes y en coordinación con",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-10T22:12:40.4040-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-los-lagos-por-evento-meteorologico-2026-06-29-20-38-51",
    "origen": "senapred_web",
    "regiones_extra": []
   }
