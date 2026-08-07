@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-07T09:43:06+00:00",
- "desde": "2026-08-05T09:42:56Z",
+ "generado": "2026-08-07T12:07:02+00:00",
+ "desde": "2026-08-05T12:06:52Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -9,13 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "ywDnO9haQRk",
-     "url": "https://www.youtube.com/watch?v=ywDnO9haQRk",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-08-06T19:24:41Z",
+     "id": "2iH8EAWvR3M",
+     "url": "https://www.youtube.com/watch?v=2iH8EAWvR3M",
+     "titulo": "🔴 EN VIVO | NoticiasMatinal | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-08-07T11:29:30Z",
      "live": true,
-     "score": -3.19,
+     "score": 7.95,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,18 @@
      "canal": "SRGenial",
      "publicado": "2026-08-06T19:24:42Z",
      "live": true,
-     "score": -3.19,
+     "score": -3.39,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "ywDnO9haQRk",
+     "url": "https://www.youtube.com/watch?v=ywDnO9haQRk",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-08-06T19:24:41Z",
+     "live": true,
+     "score": -3.39,
      "verificado": false,
      "embeddable": true
     }
@@ -44,7 +55,7 @@
      "canal": "Webcam DANTA",
      "publicado": "2026-08-06T15:07:06Z",
      "live": true,
-     "score": 6.45,
+     "score": 6.25,
      "verificado": false,
      "embeddable": true
     }
@@ -62,7 +73,7 @@
      "canal": "Sternenkern HFY",
      "publicado": "2026-08-06T21:00:02Z",
      "live": false,
-     "score": 6.94,
+     "score": 6.74,
      "verificado": false,
      "embeddable": true
     },
@@ -73,7 +84,7 @@
      "canal": "Team Stormvogels",
      "publicado": "2026-08-06T11:47:51Z",
      "live": false,
-     "score": 6.17,
+     "score": 5.97,
      "verificado": false,
      "embeddable": true
     },
@@ -84,7 +95,7 @@
      "canal": "WELT Nachrichtensender",
      "publicado": "2026-08-06T11:45:20Z",
      "live": false,
-     "score": 6.17,
+     "score": 5.97,
      "verificado": false,
      "embeddable": true
     },
@@ -95,7 +106,7 @@
      "canal": "ScrollZone",
      "publicado": "2026-08-06T10:00:37Z",
      "live": false,
-     "score": 6.02,
+     "score": 5.82,
      "verificado": false,
      "embeddable": true
     },
@@ -106,7 +117,7 @@
      "canal": "KPU Sleman",
      "publicado": "2026-08-06T03:05:04Z",
      "live": false,
-     "score": 5.45,
+     "score": 5.25,
      "verificado": false,
      "embeddable": true
     },
@@ -157,7 +168,7 @@
      "canal": "La Voz Araucana",
      "publicado": "2026-08-06T03:07:22Z",
      "live": false,
-     "score": 3.45,
+     "score": 3.25,
      "verificado": false,
      "embeddable": true
     }
@@ -175,7 +186,7 @@
      "canal": "Punto Nueve Araucanía ",
      "publicado": "2026-08-05T22:42:41Z",
      "live": false,
-     "score": 5.08,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     }
@@ -193,7 +204,7 @@
      "canal": "ALERT News",
      "publicado": "2026-08-06T08:54:55Z",
      "live": false,
-     "score": 5.93,
+     "score": 5.73,
      "verificado": false,
      "embeddable": true
     },
@@ -204,7 +215,7 @@
      "canal": "Punto Nueve Araucanía ",
      "publicado": "2026-08-05T22:45:49Z",
      "live": false,
-     "score": 5.09,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     },
@@ -233,7 +244,7 @@
      "canal": "Nicery World ",
      "publicado": "2026-08-06T23:00:24Z",
      "live": true,
-     "score": 7.11,
+     "score": 6.91,
      "verificado": false,
      "embeddable": true
     }
@@ -263,13 +274,35 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "byvqN8iZ9V0",
+     "url": "https://www.youtube.com/watch?v=byvqN8iZ9V0",
+     "titulo": "Transmisión en vivo de Buen Día Concepción",
+     "canal": "Buen Día Concepción",
+     "publicado": "2026-08-07T12:02:23Z",
+     "live": true,
+     "score": 7.99,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "2iH8EAWvR3M",
+     "url": "https://www.youtube.com/watch?v=2iH8EAWvR3M",
+     "titulo": "🔴 EN VIVO | NoticiasMatinal | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-08-07T11:29:30Z",
+     "live": true,
+     "score": 4.95,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "ReNR-l7eXZM",
      "url": "https://www.youtube.com/watch?v=ReNR-l7eXZM",
      "titulo": "Familias de Santa Rita siguen sin poder volver a sus casas",
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-08-05T22:56:17Z",
      "live": false,
-     "score": 5.1,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     }
