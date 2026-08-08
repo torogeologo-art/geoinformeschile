@@ -1,6 +1,170 @@
 {
- "generado": "2026-08-08T04:32:22+00:00",
- "desde": "2026-08-06T04:32:18Z",
+ "generado": "2026-08-08T07:37:01+00:00",
+ "desde": "2026-08-06T07:36:51Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "Wse8eecO42k",
+     "url": "https://www.youtube.com/watch?v=Wse8eecO42k",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-08-08T00:02:08Z",
+     "live": true,
+     "score": -2.63,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "JfRP6kssMQ8",
+     "url": "https://www.youtube.com/watch?v=JfRP6kssMQ8",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-08-08T00:02:08Z",
+     "live": true,
+     "score": -2.63,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "santa barbara": {
+   "comuna": "Santa Bárbara",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "indyjzoL3MU",
+     "url": "https://www.youtube.com/watch?v=indyjzoL3MU",
+     "titulo": "Live streaming di Webcam DANTA di Cadore - Dolomiti",
+     "canal": "Webcam DANTA",
+     "publicado": "2026-08-06T15:07:06Z",
+     "live": true,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "puren": {
+   "comuna": "Purén",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "dGunLdqn0oM",
+     "url": "https://www.youtube.com/watch?v=dGunLdqn0oM",
+     "titulo": "Weiter mit dem puren Fiebertraum AAAA🔴 LIVE | !discord !social",
+     "canal": "MrRoonix",
+     "publicado": "2026-08-07T20:34:36Z",
+     "live": false,
+     "score": 7.08,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "TgWlcar2PRw",
+     "url": "https://www.youtube.com/watch?v=TgWlcar2PRw",
+     "titulo": "Aliens erwarteten ein Shuttle, doch die Erde entfesselte ein Raumschiff der puren Zerstörung! | HFY",
+     "canal": "Sternenkern HFY",
+     "publicado": "2026-08-06T21:00:02Z",
+     "live": false,
+     "score": 5.12,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "WsC5yD1IMPg",
+     "url": "https://www.youtube.com/watch?v=WsC5yD1IMPg",
+     "titulo": "01. Gimmick geboren ",
+     "canal": "Team Stormvogels",
+     "publicado": "2026-08-06T11:47:51Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "EBRNRE2_9_Q",
+     "url": "https://www.youtube.com/watch?v=EBRNRE2_9_Q",
+     "titulo": "WAHLKAMPF IN BERLIN: SPD-Spitzenkandidat Steffen Krach wirft der Linken „puren Populismus“ vor!",
+     "canal": "WELT Nachrichtensender",
+     "publicado": "2026-08-06T11:45:20Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Z31lxu7UuBo",
+     "url": "https://www.youtube.com/watch?v=Z31lxu7UuBo",
+     "titulo": "(GANZE STORY) Bist du jemals dem puren Bösen von Angesicht zu Angesicht begegnet？",
+     "canal": "ScrollZone",
+     "publicado": "2026-08-06T10:00:37Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "angol": {
+   "comuna": "Angol",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "vJ7isD81RPI",
+     "url": "https://www.youtube.com/watch?v=vJ7isD81RPI",
+     "titulo": "Hundreds Displaced as Rehue River Floods Angol Homes in Chile #shorts #flood",
+     "canal": "ALERT News",
+     "publicado": "2026-08-06T08:54:55Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "traiguen": {
+   "comuna": "Traiguén",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "dc4SUHlx3go",
+     "url": "https://www.youtube.com/watch?v=dc4SUHlx3go",
+     "titulo": "Conociendo Traiguen, Agosto 2026 #chile #traiguen #lumaco #travel",
+     "canal": "Jonathan C",
+     "publicado": "2026-08-07T23:42:26Z",
+     "live": false,
+     "score": 7.34,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "san pablo": {
+   "comuna": "San Pablo",
+   "region": "Los Lagos",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "g8Vby-sU-9g",
+     "url": "https://www.youtube.com/watch?v=g8Vby-sU-9g",
+     "titulo": "06-08-26, Estado de México, En Vivo Cerro Tonala, San Pablo Tecalco, Chiconautla, AIFA",
+     "canal": "Nicery World ",
+     "publicado": "2026-08-06T23:00:24Z",
+     "live": true,
+     "score": 5.28,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }

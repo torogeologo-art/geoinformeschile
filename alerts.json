@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-08T04:32:17+00:00",
+ "generado": "2026-08-08T07:36:50+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 45,
  "alertas": [
+  {
+   "id": "196a2133d042",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Huasco, Freirina, Vallenar y Alto del Carmen por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA124-2 Viento moderado a fuerte en cordillera de la región. 07-08 10-08 Abrir aquí Aviso A398 Viento normal a moderado en litoral de la Provincia de Huasco. 06-08 08-08 Abrir aquí Aviso A402-1 Precipitaciones normales a moderadas con isoterma cero alta en precordillera y cordillera de la región. 10-08 12-08 Abrir aquí Además, el Centro Meteorológico de la Armada",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-08T01:56:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "fc714b0d26df",
    "nivel": "ATP",
@@ -89,20 +103,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-07T17:29:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "4b61b75a82c7",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se modifica Alerta Temprana Preventiva a las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Huasco, Freirina, Vallenar y Alto del Carmen por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA124-2 Viento moderado a fuerte en cordillera de la región. 07-08 10-08 Abrir aquí Aviso A398 Viento normal a moderado en litoral de la Provincia de Huasco. 06-08 08-08 Abrir aquí Aviso A402 Precipitaciones normales a moderadas con isoterma cero alta en precordillera y cordillera de la región. 10-08 12-08 Abrir aquí Además, el Centro Meteorológico de la Armada de",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-07T17:11:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
    "origen": "senapred_web",
    "regiones_extra": []
   },
