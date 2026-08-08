@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-08T15:03:54+00:00",
+ "generado": "2026-08-08T17:04:04+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 44,
  "alertas": [
+  {
+   "id": "cf099ba1c63c",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Se cancela Alerta Roja para la Región del Biobío por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) de la región, las estaciones de la red hidrométrica registran un descenso gradual y sostenido en sus caudales, lo que supone una disminución del riesgo de anegamiento e inundación para la población aledaña a los cursos de agua. De acuerdo con el último informe hidrométrico, las estaciones Río Biobío en Ralco 1, Río Biobío en Desembocadura y Río Pichilo en Pichilo superan el umbral de Alerta Azul. No obstante, dichas estaciones presentan una tendencia al descenso y estabilización, manteniéndose el monitoreo cons",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-08T11:11:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-crecida-2026-07-27-02-52-32",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "196a2133d042",
    "nivel": "AMARILLA",
@@ -753,18 +767,17 @@
    "sae": true
   },
   {
-   "id": "e8b3070fb82a",
+   "id": "f2ae7689d9cc",
    "nivel": "ROJA",
    "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la región de Biobío por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) de la región del Biobío, las estaciones de la red hidrométrica ubicadas en la región indican un incremento gradual y sostenido en sus caudales, lo que supone un aumento del riesgo para la población cercana a estos cursos de agua. A su vez, de acuerdo con las intensas precipitaciones registradas y pronóstico para las próximas horas, por lo cual se prevé la superación de umbrales de alerta roja en los distintos cursos de agua de ríos y esteros de la región. En este contexto, la Dirección General de Aguas (DGA), m",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN! Por alerta de crecida, SENAPRED reitera EVITAR riberas de Río Curanilahue, Río Rana y Estero Plegarias, Comuna de Curanilahue, Región del Biobío.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
    "region": "Biobío",
    "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-01T14:30:10.1010-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-crecida-2026-07-27-02-52-32",
-   "origen": "senapred_web",
-   "regiones_extra": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-01T23:56:21+00:00",
+   "url": "https://t.me/SenapredChile/1478",
+   "origen": "telegram",
    "sae": true
   },
   {
@@ -931,7 +944,7 @@
    "descripcion": "¡ATENCIÓN! Por alerta de crecida evite la ribera del Río Renaico y Vergara, comuna Renaico, Región de La Araucanía.\n\n#SENAPRED activó mensajería SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
    "region": "La Araucanía",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-01T15:25:29+00:00",
    "url": "https://t.me/SenapredChile/1466",
    "origen": "telegram",
