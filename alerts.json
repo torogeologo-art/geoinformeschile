@@ -1,13 +1,41 @@
 {
- "generado": "2026-08-07T22:19:19+00:00",
+ "generado": "2026-08-08T00:02:48+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 48,
+ "total_vigentes": 47,
  "alertas": [
+  {
+   "id": "bedc619d98a3",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se modifica Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins. Alertamiento Pronóstico Inicio Fin Enlace Aviso A387-4 Viento normal a moderado en precordillera y cordillera de la región. 07-08 08-08 Abrir aquí Aviso A397 Viento normal a moderado (Puelche) en cordillera de la región. 09-08 10-08 Abrir aquí Aviso A395-1 Probables precipitaciones de aguanieve con probabilidad de incidentes en el desplazamiento en valle de la región. 07-08 08-08 Abrir aquí En consideración a",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-07T18:41:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-08-04-17-58-34",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "964377434bea",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Aysén por heladas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Aysén. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA127 Heladas moderadas a intensas en patagonia subandina norte. 10-08 11-08 Abrir aquí Aviso A391-3 Heladas normales a moderadas con probabilidad de formación de escarcha en zona litoral interior norte, patagonia subandina norte, cordillera austral sur y patagonia subandina sur de la región. 09-08 12-08 Abrir aquí En consideración a estos antecedentes y en coordina",
+   "region": "Aysén del General Carlos Ibáñez del Campo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-07T18:07:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-heladas-2026-08-06-15-46-40",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "02176f13cbdb",
    "nivel": "ATP",
@@ -107,20 +135,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "eb39cf3c98ca",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Monitoreo Alerta Temprana Preventiva parea la Región de Aysén por heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Aysén. Alertamiento Pronóstico Inicio Fin Enlace Aviso A391-2 Heladas normales a moderadas en zona litoral interior norte, patagonia subandina norte y patagonia subandina sur de la región. 05-08 11-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Aysén, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por heladas , la que permanec",
-   "region": "Aysén del General Carlos Ibáñez del Campo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-07T11:27:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-heladas-2026-08-06-15-46-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "71b598a07c3b",
@@ -423,20 +437,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-04T18:12:57.5757-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-la-union-por-crecida-2026-07-28-07-54-02",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "fcedfe054002",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de O'Higgins por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA125 Viento moderado a fuerte en litoral, cordillera de la costa, precordillera y cordillera. 05-08 05-08 Abrir aquí Aviso A387-1 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 05-08 07-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O’Higgins, la D",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-04T17:57:01.011-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-08-04-17-58-34",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -963,7 +963,7 @@
    "comunas": [
     "Traiguén"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-07-31T22:54:23+00:00",
    "url": "https://t.me/SenapredChile/1462",
    "origen": "telegram",
@@ -2872,48 +2872,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-11T20:50:27.2727-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-altas-temperaturas-2026-07-03-17-14-45",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "f4600c6dde5d",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), fueron cancelados los siguientes alertamientos meteorológicos para la Región de O’Higgins, debido al término de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A309 Probables tormentas eléctricas en cordillera de la región. Aviso A303-3 Viento normal a moderado en cordillera de la región. Aviso A302-5 Precipitaciones normales a moderadas en precordillera y cordillera de la región. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regio",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-11T20:02:54.5454-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-07-07-15-19-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ac222fecda3e",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta, debido al término de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A297-1 Altas temperaturas en pampa de la región. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por altas temperaturas para las comunas de Antofagasta, Sierra Gorda y María Elena , la",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-11T19:59:12.1212-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-07-03-17-38-48",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "062bbe4d4f6e",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Provincia del Tamarugal por altas temperaturas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Tarapacá, debido al término de las condiciones meteorológicas que lo originaron. Alertamiento Pronóstico Aviso A297-1 Altas temperaturas en pampa de la región. En consideración a este antecedente, y en coordinación con la Delegación Presidencial de la Región de Tarapacá, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por altas temperaturas para la Provincia del Tamarugal , la cual se mantuvo vigente desd",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-11T19:53:54.5454-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-07-03-17-51-08",
    "origen": "senapred_web",
    "regiones_extra": []
   }
