@@ -1,12 +1,12 @@
 {
- "generado": "2026-08-08T19:09:50+00:00",
+ "generado": "2026-08-08T20:13:08+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 44,
+ "total_vigentes": 42,
  "alertas": [
   {
    "id": "fa2b9385c650",
@@ -914,7 +914,7 @@
    "comunas": [
     "Osorno"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-01T19:38:40+00:00",
    "url": "https://t.me/SenapredChile/1470",
    "origen": "telegram",
@@ -930,7 +930,7 @@
    "comunas": [
     "San Pablo"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-01T19:20:08+00:00",
    "url": "https://t.me/SenapredChile/1468",
    "origen": "telegram",
