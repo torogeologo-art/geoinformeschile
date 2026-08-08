@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-08T21:50:39+00:00",
+ "generado": "2026-08-08T23:03:53+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,48 @@
  },
  "total_vigentes": 40,
  "alertas": [
+  {
+   "id": "17042f7a9e00",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Tarapacá por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso A404 Precipitaciones normales a moderadas en Pampa y Precordillera. 10-08 12-08 Abrir aquí Aviso A405 Nevadas normales a moderadas en Cordillera. 10-08 11-08 Abrir aquí Aviso A406 Probables tormentas eléctricas en Precordillera y Cordillera. 10-08 12-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ta",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-08T18:31:07.077-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "00bfdd13a17a",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Aviso A387-4 Viento normal a moderado, en litoral, valle, precordillera y cordillera. 07-08 08-08 Abrir aquí Aviso A396-3 Probables tormentas eléctricas en valle, precordillera y cordillera. 08-08 08-08 Abrir aquí Aviso A397-1 Viento normal a moderado (Puelche, dirección Este) en precordillera y cordillera. 09-08 10-08 Abrir aquí Aviso A399 Heladas normales a moderadas c",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-08T18:23:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "2dcbc7351c37",
+   "nivel": "AMARILLA",
+   "tipo": "nevadas",
+   "titulo": "Se declara Alerta Amarilla para la Provincia de Palena por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Los Lagos, hoy 08 de agosto se llevó a cabo un COGRID Provincial donde se evaluaron las condiciones de afectación, conectividad y proyección del riesgo en el tendido eléctrico y sus sistemas, mientras se solicitó a la Fuerza Aérea de Chile mantenerse en alerta ante eventuales evacuaciones en zonas apartadas. Asimismo, se mantienen trabajando maquinarias municipales y de Vialidad, con el objetivo de garantizar la conectividad terrestre frente a las nevadas registradas en zonas de las comunas de Palena y Futaleufú,",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-08T18:11:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-palena-por-evento-meteorologico-2026-08-08-18-15-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "6b9d9442528a",
    "nivel": "ATP",
@@ -219,20 +261,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-06T18:31:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-lanco-mafil-los-lagos-paillaco-rio-bueno-futrono-panguipulli-y-lago-ranco--por-nevadas-2026-08-04-19-52-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "4e3799a30106",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Aviso A387-4 Viento normal a moderado, en precordillera y cordillera de la región. 07-08 08-08 Abrir aquí Aviso A395 Probables precipitaciones de aguanieve en zonas de las regiones del Maule, Ñuble y Biobío 07-08 08-08 Abrir aquí Aviso A396 Probables tormentas eléctricas en precordillera y cordillera de la región. 07-08 08-08 Abrir aquí Aviso A397 Viento normal a modera",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-06T18:15:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -822,7 +850,7 @@
    "comunas": [
     "Curanilahue"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-01T22:16:25+00:00",
    "url": "https://t.me/SenapredChile/1476",
    "origen": "telegram",
@@ -838,7 +866,7 @@
    "comunas": [
     "Arauco"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-01T22:10:31+00:00",
    "url": "https://t.me/SenapredChile/1475",
    "origen": "telegram",
