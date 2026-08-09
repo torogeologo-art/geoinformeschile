@@ -1,32 +1,32 @@
 {
- "generado": "2026-08-09T15:17:33+00:00",
- "desde": "2026-08-07T15:17:30Z",
+ "generado": "2026-08-09T17:07:22+00:00",
+ "desde": "2026-08-07T17:07:19Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
+  "angol": {
+   "comuna": "Angol",
+   "region": "La Araucanía",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "3eDq0bzsYbY",
-     "url": "https://www.youtube.com/watch?v=3eDq0bzsYbY",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-08-09T08:09:43Z",
+     "id": "AApSoqSyzQc",
+     "url": "https://www.youtube.com/watch?v=AApSoqSyzQc",
+     "titulo": "Mewlen Angol está en vivo",
+     "canal": "Mewlen Angol",
+     "publicado": "2026-08-09T16:51:36Z",
      "live": true,
-     "score": -2.59,
+     "score": 7.98,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "4NS5vndkmws",
-     "url": "https://www.youtube.com/watch?v=4NS5vndkmws",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-08-09T08:09:43Z",
+     "id": "im94rBc3TEI",
+     "url": "https://www.youtube.com/watch?v=im94rBc3TEI",
+     "titulo": "REUNIÓN EN VIVO DOMINGO 9 DE AGOSTO IGLESIA VIÑA CONCEPCIÓN",
+     "canal": "Iglesia Viña Concepción",
+     "publicado": "2026-08-09T15:43:38Z",
      "live": true,
-     "score": -2.59,
+     "score": 7.88,
      "verificado": false,
      "embeddable": true
     }
