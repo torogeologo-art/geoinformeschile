@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-09T11:03:50+00:00",
- "desde": "2026-08-07T11:03:45Z",
+ "generado": "2026-08-09T13:57:41+00:00",
+ "desde": "2026-08-07T13:57:37Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -15,7 +15,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-08-09T08:09:43Z",
      "live": true,
-     "score": -2.24,
+     "score": -2.48,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "SRGenial",
      "publicado": "2026-08-09T08:09:43Z",
      "live": true,
-     "score": -2.24,
+     "score": -2.48,
      "verificado": false,
      "embeddable": true
     }
@@ -38,13 +38,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "wLnbOnMkF-c",
+     "url": "https://www.youtube.com/watch?v=wLnbOnMkF-c",
+     "titulo": "Amader Biani Bazare puren Takle  Janaio",
+     "canal": "Nadia Begum",
+     "publicado": "2026-08-09T11:31:20Z",
+     "live": false,
+     "score": 7.8,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "5R2MHc93eCU",
      "url": "https://www.youtube.com/watch?v=5R2MHc93eCU",
      "titulo": "Semifinal Sub 15 Damas 2026. Lobas de Puren versus Aguilas de Victoria ",
      "canal": "Basket Traiguén",
      "publicado": "2026-08-09T04:24:54Z",
      "live": false,
-     "score": 7.45,
+     "score": 7.2,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +66,7 @@
      "canal": "Puren kr Official ",
      "publicado": "2026-08-09T02:31:24Z",
      "live": false,
-     "score": 7.29,
+     "score": 7.05,
      "verificado": false,
      "embeddable": true
     },
@@ -66,7 +77,7 @@
      "canal": "@RajanKicartoonduniya",
      "publicado": "2026-08-08T12:53:44Z",
      "live": false,
-     "score": 6.15,
+     "score": 5.91,
      "verificado": false,
      "embeddable": true
     },
@@ -89,13 +100,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "spFCU3eKjhs",
+     "url": "https://www.youtube.com/watch?v=spFCU3eKjhs",
+     "titulo": "Basket Traiguén está en vivo",
+     "canal": "Basket Traiguén",
+     "publicado": "2026-08-09T12:07:27Z",
+     "live": false,
+     "score": 7.85,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "DnyiVZChIUU",
      "url": "https://www.youtube.com/watch?v=DnyiVZChIUU",
      "titulo": "Basket Traiguén está en vivo",
      "canal": "Basket Traiguén",
      "publicado": "2026-08-09T09:23:42Z",
      "live": false,
-     "score": 7.86,
+     "score": 7.62,
      "verificado": false,
      "embeddable": true
     },
@@ -106,18 +128,7 @@
      "canal": "Basket Traiguén",
      "publicado": "2026-08-09T06:42:42Z",
      "live": false,
-     "score": 7.64,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "spFCU3eKjhs",
-     "url": "https://www.youtube.com/watch?v=spFCU3eKjhs",
-     "titulo": "Basket Traiguén está en vivo",
-     "canal": "Basket Traiguén",
-     "publicado": "2026-08-08T21:27:16Z",
-     "live": false,
-     "score": 6.87,
+     "score": 7.4,
      "verificado": false,
      "embeddable": true
     },
@@ -128,7 +139,7 @@
      "canal": "Jonathan C",
      "publicado": "2026-08-07T23:42:26Z",
      "live": false,
-     "score": 5.05,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     }
