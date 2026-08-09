@@ -1,13 +1,27 @@
 {
- "generado": "2026-08-08T23:03:53+00:00",
+ "generado": "2026-08-09T04:04:40+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 40,
+ "total_vigentes": 33,
  "alertas": [
+  {
+   "id": "80a979f3697b",
+   "nivel": "ATP",
+   "tipo": "otros",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la región de Los Ríos por evento zoosanitario",
+   "descripcion": "En atención a los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , se encuentran vigentes las siguientes Resoluciones Exentas en la Región de Los Ríos: Resolución Exenta N° 1833 de 2026 Declaración de Emergencia Sanitaria, por la presencia del virus aviar de alta patogenicidad H5N1 (IAPP). Resolución Exenta N° 585 de 2026 Confirmación de presencia de virus aviar de alta patogenicidad H5N1 (IAPP) en la Región de Los Ríos. Activación de protocolos de vigilancia junto con formación del Centro de Operación Regional. De acuerdo con el avance de la emergencia y producto de las",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-08T19:49:08.088-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "17042f7a9e00",
    "nivel": "ATP",
@@ -724,7 +738,7 @@
    "comunas": [
     "Penco"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-02T02:53:22+00:00",
    "url": "https://t.me/SenapredChile/1484",
    "origen": "telegram",
@@ -740,7 +754,7 @@
    "comunas": [
     "Cañete"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-02T02:12:16+00:00",
    "url": "https://t.me/SenapredChile/1483",
    "origen": "telegram",
@@ -756,7 +770,7 @@
    "comunas": [
     "Santa Bárbara"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-02T00:49:21+00:00",
    "url": "https://t.me/SenapredChile/1482",
    "origen": "telegram",
@@ -772,7 +786,7 @@
    "comunas": [
     "Quilleco"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-02T00:39:08+00:00",
    "url": "https://t.me/SenapredChile/1481",
    "origen": "telegram",
@@ -788,7 +802,7 @@
    "comunas": [
     "Purén"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-02T00:32:36+00:00",
    "url": "https://t.me/SenapredChile/1480",
    "origen": "telegram",
@@ -804,7 +818,7 @@
    "comunas": [
     "Nacimiento"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-02T00:14:45+00:00",
    "url": "https://t.me/SenapredChile/1479",
    "origen": "telegram",
@@ -818,7 +832,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN! Por alerta de crecida, SENAPRED reitera EVITAR riberas de Río Curanilahue, Río Rana y Estero Plegarias, Comuna de Curanilahue, Región del Biobío.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
    "region": "Biobío",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-01T23:56:21+00:00",
    "url": "https://t.me/SenapredChile/1478",
    "origen": "telegram",
@@ -834,7 +848,7 @@
    "comunas": [
     "Penco"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-01T23:18:15+00:00",
    "url": "https://t.me/SenapredChile/1477",
    "origen": "telegram",
@@ -993,20 +1007,6 @@
    "url": "https://t.me/SenapredChile/1466",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "f307f5552b41",
-   "nivel": "ATP",
-   "tipo": "otros",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario",
-   "descripcion": "En atención a los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , se encuentran vigentes las siguientes Resoluciones Exentas en la Región de Los Ríos: Resolución Exenta N° 1833 de 2026 Declaración de Emergencia Sanitaria, por la presencia del virus aviar de alta patogenicidad H5N1 (IAPP). Resolución Exenta N° 585 de 2026 Confirmación de presencia de virus aviar de alta patogenicidad H5N1 (IAPP) en la Región de Los Ríos. Activación de protocolos de vigilancia junto con formación del Centro de Operación Regional. De acuerdo con el avance de la emergencia y producto de las",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-08-01T09:57:44.4444-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "b67402c23758",
