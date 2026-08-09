@@ -1,6 +1,138 @@
 {
- "generado": "2026-08-09T06:32:31+00:00",
- "desde": "2026-08-07T06:32:28Z",
+ "generado": "2026-08-09T09:12:19+00:00",
+ "desde": "2026-08-07T09:12:15Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "3eDq0bzsYbY",
+     "url": "https://www.youtube.com/watch?v=3eDq0bzsYbY",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-08-09T08:09:43Z",
+     "live": true,
+     "score": -2.09,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "4NS5vndkmws",
+     "url": "https://www.youtube.com/watch?v=4NS5vndkmws",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-08-09T08:09:43Z",
+     "live": true,
+     "score": -2.09,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "puren": {
+   "comuna": "Purén",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "5R2MHc93eCU",
+     "url": "https://www.youtube.com/watch?v=5R2MHc93eCU",
+     "titulo": "Semifinal Sub 15 Damas 2026. Lobas de Puren versus Aguilas de Victoria ",
+     "canal": "Basket Traiguén",
+     "publicado": "2026-08-09T04:24:54Z",
+     "live": false,
+     "score": 7.6,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "3z0H28Rv8Ks",
+     "url": "https://www.youtube.com/watch?v=3z0H28Rv8Ks",
+     "titulo": "VIJAY 11 TEAM KA PARCEL 📦 KYA AAYA HAI 🙂",
+     "canal": "Puren kr Official ",
+     "publicado": "2026-08-09T02:31:24Z",
+     "live": false,
+     "score": 7.44,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "1qQY1oZJ0_s",
+     "url": "https://www.youtube.com/watch?v=1qQY1oZJ0_s",
+     "titulo": "1 din jungle mein Khatarnak Shikari a Gaya puren # #newvideo #trending #youtube #virralshorts #kautu",
+     "canal": "@RajanKicartoonduniya",
+     "publicado": "2026-08-08T12:53:44Z",
+     "live": false,
+     "score": 6.31,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "dGunLdqn0oM",
+     "url": "https://www.youtube.com/watch?v=dGunLdqn0oM",
+     "titulo": "Weiter mit dem puren Fiebertraum AAAA🔴 LIVE | !discord !social",
+     "canal": "MrRoonix",
+     "publicado": "2026-08-07T20:34:36Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "traiguen": {
+   "comuna": "Traiguén",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "EpbXwpaJtwk",
+     "url": "https://www.youtube.com/watch?v=EpbXwpaJtwk",
+     "titulo": "Basket Traiguén está en vivo",
+     "canal": "Basket Traiguén",
+     "publicado": "2026-08-09T06:42:42Z",
+     "live": false,
+     "score": 7.79,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "spFCU3eKjhs",
+     "url": "https://www.youtube.com/watch?v=spFCU3eKjhs",
+     "titulo": "Basket Traiguén está en vivo",
+     "canal": "Basket Traiguén",
+     "publicado": "2026-08-08T21:27:16Z",
+     "live": false,
+     "score": 7.02,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "DnyiVZChIUU",
+     "url": "https://www.youtube.com/watch?v=DnyiVZChIUU",
+     "titulo": "Basket Traiguén está en vivo",
+     "canal": "Basket Traiguén",
+     "publicado": "2026-08-08T19:09:43Z",
+     "live": false,
+     "score": 6.83,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "dc4SUHlx3go",
+     "url": "https://www.youtube.com/watch?v=dc4SUHlx3go",
+     "titulo": "Conociendo Traiguen, Agosto 2026 #chile #traiguen #lumaco #travel",
+     "canal": "Jonathan C",
+     "publicado": "2026-08-07T23:42:26Z",
+     "live": false,
+     "score": 5.21,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
