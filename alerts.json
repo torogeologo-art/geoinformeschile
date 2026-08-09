@@ -1,13 +1,55 @@
 {
- "generado": "2026-08-09T17:07:18+00:00",
+ "generado": "2026-08-09T19:20:07+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 32,
+ "total_vigentes": 29,
  "alertas": [
+  {
+   "id": "5bd71612f6ea",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso A404 Precipitaciones normales a moderadas en Pampa y Precordillera. 10-08 12-08 Abrir aquí Aviso A405 Nevadas normales a moderadas en Cordillera. 10-08 11-08 Abrir aquí Aviso A406 Probables tormentas eléctricas en Precordillera y Cordillera. 10-08 12-08 Abrir aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización d",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-09T15:05:41.4141-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "383f1c7e4aec",
+   "nivel": "ATP",
+   "tipo": "marejadas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Isla de Pascua por marejadas anormales",
+   "descripcion": "De acuerdo con la información proporcionada por el Centro Meteorológico Marítimo de Valparaíso, ha finalizado la vigencia del Aviso N°36-A por marejadas anormales en el sector de Isla de Pascua de la Región de Valparaíso. Lo anterior, debido al debilitamiento de las condiciones que lo originaron. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la provincia de Isla de Pascua por marejadas anormales , que se mantuvo vigente desde el 05 de agosto de 2026.",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-09T14:13:22.2222-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-08-05-14-36-47",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "69a245f6544a",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se han cancelado los siguientes alertamientos meteorológicos para la Región Metropolitana, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Alerta AA125 Viento moderado a fuerte en precordillera y cordillera. Aviso A387-1 Viento normal a moderado, en cordillera de la costa, valle, precordillera y cordillera. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED cancel",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-09T13:54:03.033-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-04-17-37-43",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "5141f6cc513e",
    "nivel": "ATP",
@@ -33,20 +75,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-08T22:40:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "bbc9183a568e",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso A404 Precipitaciones normales a moderadas en Pampa y Precordillera. 10-08 12-08 Abrir aquí Aviso A405 Nevadas normales a moderadas en Cordillera. 10-08 11-08 Abrir aquí Aviso A406 Probables tormentas eléctricas en Precordillera y Cordillera. 10-08 12-08 Abrir aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-08T20:55:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -429,20 +457,6 @@
    "regiones_extra": []
   },
   {
-   "id": "1a15ecdaa016",
-   "nivel": "ATP",
-   "tipo": "marejadas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Isla de Pascua por marejadas anormales",
-   "descripcion": "De acuerdo con la información proporcionada por el Centro Meteorológico Marítimo Regional de Valparaíso , mediante la actualización de su Aviso N° 36-A, se indica que se presentarán marejadas anormales en el sector de Isla de Pascua, Región de Valparaíso. Se estima que la condición más intensa se manifieste desde el miércoles 5 al jueves 6 de agosto, alcanzando su mayor desarrollo en las respectivas horas de pleamar, especialmente entre las 00:00 y 02:00 horas y entre las 13:00 y 15:00 horas. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Val",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-05T14:10:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-08-05-14-36-47",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "8b64ed7cd20d",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
@@ -523,20 +537,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-04T18:12:57.5757-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-la-union-por-crecida-2026-07-28-07-54-02",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "b2cc761ccfe2",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA125 Viento moderado a fuerte en precordillera y cordillera. 05-08 05-08 Abrir aquí Aviso A387-1 Viento normal a moderado, en cordillera de la costa, valle, precordillera y cordillera. 05-08 07-08 Abrir aquí Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica, los montos de precipitaciones (mm/cm) e isoterma (m.s.n.m.) son los siguientes:",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-04T17:36:04.044-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-04-17-37-43",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -692,7 +692,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por desborde del Río Andalién #SENAPRED solicita evacuar sectores Santa Rita, Puente 1 y El Queule en la comuna de #Concepción, Región del Biobío. \nPara reforzar la evacuación en terreno por parte de los organismos técnicos #SENAPRED activó mensajería #SAE. \nRecuerda actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades. \nMás información en:  https://web.senapred.cl/dimension-animal/",
    "region": "Biobío",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-02T18:31:08+00:00",
    "url": "https://t.me/SenapredChile/1492",
    "origen": "telegram",

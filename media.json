@@ -1,36 +1,6 @@
 {
- "generado": "2026-08-09T17:07:22+00:00",
- "desde": "2026-08-07T17:07:19Z",
+ "generado": "2026-08-09T19:20:09+00:00",
+ "desde": "2026-08-07T19:20:07Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "angol": {
-   "comuna": "Angol",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "AApSoqSyzQc",
-     "url": "https://www.youtube.com/watch?v=AApSoqSyzQc",
-     "titulo": "Mewlen Angol está en vivo",
-     "canal": "Mewlen Angol",
-     "publicado": "2026-08-09T16:51:36Z",
-     "live": true,
-     "score": 7.98,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "im94rBc3TEI",
-     "url": "https://www.youtube.com/watch?v=im94rBc3TEI",
-     "titulo": "REUNIÓN EN VIVO DOMINGO 9 DE AGOSTO IGLESIA VIÑA CONCEPCIÓN",
-     "canal": "Iglesia Viña Concepción",
-     "publicado": "2026-08-09T15:43:38Z",
-     "live": true,
-     "score": 7.88,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
