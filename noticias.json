@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-08T19:10:15+00:00",
+ "generado": "2026-08-09T06:32:28+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -255,6 +255,13 @@
    "comuna": "Tierra Amarilla",
    "noticias": [
     {
+     "titulo": "CHL: Inundación pluvial / riada - 07-2026 - Actualización #7 (2026-07-31) - ReliefWeb",
+     "medio": "ReliefWeb",
+     "fecha": "2026-08-01T00:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVl9RZlhWeFJyd0I1a3VjdzhTVmZaRS1NMnJHUHJNNlFXOWMxSlJkQjRydHJWYXA2aXpBV0ItUjRZVUhvRFZqUWlvUDJIbURBaHFvS2FjekhwaDNKMGJnSGJuenNSSS1HZ2NMcWhZT3BnekRCV2tQN05oTWV4NTRtbzVBdVVLRU40bnEtc1YzZXZoTlU2dndIQnFXeFFTOTg?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Ñuble: Alerta Amarilla para las comunas de San Fabián y Ñiquén por crecida de río - Radio Agricultura",
      "medio": "Radio Agricultura",
      "fecha": "2026-07-27T00:38:27+00:00",
@@ -315,13 +322,6 @@
      "medio": "Atacama Noticias",
      "fecha": "2026-07-22T14:33:01+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDVDcWVpcUxiY2hiTm1ibDViMFlDck9ndU54NElDWmpCTUR0aE5vb3NINHNjVlAyRUNFdUNCT0xSS0xCdnZ5c3pDSUV2VWl6UHBlRzd3RmM1NzNXak9YR1RiNzhJZjB6QU5FLTJBQ1J3d0dTOXFlTDJVUVdNVnpMdXBFNzFVUzdJa3RQb1RWWk9rcm4tODd1Nk5fb3EyMjQ1bFNLRUZQZ0xGM2NtZ29BVFROaWxReGduQTZUNmxudU5kWWc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Clases suspendidas este miércoles en las regiones de Coquimbo y Valparaíso, más comunas de Atacama y Región Metropolitana - Hora12",
-     "medio": "Hora12",
-     "fecha": "2026-07-22T13:21:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUE5HNGFkNDJsUzduYi00WDd2VGlVQTRpajF2OEF5OTRQMGJrM0VtMDhRYXF0R0o1UVdNY0w0aDFsdEFmX3dFRFM5cnZIMnVqcV9QNExOWUpuY1JvUHVvSmlZOUJ4Q2xiSHNnZlZFME1jejhEZjgydHZmQlZrcDdmbmJuaFVnZXVSRlRJWlB1SFk0Rno5VzNlMVVmMUZOenBtM2RsSE1tcGNUU0RWeXRybzl2V1BfN0VEVUVwUHZpdGdRWnp4MGpiTHF4S2Y0aXpHYmdNQkNFMWhvZkUwQS1ibzd6SV8?oc=5",
      "sector": null
     }
    ]
@@ -2339,6 +2339,13 @@
    "comuna": "Penco",
    "noticias": [
     {
+     "titulo": "Sistema frontal en Biobío: Desbordes de ríos obligan a evacuar distintos sectores de Nacimiento - Chilevisión",
+     "medio": "Chilevisión",
+     "fecha": "2026-08-02T14:54:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU1RYakpGR2FnejVtcGkxeFVrckdjaVE3UWx6Ylo5WWQ1Q3Y3WHhXSUxxYmtZeDY0MEZ5WEl2RWQ5ZTdQTTJsdW1sSzA5ODgzYkE0UjNzZkhmcGQzTGtDbWhtdVVMeklld01XUmlUM2hoVEZubW1pOV9jWXRSd1pJbXR6bFRmcWRnbzB2aDBxV0F1OUxjU2lueTFmVlJUc20xZUFSV3FIT3VfWGh2bXBEbXVfYlM4cHUzU1k4TkJJVURjTXZsRFFzYTRxM2dNMFRCanJ1WWtQbw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred ordena evacuación preventiva en Penco por riesgo de aluvión - DUPLOS.CL",
      "medio": "DUPLOS.CL",
      "fecha": "2026-08-02T12:02:00+00:00",
@@ -2399,13 +2406,6 @@
      "medio": "Meganoticias",
      "fecha": "2026-08-02T01:12:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON3NaSzF3ZnJuQk91QVJJbVdTUGpyM3kxN2lpNG1zeXdidUVjakRWZXFHRE1qQ2V5eWNyYXF1U0ZHT0NCZHVkZWJINjgxb0xna1p0bzlNd21YZ3ZpTldsZXhkV0dxeFNPLXlsb3B3LTdLWTRfdWM3aGJkQkJpLUZLUzZLb2lOYUowMFZzbm5SMGZJOFZRU3Fvc2taV1hJV0YxbXJfNjRGWGZLeUhMdXZLYVdGbW1yT2tSdnJRMDZYcDRXZlpfemZV0gHHAUFVX3lxTE43c1pLMXdmcm5CT3VBUkltV1NQanIzeTE3aWk0bXN5d2J1RWNqRFZlcUdETWpDZXl5Y3JhcXVTRkdPQ0JkdWRlYkg2ODFvTGdrWnRvOU13bVhndmlOV2xleGRXR3F4U08teWxvcHctN0tZNF91YzdoYmRCQmktRktTNktvaU5hSjAwVnNublIwZkk4VlFTcW9za1pXWElXRjFtcl82NEZYZkt5SEx1dkthV0ZtbXJPa1J2clEwNlhwNFdmWl96ZlU?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Crecida del estero inunda calles en Penco y autoridades llaman a evitar el centro de la ciudad - Canal 9 Bío Bío Televisión",
-     "medio": "Canal 9 Bío Bío Televisión",
-     "fecha": "2026-08-02T01:00:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOckhUQjMwcHZXY3NJX2UyM0w2TUVBbGVZVGM1b2FhYVRfS0hwdnY4aVNMczd5WUx1eE5YazhKV2JDc1pJa2dYMWxWdk16M2daMDhRYl84RWtJdkVYelUtZ0U1WEV2bmNGQzlaaXdkVk44MGpSZ0JYOEhmTFAzWm4wZHBtamVRUHBZOXV6akh2R090MENNQmJ0LUt4R25wQy1obGNBZmRXdVJCYTZqN0xpeXpXenpiWDRzYnNNTDhjbUtVR0QteDd6VEJ5MWt3aDJq?oc=5",
      "sector": null
     }
    ]
@@ -2678,6 +2678,13 @@
      "sector": null
     },
     {
+     "titulo": "Estado de caminos por sistema frontal: rutas secundarias con tránsito suspendido en la región del Biobío - latribuna.cl",
+     "medio": "latribuna.cl",
+     "fecha": "2026-08-03T12:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTnNabzVSZlB4ZzBVd294WHdFUDQ3WGQyS19UYVo5MVprYk9kLU5yaTBCUHQ4UXhvVjdsOTluREJURndSQ1RHVkpNODR1NFduUDlKbWt1YV81bWdkSG9zU2FDdk5hS1ZxNzdPNF9fd0VUTm8zX3plNjdWX05jQ0VlZDFFVXcxYndQSFJzdWtMQUdoQzVoUFZjMHczSk5HaENEbkZaN3RIMFpXTHZad0J1M3pNQ3hLYkZfU2tHWjJiN0NfZ2NUczJXdGgxMTNSbC14WkoxN3YyR0lKU1Nfa2F0R2psam1VR3pFaVo0RC1BaFc4TTZo0gH8AUFVX3lxTE14d3FWOERjczVyNlZHWTNoNUJMNWRaaDRoLS1yZ1hkbEgwUmtiSHBwQzFtazBKd3hKOUJ1R1FqWG5pd19tQUdhMjZ4RWt1Q2JrSTk5SmdRWU5TV3Q4RmN5MU5pa3ZiX0ZabEh5TmRWN19KdWczaFdPdEx1a3BBNGZOdDhlM2cwTkZyTEtpT3NQcW5JUEtNU21jT0dsellJeDIyUXhjRm5EWEUzdUJCd1ZyM2VKQWI0Rm9aTDRyb1A4OEtMZnIxYUdRa2s5VldTZkcxRjVsNU9mdkRvcGpvalFWMF9UV291QWVXN0dRb1R5RTNBNmx2TWU4SkFaQw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Estado de rutas en Biobío: 19 vías cortadas y familias aisladas por sistema frontal - latribuna.cl",
      "medio": "latribuna.cl",
      "fecha": "2026-08-02T21:47:00+00:00",
@@ -2703,13 +2710,6 @@
      "medio": "Diario Concepción",
      "fecha": "2026-08-02T14:18:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRHhfNE15SGJTRHdLWUVUVHZiVHdYa3ZQNFJCbW9qZ2puQmxjSVdGMy1UeWQzdjlGM0VlZGtXWFc0bFZQaktQUHlwU1hOdzV4Q3diTEZVTHoxY1N2MmR6aldBZlNwdzViX0hIX0pJM1JSYTdnQVR4anU4NEhVbkZmNmJiRnNhVTZLbzZjbkI4Zm51bHk2SnFoRlhXWnI4TVRxXzBDY1cwbXRWVFE3YVdfajBSVC1CRmxBY091ZW1RRTR0WXdTT1NLeEFqVExyTnfSAdcBQVVfeXFMUGx6TU5HRXlsb3VfZjllVXFDZlU0QWpDamZYYVBzbTc2NVFGRmlfM2MyeVVpRmh2c2RZNFJPNjF6UlNRWlNyYm5EX3dHM3lyTU1uNkZmZWJTekEzZU5Tb1RzRGtBYjh4endjX1BtLTlnLTQ3SXNpTTFXdWcwZU5yRGhSZjVjQmNGSkZwX3VIUjB5TWN0V1hPMTdHWGlCTUExQ0dySzlaMWJsTk9fbkNBckNpaHYxTkFpQXoxdHdrdnpmZm1fRjY4UnJ1MHo4T0xGcXRUeGtueEE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred activa mensajería SAE y ordena evacuaciones por desborde de ríos en Nacimiento - latribuna.cl",
-     "medio": "latribuna.cl",
-     "fecha": "2026-08-02T13:56:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY0RkY09WX2dMZFF4akVSZ0NWZlhfT09Ma09fVThDV0xQcjNVbnYzRVlXb1Rna2x2X2RXT013T1RnbXo0SjRfd25CdkJGVjdKQWdZWjVIdkttaUo4LS1ZcERhNzducjhwTFdKRkx3TXhCSWl4VlFsMzVBLVplVFYwaGxfVzBoNXcwNDNzeTJxWEtxekxhV0p1Z0I4dlV4THZhVVZJQVB0Sk1mSUtKY2xQQVl4NnlCUGtNYXNzaDFtdVRiV25UUzFBc1V4YjNUV0NEblpTS2hoOHpsSUNybWlLb05JcTVwbVnSAecBQVVfeXFMUGNEZGNPVl9nTGRReGpFUmdDVmZYX09PTGtPX1U4Q1dMUHIzVW52M0VZV29UZ2tsdl9kV09Nd09UZ216NEo0X3duQnZCRlY3SkFnWVo1SHZLbWlKOC0tWXBEYTc3bnI4cExXSkZMd014QklpeFZRbDM1QS1aZVRWMGhsX1cwaDV3MDQzc3kycVhLcXpMYVdKdWdCOHZVeEx2YVVWSUFQdEpNZklLSmNsUEFZeDZ5QlBrTWFzc2gxbXVUYlduVFMxQXNVeGIzVFdDRG5aU0toaDh6bElDcm1pS29OSXE1cG1Z?oc=5",
      "sector": null
     }
    ]
@@ -3053,6 +3053,20 @@
      "sector": null
     },
     {
+     "titulo": "Huenchumilla oficia al MOP por emergencia en Ragñintuleufu - Alerta Noticias Temuco.cl",
+     "medio": "Alerta Noticias Temuco.cl",
+     "fecha": "2026-08-06T03:02:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1h4VktmTnlNZU12S1BiQXdVTG5VbXlzSEV5RUh6VDBGVzBjdnViSExoYXhCelFwZEtIb1pMZFZWcVRZdjd0d1l4cEU1YXpaUkZSVVpqVV9GbHFQOHFHR19LdERuYlZpWTV3RDJ5alBvS25qOGM4dnd3Z0otUTZzN2ZWb2FBaXVQYVpUY0VB?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Aislados producto del sistema frontal superan los 10.000 - Cooperativa",
+     "medio": "Cooperativa",
+     "fecha": "2026-08-05T21:37:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYlY2TVhWSF9lOTYyRlVqVjZLRXBQNGIzZXpremktTDJTOVk0NVFjd0tQeWZkeDZYX3V2cGIwMVpzTmdZbmZxNmZreU1aS2dIQ1RKU2lNUGZtNzFZUWdqVzh5ZU9tQUpiU0lVVnB3S3JJTjhTYUNOTmdjd1FpRDYzXzdzaTRCb2YzNDk0b1NFczVmSFBHUzFvc2NScnFWRE4xV0lDOW83WDJQVWtsT3lLTy16dXBrT25MLVRjVERwLUZlRXZpbUE?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Sistema frontal deja más de 3.000 damnificados y cerca de 9.000 aislados en el centro-sur - Cooperativa",
      "medio": "Cooperativa",
      "fecha": "2026-08-05T21:15:16+00:00",
@@ -3071,20 +3085,6 @@
      "medio": "Araucanía Diario",
      "fecha": "2026-08-05T13:28:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3VjNzNVZUI5enV6RWxFaU0wbEpYZ3dhcVpqSDdYQTNmQ25yMURzWW13UW02dkRibFlOZE9qZ0ZVOTBNVkdwNV9uOG1HSEtlZ0s1NkE3QS1zanZUM1JyandQZzlxUS0wT2g3MkhpTXZKcU1zQzA4X3FVN3MyTENId2ZGbmJoUFlGLVNGQU5HN2k3SVFnaDZ3NTl6bHVzblZwUGFSVGVlb2ZPRWlpZkNTc3BZQzNXTHlt0gG4AUFVX3lxTFBPdWM3M1VlQjl6dXpFbEVpTTBsSlhnd2FxWmpIN1hBM2ZDbnIxRHNZbXdRbTZ2RGJsWU5kT2pnRlU5ME1WR3A1X244bUdIS2VnSzU2QTdBLXNqdlQzUnJqd1BnOXFRLTBPaDcySGlNdkpxTXNDMDhfcVU3czJMQ0h3ZkZuYmhQWUYtU0ZBTkc3aTdJUWdoNnc1OXpsdXNuVnBQYVJUZWVvZk9FaWlmQ1NzcFlDM1dMeW0?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Encaran a la diputada Andrea Parra por entrega de viviendas que se inundaron en Angol - Araucanía Diario",
-     "medio": "Araucanía Diario",
-     "fecha": "2026-08-05T12:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWXRNc0R2REJTZ0hjazZJdWtILV9JZHN2YVRETGw4eGVHUkQ3RVBlSUR6VG01alFUdXRaZlBQTEhkZWhWaTd5ZW1UR2M0dFRrUlV0MjhiMDlEVGlMMUJZLURSYXczZXJZLVYzemNqbjFBVHhtZmNWMzN4N1Q4M01pQ0hIZWtKc3kwWjJzNU1MUWE1Vkt6cmx1ZUgxMk02VExINE8wb0NjcXVSTkRlVS01QWN2cGVfQ2g10gG4AUFVX3lxTE9ZdE1zRHZEQlNnSGNrNkl1a0gtX0lkc3ZhVERMbDh4ZUdSRDdFUGVJRHpUbTVqUVR1dFpmUFBMSGRlaFZpN3llbVRHYzR0VGtSVXQyOGIwOURUaUwxQlktRFJhdzNlclktVjN6Y2puMUFUeG1mY1YzM3g3VDgzTWlDSEhla0pzeTBaMnM1TUxRYTVWS3pybHVlSDEyTTZUTEg0TzBvQ2NxdVJORGVVLTVBY3ZwZV9DaDU?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senador Huenchumilla oficia al MOP por desbordes de ríos, casas inundadas y familias aisladas en Nueva Imperial - Araucanía Diario",
-     "medio": "Araucanía Diario",
-     "fecha": "2026-08-05T11:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUHFGTDJLNWFpeDlYUU1tYUhMd1kyRGx3QUwyWXJHajMzUWNta1pIMTBfLXR0ZkZNRHVwcjRiVElDaGszMUp4UVprbWU4SHdKRjJYRTRkVllaaFNHRmdXWTFlOEI4S2pGd1hwUXU5T0ctbF8zcDlSWlluQkdrWU40akJpOFBNYVdFNi04a3JpUGp0V2NrT3EwdjVxWnF0eGlDNG1fbUtjTVhkd2ZjWlgtTW05eDFmRXM50gG4AUFVX3lxTE1QcUZMMks1YWl4OVhRTW1hSEx3WTJEbHdBTDJZckdqMzNRY21rWkgxMF8tdHRmRk1EdXByNGJUSUNoazMxSnhRWmttZThId0pGMlhFNGRWWVpoU0dGZ1dZMWU4QjhLakZ3WHBRdTlPRy1sXzNwOVJaWW5CR2tZTjRqQmk4UE1hV0U2LThrcmlQanRXY2tPcTB2NXFacXR4aUM0bV9tS2NNWGR3ZmNaWC1NbTl4MWZFczk?oc=5",
      "sector": null
     }
    ]

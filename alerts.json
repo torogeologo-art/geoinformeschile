@@ -1,13 +1,55 @@
 {
- "generado": "2026-08-09T04:04:40+00:00",
+ "generado": "2026-08-09T06:32:02+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 33,
+ "total_vigentes": 32,
  "alertas": [
+  {
+   "id": "5141f6cc513e",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA124-2 Viento moderado a fuerte en Cordillera. 07-08 10-08 Abrir aquí Alerta AA128 Precipitaciones moderadas a fuertes con isoterma cero alta en Cordillera de la Costa, sectores de Valles, Pampa, Precordillera y Cordillera. 11-08 12-08 Abrir aquí Aviso A406 Probables tormentas eléctricas en Cordillera de la Costa, sectores de Valles, Pampa, Precordillera, Cordil",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-09T00:10:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e0809077bd49",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de La Araucanía por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A390-2 Probables nevadas con probabilidad de riesgo en el desplazamiento en precordillera de la región. 08-08 09-08 Abrir Aquí Aviso A397-1 Viento normal a moderado (puelche) en precordillera y cordillera de la región. 09-08 13-08 Abrir Aquí Adicionalmente, el Centro Meteorológico de la Armada de Chile durante el miércoles 06 de agosto emitió el aviso N°37 el",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-08T22:40:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "bbc9183a568e",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso A404 Precipitaciones normales a moderadas en Pampa y Precordillera. 10-08 12-08 Abrir aquí Aviso A405 Nevadas normales a moderadas en Cordillera. 10-08 11-08 Abrir aquí Aviso A406 Probables tormentas eléctricas en Precordillera y Cordillera. 10-08 12-08 Abrir aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-08T20:55:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "80a979f3697b",
    "nivel": "ATP",
@@ -19,20 +61,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-08T19:49:08.088-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "17042f7a9e00",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Tarapacá por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso A404 Precipitaciones normales a moderadas en Pampa y Precordillera. 10-08 12-08 Abrir aquí Aviso A405 Nevadas normales a moderadas en Cordillera. 10-08 11-08 Abrir aquí Aviso A406 Probables tormentas eléctricas en Precordillera y Cordillera. 10-08 12-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ta",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-08T18:31:07.077-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -75,20 +103,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-08T16:03:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-08-04-17-58-34",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "9fcdcfc2cfee",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA124-2 Viento moderado a fuerte en Cordillera. 07-08 10-08 Abrir aquí Alerta AA128 Precipitaciones moderadas a fuertes con isoterma cero alta en Cordillera de la Costa, sectores de Valles, Pampa, Precordillera y Cordillera. 11-08 12-08 Abrir aquí Aviso A398 Viento normal a moderado en litoral de la Provincia de Huasco. 06-08 08-08 Abrir aquí Aviso A406 Probables",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-08T15:45:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -249,20 +263,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "71b598a07c3b",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A389 Viento normal a moderado en las zonas del litoral y cordillera costa de la región. 07-08 07-08 Abrir aquí Aviso A390-1 Probables nevadas con probabilidad de riesgo en el desplazamiento en precordillera de la región. 07-08 08-08 Abrir Aquí Aviso A397 Viento normal a moderado (puelche) en precordillera y cordillera de la región. 09-08 10-08 Abrir Aquí Adici",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-06T19:23:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "39d4d279428e",
@@ -722,7 +722,7 @@
    "comunas": [
     "Angol"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-02T06:04:21+00:00",
    "url": "https://t.me/SenapredChile/1485",
    "origen": "telegram",
