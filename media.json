@@ -1,6 +1,102 @@
 {
- "generado": "2026-08-09T23:00:13+00:00",
- "desde": "2026-08-07T23:00:10Z",
+ "generado": "2026-08-10T05:07:18+00:00",
+ "desde": "2026-08-08T05:07:16Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "puren": {
+   "comuna": "Purén",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "Gs3PKpsMqcg",
+     "url": "https://www.youtube.com/watch?v=Gs3PKpsMqcg",
+     "titulo": "Puren vs Uach - Final U15 Liga Sur",
+     "canal": "Club CAB Puerto Montt",
+     "publicado": "2026-08-09T20:45:39Z",
+     "live": true,
+     "score": 9.3,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "1xkCHUCyE-8",
+     "url": "https://www.youtube.com/watch?v=1xkCHUCyE-8",
+     "titulo": "Servicio General Dia Domingo 09 de agosto 2026",
+     "canal": "IUMP RIOS DE AGUA VIVA PARRAL DE PUREN",
+     "publicado": "2026-08-10T03:18:18Z",
+     "live": false,
+     "score": 7.85,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "XLJsrPXapZQ",
+     "url": "https://www.youtube.com/watch?v=XLJsrPXapZQ",
+     "titulo": "mahatma puren question 💯💢💥",
+     "canal": "Vaibhav Mishra",
+     "publicado": "2026-08-10T00:56:59Z",
+     "live": false,
+     "score": 7.65,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "ztJ48odkcys",
+     "url": "https://www.youtube.com/watch?v=ztJ48odkcys",
+     "titulo": "Neu beim puren Android 17: Nutze mehrere Apps gleichzeitig mit App-Bubbles! Super schneller Zugriff",
+     "canal": "BILDNER TV",
+     "publicado": "2026-08-09T15:00:31Z",
+     "live": false,
+     "score": 6.82,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "wLnbOnMkF-c",
+     "url": "https://www.youtube.com/watch?v=wLnbOnMkF-c",
+     "titulo": "Amader Biani Bazare puren Takle  Janaio",
+     "canal": "Nadia Begum",
+     "publicado": "2026-08-09T11:31:20Z",
+     "live": false,
+     "score": 6.53,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "5R2MHc93eCU",
+     "url": "https://www.youtube.com/watch?v=5R2MHc93eCU",
+     "titulo": "Semifinal Sub 15 Damas 2026. Lobas de Puren versus Aguilas de Victoria ",
+     "canal": "Basket Traiguén",
+     "publicado": "2026-08-09T04:24:54Z",
+     "live": false,
+     "score": 5.94,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "3z0H28Rv8Ks",
+     "url": "https://www.youtube.com/watch?v=3z0H28Rv8Ks",
+     "titulo": "VIJAY 11 TEAM KA PARCEL 📦 KYA AAYA HAI 🙂",
+     "canal": "Puren kr Official ",
+     "publicado": "2026-08-09T02:31:24Z",
+     "live": false,
+     "score": 5.78,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "1qQY1oZJ0_s",
+     "url": "https://www.youtube.com/watch?v=1qQY1oZJ0_s",
+     "titulo": "1 din jungle mein Khatarnak Shikari a Gaya puren # #newvideo #trending #youtube #virralshorts #kautu",
+     "canal": "@RajanKicartoonduniya",
+     "publicado": "2026-08-08T12:53:44Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
