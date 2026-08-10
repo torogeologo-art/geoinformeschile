@@ -1,24 +1,71 @@
 {
- "generado": "2026-08-10T05:07:18+00:00",
- "desde": "2026-08-08T05:07:16Z",
+ "generado": "2026-08-10T10:02:36+00:00",
+ "desde": "2026-08-08T10:02:32Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "3eDq0bzsYbY",
+     "url": "https://www.youtube.com/watch?v=3eDq0bzsYbY",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-08-09T08:09:43Z",
+     "live": true,
+     "score": -4.16,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "4NS5vndkmws",
+     "url": "https://www.youtube.com/watch?v=4NS5vndkmws",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-08-09T08:09:43Z",
+     "live": true,
+     "score": -4.16,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "santa barbara": {
+   "comuna": "Santa Bárbara",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "IS7RMrXDOgY",
+     "url": "https://www.youtube.com/watch?v=IS7RMrXDOgY",
+     "titulo": "Live streaming di Webcam DANTA di Cadore - Dolomiti",
+     "canal": "Webcam DANTA",
+     "publicado": "2026-08-10T05:54:53Z",
+     "live": true,
+     "score": 7.66,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "auVmQvOXeUQ",
+     "url": "https://www.youtube.com/watch?v=auVmQvOXeUQ",
+     "titulo": "Santa Bárbara: prisión preventiva para acusado de secuestro con violación y amenazas",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-08-09T14:29:04Z",
+     "live": false,
+     "score": 4.37,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "puren": {
    "comuna": "Purén",
    "region": "La Araucanía",
    "alerta": "ROJA",
    "videos": [
-    {
-     "id": "Gs3PKpsMqcg",
-     "url": "https://www.youtube.com/watch?v=Gs3PKpsMqcg",
-     "titulo": "Puren vs Uach - Final U15 Liga Sur",
-     "canal": "Club CAB Puerto Montt",
-     "publicado": "2026-08-09T20:45:39Z",
-     "live": true,
-     "score": 9.3,
-     "verificado": false,
-     "embeddable": true
-    },
     {
      "id": "1xkCHUCyE-8",
      "url": "https://www.youtube.com/watch?v=1xkCHUCyE-8",
@@ -26,7 +73,7 @@
      "canal": "IUMP RIOS DE AGUA VIVA PARRAL DE PUREN",
      "publicado": "2026-08-10T03:18:18Z",
      "live": false,
-     "score": 7.85,
+     "score": 7.44,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +84,7 @@
      "canal": "Vaibhav Mishra",
      "publicado": "2026-08-10T00:56:59Z",
      "live": false,
-     "score": 7.65,
+     "score": 7.24,
      "verificado": false,
      "embeddable": true
     },
@@ -48,7 +95,7 @@
      "canal": "BILDNER TV",
      "publicado": "2026-08-09T15:00:31Z",
      "live": false,
-     "score": 6.82,
+     "score": 6.41,
      "verificado": false,
      "embeddable": true
     },
@@ -59,7 +106,7 @@
      "canal": "Nadia Begum",
      "publicado": "2026-08-09T11:31:20Z",
      "live": false,
-     "score": 6.53,
+     "score": 6.12,
      "verificado": false,
      "embeddable": true
     },
@@ -70,7 +117,7 @@
      "canal": "Basket Traiguén",
      "publicado": "2026-08-09T04:24:54Z",
      "live": false,
-     "score": 5.94,
+     "score": 5.53,
      "verificado": false,
      "embeddable": true
     },
@@ -81,7 +128,7 @@
      "canal": "Puren kr Official ",
      "publicado": "2026-08-09T02:31:24Z",
      "live": false,
-     "score": 5.78,
+     "score": 5.37,
      "verificado": false,
      "embeddable": true
     },
