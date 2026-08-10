@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-10T14:34:20+00:00",
+ "generado": "2026-08-10T17:39:58+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,48 @@
  },
  "total_vigentes": 25,
  "alertas": [
+  {
+   "id": "6c76905fca01",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Se cancela Alerta Roja para la Región de La Araucanía por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las distintas estaciones hidrométricas por las que se declaró esta alerta han disminuido al umbral de alerta azul y verde, con tendencia a la baja en sus caudales, lo que supone una disminución del riesgo asociado a esta variable. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED cancela&nbsp;la Alerta Roja Regional por desborde , que se mantuvo vigente desde el 31 de julio de 2026.",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-10T11:31:58.5858-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-curarrehue-por-crecida-2026-07-26-20-58-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "3f257c03befb",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Amarilla para las comunas de Los Lagos y Valdivia por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica \"Río Calle-Calle en Pupunahue\" indica una disminución del caudal, alcanzando valores de umbral azul , lo que supone una disminución del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela Alerta Amarilla por crecida para las comunas de Los Lagos y Valdivia, que se mantuvo vigente desde el 04 de agosto de 2026.",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-10T11:29:03.033-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-lagos-y-valdivia-por-crecida-2026-07-27-17-51-44",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ed97e75c0d07",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se modifica evento de Alerta Temprana Preventiva para la Región de Los Ríos por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra el vigente el siguiente alertamiento meteorológico para la Región de Los Ríos. Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-1 Viento normal a moderado (puelche) en precordillera y cordillera de la región. 09-08 13-08 Abrir aquí Asimismo, la DMC ha cancelado el siguiente alertamiento meteorológico, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Aviso A390-1 Probables nevadas con probabilidad de riesgo de desplazamiento, en precor",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-10T11:16:07.077-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-lanco-mafil-los-lagos-paillaco-rio-bueno-futrono-panguipulli-y-lago-ranco--por-nevadas-2026-08-04-19-52-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "d37485d25513",
    "nivel": "ATP",
@@ -303,20 +345,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-07T15:01:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-san-pablo-por-desborde-2026-07-29-19-05-35",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "39d4d279428e",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se modifica cobertura y evento de Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos. Alertamiento Pronóstico Inicio Fin Enlace Aviso A390-1 Probables nevadas con probabilidad de riesgo de desplazamiento, en precordillera de la región. 07-08 08-08 Abrir aquí Aviso A397 Viento normal a moderado (puelche) en precordillera y cordillera de la región. 09-08 10-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Region",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-06T18:31:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-lanco-mafil-los-lagos-paillaco-rio-bueno-futrono-panguipulli-y-lago-ranco--por-nevadas-2026-08-04-19-52-10",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1164,20 +1192,6 @@
    ]
   },
   {
-   "id": "203349383bbe",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla por crecida para la comuna de Curarrehue y modifica cobertura de la Alerta Roja a regional por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), durante la presente jornada sus estaciones hidrométricas han reportado un incremento en su caudal , alcanzando valores de umbral rojo y amarillo en distintas comunas de la región. Del mismo modo, la Dirección Regional de SENAPRED Araucanía, informa el desborde de ríos y esteros en diferentes comunas de la región, observando una tendencia al alza, afectación a personas y daño a viviendas. De tal manera, se registra una situación de riesgo donde los caudales se encuentran al alza, que de continuar aumentando, podrí",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-31T13:29:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-curarrehue-por-crecida-2026-07-26-20-58-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "202594839e1e",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -1194,16 +1208,16 @@
    "sae": true
   },
   {
-   "id": "ab6591564ad9",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para la comuna de Río Bueno por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “ Río Bueno e Bueno ”, indica un incremento en su caudal, alcanzando valores de umbral amarillo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Río Bueno, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con la declaración de la Alerta Am",
-   "region": "Los Ríos",
+   "id": "bd286fe6b344",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Se declara Alerta Roja para la comuna de Victoria por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ Río Quino en Longitudinal ”, ubicada en la comuna de Victoria, indica un incremento en su caudal , alcanzando valores de umbral rojo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED declara Alerta Roja por desborde para la comuna de Victoria , vigente desde hoy y hasta que las condiciones así lo ameriten. C",
+   "region": "La Araucanía",
    "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-07-31T00:44:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-rio-bueno-por-crecida-2026-07-31-00-46-05",
+   "estado": "CANCELADA",
+   "ts": "2026-07-31T03:19:27.2727-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-victoria-por-desborde-2026-07-31-03-22-18",
    "origen": "senapred_web",
    "regiones_extra": []
   },
