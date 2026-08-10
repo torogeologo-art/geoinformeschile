@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-10T17:40:03+00:00",
- "desde": "2026-08-08T17:39:59Z",
+ "generado": "2026-08-10T20:06:52+00:00",
+ "desde": "2026-08-08T20:06:49Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -9,24 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "phPk-hF-dac",
-     "url": "https://www.youtube.com/watch?v=phPk-hF-dac",
-     "titulo": "Tu Deporte Radio #804, 10 de agosto 2026",
-     "canal": "Tu Deporte Radio",
-     "publicado": "2026-08-10T14:41:03Z",
-     "live": true,
-     "score": 7.75,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "3eDq0bzsYbY",
      "url": "https://www.youtube.com/watch?v=3eDq0bzsYbY",
      "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
      "canal": "Tele Genial",
      "publicado": "2026-08-09T08:09:43Z",
      "live": true,
-     "score": -4.79,
+     "score": -5.0,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +26,7 @@
      "canal": "SRGenial",
      "publicado": "2026-08-09T08:09:43Z",
      "live": true,
-     "score": -4.79,
+     "score": -5.0,
      "verificado": false,
      "embeddable": true
     }
@@ -55,7 +44,18 @@
      "canal": "Webcam DANTA",
      "publicado": "2026-08-10T05:54:53Z",
      "live": true,
-     "score": 7.02,
+     "score": 6.82,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "hbzqYK95awg",
+     "url": "https://www.youtube.com/watch?v=hbzqYK95awg",
+     "titulo": "Prisión preventiva para hombre que secuestró, violó y agredió a expareja en Santa Bárbara",
+     "canal": "Sabes Radio",
+     "publicado": "2026-08-10T19:02:03Z",
+     "live": false,
+     "score": 5.91,
      "verificado": false,
      "embeddable": true
     },
@@ -66,7 +66,7 @@
      "canal": "Canal 9 BiobioTV",
      "publicado": "2026-08-09T14:29:04Z",
      "live": false,
-     "score": 3.73,
+     "score": 3.53,
      "verificado": false,
      "embeddable": true
     }
@@ -78,24 +78,24 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "6VFKGm2TI80",
-     "url": "https://www.youtube.com/watch?v=6VFKGm2TI80",
-     "titulo": "Puren vs Osorno - Cuadrangular Final U15 Liga Sur",
-     "canal": "Club CAB Puerto Montt",
-     "publicado": "2026-08-10T15:13:39Z",
-     "live": false,
-     "score": 7.8,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "Gs3PKpsMqcg",
      "url": "https://www.youtube.com/watch?v=Gs3PKpsMqcg",
      "titulo": "Puren vs Uach - Final U15 Liga Sur",
      "canal": "Club CAB Puerto Montt",
      "publicado": "2026-08-10T15:12:21Z",
      "live": false,
-     "score": 7.79,
+     "score": 7.59,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "6VFKGm2TI80",
+     "url": "https://www.youtube.com/watch?v=6VFKGm2TI80",
+     "titulo": "Puren vs Osorno - Cuadrangular Final U15 Liga Sur",
+     "canal": "Club CAB Puerto Montt",
+     "publicado": "2026-08-10T15:13:39Z",
+     "live": false,
+     "score": 7.59,
      "verificado": false,
      "embeddable": true
     },
@@ -106,7 +106,7 @@
      "canal": "IUMP RIOS DE AGUA VIVA PARRAL DE PUREN",
      "publicado": "2026-08-10T03:18:18Z",
      "live": false,
-     "score": 6.8,
+     "score": 6.6,
      "verificado": false,
      "embeddable": true
     },
@@ -117,7 +117,7 @@
      "canal": "BILDNER TV",
      "publicado": "2026-08-09T15:00:31Z",
      "live": false,
-     "score": 5.78,
+     "score": 5.57,
      "verificado": false,
      "embeddable": true
     },
@@ -128,7 +128,7 @@
      "canal": "Nadia Begum",
      "publicado": "2026-08-09T11:31:20Z",
      "live": false,
-     "score": 5.49,
+     "score": 5.28,
      "verificado": false,
      "embeddable": true
     },
