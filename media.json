@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-10T10:02:36+00:00",
- "desde": "2026-08-08T10:02:32Z",
+ "generado": "2026-08-10T14:34:25+00:00",
+ "desde": "2026-08-08T14:34:21Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -15,7 +15,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-08-09T08:09:43Z",
      "live": true,
-     "score": -4.16,
+     "score": -4.53,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "SRGenial",
      "publicado": "2026-08-09T08:09:43Z",
      "live": true,
-     "score": -4.16,
+     "score": -4.53,
      "verificado": false,
      "embeddable": true
     }
@@ -44,7 +44,7 @@
      "canal": "Webcam DANTA",
      "publicado": "2026-08-10T05:54:53Z",
      "live": true,
-     "score": 7.66,
+     "score": 7.28,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +55,7 @@
      "canal": "Canal 9 BiobioTV",
      "publicado": "2026-08-09T14:29:04Z",
      "live": false,
-     "score": 4.37,
+     "score": 3.99,
      "verificado": false,
      "embeddable": true
     }
@@ -73,18 +73,7 @@
      "canal": "IUMP RIOS DE AGUA VIVA PARRAL DE PUREN",
      "publicado": "2026-08-10T03:18:18Z",
      "live": false,
-     "score": 7.44,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "XLJsrPXapZQ",
-     "url": "https://www.youtube.com/watch?v=XLJsrPXapZQ",
-     "titulo": "mahatma puren question 💯💢💥",
-     "canal": "Vaibhav Mishra",
-     "publicado": "2026-08-10T00:56:59Z",
-     "live": false,
-     "score": 7.24,
+     "score": 7.06,
      "verificado": false,
      "embeddable": true
     },
@@ -95,7 +84,7 @@
      "canal": "BILDNER TV",
      "publicado": "2026-08-09T15:00:31Z",
      "live": false,
-     "score": 6.41,
+     "score": 6.04,
      "verificado": false,
      "embeddable": true
     },
@@ -106,7 +95,7 @@
      "canal": "Nadia Begum",
      "publicado": "2026-08-09T11:31:20Z",
      "live": false,
-     "score": 6.12,
+     "score": 5.75,
      "verificado": false,
      "embeddable": true
     },
@@ -117,7 +106,7 @@
      "canal": "Basket Traiguén",
      "publicado": "2026-08-09T04:24:54Z",
      "live": false,
-     "score": 5.53,
+     "score": 5.15,
      "verificado": false,
      "embeddable": true
     },
@@ -128,18 +117,25 @@
      "canal": "Puren kr Official ",
      "publicado": "2026-08-09T02:31:24Z",
      "live": false,
-     "score": 5.37,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
-    },
+    }
+   ]
+  },
+  "angol": {
+   "comuna": "Angol",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
     {
-     "id": "1qQY1oZJ0_s",
-     "url": "https://www.youtube.com/watch?v=1qQY1oZJ0_s",
-     "titulo": "1 din jungle mein Khatarnak Shikari a Gaya puren # #newvideo #trending #youtube #virralshorts #kautu",
-     "canal": "@RajanKicartoonduniya",
-     "publicado": "2026-08-08T12:53:44Z",
-     "live": false,
-     "score": 5.0,
+     "id": "-cZkfAvDzuc",
+     "url": "https://www.youtube.com/watch?v=-cZkfAvDzuc",
+     "titulo": "🔴 EN VIVO | TU MAÑANA ARAUCANÍA | (10 DE AGOSTO 2026)",
+     "canal": "UfroMedios",
+     "publicado": "2026-08-10T13:02:32Z",
+     "live": true,
+     "score": 7.87,
      "verificado": false,
      "embeddable": true
     }
