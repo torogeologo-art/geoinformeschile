@@ -1,17 +1,17 @@
 {
- "generado": "2026-08-11T21:28:55+00:00",
+ "generado": "2026-08-11T23:27:59+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "01-08-2026",
   "hasta": "11-08-2026"
  },
  "totales": {
-  "alertas": 139,
-  "sae": 24,
-  "comunas": 13,
-  "regiones": 17,
+  "alertas": 135,
+  "sae": 20,
+  "comunas": 12,
+  "regiones": 16,
   "por_nivel": {
-   "ROJA": 41,
+   "ROJA": 37,
    "AMARILLA": 36,
    "ATP": 62
   },
@@ -21,16 +21,16 @@
     47
    ],
    [
-    "crecida de río",
-    28
-   ],
-   [
     "tormentas eléctricas",
     27
    ],
    [
+    "crecida de río",
+    26
+   ],
+   [
     "desborde",
-    16
+    15
    ],
    [
     "evento meteorológico",
@@ -41,12 +41,12 @@
     5
    ],
    [
-    "aluvión",
+    "marejadas",
     3
    ],
    [
-    "marejadas",
-    3
+    "aluvión",
+    2
    ]
   ]
  },
@@ -161,125 +161,6 @@
     "region_link": "los lagos"
    }
   ],
-  "crecida de río": [
-   {
-    "lugar": "Arauco",
-    "region": "Bioío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "01-08",
-    "comuna_link": "arauco",
-    "region_link": "bioio"
-   },
-   {
-    "lugar": "Curanilahue",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "01-08",
-    "comuna_link": "curanilahue",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "01-08",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Nacimiento",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "02-08",
-    "comuna_link": "nacimiento",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "01-08",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
-   {
-    "lugar": "Quilleco",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "02-08",
-    "comuna_link": "quilleco",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Santa Bárbara",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "02-08",
-    "comuna_link": "santa barbara",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Nueva Imperial",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "04-08",
-    "comuna_link": "nueva imperial",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "07-08",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
-    "lugar": "Los Sauces",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "05-08",
-    "comuna_link": "los sauces",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Purén",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "05-08",
-    "comuna_link": "puren",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "02-08",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "05-08",
-    "comuna_link": "",
-    "region_link": "los rios"
-   }
-  ],
   "tormentas eléctricas": [
    {
     "lugar": "Región de Atacama",
@@ -381,16 +262,108 @@
     "region_link": "tarapaca"
    }
   ],
-  "desborde": [
+  "crecida de río": [
    {
-    "lugar": "Arauco",
+    "lugar": "Región de Biobío",
     "region": "Biobío",
     "nivel": "ROJA",
     "sae": true,
     "ts": "01-08",
-    "comuna_link": "arauco",
+    "comuna_link": "",
     "region_link": "biobio"
    },
+   {
+    "lugar": "Nacimiento",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "02-08",
+    "comuna_link": "nacimiento",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "01-08",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
+    "lugar": "Quilleco",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "02-08",
+    "comuna_link": "quilleco",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Santa Bárbara",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "02-08",
+    "comuna_link": "santa barbara",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Nueva Imperial",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "04-08",
+    "comuna_link": "nueva imperial",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "07-08",
+    "comuna_link": "",
+    "region_link": "los lagos"
+   },
+   {
+    "lugar": "Los Sauces",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "05-08",
+    "comuna_link": "los sauces",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Purén",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "05-08",
+    "comuna_link": "puren",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "02-08",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "05-08",
+    "comuna_link": "",
+    "region_link": "los rios"
+   }
+  ],
+  "desborde": [
    {
     "lugar": "Osorno",
     "region": "Los Lagos",
@@ -480,6 +453,15 @@
     "ts": "04-08",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Arauco",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "05-08",
+    "comuna_link": "arauco",
+    "region_link": "biobio"
    }
   ],
   "evento meteorológico": [
@@ -549,26 +531,6 @@
     "region_link": "maule"
    }
   ],
-  "aluvión": [
-   {
-    "lugar": "Penco",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "01-08",
-    "comuna_link": "penco",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "11-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   }
-  ],
   "marejadas": [
    {
     "lugar": "Región de Atacama",
@@ -588,6 +550,26 @@
     "comuna_link": "",
     "region_link": "valparaiso"
    }
+  ],
+  "aluvión": [
+   {
+    "lugar": "Penco",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "02-08",
+    "comuna_link": "penco",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "11-08",
+    "comuna_link": "",
+    "region_link": "atacama"
+   }
   ]
  },
  "vigentes": {
@@ -603,10 +585,10 @@
  "serie": [
   {
    "fecha": "2026-08-01",
-   "ROJA": 9,
+   "ROJA": 5,
    "AMARILLA": 2,
    "ATP": 2,
-   "sae": 6
+   "sae": 2
   },
   {
    "fecha": "2026-08-02",

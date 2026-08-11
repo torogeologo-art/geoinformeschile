@@ -1,25 +1,6 @@
 {
- "generado": "2026-08-11T23:25:27+00:00",
- "desde": "2026-08-09T23:25:25Z",
+ "generado": "2026-08-11T23:27:59+00:00",
+ "desde": "2026-08-09T23:27:57Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "santa barbara": {
-   "comuna": "Santa Bárbara",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "g-oWnyAVMng",
-     "url": "https://www.youtube.com/watch?v=g-oWnyAVMng",
-     "titulo": "Live streaming di Webcam DANTA di Cadore - Dolomiti",
-     "canal": "Webcam DANTA",
-     "publicado": "2026-08-11T09:54:45Z",
-     "live": true,
-     "score": 6.87,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }

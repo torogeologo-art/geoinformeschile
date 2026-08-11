@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-11T21:28:50+00:00",
+ "generado": "2026-08-11T23:27:56+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -480,6 +480,20 @@
    "comuna": "Copiapó",
    "noticias": [
     {
+     "titulo": "CGE refuerza plan preventivo en Atacama ante las lluvias - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-08-11T19:37:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxONExqQXhfU0VuTk5wdmpvUUYxcjlITDhHMU1NbzlxUWdWUEtPVkNnV2kwcFJMVExlbnZjUnJhdkpLT3dYTWFmOUdVT2tRNDdyc3MxajBLLVVCeWFiZGctNkFQVS1MQzR4emR4dHg3dlN1V2F2TDNlU3ZUeHZTOE15TXlUbGxIbHRwVDdGUVhBTFdUS2t5ZnFxek9hUE9EVVg2aVlXMkNaRnhGRU12enBIOEtHUVNhU3VweXUwQnV6c3JxMzFscHM0VmE5cTVkX3FnNER0MDBVQUZzSUJJazJXT0cwVEF6NGVreHp2dGVGZ3lQRGpjMTZ1Y0hhcGk3QWVhUU1qWW9reDVSb0tkX0tDTnFGa2dibHVlVUVnTmpGak9qMG80U3RCZFQwZ3htbmNhRE9WSTdjWjFsUms?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Atacama se prepara para nuevo evento meteorológico: prevén hasta 40 milímetros, tormentas eléctricas, viento y nieve en cordillera - Diario Chañarcillo",
+     "medio": "Diario Chañarcillo",
+     "fecha": "2026-08-11T11:21:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaUExRzMzYlFOQll1Tk00THBnX01YMWphTDBHSGxVVTlmTUlacFNSOTl3d0dDVVBMMlpZNlBGZkVKbk14Y0pGTHBZbjJnZklUaVdmRlhLRHUxZ3lzUHFHLXB3LUJZWVJROENXeDRrUVBJY3M4cFBkcHkxNHFKbHBnaExYYUYtMnBFVEVJZFhjYlNoUVdiWE9TdzVXMDN5bUZoellweHhETW1aSXdNRUVvcmRYdnJGaFQ2eGpVakd5a2VMQmRGN1VnUGRZODg3bENXdkRlcndiUG1fVE90Mmc1N0N5SjdyMHlucXNv?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Alerta en Copiapó: denuncian quebrada obstruida en salida norte y piden despeje urgente ante nuevo arribo de lluvias - madero.cl",
      "medio": "madero.cl",
      "fecha": "2026-08-10T14:55:10+00:00",
@@ -533,20 +547,6 @@
      "medio": "FM Plus",
      "fecha": "2026-07-23T10:08:45+00:00",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmsxUVZDU0FHWkdDN2UyZl9BQm5PWDFwQWFsUUhGaUVGYUd4XzhmNzQwSzBfYlVtajVOSUFYQVhjZWJrckpBaWhINEluZS1fbVpnbE1yRE5LX0dEY2lucXYyMEpTMTM0N1lvRW82NnNadkhCMnZLNUxKSkNlQnpHQUN2d2t2eHJYX2s1NkFTcVVTWWVTV0M4QXF3?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "MOP avanza en la habilitación parcial de la Ruta 5 Norte: Hoy continuó la circulación de vehículos de abastecimiento y emergencia - mop.gob.cl",
-     "medio": "mop.gob.cl",
-     "fecha": "2026-07-23T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVF81NTl2OFkzTzNqRUhkNVJma1g3alZvOTR6eVc2QS14czJoa3pncGtkQXpNNFM5TDF0dHZ2aG1Za3JLa3VQWVdER2FmSTFDdHVlb29janZPckJFb180eTlES1BuVUk1TzNzdnA5MUd5NWY0YS1DcVA0TTZ3YTJVd241eEhpeU9nM2ZMZnJwOUN4SWVWeGNWZVhINmR6MmNFT0JteUM4M1E1TUtiazZ6SFdqNFR3NGFGTUpnNEplWnBtU2d6Uk0yVjJBdUxUc3MzOVdRTkpIMXFtLU5IbGdySjMzaG5BWDg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Joven de 29 años es la segunda víctima fatal en Atacama tras ser arrastrado por el río Copiapó - 24horas",
-     "medio": "24horas",
-     "fecha": "2026-07-23T04:29:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeTdTWmRnTk0xRVRYclpISFVxcnpSNU1qZGFXWGdiQ1VXbVBJUUZUZVU1NHdPdTJnaGZxRktBcVpod0phamMxWUQtdmt3VUhEYWZKYVEzMVJJd1FBNGM2MmVFcU9pSFoxWUQtSm1VTGhiWVFNdzlEeWRsWTlzakRkNlYtWEh2cXVoajd2S1FJVzdYVGlfdUZDQTk0VVpkenFVQUhaRE9NMlhPQjJUOWZ5SExEbHNvaU1WRUQ5SUhkUW1md9IBxwFBVV95cUxPd1p4dGp2c1V3eHR6bnNFU0JvYlczTDgtcXl0S1BCaFlPeUdQU0QxUEtkTHgxMXM5b2t5ZFhZTFZuaVZYWW5yV1ZWdDE5WU1BYVVyWUZaV05VNVNuaXRoZFBrSlF2VmdNTUZfQkF2Q0Y0aVU1WVJhYmJGS0RvRnhzTFRtWl9KQTktMkdwdWtXWnJuV2V5eFNfYWNIYmFVT3Fwck0zQWVyTEhESlJRSkNEekMzVjBldHhtbHFQOHcxd0o3c1FZalMw?oc=5",
      "sector": null
     }
    ]
@@ -964,6 +964,13 @@
      "sector": null
     },
     {
+     "titulo": "Sistema frontal sigue afectando los servicios sanitarios de las regiones de Coquimbo y Atacama - induambiente.com",
+     "medio": "induambiente.com",
+     "fecha": "2026-07-22T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdnBkelhXUnVWZ2U1ZHNIamNzY18tUjlWT0I1MWIwUEFFNWlDT3ZrMzVPbUtoT1dtTk9WSGxZOHpGNFJNR0RyTDRJSnpQMU9zaXVLQWZQMklZaXRPNmVSWi10dDkwM054UFZQTmpXWVVfS0lpdXRtVFF1QllfUUJtX19udGI1WVpPbkZ3ZVg1YVJJc1dIOEtuZ2ZrTnVmQWxCWGI4Wm9JRmxLMGM5OEVOZXJpRFZkNFlRemNwRE85bS0?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Sistema frontal deja 4 muertos, 2.521 aislados, 372 mil hogares sin luz y evacuaciones de madrugada - MSN",
      "medio": "MSN",
      "fecha": "2026-07-22T02:29:55+00:00",
@@ -1014,13 +1021,6 @@
      "medio": "elobservatodo.cl",
      "fecha": "2026-07-18T14:47:29+00:00",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS1NfdnZOMmdEaG5SYzVmSlJYVEF0Xy1HR2MtNDRFVmJNN0xzVjlWRGoyLWFGamlUVlY2RVNVdHFzOFN1dURqU0NQYzJnRlRXeXVzU1hEN2tVSnVfR3p1QTdXNUN5T01LTGJielVuallNbG8yak5TZ3RKQ0VLZXF2Z1JFc01RdTd5ai1NRFdiVW04WS1MMlNnSFdwaGV5WDAzTTB6VjZFX0pSR3NuanM5ZDdQWW8ydkVkOUgzYzVEMzM0X3V0amVBcQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alertas SAE por sistema frontal: revisa todas las evacuaciones y recomendaciones de Senapred de este sábado - radiomodelo.cl",
-     "medio": "radiomodelo.cl",
-     "fecha": "2026-07-18T13:05:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMWhKMFBaWW9PR0tDbDRSemdlaFd1Y0hmZE14Q3JBSEdLUURXR0x6U2N2Rk5fQzFhV1hiSGVrQ3RxcW5Jelg1NTg2SUFHLVU3YWstSjBocDZJNzlwRlh5Ui0ySmdaaDg1ZEhFWUQzbzZobEU2dV9VSFdwZFQ2bThuejVfVVlNYUVHeFVGNFV5MmdWU2JXQ2U5V0s4MjF2aWVJNGt5cGZtdWxpU2UtTnlUWGZhaFQwYUNSRE9lc253T3dzWXpmaDNYTUVDbGE4M3lnVmRSZWExS0o?oc=5",
      "sector": null
     }
    ]
@@ -1329,6 +1329,13 @@
    "comuna": "Caldera",
    "noticias": [
     {
+     "titulo": "CGE refuerza despliegue preventivo ante nuevo sistema frontal en Atacama - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-08-11T19:37:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdko4UUlwanhVZng4d3FNbGh3TURxd0lWbGZPaGN2WjlUdURNdVowczJ4Tm45QnVzN1NPRVF6czZWa0s3bEM4VlhmX2lHb3gwLWQycXhXMXhBQTFFVDZpMnZjcXVrWmRKY3BfVW92VmNnMjlZZ0VCRkVrWkNIanFKMEM0ODVOWHRHV0NkUjFoTS1NZFU5ZEFEU1o2QklzTGN3?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Ruta 5 y caminos costeros: los cortes que mantienen interrumpida la conectividad en Atacama tras el sistema frontal - madero.cl",
      "medio": "madero.cl",
      "fecha": "2026-07-23T12:17:09+00:00",
@@ -1389,13 +1396,6 @@
      "medio": "La Tercera",
      "fecha": "2026-07-19T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdFZwQjdUWnJfbXhBOG42YzNrNlYwUklhNGY0eG5FdFUwdVYxQ3VtMGt4ekdvajlhMjJFWVFzeTdjRDJRbWhjWGNOSXIzQ3hzeGlTNGc5R19kbm90a0lmX0p1RGZONDdKUThieXVRWlBxNEswbWFwUUpBOUxWRFJTUjJVbDdWSl9YMWROaXVnZ3hxMUpud29VbE1GUFRjd0RwekVtTFJQSjlrQl9zNjNfVXdYVFZwSUxzV1dKOUluSmRVaTV5dGFpQlFnaHNKZUFKME5rNF9WRjdWaEF2ajNPclRsOHVxQk1aOEhJUHhjTzFpaWJhN2w5WVZoZ9IBnAJBVV95cUxNVW12X3p2aEJTOEJFU0ZjYVRXOHA5VDV6TkFERHBIRFZQME81N2tHRkNSbWltSzNmamFYdll2OHZUb3hGRTlnNmpRdFZaZFQyZnFLenBIcjRjdjk2SDI4TlhvcDVRa21lWWZIanhaZGxUVFdtNUNYa0V3ekFPWm5hS2pzbWN6b0p2TXVORWNVMUdQdGdPYzdfaXQ2RC04OG1yN0s1TGc1WEtUTENPQ2kwbHJZcEN0YVV2NzZHa2hLenJyX09lQ3dnTkcwbTVGMVJfMDRZWEhuXzZfMnZQOVBfbTFBSjFDNExaU1J3OFFLZThURUItMUhWVUZNVDRKbzlST1ZJVkpzLTU2b1lNQk8yTkVUNC1TR2JNQVN6dg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Se mantiene operativa la Ruta 5 Norte en Atacama tras frente meteorológico, pero llaman a la precaución por activación de quebradas - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-07-19T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbXJaUWtBcWktRUJVYkpodkUzZmpnSWJLRTdVTU85Y3R2Und6MXQ1aFhJcEdOdUwyZnhZaUE0WUQ4UE0wOW1Ucml5UlZzYS14b1VPYk1TczVpTWhQOHpFYlE2bjJleUx1Q3c5TE5jNVhodGNURXpMSnBvQ3BRYWI4ZnBOc2ZtYWVvN3VFbGp6a29YQUY2OE9oaUViOEhsYUJ2RXFpU1Y0ZzRyWEg3Y2pVZVFFSXF4eWwyQVhUSVB3RE00Nk1fU0hlajlaMEdacFAwU3U5dnhUVzNhUThpSks1VlBhUzVvZWlRU0huQkh3?oc=5",
      "sector": null
     }
    ]
@@ -1568,6 +1568,13 @@
      "sector": null
     },
     {
+     "titulo": "Punilla registra 746 personas afectadas por el sistema frontal - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-08-04T12:11:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcC1KRnpiZGYzTVVxbkdkOXhTVlg1Q0JxaE03TEJBWnJTRlROOTRnQlhXNmZFWWw2MGFrTVhpTEcwZmZCUVBkN0NIUGw5Ylc5ejF4WmJHNmhfY3VoS3lOWlRuQjVyZjZMSXBFbmxWMlhKNWNPUXJpNlZTMUNNbnVaV0JoeGpXWVdHYkxTd0Q1bTJOZW5jX2JUYVRWaTA5cU9oOTlNOWZB?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Declaran Alerta Amarilla en diez comunas por crecidas y suspenden clases en toda la región - La Discusión",
      "medio": "La Discusión",
      "fecha": "2026-07-27T12:24:29+00:00",
@@ -1614,13 +1621,6 @@
      "medio": "Radio Agricultura",
      "fecha": "2026-07-27T03:51:10+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSl9iTEJnNi04MGVvV2Z4MzI2M1c5UVBnVlRucm5SQVQtMjM0b3BhSmpWaE1qcXp6d3hvaGdBOVJfRVVkUkNKdmpyWUZlckk0UVdQTE5MWXFYamhpWEt5UFZtNklKRU5ERHBlVVBMTnlzVXB3X2VZdnprOEdHeVV4amFENDZYcW1nQW04MklvLU1QRUVXREhqX2pHSzBPRXFlSllwRVhJcVVFWHJJYnYwVGo3b1J4MGE3?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alerta roja en 6 comunas de Ñuble por crecida de ríos Chillán, Niblinto y Perquilauquén - lafontana.cl",
-     "medio": "lafontana.cl",
-     "fecha": "2026-07-27T03:42:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0weHpFN0RZS0h4WWFzeW5DU1hhdjN4SUxIZHJrS0NOX0NlelJONG4tbC15YnN1YjNZdHBrYVpRaVJkc2dDeDN3cDlWM2RhVDc4Uzg5dm5WcVNXSGlPX0JDWEJ2dkJPOUF6ZWtMZEZJVXc?oc=5",
      "sector": null
     }
    ]
