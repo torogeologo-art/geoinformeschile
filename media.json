@@ -1,8 +1,37 @@
 {
- "generado": "2026-08-11T15:27:58+00:00",
- "desde": "2026-08-09T15:27:54Z",
+ "generado": "2026-08-11T18:38:17+00:00",
+ "desde": "2026-08-09T18:38:14Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "4WNHHgNudyQ",
+     "url": "https://www.youtube.com/watch?v=4WNHHgNudyQ",
+     "titulo": "Tu Deporte Radio #805, 11 de agosto 2026 📱",
+     "canal": "Tu Deporte Radio",
+     "publicado": "2026-08-11T16:49:00Z",
+     "live": true,
+     "score": 7.85,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "LS9c6qs5oEo",
+     "url": "https://www.youtube.com/watch?v=LS9c6qs5oEo",
+     "titulo": "Tu Deporte Radio #805, 11 de agosto 2026",
+     "canal": "Tu Deporte Radio",
+     "publicado": "2026-08-11T13:52:47Z",
+     "live": true,
+     "score": 7.6,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "santa barbara": {
    "comuna": "Santa Bárbara",
    "region": "Biobío",
@@ -15,7 +44,7 @@
      "canal": "Webcam DANTA",
      "publicado": "2026-08-11T09:54:45Z",
      "live": true,
-     "score": 7.54,
+     "score": 7.27,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +55,7 @@
      "canal": "Sabes Radio",
      "publicado": "2026-08-10T19:02:03Z",
      "live": false,
-     "score": 4.3,
+     "score": 4.03,
      "verificado": false,
      "embeddable": true
     }
@@ -44,18 +73,7 @@
      "canal": "Sonaram Birua Comedy & Sports",
      "publicado": "2026-08-11T07:37:12Z",
      "live": false,
-     "score": 7.35,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "Gs3PKpsMqcg",
-     "url": "https://www.youtube.com/watch?v=Gs3PKpsMqcg",
-     "titulo": "Puren vs Uach - Final U15 Liga Sur",
-     "canal": "Club CAB Puerto Montt",
-     "publicado": "2026-08-10T15:12:21Z",
-     "live": false,
-     "score": 5.98,
+     "score": 7.08,
      "verificado": false,
      "embeddable": true
     },
@@ -66,7 +84,18 @@
      "canal": "Club CAB Puerto Montt",
      "publicado": "2026-08-10T15:13:39Z",
      "live": false,
-     "score": 5.98,
+     "score": 5.72,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Gs3PKpsMqcg",
+     "url": "https://www.youtube.com/watch?v=Gs3PKpsMqcg",
+     "titulo": "Puren vs Uach - Final U15 Liga Sur",
+     "canal": "Club CAB Puerto Montt",
+     "publicado": "2026-08-10T15:12:21Z",
+     "live": false,
+     "score": 5.71,
      "verificado": false,
      "embeddable": true
     },
@@ -78,24 +107,6 @@
      "publicado": "2026-08-10T03:18:18Z",
      "live": false,
      "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "angol": {
-   "comuna": "Angol",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "l2x3Ffjc-G4",
-     "url": "https://www.youtube.com/watch?v=l2x3Ffjc-G4",
-     "titulo": "🔴 EN VIVO | TU MAÑANA ARAUCANÍA | 11 DE AGOSTO 2026",
-     "canal": "UfroMedios",
-     "publicado": "2026-08-11T13:05:23Z",
-     "live": true,
-     "score": 7.8,
      "verificado": false,
      "embeddable": true
     }
