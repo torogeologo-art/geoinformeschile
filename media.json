@@ -1,6 +1,120 @@
 {
- "generado": "2026-08-11T04:52:46+00:00",
- "desde": "2026-08-09T04:52:45Z",
+ "generado": "2026-08-11T08:32:14+00:00",
+ "desde": "2026-08-09T08:32:10Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "santa barbara": {
+   "comuna": "Santa Bárbara",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "IS7RMrXDOgY",
+     "url": "https://www.youtube.com/watch?v=IS7RMrXDOgY",
+     "titulo": "Live streaming di Webcam DANTA di Cadore - Dolomiti",
+     "canal": "Webcam DANTA",
+     "publicado": "2026-08-10T05:54:53Z",
+     "live": true,
+     "score": 5.78,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "hbzqYK95awg",
+     "url": "https://www.youtube.com/watch?v=hbzqYK95awg",
+     "titulo": "Prisión preventiva para hombre que secuestró, violó y agredió a expareja en Santa Bárbara",
+     "canal": "Sabes Radio",
+     "publicado": "2026-08-10T19:02:03Z",
+     "live": false,
+     "score": 4.87,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "auVmQvOXeUQ",
+     "url": "https://www.youtube.com/watch?v=auVmQvOXeUQ",
+     "titulo": "Santa Bárbara: prisión preventiva para acusado de secuestro con violación y amenazas",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-08-09T14:29:04Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "puren": {
+   "comuna": "Purén",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "ao_RVO_c060",
+     "url": "https://www.youtube.com/watch?v=ao_RVO_c060",
+     "titulo": "Puren verses Nemar dhamaka// पुरेन वर्सेज नेमार धमाका// YouTube shorts video",
+     "canal": "Sonaram Birua Comedy & Sports",
+     "publicado": "2026-08-11T07:37:12Z",
+     "live": false,
+     "score": 7.92,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Gs3PKpsMqcg",
+     "url": "https://www.youtube.com/watch?v=Gs3PKpsMqcg",
+     "titulo": "Puren vs Uach - Final U15 Liga Sur",
+     "canal": "Club CAB Puerto Montt",
+     "publicado": "2026-08-10T15:12:21Z",
+     "live": false,
+     "score": 6.56,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "6VFKGm2TI80",
+     "url": "https://www.youtube.com/watch?v=6VFKGm2TI80",
+     "titulo": "Puren vs Osorno - Cuadrangular Final U15 Liga Sur",
+     "canal": "Club CAB Puerto Montt",
+     "publicado": "2026-08-10T15:13:39Z",
+     "live": false,
+     "score": 6.56,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "1xkCHUCyE-8",
+     "url": "https://www.youtube.com/watch?v=1xkCHUCyE-8",
+     "titulo": "Servicio General Dia Domingo 09 de agosto 2026",
+     "canal": "IUMP RIOS DE AGUA VIVA PARRAL DE PUREN",
+     "publicado": "2026-08-10T03:18:18Z",
+     "live": false,
+     "score": 5.56,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "ztJ48odkcys",
+     "url": "https://www.youtube.com/watch?v=ztJ48odkcys",
+     "titulo": "Neu beim puren Android 17: Nutze mehrere Apps gleichzeitig mit App-Bubbles! Super schneller Zugriff",
+     "canal": "BILDNER TV",
+     "publicado": "2026-08-09T15:00:31Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "wLnbOnMkF-c",
+     "url": "https://www.youtube.com/watch?v=wLnbOnMkF-c",
+     "titulo": "Amader Biani Bazare puren Takle  Janaio",
+     "canal": "Nadia Begum",
+     "publicado": "2026-08-09T11:31:20Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
