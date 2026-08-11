@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-11T08:32:09+00:00",
+ "generado": "2026-08-11T21:28:50+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -255,6 +255,13 @@
    "comuna": "Tierra Amarilla",
    "noticias": [
     {
+     "titulo": "Live del alcalde de Tierra Amarilla registra tenso cruce con delegada Sofía Cid durante trabajos de emergencia en el río - madero.cl",
+     "medio": "madero.cl",
+     "fecha": "2026-08-11T19:02:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjZRT3pCVl9oOWI3SjZNeWNEMU9xT0dXNnIzeC10OEQtajZ5a3p3cV9ZVUw2Uk9vVGRQcmdobGdDWWt0MmJiZk9VR2tIWGlBdGVoZkVGVkVCVTBfcWw0akszVWxlbDVPeFI5aTMxNW9RWjI3dTJlcGlOMTlka0Y1cGpaTDdSRkxMZTBSZFltSTBxWFY0eW1sbm5ja21QRkt1cEc3bzE0dkd3V3ByNExNa3hEXzVJSkh4MV9GbDhtdmdSYTlWczh0elZ2eHZsUEFBMXFIQzFR?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "CHL: Inundación pluvial / riada - 07-2026 - Actualización #7 (2026-07-31) - ReliefWeb",
      "medio": "ReliefWeb",
      "fecha": "2026-08-01T00:00:00+00:00",
@@ -315,13 +322,6 @@
      "medio": "Radio Contacto 90.7 FM",
      "fecha": "2026-07-22T15:15:24+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTk40UUpTdWxUNnFHRVVjVEhTV3prQWhLSUh5WmFyclVsejdBSVQ5SmZZdXpYbXg0UWdNS3lzSjk2UDlYaWhOY0NCQzRrbUtScjdZM1R5ekwxSTcxSW9aZ0s3VDk4UV9oNXM2c2V6dV80MG9Jd3N5bnBmYk9STElsZUhLSzQ4eUZzMjJOdllCUkU3Vm5GeGlMRFRFd0lrTEVjZnZLY21oU2ZTQQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "[VIDEO] Emergencia en Atacama cobra una vida: trabajador agrícola fallece en el río Copiapó - Atacama Noticias",
-     "medio": "Atacama Noticias",
-     "fecha": "2026-07-22T14:33:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDVDcWVpcUxiY2hiTm1ibDViMFlDck9ndU54NElDWmpCTUR0aE5vb3NINHNjVlAyRUNFdUNCT0xSS0xCdnZ5c3pDSUV2VWl6UHBlRzd3RmM1NzNXak9YR1RiNzhJZjB6QU5FLTJBQ1J3d0dTOXFlTDJVUVdNVnpMdXBFNzFVUzdJa3RQb1RWWk9rcm4tODd1Nk5fb3EyMjQ1bFNLRUZQZ0xGM2NtZ29BVFROaWxReGduQTZUNmxudU5kWWc?oc=5",
      "sector": null
     }
    ]
@@ -1404,6 +1404,20 @@
    "comuna": "Coquimbo",
    "noticias": [
     {
+     "titulo": "“Aumentos de caudal y activación de quebradas”: advierten peligros por la lluvia en Atacama y Coquimbo - La Tercera",
+     "medio": "La Tercera",
+     "fecha": "2026-08-11T15:06:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYlN0dUdUNTRidGZTV0xRa3ZTUmdCQzVPaktfc0RUZGRiT20yb0haWTdDdG1UNTJDZDF0ZUVjRnRCY0pEQ28xc0N2LUl3MlhzY202TWNNdkpsNXNpQ0N4UF9iNmtscW40bVpnV1JRa01qOUdpYWpQSDJ3QVVkQVMxWGlqQmgxQ0t3NXEtZlhvbHpFVk1fQUloeHVwMktIYVl3aWRhQXhmdVp3LTd5MG5QLUxSeDZoS2hDMjhvS0hSNHZDMms4eXFQRXAtMG82RWpwRm9NU1g3QTVpdkpwek51YkcxcDZpcm5XekYzUW5aMk1uVzRsYjQyS3F3bldLTGfSAf8BQVVfeXFMTmJTdHVHVDU0YnRmU1dMUWt2U1JnQkM1T2pLX3NEVGRkYk9tMm9IWlk3Q3RtVDUyQ2QxdGVFY0Z0QmNKRENvMXNDdi1JdzJYc2NtNk1jTXZKbDVzaUNDeFBfYjZrbHFuNG1aZ1dSUWtNajlHaWFqUEgyd0FVZEFTMVhpakJoMUNLdzVxLWZYb2x6RVZNX0FJaHh1cDJLSGFZd2lkYUF4ZnVady03eTBuUC1MUng2aEtoQzI4b0tIUjR2QzJrOHlxUEVwLTBvNkVqcEZvTVNYN0E1aXZKcHpOdWJHMXA2aXJuV3pGM1FuWjJNblc0bGI0Mktxd25XS0xn?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Nuevo frente amenaza al norte con lluvias intensas, nieve, tormentas y riesgo de activación de quebradas - La Tercera",
+     "medio": "La Tercera",
+     "fecha": "2026-08-10T23:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUVpib3A2YnB5Nkc4UV9lNWlNdXBiMHRqV3J4a3lSV0w0cW0zWWNzbUpSZ3YwOGpEOTNrMzlvZ3pKWWFxd0Z4Z1FfRHctbm84NlZOVHc3LTZVR1ZUVUdYaDJ2bXY4aU9VVU04NzVHRVBmU3NsUklvYjU3NWVLWkd2ZzVOejMtMzlxNGp4ZmIxZFZRMjFJTlcwV1lveWoyVXFVU1Q5NmlrUWhhVnM2d1BFakxLbk1YZXBrUGsyeVJBVEJaVks0T2dPczc4am1oUW9YUGN3QzV5LWNzT2l4RDA40gGAAkFVX3lxTE45Vkc1VEJzNXZmWGM5MEc1dGVMWWwyWlJTOHpnbkxMdTNodXdUZWFRWGRQUXhYN0xnWFhWUHRNS3dCV2JWUGJsVnE5TmJuLXNmczR5SGxzWmhmczN2TWc1Nm9VbTYxdS1fa0RhUGR6U1RWUmswU2NBeW5Ddkx5Z0pUUUJNUmdYczc2MV9RVC1LdElnOUVlZ0ZtZnVJV0V4bjIzbHZ4ZnFZZ3pFOGt6UTF4RjA3Y1hkNzhSX2NrQ29ueWY5bGdGTmpKSG5tYVFGc3lGNEpUaVl6MzFMODhXYXpYN1c2S3lDc1VfWVl4WkExZEltWUp0UmhScXJHbERXa24?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Región Coquimbo. Ceaza confirma precipitaciones para martes y miércoles. Hay riesgo de tormentas eléctricas y activación de quebradas - Serena y Coquimbo",
      "medio": "Serena y Coquimbo",
      "fecha": "2026-08-10T22:49:02+00:00",
@@ -1457,20 +1471,6 @@
      "medio": "Mi Radio",
      "fecha": "2026-07-31T18:03:22+00:00",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcWFSWHRSWWRPSVBCZ1pzbkFtRjJuUE0xVVNNLW9mVnBPTUZNZ0ZQUjNGeHFmNHE5d0VhamozSmdZN21idmotUEVST29lVXZ1R2ZqUjVkblJFdzJ6RmlVUEV4ekIwRUU4dWFHODZvdEl4dEF0RVoyQWhiTUJHLTdIa0pYWi1uRzlUWDZvUGtORGFFcGRPZ1E?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alerta SAE: lluvias intensas provocan activación de quebradas y Senapred evacúa zonas de Región de Coquimbo - El Desconcierto",
-     "medio": "El Desconcierto",
-     "fecha": "2026-07-31T17:26:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZzR3NDF0UWFhMW1yYU9NYk1GaHlqMFNIaDVLMEk4SGhSV3dYZUw3cnBRT090bVNMLW54X3g2NWo2ZnloNzNVRUM2Y0dpT0c2WDRsV3VEaUtHdEpzS1ZNZXBQNTRfTkNzRWlwMUNSZW9BUWRxSmoyOXFON0ZxenhhaEtLaTF6TTNYTTZsbTFyVjI1RzRmUUZyandHTkZ6YkQxTWJScVJsVTVDNFo5dkk4THpCM2xadGVObmVDNV8weTBseGFhalY3TEkzeTFmSW9PX2xrWWR1Vm80VkE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alerta SAE por activación de distintas quebradas moviliza evacuaciones en la región de Coquimbo - Epicentro Chile",
-     "medio": "Epicentro Chile",
-     "fecha": "2026-07-31T17:03:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUTlUOUJadEpBaWhSb1hEZm01ZVNDbjE2ZTAxN2I5WFpEMXR0RHZ3WFRjMU1ZSkU1TFZPbFZFbDVwTE5TNFFyaUl2VC03UDB5UVZieUdxZVkyYXlDQUtOaWtLMXkxTm5NTGRoSDlOaEJaTU5vZ0YtNDZtUFR3QWlQeE14R01FdFE5cnpiV25CM0M3NjZ4SW1OWk9lc2JEeERsdERxUGJOTjNDZEoxZmJTRTJDNlNCdGpncVhSVkFnbFBpRVJHRUlmNUNiSEZvWXVZRG52Tw?oc=5",
      "sector": null
     }
    ]
@@ -2645,17 +2645,17 @@
      "sector": null
     },
     {
+     "titulo": "Quilleco y Vialidad acuerdan priorizar caminos mientras avanzan proyectos de pavimentación - latribuna.cl",
+     "medio": "latribuna.cl",
+     "fecha": "2026-07-28T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNHVPWUdxOEVFTkl3U0lwQlRWaDkxRmtnVmttNjN0RllXTm5zbkJ1TkJHaVlDWTlvVDVWcE5aYzJJY0JfYVk0M1FfOHNxMzFDVElMVUN2MmEzNmdZVXRjM0wwbGRtN2wwbjVqU2lSN196cUIyY3MxZUhyNEZmczN4TmU3SHRHdlBnVHpzMzdLZ3JnS002RkNiNWNXbWhzQ01yOUJXbVd1bGplZnlOeU10NTMzdFhtLWJTSFlHNFNLWlVJVzdMZGpRNXhKRDlLOUV3SUZrdEV6Z2kxRmRBakNKQ2lad9IB6wFBVV95cUxQcGtRbXU5LVMyZzZ6STk3bThLdHJNX3k4ZXNXMlZ2bC1QbmhJb2lsOTBjZl9feUVqS2xKRzZZTnBOVnhXQXVESjgwZmNiSDVGREJlM0Zzc3AydTJsOUpPRDBVbmdfakpTY2ZrQWoyMERIT1IzdU96RE1tS192UFVxNEFPcUUtTFdtd2tIOTRhcko4QUl3WWxLRDN5dTR0enV6Q3dwZXlsbHlRZWFVbGMycTJsVVA2X1czRFBOcmlqdDFJdnVHOHRONEdOTzJBZk5MUG1Ub1BMZkNqaUJaRWRCSUJpVXVpWndMN1BJ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Cuatro rutas de la Provincia de Biobío permanecen con interrupción preventiva - latribuna.cl",
      "medio": "latribuna.cl",
      "fecha": "2026-07-27T15:45:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWVJzVk1SYThQdnFVYUsxVjA3MTJ5UmpjcFpoQWtNZ1dES045QWpGUnE2Q2pGRHVVd0psN19LV2hXOUktNHZQWTBVeWVEeHBGTEhoN0xma3AzYlFDWnlSd2FabnRJSW9pSExkRXl0dGtabTYzTVBoaTVKbG00ZHJKVjBTZkpoY1o5ek5zMXVaSC0wOXZkRDgzZDNYU0JZVmFqSXdXVFNCM2lwc1VBYUNjVHk2SDhYa3dnS1NreWhzVDNYbXJCVDFhVmV5elhZSG1oQnfSAdoBQVVfeXFMUEVWQ0FoXy1aVzJYSXltZnlkUFY2MkRSM0REdjlfSU5uMkFoUmphNEV0VVN6SHpVdXlsUXk2dk4zSnJFZGxpQ1Rfcy16a3FuUFQ2N0ZPZWhYUFg2d3htbDhrdXdxRTFNSEpKWDZlakVhemYzbXZJQ2ljZFhESHphNkp0SUtjdURiaC0zSXFuZy1KSEJueEhuMXZXTnpHNWVaTHRkQ0pQbDJlT0dOamd0VXU2UEZLWnEtM05kZ25kTEdCYUJqOUlaYkZuYllEcjFXRmtLckF3aXdoTFE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Quilleco celebró con fe y comunidad los 100 años de la coronación de la Virgen del Carmen - latribuna.cl",
-     "medio": "latribuna.cl",
-     "fecha": "2026-07-17T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU0ZXdjdZNGdhaWc1ZHBGU3luUkpEUncxOWNTSk9KMFNIQ2RsZ1czSExfWHJ5aWh5dUFuam1GdjQxZHJjNG9CZ2gydkJSb1BDUlhtUWxqMldQMncwaDY2UFlKUXlwUi1qVm10TWpYX2tGVlJKMFNiLTFoYW5wZHBXbWZoblRxU3NQX2l4TG42MThibXBaTXBtYmtpaENRbi1RSFFmaG5uel81a2ZLR3NJdUE5WHNaLUR6SmNCOWsxU0IxTTdzVVNSOS1pV3FhUTM3a01iNmdmeXRyQmFHVEtsM1ln0gHqAUFVX3lxTE55aU1rZmlRN1p5b1Y3ektHN3YwZm54WmVpQmdqbVJZZFVWdlEtc3JONWM1dFgwcW5VZmpiQ2hSVGdXd1hZM3RWQkJyRnVEMVkwS3F2Mjk3bFJzTFRnS3IyaEF1U3pDZzB0THFvUFBMSGVIZjNIVEMwWnVCeTdUSWtuZ0ZfOHR6cHRlbktHd3NSaEk4enliMi1YMmx5bTZGeEFvdE50TzdHVElucF9PaThXazJOT3dRQk1jRVU4dUMzUTFnSjctZTVJZm9TSWFaQkZmcERmYjJndTNRMVZaclNwcmJ6SGJkLUZvUQ?oc=5",
      "sector": null
     }
    ]
@@ -2889,6 +2889,20 @@
    "comuna": "San Pablo",
    "noticias": [
     {
+     "titulo": "San Pablo busca instalar una estación de monitoreo del río Bueno para anticipar nuevas crecidas - MiradaSurTV",
+     "medio": "MiradaSurTV",
+     "fecha": "2026-08-11T13:01:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZnQtd1M2Mlk3R3BzMWE4UjB2aGZpczA5SzhFUDJfeHVSSEFiV2hGNksySnpQWW1NbGRaZ3FxWGluQUxGelJ5X3R5NjZ6S09wblo1b3VJckROeUJkY3lFNUhYNWJQV0J6eERfOWhtUTRRQUl3WmFIZGdGWFNNS0tmMVBtZmdrQXhPYTg4TVo1TkNCcTlXdjRUdlpyTkIyVV91bTVPblZ2VEFVX1BLZFNjdXZQSFpaQ0ZseTE0?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "San Pablo busca instalar una estación de monitoreo ante nuevas crecidas del río Bueno - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2026-08-10T19:56:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUGJwdUZzNWp1dUFqbE1iRUtzT3N0Nzd6dWJXY2ZqVHdleDlRMjMzOUk2VlNqbkFrQ0hHX2RiRzE4bzM3RU9BbWlHeDJWeWE0alJGRzNuQjJOcXoxQzdOcmptcEJ4RVQzcTBqS2IyRzZoSmdIcndyM0dXLWp5T01BdHFuNWhuekw0WjRuMmZYOVpYMXJwdFI2OW9BSlF4TWNoTE12Q2lmeTFMTm82d3N2WXRUZW1hVUJ4Sm5wZ2lOOHN1ZU1uSXF6eVNTREttRWlNSXF3TlB2YXIzeWJrajF0RHpZejNyYmZUNkg2RHdNVzVWX1NIeXA0TTVTWQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Pronostican heladas en Los Lagos y San Pablo se mantiene con alerta roja - SoyChile.cl",
      "medio": "SoyChile.cl",
      "fecha": "2026-08-08T01:41:15+00:00",
@@ -2942,20 +2956,6 @@
      "medio": "ADN Radio",
      "fecha": "2026-08-01T20:07:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS2trTDlwT1pQRmFmeVRIZ3hLOHM3ZVJ6eTl2Z0RpdUFnZi13WWhuQ0NPN2h0eElFVFNwVEdHNzVkSzdNTzA0SWdqZ1VSeGM3Uk83N3VZSEZ4Vmc0aldXSHZkTXJIb0NuZzJiOEZSQlZ1TEFxWTVTSHlUT01wNmFFaWptYUZUcTVRME9kWDlEOHE3NjBqZTZhUk1za3p5TnpSZDA4WXlqdGZoTjdkMVN0TU1HOEw5eXBlSFpsLU8wVkJ3Z0hiZjhrVTlmQ1Nfenc0VzNQMXhWNDdQNkRFVlRR0gHfAUFVX3lxTE9La2tMOXBPWlBGYWZ5VEhneEs4czdlUnp5OXZnRGl1QWdmLXdZaG5DQ083aHR4SUVUU3BUR0c3NWRLN01PMDRJZ2pnVVJ4YzdSTzc3dVlIRnhWZzRqV1dIdmRNckhvQ25nMmI4RlJCVnVMQXFZNVNIeVRPTXA2YUVpam1hRlRxNVEwT2RYOUQ4cTc2MGplNmFSTXNrenlOelJkMDhZeWp0ZmhON2QxU3RNTUc4TDl5cGVIWmwtTzBWQndnSGJmOGtVOWZDU196dzRXM1AxeFY0N1A2REVWVFE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred activa mensajería SAE y llama a evacuar riberas de tres ríos en la región de Los Lagos - ADN Radio",
-     "medio": "ADN Radio",
-     "fecha": "2026-08-01T20:07:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXlxUjJ0bG9LdWFzSFd0aFNuQXhvakRnTHExM256a2dWN3JYbC1oTFNySHdJbW81YjFwbUxoX2Jpb2pzSVZWUFdSc2o5bk5UbkJ2R0FoWFdkanplb2xGeUptWnVWSTNobThBTUtmcXlhNFpjUHJ1NjFDbkNuQnBDOHZMUjhuMGFfMlNuVTVJSHVUT29vSlRDdkQ2SUw0RXRyNFhkOHdQQ3lCQTd6NFVIWXN0ZHFMeHF0dmJMSmpfMXY2bVFUZmVfZm1HRdIB3wFBVV95cUxPS2trTDlwT1pQRmFmeVRIZ3hLOHM3ZVJ6eTl2Z0RpdUFnZi13WWhuQ0NPN2h0eElFVFNwVEdHNzVkSzdNTzA0SWdqZ1VSeGM3Uk83N3VZSEZ4Vmc0aldXSHZkTXJIb0NuZzJiOEZSQlZ1TEFxWTVTSHlUT01wNmFFaWptYUZUcTVRME9kWDlEOHE3NjBqZTZhUk1za3p5TnpSZDA4WXlqdGZoTjdkMVN0TU1HOEw5eXBlSFpsLU8wVkJ3Z0hiZjhrVTlmQ1Nfenc0VzNQMXhWNDdQNkRFVlRR?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred pide evacuar la ribera del Río Bueno en San Pablo por desborde - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-08-01T19:21:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd1JiODRUeVhJQXhtN2kxSmhTdU54VXNYQjdjVEs4QTVqOHBjN0VaMG00ZUJJdDVIckxpbl85U2M4YjdzbXZkOWVoWFhDU2Z6WWFMd254cVh2WUp3bmN1ZE5zUDRLelhhNVhXQlhoMWh4cFNiYVpZLTZ3S29tQ3V4RHZmOFhDa00wUTVRS3FkRVVYVTF6czdRUFozazdVaHdTdWVXYmg0UGQ2N0t4WkR4ZnpqaktFc050aktJZWVaS3RsRGloemswZ3Z4NjU1eUFab2lFQjVsbUxGRmlTcHc?oc=5",
      "sector": null
     }
    ]

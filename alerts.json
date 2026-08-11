@@ -1,13 +1,85 @@
 {
- "generado": "2026-08-11T18:38:13+00:00",
+ "generado": "2026-08-11T21:28:23+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 22,
+ "total_vigentes": 23,
  "alertas": [
+  {
+   "id": "1a564929860e",
+   "nivel": "ROJA",
+   "tipo": "aluvión",
+   "titulo": "¡ATENCIÓN! EVITA quebradas y pendientes fuertes, por peligro de #Aluvión, en la comuna de #AltodelCarmen, Región de Atacama.",
+   "descripcion": "¡ATENCIÓN! EVITA quebradas y pendientes fuertes, por peligro de #Aluvión, en la comuna de #AltodelCarmen, Región de Atacama.\nInfórmate a través de los canales oficiales y sigue las indicaciones de la autoridad.\n#SENAPREDactivó mensajería #SAE Preventiva.",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-11T20:32:37+00:00",
+   "url": "https://t.me/SenapredChile/1515",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "97a16e790232",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de La Araucanía por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC ), se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A408 Probables tormentas eléctricas con probabilidad de granizos en litoral, cordillera de la costa, valle y precordillera. 11-08 11-08 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED mantiene la alerta amarilla regional por evento meteorológico, que se en",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-11T16:37:24.2424-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "d6cc17a779e2",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Amarilla para la Provincia de Palena por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la Región de Los Lagos, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Alerta AA127 Heladas moderadas a intensas en Patagonia Subandina. Aviso A390-2 Probables nevadas en precordillera, con probabilidad de riesgo en el desplazamiento. Aviso A391-3 Heladas normales a moderadas con probabilidad de formación de escarcha en la Patagonia Subandina. Aviso A397-1 Viento normal a moderado en",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-11T16:35:06.066-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-palena-por-evento-meteorologico-2026-08-08-18-15-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "8c2bc9421fc7",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC ), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA130 Precipitaciones moderadas a fuertes con isoterma cero alta en Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera 11-08 12-08 Abrir aquí Aviso A388-5 Viento normal a moderado en Cordillera Costa, Pampa, Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera de la región. 11-08 14-08 Abrir aquí A",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-11T15:52:18.1818-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "fc8d1c91038f",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Última Esperanza por heladas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A410/2026 Heladas normales a moderadas Cordillera Austral Norte y Pampa Patagónica Norte. 12-08 14-08 Abrir aquí Además, considerando el pronóstico especial emitido durante la presente jornada por el Centro Meteorológico Regional Austral, señala que las temperaturas mínimas (°C) esperadas por comuna son las siguientes: Sector Comuna Miércoles 12 agosto Jueves 13 agosto Viernes 14",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-11T15:47:03.033-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-heladas-2026-08-11-15-47-55",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
   {
    "id": "6bd4d16c9dfe",
    "nivel": "AMARILLA",
@@ -19,20 +91,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-11T13:39:18.1818-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e2991ca64845",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para la comuna de San Pablo por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , través de su plataforma digital, la estación hidrométrica \"Río Bueno en Bueno\" presentan una disminución en su caudal a rangos normales, lo que supone una disminución del riesgo para la población cercana a este curso de agua. Cabe mencionar que, de acuerdo con lo informado por el Encargado de Gestión del Riesgo y Desastres de la comuna, la conectividad terrestre por la ruta U-220 fue reestablecida, no obstante las personas del sector Puilo Bajo, mantienen conectividad vía fluvial por medio de embarcaciones propi",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-11T13:29:42.4242-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-san-pablo-por-desborde-2026-07-29-19-05-35",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -79,20 +137,6 @@
    "regiones_extra": [
     "Parinacota"
    ]
-  },
-  {
-   "id": "8c2bc9421fc7",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA130 Precipitaciones moderadas a fuertes con isoterma cero alta en Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera 11-08 12-08 Abrir aquí Aviso A388-4 Viento normal a moderado en Cordillera Costa, Pampa, Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera de la región. 10-08 14-08 Abrir aquí A",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-11T10:50:18.1818-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "69f5a9d0866c",
@@ -251,20 +295,6 @@
    "regiones_extra": []
   },
   {
-   "id": "e0809077bd49",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A390-2 Probables nevadas con probabilidad de riesgo en el desplazamiento en precordillera de la región. 08-08 09-08 Abrir Aquí Aviso A397-1 Viento normal a moderado (puelche) en precordillera y cordillera de la región. 09-08 13-08 Abrir Aquí Adicionalmente, el Centro Meteorológico de la Armada de Chile durante el miércoles 06 de agosto emitió el aviso N°37 el",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-08T22:40:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "80a979f3697b",
    "nivel": "ATP",
    "tipo": "otros",
@@ -275,20 +305,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-08T19:49:08.088-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2dcbc7351c37",
-   "nivel": "AMARILLA",
-   "tipo": "nevadas",
-   "titulo": "Se declara Alerta Amarilla para la Provincia de Palena por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Los Lagos, hoy 08 de agosto se llevó a cabo un COGRID Provincial donde se evaluaron las condiciones de afectación, conectividad y proyección del riesgo en el tendido eléctrico y sus sistemas, mientras se solicitó a la Fuerza Aérea de Chile mantenerse en alerta ante eventuales evacuaciones en zonas apartadas. Asimismo, se mantienen trabajando maquinarias municipales y de Vialidad, con el objetivo de garantizar la conectividad terrestre frente a las nevadas registradas en zonas de las comunas de Palena y Futaleufú,",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-08T18:11:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-palena-por-evento-meteorologico-2026-08-08-18-15-59",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -2929,20 +2945,6 @@
    "url": "https://t.me/SenapredChile/1277",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "557b167489dc",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Las Guaitecas por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), fueron cancelados los siguientes alertamientos meteorológicos para la Región de Aysén, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A314 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes, en corto periodo de tiempo en Insular Norte e Insular Sur. Aviso A316 Probable desarrollo de nubes convectivas con características tornádicas, con probabilidad de intensos vientos locales arrachados y tornádicos en Insular Norte. En",
-   "region": "Aysén del General Carlos Ibáñez del Campo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-14T15:59:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-las-guaitecas-por-evento-meteorologico-2026-07-12-14-25-38",
-   "origen": "senapred_web",
-   "regiones_extra": []
   }
  ]
 }

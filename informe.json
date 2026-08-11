@@ -1,51 +1,51 @@
 {
- "generado": "2026-08-11T08:32:14+00:00",
+ "generado": "2026-08-11T21:28:55+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "01-08-2026",
   "hasta": "11-08-2026"
  },
  "totales": {
-  "alertas": 140,
-  "sae": 27,
-  "comunas": 14,
+  "alertas": 139,
+  "sae": 24,
+  "comunas": 13,
   "regiones": 17,
   "por_nivel": {
-   "AMARILLA": 35,
-   "ATP": 61,
-   "ROJA": 44
+   "ROJA": 41,
+   "AMARILLA": 36,
+   "ATP": 62
   },
   "por_tipo": [
    [
     "viento",
-    48
+    47
    ],
    [
     "crecida de río",
-    31
+    28
    ],
    [
     "tormentas eléctricas",
-    23
+    27
    ],
    [
     "desborde",
-    17
+    16
+   ],
+   [
+    "evento meteorológico",
+    6
    ],
    [
     "nevadas",
     5
    ],
    [
-    "evento meteorológico",
-    5
-   ],
-   [
-    "otros",
+    "aluvión",
     3
    ],
    [
-    "remoción en masa",
+    "marejadas",
     3
    ]
   ]
@@ -84,7 +84,7 @@
     "region": "Biobío",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "01-08",
+    "ts": "03-08",
     "comuna_link": "",
     "region_link": "biobio"
    },
@@ -96,15 +96,6 @@
     "ts": "05-08",
     "comuna_link": "",
     "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "01-08",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
    },
    {
     "lugar": "Región de Valparaíso",
@@ -123,6 +114,15 @@
     "ts": "03-08",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "03-08",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
    },
    {
     "lugar": "Región de Antofagasta",
@@ -163,42 +163,6 @@
   ],
   "crecida de río": [
    {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "01-08",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Los Sauces",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "01-08",
-    "comuna_link": "los sauces",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "01-08",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Purén",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "01-08",
-    "comuna_link": "puren",
-    "region_link": "la araucania"
-   },
-   {
     "lugar": "Arauco",
     "region": "Bioío",
     "nivel": "ROJA",
@@ -214,6 +178,15 @@
     "sae": true,
     "ts": "01-08",
     "comuna_link": "curanilahue",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "01-08",
+    "comuna_link": "",
     "region_link": "biobio"
    },
    {
@@ -271,11 +244,29 @@
     "region_link": "los lagos"
    },
    {
+    "lugar": "Los Sauces",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "05-08",
+    "comuna_link": "los sauces",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Purén",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "05-08",
+    "comuna_link": "puren",
+    "region_link": "la araucania"
+   },
+   {
     "lugar": "Región de Maule",
     "region": "Maule",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "01-08",
+    "ts": "02-08",
     "comuna_link": "",
     "region_link": "maule"
    },
@@ -291,11 +282,20 @@
   ],
   "tormentas eléctricas": [
    {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "11-08",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
     "lugar": "Región de Los Ríos",
     "region": "Los Ríos",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "01-08",
+    "ts": "04-08",
     "comuna_link": "",
     "region_link": "los rios"
    },
@@ -309,13 +309,13 @@
     "region_link": "coquimbo"
    },
    {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "AMARILLA",
     "sae": false,
-    "ts": "01-08",
+    "ts": "11-08",
     "comuna_link": "",
-    "region_link": "los lagos"
+    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Antofagasta",
@@ -327,13 +327,13 @@
     "region_link": "antofagasta"
    },
    {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
     "nivel": "ATP",
     "sae": false,
-    "ts": "01-08",
+    "ts": "02-08",
     "comuna_link": "",
-    "region_link": "atacama"
+    "region_link": "los lagos"
    },
    {
     "lugar": "Región de Valparaíso",
@@ -382,15 +382,6 @@
    }
   ],
   "desborde": [
-   {
-    "lugar": "San Pablo",
-    "region": "Los Lagos",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "01-08",
-    "comuna_link": "san pablo",
-    "region_link": "los lagos"
-   },
    {
     "lugar": "Arauco",
     "region": "Biobío",
@@ -491,6 +482,35 @@
     "region_link": "los rios"
    }
   ],
+  "evento meteorológico": [
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "05-08",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "06-08",
+    "comuna_link": "",
+    "region_link": "aysen del general carlos ibanez del campo"
+   },
+   {
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "07-08",
+    "comuna_link": "",
+    "region_link": "magallanes y de la antartica chilena"
+   }
+  ],
   "nevadas": [
    {
     "lugar": "Región de Los Lagos",
@@ -529,93 +549,64 @@
     "region_link": "maule"
    }
   ],
-  "evento meteorológico": [
+  "aluvión": [
    {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "05-08",
-    "comuna_link": "",
-    "region_link": "antofagasta"
+    "lugar": "Penco",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "01-08",
+    "comuna_link": "penco",
+    "region_link": "biobio"
    },
    {
-    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-    "region": "Aysén del General Carlos Ibáñez del Campo",
-    "nivel": "ATP",
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "11-08",
+    "comuna_link": "",
+    "region_link": "atacama"
+   }
+  ],
+  "marejadas": [
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
     "sae": false,
     "ts": "06-08",
     "comuna_link": "",
-    "region_link": "aysen del general carlos ibanez del campo"
+    "region_link": "atacama"
    },
    {
-    "lugar": "Región de Magallanes y de la Antártica Chilena",
-    "region": "Magallanes y de la Antártica Chilena",
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
     "nivel": "ATP",
-    "sae": false,
-    "ts": "07-08",
-    "comuna_link": "",
-    "region_link": "magallanes y de la antartica chilena"
-   }
-  ],
-  "otros": [
-   {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "AMARILLA",
     "sae": false,
     "ts": "09-08",
     "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "01-08",
-    "comuna_link": "",
-    "region_link": "los rios"
-   }
-  ],
-  "remoción en masa": [
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "02-08",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "01-08",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
+    "region_link": "valparaiso"
    }
   ]
  },
  "vigentes": {
   "ROJA": 7,
-  "AMARILLA": 6,
-  "ATP": 9,
+  "AMARILLA": 5,
+  "ATP": 11,
   "regiones_roja": [
+   "Atacama",
    "Biobío",
-   "La Araucanía",
-   "Los Lagos"
+   "La Araucanía"
   ]
  },
  "serie": [
   {
    "fecha": "2026-08-01",
-   "ROJA": 13,
-   "AMARILLA": 5,
-   "ATP": 6,
-   "sae": 10
+   "ROJA": 9,
+   "AMARILLA": 2,
+   "ATP": 2,
+   "sae": 6
   },
   {
    "fecha": "2026-08-02",
@@ -679,75 +670,16 @@
    "AMARILLA": 4,
    "ATP": 6,
    "sae": 0
+  },
+  {
+   "fecha": "2026-08-11",
+   "ROJA": 1,
+   "AMARILLA": 4,
+   "ATP": 5,
+   "sae": 1
   }
  ],
  "escalamientos": [
-  {
-   "lugar": "Región de Maule",
-   "region": "Maule",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "03-08 04:55",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "03-08 05:03",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "04-08 15:05",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "04-08 18:33",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "06-08 17:09",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Los Ríos",
-   "region": "Los Ríos",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "04-08 18:30",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "04-08 19:50",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "05-08 11:58",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "06-08 18:31",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "10-08 11:29",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
   {
    "lugar": "Región de Biobío",
    "region": "Biobío",
@@ -777,39 +709,6 @@
     {
      "nivel": "ATP",
      "ts": "08-08 18:23",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Los Lagos",
-   "region": "Los Lagos",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "05-08 17:03",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "05-08 18:36",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "07-08 15:01",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "07-08 17:29",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "08-08 18:11",
      "estado": "VIGENTE"
     }
    ]
@@ -850,14 +749,9 @@
   {
    "lugar": "Región de Atacama",
    "region": "Atacama",
-   "sae": false,
+   "sae": true,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "02-08 06:09",
-     "estado": "CANCELADA"
-    },
     {
      "nivel": "ATP",
      "ts": "03-08 18:46",
@@ -877,6 +771,110 @@
      "nivel": "AMARILLA",
      "ts": "10-08 15:12",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "11-08 20:32",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Maule",
+   "region": "Maule",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ROJA",
+     "ts": "03-08 04:55",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "03-08 05:03",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "04-08 15:05",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "04-08 18:33",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "06-08 17:09",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Los Lagos",
+   "region": "Los Lagos",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "05-08 17:03",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "05-08 18:36",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "07-08 15:01",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "07-08 17:29",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "08-08 18:11",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Los Ríos",
+   "region": "Los Ríos",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "04-08 19:50",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "05-08 11:58",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "06-08 18:31",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "10-08 11:29",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "11-08 11:16",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -888,7 +886,7 @@
    "pasos": [
     {
      "nivel": "ROJA",
-     "ts": "01-08 15:25",
+     "ts": "02-08 19:44",
      "estado": "VIGENTE"
     },
     {
@@ -900,11 +898,106 @@
      "nivel": "ROJA",
      "ts": "10-08 11:31",
      "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "11-08 16:37",
+     "estado": "VIGENTE"
     }
    ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "11-08 16:37",
+   "nivel": "AMARILLA",
+   "lugar": "Región de La Araucanía",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00"
+  },
+  {
+   "ts": "11-08 20:32",
+   "nivel": "ROJA",
+   "lugar": "Región de Atacama",
+   "tipo": "aluvión",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1515"
+  },
+  {
+   "ts": "11-08 15:47",
+   "nivel": "ATP",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-heladas-2026-08-11-15-47-55"
+  },
+  {
+   "ts": "11-08 13:39",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Coquimbo",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23"
+  },
+  {
+   "ts": "11-08 13:29",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Los Lagos",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-san-pablo-por-desborde-2026-07-29-19-05-35"
+  },
+  {
+   "ts": "11-08 12:17",
+   "nivel": "ATP",
+   "lugar": "Región de Tarapacá",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31"
+  },
+  {
+   "ts": "11-08 11:16",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-08-11-11-17-41"
+  },
+  {
+   "ts": "11-08 11:04",
+   "nivel": "ATP",
+   "lugar": "Región de Arica y Parinacota",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59"
+  },
+  {
+   "ts": "11-08 10:50",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51"
+  },
+  {
+   "ts": "11-08 10:16",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14"
+  },
   {
    "ts": "10-08 17:15",
    "nivel": "ATP",
@@ -940,96 +1033,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14"
-  },
-  {
-   "ts": "10-08 15:06",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Ñuble",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-07-12-18-52-58"
-  },
-  {
-   "ts": "10-08 14:40",
-   "nivel": "ATP",
-   "lugar": "Región de Biobío",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-12-16-32-17"
-  },
-  {
-   "ts": "10-08 14:33",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51"
-  },
-  {
-   "ts": "10-08 13:49",
-   "nivel": "ATP",
-   "lugar": "Región de Arica y Parinacota",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59"
-  },
-  {
-   "ts": "10-08 11:31",
-   "nivel": "ROJA",
-   "lugar": "Región de La Araucanía",
-   "tipo": "desborde",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-curarrehue-por-crecida-2026-07-26-20-58-26"
-  },
-  {
-   "ts": "10-08 11:29",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Los Ríos",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-lagos-y-valdivia-por-crecida-2026-07-27-17-51-44"
-  },
-  {
-   "ts": "10-08 11:16",
-   "nivel": "ATP",
-   "lugar": "Región de Los Ríos",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-lanco-mafil-los-lagos-paillaco-rio-bueno-futrono-panguipulli-y-lago-ranco--por-nevadas-2026-08-04-19-52-10"
-  },
-  {
-   "ts": "09-08 19:03",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Los Lagos",
-   "tipo": "otros",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-castro-por-accidente-de-infraestructura-2026-08-05-22-51-15"
-  },
-  {
-   "ts": "09-08 18:09",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-heladas-2026-08-07-12-27-12"
-  },
-  {
-   "ts": "09-08 17:44",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
