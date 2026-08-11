@@ -1,21 +1,39 @@
 {
- "generado": "2026-08-11T08:32:14+00:00",
- "desde": "2026-08-09T08:32:10Z",
+ "generado": "2026-08-11T11:31:12+00:00",
+ "desde": "2026-08-09T11:31:08Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "sbZP_r20eu4",
+     "url": "https://www.youtube.com/watch?v=sbZP_r20eu4",
+     "titulo": "🔴 EN VIVO | NoticiasMatinal | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-08-11T11:30:03Z",
+     "live": true,
+     "score": 8.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "santa barbara": {
    "comuna": "Santa Bárbara",
    "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "IS7RMrXDOgY",
-     "url": "https://www.youtube.com/watch?v=IS7RMrXDOgY",
+     "id": "g-oWnyAVMng",
+     "url": "https://www.youtube.com/watch?v=g-oWnyAVMng",
      "titulo": "Live streaming di Webcam DANTA di Cadore - Dolomiti",
      "canal": "Webcam DANTA",
-     "publicado": "2026-08-10T05:54:53Z",
+     "publicado": "2026-08-11T09:54:45Z",
      "live": true,
-     "score": 5.78,
+     "score": 7.87,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +44,7 @@
      "canal": "Sabes Radio",
      "publicado": "2026-08-10T19:02:03Z",
      "live": false,
-     "score": 4.87,
+     "score": 4.63,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +73,7 @@
      "canal": "Sonaram Birua Comedy & Sports",
      "publicado": "2026-08-11T07:37:12Z",
      "live": false,
-     "score": 7.92,
+     "score": 7.68,
      "verificado": false,
      "embeddable": true
     },
@@ -66,7 +84,7 @@
      "canal": "Club CAB Puerto Montt",
      "publicado": "2026-08-10T15:12:21Z",
      "live": false,
-     "score": 6.56,
+     "score": 6.31,
      "verificado": false,
      "embeddable": true
     },
@@ -77,7 +95,7 @@
      "canal": "Club CAB Puerto Montt",
      "publicado": "2026-08-10T15:13:39Z",
      "live": false,
-     "score": 6.56,
+     "score": 6.31,
      "verificado": false,
      "embeddable": true
     },
@@ -88,7 +106,7 @@
      "canal": "IUMP RIOS DE AGUA VIVA PARRAL DE PUREN",
      "publicado": "2026-08-10T03:18:18Z",
      "live": false,
-     "score": 5.56,
+     "score": 5.32,
      "verificado": false,
      "embeddable": true
     },
