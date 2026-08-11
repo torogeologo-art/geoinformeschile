@@ -1,26 +1,8 @@
 {
- "generado": "2026-08-11T11:31:12+00:00",
- "desde": "2026-08-09T11:31:08Z",
+ "generado": "2026-08-11T15:27:58+00:00",
+ "desde": "2026-08-09T15:27:54Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "sbZP_r20eu4",
-     "url": "https://www.youtube.com/watch?v=sbZP_r20eu4",
-     "titulo": "🔴 EN VIVO | NoticiasMatinal | Canal 9 BíoBíoTV 💻",
-     "canal": "Canal 9 BiobioTV",
-     "publicado": "2026-08-11T11:30:03Z",
-     "live": true,
-     "score": 8.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "santa barbara": {
    "comuna": "Santa Bárbara",
    "region": "Biobío",
@@ -33,7 +15,7 @@
      "canal": "Webcam DANTA",
      "publicado": "2026-08-11T09:54:45Z",
      "live": true,
-     "score": 7.87,
+     "score": 7.54,
      "verificado": false,
      "embeddable": true
     },
@@ -44,18 +26,7 @@
      "canal": "Sabes Radio",
      "publicado": "2026-08-10T19:02:03Z",
      "live": false,
-     "score": 4.63,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "auVmQvOXeUQ",
-     "url": "https://www.youtube.com/watch?v=auVmQvOXeUQ",
-     "titulo": "Santa Bárbara: prisión preventiva para acusado de secuestro con violación y amenazas",
-     "canal": "Canal 9 BiobioTV",
-     "publicado": "2026-08-09T14:29:04Z",
-     "live": false,
-     "score": 3.0,
+     "score": 4.3,
      "verificado": false,
      "embeddable": true
     }
@@ -73,7 +44,7 @@
      "canal": "Sonaram Birua Comedy & Sports",
      "publicado": "2026-08-11T07:37:12Z",
      "live": false,
-     "score": 7.68,
+     "score": 7.35,
      "verificado": false,
      "embeddable": true
     },
@@ -84,7 +55,7 @@
      "canal": "Club CAB Puerto Montt",
      "publicado": "2026-08-10T15:12:21Z",
      "live": false,
-     "score": 6.31,
+     "score": 5.98,
      "verificado": false,
      "embeddable": true
     },
@@ -95,7 +66,7 @@
      "canal": "Club CAB Puerto Montt",
      "publicado": "2026-08-10T15:13:39Z",
      "live": false,
-     "score": 6.31,
+     "score": 5.98,
      "verificado": false,
      "embeddable": true
     },
@@ -106,29 +77,25 @@
      "canal": "IUMP RIOS DE AGUA VIVA PARRAL DE PUREN",
      "publicado": "2026-08-10T03:18:18Z",
      "live": false,
-     "score": 5.32,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "ztJ48odkcys",
-     "url": "https://www.youtube.com/watch?v=ztJ48odkcys",
-     "titulo": "Neu beim puren Android 17: Nutze mehrere Apps gleichzeitig mit App-Bubbles! Super schneller Zugriff",
-     "canal": "BILDNER TV",
-     "publicado": "2026-08-09T15:00:31Z",
-     "live": false,
      "score": 5.0,
      "verificado": false,
      "embeddable": true
-    },
+    }
+   ]
+  },
+  "angol": {
+   "comuna": "Angol",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
     {
-     "id": "wLnbOnMkF-c",
-     "url": "https://www.youtube.com/watch?v=wLnbOnMkF-c",
-     "titulo": "Amader Biani Bazare puren Takle  Janaio",
-     "canal": "Nadia Begum",
-     "publicado": "2026-08-09T11:31:20Z",
-     "live": false,
-     "score": 5.0,
+     "id": "l2x3Ffjc-G4",
+     "url": "https://www.youtube.com/watch?v=l2x3Ffjc-G4",
+     "titulo": "🔴 EN VIVO | TU MAÑANA ARAUCANÍA | 11 DE AGOSTO 2026",
+     "canal": "UfroMedios",
+     "publicado": "2026-08-11T13:05:23Z",
+     "live": true,
+     "score": 7.8,
      "verificado": false,
      "embeddable": true
     }
