@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-11T00:03:51+00:00",
+ "generado": "2026-08-11T04:52:44+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -649,6 +649,13 @@
    "comuna": "La Serena",
    "noticias": [
     {
+     "titulo": "¿Basura o refugio natural? Lo que debería retirarse y permanecer en las playas tras la crecida del río Elqui - Semanario Tiempo",
+     "medio": "Semanario Tiempo",
+     "fecha": "2026-08-10T23:12:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CRVRsS2EyT2k5U3Z5OGc3Y2JIMGJRcnA0Tmtfa0lMMUxHMnQ2Z3RhdDd4cnYwSlU4OTdiT3FNVXZIcFVuYk9uT0Y5SWNZRTE4?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Tras sistema frontal: el debate que abren los sedimentos depositados en la costa de La Serena - La Tercera",
      "medio": "La Tercera",
      "fecha": "2026-08-07T16:24:47+00:00",
@@ -709,13 +716,6 @@
      "medio": "Radio Riquelme",
      "fecha": "2026-07-29T15:25:51+00:00",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeUtRVVdKZUxyamo4T3pkb3VUUFI2ZGxWY3A1SG1OUlZaeUNkVUZHYTY3VWVLXzcxRTZaNmpVVVhxaE9CaDIxdGtnd2MzRk4tTzVJS1F0MEFvbUxXVFZZYkdrQVFiRTRvcF9tQXZIQjNRNG1YZ0NsNWs1OFc3YmJjMXpydnZiTEVZR2FzN0JfczNnZ2lINEpRZ0VjejNDZGw5NzJ0RFY1dUt4OVp0V21RNjFMUEgyd3JIWlBCWkNsRWlkT2Zta0FTbEY3dkVPWkdZUVlMbVc5LXlJMm5OM09KaG1adjQ5RkQwUG1fenN3?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Declaran Alerta Roja para Hualqui por desborde: Informan “riesgo para la población cercana al curso de agua” - Sabes.cl",
-     "medio": "Sabes.cl",
-     "fecha": "2026-07-28T11:58:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdjVrN0lSYUl0TUhlU2hwb0s2U1Q4OUk1WlMtWHczbXhhUlZLYmtnd3RDeUx5RmxMQW41RUIwbWZvN1VnSFFqdW5rNGtUMlVNalVWR2RmQkpZX1k1QThsOXB5RzVZaEJhVUxlSG1TeklmUndXb1kwM3ZyZXltd3ZFZVJYd055ZjhyZmF1T0lPMW9jUlNBOHp0YVJDUDVVZldBQTRyZHlHeGtEbGtPUTI5X0piVVNkeE9kYllISVd4NjFnM3NEOFdjRVR2RldEWnM?oc=5",
      "sector": null
     }
    ]
@@ -1397,6 +1397,13 @@
    "comuna": "Coquimbo",
    "noticias": [
     {
+     "titulo": "Región Coquimbo. Ceaza confirma precipitaciones para martes y miércoles. Hay riesgo de tormentas eléctricas y activación de quebradas - Serena y Coquimbo",
+     "medio": "Serena y Coquimbo",
+     "fecha": "2026-08-10T22:49:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcXB0OUduekdYSHRqSk9QQVltbmVpcXVFWGh5Y3ZpVFp6TThROUN3WnF5eFpFakxnSzVyeUdZdzJKVUhkQmJfWVlaTmp1WkZTNTVPeF91ZHRVX3BMZzdzYUxQbGpiWldOUFF0RVlicjd0T0tsa3R0eGV0X3NtMnVFQlE5SWgwS2ZWTGlYbXVCZXNIWG9vR2JkU1BSVlk5eHpjRUdXb1BId2x1d2FoU05EVTctUXJ1bF94UGE0U29ib2ZEQ2dIbzJTNHVWSFkxWDZ2by1VZy1Ca3JoS0taQldwMVAtZnhiT2dVZWtncXlMWkk?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "\"Aumentos de caudal y activación de quebradas\": Lluvia con isoterma cero alta dejará estos montos en Atacama y Coquimbo - Megatiempo",
      "medio": "Megatiempo",
      "fecha": "2026-08-10T20:00:00+00:00",
@@ -1457,13 +1464,6 @@
      "medio": "Epicentro Chile",
      "fecha": "2026-07-31T17:03:23+00:00",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUTlUOUJadEpBaWhSb1hEZm01ZVNDbjE2ZTAxN2I5WFpEMXR0RHZ3WFRjMU1ZSkU1TFZPbFZFbDVwTE5TNFFyaUl2VC03UDB5UVZieUdxZVkyYXlDQUtOaWtLMXkxTm5NTGRoSDlOaEJaTU5vZ0YtNDZtUFR3QWlQeE14R01FdFE5cnpiV25CM0M3NjZ4SW1OWk9lc2JEeERsdERxUGJOTjNDZEoxZmJTRTJDNlNCdGpncVhSVkFnbFBpRVJHRUlmNUNiSEZvWXVZRG52Tw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Sistema frontal: Senapred declara Alerta Roja en las regiones de Coquimbo, Ñuble y La Araucanía - Chilevisión",
-     "medio": "Chilevisión",
-     "fecha": "2026-07-31T17:00:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa1Y2dERGbVIteDdZcXVkNldhcDZ3d2R2cmdtckNIT1FienAyWUpXRWpJaG5uaUw4OGhzenBrdHNkc09OanMtYUVLdTR1VlY0N1lHQm5abnM5MUdYYXBrckV4MkhMcUFYUlVTZ3NoZ1dOWU9vRzE2YnZ1YlJsUUNKY1Z6NnJfVG9Nb09LSnJkbnV1djRmaEZUQ0F5aFNYa3BFdERLX3BXMmREaXhlbGp4OW04T3NPRWNwZE5CVTNFNmFWcDliMWQ4MDdiVnZOLXZyUk1haVhjRlo?oc=5",
      "sector": null
     }
    ]
@@ -1966,6 +1966,13 @@
    "comuna": "Monte Patria",
    "noticias": [
     {
+     "titulo": "“A puro ñeque” Municipio de Monte Patria habilita caminos provisorios: “No podíamos seguir esperando” - Semanario Tiempo",
+     "medio": "Semanario Tiempo",
+     "fecha": "2026-08-10T23:10:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WRzA4aFNLbTVabG9TM1lMdDRaZktld3FiWjlhZk45MUhEZ3JSZHI3eUM3SUtVZWY1ZENkWlNXaU9DakluWVM1S25rZjlEUUc2?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Criador de Limarí afectado por los temporales recibió ayuda en forraje - Caballo y Rodeo",
      "medio": "Caballo y Rodeo",
      "fecha": "2026-08-03T16:24:00+00:00",
@@ -2026,13 +2033,6 @@
      "medio": "urgente.cl",
      "fecha": "2026-07-18T20:04:58+00:00",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUXlkXzVjTXBUVWtVTkRGY3ZhLUlTc2tQQnZLVlhFVFBTVFpOS1Rldi1rc1kxYXBlbW1VaGZpR3o0ZVp6SW9kMTVuZlgzMGtDTzRjbXRCTEpoU2NjUjJjQ2lqVVlFUnVtYUNMbkRqdC13NnpnbGtSY1R1c01mRm5nbUJBaC0xb3lDazR2bXV0MWVjODFmMXE4REVTSXV1ZDlVTjFOVA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "VIDEO: Impactante registro muestra cuando el río Huatulame destruye un puente en Monte Patria - elobservatodo.cl",
-     "medio": "elobservatodo.cl",
-     "fecha": "2026-07-18T15:47:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWdxWGZya0dlZS1obk1VcWowbGl4eDlTb0g0ZHZRWkdPMUlwR3FYN2JvZ2xfUTlfZDMwcHNQZ0ZkLXpCR0lVMllkRHZpaGhDRnEzSlN2aTlYXzhFUU80NW5uVFVpV3ZJekRHSkhQU0tNT2txZ2J4VkV0YzRLNk1XaGY5QURiVl9QSDk0XzJPeUxndlJMXzgxU0V1MFJuSy12Vm9DTTVZNGRHT25tQzItTzdWVnRRSkJoT3pDbjJLbVlvS3kyenVCUw?oc=5",
      "sector": null
     }
    ]
@@ -2582,6 +2582,13 @@
    "comuna": "Quilleco",
    "noticias": [
     {
+     "titulo": "Intensas lluvias provocan socavón en Quilleco: Carabineros realizó labores de emergencia - latribuna.cl",
+     "medio": "latribuna.cl",
+     "fecha": "2026-08-04T22:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTlhZNmdqWGgtZzlLNkhBVjdGS0haS0V4bUZDTXh1VGc1ZDk2RTNsVnpzRk5RQTdYRGNVa3RfRnZ2NDdwR0xod1V6T1BGNndxcy03Tm00LWtJVGlBVVVUdm8xeDhmVW9ud1p2NVBYaTRyM1RmQ1NHVXFXYlRvd1owZ2pDTWFTS1RyVnZkaDFCRFNkbHM1WTlNMVhiSF9pcnFpT0VPbllEbjlkLTFJbXo4bjNjV0pHUkZXQzVLYndvNHhSeWxBYnVHQ1JtZGg5aXY5Q3hvN0RKMnlhWW5QNzA00gHnAUFVX3lxTFAyNmNVRlVkTWlLbk43b0EtTDJpbnFXRmw0UTExbWVnX00zaE8xSHhoZlpOSi1EOVVKZzZsOHVJMGRfVHE3ME5OWUJUcHplZ0pod0ZDeXpGQWh0eXJNM3EwNkpRRWdzdnRhdzd3MnJTb3piVkhhUm81bWd6WVNDeDVGNF9JVzBZbGpBUnc4c0gwdVRRbXh3bnFSQ2tuSXRwUHU3RENzM3d4aFZGb1dJZ3VZQ3ktSnN1QnVwVHpkek02SC1GN2pZa0VEcUl6MDgydjZMQkZweUFWdnMwUHhmSThsUDJaNmpMTQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Tras Concepción, Tucapel es la comuna con más hogares sin luz a nivel regional - latribuna.cl",
      "medio": "latribuna.cl",
      "fecha": "2026-08-02T22:37:00+00:00",
@@ -2642,13 +2649,6 @@
      "medio": "latribuna.cl",
      "fecha": "2026-07-17T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU0ZXdjdZNGdhaWc1ZHBGU3luUkpEUncxOWNTSk9KMFNIQ2RsZ1czSExfWHJ5aWh5dUFuam1GdjQxZHJjNG9CZ2gydkJSb1BDUlhtUWxqMldQMncwaDY2UFlKUXlwUi1qVm10TWpYX2tGVlJKMFNiLTFoYW5wZHBXbWZoblRxU3NQX2l4TG42MThibXBaTXBtYmtpaENRbi1RSFFmaG5uel81a2ZLR3NJdUE5WHNaLUR6SmNCOWsxU0IxTTdzVVNSOS1pV3FhUTM3a01iNmdmeXRyQmFHVEtsM1ln0gHqAUFVX3lxTE55aU1rZmlRN1p5b1Y3ektHN3YwZm54WmVpQmdqbVJZZFVWdlEtc3JONWM1dFgwcW5VZmpiQ2hSVGdXd1hZM3RWQkJyRnVEMVkwS3F2Mjk3bFJzTFRnS3IyaEF1U3pDZzB0THFvUFBMSGVIZjNIVEMwWnVCeTdUSWtuZ0ZfOHR6cHRlbktHd3NSaEk4enliMi1YMmx5bTZGeEFvdE50TzdHVElucF9PaThXazJOT3dRQk1jRVU4dUMzUTFnSjctZTVJZm9TSWFaQkZmcERmYjJndTNRMVZaclNwcmJ6SGJkLUZvUQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Sistema frontal mantiene miles de clientes sin suministro eléctrico en la provincia de Biobío - latribuna.cl",
-     "medio": "latribuna.cl",
-     "fecha": "2026-07-16T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOFZzdnFwdW05QVVBRnZGb2Y1RXRQMU1QM0F2cDFmVWhFQVF6SmtQdkpFanJIQUdvT1dkMVBsRk9XNWFJS3p2dXlzblBvWGx0ZV9xemZPTXVsWXBxaDk5WTJiQ084RERUT0hLVW5USy00eTVsTTlQR3ROanN0X0d0aVJ0eGpvMUNyd0pYc3Y4R204YWFWZlk3SU9USVdkLXdlX2g5Q1FFQ2owdXZlcnZwY1lSVS1FZHRkNktYUDVLemplSFIxOThuYXgyeWlpcmVCeWRodmZvTUYtT1UxQkY5RWVHMWdjd0lmdFVBWlBmV1NHZ9IB-gFBVV95cUxORU5DbmxpdXVDRGVNcUI5UW9QNWQteEtXLVZfbnpWY0lPcTA4RW1rOUpKUjg1OWExWGFkbjJSU09kcHA4ZkNhOFlzMDJYbjdESVVaU3J5dElTYmt2MEtxc1I4R3p5aUZSX1JIb05WOFUwam5BWnJFYjlzUkVoOE03S3UwaDVyN2JESm9QMlR5ZXFtbkcwNWVIU293RDRhblNsb0RUOVk0cUZxa21NMHczV2FIWm1JVURyNDVMSnE1ZTFyLWZoSGpsM3R4ajBmZVZmaGc0M0FGcHRXS1VaT29IUExzLXNPUDBXazBlNVRSY0FRQW0tTFN5Ym93?oc=5",
      "sector": null
     }
    ]
