@@ -1,25 +1,6 @@
 {
- "generado": "2026-08-12T05:18:53+00:00",
- "desde": "2026-08-10T05:18:51Z",
+ "generado": "2026-08-12T05:19:44+00:00",
+ "desde": "2026-08-10T05:19:43Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "NCPEqEO9wCQ",
-     "url": "https://www.youtube.com/watch?v=NCPEqEO9wCQ",
-     "titulo": "🖥️📱 EN VIVO | 24 Central Red Biobío 11 de agosto 2026 🖥️📱",
-     "canal": "tvnredbiobio",
-     "publicado": "2026-08-12T02:05:32Z",
-     "live": true,
-     "score": 7.73,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
