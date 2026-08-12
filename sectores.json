@@ -1,7 +1,18 @@
 {
- "generado": "2026-08-12T12:07:24+00:00",
+ "generado": "2026-08-12T15:34:00+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
+  {
+   "nombre": "río Pulido",
+   "lat": -28.15641,
+   "lon": -69.878,
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "sae": true,
+   "lugar": "Tierra Amarilla",
+   "url": "https://t.me/SenapredChile/1517",
+   "ts": "2026-08-12T13:24"
+  },
   {
    "nombre": "río Biobío",
    "lat": -37.6573,

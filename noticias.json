@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-12T12:07:48+00:00",
+ "generado": "2026-08-12T15:34:04+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -255,6 +255,74 @@
    "comuna": "Tierra Amarilla",
    "noticias": [
     {
+     "titulo": "Emergencia en Atacama: Senapred emite alerta SAE y exige evacuar dos localidades en Alto del Carmen - Epicentro Chile",
+     "medio": "Epicentro Chile",
+     "fecha": "2026-08-12T15:23:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSEdWaUVOUWF4OGdKc1FFMUpqcHRJZzY0cXU2QllLZkFKaE9pWF9ENG5YdnJ2SmxaUkwxQndkcURPM01BclpUVS1kZWxXSDJsdmpybXZiVWF0WnVZNGdGV2FKVGdyTGhmUHNXYXpRelRwRl82Y2Jaek9WMzQxRlFEcGZyRVR0WWN6eHJfeEZ5QmdQY0l5UTdhRktKdmRZLXJqaFNveE10ZnZkMHcza1paOEVEU25OYkN4VlZTQVZiVTFYUVZFQXdxdTJTR3otZGVqRm5ydzB1eDU?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta SAE por riesgo de aluviones se amplía a distintos sectores de Atacama - Radio Maray",
+     "medio": "Radio Maray",
+     "fecha": "2026-08-12T14:45:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOempVVUFJSUpWenRwcGdvSVRwVjRpTFJpeDAyLS0yeTdlTXJmRVFEMnVNcEtENzZiMDFrUTR3RzBzamxNYXhTVUZ6QzVEelYtckItMVRDdDd0aTV6Z1JSVGpBY0pMcEJJX2VYdWVVeEdkMXozRGJDbGgySlNpUWVYNDF4RV9reFlJYUd1eTNTUmhlLW5XZ0NkdU5MLTRLZ0NvRFBXTFZfQm1NemRITGtFOVVXcm96NFRX?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Tres alertas SAE preventivas y más de 11 mil clientes sin suministro eléctrico: las afectaciones del temporal en el norte - latercera.com",
+     "medio": "latercera.com",
+     "fecha": "2026-08-12T14:17:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPU0xLUlhsNTZkdEZQVnZTMnd4UG9CSHM4czdqZXNsUjhEcVRaSjFiVnVVa0pqM2Y5QVIyRVBMOXhvOTFKWWJPYXJaek1nRmZqVFJ2RFo4RVZHcVk2TUg2UDlMbXFGVV9weGh3S2lXZlZiOFY3Nzk1T1ZMYTVXanlLUXY0bmFsWTNoMURTcjJTMDJYbURPa3JnWGRLWnlEOGJsajB1Z0xLU2dxaHlnTUtqM1pYbzlxeWVUSDlaTGpVR3JBcHhLQ3ItTF9RNDVsb0dIcVRJb1J0dEkwLWtrU3JhZDllajRBbENCRUxmTG00bTBwVE12LWfSAZcCQVVfeXFMT0o0VkNwQWNhX015Nmt3ejkxekxTdEVHeVBvdGpPb2dWb05EYl9yZkQ4WS1iMDUwN241eWNPOVpvWXdMWWZqR0ZrbXdiTVpfM1hYbE1IOHNFa2J4d3Q1dEJDNFVmVkhacUU4Y0UyTzQyQ2NQb3ViSkFiSzJTUjBpMmNfVWxSWDkzTUhtMklrenpIeU1aMTctSXJsN1BDQVBhem1QRWx5Q0M4WG9ybzhBLXl4N0R5OXYtRVB5SHd6V29VNEdlQ2NSQVQwRmJXeEl2Y2dWQm8tNmRzc1E0ME9FaGZOMkR5d0kzZ21lQWJBV3lSQkI2UmhhMFdLVWRZaF9PWmstN2lCM1lzNzhlRkZCVnlWdGhRRVRj?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "SENAPRED activa mensaje SAE en Tierra Amarilla por alerta de crecida del río Pulido: puede favorecer un aumento de escurrimientos - madero.cl",
+     "medio": "madero.cl",
+     "fecha": "2026-08-12T14:01:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnExTFpBNDFKSmpnY2RvUFpKaTY2N05NRkFRMld0RmNRam01YndROGx3aWVURHpWQ3VZOXkzUTdpY19ESWRBSVNzbkVPX25kMEZvZ29uWUQ0ZWxmLVVtUmlkWGV5M2pNOGRfaGJ2VjVRWmZqNC0zQzBseUsyQVJpdGhYOC1fSENCUEVqc3VDY1ZtZC1KQW5JRWVpZjROa2duUDdoTWhsZGpydm9MeWZ4OTREZ256cGs2M0o1cWJIODBfRkRIS2hZU2h6aExSRXRrN3V4WWJ2N0NJMXNfU09jbw?oc=5",
+     "sector": {
+      "nombre": "río Pulido",
+      "lat": -28.15641,
+      "lon": -69.878
+     }
+    },
+    {
+     "titulo": "Sistema frontal golpea al norte del país y eleva riesgo de aluviones en Atacama - Nuevo Poder",
+     "medio": "Nuevo Poder",
+     "fecha": "2026-08-12T14:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ0dxZXRnZmRKRVhNajdVekJLN2M1eXNfd21BYjZYRFFpaXV5aGdJenN3RUU2Y3NTMkhVdTg0ZktfXzZrMi14SGo0YjFGU1VMX1pwQkQ2RFFsbVYxb1dWVlJodXI3RUVIaTZpdkZMUE11SlhLOUJNblRnZUstdVo4WE9jZmFJckdwZk55cDFsZ3g1aVdhMW5fd2d1djg4OUx0YUlKcF9xYzdGUQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Corte de ruta CH-31 en Copiapó por activación de quebradas - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-08-12T13:53:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdVZMdFJtNWNaNjI3S1p2cUllWGNZYThKMDdoTVpROUY3MTdMc2FJWnlNd2tiTjJVTkltTjY0R0cyMl8tMTk0akpkM0RZTUZETlg1TGppRXNfQW8wNmp1Y1VSajZ4ZWRpT3E3SGZMc0NLOFJ4cFl0NE9qdFJ0MlRrclpiamw2NThDUzhLTFV4bXFFendqSUVtWUNmOGprY3ZzbFFmb0h0YWVadnpzNzlZ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "SENAPRED activa mensajería SAE por alerta de crecida del río Pulido en Atacama - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-08-12T13:39:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcmxoX0ttR3BKSDFiYVpiVDhxZ205azNEeXpONlFCMEJSV2NhOGRNZFk4UjRpZm1zM1hBR0UzNnA0OVpySnQzbVI0UnVEZmNyLTQtTXZ3ZDJSdEp3V3Z3aXliUjhISDl1TURHZ25VdlA2Tm5iWllaNWk3S3NZalR6WXViQ25fWmZBeUdKUmlwZGNzMVRxUHlrSlY4ZFd5dDk0NDMxS3k0dUFYdUZOcVMybms3eHRKOHZ5TWhXdjA0dmh4MTdGU0FhaWltY1FaSDV5eUtPSQ?oc=5",
+     "sector": {
+      "nombre": "río Pulido",
+      "lat": -28.15641,
+      "lon": -69.878
+     }
+    },
+    {
+     "titulo": "Senapred pide evitar la ribera del río Pulido en Tierra Amarilla por crecida - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-08-12T13:26:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPajFVM0VxSnNxdWM3TG51VU9rTWF0Q29MOUNUbDNoRTNQa2g2NGQ5V2dWczJacWI3R05uNk1XTVBxLWcxMTdncmdGR21uWjl0YTJITE1CLW1YTC1ZZzFOQUhBTXIybXp0Y0lmMHBEV2ExTjlRRE5JTk1hVC1Od2NtaUNpRmVoeFlFR0VHZGlTMDhvNEp0dF94UWxRT2ZwX2FGeFFmQVkwbUFUVk13bkZUVEhiRXdKMV9JVE9LUVQxbnVVcTVEclBvMVJ4a2lXNGM5OWVtTFN1c2ZYQkU4TEg0VEpn?oc=5",
+     "sector": {
+      "nombre": "río Pulido",
+      "lat": -28.15641,
+      "lon": -69.878
+     }
+    },
+    {
      "titulo": "\"El terreno no está habituado a esta cantidad de agua\": Este sector del norte acumularía más de 60 mm en un día - megatiempo.cl",
      "medio": "megatiempo.cl",
      "fecha": "2026-08-12T04:05:00+00:00",
@@ -266,62 +334,6 @@
      "medio": "madero.cl",
      "fecha": "2026-08-11T19:02:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjZRT3pCVl9oOWI3SjZNeWNEMU9xT0dXNnIzeC10OEQtajZ5a3p3cV9ZVUw2Uk9vVGRQcmdobGdDWWt0MmJiZk9VR2tIWGlBdGVoZkVGVkVCVTBfcWw0akszVWxlbDVPeFI5aTMxNW9RWjI3dTJlcGlOMTlka0Y1cGpaTDdSRkxMZTBSZFltSTBxWFY0eW1sbm5ja21QRkt1cEc3bzE0dkd3V3ByNExNa3hEXzVJSkh4MV9GbDhtdmdSYTlWczh0elZ2eHZsUEFBMXFIQzFR?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "CHL: Inundación pluvial / riada - 07-2026 - Actualización #7 (2026-07-31) - ReliefWeb",
-     "medio": "ReliefWeb",
-     "fecha": "2026-08-01T00:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVl9RZlhWeFJyd0I1a3VjdzhTVmZaRS1NMnJHUHJNNlFXOWMxSlJkQjRydHJWYXA2aXpBV0ItUjRZVUhvRFZqUWlvUDJIbURBaHFvS2FjekhwaDNKMGJnSGJuenNSSS1HZ2NMcWhZT3BnekRCV2tQN05oTWV4NTRtbzVBdVVLRU40bnEtc1YzZXZoTlU2dndIQnFXeFFTOTg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Ñuble: Alerta Amarilla para las comunas de San Fabián y Ñiquén por crecida de río - Radio Agricultura",
-     "medio": "Radio Agricultura",
-     "fecha": "2026-07-27T00:38:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUR5Z3d4Z0RpWW91WGgwRWphc0Y0Rkt5UE8tMkpnam9lQmZuSWx3Z0xXT1pfZlFkLXlnS3dvcy1FLVItdFpFc0RfNjhVbmFEQTVnbU1QSkFhWGljSkhZM3FiVHQwSzA4RWh6UDF4eFhoR1dvZmlRWThJaHdzbHhOZ1E1WnFtaV9xOGNUYWo5U202ZURMRmFmaDA3b25felZQY3VOSGNGMS13MzlnQndhWG1KbkN6YkFSTUtLOG5JZnE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Declaran Alerta Amarilla por crecida del río Chillán en cuatro comunas de la Región de Ñuble - Radio Agricultura",
-     "medio": "Radio Agricultura",
-     "fecha": "2026-07-26T23:31:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUHpEcHlHUk9ZNUZ0dkZVbVo2LVo3LUhIZG5OLXhZMGJFWDd2MDR4RTZhb0JnN2IxbVJzX3l2SjdtbEJGTkZvZnBWeGM1bFFEN1BzZHY3OU5TZjRkZFI0bklFUXJGWlNuWjNkRzROcU12cFlyZDNTZGs3Q1dTZFFqZFJQbE1QZnlrdDdpNDdiaGdoSnZJZXJjV0FjWThiaF9oVDhqMkNDWXMzNWF3ZDczUGZoblpjNWIzOHNMbmxnQUVDWEk?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "SEREMI del Medio Ambiente de Atacama entrega instrucciones para el manejo sanitario de residuos tras sistema frontal - MMA – Ministerio del Medio Ambiente",
-     "medio": "MMA – Ministerio del Medio Ambiente",
-     "fecha": "2026-07-24T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUnhURHgta3NaRkNuSUQzNk5udExvUEZGNl9IN3c4a0NPYXJtUlVZWXJSR2dqUkF3bHRTcDVfOS1Nc3NoQl9JVy0yLWJGejA4bWVwTmVJSlZEdkotWDZEdXFMdlB3NzlRQjZIZUJ0MmxNSDIwWklkM2ZrM3M1aVhZZER0V0l0clBhMzYybTJCWE04SDJtNWNUM3ZyMUNHVkJ4OWRHOEdnWXRMdlpmVThfSmNLemtZUXp4NVlNN2x0NWoyZ3cycXBYQnhlU0VubVpvSHc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "SEREMI del Medio Ambiente de Atacama entrega instrucciones para el manejo sanitario de residuos tras sistema frontal - Radio Maray",
-     "medio": "Radio Maray",
-     "fecha": "2026-07-23T20:21:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaFBRb2N3V09ES1R2d09XLWU2cjJCWVlDXzlSRWJpN3dIZzl3N3pxdVJ6U0lQX2lLZFRya29yOFNsSVZRWmJtcVZ5UmxhVlBzazU5TUNaVldVRmM5OTdlNTI5SnZFNVRhUGN4YV9QbWJBRUVxM1Z3ZDVtZmdNR0RfWk0teVdBdmo5X18wUU1Sc05ZUEpuc3BoR3FlX2hDOUJSc0Y0WHZNdjRzLUZPUm1Xem9WYWRpNXhlc2RwTWRLdWVoVlN1RkZsdnZSUDU4M2VoUnFyaVBoNEJ3Q1hVRlVjZGU0UDlFMC04cEEzZ3JUVjE2TF9jcGc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Trabajador agrícola muere tras ser arrastrado por el río Copiapó en Tierra Amarilla - Panorama Noticioso",
-     "medio": "Panorama Noticioso",
-     "fecha": "2026-07-22T21:14:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGlpN01wUjRmbjJDdDlaaThCbzJwTHd2QVA4Q2VwajVsdS1DZHlTMGJRQmRiYzFaTW9pU2FUOF91emNNWTRjZGFuNlhhcFZGZlVQSHFIQm81akpZMVJFZFA1Qmk5bkdXSlV1WVBOT2hWbzlwU0JTY3hLQWdacUlOaC1VUlVzdHlfaE43X01OSmliT1p5ZUN1R1NtWTNRM3Noa3ZLMmNDUGNCdnczeDNPS18zc2lPa2Fr?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Hallan cuerpo sin vida en el río Copiapó en la comuna de Tierra Amarilla - Epicentro Chile",
-     "medio": "Epicentro Chile",
-     "fecha": "2026-07-22T20:55:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdlphNEpWbzd6NVNXTkJBV1JSbndqNGRVSEtOeURHUlJaM19qeGhhU0dyUUtKWV96ODVaU3lZSERFeXVPSmZNZUNYQ2dZeVJqTmFibnQ1eGJqMnpPampiVUpDd2ZEallDQUpIVFFwVGJQUzdoX0hSVHhLeWkxNG1ScThVSFlPMUtHOUxoTWZnRTZ6bUxYMjFKMlBOMFdua0UxRWNpclJNOWpTQWF2bnhTZm1MU0NWdw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Trabajador agrícola fallece en el río Copiapó: sería nueva víctima fatal por precipitaciones en Atacama - SoyChile.cl",
-     "medio": "SoyChile.cl",
-     "fecha": "2026-07-22T15:40:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcklOQVZWdnhkQkVkUG4xbEd2dUN6eVpfMXUxeU5ZWFhFaUhTanlLeGtRR3NHTm41ZTBkUG15Q2RaTlM2Nk8tVGFROVJPX3I3MWZ6dklFU0pxTWJfRnd4QUdvNVFJbHpYcmgzRE9xLWpST293VlVTRDFNUzdXajZFMi1jYTdhNGhVQjNYakZ4WQ?oc=5",
      "sector": null
     }
    ]
@@ -3189,6 +3201,156 @@
      "medio": "noticiaslosrios.cl",
      "fecha": "2026-07-28T22:49:24+00:00",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT21wSTFDWG9zbmxzSmdUS3lIbnRhdlJwcnQ0eGZ0cEVTUlNfZEs1azJGWThSSjgwZFhGV091NTFldEFMbHlxNW5hSlVRTElBYy1GbGFxdVcxZmVfRkNVaVM0cUdHcmNzVjFJMmNXYTUtZ0tyZGpjdUJWaXZvUFlmc19fclNlWGhIUWx2QW5mWXZiMXh5b2otZEZsY1NVS20wTXd6SGhOSXpMR0Iwd2JDUDBQTUdPZzdkenFvX0tnVFh5ZGJGYmd5aWlObw?oc=5",
+     "sector": null
+    }
+   ]
+  },
+  "diego de almagro": {
+   "comuna": "Diego de Almagro",
+   "noticias": [
+    {
+     "titulo": "SENAPRED alerta peligro de aluvión y pide evitar quebradas en dos comunas de Atacama - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-08-12T14:45:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRVQtT0ZoYWlyN0VZWHcyenI2SGU4UXRhZldqTzVkQ1EzYVpScFp4eHpTNVh0YTRlS0RoaVBkVERHX0lEOXFNTWRpS08wOEVWVGlKUmtmWTl5MVVXOWJZeW4yX0tRbkhqN2FEa3gzTWRxaWZvRU5VZ1M5d3dPakYxSzZyN3VZOEl1M0p2TG92ZXlrVHNnWmEzZTJxSlRjZHZJWm4zRkhxMWx5MkF0Y004U0gwbHlqVkhia0FESlplV2ZWRHdKN0JMTW1iR2VKYm50V2tFVElHVGJvdERq?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred pide evitar quebradas y pendientes en Diego de Almagro y Chañaral por aluvión - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-08-12T14:21:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX0t2NzQxU0xCQ3k3R2xCRzh1YXMzLWNwa21zaE45Zm5jbHJQblRVQVh4ckFHSjNWVmlWdXZnbWNDWmstNXVaak5lYUs5ZUw1OEh1b0VncGJEZ01aR0MwM3RIVERfaE04akxtd3RBVEZnaGdLM2xlVUNJNnlZTDA5aTBQOVZZV3JBeFZVWVpmQ25BdkJkb0Q3MGd3Sk5wQk1KQW1KZFJnSHI0SHI5RHhrY1RsQm8wMHhBeExiZEJJcnctRnNwQmV3Tlgtc1daSXVaVVliR0duSzF6MDJIVDhaaVdzWV8zRnhpNHM0VVI2NkREZw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred pide evitar quebradas y pendientes en Diego de Almagro y Chañaral por aluvión - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-08-12T14:15:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYUhUbldkc185dTBhUG1aRU9pTXFKQVdZZVlwVkU0eEwyOEowQWdLazZTMHFYOVBySElmbjZnV2FZYUxXUWM1TUJNTTNtWEg4YXZWcGlOeVhqS0hfSmJSaGprNW42Rk1wWTFYeDdMZWc2NGtiVjM2dHpvTkRjSTB5M0xoaC1NaFBVc0hRRFM3dkVYbTBGVnRKVFoyakhoU1BkekVIV3haMWpNN2lxR3hiaGd4TERmeUs4TF9XSDJiWmpGdG1rQi1QaFR4VlBLOEV4MVJheEVxT0t1NkpraEh4NElhbC1pQjRtTEhfU2gzTQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Organizaciones de Diego de Almagro recurren al Primer Tribunal Ambiental para impugnar aprobación de proyecto BESS Pueblo Hundido - Radio Atacama",
+     "medio": "Radio Atacama",
+     "fecha": "2026-07-28T12:14:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObGY2OXRCdWIyRk5BQ0t1T2xHZEVMY0Q1X3lvR2RzT0llOXlwVlV5blYzT1o5dG9ldUlkczQtMHNkSGhyR0xuRjYyWlNZa0RlN2V3SEJ5eHBTMTF1UDRuZEF1VmY2T214cjladk8wd3MzLTgyV3IyUXoxZUFKTUZEZnBEeGdwUDl1U0Fxd3JNYnFBMTJKVXFsZ0p6TjZsTGFCUUlQWkZ3YVBqZlJSR25MV0JnM3o2WDJPU20xaG4wbk9zSVVPTHRuekllX0htdzIwRVB3ZHFmWlZoUQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Emergencia meteorológica en el norte: Senapred reporta más de 200 afectados y 60 albergados - Meganoticias",
+     "medio": "Meganoticias",
+     "fecha": "2026-02-24T08:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb19VX0ZhMXUwOHRFY3JsYWw1VmVfQ1dJZ2NkY2VCdXEzRGNWSXpDMmJsVHpSSTFIa2psX2Ztb1hFSTlORDh0VGQ1RUNmRmJfcHdlcHlXT21iWkJfOUgxWnpnRURkSFN0djdLa3JlZ2hKdC1SMndSMENMbGlBNFZIZFd5Y1FraW15S3VnQWhna3JxX2dzMDh5MWR0THJYWFBjTS00bFJKVnp5c2Z3czFyTGdmR25ydHdUMG1qVnNnQU5vdVMtOE85MlBvU3haR2FWeFhuR2JudndPZEHSAeABQVVfeXFMUFFXT1JIRmVNa3djZVktbEhiSnJFMnhvUFNqNTV2c2lNU2IwXzdHYTdWV3BFcEYtQ0RiVWxSaU8wc2loNUEyck1YUzNnRHBjRG1tYmhTUGJfSnh0bjF6NzVUMFVjRmRwLUVTM3pWMjR6a2JvX3Yxa29HcTU1YWZrS2xud2Rob3oycTJXdVNIUE5JeFZRcGlDbUwyREkxRi1WTm1iOGhqS05NMzhTemtFU3JZVWZZSTQwYS1idzRtTmNQUlJmT3ZvWEp6bk4tN29PTmtFOFg5QjZpUmNndjliUHU?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Impactantes videos muestran aluviones e inundaciones tras intensas lluvias en el norte - 24horas",
+     "medio": "24horas",
+     "fecha": "2026-02-24T08:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWms1bkpOVURXUF9iYW9GVFVfS2dSdHlUMjFLR3gzY3NUbjJaM2VGbGN1ZVJaSmYybHFrNHZEWGV5OVJJb1JZbENCd0R2LVZ4NlI0YURXWkp4b1VBbW5Pdi1XWkpEWUlyb0hrdHkzTlFtYjVUQ1NYc2s3b2VvTllESXM4QTlmMXd3R2Qxb0lDd0NlU2ZXNUZwMm1QRHZaYkhaVHfSAacBQVVfeXFMTzNBSlJBRjFWdk1FZzU2UVlrWUQ4ZUVQSHlUbWNGZl8yZFNwTF9oMXotRzJXMlVRZXNnLW1KdkRpUERKdl9mTDN6a2hBNlk0WTUyd0t3X2tMZE1YcTdhekU1bjA1OHNHU1JIMG5BaG5aUThCWmdRTTNRNEp2Vk5Xd1h2bVhsUkhLUWoyVXhzRUNKRHp4TW5RMDhwcmExM1NONEkyRVNsWDQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta por intensas lluvias y tormentas en Diego de Almagro: reportan 240 personas damnificadas en localidad Inca de Oro - latercera.com",
+     "medio": "latercera.com",
+     "fecha": "2026-02-23T08:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaHNGWlI2VmNNd2RHTklEWW85Ti1yUk5lRG8xTGswN01XaERMc3NjME1TWnpwMFRMdlZXazU4WUtXOUxrbHdGV2hnS2pRMjd2d2JaUnlYajBRV0NmOGRfOXRXYXNBQ0F1V0MxMk9mQWNlQnVLM1BSam5UQVE2NW5GTVIxVW10cTB2Xy1CdkUzc2xiTVY0cVhJOVJUNGNSMFI1V3E1dE03VU50NHdoMkdEYlg0UFZRYjBWQzZfdnlxMGQzS05mRHlvSFNJdXA1VDFEaTFVVGxJOWFQbnVjVVFmamNEQnZXa0pxaFhSWHBnZndRdWJScmfSAZcCQVVfeXFMUFZzYy02RWxfcDZVNTZvT2kzd1N4ZHJwRGN2VGlqSzlLZjJJSW5SZHExLUx0ekx3MEhqUXBTbUdtdkNYaTZPX2R0VFg4UGpwRG0yMlRaSFRvUHcybHhoQm9YblhsT0NOeDFPcFhMNnZ0aEpkYUZQU1JUU05ZeFo0NFNnSjBnTkpORTIxQXllV1hpRENNdkEzY081OFdoaFBFMGZHd2Z1aFFfOTM5R19LMklSUndiMGZZVjAxRXVuS1Jad3MxRUNlS0NlaENzaEVNTVJUYjMwMVBvZUFVNlVoaFplT2tQWlVCZVNQb1hTWThHNlh5YTBOd0hkNG1UWVBLNjM4dkxSUG83MmdYRjNTMXVPZ0dpelhZ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Cómo los aluviones de Atacama cambiaron la GRD en Salud - Ministerio de Salud de Chile",
+     "medio": "Ministerio de Salud de Chile",
+     "fecha": "2025-03-25T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ1RaZGEwdEY2ZFpvU1FESlZJVXg5ejZLX090eFVvYzhYYlQ0M1RySGdwWEJETEsxTWU4SDZIRHFzaTlxNWViQzJuRmxGWUpkNGpiSWhqNVA3a3VqQV9xOVZtN09rbVN3Nm9ETC0xTEtPYzlUOXJFYlp2UXh5eHRadGtsR2padUZZYnc?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Diego de Almagro: A una década del aluvión, un relato de resistencia y solidaridad - sscc.cl",
+     "medio": "sscc.cl",
+     "fecha": "2025-03-25T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdW04UHZUc1dER0NpdDV5QjluYkw2U19lRGw3azc1UTdQRjBacUNIdFA1Q2pwSFNmNURJWVJlT0xiNWZ1R0hQZjFGWHI2elZGMEFMWGhZTjdRWDVQamFzejd4WVg0N3Z4WUx3YXh4cUx1VTAzOWpkaERTc2ZBS1JtLWpsNHhNZ09leTVPRVJMeC1zaFY4djZWb0JoTXhtbUgzMlo0?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "10 años desde los aluviones de 2015 en Atacama: Una tragedia de heridas abiertas y promesas a medio cumplir - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2025-03-25T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc0NoNUJpS1lSY3BnUHJPbUc0d1NRNmJDRWdJUi1CZS1MQWIyX2JGSnh6WTJpYkdJWm9OXzdkVU53WFN5dkNIUEw2LVVaeXRhVFUyTmdyM0hjNWtTcHYxU0pMVjRDTjY1OXFCdmdBODNHZFpnQVU3NWZ1SEgxYlpBd1ZMNDFTZ2Y0SlM0SXF4WWlIS2Q2UWlFcDViZ2lUb01nbFpOTjJkXy14dHlsSXVqMmZEelpiUTFaZWZFVHhXRkZiT1Utc253eWxFYmYxQQ?oc=5",
+     "sector": null
+    }
+   ]
+  },
+  "chanaral": {
+   "comuna": "Chañaral",
+   "noticias": [
+    {
+     "titulo": "El Viejo Roble: la historia del chofer minero que perdió todo en el aluvión de Chañaral y convirtió la ruina en la perla gastronómica de la carretera de Atacama - The Clinic",
+     "medio": "The Clinic",
+     "fecha": "2026-08-07T16:35:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNWGlDTHRKWWt2dWxvVE9JX2VTNklNek9Cd0xFcWU1TEVrdGp4d0doTTRsRWhqa1ZrV0NURl8xNnVVcHpfeU92LTZvU1lWSGgxWWZjNkFuVVJ6Q0NEU1pzXzg2YURhU3AyUk16ZmNJNVhFZU9qRC04LUd0YUFuRzdKNGt5SWNmMU43SjlOVUY3OVpzMzIya2gyNWp4VEVnWmktMGhZb1Y5Y0NkQ29FQkQtcENoeDZjR0hNMTlQQUNoNE5sMkVxY3pmZzJqaXZaakwzbERQb3RTMTEydVBCcjktNktSU3o2M1hHbjBkYW9ObUcyU0RZUnZRbHgzdVJjSkM4bVBfemVDalQwLU9IbzRYM3d4d1J2cEFJeGc1bi0xdkNMd9IBpwJBVV95cUxPTDlSdXN5VVBGMWkwUzJWeDZQZXBScUl6OFE3LXc1b1RNTkxmUjF0THpTRlBSNF9Yd1o0V3A5b2tjd2d3LVBsLThVZklUWUJkY1JoYkRPb1MwbHhOUGJlZldfaXlPQUNHSF9Canp1enBxSlE3NTkwMUV6OXBWNW40WlcwNUFQZWNWUnlIUU9OVGdqNm9BMnB3Z1JRZnFyMklkaEowMEhaSnNlYlRhMDR2UGtUMFotMHRaS3pIZVJKU2FyeWxxMU55NnVoWi1pcGFESFdFLXhQMjBHUTEtcm5Cd0pIQlV5R2FsUDg2ZndVVFR3d2JRY1p2S3RnRWgzUDhlRXJlU2F1Y2tQdU1mMTdPbjgydmpuNkd5U3JGcjlJZFBUeTk5WTlZ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Once años después del aluvión, Chañaral aún reclama preparación frente a emergencias - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-03-25T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEFUeFk2MW5EU3VleklWMUVGYmthN1FYR3A2dW5qcWxBQzk0a21qVHdDTWdZaTR5UDRBSXpUQWZfQXl1Rm5rZ29wai1ZTDUyY0RXRVRQZ3dOcmt4YW9rR2o3WXVITldzMXBSbmRWdXJSc085Y0ZlcjRPMERaNjhuVlJnZUNwZFc4bUs1ZzhQM2pjZmtTcW8yU3BkVTkwZl82NkZWdzlXaDRXRWh4eHh3?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Estudio revela los factores que potenciaron la inundación y aluvión de Chañaral en 2015 - Cooperativa Ciencia",
+     "medio": "Cooperativa Ciencia",
+     "fecha": "2025-03-25T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeFgyYjJfRUNiN2kzaWNLaGRXRUhHUDVkUm9KN1FpNHczay1ibExjeU1CaHI0V21NTzMtVzVwa0lVNWFOVEN4S2pkV0YzaFQ3QXJsS215U19UdlRSMU9FcGZ6ckxKZy1SN1ZZWTdrbnFrcWlHNXhJcUtDVjBzMlpnZ2RtMEREWHRiNWFTNnZuaXd6SC05ZUNsUGNwRjdLTmZmQWx3dVIyX0s3cmNacHV6Q1pnRzNIYTBKV196RlM2MEVxTGQ1YjNMcGpfVl9yUm16eWVsZWljZURXSWpj?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Aluvión en Chañaral: encuentran con vida a tres de los cinco desaparecidos - El Dínamo",
+     "medio": "El Dínamo",
+     "fecha": "2020-01-28T08:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeVBCTHBwaE5nSncwNC1xN0NZVGhJRmEzbGFNSzJNTW52bnpBYTBlTGNNTmcxRnY3aDFXTTFvWk5acjlzTE0yUG92OXQxN2Rma2J6ZVBDZHg0cXIyNGJTeW5QWnhaTGRuZ3l6bFczVktwQmlhN0RNdmE5RlZFMEkyUVp6WnQwQQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Retiran piedras acumuladas en el alcantarillado de Chañaral desde el aluvión de 2017 - Cooperativa",
+     "medio": "Cooperativa",
+     "fecha": "2019-11-11T08:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMFRqSzJSRmJwYUlwRVJRM3pZWU9lVDlHcVRaMTU2UWZfbXplemV4NlNKQ3NUaXkwUkdUQ0ZPaU1wX3VDNzY5Ylh4SFpwbzV3V3hBcHVZWW1lYkFsRVRMV05hczNrS1ZFRDRkSDZIUDZsVnFBMjdINkk3WVY0TXVvVDkzLXQ5OFZ2TWQ0dmpsMm1iWnllVXZpVThQTHEzc2RlbFBaRWVMek82aG03ZGF2bllGZE1CUzg2RHFERWVtNlVMbHNwZy1MOTNRd2Q1amRJSkZLVk5XUm5XVEtXellPYVA5QnPSAYwBQVVfeXFMUHdOXzNIWDRMdVJsb3R1QzFJNC1ucXZVRkRWcG5oQkZQWHBrV3ZyWnVWWkVIZ3lBaVo2eDJLdmUtTFB5WEhiWlZ0c2Y0S25XZUVocmtwNXJpWklGUURWdUFydHdTQ213NFhFM1ZfbVdZdTlhMVN5OE5IcDI0dkVmeE9kbUdQREdvbDMzZDU?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "\"Circo ruso sobre hielo\" vuelve a Chañaral tras sufrir la destrucción de material en aluviones - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2018-03-20T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWXFnbWZtbk5wN2h5eUs5Q3ZZelBGOFdmaDhLY0k5MjFMOUVOMkZ1clBZM0lpRzNUdVpvNW0waUsyWUhPVVhpTy15enQ2YThUYjEyZ3NuSEdfQjlYOTJKUWJsTU4xVFpKQU9vY1daYldsSlNFbUdOMEpuOFRfSWs1V3FtU0FJN29sYnRqWTF3Q0g4a3ZISnZlcXhNQnUweWk4V0ZjZVJPY3gyZXdGa2Y4NlZRZ2Nmd0tBVEdFRUpYVHNXQnBsTU90dVdvNUp1TW9fYldVZFpiSTZwR2ppRUdFRnFkV0lLZ0x3aVQ1Rg?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "A 3 días del aluvión en Chañaral: Versiones entrecruzadas, ocultamientos y precariedad - La Izquierda Diario Chile",
+     "medio": "La Izquierda Diario Chile",
+     "fecha": "2017-07-08T11:54:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2JOeVFZYktiaUJZQ0dBQ1lVSS1FNTFKNURYeU1rNUVTcWlxam1WSG5WcWUzSmh2YUVrcTk3QzRZVVNDR1dQdDJib3RhTzZCaHNKUnNEejdlX0NkZkpRLXdDXzhDeFlYRkxpbWt4QlVXYUprZHRkclEtMDdYYTF1d0JUNVd4YW5UZXFxRkxrWFlCak5hQXJuZDFOUmFyNHRPVUo0OFFGTDZ0ZmYzY3otQnRjR2Y2ek050gHAAUFVX3lxTFAwXzRfaGYzTkhiVU92b1Z5MWZ2MVlCSnBtdGtDamJ5dktQMjM2WDBzYUVOVkdCNGR5NXVEY09uWTE5dnZfckZHLVNReENWUW02TFV2YXljZ0kzV0xsQUF3WW42SVV3TmdMUkxyZm1QZGVMTllOeHJkZlUxWlZESDlXeXdTNzNFRG9uajlrWU5EM2V5ZTgxNzA4TVpaYV95X2pCYlhYMzdtUEJYRjNLOXoyY1djOG5rNGg2ZXA3NllPTw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "La polémica idea de reubicar parte de Chañaral luego de los aluviones - elciudadano.com",
+     "medio": "elciudadano.com",
+     "fecha": "2017-05-23T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUEpFZE1CbnNLaXY2UlRweVpXVzlvUkFhX2N6QWxObVotMG5Dd21aZU1maXp3bHRGOGxuOEVXT3NuSkJUclVJcTlPMXdxekZ2VHNfNllaSFR6S3UyQzZ1RnlXNkJzcWRtSGdESDRWT3dVeVlFVDZHY2E3anBTdUNwSENBR3Y3X2IwXzFoUWUtaVB5MmtFcV9LRGUxQVBSQTFYbS02ckp6VVJQbzZoMDlKcVZJWExfNUp3dWpj?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Fotos aéreas revelan el impactante estado en que quedó Chañaral tras aluvión - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2017-05-19T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaHdYcVpRZHZCekxDc296RzZYVXhIS0NFVkd5Rnk1WjdDeE9pcmJKdW1yTF9BZy1vUVpKUE1RcmoydWx0RjJUNlRiOVRwMEVzZ1pIUGdNa2ZBWnBMRTc1WU1QcDFDLWZ3Mm0zejM1eWV1RE1JcEFPTUF6ekZ4bXFHSUpyc3BCTm51bVRrNXBRbG53aDlsUldfZW9KVXc3ZnRZWlVaNHpKN0pPS1UwSDVLS09nOGxXazd3aGdueDg1WGhYbU1iTTdwSl84bV9BWTE1bGZUb3dLYm9sWXlZaUxWd1ZqWlNkcVVZRVp1eQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Chañaral y las medidas truncas ¡para que nunca más! - uchile.cl",
+     "medio": "uchile.cl",
+     "fecha": "2017-05-16T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQTl2dDdNd1FRYVBQbmtyeVo2c2dxTlNHMVY1QldpLXo1S3pndE03NU1ROGt0X0tMLTBrNWQ5LUJEZFNETkpPaUNJd0NRR2hRMlA5VklyZGtheXVvcVFaeWp5WWZBZEZsX1dTbVp4SGF0WEg5Q3ZkbmFHWVVwVlF3dndLV0xIM3VyeEdYWjQ2M3M?oc=5",
      "sector": null
     }
    ]

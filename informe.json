@@ -1,19 +1,19 @@
 {
- "generado": "2026-08-12T12:07:53+00:00",
+ "generado": "2026-08-12T15:34:10+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "02-08-2026",
   "hasta": "12-08-2026"
  },
  "totales": {
-  "alertas": 121,
-  "sae": 11,
-  "comunas": 7,
+  "alertas": 127,
+  "sae": 12,
+  "comunas": 10,
   "regiones": 16,
   "por_nivel": {
-   "ROJA": 24,
-   "ATP": 61,
-   "AMARILLA": 36
+   "ATP": 65,
+   "AMARILLA": 37,
+   "ROJA": 25
   },
   "por_tipo": [
    [
@@ -22,15 +22,15 @@
    ],
    [
     "tormentas eléctricas",
-    28
+    33
    ],
    [
     "crecida de río",
-    20
+    21
    ],
    [
     "desborde",
-    11
+    10
    ],
    [
     "evento meteorológico",
@@ -251,6 +251,15 @@
     "ts": "08-08",
     "comuna_link": "",
     "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "12-08",
+    "comuna_link": "",
+    "region_link": "antofagasta"
    }
   ],
   "crecida de río": [
@@ -318,6 +327,15 @@
     "region_link": "biobio"
    },
    {
+    "lugar": "Tierra Amarilla",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "12-08",
+    "comuna_link": "tierra amarilla",
+    "region_link": "atacama"
+   },
+   {
     "lugar": "Región de Maule",
     "region": "Maule",
     "nivel": "AMARILLA",
@@ -337,15 +355,6 @@
    }
   ],
   "desborde": [
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "02-08",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
    {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
@@ -407,6 +416,15 @@
     "sae": true,
     "ts": "05-08",
     "comuna_link": "arauco",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "08-08",
+    "comuna_link": "",
     "region_link": "biobio"
    }
   ],
@@ -519,9 +537,9 @@
   ]
  },
  "vigentes": {
-  "ROJA": 7,
-  "AMARILLA": 4,
-  "ATP": 10,
+  "ROJA": 9,
+  "AMARILLA": 3,
+  "ATP": 8,
   "regiones_roja": [
    "Atacama",
    "Biobío",
@@ -531,10 +549,10 @@
  "serie": [
   {
    "fecha": "2026-08-02",
-   "ROJA": 5,
+   "ROJA": 4,
    "AMARILLA": 1,
    "ATP": 3,
-   "sae": 2
+   "sae": 1
   },
   {
    "fecha": "2026-08-03",
@@ -601,10 +619,10 @@
   },
   {
    "fecha": "2026-08-12",
-   "ROJA": 0,
-   "AMARILLA": 2,
-   "ATP": 1,
-   "sae": 0
+   "ROJA": 2,
+   "AMARILLA": 3,
+   "ATP": 5,
+   "sae": 2
   }
  ],
  "escalamientos": [
@@ -681,11 +699,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "AMARILLA",
-     "ts": "05-08 17:03",
-     "estado": "CANCELADA"
-    },
-    {
      "nivel": "ATP",
      "ts": "05-08 18:36",
      "estado": "VIGENTE"
@@ -704,6 +717,11 @@
      "nivel": "AMARILLA",
      "ts": "08-08 18:11",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "12-08 08:30",
+     "estado": "CANCELADA"
     }
    ]
   },
@@ -832,6 +850,69 @@
  ],
  "cronologia": [
   {
+   "ts": "12-08 10:53",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51"
+  },
+  {
+   "ts": "12-08 14:14",
+   "nivel": "ROJA",
+   "lugar": "Diego de Almagro, Chañaral",
+   "tipo": "aluvión",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1518"
+  },
+  {
+   "ts": "12-08 09:47",
+   "nivel": "AMARILLA",
+   "lugar": "Región de La Araucanía",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00"
+  },
+  {
+   "ts": "12-08 09:44",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-08-11-11-17-41"
+  },
+  {
+   "ts": "12-08 13:24",
+   "nivel": "ROJA",
+   "lugar": "Tierra Amarilla",
+   "tipo": "crecida de río",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1517"
+  },
+  {
+   "ts": "12-08 08:52",
+   "nivel": "ATP",
+   "lugar": "Región de Tarapacá",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31"
+  },
+  {
+   "ts": "12-08 08:30",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59"
+  },
+  {
    "ts": "12-08 07:48",
    "nivel": "ATP",
    "lugar": "Región de Arica y Parinacota",
@@ -893,69 +974,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-heladas-2026-08-11-15-47-55"
-  },
-  {
-   "ts": "11-08 13:39",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23"
-  },
-  {
-   "ts": "11-08 13:29",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Los Lagos",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-san-pablo-por-desborde-2026-07-29-19-05-35"
-  },
-  {
-   "ts": "11-08 12:17",
-   "nivel": "ATP",
-   "lugar": "Región de Tarapacá",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31"
-  },
-  {
-   "ts": "11-08 11:16",
-   "nivel": "ATP",
-   "lugar": "Región de Los Ríos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-08-11-11-17-41"
-  },
-  {
-   "ts": "11-08 11:04",
-   "nivel": "ATP",
-   "lugar": "Región de Arica y Parinacota",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59"
-  },
-  {
-   "ts": "11-08 10:50",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51"
-  },
-  {
-   "ts": "11-08 10:16",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Atacama",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
