@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-12T18:41:21+00:00",
+ "generado": "2026-08-12T21:27:01+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 19,
  "alertas": [
+  {
+   "id": "e7ddaf932091",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA134 Tormentas eléctricas en pampa, precordillera y cordillera de la región. 12-08 12-08 Abrir aquí Aviso 388-6 Viento normal a moderado con probabilidad de tormentas de arena en Precordillera y Cordillera. 12-08 12-08 Abrir aquí Aviso A404-3 Precipitaciones normales a moderadas en Pampa y Precordillera. 10-08 12-08 Abrir aquí Aviso A406-6 Probables tormentas e",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-12T17:05:09.099-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "6154f3a51eea",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA130 Precipitaciones moderadas a fuertes con isoterma cero alta en Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera 11-08 12-08 Abrir aquí Alerta AA131-4 Tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en la región. 12-08 12-08 Abrir aquí Aviso A388-6 Viento normal a moderado en Cordillera Costa, P",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-12T16:34:04.044-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "854406ac6be5",
    "nivel": "ROJA",
@@ -86,20 +114,6 @@
    "regiones_extra": []
   },
   {
-   "id": "6154f3a51eea",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC ), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA130 Precipitaciones moderadas a fuertes con isoterma cero alta en Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera 11-08 12-08 Abrir aquí Alerta AA131-3 Tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en la región. 12-08 12-08 Abrir aquí Aviso A388-5 Viento normal a moderado en Cordillera Costa, P",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-12T10:53:49.4949-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "e3988d49ed95",
    "nivel": "AMARILLA",
    "tipo": "tormentas eléctricas",
@@ -124,20 +138,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-12T09:44:48.4848-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-08-11-11-17-41",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e7ddaf932091",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso 388-5 Viento normal a moderado con probabilidad de tormentas de arena en Precordillera y Cordillera. 12-08 12-08 Abrir aquí Aviso A404-3 Precipitaciones normales a moderadas en Pampa y Precordillera. 10-08 12-08 Abrir aquí Aviso A406-3 Probables tormentas eléctricas en Litoral, Cordillera de la Costa, Pampa, Precordillera y cordillera. 11-08 12-08 Abrir aquí Avis",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-12T08:52:32.3232-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
    "origen": "senapred_web",
    "regiones_extra": []
   },
