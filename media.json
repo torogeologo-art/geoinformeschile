@@ -1,50 +1,21 @@
 {
- "generado": "2026-08-12T12:07:52+00:00",
- "desde": "2026-08-10T12:07:49Z",
+ "generado": "2026-08-12T15:33:03+00:00",
+ "desde": "2026-08-10T15:32:57Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "atacama": {
-   "comuna": "Atacama",
+  "diego de almagro": {
+   "comuna": "Diego de Almagro",
    "region": "Atacama",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "gtFY7ugPvCE",
-     "url": "https://www.youtube.com/watch?v=gtFY7ugPvCE",
-     "titulo": "EN VIVO DESDE CALAMA - Primera edición de Punto de Prensa – 12 agosto 2026",
-     "canal": "diarioenlalinea",
-     "publicado": "2026-08-12T12:03:51Z",
-     "live": true,
-     "score": 7.99,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "Jc7HiBVztuo",
-     "url": "https://www.youtube.com/watch?v=Jc7HiBVztuo",
-     "titulo": "🔴 EN VIVO | NoticiasMatinal | Canal 9 BíoBíoTV 💻",
-     "canal": "Canal 9 BiobioTV",
-     "publicado": "2026-08-12T11:30:05Z",
-     "live": true,
-     "score": 7.95,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "NCPEqEO9wCQ",
-     "url": "https://www.youtube.com/watch?v=NCPEqEO9wCQ",
-     "titulo": "🖥️📱 EN VIVO | 24 Central Red Biobío 11 de agosto 2026 🖥️📱",
-     "canal": "tvnredbiobio",
-     "publicado": "2026-08-12T02:05:32Z",
-     "live": true,
-     "score": 7.16,
+     "id": "gzvoFYiUzY8",
+     "url": "https://www.youtube.com/watch?v=gzvoFYiUzY8",
+     "titulo": "Intensas labores para contener eventuales aluviones en Diego de Almagro",
+     "canal": "Teletrece",
+     "publicado": "2026-08-11T21:46:33Z",
+     "live": false,
+     "score": 4.52,
      "verificado": false,
      "embeddable": true
     }
@@ -62,7 +33,7 @@
      "canal": "Webcam DANTA",
      "publicado": "2026-08-11T09:54:45Z",
      "live": true,
-     "score": 5.82,
+     "score": 5.53,
      "verificado": false,
      "embeddable": true
     },
@@ -91,7 +62,7 @@
      "canal": "Zakarnok TV / Himnos y canciones deportivas",
      "publicado": "2026-08-12T10:00:05Z",
      "live": false,
-     "score": 7.82,
+     "score": 7.54,
      "verificado": false,
      "embeddable": true
     },
@@ -102,7 +73,7 @@
      "canal": "El Saranjo – 432 Hz Soul Healing",
      "publicado": "2026-08-12T08:52:06Z",
      "live": false,
-     "score": 7.73,
+     "score": 7.44,
      "verificado": false,
      "embeddable": true
     },
@@ -113,7 +84,7 @@
      "canal": "El Saranjo – 432 Hz Soul Healing",
      "publicado": "2026-08-12T08:39:31Z",
      "live": false,
-     "score": 7.71,
+     "score": 7.43,
      "verificado": false,
      "embeddable": true
     },
@@ -124,29 +95,25 @@
      "canal": "Sonaram Birua Comedy & Sports",
      "publicado": "2026-08-11T07:37:12Z",
      "live": false,
-     "score": 5.62,
+     "score": 5.34,
      "verificado": false,
      "embeddable": true
-    },
+    }
+   ]
+  },
+  "angol": {
+   "comuna": "Angol",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
     {
-     "id": "Gs3PKpsMqcg",
-     "url": "https://www.youtube.com/watch?v=Gs3PKpsMqcg",
-     "titulo": "Puren vs Uach - Final U15 Liga Sur",
-     "canal": "Club CAB Puerto Montt",
-     "publicado": "2026-08-10T15:12:21Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "6VFKGm2TI80",
-     "url": "https://www.youtube.com/watch?v=6VFKGm2TI80",
-     "titulo": "Puren vs Osorno - Cuadrangular Final U15 Liga Sur",
-     "canal": "Club CAB Puerto Montt",
-     "publicado": "2026-08-10T15:13:39Z",
-     "live": false,
-     "score": 5.0,
+     "id": "EVVfYuBFoPw",
+     "url": "https://www.youtube.com/watch?v=EVVfYuBFoPw",
+     "titulo": "🔴 EN VIVO | TU MAÑANA ARAUCANÍA | 12 DE AGOSTO 2026",
+     "canal": "UfroMedios",
+     "publicado": "2026-08-12T13:13:58Z",
+     "live": true,
+     "score": 7.81,
      "verificado": false,
      "embeddable": true
     }
