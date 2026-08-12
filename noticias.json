@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-12T05:19:42+00:00",
+ "generado": "2026-08-12T09:43:50+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -480,6 +480,13 @@
    "comuna": "Copiapó",
    "noticias": [
     {
+     "titulo": "Comenzaron los problemas con el clima en el norte de Chile - analizamaule.cl",
+     "medio": "analizamaule.cl",
+     "fecha": "2026-08-12T00:06:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcjNPc2lDNElwdnN4RTg3amN1QS1UYXI4azk1WE9OY2RYT2UzWFo0bVVYalh4ckw2d3gxYktjQ0hqWW9ER0pWTzRXWWZYdW1IRXJ4RHJQeW9wMzdHaXo5NDBPWGJmRVlkUVlnZkxpT2hYU19ra1Uyd1RuTElEZmxzT0dFZnhtamNvdWMw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "CGE refuerza plan preventivo en Atacama ante las lluvias - NOSTÁLGICA cl",
      "medio": "NOSTÁLGICA cl",
      "fecha": "2026-08-11T19:37:11+00:00",
@@ -540,13 +547,6 @@
      "medio": "Municipalidad de Copiapó",
      "fecha": "2026-07-24T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOVTA4LTFaSWZoRGo2ZnhoU1hXVjBYVkpDbGNVRUxrdWtGQ1VmeklkVTdBQmxpTnFkOTQwX3ZhRlpEN2xKX25tWGhyUE5PSnNXN3FYTU5VTQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "MOP avanza en recuperación de conectividad en ruta C-345 - FM Plus",
-     "medio": "FM Plus",
-     "fecha": "2026-07-23T10:08:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmsxUVZDU0FHWkdDN2UyZl9BQm5PWDFwQWFsUUhGaUVGYUd4XzhmNzQwSzBfYlVtajVOSUFYQVhjZWJrckpBaWhINEluZS1fbVpnbE1yRE5LX0dEY2lucXYyMEpTMTM0N1lvRW82NnNadkhCMnZLNUxKSkNlQnpHQUN2d2t2eHJYX2s1NkFTcVVTWWVTV0M4QXF3?oc=5",
      "sector": null
     }
    ]

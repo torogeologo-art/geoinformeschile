@@ -1,6 +1,116 @@
 {
- "generado": "2026-08-12T05:19:44+00:00",
- "desde": "2026-08-10T05:19:43Z",
+ "generado": "2026-08-12T09:43:54+00:00",
+ "desde": "2026-08-10T09:43:50Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "NCPEqEO9wCQ",
+     "url": "https://www.youtube.com/watch?v=NCPEqEO9wCQ",
+     "titulo": "🖥️📱 EN VIVO | 24 Central Red Biobío 11 de agosto 2026 🖥️📱",
+     "canal": "tvnredbiobio",
+     "publicado": "2026-08-12T02:05:32Z",
+     "live": true,
+     "score": 7.36,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "santa barbara": {
+   "comuna": "Santa Bárbara",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "g-oWnyAVMng",
+     "url": "https://www.youtube.com/watch?v=g-oWnyAVMng",
+     "titulo": "Live streaming di Webcam DANTA di Cadore - Dolomiti",
+     "canal": "Webcam DANTA",
+     "publicado": "2026-08-11T09:54:45Z",
+     "live": true,
+     "score": 6.02,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "hbzqYK95awg",
+     "url": "https://www.youtube.com/watch?v=hbzqYK95awg",
+     "titulo": "Prisión preventiva para hombre que secuestró, violó y agredió a expareja en Santa Bárbara",
+     "canal": "Sabes Radio",
+     "publicado": "2026-08-10T19:02:03Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "puren": {
+   "comuna": "Purén",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "y5f8l1jezW8",
+     "url": "https://www.youtube.com/watch?v=y5f8l1jezW8",
+     "titulo": "432 Hz ✨ Traumhafte Heilklänge für puren inneren Frieden 🕊️",
+     "canal": "El Saranjo – 432 Hz Soul Healing",
+     "publicado": "2026-08-12T08:52:06Z",
+     "live": false,
+     "score": 7.93,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "6THlzHfA0hQ",
+     "url": "https://www.youtube.com/watch?v=6THlzHfA0hQ",
+     "titulo": "432 Hz ✨ Traumhafte Heilklänge für puren inneren Frieden 🕊️",
+     "canal": "El Saranjo – 432 Hz Soul Healing",
+     "publicado": "2026-08-12T08:39:31Z",
+     "live": false,
+     "score": 7.91,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "ao_RVO_c060",
+     "url": "https://www.youtube.com/watch?v=ao_RVO_c060",
+     "titulo": "Puren verses Nemar dhamaka// पुरेन वर्सेज नेमार धमाका// YouTube shorts video",
+     "canal": "Sonaram Birua Comedy & Sports",
+     "publicado": "2026-08-11T07:37:12Z",
+     "live": false,
+     "score": 5.82,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Gs3PKpsMqcg",
+     "url": "https://www.youtube.com/watch?v=Gs3PKpsMqcg",
+     "titulo": "Puren vs Uach - Final U15 Liga Sur",
+     "canal": "Club CAB Puerto Montt",
+     "publicado": "2026-08-10T15:12:21Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "6VFKGm2TI80",
+     "url": "https://www.youtube.com/watch?v=6VFKGm2TI80",
+     "titulo": "Puren vs Osorno - Cuadrangular Final U15 Liga Sur",
+     "canal": "Club CAB Puerto Montt",
+     "publicado": "2026-08-10T15:13:39Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
