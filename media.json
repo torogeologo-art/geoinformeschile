@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-12T15:34:09+00:00",
- "desde": "2026-08-10T15:34:05Z",
+ "generado": "2026-08-12T18:41:25+00:00",
+ "desde": "2026-08-10T18:41:21Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "diego de almagro": {
@@ -15,7 +15,36 @@
      "canal": "Teletrece",
      "publicado": "2026-08-11T21:46:33Z",
      "live": false,
-     "score": 4.52,
+     "score": 4.26,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "PBpZifLcLDc",
+     "url": "https://www.youtube.com/watch?v=PBpZifLcLDc",
+     "titulo": "Tu Deporte Radio #806, 12 de agosto 2026 📱",
+     "canal": "Tu Deporte Radio",
+     "publicado": "2026-08-12T16:58:16Z",
+     "live": true,
+     "score": 7.86,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "fffZgku69Gw",
+     "url": "https://www.youtube.com/watch?v=fffZgku69Gw",
+     "titulo": "Tu Deporte Radio #806, 12 de agosto 2026",
+     "canal": "Tu Deporte Radio",
+     "publicado": "2026-08-12T16:41:51Z",
+     "live": true,
+     "score": 7.83,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +62,7 @@
      "canal": "Webcam DANTA",
      "publicado": "2026-08-11T09:54:45Z",
      "live": true,
-     "score": 5.53,
+     "score": 5.27,
      "verificado": false,
      "embeddable": true
     },
@@ -56,13 +85,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "2VNhKbbbrn8",
+     "url": "https://www.youtube.com/watch?v=2VNhKbbbrn8",
+     "titulo": "Puren Americana. #goodwill #philly #philadelphia #shopwithme #thingstodo",
+     "canal": "The Deal Party",
+     "publicado": "2026-08-12T17:00:12Z",
+     "live": false,
+     "score": 7.86,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "wcyvQhWwWDY",
      "url": "https://www.youtube.com/watch?v=wcyvQhWwWDY",
      "titulo": "Himno del Atlético Deportivo Católico de Purén",
      "canal": "Zakarnok TV / Himnos y canciones deportivas",
      "publicado": "2026-08-12T10:00:05Z",
      "live": false,
-     "score": 7.54,
+     "score": 7.28,
      "verificado": false,
      "embeddable": true
     },
@@ -73,7 +113,7 @@
      "canal": "El Saranjo – 432 Hz Soul Healing",
      "publicado": "2026-08-12T08:52:06Z",
      "live": false,
-     "score": 7.44,
+     "score": 7.18,
      "verificado": false,
      "embeddable": true
     },
@@ -84,7 +124,7 @@
      "canal": "El Saranjo – 432 Hz Soul Healing",
      "publicado": "2026-08-12T08:39:31Z",
      "live": false,
-     "score": 7.42,
+     "score": 7.16,
      "verificado": false,
      "embeddable": true
     },
@@ -95,25 +135,7 @@
      "canal": "Sonaram Birua Comedy & Sports",
      "publicado": "2026-08-11T07:37:12Z",
      "live": false,
-     "score": 5.34,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "angol": {
-   "comuna": "Angol",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "EVVfYuBFoPw",
-     "url": "https://www.youtube.com/watch?v=EVVfYuBFoPw",
-     "titulo": "🔴 EN VIVO | TU MAÑANA ARAUCANÍA | 12 DE AGOSTO 2026",
-     "canal": "UfroMedios",
-     "publicado": "2026-08-12T13:13:58Z",
-     "live": true,
-     "score": 7.81,
+     "score": 5.08,
      "verificado": false,
      "embeddable": true
     }
