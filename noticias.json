@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-12T09:43:50+00:00",
+ "generado": "2026-08-12T12:07:48+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -255,6 +255,13 @@
    "comuna": "Tierra Amarilla",
    "noticias": [
     {
+     "titulo": "\"El terreno no está habituado a esta cantidad de agua\": Este sector del norte acumularía más de 60 mm en un día - megatiempo.cl",
+     "medio": "megatiempo.cl",
+     "fecha": "2026-08-12T04:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYlBSVlZSLTU5U1N6QUt1WUdlTUgtYVdxZ2dUVklvV0RZdW5GekVvb21wV0tIVHgxODN0bGlkSFRvNTA3Mk5Vbm1jY2lUd1JEX1Y2VGlzYWhHUFY4UTdRMEVmelRteG5HUm9zekc0aEZ5MldWc25fTzEyWmJtaE5RQnFTOGJWUlI0bTNhWHNqS2RpZFJhaVdINlBoQVA?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Live del alcalde de Tierra Amarilla registra tenso cruce con delegada Sofía Cid durante trabajos de emergencia en el río - madero.cl",
      "medio": "madero.cl",
      "fecha": "2026-08-11T19:02:13+00:00",
@@ -315,13 +322,6 @@
      "medio": "SoyChile.cl",
      "fecha": "2026-07-22T15:40:10+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcklOQVZWdnhkQkVkUG4xbEd2dUN6eVpfMXUxeU5ZWFhFaUhTanlLeGtRR3NHTm41ZTBkUG15Q2RaTlM2Nk8tVGFROVJPX3I3MWZ6dklFU0pxTWJfRnd4QUdvNVFJbHpYcmgzRE9xLWpST293VlVTRDFNUzdXajZFMi1jYTdhNGhVQjNYakZ4WQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Tragedia en Atacama: trabajador muere en medio del devastador temporal - Radio Contacto 90.7 FM",
-     "medio": "Radio Contacto 90.7 FM",
-     "fecha": "2026-07-22T15:15:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTk40UUpTdWxUNnFHRVVjVEhTV3prQWhLSUh5WmFyclVsejdBSVQ5SmZZdXpYbXg0UWdNS3lzSjk2UDlYaWhOY0NCQzRrbUtScjdZM1R5ekwxSTcxSW9aZ0s3VDk4UV9oNXM2c2V6dV80MG9Jd3N5bnBmYk9STElsZUhLSzQ4eUZzMjJOdllCUkU3Vm5GeGlMRFRFd0lrTEVjZnZLY21oU2ZTQQ?oc=5",
      "sector": null
     }
    ]
