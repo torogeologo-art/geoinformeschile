@@ -1,13 +1,27 @@
 {
- "generado": "2026-08-12T21:27:01+00:00",
+ "generado": "2026-08-12T23:26:00+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 19,
+ "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "2db689ed6058",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantienen vigentes los siguientes alertamientos meteorológicos para el territorio continental de la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-3 Viento normal a moderado en cordillera. 11-08 14-08 Abrir Aquí Aviso A414 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo. 13-08 14-08 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regi",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-12T17:47:30.3030-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-08-12-17-49-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "e7ddaf932091",
    "nivel": "ATP",
@@ -523,7 +537,7 @@
    "comunas": [
     "Arauco"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-05T22:35:21+00:00",
    "url": "https://t.me/SenapredChile/1507",
    "origen": "telegram",
@@ -539,7 +553,7 @@
    "comunas": [
     "Los Sauces"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-05T21:51:04+00:00",
    "url": "https://t.me/SenapredChile/1506",
    "origen": "telegram",
@@ -555,7 +569,7 @@
    "comunas": [
     "Angol"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-05T21:38:14+00:00",
    "url": "https://t.me/SenapredChile/1505",
    "origen": "telegram",
