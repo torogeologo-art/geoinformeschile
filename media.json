@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-13T15:37:37+00:00",
- "desde": "2026-08-11T15:37:34Z",
+ "generado": "2026-08-13T18:41:49+00:00",
+ "desde": "2026-08-11T18:41:47Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "tierra amarilla": {
@@ -15,7 +15,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-08-12T18:45:32Z",
      "live": false,
-     "score": 4.26,
+     "score": 4.01,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-08-13T02:30:30Z",
      "live": false,
-     "score": -2.09,
+     "score": -2.35,
      "verificado": false,
      "embeddable": true
     }
@@ -67,24 +67,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "Yun5gwD-P6s",
-     "url": "https://www.youtube.com/watch?v=Yun5gwD-P6s",
-     "titulo": "Transmisión en vivo Sesión Ordinaria N° 62 (13.08.2026) Concejo Municipal de Caldera - Atacama",
-     "canal": "Concejo Municipal Caldera - Atacama",
-     "publicado": "2026-08-13T01:10:27Z",
-     "live": true,
-     "score": 6.8,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "1ZUGComKQpM",
      "url": "https://www.youtube.com/watch?v=1ZUGComKQpM",
      "titulo": "Alerta en Atacama: Lluvias, activación de quebradas y rutas cortadas generan preocupación en zonas",
      "canal": "CHV Noticias",
      "publicado": "2026-08-12T18:10:31Z",
      "live": false,
-     "score": 4.21,
+     "score": 3.96,
      "verificado": false,
      "embeddable": true
     }
