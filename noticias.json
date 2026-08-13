@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-13T09:44:05+00:00",
+ "generado": "2026-08-13T12:11:03+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -308,6 +308,13 @@
      "sector": null
     },
     {
+     "titulo": "Temporal en el norte deja evacuaciones, 21 mil clientes sin luz y cuatro días sin clases en Atacama - La Tercera",
+     "medio": "La Tercera",
+     "fecha": "2026-08-13T00:22:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTlZURVoyZ2tNYmR2clAzNThsdUs5aGlZWHlpaEluSUZIZHgzLWdDanBPUE5EN2N4VnoxZURNeFQzLUlNbWxoZENRXzV1cjQ3aG9nWklFVGMtMGFCWUF3Y2x2SGxqRUxsZExlSGFTUFRLUWxucGhFV2RUSlZicUN5c2U2cUlKUnV6enpaaGZHbmxBMWpMZzkweWVIMkJBTVU4YnZONmV2S2ZlRmx5aHNXNGgzczROZ3l1cEpWS0o5TG9Xb0lIMGdBakNzWnFvSTdYOThHMnVvZTZkOWt5NVVlZVFCcEVwYTF5NXVWenotckFPVHVPNkwxdWcwUdIB-wFBVV95cUxOTlZURVoyZ2tNYmR2clAzNThsdUs5aGlZWHlpaEluSUZIZHgzLWdDanBPUE5EN2N4VnoxZURNeFQzLUlNbWxoZENRXzV1cjQ3aG9nWklFVGMtMGFCWUF3Y2x2SGxqRUxsZExlSGFTUFRLUWxucGhFV2RUSlZicUN5c2U2cUlKUnV6enpaaGZHbmxBMWpMZzkweWVIMkJBTVU4YnZONmV2S2ZlRmx5aHNXNGgzczROZ3l1cEpWS0o5TG9Xb0lIMGdBakNzWnFvSTdYOThHMnVvZTZkOWt5NVVlZVFCcEVwYTF5NXVWenotckFPVHVPNkwxdWcwUQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "​Delegada Sofía Cid refuerza despliegue y coordinación regional ante evento meteorológico en Atacama - radioatacama.cl",
      "medio": "radioatacama.cl",
      "fecha": "2026-08-12T23:12:00+00:00",
@@ -324,19 +331,33 @@
       "lat": -28.15641,
       "lon": -69.878
      }
-    },
-    {
-     "titulo": "Alertas SAE en Atacama y riesgo de aluviones en Coquimbo: lluvias mantienen en alerta al norte - elquehaydecierto.cl",
-     "medio": "elquehaydecierto.cl",
-     "fecha": "2026-08-12T22:05:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSmlod21aT0E1eV80SncxcXpOQ0pPb2g5NEFjQV8wMmYzOFNuTWZnemNfMU1IYi10bVc2R1V5X0M4T2FIcktYR19vUVJkV2MzcDBGU2E1eG8xUXdkZ21PS2lhS0l5N0JFTnNLcklUbXJMTndJd3lRYmVGMWxRUU5TSU5BQWpsNFFGN2N1QXl4STFWUlJtNGpnNEs0bnNRRDRObEtFYUtuSEE0X3A0OFdMWk5qT19NRzBSUV9QY2ZuNFFKQWRRVkN4SVE0WTk?oc=5",
-     "sector": null
     }
    ]
   },
   "huasco": {
    "comuna": "Huasco",
    "noticias": [
+    {
+     "titulo": "Alertas de evacuación, crecida de rio y activación de quebradas: Los efectos del evento meteorológico en la región de Atacama - Medio digital El Zorro Nortino",
+     "medio": "Medio digital El Zorro Nortino",
+     "fecha": "2026-08-12T17:41:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRFJ4UXhkNnMxTHltU0NqaGhKZjRqZ29Bekk0bzM5d1VxNTJiR1hOUWxiLWhDVzBkdGZZdl9hSm00Y2dhZFJ3RFpTSVRuei02RUFNUmt5UVA0S2dCUGFEdmVURVBzWE5QZlU2dU9EeVVXWTN5b0hqOURFTHFQUkZRMm1lNHhEMG5HOHVtZG8yb2tIeUI3TlBUbkNyVk5iejdkeE9kazFlVDFMb2FUVElfcXRxbUtJTm1qUUExU2N0Y1VSR2JDYTdQbm1acHRNZmhJWGdDaEUtNUZZX2MwdzJ1SHczOHQ4NE9QdmNNZ2VhbzU1M3d3ajZRMg?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Gobernador de Atacama advierte falta de recursos para enfrentar nueva emergencia: se activan quebradas y evacuaciones - madero.cl",
+     "medio": "madero.cl",
+     "fecha": "2026-08-12T16:07:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOGlleGZPSXJjZlpMb0JWLUhjRDJmcTVyeFcwQ1U1eFI2cTdGWW1hWkg0VDRPYzljQi1zc0l3cXNUY0xZTjE3SXlpaHh0LTUxOWtpbTFVWDdHLWJBMjRHUzZNSloxMkxxaGxiczdlendSN2VjOTZTNEhaLW8yT1c0dnVOSmk2RkYwM1pkMGhuQzBPbHFkT2I1TXEtcUVDM1BqYUw4NlprUlY4SXFYRnhhV1ZwSVp1dmwzYlBaVks4OUMta3FUcUxJNkg2aVZLSnJO?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta de emergencia en Atacama: Evacúan sector Villa Prat por riesgo aluvional en Alto del Carmen - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-08-12T15:33:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcjFxZ3BiOGhRbXlKTlBlTkoydi02Q3JISDBraWljdmIyNXVlTXJFV3FrOW8xLUViTlJlVUkwaFNHVzh5MlZrV2F3NTNRU0RsSVFXLVVkUVBEUjA1WENxRGtlcWNPdE5aOGw2TjAtb0U1QUx3YkhRNDZVYzdMRlFPZ0ZvR2lhcHNfbVdRT0cxYlJZODdKR3R0b0ZYZ1ctS2gtekV2dTBNYUc0SEcybDRJZ3VBdVdKcmtuUTNocVRGYTRkdw?oc=5",
+     "sector": null
+    },
     {
      "titulo": "Hasta el 29 de junio estarán suspendidas las clases en la provincia del Huasco - SoyChile.cl",
      "medio": "SoyChile.cl",
@@ -384,27 +405,6 @@
      "medio": "La Tercera",
      "fecha": "2026-07-22T23:48:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYU83NmNxVkV1aDFhTFJUbExJRWZ5OGZ0QnNlb2lXcm15T0ExN2xFT1RuYTFYNnhCeTR1OVRkd2t5N0loUlFubzhaaWd2UE9YWElrOUJoTGp5LW5IVGZNaXVkMjBRRFJ1VnBuRGNRb1NJbWhLLUM2cGpDaGxMTk5FdElDVGJjSWNKNDZqOUJONkgtZ1YzUHJZckNCcmlQUlItX0paZUFfOWx5dTBMZkp0SEpwYnc5Sk01Ty1icG9GdllkLXZuR3FQWHpkSFNFWGpNMEtZRDVvMzVmSmdXU3BJ0gGAAkFVX3lxTFBzNFV6a0htSy1uWXJTZlhyM19SMGIwRS1wczhsS3YtemVVS0lzYm02ZkY0UUFtLVZKa1JPcklqdHQ0RmU3UFBELUNLbENEX3BqaXZ6ME5TaWxaUmE4alBGMmdiLU9QOElCMGc4czZNQ01kNm1fZTZKVzhBMjJvTS1nbEVSRUhfeVFFd0NhaXNQbUhJOXVWT00wR0lEalN3LUFZWWQ4OGgtblNfeFk4c2VkZVpJSjhwWkNPWGJLOU0zME1qYWxiV1pWRkY4bXAtUGpYNVBaeENKRzZOODR5MjJMS1pJUzVhWnJyYkJ5N0czMjBzTlZVUGVfNWoyNi1JaWs?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Emergencia sin precedente­s: Región de Coquimbo y provincia del Huasco baten récords históricos de lluvia - PressReader",
-     "medio": "PressReader",
-     "fecha": "2026-07-22T11:27:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tVkdMSUNqQ1dfdE5EN3lkVy1qS3FDalBuUWJTZlA4eHdpSTk3R1lPMmJLcWVqV2lfY0RKamlnQXp2Y29hMkotSC0zS3lTb1BIYUpfa2FXUzdGa3RSNmU0NjZsRkpqZkl6UjgyYnY3T2FGZTNsc0dMcQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Lluvias comienzan a retirarse de Coquimbo y Huasco, pero vuelven la nieve y el viento a la cordillera - Revista Digital Minera REDIMIN",
-     "medio": "Revista Digital Minera REDIMIN",
-     "fecha": "2026-07-22T05:18:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa0RmZ2Izb0RFaVE0aDh5UW1rQmhOYjZlVm9vbGdSNy00TUJ4Q2pvRTNEVXFaLWY4SElPXzR6UHYxWGFxdzlDVmNlRXlzamNWTGMzSnI5UGRQOXVjVU1wUmNMVXVzMTVJdHhtNk1Gb1VROWlDelA2endDb3FxSi0xb1Q2R3EzWExILXl2cDJ1bzdxcGY5dl9KVE82WjFvLXQzYmx3VVhUYm82M3RfN0ttN3pZWmJUNG1fQ0RTbHJ6RlY?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alertas SAE: Ríos desbordados y activación de quebradas provocan evacuaciones en Coquimbo y Atacama - Cooperativa",
-     "medio": "Cooperativa",
-     "fecha": "2026-07-21T18:13:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN2dJZFdtRVpHV2VPOGJ6LXlDanRsdWJ5R3lYQ0tVV2JlMnZzM3BPM1BibzNmZFoyaDJvQ1ZJWk1fbFNXWlJlMjdLUUJsWW5YLTFpWDZXeXJQQUtKallZWHJDU0tsLVZCYUxuNU42VEoySkt2OTN0VWR1ZzBIaUxZbENZV0plNUd5anBYb01RMWJQd2lxNXVUNks5X2RZV1VFSGViZmUxNUJDYVpoQ00xamNiU0h1TzdfZzlhbmpvejNuVUpXQ19ralBQNUtLTHPSAYwBQVVfeXFMTThOSW1wZjVfVGsyektQMDRPRHdEeC15NGR2WS01a0FIR0xmOTBVNGhpV3NZa0lCMFNFcEpIWExsT3RuRm53TUhCR1hLRWlvdUo4d1o4OVNKNkVyanItQU1JaDRQRXNabWFhcEpMaWMyQk82MEFQMXVjcEZoMDdHZGJmVXlHVTlUMXBUREc?oc=5",
      "sector": null
     }
    ]
@@ -488,73 +488,73 @@
    "comuna": "Copiapó",
    "noticias": [
     {
-     "titulo": "Comenzaron los problemas con el clima en el norte de Chile - analizamaule.cl",
-     "medio": "analizamaule.cl",
-     "fecha": "2026-08-12T00:06:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcjNPc2lDNElwdnN4RTg3amN1QS1UYXI4azk1WE9OY2RYT2UzWFo0bVVYalh4ckw2d3gxYktjQ0hqWW9ER0pWTzRXWWZYdW1IRXJ4RHJQeW9wMzdHaXo5NDBPWGJmRVlkUVlnZkxpT2hYU19ra1Uyd1RuTElEZmxzT0dFZnhtamNvdWMw?oc=5",
+     "titulo": "Delegada presidencial de Atacama aborda emergencia por sistema frontal: evacuaciones preventivas y monitoreo del río Copiapó - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-08-13T01:10:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcWZQVDc2aUNuRUxSTVBINGV2X1lXZVlfelREb2psSEI3NlJLWkR2cjdyRmpWZGhnVENLQnZ4cEdqWUNMNzFnV2U5Zm9tb2lLeGRmeU1PWFFzeWJ0eXdfdUNTbVlsRUtLblNwdXF3b0xTdnZxVWJpXzdmYnlWVUd3RTBHWXA0N3dyS0NPZ3JQQWgtM28yQjVIZlNheXJpOHpLWEVqZGRUal9xejlCTjBrSEtDd3RKSXVJUjZLTThIMkVjNExYQ3o4b1hhSEMzbG15SVBCR1NOZk9nZXhWOF9hSUJJUERDczdaT29EX2ZtNmtmaF9hNTJObEthN2pzWHE0QkJxWmRlNDNhb2Y3R0tRWA?oc=5",
      "sector": null
     },
     {
-     "titulo": "CGE refuerza plan preventivo en Atacama ante las lluvias - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-08-11T19:37:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxONExqQXhfU0VuTk5wdmpvUUYxcjlITDhHMU1NbzlxUWdWUEtPVkNnV2kwcFJMVExlbnZjUnJhdkpLT3dYTWFmOUdVT2tRNDdyc3MxajBLLVVCeWFiZGctNkFQVS1MQzR4emR4dHg3dlN1V2F2TDNlU3ZUeHZTOE15TXlUbGxIbHRwVDdGUVhBTFdUS2t5ZnFxek9hUE9EVVg2aVlXMkNaRnhGRU12enBIOEtHUVNhU3VweXUwQnV6c3JxMzFscHM0VmE5cTVkX3FnNER0MDBVQUZzSUJJazJXT0cwVEF6NGVreHp2dGVGZ3lQRGpjMTZ1Y0hhcGk3QWVhUU1qWW9reDVSb0tkX0tDTnFGa2dibHVlVUVnTmpGak9qMG80U3RCZFQwZ3htbmNhRE9WSTdjWjFsUms?oc=5",
+     "titulo": "SENAPRED emite Alerta SAE para Copiapó: Piden evitar la ribera de la Quebrada de Paipote por riesgo de crecida - maray.cl",
+     "medio": "maray.cl",
+     "fecha": "2026-08-12T21:24:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2JOT0dkaGVVTmpWREhQMDk1LXloa2xLeUM1MWdmN0RYQXZEdklVU0FEZkVPelZSTFIyTW9YeHpEV3ZjUEJEaUcyMm94dW53SDdBVEFmcmxfWTRxMkQyVGhTaGJsQTNtcDdxZExGcXZQZGhOci1Rc0JzNGhOaFRuZi1qTEk2d0tPWGZGb2NJdFJmUDhsZkN5b3FMcUR2Z1d2bkNjb2NBNC0tbUoxYmZXSElWUkREQXZtRnY3LVRxQVg5LVRsRXFoYWFHckJuNFM3UkQyMXQtcVFJbzN5Z25wUnBuVGo?oc=5",
      "sector": null
     },
     {
-     "titulo": "Atacama se prepara para nuevo evento meteorológico: prevén hasta 40 milímetros, tormentas eléctricas, viento y nieve en cordillera - Diario Chañarcillo",
-     "medio": "Diario Chañarcillo",
-     "fecha": "2026-08-11T11:21:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaUExRzMzYlFOQll1Tk00THBnX01YMWphTDBHSGxVVTlmTUlacFNSOTl3d0dDVVBMMlpZNlBGZkVKbk14Y0pGTHBZbjJnZklUaVdmRlhLRHUxZ3lzUHFHLXB3LUJZWVJROENXeDRrUVBJY3M4cFBkcHkxNHFKbHBnaExYYUYtMnBFVEVJZFhjYlNoUVdiWE9TdzVXMDN5bUZoellweHhETW1aSXdNRUVvcmRYdnJGaFQ2eGpVakd5a2VMQmRGN1VnUGRZODg3bENXdkRlcndiUG1fVE90Mmc1N0N5SjdyMHlucXNv?oc=5",
+     "titulo": "Delegada Sofía Cid refuerza despliegue y coordinación regional ante evento meteorológico en Atacama - RadioGennesis",
+     "medio": "RadioGennesis",
+     "fecha": "2026-08-12T20:07:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLW43Q2hPRHdpemRJWkloTlR3elROSElITk5zQV9EWHhwc0JWWWRGbzlhTE5VSGdtd1lGcmR0TE9WTFRZYUhDU3RmZURYLXdxMl84N1h5cHQ5N3FzVGdCamZ0VnhWQno5WmZBdXNnVzgxYkIxR3lwdnFNX1I0X1FPb2pPRlNCVzJ3cVBUeVNCc3RJN2Z1UmxjQnlJLU1LN25DWTN2SzIxOVRvNTN0Z1V5VVdiWEF4LXVfekY0QVgzQ3diUTB1M3FTRlhyaFNfOXFPUnNqaVVqZw?oc=5",
      "sector": null
     },
     {
-     "titulo": "Alerta en Copiapó: denuncian quebrada obstruida en salida norte y piden despeje urgente ante nuevo arribo de lluvias - madero.cl",
+     "titulo": "Autoridades mantienen monitoreo en Atacama ante precipitaciones y activación de quebradas - Radio Atacama",
+     "medio": "Radio Atacama",
+     "fecha": "2026-08-12T15:45:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTmYzb3JyTWh1NWt1XzByZFJ5NzZxa3ZfUlRWdm5yb3M1LXpBY0lVUnBBZHlNbGhZd0RRUVYzd3FoS01udGVRRVBTdE1ZTFlSeEhmSVZrV3oxb3F2NUcySlVXYm1Va2RHX0tnek5aaHNmM2FYQm5FX3FyN21pUWVsQzcwblRkRlhkNU1XcXk0R0ItVnJ4SlVrX2padk9yNHVKNko0c1hPS2oxcjBtZmZmQjdQYw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Chile queda “partido en dos”: lluvias cortan Ruta 5 Norte en Pan de Azúcar y afectan caminos en Atacama - madero.cl",
      "medio": "madero.cl",
-     "fecha": "2026-08-10T14:55:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1dNX2Qza0JzeGFsMUlUYUdUeDBXMHRrOTMzWVdZVHNFVzVvLUhmVlR1TWtNVWNORlQwaTh2bXlLc0dXWHFxLVRwYWY3RGgzTU16SjhLOERZcm1VM1BrTThZYmxQNEtOQWJfUWM4azV4aW9FNC1RaXJxaGdsbTFFcmtPdlIwUVNYTnVLUDVFZ3NlX2g0QnpHR2twWVV0dXdheV9BOVhsWGQxWl9GUzQ3NWNVYVVjVUJYY0hvX0Q5NUw2N28?oc=5",
+     "fecha": "2026-08-12T15:40:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcXZLSnJMeTNVbFJGRkhTSzFvR0pxTEFrSXUwV2VlZUs3YnJ4YVlSUGF5Yjh0WnF0M2xzQkV5RWpJV25pZUxEM2JNY3Z0QTEySW5KUjBoMEV2SHNMTFVWVmN3SE5TcEFDckFObE1BemhjeEZhZVRLWDI5RGNXdDZEbm9aSG9DRWI2SjBURFNfSEdvX2dyWmR5MkZxUURULUpnQ2I2UnNWSlUwLWFxSXdCUEFWUGJYSVAxOTlr?oc=5",
      "sector": null
     },
     {
-     "titulo": "“Zonas acostumbradas a no recibir lluvias”: En qué ciudades del norte llovería, montos y a qué ríos prestar atención - Chilevisión",
-     "medio": "Chilevisión",
-     "fecha": "2026-08-10T13:14:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZ21jbm9LRE9abnY5aHdwTV9DYUdrSW9yWGdvQ0VPTUNhV2xaLVdjWk50Q1FLVHdQY3ZpanVrQnRkdF9DVHd5RC1PN3FTaFBwcTBhZEV3aExIeDl6aHBEVVFNTHlqMzJ3dnVLZUF3MElmWmVyWHdpY0xFTTZId2d2RjJvQm9fbms5Qm1mU3pCeFFKYUVGVWhTdG11Tld3WXhIekZtVzN4eDU3a0wwZmVhNXdjdUItd1RqS3JrTU1OQl9GRlloNnlGQkNGbXlDdmNOUXRoUUF2VXMtMUgtY3RvbmRFMFdRZlMyams1enI4TmZMbW52WlJrZU5EY1BKdXM?oc=5",
+     "titulo": "Sistema frontal golpea a Atacama: activación de quebradas y alerta SAE en la provincia de Chañaral - madero.cl",
+     "medio": "madero.cl",
+     "fecha": "2026-08-12T15:36:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGw2V016NFRvSFlpWTdMc3ZkTDlLVUxiNTJoend0RFZ0V2h4eklHSHVVUzZXN0dpeW1MclBtSlB2cUNRZnMzR2hjaG8wZE1ZS3YybUpKLUpuVVBwNGo5V1J5Ykl5RVNiOVdHanZpLTYyTXBGOUl0ejlVaVRXVDUxSXRWcEpheFdXNjNiT0RZWGZGaHJyUnYtZ1YxWE0teXhBNEEzQk9EUFBQN3dhbXlvR0FHVk9RcUU?oc=5",
      "sector": null
     },
     {
-     "titulo": "Alerta por lluvias en el norte: En dos días caerá hasta cinco veces más agua que en todo un año - Chilevisión",
-     "medio": "Chilevisión",
-     "fecha": "2026-08-09T20:50:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdktZczF0Y1l6YnlBanNyTm9Va3Ria1JjbXdYdWM1bHFEQU9mRllyZ0dDWTBXUElRQWZaZXlGVHh6Q0xPWWVpNy10a0plSng2dTBoT0hUZmhSd1g4b25oaXNEMWo0eEQ2U1hNNnh3RFVFd1FhTEdTbGx5QzVJMDVNRFJJb3BCVk11eFVMQnJxZE41LVJYd1pHRGN0MU01YWdVdFlVd3VjZU5yMDhYVXhYZGRlQktSRFlyVjc2M1FhMXFKNHltUjk4ekVNeFNXSmZsbmpwbW5vSzVJaFYxRWctZFln?oc=5",
+     "titulo": "Alerta en Atacama: ordenan evacuar sectores de Diego de Almagro y Alto del Carmen por activación de quebradas - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-08-12T15:12:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa1FhV1ZWUlU5RzhXUS1RcFhtN2kyTDA2ajVDZVo1LWRZTFJFWUQyZDNXMlprU0RyUGo0SnhZME80OUoxYUZUVTV4UWd0SFpXWUs3WDJKdm5HWjZOYkFobENXMnA2SUpLUUpleVB5bkZKSV82emZCYXJxTXdYS1JJUXVLZWM0UjQ0MTZCaUxxVWxXUFV5QkwyU1FZcjFVZDFYcGozUzdyM2ZXNWVZMUEwN1c5RklvVnJFd0NSZ3JPTlBCaXlDSUJaMkhRdGFTc2Zm?oc=5",
      "sector": null
     },
     {
-     "titulo": "Municipio de Copiapó llegó con ayuda a Totoral y caletas tras el sistema frontal - Tierramarillano",
-     "medio": "Tierramarillano",
-     "fecha": "2026-07-27T02:37:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa0NMTmhRYWJobk55c0RtdlRTVWxhRnVBbFNaSEwyVGtYT09RZVl1V0ZQLXNIUG8yaXJHcm9SZHVFSVRiZWJpREhXNk1LVDlGTHdSQzRidnhtUzJMSkQ2bVRoQjBKaGdhVDYyNDItM3RHS3UxVGw4dlNoVWJxRC12ckxRLUlrVjVZc1pFZ0V3R3k2a1JNVS1LeVNaSkl6QUs3dE5hTDNvYk9yeHg3WENMOHhvOTAxcENsRkRv?oc=5",
+     "titulo": "Interrupción de agua potable afecta a 1.590 personas en Copiapó - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-08-12T15:11:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPdXVDUnRzWnBYb1ZTY0RXMC1tSUJENjkzLXdtNDNrdTlQUFJCZjE1Y3dnbWRydWxrcG8tbzJjb01KQ0JtT0VJQk5QT3lTWnNEM2pFcDVpb3QzdTJ0TGpETEg3QkFsS3RDWjV5V3VuNTliemhLS0FMSG9GY0NUTVlYWFlIclpEZlkyZXZodzlPNkQ4ajYyazZlZ1lMV2J6TEVIb3VKWUhqaEVHT2UxMUJlSy0ta0ttaVc1U1R6U0Q3S3RCREZ2eFF4ZGlvVTM4cUdidGpOVHRqVVFKRlBOUGI2dUdFT3hwTWRleXU2UXlyZURPc2hPaV9OUzN4T3NtLTVleDY2RUc1RHdOcWY2Smh2Z2NkMDBCOVczVk9KeV8wbFBjZUQycUwtbGFFZDZYR1VJYmFHX0Y4U01MYjVNNDJLWWZOYmE3c3pJaFBqYmpXRTZ3WjNjbWhZbnhsOE93dw?oc=5",
      "sector": null
     },
     {
-     "titulo": "Municipio de Copiapó llegó con ayuda humanitaria a Totoral y caletas tras el sistema frontal - Municipalidad de Copiapó",
-     "medio": "Municipalidad de Copiapó",
-     "fecha": "2026-07-24T20:40:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTWFYR3BHNHVOMnBIcTFHUk5RTHA0bHFlSjh4dWJtQTd0N2d0Qm4yVndLTTJhdHFMSW5JQndSdVcyMVNkTkhGczlLNlhhX0xXTkVVVHVCbUJLcnJxZGsxRThsTDdkeWV4Mm43M0ozaWw3NmJUdGtZMmpfcDJtZlExSDJSV0hHWWRJUDhqWTA1X0V3U3pFWU90SzFsTmdIcVk5RE54QVVKODV3SHU3Sl9RV3lSbHdsMDlENk9NX0pmd3Z2N2ZwMDQydWFVbDVnQQ?oc=5",
+     "titulo": "Activación de quebradas interrumpe el tránsito en la Ruta CH-31 (Camino Internacional) en Copiapó - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-08-12T12:45:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLU85elhTY0lfYnhtT05GUk1zLTlkaXBpdUhjRkpHdGVwMEhfdGNWTXlxNnhkZzFfbWN0Qm9qLVZKYWdMcEZycEpMdkM5alBHMXBQRzNXa0pFbnItQmpHNHVqdjRSNGZXMl94djRFWG9sUEZDenVfNi1QRWI3TzhvTTVHbHZ5UmkzMXcySm1iaTVOMEd1U1d5UTNKWmYyMzhOU2dB?oc=5",
      "sector": null
     },
     {
-     "titulo": "Copiapó: Largas filas en Ruta 5 Norte carabineros mantiene control de tránsito en sector Nantoco y llama a la paciencia - Atacama Noticias",
-     "medio": "Atacama Noticias",
-     "fecha": "2026-07-24T16:45:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPX09lMUZ0ZTg4OXhGdWw5bFd0bmR0YWhCSlF2aUh0NGxrc2dWa3owMk54VHZaNlRHcjEwZXZGNk04RFItWE9WeENtUTVVdlZQUDIxV1FNRXo3Mzh2N2htMVREUGNWM2R1LURZZDhZVU4tb0dWQ3Z6VUZDNS1GX0JHYTdWTDVjdF8yeG50X2hhR2xyUlpWRS1kaWJWN1MyRnBYekdFN2xLT0dNUTJfWGRpRkN2TUZUMXByMDAzbGxrR0pFN2ozMUd5SUNDTy1NUHNHWXVYUFRVUXg1TEp0OVJfeTJVMFNYRkJmZzk5ZmVYWFRyTUU?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Hoy es noticia - Municipalidad de Copiapó",
-     "medio": "Municipalidad de Copiapó",
-     "fecha": "2026-07-24T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOVTA4LTFaSWZoRGo2ZnhoU1hXVjBYVkpDbGNVRUxrdWtGQ1VmeklkVTdBQmxpTnFkOTQwX3ZhRlpEN2xKX25tWGhyUE5PSnNXN3FYTU5VTQ?oc=5",
+     "titulo": "Vecinos de San Pedro advierten que trabajos en el río Copiapó podrían anegar localidades rurales - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-08-12T01:33:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSmpZUzEyajB2OGFuMGp4emtBZl8yVTJDMkFYM0prUGZQNHAwM0pIbW4ya3RSRm9iU29PX3ZRcFlNalduRkdmdmdMUk1ZWkxPOEV4UGRzSENoVXZZRnJibVphLUVQRTk0X2pqZHNqSzk3Z3hEMUR5MlJuczZrVlJzQzU5Qzhoa1dKWUF5blEwRGpvb0tXZ092RnUxNUVfRmVUM1ZEWFp2b0xrNWZCME1EMEVPVWgwQUE2VjlVSVROYWU?oc=5",
      "sector": null
     }
    ]
@@ -732,6 +732,13 @@
    "comuna": "Ovalle",
    "noticias": [
     {
+     "titulo": "El temporal de 2026 que hizo volver a Ovalle los recuerdos del invierno de 1984 - El Ovallino",
+     "medio": "El Ovallino",
+     "fecha": "2026-08-03T21:40:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDlYVXVZX3VWZ2l4dE5rajR1VmpCQ1RIUUVUSGwtLXJLd0lhMFN2VEEzX3JEQmpLWlFiLUJPSU1kVTd2dmR5M0RqTGtWUmJDZDBDWjhJQ21GT2RrX2lsSFl1ZjJhVE1KZkVIOFhaVVlNY19MeFRyMkwyQ3NYaXdUcHRPQVhabm5wSkNVWll0ZGdjOHo3MFFiWGw4QnFranNwNjktbEl3MWFDUQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Ovalle: Más de 100 voluntarios se unieron para recuperar el Parque Los Peñones tras el temporal - Mi Radio",
      "medio": "Mi Radio",
      "fecha": "2026-08-03T21:39:39+00:00",
@@ -800,13 +807,6 @@
      "medio": "madero.cl",
      "fecha": "2026-07-22T14:00:49+00:00",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcElUcEVuT25wRXIwLW5LQzFDOFQ3SGllcVloNGZhZGs4NUh6M0VfSjFLRmQyUmhzdmxxbXNJS0FJZUlQWmYxcmhWaldhNUhzZEdseTJmNVJzYWRvRXZmWkNQSldldFpRNjdXZXNSeTBLM01zTU9zdkdVT2ZTWHRFWWRlWURqMk5PeXB0R05sOG9tdUVVVGtMcjczVkpsYkxjNl9ybUUycnlQX2EtbXNhZG9sZzdQekZReENUWW1jakl1VWcyVEJF?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Emotivo rescate en Ovalle: carabineros salvaron a perro que quedó aislado por las lluvias - Radio Agricultura",
-     "medio": "Radio Agricultura",
-     "fecha": "2026-07-22T12:37:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNkNEX1BKRWFHODVuaWtTSm0tUWtFZ25lbmNvMW1QakdVZE9IVk9zWHBUMnJveDdIVlI2YVg2M2Fqb0RacWo2anhUSS1qWS1JQ0tzY1k0X3ExZ3doZUlVNlczM2xKRUhSN1EtaTd1cUZ3TWh5SjBJcl9uSzFYaFZOOU1JM3ZOUmFwaXpOQjNtWVAzakFwamZPdzk4VTI4MjQ4V28tc19PcmNxejlYMFFaVHlyQmpxbDN3U3BkOXJnOW5La3pkUmFzdkpGRld6ZURUUHM5QnZncTRLc0UzZEQ2WEVB?oc=5",
      "sector": null
     }
    ]
@@ -1112,6 +1112,41 @@
    "comuna": "Alto del Carmen",
    "noticias": [
     {
+     "titulo": "¿Habrá tornados en el norte?: Allison Göhler entregó detalles de las condiciones climáticas para hoy en la zona - Chilevisión",
+     "medio": "Chilevisión",
+     "fecha": "2026-08-12T16:03:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeE02R1hHR3Z2Z0lPRWd5Mnhvejc2azFzZ3c2bDkzcGo5M0ZXLUp0bWhmUV9vNkdYeXVjbUhobEFwZkRyQWtfdV9ON3NOcFNQRkpKVC1VTklCdW54XzNfMG4yZDFmSzVWZ1d1OG9JQUJUcnRmUjFxM1RodXRZLUx4NTAtWUJIenlwRHJrS2h0TjhBdXZGbzhMaTAtMTV4SlVjUEdTb0czNmV4RjVRWXhlMnhZTzYtb09MYndnQktzd1B5X01ncDhIdm5rU0FTcHRIME4zeVFfR3lyTTdHYmF3MmFqOW5MN2toUmtXTjFIRm01ajk3UGFzUk03TQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Sistema frontal golpea a la Región de Atacama: Senapred ordena evacuaciones en Diego de Almagro y Alto del Carmen - maray.cl",
+     "medio": "maray.cl",
+     "fecha": "2026-08-12T15:55:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ2JCVDNCMEYwMGk1Q2VJUWEybFdHY0M2emlWVWNRYmxvcUxLUi1zTUZzUEFWa0V1c2pvblVrdHBIWGJXSUtkRmNQOUEyY3d4RlRGZ0lnMU9XUzE2NlUzSXpLSThIZDVPVDhIR1FrR2lfU01jNEg3Nlk5aXZja0R3UE93SnJabWlzckw5VGY0dk85bjZnNmFNZExnLWdZclBLQTFIdlJSNTFsWFJPSEozeW5RTWFoWlVQSENmb1gwWGh1aHUwT3Q2OHNiSmx1VEFmYzJlUkJ0V1dDdzMxNVZCVEpQRDV4QS1J?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "VIDEO | Tres encerronas simultáneas en Maipú: Delincuentes atacaron a adulto mayor y dos jóvenes - Chilevisión",
+     "medio": "Chilevisión",
+     "fecha": "2026-08-12T15:47:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcmRuZ3ZxQWJGYU13RXp6RjVfNmlIQ3REcGtQaTVDWTdrUmY2OENJelJoMEQwLVVjckROSTZKQTlKdjJGUk1oZXpfTk1fUS1VSFh5VTZOcTB4U083MzZtMmJXczFYT2N2emwtVUdjVWEyVnppNWdRbkpvN1F5RzZQNk9kYlg5WXFaWHZtaUYxcVQyc0NuVVF5elQ5SXVtVWpuSHlBcUZJeGVRTV9RbGpWVEpoUG1aVTV4eTFkY1Fmay1aRFdRQUctUHFWZ2NpVTA1aWZvdUR0RFRaalJqWWJJZW5hOHZXNGs?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Nueve localidades de Alto del Carmen aisladas tras crecida de río Huasco: Caminos están cubiertos de barro - Chilevisión",
+     "medio": "Chilevisión",
+     "fecha": "2026-08-12T15:41:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeGM0eGNlN2FXc0g5Wk1QTTRDc2FveS1XUnVCa1dad3lJc1F4NXROUE1oenRNQi1GcWdobEozN21ldU5oWkVXdU55SnVhZHdrUWVTVUhLUUE2SG9qM1dEWkstaXZVWjJyX2xBanJMd1BKM2dISjktMUJaVDZHWEptbF93dHFnbkJtNmpSQjJwX2Vrb050RUlraUVHaU4yX20tbV9ZXzhOTWdrQ1FTb3NZdDFnSDJrZ2RIVFBqUVFqaC1uN1pMaU5HVi1acnpCQXJiSkRFZFlLR0dmZC1lWFVuOVVkSXpLX1AwVHNVeDF4a3RlVGtTWldJ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "CGE informa interrupciones del suministro eléctrico en Atacama - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-08-12T14:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaUZCcVg1V1R0Yjg4TWlqazZsdmtRTjhhd2Ffcmt4Zzh5VkZCS3QzaW1SX3BpTERva25GM013bUZZNHE4YS1sb01aZ2NVZFBXcTctNzJSdTJubXhUR2tFYnczS3pwSjM4NzRhQnJMUzFibm5EdHRuRkNReGhYSGl0OVNkUHBLZ0NjZ19YSzRQOWx6SjJSRnFJUXpUdEw4dGxnbTRIMlo2MEtka3FkREpLLU1PWm1YX3lJcHg1UDVtMlQtUy1MZ2NFT2NZWktua3kySUZqUG1haHNEeTBP?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Agricultores del Huasco piden apoyo a autoridades para reconstruir: “No todos pueden solventar un costo tan alto” - radioagricultura.cl",
      "medio": "radioagricultura.cl",
      "fecha": "2026-08-03T13:33:36+00:00",
@@ -1144,41 +1179,6 @@
      "medio": "MSN",
      "fecha": "2026-07-22T16:34:09+00:00",
      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNUTdYUTctbjlUMnNoUFo1SmU0d0wtOTVsSUhxRDJRb2w3R2FmUl9KN3JoMmVpTjFiMlI4aWNFWHFJT19QMWRwZUJXWmgwMUF0SE9RcDE0djlFVUFHY1ZUMXdfT2gtQ0pvbFU2bU5NWTVlYWRJaE1KZjNMSzltQ1Nwc2ZDU2oxUG1HN0JuVlh5QkdiZnBhOTBDakI5TXNsRDNQamR3OHZsemgtcGkyWjJYLXItNmpGZmQ4U0tEc0xDWUp5WEZlMFRWeFN5M19PdW95YjJxZzJYcXJRdHA3eklWc3JocjNiZUdGZ1ZvTVVaYi1KaU1wekhLT0V5S3lVNW5rdm1RUmFhaHBVbktUQ2tTckh6QnhjUmhIQkhSUlprUXRNVUh4N3J2RjA5YmRPdmE3YUsxVGZjQ0c5c1dMaXRibkYxU2VJUmFpU0ZRek5BVzJjQ0xsZG1YV291WE02WVh4eFBSVnM3RmF6Q05lVXREVlBwT3h0anNkRXc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "“Esto es una llamada de auxilio”: trabajadores de Pascua-Lama llevan ocho días aislados y piden ser rescatados - ADN Radio",
-     "medio": "ADN Radio",
-     "fecha": "2026-07-22T12:49:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNHFhdG9JYUhvME1mZWpsT0xwbThXVXVVdUJCc3Z6ZUw5eHp5aEI4VVBwOGpMRGE3aGdHOHV0RlRPczRqaGFkakw0SXZEZnlxSVRfM00ta05tc3RwWXdCa0Z0SDVDcC1acUJjMllqQ052UzhNZWY2SEpWN1ZsdmJwMWpzUkRuc0ZsTGtTUG5NLXVGUUFGOExTWGI4WjdSYWZGTHloZDdSN3dhaEhWRW5iZXV2dVpQYWt2S195UHh4ZkJ0ZUd5Ry0zcnBCYTd2UmpzRGh1U1BObXZtN2vSAe8BQVVfeXFMUFBYMk0yOHpzVUpQX3FGYlBTdE44bjdpbW1PNmwzMVJRMGJXTzNSUTNyd3YyT1ZhQlNFSU8tN25iVmNmYmVENWJnMkxIcE1wM3UzcG81Y0JtajkyLVdkU090aU9wRFZVQlZLSERrRVd4RWlUd29YaXNNQ3FMaWpsMTdobHlHeXYtSkg3TENxMVlwSy1oT3ZzMUZUbk5lbHhOQ19XMm1Yb0JUWVZURVNWNnlpTVlENEFGTmhpZE1jNW5NLVE0UW01WW9XUFBjZnJMRmstenphUkc0b0FCNWIySWNJS19wdERrNURBWEo3dXc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Chile declaró el estado de catástrofe tras un temporal que dejó 10 muertos y graves inundaciones - losprimeros.tv",
-     "medio": "losprimeros.tv",
-     "fecha": "2026-07-21T15:34:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMk5TaVpjdFZxdGwwc0owRi1UZ3pUTUdNS2haTWFUQkxQaWkxV2Q1NjJNdkh0empGR1JqcHVmOXRXdkNVaHpYS3FGU1JpXzIwWGUzd1NkUWFGSzZTUEZiQm9LWF9TaUhDcmtleGN0NFpPVTBsc2ZlR3lpekUzeUh0UGtJaUlrTV9NakdsOUVwTlVNenlmelRmNzNoVU5kZ1pPVGNRM0gyVFhUemp1aVhYTE0tQjd5cHUzV1RCbGI0MWZ4OURpSGpnbFg3cm1FNU1BWXB3SXdhdno4WF9CbEJfM1N0T2VJNU9JSW5oMA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "“Vamos a quedar totalmente incomunicados”: El llamado de emergencia del alcalde de Alto del Carmen en medio del sistema frontal - The Clinic",
-     "medio": "The Clinic",
-     "fecha": "2026-07-21T15:21:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWmpEQlZhOGdqRVVBNFp3Y3ZjZEtaZGlfQnV6S1p3b0NBYXNBcER6OVQyN2RtaWx1a0o4UjZCYzN3d1RLMEpYU2R4OF9JZFNqbGFoMXFYTkU4MVIxeWFFNi1FV3h2enc1S0VPSmRvMXdBQ2czdUZvRmNGbkRvbU1zdF9sblZLb3B3em10QlBKSmZpeWgyTjNwaENxeE9mNVVUa3R6WW9qZTk5eG9zZ0s1UjlydlFacnlFeGx6MEFnY3ItRENTSkI5Nkl2TWZsY2tvSUxrNThfTFQ5ckZrNEZqU0lLcVhXQzdwTHR4UW9oN1QwVlXSAfgBQVVfeXFMTTl1YVNQcFF1UHRwd1dLR3lZWG5ESFREY2NIdHBjc2ZONzRsTW5xNGVOeHVYejlUSXhiZEJDNU5SZUpONnZzazFXQ1lMTkJQX0hiUXMybjNlbWx6R3dFc1huRHBRbV9jRkVud1NWRzBLYXRtYWgtQ3VKQVowSlY4cGpaMkNqUFJZLUNpMUxWc2wxLVAyNE92blM2WjhIUXJYUERFVDBHd1FPak9uUmNXNVBUZFRkWWlGMGdrM1RseHI3ZVlSOVZISFhqTUx3OG4yU0EtTENxUVV1d2lPRm9IUXRHVk9KelNlMTJQXzRXdG1mMmthZzZlcnk?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Dani Muñoz ayudó a perrito que huía en El Hinojal tras inundaciones: Lluvias desbordaron el río Elqui - Chilevisión",
-     "medio": "Chilevisión",
-     "fecha": "2026-07-21T14:23:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZXhqMWE5Nl9IdjU5eG5ydjVCTEVmaS12RGxXQnRuVEZBZXBHY2Z2dXRXYlFoQWttOW0xRnFoeF83WVZzMW94V0ZzRGtxNG4xclAxbjFKZ21zSVZrazJ4cVQ2QlFSRExWVDZQZXpBZzdDLVJaX1lQcTd2YXNoNWt5aFppM1Y4OFU2Z1RPX2dTdklsa2hqYm12bHZVREM3SXFOOXAyM3Q5UHd4QkQ0ZkpOOGIxTjY3TXRreXBFcWNRQzQ2UldQbVIwQk1pRGRGSDJGekF0MmZLUTVHSGplaGVSZ0lqdXl3QkFBaGMzWkRTQXc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Estaba desaparecida: Criancera falleció por alud de rocas y nieve en sector Alto del Carmen - SoyChile.cl",
-     "medio": "SoyChile.cl",
-     "fecha": "2026-07-21T13:37:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjc4c3FPYVg4Yy1XRi1qNUQ1MVdMaG56NFNLZDZKTGMwQWhaa1lxeG9OaWtFX1hFSl8zSWlOQmdkS2NEUHBFMFhfSVhjQ3NpNGxCWkRDS3FKcUs3VEhnc2pDWE8temx6cG1jMDRKbmhtVnhEZGN3SGZiQUFSVE90bFVPUGtMTjRYRUhmTTY0cnZDQQ?oc=5",
      "sector": null
     }
    ]
@@ -1229,6 +1229,13 @@
      "sector": null
     },
     {
+     "titulo": "Doble rescate en Punitaqui: Camioneta arrastrada y camión atrapado en medio de la tormenta - DUPLOS.CL",
+     "medio": "DUPLOS.CL",
+     "fecha": "2026-07-18T08:34:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLVJ1MjdhUDgxMFhTSEZuSjJNc2t0TDlabWk1OWluRE9GN3VSSXBES0RzRnZRSVVJQWVRN3BkN0doc2VydUNmcGhZQlIxa3p1UHVEOTVTMm50LTl6ZmMzS3RnOV9wbXVaZDVGZ0o2T0FpSUhhdXV1Y1B5aTlnLWJ1V21EUHZqVFBaVWV4Wnp0NA?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Despliegan operativo para rescatar a hombre atrapado tras desborde de estero en Punitaqui - Chilevisión",
      "medio": "Chilevisión",
      "fecha": "2026-07-18T07:00:00+00:00",
@@ -1247,13 +1254,6 @@
      "medio": "Teletrece",
      "fecha": "2026-07-18T06:27:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOVNxMFhiYUFlbFRpY2RwbmxCRzZFbkJXMEdSalFWVF8wSTlRUzNuZ1FFVjRPVHFET0xrSzU4bElLREo5TjhObHRDM0dveTVvNzVUR3puWFdDUklvTFlDT3I3bk1ma2FIVXhrWG94QmxaQXZTb1ptbkhxSi1iUnEyc3FjTlpBb1hXcHBuTzhMS2ZEX2NWVWpieTJEOFBQMFhhalV3dmtvWEZGX3JrOGFLNFZmMlk0OHI0c3BwcHVEZk1iWHZN?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "“Estamos totalmente aislados, la comuna de Punitaqui quedó partida en dos... difícilmente vamos a poder llegar a los sectores rurales” - ADN Radio",
-     "medio": "ADN Radio",
-     "fecha": "2026-07-17T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVi12b2huNHF1ZFk0c3UxWkRzRS1DbEVPVVBIdjZRem9hOUprd1ZHMTdKMEhuVjVic2FMUEhLQTg2SWN6aEdCb3BFR2prRnFGa0lNN3R3cFJBT2RJVndRSG9Mbzc0WWZJZVBhRWsxVGRSMWJXaWdxV0k2TjAtTVRjRUN5MHNPeHJybU1iNFdRZTdKak5NVkJuTG5Ec2dZcTc1Z1dMUXRtT2FBNUVCOU5haWluMHc2OVMwRWZQZUZNTi1YbnJyZUJPOG1KMENvOXFFalJseDVjUzFVempfSFhmRGRPSFdpbTZZbVZiTWRrYmlRQzVzVXhJ0gGLAkFVX3lxTE8tREdDYVFPdXBDZnhfek8tRl9uMmRnOElvZDF1dWpaaF9vQS1kLUdTLXlleTNIdEN2OFljUE94REVESUJZbDROdUNnZW9BSDAwSExZMUR4QjAtOTY0eXROVmFUV2tUdHhUNjk5SGFDZ2xacFFrUUltYXA0TkN0dmRSUHg2YTh4a0EtQUdZRF9Gb0F6SUZHX3JrOGR6QmV6T1NhQktOOTN4YU9XU0t2eVdPQXAwNThHdE5oeGJ2Z3BqRzhqb09RcUlvcmFMQzg2MWFUMVpiMzJSYkxEdzJHTWpxd3djdnBSbFdhdjVxemhrMVQ2ckZGSW9reTFxd1JFWUpXUzMwdVVTU3M3UQ?oc=5",
      "sector": null
     }
    ]
