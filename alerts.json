@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-13T09:43:40+00:00",
+ "generado": "2026-08-13T12:09:34+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -11,13 +11,13 @@
   {
    "id": "31f9bd1fff06",
    "nivel": "AMARILLA",
-   "tipo": "viento",
+   "tipo": "tormentas eléctricas",
    "titulo": "Monitoreo Alerta Amarilla para la Región de Atacama por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta A133 Precipitaciones moderadas a fuertes con isoterma cero alta en Precordillera y Cordillera de la Región de Atacama. 13-08 14-08 Abrir aquí Aviso A388-6 Viento normal a moderado con probabilidad de ventisca en cordillera. 12-08 14-08 Abrir aquí Adicionalmente, la DMC ha cancelado los siguientes alertamientos meteorológicos, debido al debilitamiento de las condic",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta A133 Precipitaciones moderadas a fuertes con isoterma cero alta en Precordillera y Cordillera de la Región de Atacama. 13-08 14-08 Abrir aquí Aviso A388-6 Viento normal a moderado con probabilidad de ventisca en cordillera. 12-08 14-08 Abrir aquí Aviso A416 Probables tormentas eléctricas en sectores de la Provincia de Huasco 13-08 13-08 Abrir aquí Por otra parte,",
    "region": "Atacama",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-13T02:11:38.3838-04:00",
+   "ts": "2026-08-13T07:56:47.4747-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
    "origen": "senapred_web",
    "regiones_extra": []
