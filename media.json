@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-13T12:11:06+00:00",
- "desde": "2026-08-11T12:11:04Z",
+ "generado": "2026-08-13T15:37:37+00:00",
+ "desde": "2026-08-11T15:37:34Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "tierra amarilla": {
@@ -15,7 +15,18 @@
      "canal": "CHV Noticias",
      "publicado": "2026-08-12T18:45:32Z",
      "live": false,
-     "score": 4.55,
+     "score": 4.26,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "20Fzu9AqXDI",
+     "url": "https://www.youtube.com/watch?v=20Fzu9AqXDI",
+     "titulo": "Activan alertas SAE por crecidas de ríos Salado y Copiapó | 24 Horas TVN Chile",
+     "canal": "24 Horas - TVN Chile",
+     "publicado": "2026-08-13T02:30:30Z",
+     "live": false,
+     "score": -2.09,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +44,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-08-12T02:37:16Z",
      "live": false,
-     "score": 3.2,
+     "score": 3.0,
      "verificado": false,
      "embeddable": true
     },
@@ -56,13 +67,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "1fboyf_Nls4",
-     "url": "https://www.youtube.com/watch?v=1fboyf_Nls4",
-     "titulo": "EN VIVO DESDE CALAMA - Primera edición de Punto de Prensa – 13 agosto 2026",
-     "canal": "diarioenlalinea",
-     "publicado": "2026-08-13T11:58:05Z",
+     "id": "Yun5gwD-P6s",
+     "url": "https://www.youtube.com/watch?v=Yun5gwD-P6s",
+     "titulo": "Transmisión en vivo Sesión Ordinaria N° 62 (13.08.2026) Concejo Municipal de Caldera - Atacama",
+     "canal": "Concejo Municipal Caldera - Atacama",
+     "publicado": "2026-08-13T01:10:27Z",
      "live": true,
-     "score": 7.98,
+     "score": 6.8,
      "verificado": false,
      "embeddable": true
     },
@@ -73,7 +84,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-08-12T18:10:31Z",
      "live": false,
-     "score": 4.5,
+     "score": 4.21,
      "verificado": false,
      "embeddable": true
     }
