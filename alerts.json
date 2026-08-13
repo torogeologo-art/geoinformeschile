@@ -1,13 +1,55 @@
 {
- "generado": "2026-08-13T05:23:41+00:00",
+ "generado": "2026-08-13T09:43:40+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "31f9bd1fff06",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Atacama por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta A133 Precipitaciones moderadas a fuertes con isoterma cero alta en Precordillera y Cordillera de la Región de Atacama. 13-08 14-08 Abrir aquí Aviso A388-6 Viento normal a moderado con probabilidad de ventisca en cordillera. 12-08 14-08 Abrir aquí Adicionalmente, la DMC ha cancelado los siguientes alertamientos meteorológicos, debido al debilitamiento de las condic",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-13T02:11:38.3838-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ec1ef4f5c12f",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-3 Viento normal a moderado en cordillera. 11-08 14-08 Abrir aquí Aviso A413 Precipitaciones normales a moderadas en precordillera y valles precordilleranos y cordillera. 15-08 15-08 Abrir aquí Aviso A414 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en la región. 13-08 14-08 Abrir aquí Cabe señalar qu",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-13T01:54:59.5959-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "4fc618e4ec64",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-6 Viento normal a moderado en Cordillera Costa, Pampa, Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera de la región. 11-08 14-08 Abrir aquí Aviso A407-3 Viento normal a moderado con probabilidad de tormentas de arena en litoral, cordillera de la costa y pampa. 11-08 12-08 Abrir aquí Aviso A415 Nevadas normales a moderadas",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-13T01:50:55.5555-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "0ae917b08dd1",
    "nivel": "ROJA",
@@ -93,34 +135,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-12T20:52:11.1111-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1c017653688a",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA131-4 Tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en la región. 12-08 12-08 Abrir aquí Aviso A397-3 Viento normal a moderado en cordillera. 11-08 14-08 Abrir aquí Aviso A413 Precipitaciones normales a moderadas en precordillera y valles precordilleranos y cordillera. 15-08 15-08 Abrir aquí Aviso A414 Probables tormentas eléctricas",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-12T20:46:07.077-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "6154f3a51eea",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA131-4 Tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en la región. 12-08 12-08 Abrir aquí Aviso A388-6 Viento normal a moderado en Cordillera Costa, Pampa, Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera de la región. 11-08 14-08 Abrir aquí Aviso A407-3 Viento normal a moderado con probabilidad d",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-12T20:21:08.088-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
    "origen": "senapred_web",
    "regiones_extra": []
   },

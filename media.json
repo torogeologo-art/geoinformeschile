@@ -1,6 +1,72 @@
 {
- "generado": "2026-08-13T05:23:43+00:00",
- "desde": "2026-08-11T05:23:42Z",
+ "generado": "2026-08-13T09:44:08+00:00",
+ "desde": "2026-08-11T09:44:06Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "tierra amarilla": {
+   "comuna": "Tierra Amarilla",
+   "region": "",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "gitcFEuZ3pc",
+     "url": "https://www.youtube.com/watch?v=gitcFEuZ3pc",
+     "titulo": "ALERTA AMARILLA por crecida del río Copiapó: Alerta por activación de quebradas en Tierra Amarilla",
+     "canal": "CHV Noticias",
+     "publicado": "2026-08-12T18:45:32Z",
+     "live": false,
+     "score": 4.75,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "diego de almagro": {
+   "comuna": "Diego de Almagro",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "R0AHtQYNTyc",
+     "url": "https://www.youtube.com/watch?v=R0AHtQYNTyc",
+     "titulo": "Alerta en Diego de Almagro por crecida del río Salado | 24 Horas TVN Chile",
+     "canal": "24 Horas - TVN Chile",
+     "publicado": "2026-08-12T02:37:16Z",
+     "live": false,
+     "score": 3.41,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "gzvoFYiUzY8",
+     "url": "https://www.youtube.com/watch?v=gzvoFYiUzY8",
+     "titulo": "Intensas labores para contener eventuales aluviones en Diego de Almagro",
+     "canal": "Teletrece",
+     "publicado": "2026-08-11T21:46:33Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "1ZUGComKQpM",
+     "url": "https://www.youtube.com/watch?v=1ZUGComKQpM",
+     "titulo": "Alerta en Atacama: Lluvias, activación de quebradas y rutas cortadas generan preocupación en zonas",
+     "canal": "CHV Noticias",
+     "publicado": "2026-08-12T18:10:31Z",
+     "live": false,
+     "score": 4.7,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }

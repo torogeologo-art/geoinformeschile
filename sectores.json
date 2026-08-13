@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-12T15:34:00+00:00",
+ "generado": "2026-08-13T09:43:40+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
   {
@@ -12,39 +12,6 @@
    "lugar": "Tierra Amarilla",
    "url": "https://t.me/SenapredChile/1517",
    "ts": "2026-08-12T13:24"
-  },
-  {
-   "nombre": "río Biobío",
-   "lat": -37.6573,
-   "lon": -72.14449,
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "sae": true,
-   "lugar": "Santa Bárbara",
-   "url": "https://t.me/SenapredChile/1509",
-   "ts": "2026-08-06T01:08"
-  },
-  {
-   "nombre": "río Purén",
-   "lat": -37.60097,
-   "lon": -72.28064,
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "sae": true,
-   "lugar": "Purén",
-   "url": "https://t.me/SenapredChile/1508",
-   "ts": "2026-08-05T23:28"
-  },
-  {
-   "nombre": "río Llollelhue",
-   "lat": -40.26227,
-   "lon": -73.02752,
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "sae": false,
-   "lugar": "Los Ríos",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-la-union-por-crecida-2026-08-05-12-03-46",
-   "ts": "2026-08-05T11:58"
   }
  ]
 }
