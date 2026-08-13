@@ -1,25 +1,6 @@
 {
- "generado": "2026-08-12T23:26:02+00:00",
- "desde": "2026-08-10T23:26:00Z",
+ "generado": "2026-08-13T05:23:43+00:00",
+ "desde": "2026-08-11T05:23:42Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "diego de almagro": {
-   "comuna": "Diego de Almagro",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "gzvoFYiUzY8",
-     "url": "https://www.youtube.com/watch?v=gzvoFYiUzY8",
-     "titulo": "Intensas labores para contener eventuales aluviones en Diego de Almagro",
-     "canal": "Teletrece",
-     "publicado": "2026-08-11T21:46:33Z",
-     "live": false,
-     "score": 3.86,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }

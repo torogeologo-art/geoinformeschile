@@ -1,38 +1,112 @@
 {
- "generado": "2026-08-12T23:26:00+00:00",
+ "generado": "2026-08-13T05:23:41+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 15,
  "alertas": [
   {
-   "id": "2db689ed6058",
+   "id": "0ae917b08dd1",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "⚠️¡ATENCIÓN!",
+   "descripcion": "⚠️¡ATENCIÓN! \nPor alerta de crecida se hace un llamado a EVITAR acercarse a riberas de los ríos Pulido y Jorquera en la comuna de Tierra Amarilla, Región de #Atacama.\n\n#SENAPRED activó mensajería #SAE preventiva.\n\nMantente informado a través de los canales oficiales y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "",
+   "comunas": [
+    "Tierra Amarilla"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-13T00:36:41+00:00",
+   "url": "https://t.me/SenapredChile/1533",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "517d8b2cfa84",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantienen vigentes los siguientes alertamientos meteorológicos para el territorio continental de la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-3 Viento normal a moderado en cordillera. 11-08 14-08 Abrir Aquí Aviso A414 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo. 13-08 14-08 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regi",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-3 Viento normal a moderado en cordillera. 11-08 14-08 Abrir Aquí Aviso A414 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo. 13-08 14-08 Abrir Aquí Aviso 409 Probables tormentas eléctricas, con probabilidad de precipitaciones fuertes en corto periodo de tiempo en Archipiélago Juan Fernández. 13-08 13-08 A",
    "region": "Valparaíso",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-12T17:47:30.3030-04:00",
+   "ts": "2026-08-12T22:16:40.4040-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-08-12-17-49-04",
    "origen": "senapred_web",
    "regiones_extra": []
+  },
+  {
+   "id": "ec264af055e6",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se modifica cobertura de Alerta Amarilla para la Región de Atacama por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas han registrado las crecidas del “Río Pulido” en Tierra Amarilla y “El Transito” en Alto del Carmen, además de la activación de quebradas en distintas cuencas de la región, lo que supone un aumento del riesgo para la población cercana. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED modifica la cobertura de Alerta Amarilla por crecida a Regional, que se encuentra vigente desde el 12 de agosto",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-12T22:01:49.4949-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-08-12-11-48-30",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ed7989e4526e",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins. Alertamiento Pronóstico Inicio Fin Enlace Aviso A414 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo. 13-08 14-08 Abrir Aquí Aviso A397-3 Viento normal a moderado en cordillera. 11-08 14-08 Abrir Aquí Asimismo, ha sido cancelado el siguiente alertamiento, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico A",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-12T21:59:17.1717-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-08-04-17-58-34",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "4ba8b4ed7f65",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A407-3 Viento normal a moderado con probabilidad de tormentas de arena en Pampa. 12-08 13-08 Abrir aquí Adicionalmente, la DMC ha cancelado los siguientes alertamientos meteorológicos, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Aviso A404-3 Precipitaciones normales a moderadas en precordillera.",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-12T21:49:20.2020-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
   },
   {
    "id": "e7ddaf932091",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA134 Tormentas eléctricas en pampa, precordillera y cordillera de la región. 12-08 12-08 Abrir aquí Aviso 388-6 Viento normal a moderado con probabilidad de tormentas de arena en Precordillera y Cordillera. 12-08 12-08 Abrir aquí Aviso A404-3 Precipitaciones normales a moderadas en Pampa y Precordillera. 10-08 12-08 Abrir aquí Aviso A406-6 Probables tormentas e",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso 388-6 Viento normal a moderado con probabilidad de tormentas de arena en Precordillera y Cordillera. 12-08 12-08 Abrir aquí Aviso A407-3 Viento normal a moderado con probabilidad de tormentas de arena en Litoral, Cordillera de la Costa y Pampa. 11-08 12-08 Abrir aquí Adicionalmente, la DMC ha cancelado el siguiente alertamiento meteorológico, debido al debilitamie",
    "region": "Tarapacá",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-12T17:05:09.099-04:00",
+   "ts": "2026-08-12T20:52:11.1111-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1c017653688a",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA131-4 Tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en la región. 12-08 12-08 Abrir aquí Aviso A397-3 Viento normal a moderado en cordillera. 11-08 14-08 Abrir aquí Aviso A413 Precipitaciones normales a moderadas en precordillera y valles precordilleranos y cordillera. 15-08 15-08 Abrir aquí Aviso A414 Probables tormentas eléctricas",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-12T20:46:07.077-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -41,11 +115,11 @@
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA130 Precipitaciones moderadas a fuertes con isoterma cero alta en Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera 11-08 12-08 Abrir aquí Alerta AA131-4 Tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en la región. 12-08 12-08 Abrir aquí Aviso A388-6 Viento normal a moderado en Cordillera Costa, P",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA131-4 Tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en la región. 12-08 12-08 Abrir aquí Aviso A388-6 Viento normal a moderado en Cordillera Costa, Pampa, Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera de la región. 11-08 14-08 Abrir aquí Aviso A407-3 Viento normal a moderado con probabilidad d",
    "region": "Antofagasta",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-12T16:34:04.044-04:00",
+   "ts": "2026-08-12T20:21:08.088-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
    "origen": "senapred_web",
    "regiones_extra": []
@@ -68,22 +142,6 @@
    "sae": true
   },
   {
-   "id": "4ba8b4ed7f65",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A404-3 Precipitaciones normales a moderadas en precordillera. 10-08 12-08 Abrir aquí Aviso A406-6 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo en Litoral, Cordillera de la Costa, Pampa, precordillera y Cordillera. 12-08 12-08 Abrir aquí Aviso A407-3 Viento normal a moderado con probabilidad de tor",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-12T13:37:01.011-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
-  },
-  {
    "id": "be7a5f4812bc",
    "nivel": "ROJA",
    "tipo": "crecida de río",
@@ -98,34 +156,6 @@
    "url": "https://t.me/SenapredChile/1517",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "1c017653688a",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA129 Precipitaciones moderadas a fuertes en corto periodo de tiempo&nbsp; en valles precordilleranos y cordillera al norte de Vicuña. 12-08 12-08 Abrir aquí Alerta AA131-4 Tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en la región. 12-08 12-08 Abrir aquí Aviso A397-3 Viento normal a moderado en cordillera. 11-08 14-08 Abrir aquí Avi",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-12T12:48:47.4747-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "bc2aaf33188e",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para la comuna de Tierra Amarilla por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Pulido”, indica un incremento en su caudal, alcanzando valores de umbral amarillo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del&nbsp;SENAPRED declara Alerta Amarilla por crecida para la comuna de Tierra Amarilla, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con la declaración de la Alerta Am",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-12T11:47:23.2323-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-08-12-11-48-30",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "e3988d49ed95",
@@ -384,20 +414,6 @@
    "regiones_extra": []
   },
   {
-   "id": "6b9d9442528a",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins. Alertamiento Pronóstico Inicio Fin Enlace Aviso A387-4 Viento normal a moderado en precordillera y cordillera. 07-08 08-08 Abrir aquí Aviso A397-1 Viento normal a moderado en cordillera. Viento en dirección Este (Raco, Puelche). 10-08 13-08 Abrir aquí Asimismo, ha sido cancelado el siguiente alertamiento, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Avis",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-08T16:03:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-08-04-17-58-34",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "cf099ba1c63c",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -475,7 +491,7 @@
    "descripcion": "¡ATENCIÓN! EVITA ribera del estero Caillín por alerta de crecida, en la comuna de #Cañete, Región del Biobío. \nInfórmate a través de los canales oficiales y sigue las indicaciones de la autoridad.\n#SENAPRED activó mensajería #SAE Preventiva.",
    "region": "Biobío",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-06T02:59:25+00:00",
    "url": "https://t.me/SenapredChile/1511",
    "origen": "telegram",
@@ -505,7 +521,7 @@
    "comunas": [
     "Santa Bárbara"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-06T01:08:27+00:00",
    "url": "https://t.me/SenapredChile/1509",
    "origen": "telegram",
@@ -521,7 +537,7 @@
    "comunas": [
     "Purén"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-05T23:28:04+00:00",
    "url": "https://t.me/SenapredChile/1508",
    "origen": "telegram",
