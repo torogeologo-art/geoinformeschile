@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-14T09:36:06+00:00",
- "desde": "2026-08-12T09:36:04Z",
+ "generado": "2026-08-14T09:42:59+00:00",
+ "desde": "2026-08-12T09:42:56Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "tierra amarilla": {
@@ -26,7 +26,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-08-13T02:30:30Z",
      "live": false,
-     "score": -3.59,
+     "score": -3.6,
      "verificado": false,
      "embeddable": true
     }
@@ -44,7 +44,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-08-13T20:30:25Z",
      "live": false,
-     "score": 4.91,
+     "score": 4.9,
      "verificado": false,
      "embeddable": true
     },
