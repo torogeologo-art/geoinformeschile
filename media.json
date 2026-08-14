@@ -1,26 +1,8 @@
 {
- "generado": "2026-08-14T21:58:36+00:00",
- "desde": "2026-08-12T21:58:34Z",
+ "generado": "2026-08-14T22:55:39+00:00",
+ "desde": "2026-08-12T22:55:37Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "tierra amarilla": {
-   "comuna": "Tierra Amarilla",
-   "region": "",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "20Fzu9AqXDI",
-     "url": "https://www.youtube.com/watch?v=20Fzu9AqXDI",
-     "titulo": "Activan alertas SAE por crecidas de ríos Salado y Copiapó | 24 Horas TVN Chile",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-08-13T02:30:30Z",
-     "live": false,
-     "score": -4.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "atacama": {
    "comuna": "Atacama",
    "region": "Atacama",
@@ -33,7 +15,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-08-13T20:30:25Z",
      "live": false,
-     "score": 3.88,
+     "score": 3.8,
      "verificado": false,
      "embeddable": true
     }
