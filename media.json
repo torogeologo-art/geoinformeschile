@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-14T05:20:19+00:00",
- "desde": "2026-08-12T05:20:17Z",
+ "generado": "2026-08-14T05:50:30+00:00",
+ "desde": "2026-08-12T05:50:29Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "tierra amarilla": {
@@ -15,7 +15,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-08-12T18:45:32Z",
      "live": false,
-     "score": 3.12,
+     "score": 3.08,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,36 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-08-13T02:30:30Z",
      "live": false,
-     "score": -3.24,
+     "score": -3.28,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "AXHmsjyl2mE",
+     "url": "https://www.youtube.com/watch?v=AXHmsjyl2mE",
+     "titulo": "BARRO INUNDÓ TODO: Aluvión provocó estragos y destruye varias casas en El Tránsito, Atacama",
+     "canal": "CHV Noticias",
+     "publicado": "2026-08-13T20:30:25Z",
+     "live": false,
+     "score": 5.22,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "c433y19KSzY",
+     "url": "https://www.youtube.com/watch?v=c433y19KSzY",
+     "titulo": "Riesgo de aluvión: alarma por activación de quebradas en la región de Atacama",
+     "canal": "Meganoticias",
+     "publicado": "2026-08-12T18:54:38Z",
+     "live": false,
+     "score": 3.09,
      "verificado": false,
      "embeddable": true
     }
