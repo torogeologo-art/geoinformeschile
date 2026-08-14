@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-14T21:03:51+00:00",
+ "generado": "2026-08-14T21:58:34+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,48 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "a8e0791a10c8",
+   "nivel": "ATP",
+   "tipo": "otros",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la región de Los Ríos por evento zoosanitario",
+   "descripcion": "En atención a los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , se encuentran vigentes las siguientes Resoluciones Exentas en la Región de Los Ríos: Resolución Exenta N° 1833 de 2026 Declaración de Emergencia Sanitaria, por la presencia del virus aviar de alta patogenicidad H5N1 (IAPP). Resolución Exenta N° 585 de 2026 Confirmación de presencia de virus aviar de alta patogenicidad H5N1 (IAPP) en la Región de Los Ríos. Activación de protocolos de vigilancia junto con formación del Centro de Operación Regional. De acuerdo con el avance de la Emergencia en la región y pr",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-14T17:53:11.1111-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "43bd266875b9",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Atacama por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-7 Viento normal a moderado con probabilidad de ventisca en cordillera. 12-08 14-08 Abrir aquí Aviso A421 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle y pampa de la región. 17-08 18-08 Abrir aquí Por otra parte, debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento para la re",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-14T17:16:17.1717-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "298a6864052e",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo de Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-7 Viento normal a moderado con probabilidad de tormentas de arena en codillera de la costa, precordillera occidental, precordillera alto Loa, precordillera salar y cordillera. 12-08 14-08 AbrirAquí Aviso A417-2 Precipitaciones normales a moderadas en litoral de la región. 14-08 15-08 Abrir Aquí Aviso A421 Precipitaciones normales a moderadas en litoral y c",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-14T17:10:03.033-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "0d7d1041d393",
    "nivel": "ATP",
@@ -69,20 +111,6 @@
    ]
   },
   {
-   "id": "298a6864052e",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo de Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-7 Viento normal a moderado con probabilidad de tormentas de arena en codillera de la costa, precordillera occidental, precordillera alto Loa, precordillera salar y cordillera. 12-08 14-08 AbrirAquí Aviso A417-2 Precipitaciones normales a moderadas en litoral de la región. 14-08 15-08 AbrirAquí Además, debido al debilitamiento de las condiciones que lo orig",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-14T14:57:23.2323-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "359bfb988502",
    "nivel": "ATP",
    "tipo": "viento",
@@ -139,20 +167,6 @@
    "regiones_extra": []
   },
   {
-   "id": "f7cbae5d03a2",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A418-2 Viento normal a moderado en litoral Y cordillera de la costa de la región. 14-08 15-08 Abrir aquí Aviso A420 Probables tormentas eléctricas en valle de la región. 15-08 15-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED&nbsp; declara Alerta Temprana",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-14T11:10:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-08-14-11-17-27",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "e2bd326b9cbb",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -177,20 +191,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-14T09:18:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-heladas-2026-08-06-15-46-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "43bd266875b9",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Atacama por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC ), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta A133 Precipitaciones moderadas a fuertes con isoterma cero alta en Precordillera y Cordillera de la Región de Atacama. 13-08 14-08 Abrir aquí Aviso A388-7 Viento normal a moderado con probabilidad de ventisca en cordillera. 12-08 14-08 Abrir aquí Cabe señalar que, se ha cancelado el Aviso Meteorológico A416-1 que pronostico probables tormentas eléctricas asociada",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-14T00:04:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -522,20 +522,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-09T13:54:03.033-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-04-17-37-43",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "80a979f3697b",
-   "nivel": "ATP",
-   "tipo": "otros",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la región de Los Ríos por evento zoosanitario",
-   "descripcion": "En atención a los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , se encuentran vigentes las siguientes Resoluciones Exentas en la Región de Los Ríos: Resolución Exenta N° 1833 de 2026 Declaración de Emergencia Sanitaria, por la presencia del virus aviar de alta patogenicidad H5N1 (IAPP). Resolución Exenta N° 585 de 2026 Confirmación de presencia de virus aviar de alta patogenicidad H5N1 (IAPP) en la Región de Los Ríos. Activación de protocolos de vigilancia junto con formación del Centro de Operación Regional. De acuerdo con el avance de la emergencia y producto de las",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-08T19:49:08.088-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
    "origen": "senapred_web",
    "regiones_extra": []
   },
