@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-13T23:27:21+00:00",
- "desde": "2026-08-11T23:27:19Z",
+ "generado": "2026-08-14T00:02:10+00:00",
+ "desde": "2026-08-12T00:02:08Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "tierra amarilla": {
@@ -15,7 +15,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-08-12T18:45:32Z",
      "live": false,
-     "score": 3.61,
+     "score": 3.56,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-08-13T02:30:30Z",
      "live": false,
-     "score": -2.75,
+     "score": -2.79,
      "verificado": false,
      "embeddable": true
     }
@@ -45,24 +45,6 @@
      "publicado": "2026-08-12T02:37:16Z",
      "live": false,
      "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "AXHmsjyl2mE",
-     "url": "https://www.youtube.com/watch?v=AXHmsjyl2mE",
-     "titulo": "BARRO INUNDÓ TODO: Aluvión provocó estragos y destruye varias casas en El Tránsito, Atacama",
-     "canal": "CHV Noticias",
-     "publicado": "2026-08-13T20:30:25Z",
-     "live": false,
-     "score": 5.75,
      "verificado": false,
      "embeddable": true
     }

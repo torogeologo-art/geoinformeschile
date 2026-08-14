@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-13T12:11:03+00:00",
+ "generado": "2026-08-14T00:02:08+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -168,10 +168,10 @@
      "sector": null
     },
     {
-     "titulo": "VÍDEO | El aumento del caudal del Tormes transforma el entorno del Puente Romano - SALAMANCArtv AL DÍA",
-     "medio": "SALAMANCArtv AL DÍA",
-     "fecha": "2026-05-06T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOFBoVTBNM1VfZ0YzdWRtcWRvR3RaTmlJV1RuZGQwRWptNWJncDVjN2tNdXZ0OTJseEdGVy1WNk5XUkdkQ1FlZ1hKajBEb2twTFZJTDAxQl9WRjdjYVNBTTNDZTJNUHoxdl93eTBJV2piYjVnb1ZNTHB4ZWZia3FzLXJKYV9UTFBfX0VYR2NKQzRISi1hYjhQUXJYYlFESE5KdUVYVkZZM05sOTlRUVN3QmV6RFkzM0pQR25PWndQMThSU2plR2tnd3pXSkJodw?oc=5",
+     "titulo": "Desbordamientos y crecidas de ríos en la provincia de Salamanca tras las últimas borrascas de enero y febrero - Salamanca24horas",
+     "medio": "Salamanca24horas",
+     "fecha": "2026-05-24T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGVpUjUyZ0Y5b3FqaS01N3ZlbE1zS2o5VU1Ddm8yT2RmZHMyWnVBVG5iSUlDLTdzMFBFV21LZDJCS0ZhVEhxX181OWVDMXY4WTNuV2hydTdRT2Q0UWZvaTEydlAxX0hjYm9sOWdHSWhSaElDWVNYVno0U2Z5R19HMGprc3N0c2pRMmVFaTNoT0NoSkN4SE5CTWJwd1lKMjNP?oc=5",
      "sector": null
     }
    ]
@@ -255,6 +255,13 @@
    "comuna": "Tierra Amarilla",
    "noticias": [
     {
+     "titulo": "MOP responde a alcalde de Tierra Amarilla por fiscalización en el río Copiapó - atacamanoticias.cl",
+     "medio": "atacamanoticias.cl",
+     "fecha": "2026-08-13T11:52:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjhSUGxYaFNNaE9SYTdEZ05rRkJfWjZlYWhuNURGWmpZaExNRGU2R25DdG1BUUNocnNTenRtOGgwUmpjZVZtSEVrb1kzRTZSZVM1RGk3MkpIQjdWLXZZVUVFcHZSTU82ZFR4eVRlQmxmMXRLaVZHNGl0aUxXRlNERHdoOXJfTmRHZldpOVVXalp2SXowcXhmME10SmRNbjRoUzRSSEJMTUltaFdKZFRjdVNPQUtWRmQ5WXo1QQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "MOP informa medidas preventivas ante intervención de infraestructura hidráulica en Tierra Amarilla - Medio digital El Zorro Nortino",
      "medio": "Medio digital El Zorro Nortino",
      "fecha": "2026-08-13T04:17:54+00:00",
@@ -320,17 +327,6 @@
      "fecha": "2026-08-12T23:12:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQkFtSzg4WG4zNXduU2FtZkNybVp0VkhhRVhvNG5VcTNsREhFUVE1N0s5OFp0Q05ldVNqTDNWcmtsMUlfRzk5WWZNcVktVVhRdW9FcTZtTVF4YkUzYzBFYmdjM1ZrdHBrZTJ4Q0Jvb0dNc254Tl9jY0xVU1JFTVNGOWNEV3JJT1hIQnJMRHB0Ym16SDVlc2JvQUxsbXRBUmFTNEI3YjhtRnQ0ODBVa3pCRVBJb29peVZFNDJQSTlpeEE2eHU4?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "Cortes de caminos, activación de quebradas y evacuación por desborde de río Pulido en Tierra Amarilla provoca sistema frontal - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-08-12T22:18:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcG1ocFktZlZ1c2oyYzdXdV9YUXdPZEdvSGE0SXpVVUJDak94Q21mcGhFdnk1Z3l4RXFLRkJqUC1FNjlkaUZXSzljeGZlX3FiQ2NPRlMzVWxjLTBUODhjYjRhR1UtUkJtdy1kcTYwMzRFLVBOUW4xVXh3N2JBSldDRVpnclFnelMxZzhDU1RLYmdFUThZQ1ota2c2MUQ0ejNSUF85M0p4UmhacG1GVTF3a0JFU0ZjVUhkVEl2OTQ2QkxBTHJJZERIb3VOMllwQlRZX0ZOVVgwY1Jzam5UbnU1cVphX2pUUQ?oc=5",
-     "sector": {
-      "nombre": "río Pulido",
-      "lat": -28.15641,
-      "lon": -69.878
-     }
     }
    ]
   },
@@ -2822,6 +2818,13 @@
    "comuna": "Osorno",
    "noticias": [
     {
+     "titulo": "Abordan necesidades de comunidades afectadas por crecidas de ríos en Osorno - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-08-13T20:52:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNjY1cGxldHR2WE9Ib1JncDNzRnN0LWNncFdpS0dqeE5PSzR5ZENXdW9TTFo2SzRoMFpZU2xVdzdSZ2lkV19uSXZBbUdyV0xnbEoxODBnbXBlZ0xtUnJCME9sTU1FSVplcHdfa2tCN0tTTnppTmliOXZyR1pJcU44cGowZHBRVjMzOWoyemgxa0VudXNnOWk4eGt6QVVsMDRBUGh4cGhFZEh1aktJ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "La provincia de Osorno vivió el julio más lluvioso de los últimos 48 años - SoyChile.cl",
      "medio": "SoyChile.cl",
      "fecha": "2026-08-04T12:38:13+00:00",
@@ -2882,13 +2885,6 @@
      "medio": "Radio Sago",
      "fecha": "2026-08-02T02:31:25+00:00",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSVM5aGZmTVpKdm5BMEIxU2dqeXctQUF0UVZpYU5VaVpmUER1azlIenlLUERxTVdxbHpDZmlpMERUVXZxdzN4djVDQjlaS08zZ3pIbmt4SFlQWFZtZkFEZkM3MnpScjhzZjYwR3YyeFgtQ3RrWEowcHE3RHB3RlJhZE1YYjZzNkV4MXpKbm5xQ0hBRWc2X2otQWNucGIwSERHZnlBRHNiSVdHa3pkbUJSWnhn?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alerta Roja en Osorno por desborde de ríos - Paislobo Prensa",
-     "medio": "Paislobo Prensa",
-     "fecha": "2026-08-02T02:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OX3JKX1NUODJrOVdoMnpKTm1sa2x1cFFUZVRjU1ZINERLenJJMnZOd2FrUGZzV2ozMnYxcGtKNWs2Y2pjMXJkQ3lMaGsyRUVYUkJnQXhrTHFhZnJjMG9EeXBVSFhESHp4NHNyVVZLN2I5RWs3MFhEbDhZLUtpTjA?oc=5",
      "sector": null
     }
    ]
@@ -3280,6 +3276,13 @@
    "comuna": "Chañaral",
    "noticias": [
     {
+     "titulo": "El Dejavu en Chañaral, hija de fallecido en aluvión del 2015 recuerda el último día de su padre: “Con la lluvia te das cuenta que la memoria emotiva sigue viva” - The Clinic",
+     "medio": "The Clinic",
+     "fecha": "2026-08-13T15:47:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQdFlhR3ZNQzNKWGRkWG13RHZacHowRlNjM243WlVtdm5TX0VubW53NjZaa29FWmt6aWxlNVJhWnByMlBXNTFKVjhreGNuY3JWbGNES0dxZFlkUzcyWDVibl9hUXc4dEN2V01reDJDWUtBVUpPQ1hYeEZIdVJnYjIyR2ZyUG8wMG5zaEc1X25YZTFibS03TG53ejhXcGZuRU1ONU40em1oci1JcjZYVkItRWsxNjhWc2c0MHl4eXkyUkNTV1k3Z3JTS29yalFXdnVzdmZHVUMySnVzV1NxZHZCc21NcjQwY0ROOW95UjlmQ0xnOUFpQkZ0TmgwbXc5T1Z1RUlqQmVrM2ZIbzFuOTB5dE1fZXI2WEpITEY1MlNvb0ozUGvSAaMCQVVfeXFMUHRZYUd2TUMzSlhkZFhtd0R2WnB6MEZTYzNuN1pVbXZuU19Fbm1udzY2WmtvRVpremlsZTVSYVpwcjJQVzUxSlY4a3hjbmNyVmxjREtHcWRZZFM3Mlg1Ym5fYVF3OHRDdldNa3gyQ1lLQVVKT0NYWHhGSHVSZ2IyMkdmclBvMDBuc2hHNV9uWGUxYm0tN0xud3o4V3BmbkVNTjVONHptaHItSXI2WFZCLUVrMTY4VnNnNDB5eHl5MlJDU1dZN2dyU0tvcmpRV3Z1c3ZmR1VDMkp1c1dTcWR2QnNtTXI0MGNETjlveVI5ZkNMZzlBaUJGdE5oMG13OU9WdUVJakJlazNmSG8xbjkweXRNX2VyNlhKSExGNTJTb29KM1Br?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "El Viejo Roble: la historia del chofer minero que perdió todo en el aluvión de Chañaral y convirtió la ruina en la perla gastronómica de la carretera de Atacama - The Clinic",
      "medio": "The Clinic",
      "fecha": "2026-08-07T16:35:21+00:00",
@@ -3340,13 +3343,6 @@
      "medio": "elciudadano.com",
      "fecha": "2017-05-23T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUEpFZE1CbnNLaXY2UlRweVpXVzlvUkFhX2N6QWxObVotMG5Dd21aZU1maXp3bHRGOGxuOEVXT3NuSkJUclVJcTlPMXdxekZ2VHNfNllaSFR6S3UyQzZ1RnlXNkJzcWRtSGdESDRWT3dVeVlFVDZHY2E3anBTdUNwSENBR3Y3X2IwXzFoUWUtaVB5MmtFcV9LRGUxQVBSQTFYbS02ckp6VVJQbzZoMDlKcVZJWExfNUp3dWpj?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Fotos aéreas revelan el impactante estado en que quedó Chañaral tras aluvión - BioBioChile",
-     "medio": "BioBioChile",
-     "fecha": "2017-05-19T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaHdYcVpRZHZCekxDc296RzZYVXhIS0NFVkd5Rnk1WjdDeE9pcmJKdW1yTF9BZy1vUVpKUE1RcmoydWx0RjJUNlRiOVRwMEVzZ1pIUGdNa2ZBWnBMRTc1WU1QcDFDLWZ3Mm0zejM1eWV1RE1JcEFPTUF6ekZ4bXFHSUpyc3BCTm51bVRrNXBRbG53aDlsUldfZW9KVXc3ZnRZWlVaNHpKN0pPS1UwSDVLS09nOGxXazd3aGdueDg1WGhYbU1iTTdwSl84bV9BWTE1bGZUb3dLYm9sWXlZaUxWd1ZqWlNkcVVZRVp1eQ?oc=5",
      "sector": null
     }
    ]
