@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-14T18:10:02+00:00",
- "desde": "2026-08-12T18:10:00Z",
+ "generado": "2026-08-14T20:05:34+00:00",
+ "desde": "2026-08-12T20:05:33Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "tierra amarilla": {
@@ -8,17 +8,6 @@
    "region": "",
    "alerta": "ROJA",
    "videos": [
-    {
-     "id": "gitcFEuZ3pc",
-     "url": "https://www.youtube.com/watch?v=gitcFEuZ3pc",
-     "titulo": "ALERTA AMARILLA por crecida del río Copiapó: Alerta por activación de quebradas en Tierra Amarilla",
-     "canal": "CHV Noticias",
-     "publicado": "2026-08-12T18:45:32Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
     {
      "id": "20Fzu9AqXDI",
      "url": "https://www.youtube.com/watch?v=20Fzu9AqXDI",
@@ -44,18 +33,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-08-13T20:30:25Z",
      "live": false,
-     "score": 4.19,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "c433y19KSzY",
-     "url": "https://www.youtube.com/watch?v=c433y19KSzY",
-     "titulo": "Riesgo de aluvión: alarma por activación de quebradas en la región de Atacama",
-     "canal": "Meganoticias",
-     "publicado": "2026-08-12T18:54:38Z",
-     "live": false,
-     "score": 3.0,
+     "score": 4.03,
      "verificado": false,
      "embeddable": true
     }

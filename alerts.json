@@ -1,13 +1,71 @@
 {
- "generado": "2026-08-14T18:09:59+00:00",
+ "generado": "2026-08-14T20:05:07+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "81c7cef1801d",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Última Esperanza por heladas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones meteorológicas que lo originaron ha sido cancelado el siguiente alertamiento para la Región de Magallanes: Alertamiento Pronóstico Aviso A410/2026 Heladas normales a moderadas Cordillera Austral Norte y Pampa Patagónica Norte. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Magallanes,la Dirección Regional del SENAPRED&nbsp; cancela la Alerta Temprana Preventiva para la Provincia de Última Esperanza por Heladas,&nbsp;",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-14T15:02:36.3636-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-heladas-2026-08-11-15-47-55",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "298a6864052e",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo de Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-7 Viento normal a moderado con probabilidad de tormentas de arena en codillera de la costa, precordillera occidental, precordillera alto Loa, precordillera salar y cordillera. 12-08 14-08 AbrirAquí Aviso A417-2 Precipitaciones normales a moderadas en litoral de la región. 14-08 15-08 AbrirAquí Además, debido al debilitamiento de las condiciones que lo orig",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-14T14:57:23.2323-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "359bfb988502",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Isla de Pascua por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Provincia de Isla de Pascua: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA137 Precipitaciones moderadas a fuertes en corto período de tiempo 17-08 17-08 Abrir aquí Aviso A419-1 Viento normal a moderado 15-08 17-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED&nbsp; declara Alerta Temprana Preventiva por evento meteo",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-14T14:53:38.3838-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-08-14-14-54-33",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "88a82836d4d7",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica cobertura de Alerta Amarilla para la región de Valparaíso, a excepción de la Provincia de Isla de Pascua y la comuna de Juan Fernández, por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-4 Viento normal a moderado en cordillera de la región. 13-08 15-08 Abrir Aquí Aviso A414-2 Probables tormentas eléctricas con probabilidad de rachas de vientos locales en la región. 13-08 15-08 Abrir Aquí Por otra parte, debido al debilitamiento de las condiciones que los originaron, han sido cancelados los siguiente alertamientos para la región: Alertamient",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-14T14:20:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-08-12-17-49-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "d20398c36de7",
    "nivel": "ATP",
@@ -123,20 +181,6 @@
    "regiones_extra": []
   },
   {
-   "id": "4fc618e4ec64",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-7 Viento normal a moderado con probabilidad de tormentas de arena en codillera de la costa, precordillera occidental, precordillera alto Loa, precordillera salar y cordillera. 12-08 14-08 Abrir Aquí Aviso A415 Nevadas normales a moderadas con probabilidad de ventisca en cordillera. 13-08 14-08 Abrir Aquí Aviso A417-1 Precipitaciones normales a moderadas. 1",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-13T22:27:34.3434-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "a51d81605346",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -161,20 +205,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-13T20:16:13.1313-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7c381b2a4125",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la Región de Valparaíso excepto la Provincia de Isla de Pascua por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA135 Tormentas eléctricas con probabilidad de granizos en litoral, cordillera de la costa, precordillera y valles precordilleranos de la región. 13-08 13-08 Abrir Aquí Aviso A397-4 Viento normal a moderado en cordillera de la región. 13-08 15-08 Abrir Aquí Aviso A409 Probables tormentas eléctricas, con probabilidad de precipitaciones fuertes en corto periodo de",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-13T18:58:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-08-12-17-49-04",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -366,22 +396,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-palena-por-evento-meteorologico-2026-08-08-18-15-59",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "fc8d1c91038f",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Última Esperanza por heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A410/2026 Heladas normales a moderadas Cordillera Austral Norte y Pampa Patagónica Norte. 12-08 14-08 Abrir aquí Además, considerando el pronóstico especial emitido durante la presente jornada por el Centro Meteorológico Regional Austral, señala que las temperaturas mínimas (°C) esperadas por comuna son las siguientes: Sector Comuna Miércoles 12 agosto Jueves 13 agosto Viernes 14",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-11T15:47:03.033-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-heladas-2026-08-11-15-47-55",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "57a08b26e702",
