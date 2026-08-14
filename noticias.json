@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-14T09:42:56+00:00",
+ "generado": "2026-08-14T15:11:33+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -484,6 +484,13 @@
    "comuna": "Copiapó",
    "noticias": [
     {
+     "titulo": "Impresionante crecida del río Copiapó: la curiosidad que desafió alerta para evacuar - soychile.cl",
+     "medio": "soychile.cl",
+     "fecha": "2026-08-14T14:02:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFU3cmRJQUV6R1UtY2oxdDhlQnhMbFA1VGI0ZlpXckRRdjBwaVM4NTZ6TzM3d1FCMTJzNGhKVVpqR3E1R0twUVYzWXN2bVpDZGxyTHEtLUJ2QlNIQnhlNTI0bG56RUJtOXFiWUdVMVlOc1ZMWW9WaFo4c2hhX09sTEd0b203dUhpZVE?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Informe de Monitoreo Regional: Senapred mantiene alertas vigentes y reporta nuevas interrupciones de conectividad en Atacama - Radio Maray",
      "medio": "Radio Maray",
      "fecha": "2026-08-13T13:04:04+00:00",
@@ -544,13 +551,6 @@
      "medio": "NOSTÁLGICA cl",
      "fecha": "2026-08-12T15:12:10+00:00",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa1FhV1ZWUlU5RzhXUS1RcFhtN2kyTDA2ajVDZVo1LWRZTFJFWUQyZDNXMlprU0RyUGo0SnhZME80OUoxYUZUVTV4UWd0SFpXWUs3WDJKdm5HWjZOYkFobENXMnA2SUpLUUpleVB5bkZKSV82emZCYXJxTXdYS1JJUXVLZWM0UjQ0MTZCaUxxVWxXUFV5QkwyU1FZcjFVZDFYcGozUzdyM2ZXNWVZMUEwN1c5RklvVnJFd0NSZ3JPTlBCaXlDSUJaMkhRdGFTc2Zm?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Interrupción de agua potable afecta a 1.590 personas en Copiapó - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-08-12T15:11:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPdXVDUnRzWnBYb1ZTY0RXMC1tSUJENjkzLXdtNDNrdTlQUFJCZjE1Y3dnbWRydWxrcG8tbzJjb01KQ0JtT0VJQk5QT3lTWnNEM2pFcDVpb3QzdTJ0TGpETEg3QkFsS3RDWjV5V3VuNTliemhLS0FMSG9GY0NUTVlYWFlIclpEZlkyZXZodzlPNkQ4ajYyazZlZ1lMV2J6TEVIb3VKWUhqaEVHT2UxMUJlSy0ta0ttaVc1U1R6U0Q3S3RCREZ2eFF4ZGlvVTM4cUdidGpOVHRqVVFKRlBOUGI2dUdFT3hwTWRleXU2UXlyZURPc2hPaV9OUzN4T3NtLTVleDY2RUc1RHdOcWY2Smh2Z2NkMDBCOVczVk9KeV8wbFBjZUQycUwtbGFFZDZYR1VJYmFHX0Y4U01MYjVNNDJLWWZOYmE3c3pJaFBqYmpXRTZ3WjNjbWhZbnhsOE93dw?oc=5",
      "sector": null
     }
    ]
@@ -1115,6 +1115,13 @@
      "sector": null
     },
     {
+     "titulo": "Inundaciones y quebradas activadas en Alto del Carmen: Municipio solicita fondos urgentes para maquinaria y combustible - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-08-13T16:50:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNNFZOeWpNOVB6elFxa19oeHJrNTdwTDNDV1E5S2pWd0o0MGV3Y1ZhSW91VTZyMk0tVjRnMjNFcHlYM2FfYllqLXljdWJzVWd4ZURsa0VUS3psNnlVdXZ2NTdENWhESl94em9McGhWT25PYVNXVVVBX3h3MWNoelZUOUg5elhtb3JMakRma2FYYkplYjgtc1AwS2ctVng5ZkR4bmFIN1V6c0FfbEMzcEtlWEhsX3BUcUxiTVMzYTF3MzExOUlDVjZpdVFnZnBSQlUxSTBBcHhMS1VhNkprd0pyeGJHYXR1eDNoZWF2VnpsTlJsZE9sNXJNZXRIYmRkVklXT29pMTZFcFA0Nk9vN1lBeEExeGFpUUxKY0lnVnVLVHBudmpUanVlQUEtemEzSFViRndhSHJhNlpkSWFmMWcwRFo2VlpsXzVnMUJLUVdwNXpLR2xOUU1pa1NYbUd2VEhCbVB0YWpZYnZDcEJib01UazZXVkxXc2I3SkdHdXgyTzFFZW1lSnlfOW9QdktnVXdoQUkxUEN0U0wzUUM0T28yNTlib050QS1FUEFWemtQb3VBYThveXc?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "¿Habrá tornados en el norte?: Allison Göhler entregó detalles de las condiciones climáticas para hoy en la zona - Chilevisión",
      "medio": "Chilevisión",
      "fecha": "2026-08-12T16:03:09+00:00",
@@ -1168,13 +1175,6 @@
      "medio": "Medio digital El Zorro Nortino",
      "fecha": "2026-07-25T04:13:49+00:00",
      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRFNiRzFlUWFYR19OYkxuSkVCZGY4ZUdWV1JOdndSY0N6TFFvZk1VSzEzcUZQenE0UXFwMHdEODdmUjRaa0pOeTUyWVZsUlpaSENDX1RBak1IVGZxN1FkMFZBNjFzV1RJaVVXTUY2ZHA1eWExdU1NRE9ERmVjUm5IRWpxU0gwRVlxZy1ZOXpzMjdxZ2daZDFnNDhGVHo2TjY0d1hhN0NWenFKWFNKaTVfZnBNVDJ1QmFjQ0M4cHpCNnZvOXAtQ1hrWWtQUEZZTUdoYURzWjlPd1BsM20xc2FoMGFOakc4bkk4Q2tUSnE3NmhkRDY4RlpKcFFEZw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Cortes en la Ruta 5 Norte complican la conexión de Atacama y Coquimbo tras sistema frontal: ¿Qué puntos siguen afectados? - elquehaydecierto.cl",
-     "medio": "elquehaydecierto.cl",
-     "fecha": "2026-07-22T21:11:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV282WWgxQm9VM1prZTh4dHJQRnlBS0tnUjNXTzd6RWU2bmxpdVpZZi1qNGNHemE0Q0c5R1NVY2RsS3VITmJlbi1paWt2aV9PMFNBRjNyQjFOUlpYNVRPaDBaMzc1NW0yTzlnZlJtNUZ6bjlXNFRfOTVuajhSRjZLbzg5VkZsdlg2UHJ2VVpYV2dJQjFWQ25Bc25ER0ZJZ0VabDVKNm5CbkNlbm5MdXJpbVF4LTg4UXVnNWJiOHpZYTZTcnJCMTNoakhfUm4?oc=5",
      "sector": null
     }
    ]

@@ -1,28 +1,28 @@
 {
- "generado": "2026-08-14T09:42:59+00:00",
+ "generado": "2026-08-14T15:11:37+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "04-08-2026",
   "hasta": "14-08-2026"
  },
  "totales": {
-  "alertas": 122,
+  "alertas": 123,
   "sae": 10,
   "comunas": 8,
   "regiones": 16,
   "por_nivel": {
-   "ROJA": 16,
-   "ATP": 65,
-   "AMARILLA": 41
+   "ATP": 66,
+   "ROJA": 15,
+   "AMARILLA": 42
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    44
+    45
    ],
    [
     "viento",
-    36
+    35
    ],
    [
     "crecida de río",
@@ -30,7 +30,7 @@
    ],
    [
     "evento meteorológico",
-    6
+    7
    ],
    [
     "desborde",
@@ -181,15 +181,6 @@
   ],
   "viento": [
    {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "04-08",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
     "lugar": "Región de Atacama",
     "region": "Atacama",
     "nivel": "AMARILLA",
@@ -206,6 +197,15 @@
     "ts": "05-08",
     "comuna_link": "",
     "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "05-08",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Ñuble",
@@ -539,7 +539,7 @@
  "vigentes": {
   "ROJA": 4,
   "AMARILLA": 3,
-  "ATP": 9,
+  "ATP": 8,
   "regiones_roja": [
    "Atacama"
   ]
@@ -547,7 +547,7 @@
  "serie": [
   {
    "fecha": "2026-08-04",
-   "ROJA": 2,
+   "ROJA": 1,
    "AMARILLA": 3,
    "ATP": 8,
    "sae": 0
@@ -618,8 +618,8 @@
   {
    "fecha": "2026-08-14",
    "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 0,
+   "AMARILLA": 2,
+   "ATP": 1,
    "sae": 0
   }
  ],
@@ -897,6 +897,24 @@
  ],
  "cronologia": [
   {
+   "ts": "14-08 09:18",
+   "nivel": "ATP",
+   "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-heladas-2026-08-06-15-46-40"
+  },
+  {
+   "ts": "14-08 09:05",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Coquimbo",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23"
+  },
+  {
    "ts": "14-08 00:04",
    "nivel": "AMARILLA",
    "lugar": "Región de Atacama",
@@ -1003,24 +1021,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14"
-  },
-  {
-   "ts": "13-08 01:54",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23"
-  },
-  {
-   "ts": "13-08 01:50",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
