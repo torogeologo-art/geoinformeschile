@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-14T00:02:10+00:00",
- "desde": "2026-08-12T00:02:08Z",
+ "generado": "2026-08-14T05:20:19+00:00",
+ "desde": "2026-08-12T05:20:17Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "tierra amarilla": {
@@ -15,7 +15,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-08-12T18:45:32Z",
      "live": false,
-     "score": 3.56,
+     "score": 3.12,
      "verificado": false,
      "embeddable": true
     },
@@ -26,25 +26,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-08-13T02:30:30Z",
      "live": false,
-     "score": -2.79,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "diego de almagro": {
-   "comuna": "Diego de Almagro",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "R0AHtQYNTyc",
-     "url": "https://www.youtube.com/watch?v=R0AHtQYNTyc",
-     "titulo": "Alerta en Diego de Almagro por crecida del río Salado | 24 Horas TVN Chile",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-08-12T02:37:16Z",
-     "live": false,
-     "score": 3.0,
+     "score": -3.24,
      "verificado": false,
      "embeddable": true
     }
