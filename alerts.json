@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-14T20:05:07+00:00",
+ "generado": "2026-08-14T21:03:51+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,50 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "0d7d1041d393",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región Arica y Parinacota por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-7 Viento normal a moderado con probabilidad de tormentas de arena, en cordillera de la región. 17-08 18-08 Abrir Aquí Aviso A417-2 Precipitaciones normales a moderadas en litoral de la región. 14-08 15-08 Abrir Aquí Aviso A421 Precipitaciones normales a moderadas en litoral y cordillera de la costa de la región. 17-08 18-08 Abrir Aquí Por otra parte",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-14T16:20:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
+  {
+   "id": "007ea16f8c8a",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo de Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo : Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-5 Viento normal a moderado en cordillera de la región. 14-08 17-08 Abrir aquí Aviso A413 Precipitaciones normales a moderadas en precordillera y valles precordilleranos y cordillera de la región. 15-08 16-08 Abrir aquí Aviso A414-3 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo y fuertes rachas de vie",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-14T16:15:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "9b2d54505593",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Moitoreo de Alerta Amarilla para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-5 Viento normal a moderado en cordillera de la región. 14-08 17-08 Abrir aquí Aviso A412-1 Viento normal a moderado en litoral, cordillera de la costa, valle y precordillera de la región. 14-08 14-08 Abrir aquí Aviso A414-3 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en la región. 14-08 16-08 Abrir aquí Por otra parte, d",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-14T16:09:02.022-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-04-15-07-37",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "81c7cef1801d",
    "nivel": "ATP",
@@ -95,22 +139,6 @@
    "regiones_extra": []
   },
   {
-   "id": "0d7d1041d393",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región Arica y Parinacota por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-7 Viento normal a moderado con probabilidad de tormentas de arena, en cordillera de la región. 17-08 18-08 Abrir Aquí Aviso A417-2 Precipitaciones normales a moderadas en litoral de la región. 14-08 15-08 Abrir Aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su&nbsp; Minuta Técnica por peli",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-14T12:47:53.5353-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
-  },
-  {
    "id": "f7cbae5d03a2",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -149,20 +177,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-14T09:18:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-heladas-2026-08-06-15-46-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "828b6ea627e4",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo : Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-4 Viento normal a moderado en cordillera. 13-08 16-08 Abrir aquí Aviso A413 Precipitaciones normales a moderadas en precordillera y valles precordilleranos y cordillera. 15-08 15-08 Abrir aquí Aviso A414-2 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo y fuertes rachas de vientos locales en la región.",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-14T09:05:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -233,20 +247,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-13T18:05:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-13-11-33-42",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "14bc74033ca0",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA135 Tormentas eléctricas con probabilidad de granizos en valle y precordillera de la región. 13-08 13-08 Abrir aquí Aviso A397-4 Vento normal a moderado en cordillera de la región. 13-08 14-08 Abrir aquí Aviso A414-2 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en la región. 13-08 15-08 Abrir aquí En consideración a estos",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-13T17:48:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-04-15-07-37",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -575,7 +575,7 @@
    "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarilla [1] . En relación con el Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, se indica que entre el 15 y 31 de julio, el sistema volcánico mantiene una condición de inestabilidad caracterizada por actividad sísmica asociada tanto al fracturamiento de roca como a la dinámica de fluidos, junto con manifestaciones superficial",
    "region": "Ñuble",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-07T16:25:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
    "origen": "senapred_web",
