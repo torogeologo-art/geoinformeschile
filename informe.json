@@ -1,18 +1,18 @@
 {
- "generado": "2026-08-15T22:52:34+00:00",
+ "generado": "2026-08-15T23:43:08+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "05-08-2026",
   "hasta": "15-08-2026"
  },
  "totales": {
-  "alertas": 113,
-  "sae": 7,
-  "comunas": 5,
+  "alertas": 112,
+  "sae": 6,
+  "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "ROJA": 10,
    "ATP": 67,
+   "ROJA": 9,
    "AMARILLA": 36
   },
   "por_tipo": [
@@ -26,7 +26,7 @@
    ],
    [
     "crecida de río",
-    10
+    9
    ],
    [
     "evento meteorológico",
@@ -291,15 +291,6 @@
   ],
   "crecida de río": [
    {
-    "lugar": "Purén",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "05-08",
-    "comuna_link": "puren",
-    "region_link": "la araucania"
-   },
-   {
     "lugar": "Santa Bárbara",
     "region": "Biobío",
     "nivel": "ROJA",
@@ -484,10 +475,10 @@
  "serie": [
   {
    "fecha": "2026-08-05",
-   "ROJA": 1,
+   "ROJA": 0,
    "AMARILLA": 1,
    "ATP": 1,
-   "sae": 1
+   "sae": 0
   },
   {
    "fecha": "2026-08-06",
