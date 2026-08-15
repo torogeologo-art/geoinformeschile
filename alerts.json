@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-15T21:46:11+00:00",
+ "generado": "2026-08-15T22:52:06+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "3bcce0edf5db",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA139 Viento moderado a fuerte (desarrollo de ventisca) en cordillera costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 15-08 18-08 Abrir Aquí Aviso A388-8 Viento normal a moderado con probabilidad de tormentas de arena en pampa, precordillera occidental, precordillera Alto Loa y precordillera salar. 15-08 18-08 Abrir A",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-15T17:35:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "fa0d03eef017",
    "nivel": "AMARILLA",
@@ -77,20 +91,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-14T17:53:11.1111-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "298a6864052e",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo de Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-7 Viento normal a moderado con probabilidad de tormentas de arena en codillera de la costa, precordillera occidental, precordillera alto Loa, precordillera salar y cordillera. 12-08 14-08 AbrirAquí Aviso A417-2 Precipitaciones normales a moderadas en litoral de la región. 14-08 15-08 Abrir Aquí Aviso A421 Precipitaciones normales a moderadas en litoral y c",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-14T17:10:03.033-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
    "origen": "senapred_web",
    "regiones_extra": []
   },
