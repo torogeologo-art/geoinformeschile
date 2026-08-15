@@ -1,25 +1,6 @@
 {
- "generado": "2026-08-15T14:01:54+00:00",
- "desde": "2026-08-13T14:01:52Z",
+ "generado": "2026-08-15T14:58:37+00:00",
+ "desde": "2026-08-13T14:58:36Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "AXHmsjyl2mE",
-     "url": "https://www.youtube.com/watch?v=AXHmsjyl2mE",
-     "titulo": "BARRO INUNDÓ TODO: Aluvión provocó estragos y destruye varias casas en El Tránsito, Atacama",
-     "canal": "CHV Noticias",
-     "publicado": "2026-08-13T20:30:25Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
