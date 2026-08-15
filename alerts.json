@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-14T23:55:04+00:00",
+ "generado": "2026-08-15T03:04:45+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "828b6ea627e4",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-5 Viento normal a moderado en cordillera de la región. 14-08 17-08 Abrir aquí Aviso A413 Precipitaciones normales a moderadas en precordillera y valles precordilleranos y cordillera de la región. 15-08 16-08 Abrir aquí Aviso A414-3 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo y fuertes rachas de vie",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-14T21:18:42.4242-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "86fc578a56ff",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-7 Viento normal a moderado con probabilidad de tormentas de arena, en pampa, precordillera y cordillera. 17-08 18-08 Abrir Aquí Aviso A417-2 Precipitaciones normales a moderada. 13-08 15-08 Abrir Aquí Aviso A421 Precipitaciones normales a moderadas en litoral y cordillera de la costa. 17-08 18-08 Abrir Aquí Por otra parte, el Servicio Nacional de Geología y",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-14T20:21:12.1212-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "43bd266875b9",
    "nivel": "AMARILLA",
@@ -65,20 +93,6 @@
    "regiones_extra": [
     "Parinacota"
    ]
-  },
-  {
-   "id": "007ea16f8c8a",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo de Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo : Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-5 Viento normal a moderado en cordillera de la región. 14-08 17-08 Abrir aquí Aviso A413 Precipitaciones normales a moderadas en precordillera y valles precordilleranos y cordillera de la región. 15-08 16-08 Abrir aquí Aviso A414-3 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo y fuertes rachas de vie",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-14T16:15:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "9b2d54505593",
@@ -205,20 +219,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-13T22:23:32.3232-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-07-12-18-52-58",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "f3c30d33add0",
-   "nivel": "ATP",
-   "tipo": "remoción en masa",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-7 Viento normal a moderado con probabilidad de tormentas de arena, en pampa, precordillera y cordillera. 17-08 18-08 Abrir Aquí Aviso A417-1 Precipitaciones normales a moderada. 13-08 14-08 Abrir Aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa, indic",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-13T20:16:13.1313-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
    "origen": "senapred_web",
    "regiones_extra": []
   },
