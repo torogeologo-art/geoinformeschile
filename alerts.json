@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-15T19:51:04+00:00",
+ "generado": "2026-08-15T20:53:11+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "fa0d03eef017",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Atacama por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA139 Viento moderado a fuerte en cordillera. 15-08 18-08 Abrir aquí Aviso A388-8 Viento normal a moderado con probabilidad de tormentas de arena en pampa, precordillera y cordillera. 15-08 18-08 Abrir aquí Aviso A421-1 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle y pampa. 17-08 18-08 Abrir aquí Aviso A422-1 Probables nevadas en p",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-15T16:21:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "cea1a4f18d95",
    "nivel": "ATP",
@@ -49,20 +63,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-14T20:21:12.1212-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "43bd266875b9",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Atacama por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-7 Viento normal a moderado con probabilidad de ventisca en cordillera. 12-08 14-08 Abrir aquí Aviso A421 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle y pampa de la región. 17-08 18-08 Abrir aquí Aviso A422 Probables nevadas en precordillera de la región. 17-08 18-08 Abrir aquí En consideración a estos antecedentes y en coordin",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-14T19:39:24.2424-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
    "origen": "senapred_web",
    "regiones_extra": []
   },
