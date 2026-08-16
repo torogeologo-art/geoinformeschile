@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-16T20:51:23+00:00",
+ "generado": "2026-08-16T21:42:21+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "3d62100871bb",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Monitoreo Alerta Amarilla para las comunas de Iquique, Alto Hospicio y Huara por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para el sector costero de la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA140 Precipitaciones moderadas a fuertes en el litoral. 17-08 18-08 Abrir aquí Aviso A417-4 Precipitaciones normales a moderadas en litoral. 16-08 16-08 Abrir Aquí Aviso A424 Precipitaciones normales a moderadas en litoral, cordillera de la costa, pampa y precordillera. 17-08 18-08 Abrir Aquí Por otra parte, el Servicio Nacional de Geología",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-16T17:38:39.3939-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "16eafe277ac8",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA139 Viento moderado a fuerte (desarrollo de ventisca) en cordillera costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 15-08 18-08 Abrir Aquí Alerta AA141 Precipitaciones moderadas a fuertes en el litoral y cordillera de la costa. 17-08 18-08 Abrir aquí Aviso A388-8 Viento normal a moderado con probabilidad de tormenta",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-16T17:33:53.5353-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "c9e979f90fd9",
    "nivel": "ATP",
@@ -83,20 +111,6 @@
    "regiones_extra": []
   },
   {
-   "id": "16eafe277ac8",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA139 Viento moderado a fuerte (desarrollo de ventisca) en cordillera costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 15-08 18-08 Abrir Aquí Alerta AA141 Precipitaciones moderadas a fuertes en el litoral y cordillera de la costa. 17-08 18-08 Abrir aquí Aviso A388-8 Viento normal a moderado con probabilidad de tormenta",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-16T13:53:38.3838-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "58c38510f696",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -107,20 +121,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-16T10:32:10.1010-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-14-13-37-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "6f17ca7d8004",
-   "nivel": "AMARILLA",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Amarilla para las comunas de Iquique, Alto Hospicio y Huara por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para el sector costero de la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso A417-3 Precipitaciones normales a moderadas en litoral. 15-08 16-08 Abrir Aquí Aviso A424 Precipitaciones normales a moderadas en litoral, cordillera de la costa, pampa y precordillera. 17-08 18-08 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del S",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-15T22:59:58.5858-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -2769,20 +2769,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-18T19:36:56.5656-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-camina-por-incendio-forestal-2026-07-17-16-35-49",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "909d20846ba3",
-   "nivel": "AMARILLA",
-   "tipo": "remoción en masa",
-   "titulo": "Se cancela Alerta Amarilla para la comuna de San Juan de la Costa por remoción en masa",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) mediante el Informe de Amenaza Meteorológica remitido durante la presente jornada, se indica una condición meteorológica mayormente estable. Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa, se excluyó a la Región de Los Lagos debido al debilitamiento de las condiciones meteorológicas que pueden propiciar una remoción en masa. En consideración a estos antecedentes y en coordinación con la Delegación Pre",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-18T18:45:43.4343-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-san-juan-de-la-costa-por-remocion-en-masa-2026-07-16-17-57-49",
    "origen": "senapred_web",
    "regiones_extra": []
   },
