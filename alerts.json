@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-16T22:55:40+00:00",
+ "generado": "2026-08-16T23:41:07+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -13,12 +13,40 @@
    "nivel": "AMARILLA",
    "tipo": "evento meteorológico",
    "titulo": "Monitoreo Alerta Amarilla para las comunas de Iquique, Alto Hospicio y Huara por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para el sector costero de la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA140 Precipitaciones moderadas a fuertes en el litoral. 17-08 18-08 Abrir aquí Aviso A417-4 Precipitaciones normales a moderadas en litoral. 16-08 16-08 Abrir Aquí Aviso A424 Precipitaciones normales a moderadas en litoral, cordillera de la costa, pampa y precordillera. 17-08 18-08 Abrir Aquí Por otra parte, el Servicio Nacional de Geología",
+   "descripcion": "De acuerdo con los antecedentes entregados por la Dirección Regional de SENAPRED Tarapacá, se reportan las siguientes novedades que tienen relación con el evento meteorológico que afectó a la región: Comuna Afectación a personas Daño a viviendas Iquique 408 personas damnificadas. 102 viviendas con daño mayor y 869 con daño menor. Por otra parte, según la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para el sector costero de la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA140",
    "region": "Tarapacá",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-16T17:38:39.3939-04:00",
+   "ts": "2026-08-16T19:38:04.044-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "eb61b39715aa",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-5 Viento normal a moderado en cordillera. 14-08 17-08 Abrir aquí Del mismo modo, han sido cancelados los siguientes alertamientos debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Enlace Alerta AA135 Tormentas eléctricas con probabilidad de granizos en valle y precordillera. Abrir aquí Aviso A414-3 Probables t",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-16T19:07:02.022-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-13-11-33-42",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "2317bc76fa8e",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con los antecedentes entregados por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA142 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa, precordilleras y valles precordilleranos. 16-08 17-08 Abrir aquí Aviso A397-5 Viento normal a moderado en cordillera. 14-08 17-08 Abrir aquí Aviso A426 Nevadas normales a moderadas con probabilidad de ventisca en cordillera. 16-08 17-08 Abrir aquí Aviso A429 Probables tormentas eléctric",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-16T18:55:31.3131-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -79,20 +107,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-16T16:08:49.4949-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-13-15-04-22",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2317bc76fa8e",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con los antecedentes entregados por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace f Alerta AA142 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa, precordilleras y valles precordilleranos. 16-08 17-08 Abrir aquí Aviso A397-5 Viento normal a moderado en cordillera. 14-08 17-08 Abrir aquí Aviso A426 Nevadas normales a moderadas con probabilidad de ventisca en cordillera. 16-08 17-08 Abrir aquí En tanto, el Servicio Nacional de Geo",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-16T16:01:37.3737-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -277,20 +291,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-13T18:35:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-08-04-17-58-34",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "c59f48a9379f",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA135 Tormentas eléctricas con probabilidad de granizos en valle y precordillera de la región. 13-08 13-08 Abrir aquí Aviso A397-4 Viento normal a moderado en cordillera de la región. 13-08 14-08 Abrir aquí Aviso A414-2 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo y fuertes rachas de viento locales en la",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-13T18:05:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-13-11-33-42",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -2757,20 +2757,6 @@
    "url": "https://t.me/SenapredChile/1334",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "8c6aa9a6ccdc",
-   "nivel": "AMARILLA",
-   "tipo": "incendio forestal",
-   "titulo": "Se cancela Alerta Amarilla para la Comuna de Camiña por incendio forestal",
-   "descripcion": "De acuerdo con la información&nbsp;técnica proporcionada por Conaf&nbsp; respecto al incendio forestal en la comuna de Camiña, se informa el siguiente detalle: Nombre del incendio Borde Río Estado Controlado Superficie 2 hectáreas Recursos Bomberos de Camiña, Huara, Pozo Almont, Pica e Iquique. 1 Brigada de Conaf, 1BRIFE, carabineros, personal de Salud, municipal y de SENAPRED Observaciones Incendio forestal ya no presenta amenaza a sectores habitados Producto de este incendio se registraron 6 personas damnificadas y 6 albergadas, 2 viviendas con daño mayor y 1 vivienda irrecuperable. Al momen",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-18T19:36:56.5656-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-camina-por-incendio-forestal-2026-07-17-16-35-49",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "21adcc682f74",
