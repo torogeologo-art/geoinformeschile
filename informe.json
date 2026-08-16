@@ -1,28 +1,28 @@
 {
- "generado": "2026-08-16T16:53:28+00:00",
+ "generado": "2026-08-16T18:59:25+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "06-08-2026",
   "hasta": "16-08-2026"
  },
  "totales": {
-  "alertas": 112,
+  "alertas": 114,
   "sae": 4,
   "comunas": 3,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 69,
+   "ATP": 71,
    "AMARILLA": 36,
    "ROJA": 7
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    56
+    57
    ],
    [
     "viento",
-    27
+    28
    ],
    [
     "evento meteorológico",
@@ -287,6 +287,15 @@
     "ts": "10-08",
     "comuna_link": "",
     "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "16-08",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
    }
   ],
   "evento meteorológico": [
@@ -538,7 +547,7 @@
    "fecha": "2026-08-16",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 1,
+   "ATP": 3,
    "sae": 0
   }
  ],
@@ -814,6 +823,24 @@
  ],
  "cronologia": [
   {
+   "ts": "16-08 13:53",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51"
+  },
+  {
+   "ts": "16-08 13:49",
+   "nivel": "ATP",
+   "lugar": "Región de Arica y Parinacota",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59"
+  },
+  {
    "ts": "16-08 10:32",
    "nivel": "ATP",
    "lugar": "Región de La Araucanía",
@@ -920,24 +947,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51"
-  },
-  {
-   "ts": "14-08 14:53",
-   "nivel": "ATP",
-   "lugar": "Región de Valparaíso",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-08-14-14-54-33"
-  },
-  {
-   "ts": "14-08 14:20",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Valparaíso",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-08-12-17-49-04"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
