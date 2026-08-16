@@ -1,18 +1,18 @@
 {
- "generado": "2026-08-16T22:00:59+00:00",
+ "generado": "2026-08-16T23:41:54+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "06-08-2026",
   "hasta": "16-08-2026"
  },
  "totales": {
-  "alertas": 116,
+  "alertas": 112,
   "sae": 4,
   "comunas": 3,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 70,
-   "AMARILLA": 39,
+   "ATP": 68,
+   "AMARILLA": 37,
    "ROJA": 7
   },
   "por_tipo": [
@@ -22,7 +22,7 @@
    ],
    [
     "viento",
-    30
+    27
    ],
    [
     "evento meteorológico",
@@ -38,7 +38,7 @@
    ],
    [
     "marejadas",
-    3
+    2
    ],
    [
     "desborde",
@@ -116,15 +116,6 @@
     "region_link": "metropolitana de santiago"
    },
    {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "06-08",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
     "lugar": "Región de Arica y Parinacota",
     "region": "Arica y Parinacota",
     "nivel": "ATP",
@@ -132,6 +123,15 @@
     "ts": "08-08",
     "comuna_link": "",
     "region_link": "arica y parinacota"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "08-08",
+    "comuna_link": "",
+    "region_link": "biobio"
    },
    {
     "lugar": "Región de Tarapacá",
@@ -185,18 +185,9 @@
     "region": "Coquimbo",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "06-08",
+    "ts": "07-08",
     "comuna_link": "",
     "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "06-08",
-    "comuna_link": "",
-    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Atacama",
@@ -206,6 +197,15 @@
     "ts": "08-08",
     "comuna_link": "",
     "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "08-08",
+    "comuna_link": "",
+    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Ñuble",
@@ -224,15 +224,6 @@
     "ts": "16-08",
     "comuna_link": "",
     "region_link": "arica y parinacota"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "06-08",
-    "comuna_link": "",
-    "region_link": "los rios"
    },
    {
     "lugar": "Región de Antofagasta",
@@ -278,6 +269,15 @@
     "ts": "09-08",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "10-08",
+    "comuna_link": "",
+    "region_link": "los rios"
    },
    {
     "lugar": "Región de Biobío",
@@ -409,7 +409,7 @@
     "region": "Atacama",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "06-08",
+    "ts": "07-08",
     "comuna_link": "",
     "region_link": "atacama"
    },
@@ -473,13 +473,6 @@
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-08-06",
-   "ROJA": 0,
-   "AMARILLA": 3,
-   "ATP": 2,
-   "sae": 0
-  },
   {
    "fecha": "2026-08-07",
    "ROJA": 1,
@@ -546,45 +539,12 @@
   {
    "fecha": "2026-08-16",
    "ROJA": 0,
-   "AMARILLA": 3,
+   "AMARILLA": 4,
    "ATP": 6,
    "sae": 0
   }
  ],
  "escalamientos": [
-  {
-   "lugar": "Región de Biobío",
-   "region": "Biobío",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "06-08 18:15",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "08-08 11:11",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "08-08 18:23",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "11-08 20:51",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "13-08 13:52",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
   {
    "lugar": "Región de Atacama",
    "region": "Atacama",
@@ -593,7 +553,7 @@
    "pasos": [
     {
      "nivel": "AMARILLA",
-     "ts": "06-08 19:09",
+     "ts": "07-08 13:21",
      "estado": "VIGENTE"
     },
     {
@@ -614,34 +574,6 @@
     {
      "nivel": "AMARILLA",
      "ts": "12-08 02:45",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de La Araucanía",
-   "region": "La Araucanía",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "06-08 19:23",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "10-08 11:31",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "11-08 16:37",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "14-08 13:36",
      "estado": "VIGENTE"
     }
    ]
@@ -675,24 +607,57 @@
    ]
   },
   {
-   "lugar": "Región de Los Ríos",
-   "region": "Los Ríos",
+   "lugar": "Región de Biobío",
+   "region": "Biobío",
    "sae": false,
-   "max": "AMARILLA",
+   "max": "ROJA",
    "pasos": [
     {
-     "nivel": "ATP",
-     "ts": "06-08 18:31",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "10-08 11:29",
+     "nivel": "ROJA",
+     "ts": "08-08 11:11",
      "estado": "CANCELADA"
     },
     {
      "nivel": "ATP",
-     "ts": "11-08 11:16",
+     "ts": "08-08 18:23",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "11-08 20:51",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "13-08 13:52",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de La Araucanía",
+   "region": "La Araucanía",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "08-08 22:40",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "10-08 11:31",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "11-08 16:37",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "14-08 13:36",
      "estado": "VIGENTE"
     }
    ]
@@ -739,6 +704,29 @@
     {
      "nivel": "ATP",
      "ts": "14-08 14:53",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Los Ríos",
+   "region": "Los Ríos",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "08-08 19:49",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "10-08 11:29",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "11-08 11:16",
      "estado": "VIGENTE"
     }
    ]
@@ -835,6 +823,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "16-08 19:07",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-13-11-33-42"
+  },
   {
    "ts": "16-08 17:38",
    "nivel": "AMARILLA",
@@ -951,15 +948,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-08-14-11-17-27"
-  },
-  {
-   "ts": "15-08 17:35",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
