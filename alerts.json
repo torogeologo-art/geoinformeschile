@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-16T17:42:58+00:00",
+ "generado": "2026-08-16T18:01:16+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,36 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "16eafe277ac8",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA139 Viento moderado a fuerte (desarrollo de ventisca) en cordillera costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 15-08 18-08 Abrir Aquí Alerta AA141 Precipitaciones moderadas a fuertes en el litoral y cordillera de la costa. 17-08 18-08 Abrir aquí Aviso A388-8 Viento normal a moderado con probabilidad de tormenta",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-16T13:53:38.3838-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "76a049dd59ff",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA138 Nevadas moderadas a fuertes en cordillera, con desarrollo de ventiscas. 17-08 18-08 Abrir aquí Alerta AA139 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas. 18-08 18-08 Abrir aquí Alerta AA140 Precipitaciones moderadas a fuertes en el litoral. 17-08 18-08 Abrir aquí Aviso A417-4 Precipitaciones normales a moderadas en el litor",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-16T13:49:16.1616-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
   {
    "id": "58c38510f696",
    "nivel": "ATP",
@@ -79,20 +109,6 @@
    "regiones_extra": []
   },
   {
-   "id": "3bcce0edf5db",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA139 Viento moderado a fuerte (desarrollo de ventisca) en cordillera costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 15-08 18-08 Abrir Aquí Aviso A388-8 Viento normal a moderado con probabilidad de tormentas de arena en pampa, precordillera occidental, precordillera Alto Loa y precordillera salar. 15-08 18-08 Abrir A",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-15T17:35:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "fa0d03eef017",
    "nivel": "AMARILLA",
    "tipo": "tormentas eléctricas",
@@ -105,22 +121,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "cea1a4f18d95",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA138 Nevadas moderadas a fuertes en cordillera, con desarrollo de ventiscas. 17-08 18-08 Abrir aquí Alerta AA139 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas. 15-08 18-08 Abrir aquí Aviso A388-8 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. 15-08 18-08 Abrir aquí Aviso A423 Probables tormenta eléc",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-15T14:53:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
   },
   {
    "id": "a8e0791a10c8",
