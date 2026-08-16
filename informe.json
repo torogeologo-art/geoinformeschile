@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-16T13:22:01+00:00",
+ "generado": "2026-08-16T14:43:13+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "06-08-2026",
   "hasta": "16-08-2026"
  },
  "totales": {
-  "alertas": 111,
+  "alertas": 112,
   "sae": 4,
   "comunas": 3,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 68,
+   "ATP": 69,
    "AMARILLA": 36,
    "ROJA": 7
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    55
+    56
    ],
    [
     "viento",
@@ -458,7 +458,7 @@
  "vigentes": {
   "ROJA": 4,
   "AMARILLA": 6,
-  "ATP": 9,
+  "ATP": 8,
   "regiones_roja": [
    "Atacama"
   ]
@@ -532,6 +532,13 @@
    "ROJA": 0,
    "AMARILLA": 3,
    "ATP": 4,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-08-16",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   }
  ],
@@ -807,6 +814,15 @@
  ],
  "cronologia": [
   {
+   "ts": "16-08 10:32",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-14-13-37-57"
+  },
+  {
    "ts": "15-08 22:59",
    "nivel": "AMARILLA",
    "lugar": "Región de Tarapacá",
@@ -922,15 +938,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-08-12-17-49-04"
-  },
-  {
-   "ts": "14-08 13:36",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-14-13-37-57"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
