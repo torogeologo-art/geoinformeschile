@@ -1,17 +1,17 @@
 {
- "generado": "2026-08-16T18:59:25+00:00",
+ "generado": "2026-08-16T19:46:08+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "06-08-2026",
   "hasta": "16-08-2026"
  },
  "totales": {
-  "alertas": 114,
+  "alertas": 113,
   "sae": 4,
   "comunas": 3,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 71,
+   "ATP": 70,
    "AMARILLA": 36,
    "ROJA": 7
   },
@@ -26,7 +26,7 @@
    ],
    [
     "evento meteorológico",
-    8
+    7
    ],
    [
     "crecida de río",
@@ -313,7 +313,7 @@
     "region": "Aysén del General Carlos Ibáñez del Campo",
     "nivel": "ATP",
     "sae": false,
-    "ts": "06-08",
+    "ts": "07-08",
     "comuna_link": "",
     "region_link": "aysen del general carlos ibanez del campo"
    },
@@ -477,7 +477,7 @@
    "fecha": "2026-08-06",
    "ROJA": 0,
    "AMARILLA": 3,
-   "ATP": 6,
+   "ATP": 5,
    "sae": 0
   },
   {
