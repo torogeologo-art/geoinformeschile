@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-15T23:43:06+00:00",
+ "generado": "2026-08-16T13:21:59+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -255,6 +255,13 @@
    "comuna": "Tierra Amarilla",
    "noticias": [
     {
+     "titulo": "Tierra Amarilla sigue con caminos cortados y sectores sin servicios: nuevas lluvias podrían complicar el despeje - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-08-16T00:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWpEMXI5UkpCdklBWTE1QVJqdnp2YTR6emdtMTN3SDFpT1REall6WFRuZzhudVZRSTREd1ZwNWU5ZWY5Z1RtT29WbHBELWsyYnQzLV9CbUgyM0pRU1VPUmN4a1R2V0ZFX2IyUWtTdEhVZS1rNVVlekwwdllsTnVfNDQ3Tzkza1UyYmczY3RFMTQwRHR1bVgwQXM4ZjlBMDFHR2xaVFNYOVRyU1ZMdWxIWFNtUUdvM29IU3NVTktISUtUUEllbHJlWlc1ZGVGZUFMSHpQRQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Tierra Amarilla: las diferencias detrás de la fiscalización de la DGA a obras preventivas en el río Copiapó - NOSTÁLGICA cl",
      "medio": "NOSTÁLGICA cl",
      "fecha": "2026-08-14T21:03:30+00:00",
@@ -319,13 +326,6 @@
      "medio": "NOSTÁLGICA cl",
      "fecha": "2026-08-13T02:20:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDFrUWVDbXNpRDU4dGxWeVUwZjhfRUd5N3BQVmotM19vSFo4Z0NFSUZsVnFFUlNTdW5PaTdaWmRnblQxRm1VdGN2a0htOEE3VXpadXVZXzkyU0didHh2bXFwWFpUaDNpcTJpNHpUeVdNajNWUXhrWWlyWDFXYUZMSHRFbWg0aGpibXFIMzFXQkZuY0hCUlFQUU5XWEZnc1dCeGM5ZGo5UHd0ZEZkRFdRXzFkeG1OYk1LMEZ1ZA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred mantiene Alerta Amarilla para Atacama por crecida - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-08-13T02:04:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ2I4bUFOb0t4bTZ2MlpTM3RJYWRGYnl6R0JFS3VaU1c0dXlhQ2FGNC14SU5meXY4YUVsc0pkNmJGeDB4MGloZDhVT3ZBR1B5RlROQ1BDUU8wbjRtOTdwT0dMczVtZlQ2bklhdFVMdTBsRWtETW9ELVlUdkhDZU8zaUlkc0o2ZGFFbDBzV2daRlNaS21PY1dsR3NqRWVFbEc1aVNVaW9YbS1VS0V2TWRxbUtRaWYwQmV6T0NSRkc4c3R3eVp6M3pIUDdB?oc=5",
      "sector": null
     }
    ]
@@ -1408,6 +1408,13 @@
    "comuna": "Coquimbo",
    "noticias": [
     {
+     "titulo": "Región Coquimbo. Senapred actualiza “alerta amarilla”. Hubo activación de 6 quebradas por lluvias en 4 comunas - Serena y Coquimbo",
+     "medio": "Serena y Coquimbo",
+     "fecha": "2026-08-16T02:31:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSXBLSFlXOFZxVjJXMnJSbWNDWUE4Yzdjbk9RQzBXZVZQVlhGRno0T2xEdVV4U3dTdDVnVC1ROUh2cUFiY0daNWY1bVkzRFMwdzZXeHlUNlItUVNLUC12TWFtLU1GWjJJSm8yR3N1NmQ1T255V1VEQ0VVbUdGMmZTYVhOQnZSbG13YkhXTVhJdHoyckY1Q3ZYSm54MEhtaVhUTUY5RGhrTC1zYUUwNHVHNU5BTjk2WTVMSndGOWlMMnVmX3hhMGZNMDZ4SnhCVHM?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Lluvias en Coquimbo este fin de semana: Cuánta agua caerá, zonas afectadas y posible activación de quebradas - elobservatodo.cl",
      "medio": "elobservatodo.cl",
      "fecha": "2026-08-15T14:04:32+00:00",
@@ -1468,13 +1475,6 @@
      "medio": "Megatiempo",
      "fecha": "2026-08-10T20:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjNpSlZiVXUya3hkRlhhcVZISHdRZHhZTFFydXpYNk1JaU9SRWJ0UzlvSFNEd1RPNG5Ta2pIU3pSSkVseFY2Rm5sLTJVMGlFTExPSlZhVXVWa0VUWjFPTW4tWTAzZDgyanRmVU40djRfemtsU2JrMmRELWNQQlFqd1VJNEtrRmh1SUhUeloycGotR0tZVWZsZURGRU1CZw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Sistema frontal en el norte: lluvias con isoterma cero alta elevan riesgo de deslizamientos y activación de quebradas - latercera.com",
-     "medio": "latercera.com",
-     "fecha": "2026-08-10T16:49:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcUxOMEtWcHlfVURueUVFLXkwX3lNMm1hbHFFREQ0MElMXzZ4RnZzeElBdXY1WVZ1YmhlTDZFTFBUaHQxcS16TURPeDJyczJKWGVoM0VvUF82NUJJNm0wZURETTRuMjg4eXEwaWxWNGJ5bUxWMTJDdlZ4SnRZZ2YwbmhqNEw3eVFDQlU0REhfUHhncmRpZXdfS0FNNnUwS2F2Qmx6a3FUZmdzWEJHRkhvSGtuaGI0dnRYM2hteGpoUGJhYVAyQTh5ZTlfYy16LWljM2ZNaGM1dXhtRXZXWlFrOThZc2FUaVBDelZCaldRaTloUdIBkwJBVV95cUxQem55aTlkdWRvMVE2NlNKU014eUN4NE52WWpHX2tYRVd5OEdfemh2bE9OSzhjdXdrRjVCN2dnaWM1aXo0a0lSVnNIcUxJekZURm5KUkoyYlliQy1nZldBWU9LN3U0TGtPMDZxNi1Xbjh3Rm5QNmlhNkMzZHZmWDlScW1qSUZiS3ZFQ1lPTHdtMUsyamxaR1ZkQUpoOElncFJDV0dRT0dNVFdiRVhpeHBILS1OVU1SUjJZQlpfZ2JxYURBQXM3MW11R1BaaG5rOEJnN0xSOUx4QW51UTV0dWxqTjF4NGZZUlpPN1cyZW0telkxbmw0cFZoVnRZMFNKenMtT0huQnFBanQ5M0RhSkhDVFRfTQ?oc=5",
      "sector": null
     }
    ]
@@ -1977,6 +1977,20 @@
    "comuna": "Monte Patria",
    "noticias": [
     {
+     "titulo": "Lluvias en sectores altos provocan crecida de quebradas y caudales en Monte Patria y Río Hurtado - diarioeldia.cl",
+     "medio": "diarioeldia.cl",
+     "fecha": "2026-08-15T23:48:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMWU2eGg0R21tcFprOTZoV3dhSGZrVmhucFBVQ2VJSFFCTktpX1dPYk5IOFgxN3EwTlkzdjVzbERaUU5oMkhFbjNVMzBJV1ZyS09DUHl6c3ZyUjVaNnFMZTJSdmNxT1VPdW91cF9jWFhQSFdKSUkwci1pMGFyRS1Ha3haQnktZmFQZXNmeVN0Ykx3blJ2T3BDMnRjV2d3N2RjY0xMZUZ3RHVvVlpmYXJ6ZkVHMXVDODBLY3dybDRrNGs3QlBTV2tST0ZmY2QydGY4Snl2cXRoR3RfRndRRWpCSHdvUkM?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Municipio de Ovalle refuerza medidas preventivas ante nuevo sistema frontal y llama a evacuar sectores cercanos a ríos - diarioeldia.cl",
+     "medio": "diarioeldia.cl",
+     "fecha": "2026-08-15T20:33:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSnMtcUp5LWV0YnhRSHduSHVQRmlLTUhlbTJjLThWMllFbmVwdU9Ka0lRWl9VZlVoZ1dfTGt0bXBHTEJQNDlzSGg2MXNCM1NJNXhMTFA4UlFJVFlrNFJ2SXNUNFBHTVdwNmJGM0dER0x2U2NtbllVamwweEJnTWdZQmcxa2k3bi03WVZvN2JyVTBoWFJnT2pSd1FUT3ZLUEQyb21EanRTSVB0alJPTjhsdTZyTGdMTDdmUmpDcloxb2ROVy1DdWZkU25QR29pOThuZ012TjFtMVFrZVR3U3R1YzZJNE1Ca0xLeWxqU3BEdkFQbXZfRHRRczNiczhPTlBVeFE?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Localidades aisladas de Monte Patria esperan respuesta estatal frente a pérdida por reconstrucción del Puente Huanilla – Tome Bajo - La Serena Online",
      "medio": "La Serena Online",
      "fecha": "2026-08-12T17:00:00+00:00",
@@ -2026,24 +2040,10 @@
      "sector": null
     },
     {
-     "titulo": "Limarí: cerca de 15 mil personas continúan sin conexión terrestre - diarioeldia.cl",
-     "medio": "diarioeldia.cl",
-     "fecha": "2026-07-22T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTc1RGZpYm9mSEFobTBMM0pGb1d6MVhqRE43N0dsNm5lVHh6Ujg0V1FLbmN2WjJYb2daTTBhcWVQdTZFeTFCYWR0VTJ0RnpyT1pmVmFGVkJxWlRhcUtVeXphM3U0NTM0ak9ONExWMVNTYU0tRmZ3dzlJdFB2M3VtYU81eTBoMkNwX0N0cXRSWGstRzJBdDdaOXVMYWt0UzBaeks2SEIxYjlpb1A2djVHZWc2S0J0Zl9QQXc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Daños en caminos y puentes marcan la nueva etapa de la emergencia en Limarí - El Ovallino",
-     "medio": "El Ovallino",
-     "fecha": "2026-07-22T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaVRTYnJ4dVlUcG1TaEhwSG96a1RwbDlvMGd2Vll4OUpzVmduVDRLNU5ZQUc4TVJ4MnBxNF9XbEVRbmRzNHY4NGg4dHlZVEQ4dXBsTkdzNmZiMlNtc3RnX3BkTzBULXpveWhxdWFJN2ZrMFZ5aDVTZGZhSS0zSFFlS181dVAwdVBnTkg3NmQ4YVA1d2ZjWE9ibUhmdVB6VkV2OHBnZg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "FACH vigila desde el espacio las zonas afectadas por las lluvias para apoyar la gestión de emergencias - BioBioChile",
+     "titulo": "Sistema frontal: cerca de 15 mil personas continúan sin conexión terrestre en la provincia del Limarí - BioBioChile",
      "medio": "BioBioChile",
-     "fecha": "2026-07-21T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOR0VqWEFLQ0RKSHFiblBpV0RMT3ZSaXIyTkZDaUtSWjBIYk42VERCNGx6MlZXWFhtNUUzVzJ0TXJmeDdmcHhLUFpuaFF4Nm9uUjJQMWhXSC1hUUNZSmxYM0FpclJ1WFNPeG5ESDFuRmItTHo2eUlBM1dEOHdxRmlpWXYxOU5qMnkteFNZMVZFdndqbDNiZmVESTBzNXNFdnBkVXp0T0hjb0QyZUJiUUVZcFB3Z3V2dU16YjEtOXQ2Z0RmeHlNRVE2aDEzRmVHcEhObWwxZzg0OFJHdnBDVEdjNi1ZOFZYXzBMNGh6clFNcEFuQTZWcUh4Uy1oRElBQm8?oc=5",
+     "fecha": "2026-07-23T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdnV3TWFwSE1CRE5mNlhxYlFrZnJ2QWhOZFJUMXQ1a0RZUkY4QmlIZkR5WVoxTUZWTjNlTlZPZjhiTlFkaFRacGhrWDMyNUplWjRRTEV5YzRzYVQ3ZXY0YUhtZWJtcHNyMlZKZzRsNmU3TWszdkIyQWd2RUZwWTAzSmtvVEZUZl85SEN2TW12Q01NMmZTLTNBSmFyNjRiZkc2b1hUdGhtVzhDQlRIWWRpSk5xMDRySDY3WTlsdjV1eXROUnVMcW9PRjNFQlFkdjdydGhiUlBYaVd5LU84T2w3UHpoeF9LU2JobnFrRy1JakZjdG9pclk0WnVlRnd4OW8wNlRrSFFzWEFzdU8xTnc?oc=5",
      "sector": null
     }
    ]
@@ -2413,24 +2413,24 @@
      "sector": null
     },
     {
+     "titulo": "Lluvia en Santiago y Valparaíso: Alejandro Sepúlveda adelanta que comenzaría cerca de las 22 horas y advierte fuertes vientos - DUPLOS.CL",
+     "medio": "DUPLOS.CL",
+     "fecha": "2026-08-02T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGh2NGlGWk5jREoydXdYM25LYVJSb0tTSFpiN0NRdjMzUlJlZVdhbVRJWDVwRzQ4UFZjRkRkUlBEM0x1dG1lWHRMckRiVUtDVHVPU0RtS01kNDNJcHYydEFwSjl4TnRqbUpNX2tDbmpYVDBDNEZpTmFVc1A1ZGlacDBTT1lvQl83S2xwNGlfcDAtRVQ0anc0QmhqNjZYR1E1ODRHT1BvQlU0WnM?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Puente Chacao alcanza 66% de avance y finaliza construcción de sus tres pilares: ¿cuándo estaría listo? - DUPLOS.CL",
+     "medio": "DUPLOS.CL",
+     "fecha": "2026-08-02T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSnotRXZoZ2tSVU9iTWdFZHhLeUdlMFR0WXN0SDlNcm5QZXU2YjZmdXo4dzN2cWxudHZPVFBjUG5iYmozTm1SRDJabS10bUhsRjJmZkNpRHFXOVFEbjRkbDhoZWpteUJnck51em8wY2VNN1FlQUJ4TGg2WVVGOENqbmdsTkdIYXRSNXh5bWhfS2owOHhHb2JHR0xtTFM?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred emite Alerta Roja en la región del Maule por sistema frontal - 24horas",
      "medio": "24horas",
      "fecha": "2026-08-02T04:34:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQm9ySXRVLXFCeFd3b0JyaXpRRG1uaUMzeVc0YzZ6bVEta2lUdTUwQ3VfSFRkRWJYTXFRNHBYdHV1UUowODhwOFh4VUFKREtjVnBHYi14bl9LLTlLRUdqX0lNMUszd0FxZVlNZ3puU2c5a2NOZWJXUWtpSjh5TEhJR1BxYmlvbUVNUkNLaEprUEpDOURMNG0tcEF2WUZoYnVuV1FnYUNoRDVDOENKWndYNUtEQUZDVlBBRzN0NkRVOFdZU0XSAcMBQVVfeXFMTUJvckl0VS1xQnhXd29Ccml6UURtbmlDM3lXNGM2em1RLWtpVHU1MEN1X0hUZEViWE1xUTRwWHR1dVFKMDg4cDhYeFVBSkRLY1ZwR2IteG5fSy05S0VHal9JTTFLM3dBcWVZTWd6blNnOWtjTmViV1FraUo4eUxISUdQcWJpb21FTVJDS2hKa1BKQzlETDRtLXBBdllGaGJ1bldRZ2FDaEQ1QzhDSlp3WDVLREFGQ1ZQQUczdDZEVThXWVNF?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Sistema de Admisión Escolar 2027: fechas clave de la postulación y resultados - DUPLOS.CL",
-     "medio": "DUPLOS.CL",
-     "fecha": "2026-08-02T03:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzFLenlnSWZJMDNUUXd4YTZSOVJFQkF2eGM4TV9HT1ppZXF3dG5vTlJ0dHZqQjItZFRLOGJtOFduWkZLM3duV2FKbVVHYW00b1U1SnBBd3FsdFl6ZUJ2aW9NcnlDdW5BU2o5VzhqaHpDVkxuWHFiY0tSR0dIZGwzMVNUZm96NnNjVGNHN3dscjJKOExzcVRwYmpWRWJhTGJIYmc4Y3d5YmdnLUMwVXFycGRMNk1MUQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Ordenan evacuar un segundo sector en Penco por aluvión y activan alerta SAE - Canal 9 Bío Bío Televisión",
-     "medio": "Canal 9 Bío Bío Televisión",
-     "fecha": "2026-08-02T03:30:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmdsUlRCd2UtSl9Yd1AtV0lxRTdHcDFWVGk0eGgzODBObDRtV1U5ai1ZX3NBcDBNMjVjUjZLOW12aHdHTk96aFFuNFZnX0tPMmxwUUZxXzczdkloMWpxZlVnZi1MYUtrLVp6MDRTTGhFQm0wX1NINUg0VjdyRGZjYk9UUEFiV3hWREdXQUhwdGNFT2wydngxQlYteFc3SGtHdFNZbWYxUWxMeHRIekQySUVoVG0tdw?oc=5",
      "sector": null
     }
    ]
@@ -2825,6 +2825,13 @@
      "sector": null
     },
     {
+     "titulo": "Abordan necesidades de comunidades afectadas por crecidas de ríos en Osorno - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-08-13T20:52:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkxxbFVmVlFyUzdhZVpmekg2c2tET0ROZWZldkJ5Qzkzb0t3b0ZTZmhFWlN1ekdxUWlkWDBPR0hPM1FuSGpnMXBCMjJtSndJS0MtMHZMRVRRY2FkZmxTWTJGRHRvMWhBazNHZ0Fsb3FERVFkV0ZLWVRVZjVvaEppbjdSejQtSXVnVlRFQVA3UHl3NkROZ1Z6SGQ0dS1nZEJISldNc0ZqRFpqUHZ4?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "La provincia de Osorno vivió el julio más lluvioso de los últimos 48 años - SoyChile.cl",
      "medio": "SoyChile.cl",
      "fecha": "2026-08-04T12:38:13+00:00",
@@ -2836,6 +2843,13 @@
      "medio": "SoyChile.cl",
      "fecha": "2026-08-03T15:42:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZlktdEdNaXJGRHhMakZaSUNxLUNnT0hfeWZHMVRLRGpKaG9lLXZSRW10VmJmLVc2cnBDbjVSTHBkNjl4MU1jYkx6cDZ2OVdBXzRzSlI1WlhZVFh6MmJiSXFjSzB2SlZ3VkE5TjJmTE1NalU0bWVwLURUYkZRZHJyTHZLVkFUZGxrX09aOW80TS00Y2p0TzNpdGpuTHp6dw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Cancelaron la alerta roja en Osorno por crecida de ríos pero mantienen monitoreo - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-08-03T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZVh0U05EQXhPSWpZVFBveUVlY3dlYzBMRjlMYVFGV1BqUUYyaGNTVkJPMjZTYnNMZjJLVm5fZFc0dTdST2Q1X2hmRDl3ZHhBT3dxR2UwcXl1VXl0U0hpWG0xR1ZsWTVZQ1k5VmI5QjRfa0lhakFNODhJeVd6STNYRnYteXgxdWlpS1lCcFFWbnE3WmdfY2plakJBS3drdw?oc=5",
      "sector": null
     },
     {
@@ -2871,20 +2885,6 @@
      "medio": "DUPLOS.CL",
      "fecha": "2026-08-02T07:55:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTGk0NjFhNjBoa0hRWERIM1gyU2JxWXBZNzVRZ2VjSVMzdFhkTnNFelpEbGp6MWdPNUhKNVJDWjhscXFmYmp6ZkxOeTZoWWdNQUwwcndkOEotOEx0YUI3VTdmeVktZHVoZG5wc2k2MW1TdkpSRXk4MDYzSS1CTzFQU2p3dVdvamNVMkNzRjd4cw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Evacúan a familias por desborde de ríos Damas y Rahue: campamento Chaurakawin quedó inundado - BioBioChile",
-     "medio": "BioBioChile",
-     "fecha": "2026-08-02T03:40:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWGhONjRnV19WY2lYemhOMnVDNHhMeWxwY2NMaWI3dEI4bmpFNXlIQmY5MXhRX1A1YVVWN2JWM0ZfRDdyY0VjQW90TFJqVVVMejB1cWdTbHVtbEc0NVlDblJQYnRxbHNVT0FPNTRuaG5ENGRXUTMtb3k0Q0xQT05wUXlwTWlIcERCVXNfY0JrVzg0NkEyWmxBazBINUhvdDY3UTNwd29YZy01MXd4Q0toR0RvSlVCdzZKVUtya09vRlZiVklLa3MzWTJzZURpbXltVVJFUGJncHVmMHZHNHVsUlJ3ampqWV93cXYwbThObUt6M2c1cHRTa3JLNlNMZU5HZ2hB?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Declaran Alerta Roja para Osorno por desborde de ríos en distintos puntos de la ciudad - Radio Sago",
-     "medio": "Radio Sago",
-     "fecha": "2026-08-02T02:31:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSVM5aGZmTVpKdm5BMEIxU2dqeXctQUF0UVZpYU5VaVpmUER1azlIenlLUERxTVdxbHpDZmlpMERUVXZxdzN4djVDQjlaS08zZ3pIbmt4SFlQWFZtZkFEZkM3MnpScjhzZjYwR3YyeFgtQ3RrWEowcHE3RHB3RlJhZE1YYjZzNkV4MXpKbm5xQ0hBRWc2X2otQWNucGIwSERHZnlBRHNiSVdHa3pkbUJSWnhn?oc=5",
      "sector": null
     }
    ]
@@ -3257,17 +3257,17 @@
      "sector": null
     },
     {
+     "titulo": "Senapred pide evitar quebradas y pendientes fuertes en Alto del Carmen por peligro de aluvión - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-08-11T20:33:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMF93WWRMMU9oX2ZjY3YyNnc2dy1YbDh4d2praks4Y05qQlc5Rk1udzBIRkVDSDMzX3hMOWx0Wm5jeVd1SFN1YjFxSFAxMU9WYUVZazhLaGRTMGN2WkZtdWhQVmdfVk9rYWN1bFVaU25mM3pZdm5EOUpXTldOYVdvQXY5WEhTaHR2dXNHa211Y0FVT3MxdEQzbm5DSWNBVURlcUpaWXRqRnlQbXduanFfeVNRaXgybjdRWVhFRjhISjdab21lWUU2ZDRMN2lmZTM0X1VmRjhMcWRUMEdIcUpNWkRwVlA4VlRYRmNzcXh0U2VUZ29RNDcweQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Organizaciones de Diego de Almagro recurren al Primer Tribunal Ambiental para impugnar aprobación de proyecto BESS Pueblo Hundido - Radio Atacama",
      "medio": "Radio Atacama",
      "fecha": "2026-07-28T12:14:43+00:00",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObGY2OXRCdWIyRk5BQ0t1T2xHZEVMY0Q1X3lvR2RzT0llOXlwVlV5blYzT1o5dG9ldUlkczQtMHNkSGhyR0xuRjYyWlNZa0RlN2V3SEJ5eHBTMTF1UDRuZEF1VmY2T214cjladk8wd3MzLTgyV3IyUXoxZUFKTUZEZnBEeGdwUDl1U0Fxd3JNYnFBMTJKVXFsZ0p6TjZsTGFCUUlQWkZ3YVBqZlJSR25MV0JnM3o2WDJPU20xaG4wbk9zSVVPTHRuekllX0htdzIwRVB3ZHFmWlZoUQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Emergencia meteorológica en el norte: Senapred reporta más de 200 afectados y 60 albergados - Meganoticias",
-     "medio": "Meganoticias",
-     "fecha": "2026-02-24T08:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb19VX0ZhMXUwOHRFY3JsYWw1VmVfQ1dJZ2NkY2VCdXEzRGNWSXpDMmJsVHpSSTFIa2psX2Ztb1hFSTlORDh0VGQ1RUNmRmJfcHdlcHlXT21iWkJfOUgxWnpnRURkSFN0djdLa3JlZ2hKdC1SMndSMENMbGlBNFZIZFd5Y1FraW15S3VnQWhna3JxX2dzMDh5MWR0THJYWFBjTS00bFJKVnp5c2Z3czFyTGdmR25ydHdUMG1qVnNnQU5vdVMtOE85MlBvU3haR2FWeFhuR2JudndPZEHSAeABQVVfeXFMUFFXT1JIRmVNa3djZVktbEhiSnJFMnhvUFNqNTV2c2lNU2IwXzdHYTdWV3BFcEYtQ0RiVWxSaU8wc2loNUEyck1YUzNnRHBjRG1tYmhTUGJfSnh0bjF6NzVUMFVjRmRwLUVTM3pWMjR6a2JvX3Yxa29HcTU1YWZrS2xud2Rob3oycTJXdVNIUE5JeFZRcGlDbUwyREkxRi1WTm1iOGhqS05NMzhTemtFU3JZVWZZSTQwYS1idzRtTmNQUlJmT3ZvWEp6bk4tN29PTmtFOFg5QjZpUmNndjliUHU?oc=5",
      "sector": null
     }
    ]
@@ -3280,6 +3280,13 @@
      "medio": "The Clinic",
      "fecha": "2026-08-13T15:47:26+00:00",
      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQdFlhR3ZNQzNKWGRkWG13RHZacHowRlNjM243WlVtdm5TX0VubW53NjZaa29FWmt6aWxlNVJhWnByMlBXNTFKVjhreGNuY3JWbGNES0dxZFlkUzcyWDVibl9hUXc4dEN2V01reDJDWUtBVUpPQ1hYeEZIdVJnYjIyR2ZyUG8wMG5zaEc1X25YZTFibS03TG53ejhXcGZuRU1ONU40em1oci1JcjZYVkItRWsxNjhWc2c0MHl4eXkyUkNTV1k3Z3JTS29yalFXdnVzdmZHVUMySnVzV1NxZHZCc21NcjQwY0ROOW95UjlmQ0xnOUFpQkZ0TmgwbXc5T1Z1RUlqQmVrM2ZIbzFuOTB5dE1fZXI2WEpITEY1MlNvb0ozUGvSAaMCQVVfeXFMUHRZYUd2TUMzSlhkZFhtd0R2WnB6MEZTYzNuN1pVbXZuU19Fbm1udzY2WmtvRVpremlsZTVSYVpwcjJQVzUxSlY4a3hjbmNyVmxjREtHcWRZZFM3Mlg1Ym5fYVF3OHRDdldNa3gyQ1lLQVVKT0NYWHhGSHVSZ2IyMkdmclBvMDBuc2hHNV9uWGUxYm0tN0xud3o4V3BmbkVNTjVONHptaHItSXI2WFZCLUVrMTY4VnNnNDB5eHl5MlJDU1dZN2dyU0tvcmpRV3Z1c3ZmR1VDMkp1c1dTcWR2QnNtTXI0MGNETjlveVI5ZkNMZzlBaUJGdE5oMG13OU9WdUVJakJlazNmSG8xbjkweXRNX2VyNlhKSExGNTJTb29KM1Br?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "El Dejavu en Chañaral, hija de fallecido en aluvión del 2015 recuerda el último día de su padre: “Con la lluvia te das cuenta que la memoria emotiva sigue viva” - theclinic.cl",
+     "medio": "theclinic.cl",
+     "fecha": "2026-08-13T15:44:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNaEJTeTlqWEQ1MzJzZG5vQjRiY0VBcm5wcGRLbFRuai1PV1BZQUFQMEpGeFA1VEptMkZUS2JVQS10NmZ5dHNmWHJ5MmJqMFlFbzNFVWoxMk5YTS11SEl2QTVYNDFFSVpfdVpOS3dOMDUzekZOWWtpWUZld0djanBVVHBsdWVYOWtsdzdnbnBxb3Jmc3lnYVFPODNHcHlxcTFyWEhVWm96Sm9ZX2drQXdzZHQ4cTcyQzMtQUR5UDNUQTA2U2JYOGtNdlg0RXJIMnUwN1NiTnkzVHFRSFVLMHE3YXhTeDRNTldDSDFZR0gyZ0w3YS1DRHpSZDJvRFUweUxsWS04LS0xVWpfQ2pOVVFfRUJ1d1hhYW16SjYzTkF30gGjAkFVX3lxTFB0WWFHdk1DM0pYZGRYbXdEdlpwejBGU2MzbjdaVW12blNfRW5tbnc2Nlprb0Vaa3ppbGU1UmFacHIyUFc1MUpWOGt4Y25jclZsY0RLR3FkWWRTNzJYNWJuX2FRdzh0Q3ZXTWt4MkNZS0FVSk9DWFh4Rkh1UmdiMjJHZnJQbzAwbnNoRzVfblhlMWJtLTdMbnd6OFdwZm5FTU41TjR6bWhyLUlyNlhWQi1FazE2OFZzZzQweXh5eTJSQ1NXWTdnclNLb3JqUVd2dXN2ZkdVQzJKdXNXU3FkdkJzbU1yNDBjRE45b3lSOWZDTGc5QWlCRnROaDBtdzlPVnVFSWpCZWszZkhvMW45MHl0TV9lcjZYSkhMRjUyU29vSjNQaw?oc=5",
      "sector": null
     },
     {
@@ -3336,13 +3343,6 @@
      "medio": "La Izquierda Diario Chile",
      "fecha": "2017-07-08T11:54:16+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2JOeVFZYktiaUJZQ0dBQ1lVSS1FNTFKNURYeU1rNUVTcWlxam1WSG5WcWUzSmh2YUVrcTk3QzRZVVNDR1dQdDJib3RhTzZCaHNKUnNEejdlX0NkZkpRLXdDXzhDeFlYRkxpbWt4QlVXYUprZHRkclEtMDdYYTF1d0JUNVd4YW5UZXFxRkxrWFlCak5hQXJuZDFOUmFyNHRPVUo0OFFGTDZ0ZmYzY3otQnRjR2Y2ek050gHAAUFVX3lxTFAwXzRfaGYzTkhiVU92b1Z5MWZ2MVlCSnBtdGtDamJ5dktQMjM2WDBzYUVOVkdCNGR5NXVEY09uWTE5dnZfckZHLVNReENWUW02TFV2YXljZ0kzV0xsQUF3WW42SVV3TmdMUkxyZm1QZGVMTllOeHJkZlUxWlZESDlXeXdTNzNFRG9uajlrWU5EM2V5ZTgxNzA4TVpaYV95X2pCYlhYMzdtUEJYRjNLOXoyY1djOG5rNGg2ZXA3NllPTw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "La polémica idea de reubicar parte de Chañaral luego de los aluviones - elciudadano.com",
-     "medio": "elciudadano.com",
-     "fecha": "2017-05-23T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUEpFZE1CbnNLaXY2UlRweVpXVzlvUkFhX2N6QWxObVotMG5Dd21aZU1maXp3bHRGOGxuOEVXT3NuSkJUclVJcTlPMXdxekZ2VHNfNllaSFR6S3UyQzZ1RnlXNkJzcWRtSGdESDRWT3dVeVlFVDZHY2E3anBTdUNwSENBR3Y3X2IwXzFoUWUtaVB5MmtFcV9LRGUxQVBSQTFYbS02ckp6VVJQbzZoMDlKcVZJWExfNUp3dWpj?oc=5",
      "sector": null
     }
    ]
