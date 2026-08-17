@@ -1,13 +1,41 @@
 {
- "generado": "2026-08-16T23:41:51+00:00",
+ "generado": "2026-08-17T00:01:03+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "347821509dc0",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Amarilla para la Región de Valparaíso por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-5 Viento normal a moderado en cordillera. 14-08 17-08 Abrir aquí Del mismo modo, ha sido cancelado el siguiente alertamiento debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Enlace Aviso A414-3 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo y fuertes rachas",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-16T19:58:09.099-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-08-12-17-49-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "d898e8541478",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de O’Higgins. Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-5 Viento normal a moderado en cordillera. 14-08 17-08 Abrir aquí Del mismo modo, ha sido cancelado el siguiente alertamiento debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A414-3 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo y fuertes rachas de vie",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-16T19:50:25.2525-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-08-04-17-58-34",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "3d62100871bb",
    "nivel": "AMARILLA",
@@ -239,20 +267,6 @@
    "regiones_extra": []
   },
   {
-   "id": "88a82836d4d7",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura de Alerta Amarilla para la región de Valparaíso, a excepción de la Provincia de Isla de Pascua y la comuna de Juan Fernández, por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-4 Viento normal a moderado en cordillera de la región. 13-08 15-08 Abrir Aquí Aviso A414-2 Probables tormentas eléctricas con probabilidad de rachas de vientos locales en la región. 13-08 15-08 Abrir Aquí Por otra parte, debido al debilitamiento de las condiciones que los originaron, han sido cancelados los siguiente alertamientos para la región: Alertamient",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-14T14:20:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-08-12-17-49-04",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "fc297670681d",
    "nivel": "ATP",
    "tipo": "evento meteorológico",
@@ -277,20 +291,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-13T22:23:32.3232-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-07-12-18-52-58",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7c5414d6b951",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la Región de O’Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA135 Tormentas eléctricas con probabilidad de granizos en cordillera de la costa, valle y precordillera. 13-08 13-08 Abrir Aquí Aviso A414-2 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales. 13-08 15-08 Abrir Aquí Aviso A397-4 Viento normal a moderado en cordillera. 13-08 16-08 Abrir Aquí En consideración a estos antecedente",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-13T18:35:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-08-04-17-58-34",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -2661,20 +2661,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-19T06:19:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comuna-de-limache-quintero-concon-y-quillota-por-desborde-2026-07-18-00-44-53",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "4a5b2bdde943",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para la comuna de Los Ángeles por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica Estero Paillihue en ex longitudinal , ubicada en la comuna de Los Ángeles, indica una disminución en su caudal , alcanzando valores de umbral azul . En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida para la comuna de Los Ángeles, que se mantenía vigente desde el 18 de julio.",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-19T00:45:24.2424-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-los-angeles-por-crecida-2026-07-18-17-11-22",
    "origen": "senapred_web",
    "regiones_extra": []
   },
