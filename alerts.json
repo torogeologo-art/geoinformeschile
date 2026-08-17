@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-17T21:59:54+00:00",
+ "generado": "2026-08-17T22:56:24+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -13,12 +13,12 @@
    "nivel": "ROJA",
    "tipo": "activación de quebradas",
    "titulo": "¡ATENCIÓN!",
-   "descripcion": "¡ATENCIÓN!     \nEVITE acercarse a quebradas en los sectores Caleta Totoral y Caleta Pajonales de la comuna de #Copiapó, Región de Atacama.\n\nPara reforzar el alertamiento preventivo #SENAPRED activó mensajería SAE.\n\nMantente informado a través de los canales oficiales y sigue las indicaciones de la autoridad y de los equipos de respuesta en terreno.",
+   "descripcion": "¡ATENCIÓN! \nPor activación de quebradas se hace un llamado a EVITAR acercarse a cursos de agua en la comuna de #TierraAmarilla, Región de Atacama.  \n\nPara reforzar el alertamiento preventivo #SENAPRED activó mensajería SAE.  \n\nMantente informado a través de los canales oficiales y sigue las indicaciones de la autoridad y de los equipos de respuesta en terreno.",
    "region": "Atacama",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-17T18:38:34+00:00",
-   "url": "https://t.me/SenapredChile/1540",
+   "ts": "2026-08-17T22:09:47+00:00",
+   "url": "https://t.me/SenapredChile/1541",
    "origen": "telegram",
    "sae": true
   },

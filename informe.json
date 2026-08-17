@@ -1,18 +1,18 @@
 {
- "generado": "2026-08-17T21:59:58+00:00",
+ "generado": "2026-08-17T22:56:28+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "07-08-2026",
   "hasta": "17-08-2026"
  },
  "totales": {
-  "alertas": 118,
+  "alertas": 116,
   "sae": 6,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 67,
    "AMARILLA": 43,
+   "ATP": 65,
    "ROJA": 8
   },
   "por_tipo": [
@@ -22,11 +22,11 @@
    ],
    [
     "viento",
-    32
+    31
    ],
    [
     "evento meteorológico",
-    7
+    6
    ],
    [
     "crecida de río",
@@ -235,15 +235,6 @@
     "region_link": "arica y parinacota"
    },
    {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "07-08",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
     "lugar": "Región de Valparaíso",
     "region": "Valparaíso",
     "nivel": "ATP",
@@ -260,6 +251,15 @@
     "ts": "08-08",
     "comuna_link": "",
     "region_link": "los lagos"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "08-08",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
    },
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -309,15 +309,6 @@
     "region_link": "tarapaca"
    },
    {
-    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-    "region": "Aysén del General Carlos Ibáñez del Campo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "07-08",
-    "comuna_link": "",
-    "region_link": "aysen del general carlos ibanez del campo"
-   },
-   {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
     "region": "Magallanes y de la Antártica Chilena",
     "nivel": "ATP",
@@ -325,6 +316,15 @@
     "ts": "09-08",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
+   },
+   {
+    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "14-08",
+    "comuna_link": "",
+    "region_link": "aysen del general carlos ibanez del campo"
    }
   ],
   "crecida de río": [
@@ -478,7 +478,7 @@
    "fecha": "2026-08-07",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 4,
+   "ATP": 2,
    "sae": 0
   },
   {
@@ -763,24 +763,6 @@
    ]
   },
   {
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "region": "Libertador General Bernardo O'Higgins",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "07-08 18:41",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "13-08 18:35",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Arica y Parinacota",
    "region": "Arica y Parinacota",
    "sae": false,
@@ -794,6 +776,24 @@
     {
      "nivel": "AMARILLA",
      "ts": "16-08 16:23",
+     "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "region": "Libertador General Bernardo O'Higgins",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "08-08 16:03",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "13-08 18:35",
      "estado": "CANCELADA"
     }
    ]
