@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-17T15:54:59+00:00",
+ "generado": "2026-08-17T17:01:32+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,36 @@
  },
  "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "e414880d34e0",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "¡ATENCIÓN!",
+   "descripcion": "¡ATENCIÓN!    \nPor alerta de crecida evite acercarse a riberas de ríos, esteros y quebradas en la comuna de La Serena, Región de Coquimbo.\n\n#SENAPRED activó mensajería SAE preventiva.    \n\nMantente informado a través de los canales oficiales y sigue las indicaciones de la autoridad y de los equipos de respuesta en terreno.",
+   "region": "Coquimbo",
+   "comunas": [
+    "La Serena"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-08-17T16:19:30+00:00",
+   "url": "https://t.me/SenapredChile/1538",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "fa9c24f6a4f6",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Amarilla para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-5 Viento normal a moderado en cordillera. 14-08 17-08 Abrir aquí Del mismo modo, ha sido cancelado el siguiente alertamiento debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Enlace Alerta AA135 Tormentas Eléctricas con probabilidad de granizos entre las regiones de Coquimbo y Maule. Abrir aquí Aviso A414-3 Probable",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-17T12:03:17.1717-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-04-15-07-37",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "f0893ecb0e62",
    "nivel": "AMARILLA",
@@ -233,20 +263,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-14T17:53:11.1111-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "9b2d54505593",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Moitoreo de Alerta Amarilla para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-5 Viento normal a moderado en cordillera de la región. 14-08 17-08 Abrir aquí Aviso A412-1 Viento normal a moderado en litoral, cordillera de la costa, valle y precordillera de la región. 14-08 14-08 Abrir aquí Aviso A414-3 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en la región. 14-08 16-08 Abrir aquí Por otra parte, d",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-14T16:09:02.022-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-04-15-07-37",
    "origen": "senapred_web",
    "regiones_extra": []
   },
