@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-17T19:09:43+00:00",
+ "generado": "2026-08-17T19:58:49+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -39,6 +39,50 @@
    "sae": true
   },
   {
+   "id": "f0893ecb0e62",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA138 Nevadas moderadas a fuertes en cordillera, con desarrollo de ventiscas. 17-08 18-08 Abrir aquí Alerta AA139-1 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas. 18-08 18-08 Abrir aquí Alerta AA140 Precipitaciones moderadas a fuertes en el litoral. 17-08 18-08 Abrir aquí Aviso A388-9 Viento normal a moderado con probabilidad de to",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-17T15:51:53.5353-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
+  {
+   "id": "9899499c45eb",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Amarilla para las comunas de Antofagasta, Taltal, Mejillones y Tocopilla por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alarma AAA8 Precipitaciones intensas en el litoral (Tocopilla y Taltal) y cordillera de la costa (Tocopilla hasta Taltal). 18-08 18-08 Abrir Aquí Alerta AA139-1 Viento moderado a fuerte con desarrollo de ventiscas, en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 17-08 18-08 Abrir Aquí Alerta AA141-",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-17T15:44:09.099-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "fc243f5e179d",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Sierra Gorda y María Elena por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alarma AAA8 Precipitaciones intensas en el litoral (Tocopilla y Taltal) y cordillera de la costa (Tocopilla hasta Taltal). 18-08 18-08 Abrir Aquí Alerta AA139-1 Viento moderado a fuerte con desarrollo de ventiscas, en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 17-08 18-08 Abrir Aquí Alerta AA141-",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-17T15:36:47.4747-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
    "id": "d4430f3a7c63",
    "nivel": "ATP",
    "tipo": "viento",
@@ -69,36 +113,6 @@
    "regiones_extra": []
   },
   {
-   "id": "f0893ecb0e62",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA138 Nevadas moderadas a fuertes en cordillera, con desarrollo de ventiscas en la región. 17-08 18-08 Abrir aquí Alerta AA139 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas en la región. 18-08 18-08 Abrir aquí Alerta AA140 Precipitaciones moderadas a fuertes en el litoral de la región. 17-08 18-08 Abrir aquí Aviso A388-8 Viento nor",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-17T05:41:03.033-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
-  },
-  {
-   "id": "9899499c45eb",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Amarilla para las comunas de Antofagasta, Taltal, Mejillones y Tocopilla por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA139 Viento moderado a fuerte (desarrollo de ventisca) en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera de la región. 15-08 18-08 Abrir Aquí Alerta AA141-2 Precipitaciones moderadas a fuertes en el litoral y cordillera de la costa de la región. 17-08 18-08 Abrir aquí Aviso A388-8 Viento normal a mod",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-17T05:37:02.022-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "17150866a342",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -123,20 +137,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-16T23:17:59.5959-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1650e370b0c5",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de El Loa y comunas de Sierra Gorda y María Elena por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA139 Viento moderado a fuerte (desarrollo de ventisca) en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 15-08 18-08 Abrir Aquí Alerta AA141-1 Precipitaciones moderadas a fuertes en el litoral y cordillera de la costa. 17-08 18-08 Abrir aquí Aviso A388-8 Viento normal a moderado con probabilidad de",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-16T23:03:24.2424-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -2502,22 +2502,6 @@
    "sae": true
   },
   {
-   "id": "55035d2b0ed7",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Arica y Parinacota por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la para la Región de Arica y Parinacota, debido al término de las condiciones meteorológicas que los generaron: Alertamiento Pronóstico Aviso A337 Viento normal a moderado con probabilidad de tormentas de arena en litoral de la Región. En consideración a este antecedente y en coordinación con la Delegación Presidencial de la Región de Arica y Parinacota, la Dirección Regional de SENAPRED, cancela Alerta Temprana Preventiva Regional por viento",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-20T01:51:29.2929-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-07-15-14-11-04",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
-  },
-  {
    "id": "3fd9d4727f1b",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -2608,20 +2592,6 @@
    "url": "https://t.me/SenapredChile/1352",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "b46916843f2a",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para las comunas de Pinto, Chillán y Chillán Viejo por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Chillán en Esperanza N°2” ubicada en la comuna de Pinto, Se encuentra en umbral verde, con valores estables en su caudal. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED Cancela Alerta Amarilla por crecida para las comunas de Pinto, Chillán y Chillán Viejo, que se mantuvo vigente desde el 15 de julio del 2026.",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-19T19:09:15.1515-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-pinto-chillan-y-chillan-viejo-por-crecida-2026-07-15-16-25-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "b8c30858fb3e",
