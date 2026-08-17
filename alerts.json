@@ -1,13 +1,27 @@
 {
- "generado": "2026-08-17T17:01:32+00:00",
+ "generado": "2026-08-17T19:09:43+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "3c09c6cd002a",
+   "nivel": "ROJA",
+   "tipo": "activación de quebradas",
+   "titulo": "¡ATENCIÓN!",
+   "descripcion": "¡ATENCIÓN!     \nEVITE acercarse a quebradas en los sectores Caleta Totoral y Caleta Pajonales de la comuna de #Copiapó, Región de Atacama.\n\nPara reforzar el alertamiento preventivo #SENAPRED activó mensajería SAE.\n\nMantente informado a través de los canales oficiales y sigue las indicaciones de la autoridad y de los equipos de respuesta en terreno.",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-17T18:38:34+00:00",
+   "url": "https://t.me/SenapredChile/1540",
+   "origen": "telegram",
+   "sae": true
+  },
   {
    "id": "e414880d34e0",
    "nivel": "ROJA",
@@ -23,6 +37,22 @@
    "url": "https://t.me/SenapredChile/1538",
    "origen": "telegram",
    "sae": true
+  },
+  {
+   "id": "d4430f3a7c63",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A427-1 Viento normal a moderado en cordillera austral sur, insular central y pampa patagónica sur. 17-07 18-07 Abrir aquí Por otra parte, según lo señalado en el Pronóstico Especial emitido hoy por el Centro Meteorológico Regional Austral, se pronostican las siguientes intensidades de viento: •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vi",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-17T14:32:09.099-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-rio-verde-y-punta-arenas-por-viento-2026-08-16-16-32-13",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
   },
   {
    "id": "fa9c24f6a4f6",
@@ -179,22 +209,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "c9e979f90fd9",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Río Verde y Punta Arenas por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A427 Viento normal a moderado en zona insular central. 17-07 18-07 Abrir aquí Por otra parte, según lo señalado en el Pronóstico Especial emitido hoy por el Centro Meteorológico Regional Austral, se pronostican las siguientes intensidades de viento: •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Viento: Entre 80 y 100 km/h en las comunas de",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-16T16:29:36.3636-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-rio-verde-y-punta-arenas-por-viento-2026-08-16-16-32-13",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "e7c43feb9ae3",
