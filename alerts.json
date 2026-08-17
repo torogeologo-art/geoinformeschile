@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-17T03:14:40+00:00",
+ "generado": "2026-08-17T03:29:53+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "c6d82db3507e",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Monitoreo Alerta Amarilla para la Provincia de Iquique y comuna de Huara por evento meteorológico",
+   "descripcion": "Según la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para el sector costero de la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA140 Precipitaciones moderadas a fuertes en el litoral de la región. 17-08 18-08 Abrir aquí Aviso A417-5 Precipitaciones normales a moderadas en litoral de la región. 16-08 17-08 Abrir Aquí Aviso A424 Precipitaciones normales a moderadas en litoral, cordillera de la costa, pampa y precordillera. 17-08 18-08 Abrir Aquí En tanto, el Servicio Nacional d",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-16T23:17:59.5959-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "1650e370b0c5",
    "nivel": "ATP",
@@ -75,20 +89,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-16T19:50:25.2525-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-08-04-17-58-34",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "3d62100871bb",
-   "nivel": "AMARILLA",
-   "tipo": "evento meteorológico",
-   "titulo": "Monitoreo Alerta Amarilla para las comunas de Iquique, Alto Hospicio y Huara por evento meteorológico",
-   "descripcion": "De acuerdo con los antecedentes entregados por la Dirección Regional de SENAPRED Tarapacá, se reportan las siguientes novedades que tienen relación con el evento meteorológico que afectó a la región: Comuna Afectación a personas Daño a viviendas Iquique 408 personas damnificadas. 102 viviendas con daño mayor y 869 con daño menor. Por otra parte, según la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para el sector costero de la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA140",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-16T19:38:04.044-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -2649,20 +2649,6 @@
     "Los Ríos",
     "Ñuble"
    ]
-  },
-  {
-   "id": "82375d0c7005",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para las comunas de Melipilla, Curacaví y María Pinto por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica Estero Puangue , ubicada en la comuna de Melipilla, indica una disminución en su caudal , alcanzando valores de umbral azul . En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED c ancela Alerta Amarilla por crecida para las comunas de Melipilla, Curacaví y María Pinto, que se mantuvo vigente desde el 18 de julio.",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-19T10:50:12.1212-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-melipilla-curacavi-y-maria-pinto-por-crecida-2026-07-18-02-12-35",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "fa64dbe2fb82",
