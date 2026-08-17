@@ -1,28 +1,28 @@
 {
- "generado": "2026-08-17T03:15:07+00:00",
+ "generado": "2026-08-17T05:22:17+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "07-08-2026",
   "hasta": "17-08-2026"
  },
  "totales": {
-  "alertas": 116,
+  "alertas": 118,
   "sae": 4,
   "comunas": 3,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 68,
-   "AMARILLA": 41,
+   "ATP": 69,
+   "AMARILLA": 42,
    "ROJA": 7
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    60
+    61
    ],
    [
     "viento",
-    28
+    29
    ],
    [
     "evento meteorológico",
@@ -466,7 +466,7 @@
  },
  "vigentes": {
   "ROJA": 4,
-  "AMARILLA": 6,
+  "AMARILLA": 7,
   "ATP": 6,
   "regiones_roja": [
    "Atacama"
@@ -540,7 +540,14 @@
    "fecha": "2026-08-16",
    "ROJA": 0,
    "AMARILLA": 8,
-   "ATP": 6,
+   "ATP": 7,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-08-17",
+   "ROJA": 0,
+   "AMARILLA": 1,
+   "ATP": 0,
    "sae": 0
   }
  ],
@@ -714,6 +721,29 @@
    ]
   },
   {
+   "lugar": "Región de Tarapacá",
+   "region": "Tarapacá",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "08-08 18:31",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "15-08 22:59",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "16-08 23:41",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Los Ríos",
    "region": "Los Ríos",
    "sae": false,
@@ -807,27 +837,27 @@
      "estado": "CANCELADA"
     }
    ]
-  },
-  {
-   "lugar": "Región de Tarapacá",
-   "region": "Tarapacá",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "08-08 18:31",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "15-08 22:59",
-     "estado": "VIGENTE"
-    }
-   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "17-08 00:13",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Arica y Parinacota",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59"
+  },
+  {
+   "ts": "16-08 23:41",
+   "nivel": "ATP",
+   "lugar": "Región de Tarapacá",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31"
+  },
   {
    "ts": "16-08 22:09",
    "nivel": "AMARILLA",
@@ -935,24 +965,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51"
-  },
-  {
-   "ts": "16-08 13:49",
-   "nivel": "ATP",
-   "lugar": "Región de Arica y Parinacota",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59"
-  },
-  {
-   "ts": "16-08 10:32",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-14-13-37-57"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

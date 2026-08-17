@@ -1,13 +1,43 @@
 {
- "generado": "2026-08-17T03:29:53+00:00",
+ "generado": "2026-08-17T05:21:57+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "f0893ecb0e62",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA138 Nevadas moderadas a fuertes en cordillera, con desarrollo de ventiscas en la región. 17-08 18-08 Abrir aquí Alerta AA139 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas en la región. 18-08 18-08 Abrir aquí Alerta AA140 Precipitaciones moderadas a fuertes en el litoral de la región. 17-08 18-08 Abrir aquí Aviso A417-5 Precipitac",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-17T00:13:08.088-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
+  {
+   "id": "17150866a342",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Provincia de Tamarugal por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA138 Nevadas moderadas a fuertes con desarrollo de ventiscas en cordillera de la región. 17-08 18-08 Abrir Aquí Alerta AA139 Viento moderado a fuerte con desarrollo de ventiscas en cordillera de la región. 17-08 18-08 Abrir Aquí Aviso A388-8 Viento normal a moderado con probabilidad de tormentas de arena, en pampa y precordillera. 17-08 18-08 Abrir Aquí Aviso A4",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-16T23:41:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "c6d82db3507e",
    "nivel": "AMARILLA",
@@ -137,22 +167,6 @@
    ]
   },
   {
-   "id": "1d31b23fb49c",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la región de Arica y Parinacota por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Arica y Parinacota. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA138 Nevadas moderadas a fuertes en cordillera, con desarrollo de ventiscas. 17-08 18-08 Abrir aquí Alerta AA139 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas. 18-08 18-08 Abrir aquí Alerta AA140 Precipitaciones moderadas a fuertes en el litoral. 17-08 18-08 Abrir aquí Aviso A417-4 Precipitaciones normales a moderadas en el litoral. 16-08",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-16T16:23:14.1414-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
-  },
-  {
    "id": "e7c43feb9ae3",
    "nivel": "ATP",
    "tipo": "viento",
@@ -191,20 +205,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-16T10:32:10.1010-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-14-13-37-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "8deedd03ce51",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura Alerta Temprana Preventiva  para la Provincia del Tamarugal por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA138 Nevadas moderadas a fuertes con desarrollo de ventiscas en Cordillera. 17-08 18-08 Abrir Aquí Alerta AA139 Viento moderado a fuerte con desarrollo de ventiscas en Cordillera. 17-08 18-08 Abrir Aquí Aviso A388-8 Viento normal a moderado con probabilidad de tormentas de arena, en pampa y precordillera. 17-08 18-08 Abrir Aquí Aviso A424 Precipitaciones normale",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-15T22:55:21.2121-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -2624,31 +2624,6 @@
    "url": "https://t.me/SenapredChile/1345",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "79d2fba13217",
-   "nivel": "ATP",
-   "tipo": "marejadas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas del borde costero continental entre las regiones de Atacama y Aysén y para la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales",
-   "descripcion": "El Centro Meteorológico Marítimo Regional de Valparaíso, dependiente de la Gobernación Marítima de Valparaíso, informa que han finalizado las condiciones de mar que se proyectaron como marejadas anormales del N oroeste , producto de un sistema frontal que afectó al borde costero continental en el tramo comprendido entre las regiones de Atacama y Aysén, incluyendo el Archipiélago Juan Fernández en la Región de Valparaíso, lo que supone una disminución del riesgo asociado a esta variable. En consideración a estos antecedentes, SENAPRED cancela Alerta Temprana Preventiva para las comunas del bord",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-19T12:40:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-atacama-y-aysen-y-para-la-comuna-de-juan-fernandez-region-de-valparaiso-por-marejadas-anniormales-2026-07-14-17-45-00",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Coquimbo",
-    "La Araucanía",
-    "Valparaíso",
-    "Libertador General Bernardo O'Higgins",
-    "Maule",
-    "Biobío",
-    "Los Lagos",
-    "Aysén del General Carlos Ibáñez del Campo",
-    "Los Ríos",
-    "Ñuble"
-   ]
   },
   {
    "id": "fa64dbe2fb82",
