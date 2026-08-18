@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-18T19:41:03+00:00",
+ "generado": "2026-08-18T20:47:56+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 18,
+ "total_vigentes": 17,
  "alertas": [
   {
    "id": "d76ab7cde680",
    "nivel": "ROJA",
    "tipo": "aluvión",
    "titulo": "¡ATENCIÓN!",
-   "descripcion": "¡ATENCIÓN!   \nPor peligro de aluvión se solicita EVACUAR sectores Caletas San Marcos y Río Seco en la comuna de #Iquique, Región de Tarapacá.    \n#SENAPRED activó Mensajería #SAE. \nMantén la calma y sigue las indicaciones de las autoridades y organismos en terreno. Al momento de evacuar recuerda considerar a tu mascota y sus necesidades.     \nMás información en https://web.senapred.cl/dimension-animal/",
+   "descripcion": "¡ATENCIÓN!     \nPor peligro de aluvión se solicita EVACUAR sectores ZOFRI Barrio Industrial y Marinero Desconocido en la comuna de #Iquique, Región de Tarapacá.      \nPara reforzar los procesos de evacuación #SENAPRED activó Mensajería #SAE.   \nMantén la calma y sigue las indicaciones de las autoridades y organismos en terreno. Al momento de evacuar recuerda considerar a tu mascota y sus necesidades.       \nMás información en: https://web.senapred.cl/dimension-animal/",
    "region": "Tarapacá",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-18T19:30:48+00:00",
-   "url": "https://t.me/SenapredChile/1549",
+   "ts": "2026-08-18T20:30:18+00:00",
+   "url": "https://t.me/SenapredChile/1551",
    "origen": "telegram",
    "sae": true
   },
@@ -36,6 +36,22 @@
    "origen": "senapred_web",
    "regiones_extra": [],
    "sae": true
+  },
+  {
+   "id": "baaba01f5e4d",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA139-1 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas. 18-08 18-08 Abrir aquí Aviso A423-1 Probables tormentas eléctricas en precordillera y cordillera de la región. 17-08 18-08 Abrir aquí Aviso A424 Precipitaciones normales a moderadas en litoral, cordillera de la costa, pampa y precordillera de la región. 17-08 18-08 Abrir aquí A",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-18T16:18:53.5353-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
   },
   {
    "id": "a66ef8d02ff2",
@@ -64,22 +80,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "baaba01f5e4d",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA139-1 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas. 18-08 18-08 Abrir aquí Aviso A388-9 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. 17-08 17-08 Abrir aquí Aviso A423-1 Probables tormentas eléctricas en precordillera y cordillera de la región. 17-08 18-08 Abrir aquí Aviso A424 Precipitaciones no",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-18T14:22:41.4141-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
   },
   {
    "id": "72eb5e328eba",
@@ -494,7 +494,7 @@
    "descripcion": "¡ATENCIÓN! EVITA quebradas y pendientes fuertes, por peligro de #Aluvión, en la comuna de #AltodelCarmen, Región de Atacama.\nInfórmate a través de los canales oficiales y sigue las indicaciones de la autoridad.\n#SENAPREDactivó mensajería #SAE Preventiva.",
    "region": "Atacama",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-11T20:32:37+00:00",
    "url": "https://t.me/SenapredChile/1515",
    "origen": "telegram",
