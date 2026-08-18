@@ -1,28 +1,28 @@
 {
- "generado": "2026-08-18T17:03:42+00:00",
+ "generado": "2026-08-18T19:41:10+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "08-08-2026",
   "hasta": "18-08-2026"
  },
  "totales": {
-  "alertas": 123,
-  "sae": 6,
+  "alertas": 124,
+  "sae": 8,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 69,
-   "AMARILLA": 47,
-   "ROJA": 7
+   "ATP": 67,
+   "AMARILLA": 48,
+   "ROJA": 9
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    66
+    68
    ],
    [
     "viento",
-    31
+    29
    ],
    [
     "evento meteorológico",
@@ -33,15 +33,15 @@
     6
    ],
    [
+    "aluvión",
+    3
+   ],
+   [
     "nevadas",
     2
    ],
    [
     "otros",
-    2
-   ],
-   [
-    "aluvión",
     2
    ],
    [
@@ -69,6 +69,15 @@
     "ts": "11-08",
     "comuna_link": "",
     "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "18-08",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
    },
    {
     "lugar": "Región de Coquimbo",
@@ -125,15 +134,6 @@
     "region_link": "maule"
    },
    {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "08-08",
-    "comuna_link": "",
-    "region_link": "arica y parinacota"
-   },
-   {
     "lugar": "Región de Biobío",
     "region": "Biobío",
     "nivel": "ATP",
@@ -183,20 +183,11 @@
    {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "16-08",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-08",
     "comuna_link": "",
     "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "08-08",
-    "comuna_link": "",
-    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Atacama",
@@ -217,6 +208,15 @@
     "region_link": "la araucania"
    },
    {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "09-08",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
     "lugar": "Región de Ñuble",
     "region": "Ñuble",
     "nivel": "AMARILLA",
@@ -233,15 +233,6 @@
     "ts": "16-08",
     "comuna_link": "",
     "region_link": "arica y parinacota"
-   },
-   {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "08-08",
-    "comuna_link": "",
-    "region_link": "los lagos"
    },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -401,6 +392,35 @@
     "region_link": "biobio"
    }
   ],
+  "aluvión": [
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "11-08",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Diego de Almagro, Chañaral",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "12-08",
+    "comuna_link": "diego de almagro",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-08",
+    "comuna_link": "",
+    "region_link": "tarapaca"
+   }
+  ],
   "nevadas": [
    {
     "lugar": "Región de Los Lagos",
@@ -441,26 +461,6 @@
     "region_link": "los rios"
    }
   ],
-  "aluvión": [
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "11-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Diego de Almagro, Chañaral",
-    "region": "Atacama",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "12-08",
-    "comuna_link": "diego de almagro",
-    "region_link": "atacama"
-   }
-  ],
   "remoción en masa": [
    {
     "lugar": "Región de Coquimbo",
@@ -483,20 +483,22 @@
   ]
  },
  "vigentes": {
-  "ROJA": 6,
+  "ROJA": 8,
   "AMARILLA": 6,
-  "ATP": 5,
+  "ATP": 4,
   "regiones_roja": [
+   "Antofagasta",
    "Atacama",
-   "Coquimbo"
+   "Coquimbo",
+   "Tarapacá"
   ]
  },
  "serie": [
   {
    "fecha": "2026-08-08",
    "ROJA": 0,
-   "AMARILLA": 3,
-   "ATP": 8,
+   "AMARILLA": 2,
+   "ATP": 5,
    "sae": 0
   },
   {
@@ -564,10 +566,10 @@
   },
   {
    "fecha": "2026-08-18",
-   "ROJA": 0,
-   "AMARILLA": 3,
-   "ATP": 2,
-   "sae": 0
+   "ROJA": 2,
+   "AMARILLA": 5,
+   "ATP": 3,
+   "sae": 2
   }
  ],
  "escalamientos": [
@@ -600,6 +602,72 @@
     {
      "nivel": "AMARILLA",
      "ts": "17-08 22:25",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Tarapacá",
+   "region": "Tarapacá",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "15-08 22:59",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "16-08 23:41",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-08 19:21",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "18-08 14:33",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "18-08 19:30",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Antofagasta",
+   "region": "Antofagasta",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "09-08 16:22",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "16-08 21:07",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "17-08 15:36",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "18-08 12:50",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "18-08 13:05",
      "estado": "VIGENTE"
     }
    ]
@@ -661,85 +729,6 @@
     {
      "nivel": "ATP",
      "ts": "17-08 22:49",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Antofagasta",
-   "region": "Antofagasta",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "08-08 13:59",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "16-08 21:07",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "17-08 15:36",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "18-08 12:50",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Tarapacá",
-   "region": "Tarapacá",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "08-08 18:31",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "15-08 22:59",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "16-08 23:41",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "17-08 19:21",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Los Lagos",
-   "region": "Los Lagos",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "08-08 15:31",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "08-08 18:11",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "12-08 08:30",
      "estado": "CANCELADA"
     }
    ]
@@ -844,7 +833,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "08-08 13:39",
+     "ts": "09-08 16:36",
      "estado": "VIGENTE"
     },
     {
@@ -874,6 +863,51 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "18-08 19:30",
+   "nivel": "ROJA",
+   "lugar": "Región de Tarapacá",
+   "tipo": "aluvión",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1549"
+  },
+  {
+   "ts": "18-08 14:33",
+   "nivel": "ATP",
+   "lugar": "Región de Tarapacá",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31"
+  },
+  {
+   "ts": "18-08 14:27",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Tarapacá",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43"
+  },
+  {
+   "ts": "18-08 14:22",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Arica y Parinacota",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59"
+  },
+  {
+   "ts": "18-08 13:05",
+   "nivel": "ROJA",
+   "lugar": "Región de Antofagasta",
+   "tipo": "viento",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
+  },
   {
    "ts": "18-08 12:50",
    "nivel": "AMARILLA",
@@ -954,51 +988,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43"
-  },
-  {
-   "ts": "17-08 19:05",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
-  },
-  {
-   "ts": "17-08 19:00",
-   "nivel": "ATP",
-   "lugar": "Región de Tarapacá",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31"
-  },
-  {
-   "ts": "17-08 18:57",
-   "nivel": "ATP",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-13-11-33-42"
-  },
-  {
-   "ts": "17-08 15:36",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51"
-  },
-  {
-   "ts": "17-08 18:38",
-   "nivel": "ROJA",
-   "lugar": "Región de Atacama",
-   "tipo": "activación de quebradas",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1540"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

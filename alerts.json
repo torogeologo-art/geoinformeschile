@@ -1,13 +1,86 @@
 {
- "generado": "2026-08-18T18:04:10+00:00",
+ "generado": "2026-08-18T19:41:03+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "d76ab7cde680",
+   "nivel": "ROJA",
+   "tipo": "aluvión",
+   "titulo": "¡ATENCIÓN!",
+   "descripcion": "¡ATENCIÓN!   \nPor peligro de aluvión se solicita EVACUAR sectores Caletas San Marcos y Río Seco en la comuna de #Iquique, Región de Tarapacá.    \n#SENAPRED activó Mensajería #SAE. \nMantén la calma y sigue las indicaciones de las autoridades y organismos en terreno. Al momento de evacuar recuerda considerar a tu mascota y sus necesidades.     \nMás información en https://web.senapred.cl/dimension-animal/",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-18T19:30:48+00:00",
+   "url": "https://t.me/SenapredChile/1549",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "cf8fbc527a05",
+   "nivel": "ROJA",
+   "tipo": "viento",
+   "titulo": "Se modifica cobertura de Alerta Roja para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alarma AAA8 Precipitaciones intensas en el litoral (Tocopilla y Taltal) y cordillera de la costa (Tocopilla hasta Taltal). 18-08 18-08 Abrir Aquí Alerta AA139-1 Viento moderado a fuerte con desarrollo de ventiscas, en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 17-08 18-08 Abrir Aquí Alerta AA141-",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-18T15:07:51.5151-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
+   "origen": "senapred_web",
+   "regiones_extra": [],
+   "sae": true
+  },
+  {
+   "id": "a66ef8d02ff2",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Camiña, Colchane, Pica y Pozo Almonte por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA139-1 Viento moderado a fuerte con desarrollo de ventiscas en cordillera. 17-08 18-08 Abrir Aquí Aviso A388-9 Viento normal a moderado con probabilidad de tormentas de arena, en pampa y precordillera. 17-08 18-08 Abrir Aquí Aviso A423-1 Probables tormentas eléctricas en cordillera. 17-08 17-08 Abrir Aquí Aviso A424 Precipitaciones normales a moderadas en litora",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-18T14:33:49.4949-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "47fbc86829fa",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la provincia de Iquique y la comuna de Huara por evento meteorológico",
+   "descripcion": "Según la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para el sector costero de la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-9 Viento normal a moderado con probabilidad de tormentas de arena en pampa y precordillera. 17-08 18-08 Abrir aquí Aviso A424 Precipitaciones normales a moderadas en litoral, cordillera de la costa, pampa y precordillera. 17-08 18-08 Abrir Aquí Asimismo, ha sido cancelado el siguiente alertamiento meteorológico, debido al debilitamiento de las con",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-18T14:27:07.077-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "baaba01f5e4d",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA139-1 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas. 18-08 18-08 Abrir aquí Aviso A388-9 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. 17-08 17-08 Abrir aquí Aviso A423-1 Probables tormentas eléctricas en precordillera y cordillera de la región. 17-08 18-08 Abrir aquí Aviso A424 Precipitaciones no",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-18T14:22:41.4141-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
   {
    "id": "72eb5e328eba",
    "nivel": "AMARILLA",
@@ -19,20 +92,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-18T13:18:28.2828-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7ba91996839e",
-   "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para las comunas de Antofagasta, Taltal, Mejillones y Tocopilla por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alarma AAA8 Precipitaciones intensas en el litoral (Tocopilla y Taltal) y cordillera de la costa (Tocopilla hasta Taltal). 18-08 18-08 Abrir Aquí Alerta AA139-1 Viento moderado a fuerte con desarrollo de ventiscas, en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 17-08 18-08 Abrir Aquí Alerta AA141-",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-18T13:05:44.4444-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -121,20 +180,6 @@
    "regiones_extra": []
   },
   {
-   "id": "e523c11d7a81",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la provincia de Iquique y la comuna de Huara por evento meteorológico",
-   "descripcion": "Según la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para el sector costero de la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA140 Precipitaciones moderadas a fuertes en el litoral de la región. 17-08 18-08 Abrir aquí Aviso A388-9 Viento normal a moderado con probabilidad de tormentas de arena en pampa y precordillera. 17-08 18-08 Abrir aquí Aviso A424 Precipitaciones normales a moderadas en litoral, cordillera de la costa, pampa y precordillera. 17-08 18-08 Abrir Aquí En t",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-17T19:21:09.099-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "568124eeac8e",
    "nivel": "ATP",
    "tipo": "evento meteorológico",
@@ -145,20 +190,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-17T19:05:19.1919-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "0a726f6b9547",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Camiña, Colchane, Pica y Pozo Almonte por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA138 Nevadas moderadas a fuertes con desarrollo de ventiscas en cordillera. 17-08 18-08 Abrir Aquí Alerta AA139-1 Viento moderado a fuerte con desarrollo de ventiscas en cordillera. 17-08 18-08 Abrir Aquí Aviso A388-9 Viento normal a moderado con probabilidad de tormentas de arena, en pampa y precordillera. 17-08 18-08 Abrir Aquí Aviso A423-1 Probables tormentas",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-17T19:00:32.3232-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -191,22 +222,6 @@
    "url": "https://t.me/SenapredChile/1538",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "f0893ecb0e62",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA138 Nevadas moderadas a fuertes en cordillera, con desarrollo de ventiscas. 17-08 18-08 Abrir aquí Alerta AA139-1 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas. 18-08 18-08 Abrir aquí Alerta AA140 Precipitaciones moderadas a fuertes en el litoral. 17-08 18-08 Abrir aquí Aviso A388-9 Viento normal a moderado con probabilidad de to",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-17T15:51:53.5353-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
   },
   {
    "id": "d4430f3a7c63",
@@ -2242,20 +2257,6 @@
    "sae": true
   },
   {
-   "id": "1992fc646ae8",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se cancela Alerta Roja para la comuna de María Pinto por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile , se registra un debilitamiento de las condiciones meteorológicas que generaron amenaza de desborde del Canal Mercedes y la activación de diversas quebradas que presentaron condiciones de riesgo para la población en los sectores de Améstica, Santa Emilia, y Baracaldo en la comuna de Maria Pinto. En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED cancela la Alerta Roja por evento meteorológico para la comuna de María",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-21T12:36:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-maria-pinto-por-evento-meteorologico-2026-07-17-19-34-08",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "01d1afc83a06",
    "nivel": "ROJA",
    "tipo": "activación de quebradas",
@@ -2863,7 +2864,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por crecida del Río Mapocho #SENAPRED solicita evacuar sector Campamento Ribera del Río en la comuna de #Talagante, Región Metropolitana.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.  \nMás información en https://web.senapred.cl/dimension-animal/",
    "region": "Metropolitana de Santiago",
    "comunas": [],
-   "estado": "CANCELADA",
+   "estado": "EXPIRADA",
    "ts": "2026-07-17T17:12:34+00:00",
    "url": "https://t.me/SenapredChile/1290",
    "origen": "telegram",
