@@ -1,6 +1,65 @@
 {
- "generado": "2026-08-18T06:04:02+00:00",
- "desde": "2026-08-16T06:04:01Z",
+ "generado": "2026-08-18T07:25:26+00:00",
+ "desde": "2026-08-16T07:25:22Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "la serena": {
+   "comuna": "La Serena",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "AUx4n5-GWAE",
+     "url": "https://www.youtube.com/watch?v=AUx4n5-GWAE",
+     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
+     "canal": "La Serena Drone",
+     "publicado": "2026-08-17T13:17:51Z",
+     "live": true,
+     "score": 6.49,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Px1mwEHRN_4",
+     "url": "https://www.youtube.com/watch?v=Px1mwEHRN_4",
+     "titulo": "Localizador de sismos y Cámara en vivo 24/7 y desde la Quinta Compañía de Bomberos de Coquimbo.",
+     "canal": "QUINTA COQUIMBO",
+     "publicado": "2026-08-17T14:56:17Z",
+     "live": true,
+     "score": 0.63,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "tqJazhtU3y4",
+     "url": "https://www.youtube.com/watch?v=tqJazhtU3y4",
+     "titulo": "ALUVIÓN EN CHILE: DESBORDE DE QUEBRADA AFECTA CASAS EN ATACAMA",
+     "canal": "DSN Virales y Noticias",
+     "publicado": "2026-08-18T00:02:28Z",
+     "live": false,
+     "score": 5.38,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Atxc9YRdS8E",
+     "url": "https://www.youtube.com/watch?v=Atxc9YRdS8E",
+     "titulo": "Voraz aluvión destruye viviendas en Atacama",
+     "canal": "F365",
+     "publicado": "2026-08-17T23:31:28Z",
+     "live": false,
+     "score": 5.34,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }

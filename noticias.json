@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-17T22:56:26+00:00",
+ "generado": "2026-08-18T07:25:22+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -1408,6 +1408,20 @@
    "comuna": "Coquimbo",
    "noticias": [
     {
+     "titulo": "Lluvias dejan cortes de rutas, activación de quebradas y problemas de conectividad - diarioeldia.cl",
+     "medio": "diarioeldia.cl",
+     "fecha": "2026-08-17T22:44:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTVaVmZWYXd2b0Fzenp4UndWNm51aldCakJ6dk92VU9DMFBPb0U4R093NTRnZDF4WVY1VFZaU1poTjZhMFc0dGloYUNmQVdhajVfTnM4SnZYajJJbUZLWENPVkFIWkZUajhDLUs5VThCckpTUWZwV2IyZFRUYlZxRHNRQnRwX0F5bG14VXRrMkk4UVNmYV9BTXpCTmUyOHB2VHlSVXBPTklRYkhIb0N1NXd1TjNlSU9idXJaSWZ4azE3T0dQeDg2ZW5XVC1vejFz?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Hasta 29 mm: Revisa la cantidad de agua caída en la Región de Coquimbo - Mi Radio",
+     "medio": "Mi Radio",
+     "fecha": "2026-08-17T19:44:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVA2ekRZNXgtNFhmVlMwaTFFZGZfUGRuZkZVYTRhLTVCLVhXN0NuYkZKV0ZqR01YUjAwR2dCdnYtZ25LQVVlZkJuTzg3eFVVWDUtQ3dMYjJkVk5rZ2dQczVDVDdNY1otOURIT1U4ZTIwZElHY1JiM1ZfekcxSFlVVVZVcWpyUUUtY0FWNF92YWgtb3pINHNUM1I2eFZuOXhCUEpqSGlZUXplQQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Quebradas activadas, socavones y rutas afectadas: Alerta Amarilla se mantiene en la Región de Coquimbo - madero.cl",
      "medio": "madero.cl",
      "fecha": "2026-08-16T20:38:40+00:00",
@@ -1461,20 +1475,6 @@
      "medio": "La Tercera",
      "fecha": "2026-08-11T15:06:57+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbGRaRmpySkhIQ3lTV0xwbnRUN0VjWldvOVhsV0tUcEtNUHBNbG5qX0ZMdDZlYzlFbTY2Ry15TEEzZ184NS1tVkR1VjFucy1kMkdaelUtbWZqYTdNRHBqandxb1JoSGVQTVh2Z08tYlpyVi1TWGdSUjNtTmk5UHlYSFczUlJScmJpYks2NDVycjBXOW12MUFON08waGpMQXB4SExBSTRQUnRTcmV1NUVPaVdXQW1Bd2k1aFNDSzFUOUtXZEEzcW5DYTFfel85Y3lTYW9IZkxXN3E3NElfMVHSAf8BQVVfeXFMTmJTdHVHVDU0YnRmU1dMUWt2U1JnQkM1T2pLX3NEVGRkYk9tMm9IWlk3Q3RtVDUyQ2QxdGVFY0Z0QmNKRENvMXNDdi1JdzJYc2NtNk1jTXZKbDVzaUNDeFBfYjZrbHFuNG1aZ1dSUWtNajlHaWFqUEgyd0FVZEFTMVhpakJoMUNLdzVxLWZYb2x6RVZNX0FJaHh1cDJLSGFZd2lkYUF4ZnVady03eTBuUC1MUng2aEtoQzI4b0tIUjR2QzJrOHlxUEVwLTBvNkVqcEZvTVNYN0E1aXZKcHpOdWJHMXA2aXJuV3pGM1FuWjJNblc0bGI0Mktxd25XS0xn?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Nuevo frente amenaza al norte con lluvias intensas, nieve, tormentas y riesgo de activación de quebradas - La Tercera",
-     "medio": "La Tercera",
-     "fecha": "2026-08-10T23:11:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUVpib3A2YnB5Nkc4UV9lNWlNdXBiMHRqV3J4a3lSV0w0cW0zWWNzbUpSZ3YwOGpEOTNrMzlvZ3pKWWFxd0Z4Z1FfRHctbm84NlZOVHc3LTZVR1ZUVUdYaDJ2bXY4aU9VVU04NzVHRVBmU3NsUklvYjU3NWVLWkd2ZzVOejMtMzlxNGp4ZmIxZFZRMjFJTlcwV1lveWoyVXFVU1Q5NmlrUWhhVnM2d1BFakxLbk1YZXBrUGsyeVJBVEJaVks0T2dPczc4am1oUW9YUGN3QzV5LWNzT2l4RDA40gGAAkFVX3lxTE45Vkc1VEJzNXZmWGM5MEc1dGVMWWwyWlJTOHpnbkxMdTNodXdUZWFRWGRQUXhYN0xnWFhWUHRNS3dCV2JWUGJsVnE5TmJuLXNmczR5SGxzWmhmczN2TWc1Nm9VbTYxdS1fa0RhUGR6U1RWUmswU2NBeW5Ddkx5Z0pUUUJNUmdYczc2MV9RVC1LdElnOUVlZ0ZtZnVJV0V4bjIzbHZ4ZnFZZ3pFOGt6UTF4RjA3Y1hkNzhSX2NrQ29ueWY5bGdGTmpKSG5tYVFGc3lGNEpUaVl6MzFMODhXYXpYN1c2S3lDc1VfWVl4WkExZEltWUp0UmhScXJHbERXa24?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Región Coquimbo. Ceaza confirma precipitaciones para martes y miércoles. Hay riesgo de tormentas eléctricas y activación de quebradas - Serena y Coquimbo",
-     "medio": "Serena y Coquimbo",
-     "fecha": "2026-08-10T22:49:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcXB0OUduekdYSHRqSk9QQVltbmVpcXVFWGh5Y3ZpVFp6TThROUN3WnF5eFpFakxnSzVyeUdZdzJKVUhkQmJfWVlaTmp1WkZTNTVPeF91ZHRVX3BMZzdzYUxQbGpiWldOUFF0RVlicjd0T0tsa3R0eGV0X3NtMnVFQlE5SWgwS2ZWTGlYbXVCZXNIWG9vR2JkU1BSVlk5eHpjRUdXb1BId2x1d2FoU05EVTctUXJ1bF94UGE0U29ib2ZEQ2dIbzJTNHVWSFkxWDZ2by1VZy1Ca3JoS0taQldwMVAtZnhiT2dVZWtncXlMWkk?oc=5",
      "sector": null
     }
    ]
@@ -2371,6 +2371,13 @@
      "sector": null
     },
     {
+     "titulo": "Usan sensores sísmicos para prever aluviones y deslizamientos - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-08-05T07:48:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ0RHUGpZQ0M0Wm55cnYyb29BSW4tNGd6d2I2ajJjWEsyMTNzZ3Jmc2ozMHV6ZzM1ZEc0V25RN3NFblJGeXJTUEo2YlhHb0FZc0Q4Z3k3U2FvT3lXano1Vk5ITGFrbW1CNGZGTnNzNDh5VGszLVd0NzhndmZyLTc3WHNXa2tQMmdQQU5mNllodEtialdnMTRxbHE4YlVKTEdKZDlYd3hqVnA?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Sistema frontal en Biobío: Desbordes de ríos obligan a evacuar distintos sectores de Nacimiento - Chilevisión",
      "medio": "Chilevisión",
      "fecha": "2026-08-02T14:54:42+00:00",
@@ -2424,13 +2431,6 @@
      "medio": "DUPLOS.CL",
      "fecha": "2026-08-02T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSnotRXZoZ2tSVU9iTWdFZHhLeUdlMFR0WXN0SDlNcm5QZXU2YjZmdXo4dzN2cWxudHZPVFBjUG5iYmozTm1SRDJabS10bUhsRjJmZkNpRHFXOVFEbjRkbDhoZWpteUJnck51em8wY2VNN1FlQUJ4TGg2WVVGOENqbmdsTkdIYXRSNXh5bWhfS2owOHhHb2JHR0xtTFM?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred emite Alerta Roja en la región del Maule por sistema frontal - 24horas",
-     "medio": "24horas",
-     "fecha": "2026-08-02T04:34:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQm9ySXRVLXFCeFd3b0JyaXpRRG1uaUMzeVc0YzZ6bVEta2lUdTUwQ3VfSFRkRWJYTXFRNHBYdHV1UUowODhwOFh4VUFKREtjVnBHYi14bl9LLTlLRUdqX0lNMUszd0FxZVlNZ3puU2c5a2NOZWJXUWtpSjh5TEhJR1BxYmlvbUVNUkNLaEprUEpDOURMNG0tcEF2WUZoYnVuV1FnYUNoRDVDOENKWndYNUtEQUZDVlBBRzN0NkRVOFdZU0XSAcMBQVVfeXFMTUJvckl0VS1xQnhXd29Ccml6UURtbmlDM3lXNGM2em1RLWtpVHU1MEN1X0hUZEViWE1xUTRwWHR1dVFKMDg4cDhYeFVBSkRLY1ZwR2IteG5fSy05S0VHal9JTTFLM3dBcWVZTWd6blNnOWtjTmViV1FraUo4eUxISUdQcWJpb21FTVJDS2hKa1BKQzlETDRtLXBBdllGaGJ1bldRZ2FDaEQ1QzhDSlp3WDVLREFGQ1ZQQUczdDZEVThXWVNF?oc=5",
      "sector": null
     }
    ]
