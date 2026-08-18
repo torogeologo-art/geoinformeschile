@@ -1,6 +1,25 @@
 {
- "generado": "2026-08-18T20:51:28+00:00",
- "desde": "2026-08-16T20:51:27Z",
+ "generado": "2026-08-18T21:50:43+00:00",
+ "desde": "2026-08-16T21:50:41Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "s11ZcXvn4tU",
+     "url": "https://www.youtube.com/watch?v=s11ZcXvn4tU",
+     "titulo": "Hostal Sol del Norte",
+     "canal": "Milenka Cordero",
+     "publicado": "2026-08-18T20:25:10Z",
+     "live": false,
+     "score": 7.88,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
