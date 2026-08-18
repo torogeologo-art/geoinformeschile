@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-18T07:25:22+00:00",
+ "generado": "2026-08-18T09:07:01+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -409,6 +409,13 @@
    "comuna": "Vallenar",
    "noticias": [
     {
+     "titulo": "MOP informa cortes y activación de quebradas en distintos puntos de la Ruta 5 entre Vallenar y La Serena - Medio digital El Zorro Nortino",
+     "medio": "Medio digital El Zorro Nortino",
+     "fecha": "2026-08-17T22:37:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORDFVWU1EVDhiRGtVQTQ0WTA2enUxeHJBbzJMVGFjUHVod3lfWmd6TWJkVDNYNnNqV0Jod3RtSklVZDNydHdoSzc0MmtWRUo2WDhMLUhjMTItclMxRWkxSXhRNU90NDh6eWQ0OEdxLWxYTEhIVHhIclBBN2laSVVWdkgyOUFGV01sR1NxVXJMVzJCaEkzRlQ0Zlh4SFhqVGNQUFJwREdwZGdwSmVqUGJnQklKTWQ5U1VXV3hQWkRnYWl1NUF1QjNzb1V2V3g5dVliU1dWRzdwdGwzWmJZS1hF?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Corte de la Ruta 5 entre Vallenar y La Serena obliga a extremar precauciones por las condiciones meteorológicas - David Noticias",
      "medio": "David Noticias",
      "fecha": "2026-08-17T17:30:36+00:00",
@@ -470,19 +477,54 @@
      "fecha": "2026-07-22T13:24:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQV9mNmZGMFVJS19STFN5Zm0wR2xrWlBfLXd0aXlLTmx4aldZODlCQmlxcWp2ZHQ2bGdzNUF0a2VYdURnd05jR25vdWhmbnNGSkc0REpncXhtVWlJRlB2cTlTc0NFNnJqdHgzNThtNHU0Q2gyNmpESF9LRWFDN3psRUZ2ckE5bENwZ2xNVC1jeEkteE0xeEZNdFEzUnMydw?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "Corte total en la Ruta 5 Norte entre La Serena y Vallenar por graves daños estructurales - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-07-22T12:29:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdm5pM3RkWDk0ako4RWVqTmFvWGNXZXJ4Tmx0M0QtckMxWThNMUFDeEtIU1RyZHhncTNEaUpBbkVlN2ctUy1zb0J1RGFVM2lWa1kxTzJWRjhucEFLbHpjWjZyTG94MjFuQzdodU1UMkwxeUhlY1NYYnRRelh0TVpYUlRQV3NIdVlRQmRKM2FNUWotd21ScmZtaVpHOEJSaWdnYjNVcWJqeWp2c0pPSTZuVHAwNHhtUQ?oc=5",
-     "sector": null
     }
    ]
   },
   "copiapo": {
    "comuna": "Copiapó",
    "noticias": [
+    {
+     "titulo": "Atacama en alerta: Suspenden clases en todos los niveles y habilitan albergues por sistema frontal - Tierramarillano",
+     "medio": "Tierramarillano",
+     "fecha": "2026-08-18T03:40:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQenkxZkdPN3RSZnVveW5mX3ZPZEVHTjkwd0xJUkIyRFFvNmtpSUF5UDhvcjlZRlZ1VzF2M1dlelB2T3hEbDVOZXFqSUdNd0JwTlRjREFrVUZ6U3dPTHJGTU9FUkpJMFpFdS1YVEJzN3VhalA0RjVtTVNZUm04anEwMWhSU0ktajd0UjYwdGNDS2h0cXFhYm9XRThLUTBqal92UnpaQ3dyU1RKLUJ0aTVDcG5CdHVQX1RGMlR2TGw3Vy1BakFpVmFMaFNpVXBscV8zSkE?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta en la costa de Copiapó: SENAPRED pide evitar quebradas en Totoral y Pajonales - madero.cl",
+     "medio": "madero.cl",
+     "fecha": "2026-08-18T00:28:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEViSGtGTFR1UWV3cW9PRVdjb0pHV2txQlFYXzJzMDRYSmxlRlZZck0wRGYxU1Nsc2xBcXVOWDB0V25nVTA3V2NVVFlrMGZERmxhR3F5U09qeHNUbmU2OWYzTGtvV0pRR2xvUTNabWZPOHE2TkxZazI0T1dCLVdMcG0wcGluM3RXOG5JZFFzRHh5X29rQlpiaTZBdG5SZmJGLXNXag?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred pide evitar quebradas del sector Paipote en Copiapó por crecida - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-08-17T22:57:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVh4NzdETWlEVkNabi13UW5DcFduTkhVdHJKeWdOMTkxZ3BTY3FZaDFlOFZQQXZTSTJvMDBfNHotRXdKYV9Wbjd4NGFuWVI1akp4T1VYT0lJV01jNm9JZVNjTnVSak5EZFBSNk9pcDRaUHFsSTd4eXFFTXZ0Wk9yUU9ZeUFIWkdrVjRPT0ttcmV4QjhTLVVRSm9TWGhCSkh0OXJjSkRfNWJpeUFfNXdCZnZKWmY4blJlUEhqUmZNdXJzbzladVF0T20yRFloWndxbnlFMTNiLWRBQV9z?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred pide evitar acercarse a cursos de agua en Tierra Amarilla por activación de quebradas - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-08-17T22:10:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdHRyYmtXUXV2X2p3SF9kZG5QU0p1ay1uRjJrRENMRUJ2clVlZVJhbDBDemJuVURxZnFHY1RiV3pYRVRfc0tqdG1YblYxcmI5TWo2dHFhdU1Fa1RhcWpZUXBfYmpkU0xzaDdLUUNNYmgyLVNTNHhZelJjazB4UjBzZzR5MEYxS0o2d19aQXBpYVhnQk9FSVlLVkVTU254S0JjUWdxWmctaUZ6SXE1dmxTZGRTRFlZMl80dHZKeWFmbGxqMHh5QjU4Q2MweTM1UXMteHFuSlJhWGF1cEdSOGhtU0l4QS1xdG5nLVFkRHVuSHhfdm1YWFZYM2d3?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred activa alarma por peligro para comunidad en dos quebradas de Copiapó - soy-chile.cl",
+     "medio": "soy-chile.cl",
+     "fecha": "2026-08-17T20:39:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM3JnUmJTMFVJTzZid2J3VEpjdnIxbXFxR1Uta2ZydVIyRm9nSGFMb0hXanpQa18wMmQxU0xlY1NHM3phSzhDTjFwZmFGNUdGdVh4UUVaaUZoRi1DNkpOMk5oeE51YnJhbS0xUkFGR3ZOS0Y4LTRrR05ha0dvOVVWblp4ZldMT0JuckFhUg?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "SENAPRED emite alerta SAE por activación de quebradas en Caletas Totoral y Pajonales - Medio digital El Zorro Nortino",
+     "medio": "Medio digital El Zorro Nortino",
+     "fecha": "2026-08-17T20:04:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDd0dGh6QTQ3dXBYT0FxcmRNZ0M2aUpTejk0WDhhMDQ4LXBWaDc2NjBHaDMxeTRHM1lMREJBTm8zbnRXOUFRZUxTOUtFR21sMHRBek45ajhrdHFsS1VvWE5ESWxjTjZkbExZaEN6UHBndjBBLVR2cWN4Q0w1UXBqdnBIZlBuQURlOVE3ZUJvaGJqTVEybEtIRWxseXBVak9Icmh3c3d5NHZxd05iM3JwckZFdmwySzBOR2cwTHM5N1VxRFZj?oc=5",
+     "sector": null
+    },
     {
      "titulo": "Alerta en Copiapó: SENAPRED pide evitar quebradas en dos sectores de la comuna - Radio Agricultura",
      "medio": "Radio Agricultura",
@@ -509,48 +551,6 @@
      "medio": "soychile.cl",
      "fecha": "2026-08-14T14:02:54+00:00",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFU3cmRJQUV6R1UtY2oxdDhlQnhMbFA1VGI0ZlpXckRRdjBwaVM4NTZ6TzM3d1FCMTJzNGhKVVpqR3E1R0twUVYzWXN2bVpDZGxyTHEtLUJ2QlNIQnhlNTI0bG56RUJtOXFiWUdVMVlOc1ZMWW9WaFo4c2hhX09sTEd0b203dUhpZVE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Informe de Monitoreo Regional: Senapred mantiene alertas vigentes y reporta nuevas interrupciones de conectividad en Atacama - Radio Maray",
-     "medio": "Radio Maray",
-     "fecha": "2026-08-13T13:04:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeFE2VTUtbkQxZVJPLUdOM1hFalRrTFpjaHdhanV1dkhPZEsxeWZoZXZZckNpa0NWSEo2QXFBcTZnYkRSSkdZUnVFRUdWVlhxQnFhTXNvTGYyME1TcDBRQVBUVmdNdTdjRWRyQktXVlh1bnFCYkVSaXg1cnZEQkNKQmJZNHMxQ2hwRnhnTzR4STQ3U3MyREdyOWhlYmRrUktmWXRfNmZFaV90N2Q4alZsUnJ5WVhsb3VDeWtzNzhZMmRvenlZdktLUkotR3BhdUU?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Delegada presidencial de Atacama aborda emergencia por sistema frontal: evacuaciones preventivas y monitoreo del río Copiapó - Radio Agricultura",
-     "medio": "Radio Agricultura",
-     "fecha": "2026-08-13T01:10:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcWZQVDc2aUNuRUxSTVBINGV2X1lXZVlfelREb2psSEI3NlJLWkR2cjdyRmpWZGhnVENLQnZ4cEdqWUNMNzFnV2U5Zm9tb2lLeGRmeU1PWFFzeWJ0eXdfdUNTbVlsRUtLblNwdXF3b0xTdnZxVWJpXzdmYnlWVUd3RTBHWXA0N3dyS0NPZ3JQQWgtM28yQjVIZlNheXJpOHpLWEVqZGRUal9xejlCTjBrSEtDd3RKSXVJUjZLTThIMkVjNExYQ3o4b1hhSEMzbG15SVBCR1NOZk9nZXhWOF9hSUJJUERDczdaT29EX2ZtNmtmaF9hNTJObEthN2pzWHE0QkJxWmRlNDNhb2Y3R0tRWA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "SENAPRED emite Alerta SAE para Copiapó: Piden evitar la ribera de la Quebrada de Paipote por riesgo de crecida - maray.cl",
-     "medio": "maray.cl",
-     "fecha": "2026-08-12T21:24:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2JOT0dkaGVVTmpWREhQMDk1LXloa2xLeUM1MWdmN0RYQXZEdklVU0FEZkVPelZSTFIyTW9YeHpEV3ZjUEJEaUcyMm94dW53SDdBVEFmcmxfWTRxMkQyVGhTaGJsQTNtcDdxZExGcXZQZGhOci1Rc0JzNGhOaFRuZi1qTEk2d0tPWGZGb2NJdFJmUDhsZkN5b3FMcUR2Z1d2bkNjb2NBNC0tbUoxYmZXSElWUkREQXZtRnY3LVRxQVg5LVRsRXFoYWFHckJuNFM3UkQyMXQtcVFJbzN5Z25wUnBuVGo?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Ruta C-13 presenta cortes de tránsito en distintos puntos de la provincia de Chañaral - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-08-12T20:39:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOanNTYmppQTd3SThaX2cxUVJvTmZQZGRfVVZaZDdZbC1nd3NFd3JKT05RemNnSDJzejBDTFcxcHhKU3haOUkxbkM4ekxMd3ludFZIR3J6VUlNd2VPR01UQXpEcV9XejNKZ3pudFhMbnpFSzA1YzlGb2N2NGdpREZkbEQxSjZSNEIyZ3o2bHZvdk9FSG9GUnBoVktjNVFvY1FaYzlmYnhRcVdoUjdfcDhPRG1n?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Delegada Sofía Cid refuerza despliegue y coordinación regional ante evento meteorológico en Atacama - RadioGennesis",
-     "medio": "RadioGennesis",
-     "fecha": "2026-08-12T20:07:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLW43Q2hPRHdpemRJWkloTlR3elROSElITk5zQV9EWHhwc0JWWWRGbzlhTE5VSGdtd1lGcmR0TE9WTFRZYUhDU3RmZURYLXdxMl84N1h5cHQ5N3FzVGdCamZ0VnhWQno5WmZBdXNnVzgxYkIxR3lwdnFNX1I0X1FPb2pPRlNCVzJ3cVBUeVNCc3RJN2Z1UmxjQnlJLU1LN25DWTN2SzIxOVRvNTN0Z1V5VVdiWEF4LXVfekY0QVgzQ3diUTB1M3FTRlhyaFNfOXFPUnNqaVVqZw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Autoridades mantienen monitoreo en Atacama ante precipitaciones y activación de quebradas - Radio Atacama",
-     "medio": "Radio Atacama",
-     "fecha": "2026-08-12T15:45:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTmYzb3JyTWh1NWt1XzByZFJ5NzZxa3ZfUlRWdm5yb3M1LXpBY0lVUnBBZHlNbGhZd0RRUVYzd3FoS01udGVRRVBTdE1ZTFlSeEhmSVZrV3oxb3F2NUcySlVXYm1Va2RHX0tnek5aaHNmM2FYQm5FX3FyN21pUWVsQzcwblRkRlhkNU1XcXk0R0ItVnJ4SlVrX2padk9yNHVKNko0c1hPS2oxcjBtZmZmQjdQYw?oc=5",
      "sector": null
     }
    ]
@@ -1258,6 +1258,41 @@
    "comuna": "Vicuña",
    "noticias": [
     {
+     "titulo": "Pareja de Benjamín Vicuña publica reflexión tras dichos de Mauro Icardi - Meganoticias",
+     "medio": "Meganoticias",
+     "fecha": "2026-08-18T06:34:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDMzZ0VhMlR1Tm51Q2x5WXdMUHQtNlVneTVvM0MwTml4M05iSElaX09JSlJRZ2VyMkpkd25PRmF2VXNlQU9TZmFOOGpVUTdvUmxSTGpIWUNvTGZ0RS13SEZqOU9ueThVTFcyb01WS0k4ZDNPV1JCTTFPVjRkb3JKazJxX3VMTFRtWVc5b2FiWW9DTnk5VHJsQjNzR0o4TVdYb20weWFubl9PeGd0ZmZqWjA0T1VOWnB1aHYtY1Nqd3rSAcYBQVVfeXFMT1cwNldaTXd0YjhSbHZJbmdxNTJVTkx1QUpxYjhYbWtFQmotb1NWbGtlSG1OeVFWZFVsSVdQUTlrSFBrckxUYk9ScFF2QXlRb2tfWWU5TUUtTDE0UXZLaEhBTDhLUlZ4RGhkYjJwVG13RDlJS29YWDVTbGl5VTh3aEN3a2pWamRPUkVCRzNxQzFac0d0a1dNQjhPeGMxT2x0dml6bmY2NkFQVERHaDVWZlZxeC0wd3ZLZHMxVkt1UDVvNzJRdlBn?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Benjamín Vicuña y Mauro Icardi: la reflexión de Anita Espasandín que suma tensión a la familia - El Intransigente",
+     "medio": "El Intransigente",
+     "fecha": "2026-08-17T23:50:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnNRTHJieEdkeXJQdjhwYUxLVEJIVWJwUzJzcGl6VGtiSzNXU3lVZ193RmhzOWI3cHp1MDBoQmtjUTdlVy1wNlhCakZjRlJPVWxRVndnSFNLR0hrTTZTM0tsM3VnYVl3aHhEcHVBcFZiOHpRbGZqZGpQZTJFWTdlNlF2OXJQemZGRS1Xbg?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Pareja de Benja Vicuña apoya al actor tras funa de Mauro Icardi en redes - m360.cl - m360.cl",
+     "medio": "m360.cl",
+     "fecha": "2026-08-17T22:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2FubDZaWERJbF8yNkVvSGRuc2pMNXJ6TG92WkVpUGVjOGpWamg0TWlsbDAzTGZRMkZWQnltbFo0Y1Rrb1B0UnVxdkVvUjRYTXNOdXJNWm1pUkpwcFRHS3ZJRUxmT0VoS2NpRGFSbk1vWS1LNC1OQ2ZSaEVPampUUWdQWdIBgwFBVV95cUxPY2FubDZaWERJbF8yNkVvSGRuc2pMNXJ6TG92WkVpUGVjOGpWamg0TWlsbDAzTGZRMkZWQnltbFo0Y1Rrb1B0UnVxdkVvUjRYTXNOdXJNWm1pUkpwcFRHS3ZJRUxmT0VoS2NpRGFSbk1vWS1LNC1OQ2ZSaEVPampUUWdQWQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Anita Espasandín apoyó públicamente a Benjamín Vicuña tras los despectivos ataques de Icardi - Haceinstantes",
+     "medio": "Haceinstantes",
+     "fecha": "2026-08-17T20:11:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXVJZldlX1NMZk5RZGQ4dXpMeGlxak1FUzJkRnhiUnRCcGFaa0lCN2RsWFBTQndTZUJidlBSWm5iaENEWWRVd1laZjl0WTBJQjJ6U1FkcGtFUVJBekVFQWVsMkFla0RXNS0zS2tPdEk0M1V6SFBlbHdVNTI1MDRkZUplNkUtTmJleGhJSVJGOHR1TmVxZkhJaTg5WEJrakgyNVYzM05GbjVFeGZ1elJaek5zaTNkem8zSFhwb0R5ckNQdWNUOXRicjVrQmM3RFJPMVM2UTRhc2Z6Uzk2VTdRdi1vSdIB6AFBVV95cUxNa3pGU2ZPNnl1YXBYVGNkNDg0Tm1TOE0zS0NIcnRaUWNNWHpHLUxoUGRqYXFtNW1YV0hERGVDakFvME9DQmJ2VVJrQThmeGhLdDlkUk5kMjl1SnRiUHdBNDVpMW1WYUkzcndtQk5SUVJsMkdHWUFQWFBnVFdOdUhFUmEtWlVTSjRBSjRFTlMzWUQ5Q2lHYmFuVERpLWVSaUJIR1c2ZVkwQ1VvYmFDNi1FZFRTY2J5LUxVdjRJdmg4dzZfRE5YWW9vNVlzRVhPVF9fNU5OY2c1Q2VtdEQ3R3FxaFFuQjI4WjlT?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "El contundente mensaje de la novia Benjamín Vicuña en medio de la pelea con Mauro Icardi: “No tenés que demostrar tu valor” - La 100",
+     "medio": "La 100",
+     "fecha": "2026-08-17T20:01:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdy1sRHY2dkthSm5uUnNqN2hOOTFWZEpEbktzbDlQQUg3ZVRGVzRGLXVyQ2RURjlZc2psYzdGbWxHSnV0RzJFaWYyU3pHdFNXT1hHZEVfWTUxbUpSQmt5eG00emdWNnl0V2p4YmJ0YWo0TngwV19KRm9UUlpIaDRWQzdOekstQVBBR2RQQ05fWU1DS0dVMWdIVFBCZzFEMXBfbzl6T1FiYzhrWW1nbWV5MEVrUUozLUN5eWNJdGE3aHQyOEN4TTZEci1yWEtBVEozZmJPdHp0U2w3UWRVcHRJZVZiYjNHX0pzanZXdHFjLUVoRnp0akd2TktVWEVUM2ZH?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Anita Espasandín respaldó a Benjamín Vicuña tras los dichos de Icardi: \"No tenés que demostrar tu valor\" - a24.com",
      "medio": "a24.com",
      "fecha": "2026-08-17T19:05:00+00:00",
@@ -1291,47 +1326,40 @@
      "fecha": "2026-07-20T19:20:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1plcUxfUEUtWXhEc0FlTzlCYUxEeFp1NmdLT2Zmd2l0VmpYVG9DN0VwNTBRaFVrS2Vndko5b3NrU2tJWktHVGloa1FOTXZyYVp3ek1tTVdBeDdXMWRxYUxUdDlCa1dMYV9kcXFXQVlWaUgxNmZ4TUx5aU80YjdkSGJMR0RUZ2RCOVRzVy1rYkpjM1ZIdWFlR09mQW4zYXNUanFJ?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "Imagen muestra magnitud de la emergencia en Vicuña: Socavón destruyó carretera - Meganoticias",
-     "medio": "Meganoticias",
-     "fecha": "2026-07-20T13:44:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPamtKN01oZVE1bl83VWxWa2tyRU02T2NoS2NYOHNaTmVaTUJGVm1OYWZfMDF5ZDVoZ05SWDdjazAya2tQZTI4a2VaZTJWcm5seTRiLVFQOXAyaEQtSExsYVNUYkRfNDB2c3gyZ2lmLUpZU1dCbHktTDk3b20xNnVzWG1yWHdsNUplQWNrQW5lY2tzSVJ6TnEwYU0tdkg2bUtfaFdkV184cHdRckhaYVFOX29ic2VSMDNvLTdDNExUX0FZNTdvcnluU2UtRUJISVo1NWxKS1FhWnd3dmhTX3fSAeMBQVVfeXFMTXBRc0N1dkk1VHpVQUtHUnh3N1lhUDNXOHc0NnpIQjd0cXNiVFpPZHZpV0FIaUI2a194ZEVNYjVta2d5V0t2bE5COEgtRFBpbnBlNy0wRzU2dzdQR2RycUk2OVJ0QkNtS3I4RWpnaXRFa1M1S2tnT09KeWxOUjJrQWpMbDVpQUE5ejAwaXNzUVdKeDc0OXJZZFpDNVdwdlJiRWZRQldMQzVuX1BmNGY5bFVyUjNFT2VydDV0T0ZLR1NtajZDbkw3RUpWM2VVc0NKc1V3RHY4Z0x5eHBXdGZ0X0VnckU?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Ministro Poduje detalla \"situación muy compleja\" en la Región de Coquimbo por sistema frontal - BioBioChile",
-     "medio": "BioBioChile",
-     "fecha": "2026-07-20T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcDdhN093dnlsRHQzX3VFQ1ZhU3UzRlpOaTFtd3Q1U2RPVkZELXIyLXZRM1IzNV85YW5ORTRIQUpmZXZzM3NLcU5BRkJ0VmYwSHltOVZOcDZfZVdZX200alJ2NUhoTEVPbUVLbnVTdVV4RVE0YjROM1IwUzJ6ZnlSNld5dVRodDcyblg3TjA5YW9qanRhVFJTWU9rdWVkbUZ5RldYeU5nZUF4RU5wZHpuSWZWM2I3aEtjOXhnX3hROUVYcTg2a0w1YkRnWnYxM2lhUHpKa1MwV1N2M2JDdlhqbkhiNXFXdVhiY0piTG5fT19COFlPVUxnMVlaR1RyVTQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Video: Ruta Alcohuaz-Vicuña queda cortada por la activación de la quebrada de Leiva - Meganoticias",
-     "medio": "Meganoticias",
-     "fecha": "2026-07-19T21:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMjlfdVgzZkJtS1Rqb0pVbktRczRQa3lLU2xlS1hJN0haczBxeV9uMDlMU3o4N0thNmNnNEVFR3RQeFhyM2FzS1BmNGhKSlpYMFRsNENUVzBlOHpQY3lqb1pEVjFybGo0RlZoc1czVzdtQlFfdjZkMmt1RFltU2tUak5GbjZfamV1ZllXV3FPYXFJWlRUd0R1bXZHS0FLQTR5Y0NfRU95d0FmdFoxeUpMVnpodHZLcmJKZGpGVlR0bWdtdjhJdC1zbmh5VWJ6SVZNS3lUV3k5Zm83YXh0bkVz0gHfAUFVX3lxTE4yOV91WDNmQm1LVGpvSlVuS1FzNFBreUtTbGVLWEk3SFpzMHF5X24wOUxTejg3S2E2Y2c0RUVHdFB4WHIzYXNLUGY0aEpKWlgwVGw0Q1RXMGU4elBjeWpvWkRWMXJsajRGVmhzVzNXN21CUV92NmQya3VEWW1Ta1RqTkZuNl9qZXVmWVdXcU9hcUlaVFR3RHVtdkdLQUtBNHljQ19FT3l3QWZ0WjF5SkxWemh0dktyYkpkakZWVHRtZ212OEl0LXNuaHlVYnpJVk1LeVRXeTlmbzdheHRuRXM?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Gobierno confirma hallazgo sin vida de trabajador CGE desaparecido durante el sistema frontal en el Maule - auroranoticias.cl",
-     "medio": "auroranoticias.cl",
-     "fecha": "2026-07-19T20:06:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb1FEQjVQNjlfSGlhS1daMlJqck5acDdXc2lqWndzSk9ILVlSaTBUVHkzaXN1RzJwXzgzWE1PWWJ0TjluNHVROXc1aWoyQV9LN0tnOV9WZEtFUnJQd0stOUVlTWRnWkZrX21yb1RiYzQ2azBTVzdkQVlWODh6bGxHMW51WWZHZ1ItUF9EZElwT3JiQXBMSEtpNjBCYjFvN29QREhhaG5iNUM5OEFKWEVwRXo3X3pjcnowb29BU2MtYkY4NVRCQzd1cg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Video: Ruta Alcohuaz-Vicuña queda cortada por la activación de la quebrada de Leiva - meganoticias.cl",
-     "medio": "meganoticias.cl",
-     "fecha": "2026-07-19T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaWd3anhaZW5ab1Fab1QtYVlfRG12STh3MTFIbFU1ZVdpQnBpYVBKVGJuZU9LYlNhZ0xLaXZES0hGN3MwSDA5aGRUU3AzNnE3cFg3NjNQX2RORmpNUTVKa0JwR1BOMmRMMlVYWXphVEhuWEd1NlpQclR6cVJWNzRJdm1qR0paa1Q4aWphcWJFaU04TDZHMlNwcVhNbVVfSUh5LWtCVjlic09Lc2VrTVU2WC13cHk3Z2UyV0hldWIwaHFBOWtJaE1CR2VxOGRCWDRiX1cyNW5Ud3d4UdIB3wFBVV95cUxOMjlfdVgzZkJtS1Rqb0pVbktRczRQa3lLU2xlS1hJN0haczBxeV9uMDlMU3o4N0thNmNnNEVFR3RQeFhyM2FzS1BmNGhKSlpYMFRsNENUVzBlOHpQY3lqb1pEVjFybGo0RlZoc1czVzdtQlFfdjZkMmt1RFltU2tUak5GbjZfamV1ZllXV3FPYXFJWlRUd0R1bXZHS0FLQTR5Y0NfRU95d0FmdFoxeUpMVnpodHZLcmJKZGpGVlR0bWdtdjhJdC1zbmh5VWJ6SVZNS3lUV3k5Zm83YXh0bkVz?oc=5",
-     "sector": null
     }
    ]
   },
   "caldera": {
    "comuna": "Caldera",
    "noticias": [
+    {
+     "titulo": "Chile: Evacuaciones en Tocopilla y suspensión de clases entre Arica y Atacama - Paislobo Prensa",
+     "medio": "Paislobo Prensa",
+     "fecha": "2026-08-18T04:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrLWtFZUJwcThNbDNUclRNQWtydWdfWDM4MF9XWXI1T01tYTJaRVg1UmY3RHN5YmY2OHRSSkhINlJpV0NFTUNwWGdzZFdUMExtRUpwTXhmWVg0aVBjaWdUc3VTbjVtd0lVTEI1d3dYV0F3ZlpwajFZM1J3?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred emite alerta SAE para evacuar comuna de Caldera tras remoción en masa y riesgo de aluvión - ADN Radio",
+     "medio": "ADN Radio",
+     "fecha": "2026-08-17T23:11:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOEo2R2dUOWJ1ckE3LS1qdlJ1YkhHZXE1R01XdEE0U3VtQnZRdlhVbDktYmU4TUhOT2N6N2FWc1FkS0lIcUowTUdlSEdyOVJXYnVCY1JBbEM1d2dRWVJmUXBrV19Vb0cwQWdiT1h6UXA3ZWcycnpJLThIeHVPTXBXR3FTRzdhMVNtX2pMckNienVHUW5pdWtnYmRPSmdqRks2WG85enhnQ012X0VIMzB1aE5nV3d0WjNuY3JpckRmcXBEZUNXX2x3dVZxSG5EbkHSAeMBQVVfeXFMTWJoVlFrTWpDZHdpOEdtMHo3anJESlFnbmJhRjZfRWFrdGM4UnhIc0dldTlfbWpIdndjeEhVbS1Gd2J5ZFFOLW9WSFQ5aDNrQVRmcmFpdlpTTkRlVE1yX1poY3Z3dmFKVGc0OVJiMURzVjZjb002MC1ZRzBteXh4bGM0M2pzblAxekFjR2JPdWNPbkVlZW8yMi13ay00VjFKQTl0ZEZka1dSNHNjUGhrbjQ5Wnc5UTAwQ3huNWFZcW1iMXBjRl9oNU9fTFBMcE81Z05jOGt3bWZoNElPWFBhdU1xTXM?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Evacuaron sectores de la localidad chilena de Puerto Viejo por un voraz aluvión - El Litoral",
+     "medio": "El Litoral",
+     "fecha": "2026-08-17T21:22:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd3Z2NVQ4ZnQ3eGJOYUNfbEdxMHpTeEh0WXdGUWw1VEdIRHpwNjhJM2stWFRDX0lucDk2aUh2bWFmY04yVmxQUGhpVTVLM2syaTBCLTY0OVlJRTBfM2g3QV9hNS1VV1BqWERvTDB3emVhay1KNDBfYkRrR3ZFQU1fTWg2YkszbzROQ191TkF4N0FrX2c0RXA4dzlpbVIyZFJlNV83a24wZUVZaTVtLUMtQ25qTHRIV21zQXVTUElNdzUzak9JQUZqRW0tNUV5REdSTVhRWFVpMHNxZ3RU0gHiAUFVX3lxTE1NUUlhUjBtVmkyeldMZndtTUZpcmVWa1BZNExGbkt5aDhMVXo0dFBfNVNJZEhuV1RWZEs1UkVrdkJqbVFPTlFpY3ZYclItSE5vTUxmVTZtdUtaR2FpS1dnOHREVEFJc3ptNDFPakpjejFZd2FpQ3lZV25BdEw5NEI5bTgzdUlYMzNla2JNcFZEOTFoa1ZhUUM5NWlDU3ZjZWhFT3p2akFhN2NxSVpBa25oT0JHU0hIalZrX2NYWlZuTl9fVlhwN05vc1JVeGhsTTdubjJ6R1RtMXVHOWwxa0NGRGc?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred ordena evacuación de Puerto Viejo por activación de quebradas del sector - radiogennesis.cl",
+     "medio": "radiogennesis.cl",
+     "fecha": "2026-08-17T20:13:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQajduWDBtaDlnaTdzbEU3WDlJSkRhdDlPVGpiVzJyaUJQSlB0aFdJUWhKN042SEJKM3lWcmstQmQ4VThwVVhrWGdSOFV2OEZUaHptVGRjSlA0a0w0NW5sS2dZb3k0WU41S2l2UEt1WE1mVkNCcHRfb082bldDOVlGWE5FdU1RMnRTM0h6WjI3Rnd4by1mS2V4ZFZuSGNUSlk5OTkzV25yT3ZWU3J4ZnAyaDBLYl9LaV9nYklnSUx3?oc=5",
+     "sector": null
+    },
     {
      "titulo": "Ordenan evacuación de Puerto Viejo por activación de quebradas - Radio Maray",
      "medio": "Radio Maray",
@@ -1361,45 +1389,17 @@
      "sector": null
     },
     {
+     "titulo": "Remoción en masa se registra en Puerto Viejo tras activación de quebradas por precipitaciones - La Tercera",
+     "medio": "La Tercera",
+     "fecha": "2026-08-17T18:22:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPamxGUjczSTlWWVc5SUoydEZQOF9wNnlfUk5ZQjNkb2VCa3FOeGpOeFRZcDVHRHVUVHNIa2VBUm9pamJuY1R2ckplZno3RmthRGx2S2tucXdJZlZIeVlxWWFCT0xQUjlJandqLVFlTlNtVHRxNlNxQV96WGtHd2owTno0S1RXdWxTX3JnaXU4ZTN4eExweVUwYW1XdjBETENhbUdLZnF4eWJYM0M1SjlBNFFHNEdjSEhDVUhCTklBTURqZHJLTmNXRVk3QTRpSnFOdktVckhPbks1M01GT3JKSHF5WHA4aDFrbkxYazJ5NXMxUjZD0gH0AUFVX3lxTE9qbEZSNzNJOVZZVzlJSjJ0RlA4X3A2eV9STllCM2RvZUJrcU54ak54VFlwNUdEdVRUc0hrZUFSb2lqYm5jVHZySmVmejdGa2FEbHZLa25xd0lmVkh5WXFZYUJPTFBSOUlqd2otUWVOU21UdHE2U3FBX3pYa0d3ajBOejRLVFd1bFNfcmdpdThlM3h4THB5VTBhbVd2MERMQ2FtR0tmcXh5YlgzQzVKOUE0UUc0R2NISENVSEJOSUFNRGpkcktOY1dFWTdBNGlKcU52S1VySE9uSzUzTUZPckpIcXlYcDhoMWtuTFhrMnk1czFSNkM?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "SENAPRED ordena evacuar sector de Caldera por peligro de aluvión - Radio Agricultura",
      "medio": "Radio Agricultura",
      "fecha": "2026-08-17T17:58:28+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWdndmF3QVdiMHBsRGVLdlBZYXhTX2dUNkk3NWpSZV85Wmp2RjY2TEpVT0EwWTR5dHJFd3FGcnhvRXhmVk4wVlZwcEhEUjBsbkFUMzh4Y3ZTOVlpTXFnMzFMV1E3UFRnOE5naXRBQndTbkliT0lDVTB4VTJLNzdIay1KZ05Ua05uYW42TTVNbWF6SUV0YkI3N0VwSU1Pbm1SUXdEVTVoXzd2aXhKbDlFSEhWRXZKUmFsaDV5eGtJU0dwZw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "SENAPRED llama a evacuar Puerto Viejo por peligro de aluvión - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-08-17T17:41:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcVY5bkMtYnFSOC0wV0tzQlJEOEdsUllEYWRSM2ZpQjZYTTdXNzR4QktJM21RSVZiRFNoOWZ5WDFkRllXczVHTXJMM25icHoxeWdkV3dzME1mU0JoRkthTkVBUVhJS05LS0FpeTZyOHF5UUd5NU9qMDBBa3hLWE5Kcmg3ZTdJQXB0Q09tZzZ2OWE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred ordena evacuar quebradas y pendientes en Puerto Viejo, Caldera, por peligro de aluvión - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-08-17T17:32:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNkV5QlVZWVR6aTRleElpV252dW52VXpVcjI2TFZjSy1JTmZZYzRqY0ZCVkc4Z3hQYnU5dlZfQXpLX2M3WjFCYU43UDlGOVVZX2Y1cVdRTnBkVFczQm0zbWhET1d5eVVMOVc2WkFianVSMVVjdXR0WWlqYTBYd1VLLUJ0MnRVWmM1X1pPRC1DNDdXZ01hemtydlN4RXU4d0JXMUV5OEotekhCYTM2emxvaTlrOHowSFVJWWZtRXlzU205ZmphMW92b2d2VjA1MEVoS1ZHLXVJcnZhZ2lqUFB5YXRFVmxwSzdsQS1yT0lxeTY0bjVmbkhGQg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Remoción en masa afecta a localidad de Puerto Viejo tras activación de quebradas en Caldera - Radio Atacama",
-     "medio": "Radio Atacama",
-     "fecha": "2026-08-17T17:24:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWdheDZJbF9hMHZrQy1hdkNCRFNocEcxU2lqM2RidzZxU0loNXZOVlpLWXJkeUJaRTRCNmY2NUlKWUMxcTMtODhucWx2akFURGFJczM0MU1IaEJKRGkzdlowcTZ0SmZhS3J6eU5LWVEyQ184SGNaVkVCVVZPMXc0V01UNzRFNU44aVdGX1dKZVZUWEFTaEJMRkQtRlhaZlNrNXEyVkxVVExabUU4bmc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Chile tras su peor temporal en cuatro décadas: aún resta reparar el 34% de la infraestructura dañada - tiempodesanjuan.com",
-     "medio": "tiempodesanjuan.com",
-     "fecha": "2026-08-13T15:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdGY1Nm1Edm5sQzc0QUdjVGw3OUtONDZRR3l3RmlrZEpFUzdNQ1Z3ZzVmb3JYbnl2U0xQTFJ4SWdSUWxuMU12T0UyNzNVbGJMclZ4UlBQTmphamFxM1FjUjMxY21Yc1M3Xzl5RndxTXdlVkt2Q2JHc2t3Zmh1WTZiYU9wNDQyWlRReUtyOW5JRU81WWRwLURvZEpwWVppT05obHU3Q3ZrR1psRVRIRzdES2dfMWtRdExhZEppazItWDVTUWNEMjE0V19Zd21XUnJZS1paUkszT1Nra1pEcE9GZDIyTkd1UQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Chile tras su peor temporal en cuatro décadas: aún resta reparar el 34% de la infraestructura dañada - Tiempo de San Juan",
-     "medio": "Tiempo de San Juan",
-     "fecha": "2026-08-13T15:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcGVoMlhzS3R1MDJXZFlhcThFMDk3eTdBMEw1SDJtNFhSV3JxSlVaY1p3ZklndXFiWG5HODZjUHNjU1RsNVVCanYzNE54SThacUtsaEFnMXJ2UUtWekZGdnFWbC1PVFJKX3RmNjdESVpmQVJ6Qk5zNENBXzlHbjJyRXpneG1jYjkxeGJ6V3FucUJQUEtyc2paY0l3c0FES1hzYTJMUWFwTXhvUDBMT3JUbTBzQXdxN045elpPTnFfcTNQZEdfMjh5UVhlQ0lUQUhSMDRnMC02OU5SRG1abmJUWA?oc=5",
      "sector": null
     }
    ]
