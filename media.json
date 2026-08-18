@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-18T07:25:26+00:00",
- "desde": "2026-08-16T07:25:22Z",
+ "generado": "2026-08-18T08:04:28+00:00",
+ "desde": "2026-08-16T08:04:25Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "la serena": {
@@ -15,7 +15,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-08-17T13:17:51Z",
      "live": true,
-     "score": 6.49,
+     "score": 6.44,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "QUINTA COQUIMBO",
      "publicado": "2026-08-17T14:56:17Z",
      "live": true,
-     "score": 0.63,
+     "score": 0.57,
      "verificado": false,
      "embeddable": true
     }
@@ -44,7 +44,7 @@
      "canal": "DSN Virales y Noticias",
      "publicado": "2026-08-18T00:02:28Z",
      "live": false,
-     "score": 5.38,
+     "score": 5.33,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +55,7 @@
      "canal": "F365",
      "publicado": "2026-08-17T23:31:28Z",
      "live": false,
-     "score": 5.34,
+     "score": 5.29,
      "verificado": false,
      "embeddable": true
     }
