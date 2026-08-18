@@ -1,6 +1,36 @@
 {
- "generado": "2026-08-18T15:52:22+00:00",
- "desde": "2026-08-16T15:52:21Z",
+ "generado": "2026-08-18T17:03:41+00:00",
+ "desde": "2026-08-16T17:03:40Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "la serena": {
+   "comuna": "La Serena",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "AUx4n5-GWAE",
+     "url": "https://www.youtube.com/watch?v=AUx4n5-GWAE",
+     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
+     "canal": "La Serena Drone",
+     "publicado": "2026-08-17T13:17:51Z",
+     "live": true,
+     "score": 5.69,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Px1mwEHRN_4",
+     "url": "https://www.youtube.com/watch?v=Px1mwEHRN_4",
+     "titulo": "Localizador de sismos y Cámara en vivo 24/7 y desde la Quinta Compañía de Bomberos de Coquimbo.",
+     "canal": "QUINTA COQUIMBO",
+     "publicado": "2026-08-17T14:56:17Z",
+     "live": true,
+     "score": -0.18,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }

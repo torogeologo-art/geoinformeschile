@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-18T14:07:45+00:00",
+ "generado": "2026-08-18T17:03:39+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -728,6 +728,13 @@
    "comuna": "Ovalle",
    "noticias": [
     {
+     "titulo": "Tras las lluvias y la crecida del río Limarí: Mujer es rescatada luego de intentar cruzarlo en Ovalle - Mi Radio",
+     "medio": "Mi Radio",
+     "fecha": "2026-08-18T15:02:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92NmVjTFBJVUhRREYwM0F2dkt1WGZnNUE3R0hNNk80WktuYlByNnJFa0ZXNUs1ZkIyZTNVSFJ6NkNFeDd2MmZNQ1NzNHlqU3d2b0t2aDBJNGtrdkhiWWRmaW85QzJXNTNodGJ3WXBsOTE?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "El temporal de 2026 que hizo volver a Ovalle los recuerdos del invierno de 1984 - El Ovallino",
      "medio": "El Ovallino",
      "fecha": "2026-08-03T21:40:19+00:00",
@@ -796,13 +803,6 @@
      "medio": "diarioeldia.cl",
      "fecha": "2026-07-22T21:02:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaEM4ZFhIaTA0dGdFckNMa0pQVzVJcFoyZXdYUXVmc1BtbUJDODhEMjVqQnFlNnFHQmp5REY1RUVxbzVINUoxN25PUTRaNkNWNUlNTXNkTzdfcUQxSGlHSFBfYVBjUDhYY2NRNk1HSlRENVlfREZRSlZqMUphM3ZQelVMeE14QjZCUHZhWFFoUjZ0NkRsRXRmd0FJY3hIUjVsSkF2bHZ5ZDRJMVpKUFZONjU2d2RuakJ3UTRlZlZhYlZGM0k?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Falta de agua en La Serena, Coquimbo y Ovalle será hasta el fin de semana: denuncian vandalización de estanques - madero.cl",
-     "medio": "madero.cl",
-     "fecha": "2026-07-22T14:00:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcElUcEVuT25wRXIwLW5LQzFDOFQ3SGllcVloNGZhZGs4NUh6M0VfSjFLRmQyUmhzdmxxbXNJS0FJZUlQWmYxcmhWaldhNUhzZEdseTJmNVJzYWRvRXZmWkNQSldldFpRNjdXZXNSeTBLM01zTU9zdkdVT2ZTWHRFWWRlWURqMk5PeXB0R05sOG9tdUVVVGtMcjczVkpsYkxjNl9ybUUycnlQX2EtbXNhZG9sZzdQekZReENUWW1jakl1VWcyVEJF?oc=5",
      "sector": null
     }
    ]
@@ -1258,6 +1258,13 @@
    "comuna": "Vicuña",
    "noticias": [
     {
+     "titulo": "Explosivo posteo de la novia de Benjamín Vicuña luego de que Mauro Icardi lo cuestionara como padre - Lmneuquen.com",
+     "medio": "Lmneuquen.com",
+     "fecha": "2026-08-18T13:38:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjZEOGhRblVuZUg1dkhRM1ZEVnZqRUt5akVWLWVDSkRPTnBUSTRsdFp0c1hCcUVlOWxrcU56eWJPSXFJTmRGdzZuRXlSeVVNRUlpR05Sb1JHZVFrbmpKaVE0a19WMS1GbERfYUQwaTJiQkFUY3lha1YxMnBjR0ZjVXhtcEhqbDI3NVRGUF9INE1ibGlna1pLeUZ2ZGstaGJQNFBmaWotSUFZUW1iczF1RHRyWFJuRjJxZW80SzNtYW9WRmFvNGpYLUpFWFQ2MDRhckh0OEpJV1p6QdIB2gFBVV95cUxPVjZEOGhRblVuZUg1dkhRM1ZEVnZqRUt5akVWLWVDSkRPTnBUSTRsdFp0c1hCcUVlOWxrcU56eWJPSXFJTmRGdzZuRXlSeVVNRUlpR05Sb1JHZVFrbmpKaVE0a19WMS1GbERfYUQwaTJiQkFUY3lha1YxMnBjR0ZjVXhtcEhqbDI3NVRGUF9INE1ibGlna1pLeUZ2ZGstaGJQNFBmaWotSUFZUW1iczF1RHRyWFJuRjJxZW80SzNtYW9WRmFvNGpYLUpFWFQ2MDRhckh0OEpJV1p6QQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Pareja de Benjamín Vicuña publica reflexión tras dichos de Mauro Icardi - Meganoticias",
      "medio": "Meganoticias",
      "fecha": "2026-08-18T06:34:00+00:00",
@@ -1319,19 +1326,26 @@
      "fecha": "2026-07-21T17:37:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbHFzQzBibk9tRWhsSkVQb29XQmNpOTl5S1R6MHBFVTUyaENNYldfX3hLWVptSTFjZHBiWUVyclBfM0swLTJUdXhod1Y5QUE5QWNNYTNkUGo5ZXFyM2dTX2IwS3NmS2RyWm45TXZqRU5lTkhVZ3diNFp3UnhoTjBWRlZkXzlTbnE0RkY4OWpyS0Rzc3NveUQ2MEk0UnZ4WlRJcmFRanNiNS14X0JxU0FfVUZNN2ZkZWgwNlN1UDExSDdNY2VCaEJ0YmJR?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "Emergencia en Vicuña: Socavones arrasan carretera y dejan familias atrapadas - DUPLOS.CL",
-     "medio": "DUPLOS.CL",
-     "fecha": "2026-07-20T19:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1plcUxfUEUtWXhEc0FlTzlCYUxEeFp1NmdLT2Zmd2l0VmpYVG9DN0VwNTBRaFVrS2Vndko5b3NrU2tJWktHVGloa1FOTXZyYVp3ek1tTVdBeDdXMWRxYUxUdDlCa1dMYV9kcXFXQVlWaUgxNmZ4TUx5aU80YjdkSGJMR0RUZ2RCOVRzVy1rYkpjM1ZIdWFlR09mQW4zYXNUanFJ?oc=5",
-     "sector": null
     }
    ]
   },
   "caldera": {
    "comuna": "Caldera",
    "noticias": [
+    {
+     "titulo": "Delegada Sofía Cid informa 98 personas albergadas y actualización de conectividad y servicios en Atacama - fmcandelaria.cl",
+     "medio": "fmcandelaria.cl",
+     "fecha": "2026-08-18T15:22:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnNLb0kzVU03N1BtS0RjU1c0WHprdmpBUm9CUlFweHNzd3hoMEdlblo5NEZ2X1NxTFoyRjJMVFE0TWdYemR4UHp2YlJ6Q0o1aXlhclhTMFZSZ3FYUTEyM0VsRFE5Z3dOM3VPb0tkVGExVi15bUxDN21HQ3JtaXZ0amNFX043S21veFg0Ml9SOThWYmJVWW04?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Aluvión afecta a Puerto Viejo: más de 10 viviendas afectadas por intensas lluvias - ADN Radio",
+     "medio": "ADN Radio",
+     "fecha": "2026-08-18T13:30:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnlDUmMtT2djRE94QndyTGlyUF92ZDZqY0lrQ2FlVndQVVBZNWVPZHFWWU8yeGprVTk5RGt4SE9QN0FJYkVzc3M3VmRxSEk1aEdXWTRxdXdCRDNHcDR1NmJ3bURtVGhDNGI4YTVlcTMwZnBRQTZJc1lmTVNpUm5rSlFDaWhEMG56VDRoWUo2c1U5Yk5MaXRrU3pmTWJOQ3J2VEpvNDJRaFFPWExZQTBCUmJ0R0ZBSVpSRGxIT3Vpc0VnVUZrbU5mYU9ud9IBywFBVV95cUxOUnlDUmMtT2djRE94QndyTGlyUF92ZDZqY0lrQ2FlVndQVVBZNWVPZHFWWU8yeGprVTk5RGt4SE9QN0FJYkVzc3M3VmRxSEk1aEdXWTRxdXdCRDNHcDR1NmJ3bURtVGhDNGI4YTVlcTMwZnBRQTZJc1lmTVNpUm5rSlFDaWhEMG56VDRoWUo2c1U5Yk5MaXRrU3pmTWJOQ3J2VEpvNDJRaFFPWExZQTBCUmJ0R0ZBSVpSRGxIT3Vpc0VnVUZrbU5mYU9udw?oc=5",
+     "sector": null
+    },
     {
      "titulo": "Chile: Evacuaciones en Tocopilla y suspensión de clases entre Arica y Atacama - Paislobo Prensa",
      "medio": "Paislobo Prensa",
@@ -1386,20 +1400,6 @@
      "medio": "La Tercera",
      "fecha": "2026-08-17T18:22:28+00:00",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYWpJQ3JuY1pOZmtNVVpnUndXSFBEaFBKazVadXJJRklHelVXRDNKMFgwcTlNaVFkY2FqOVhxYVBPV0NHaURyYkZlV0Z3OG45UWtiSVdWLW5PSTVwMmhXM0dJZjVNWDVkV3ZJcTFmTWpNNVBzT253bHB0MGRCZUtqUTdzZkhsSk11RHZVcF84QTcxRHZlaGZjSDZrY08wNnd1M0tjdWhlb3lLalVjX0VHWGdUN21ucGNkMHZCWk1qbDRtSWJydTUwRzE1TW4zd2YzUWxZ0gH0AUFVX3lxTE9qbEZSNzNJOVZZVzlJSjJ0RlA4X3A2eV9STllCM2RvZUJrcU54ak54VFlwNUdEdVRUc0hrZUFSb2lqYm5jVHZySmVmejdGa2FEbHZLa25xd0lmVkh5WXFZYUJPTFBSOUlqd2otUWVOU21UdHE2U3FBX3pYa0d3ajBOejRLVFd1bFNfcmdpdThlM3h4THB5VTBhbVd2MERMQ2FtR0tmcXh5YlgzQzVKOUE0UUc0R2NISENVSEJOSUFNRGpkcktOY1dFWTdBNGlKcU52S1VySE9uSzUzTUZPckpIcXlYcDhoMWtuTFhrMnk1czFSNkM?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Remoción en masa se registra en Puerto Viejo tras activación de quebradas por precipitaciones - La Tercera",
-     "medio": "La Tercera",
-     "fecha": "2026-08-17T18:22:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPamxGUjczSTlWWVc5SUoydEZQOF9wNnlfUk5ZQjNkb2VCa3FOeGpOeFRZcDVHRHVUVHNIa2VBUm9pamJuY1R2ckplZno3RmthRGx2S2tucXdJZlZIeVlxWWFCT0xQUjlJandqLVFlTlNtVHRxNlNxQV96WGtHd2owTno0S1RXdWxTX3JnaXU4ZTN4eExweVUwYW1XdjBETENhbUdLZnF4eWJYM0M1SjlBNFFHNEdjSEhDVUhCTklBTURqZHJLTmNXRVk3QTRpSnFOdktVckhPbks1M01GT3JKSHF5WHA4aDFrbkxYazJ5NXMxUjZD0gH0AUFVX3lxTE9qbEZSNzNJOVZZVzlJSjJ0RlA4X3A2eV9STllCM2RvZUJrcU54ak54VFlwNUdEdVRUc0hrZUFSb2lqYm5jVHZySmVmejdGa2FEbHZLa25xd0lmVkh5WXFZYUJPTFBSOUlqd2otUWVOU21UdHE2U3FBX3pYa0d3ajBOejRLVFd1bFNfcmdpdThlM3h4THB5VTBhbVd2MERMQ2FtR0tmcXh5YlgzQzVKOUE0UUc0R2NISENVSEJOSUFNRGpkcktOY1dFWTdBNGlKcU52S1VySE9uSzUzTUZPckpIcXlYcDhoMWtuTFhrMnk1czFSNkM?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "SENAPRED ordena evacuar sector de Caldera por peligro de aluvión - Radio Agricultura",
-     "medio": "Radio Agricultura",
-     "fecha": "2026-08-17T17:58:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWdndmF3QVdiMHBsRGVLdlBZYXhTX2dUNkk3NWpSZV85Wmp2RjY2TEpVT0EwWTR5dHJFd3FGcnhvRXhmVk4wVlZwcEhEUjBsbkFUMzh4Y3ZTOVlpTXFnMzFMV1E3UFRnOE5naXRBQndTbkliT0lDVTB4VTJLNzdIay1KZ05Ua05uYW42TTVNbWF6SUV0YkI3N0VwSU1Pbm1SUXdEVTVoXzd2aXhKbDlFSEhWRXZKUmFsaDV5eGtJU0dwZw?oc=5",
      "sector": null
     }
    ]

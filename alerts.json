@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-18T15:52:20+00:00",
+ "generado": "2026-08-18T17:03:20+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "a7ad51b6cb7c",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo de Alerta Amarilla para las comunas de Antofagasta, Taltal, Mejillones y Tocopilla por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alarma AAA8 Precipitaciones intensas en el litoral (Tocopilla y Taltal) y cordillera de la costa (Tocopilla hasta Taltal). 18-08 18-08 Abrir Aquí Alerta AA139-1 Viento moderado a fuerte con desarrollo de ventiscas, en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 17-08 18-08 Abrir Aquí Alerta AA141-",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-18T12:50:38.3838-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "6c8d93701d5a",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Atacama por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA141-3 Precipitaciones moderadas a fuertes en litoral de la Provincia de Chañaral. 18-08 19-08 Abrir aquí Alerta AA139-1 Viento moderado a fuerte con desarrollo de ventiscas en cordillera en la región. 17-08 18-08 Abrir aquí Alerta AA143 Nevadas moderadas en precordillera desde Inca de Oro al norte. 17-08 18-08 Abrir aquí Aviso A388-9 Viento normal a moderado con",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-18T12:19:18.1818-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "e95320f68d41",
    "nivel": "AMARILLA",
@@ -79,20 +107,6 @@
    "regiones_extra": []
   },
   {
-   "id": "a6ee24e56030",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Atacama por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA139-1 Viento moderado a fuerte con desarrollo de ventiscas en cordillera en la región. 17-08 18-08 Abrir aquí Alerta AA143 Nevadas moderadas en precordillera desde Inca de Oro al norte. 17-08 18-08 Abrir aquí Aviso A388-9 Viento normal a moderado con probabilidad de tormentas de arena en pampa, precordillera y cordillera de la región. 17-08 18-08 Abrir aquí Avis",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-17T22:25:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "e523c11d7a81",
    "nivel": "AMARILLA",
    "tipo": "tormentas eléctricas",
@@ -103,20 +117,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-17T19:21:09.099-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "9899499c45eb",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Amarilla para las comunas de Antofagasta, Taltal, Mejillones y Tocopilla por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alarma AAA8 Precipitaciones intensas en el litoral (Tocopilla y Taltal) y cordillera de la costa (Tocopilla hasta Taltal). 18-08 18-08 Abrir Aquí Alerta AA139-1 Viento moderado a fuerte con desarrollo de ventiscas, en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 17-08 18-08 Abrir Aquí Alerta AA141-",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-17T19:14:48.4848-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
    "origen": "senapred_web",
    "regiones_extra": []
   },

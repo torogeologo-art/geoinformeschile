@@ -1,19 +1,19 @@
 {
- "generado": "2026-08-18T14:07:49+00:00",
+ "generado": "2026-08-18T17:03:42+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "08-08-2026",
   "hasta": "18-08-2026"
  },
  "totales": {
-  "alertas": 122,
+  "alertas": 123,
   "sae": 6,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "ROJA": 8,
    "ATP": 69,
-   "AMARILLA": 45
+   "AMARILLA": 47,
+   "ROJA": 7
   },
   "por_tipo": [
    [
@@ -22,7 +22,7 @@
    ],
    [
     "viento",
-    29
+    31
    ],
    [
     "evento meteorológico",
@@ -31,10 +31,6 @@
    [
     "crecida de río",
     6
-   ],
-   [
-    "desborde",
-    2
    ],
    [
     "nevadas",
@@ -46,6 +42,10 @@
    ],
    [
     "aluvión",
+    2
+   ],
+   [
+    "remoción en masa",
     2
    ]
   ]
@@ -401,26 +401,6 @@
     "region_link": "biobio"
    }
   ],
-  "desborde": [
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "08-08",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "10-08",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   }
-  ],
   "nevadas": [
    {
     "lugar": "Región de Los Lagos",
@@ -480,6 +460,26 @@
     "comuna_link": "diego de almagro",
     "region_link": "atacama"
    }
+  ],
+  "remoción en masa": [
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "18-08",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "13-08",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
+   }
   ]
  },
  "vigentes": {
@@ -494,7 +494,7 @@
  "serie": [
   {
    "fecha": "2026-08-08",
-   "ROJA": 1,
+   "ROJA": 0,
    "AMARILLA": 3,
    "ATP": 8,
    "sae": 0
@@ -565,7 +565,7 @@
   {
    "fecha": "2026-08-18",
    "ROJA": 0,
-   "AMARILLA": 1,
+   "AMARILLA": 3,
    "ATP": 2,
    "sae": 0
   }
@@ -600,34 +600,6 @@
     {
      "nivel": "AMARILLA",
      "ts": "17-08 22:25",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Biobío",
-   "region": "Biobío",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "08-08 11:11",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "08-08 18:23",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "11-08 20:51",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "13-08 13:52",
      "estado": "VIGENTE"
     }
    ]
@@ -694,6 +666,34 @@
    ]
   },
   {
+   "lugar": "Región de Antofagasta",
+   "region": "Antofagasta",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "08-08 13:59",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "16-08 21:07",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "17-08 15:36",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "18-08 12:50",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Tarapacá",
    "region": "Tarapacá",
    "sae": false,
@@ -717,29 +717,6 @@
     {
      "nivel": "AMARILLA",
      "ts": "17-08 19:21",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Antofagasta",
-   "region": "Antofagasta",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "08-08 13:59",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "16-08 21:07",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "17-08 15:36",
      "estado": "VIGENTE"
     }
    ]
@@ -787,6 +764,29 @@
      "nivel": "ATP",
      "ts": "18-08 08:53",
      "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Biobío",
+   "region": "Biobío",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "08-08 18:23",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "11-08 20:51",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "13-08 13:52",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -874,6 +874,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "18-08 12:50",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Antofagasta",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
+  },
+  {
+   "ts": "18-08 12:19",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Atacama",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14"
+  },
   {
    "ts": "18-08 09:37",
    "nivel": "AMARILLA",
@@ -981,24 +999,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1540"
-  },
-  {
-   "ts": "17-08 14:32",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-rio-verde-y-punta-arenas-por-viento-2026-08-16-16-32-13"
-  },
-  {
-   "ts": "17-08 16:19",
-   "nivel": "ROJA",
-   "lugar": "La Serena",
-   "tipo": "crecida de río",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1538"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
