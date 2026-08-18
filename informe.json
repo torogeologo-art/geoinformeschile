@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-18T20:51:29+00:00",
+ "generado": "2026-08-18T21:51:16+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "08-08-2026",
@@ -18,7 +18,7 @@
   "por_tipo": [
    [
     "tormentas eléctricas",
-    68
+    69
    ],
    [
     "viento",
@@ -33,15 +33,15 @@
     6
    ],
    [
-    "aluvión",
-    3
-   ],
-   [
     "nevadas",
     2
    ],
    [
     "otros",
+    2
+   ],
+   [
+    "aluvión",
     2
    ],
    [
@@ -55,9 +55,9 @@
    {
     "lugar": "Región de Tarapacá",
     "region": "Tarapacá",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "17-08",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-08",
     "comuna_link": "",
     "region_link": "tarapaca"
    },
@@ -392,35 +392,6 @@
     "region_link": "biobio"
    }
   ],
-  "aluvión": [
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "11-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Diego de Almagro, Chañaral",
-    "region": "Atacama",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "12-08",
-    "comuna_link": "diego de almagro",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "18-08",
-    "comuna_link": "",
-    "region_link": "tarapaca"
-   }
-  ],
   "nevadas": [
    {
     "lugar": "Región de Los Lagos",
@@ -461,6 +432,26 @@
     "region_link": "los rios"
    }
   ],
+  "aluvión": [
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "11-08",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Diego de Almagro, Chañaral",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "12-08",
+    "comuna_link": "diego de almagro",
+    "region_link": "atacama"
+   }
+  ],
   "remoción en masa": [
    {
     "lugar": "Región de Coquimbo",
@@ -484,7 +475,7 @@
  },
  "vigentes": {
   "ROJA": 7,
-  "AMARILLA": 6,
+  "AMARILLA": 5,
   "ATP": 4,
   "regiones_roja": [
    "Antofagasta",
@@ -601,7 +592,7 @@
     },
     {
      "nivel": "ROJA",
-     "ts": "18-08 19:30",
+     "ts": "18-08 17:38",
      "estado": "VIGENTE"
     }
    ]
@@ -864,13 +855,13 @@
  ],
  "cronologia": [
   {
-   "ts": "18-08 19:30",
+   "ts": "18-08 17:38",
    "nivel": "ROJA",
    "lugar": "Región de Tarapacá",
-   "tipo": "aluvión",
+   "tipo": "tormentas eléctricas",
    "sae": true,
    "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1549"
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43"
   },
   {
    "ts": "18-08 14:33",
