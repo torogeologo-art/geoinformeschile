@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-18T17:03:20+00:00",
+ "generado": "2026-08-18T18:04:10+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -9,15 +9,29 @@
  "total_vigentes": 17,
  "alertas": [
   {
-   "id": "a7ad51b6cb7c",
+   "id": "72eb5e328eba",
    "nivel": "AMARILLA",
    "tipo": "viento",
-   "titulo": "Monitoreo de Alerta Amarilla para las comunas de Antofagasta, Taltal, Mejillones y Tocopilla por evento meteorológico",
+   "titulo": "Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Sierra Gorda y María Elena por evento meteorológico",
    "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alarma AAA8 Precipitaciones intensas en el litoral (Tocopilla y Taltal) y cordillera de la costa (Tocopilla hasta Taltal). 18-08 18-08 Abrir Aquí Alerta AA139-1 Viento moderado a fuerte con desarrollo de ventiscas, en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 17-08 18-08 Abrir Aquí Alerta AA141-",
    "region": "Antofagasta",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-18T12:50:38.3838-04:00",
+   "ts": "2026-08-18T13:18:28.2828-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "7ba91996839e",
+   "nivel": "ROJA",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para las comunas de Antofagasta, Taltal, Mejillones y Tocopilla por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alarma AAA8 Precipitaciones intensas en el litoral (Tocopilla y Taltal) y cordillera de la costa (Tocopilla hasta Taltal). 18-08 18-08 Abrir Aquí Alerta AA139-1 Viento moderado a fuerte con desarrollo de ventiscas, en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 17-08 18-08 Abrir Aquí Alerta AA141-",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-18T13:05:44.4444-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
    "origen": "senapred_web",
    "regiones_extra": []
@@ -117,20 +131,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-17T19:21:09.099-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "fc243f5e179d",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Sierra Gorda y María Elena por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alarma AAA8 Precipitaciones intensas en el litoral (Tocopilla y Taltal) y cordillera de la costa (Tocopilla hasta Taltal). 18-08 18-08 Abrir Aquí Alerta AA139-1 Viento moderado a fuerte con desarrollo de ventiscas, en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 17-08 18-08 Abrir Aquí Alerta AA141-",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-17T19:10:18.1818-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -2270,20 +2270,6 @@
    "url": "https://t.me/SenapredChile/1404",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "8180f60e72a2",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se cancela Alerta Roja para las comunas de Cauquenes y Parral por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ Río Perquilauquén en Quella ”, ubicada en el sector Quella de la comuna de Cauquenes (límite con la comuna de Parral), indica que el caudal ha disminuido encontrándose con valores estables , alcanzando valores de umbral verde , lo que supone una disminución del riesgo para la población cercana a este curso de agua. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED cancela la Alerta Roja por desborde par",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-21T02:49:25.2525-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comuna-de-cauquenes-y-parral-por-crecida-2026-07-16-18-02-32",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "14279eb4b0b7",
