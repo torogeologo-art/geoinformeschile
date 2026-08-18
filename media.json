@@ -1,36 +1,6 @@
 {
- "generado": "2026-08-18T14:07:48+00:00",
- "desde": "2026-08-16T14:07:46Z",
+ "generado": "2026-08-18T15:52:22+00:00",
+ "desde": "2026-08-16T15:52:21Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "tqJazhtU3y4",
-     "url": "https://www.youtube.com/watch?v=tqJazhtU3y4",
-     "titulo": "ALUVIÓN EN CHILE: DESBORDE DE QUEBRADA AFECTA CASAS EN ATACAMA",
-     "canal": "DSN Virales y Noticias",
-     "publicado": "2026-08-18T00:02:28Z",
-     "live": false,
-     "score": 4.83,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "Atxc9YRdS8E",
-     "url": "https://www.youtube.com/watch?v=Atxc9YRdS8E",
-     "titulo": "Voraz aluvión destruye viviendas en Atacama",
-     "canal": "F365",
-     "publicado": "2026-08-17T23:31:28Z",
-     "live": false,
-     "score": 4.78,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
