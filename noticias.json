@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-18T11:56:50+00:00",
+ "generado": "2026-08-18T14:07:45+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -255,6 +255,13 @@
    "comuna": "Tierra Amarilla",
    "noticias": [
     {
+     "titulo": "Polémica por fiscalización en Tierra Amarilla: ¿Falla municipal o negligencia de infraestructura en el río Copiapó? - Diario Chañarcillo",
+     "medio": "Diario Chañarcillo",
+     "fecha": "2026-08-18T14:02:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYVJ1Yl9IYWZneXJiSFFmZkRja09NUVY3VVB3VkQ1ekhMeW80VG1ZTkJCOC0wT1BEMjFJNUxrcUFRdjZ4elB1dEZ6SWpFVHd5dDVES0k5cVFkUEhOTWUwNklNWXRUaFNXeG5oRmw1UWxsTWNrMlJHYkhnZUFQVjlRM0NkUXFnQXJNU1VhN2o2NkdYRzJsU3VXX3ZrMXlMaWRMQnhnT05IaUlGS0ExaGVGbTZscHJfUWdrNnRYVElKb3ZsODh3cEl3Q2J2TGxOaTVYSGFfdU4zUQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Tierra Amarilla sigue con caminos cortados y sectores sin servicios: nuevas lluvias podrían complicar el despeje - NOSTÁLGICA cl",
      "medio": "NOSTÁLGICA cl",
      "fecha": "2026-08-16T00:00:00+00:00",
@@ -320,13 +327,6 @@
       "lat": -28.15641,
       "lon": -69.878
      }
-    },
-    {
-     "titulo": "SENAPRED modifica Alerta Amarilla por crecidas y advierte nuevo periodo de lluvias en Atacama - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-08-13T02:20:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDFrUWVDbXNpRDU4dGxWeVUwZjhfRUd5N3BQVmotM19vSFo4Z0NFSUZsVnFFUlNTdW5PaTdaWmRnblQxRm1VdGN2a0htOEE3VXpadXVZXzkyU0didHh2bXFwWFpUaDNpcTJpNHpUeVdNajNWUXhrWWlyWDFXYUZMSHRFbWg0aGpibXFIMzFXQkZuY0hCUlFQUU5XWEZnc1dCeGM5ZGo5UHd0ZEZkRFdRXzFkeG1OYk1LMEZ1ZA?oc=5",
-     "sector": null
     }
    ]
   },
@@ -1408,6 +1408,27 @@
    "comuna": "Coquimbo",
    "noticias": [
     {
+     "titulo": "Lluvias dejan cortes de rutas, activación de quebradas y problemas de conectividad en la Región de Coquimbo - madero.cl",
+     "medio": "madero.cl",
+     "fecha": "2026-08-18T12:21:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaHkxOFd6amRmUXBmSmdNa25JR05TdTd5UDlRVlVSaEw5S2tTSlk4Um04ZklSS0tsTEFNUDNzelQ2TU5lcHY4Z19wZUVLRFhWYmR1SDMtOFdZVGNZaGYwSG5fbGoybjZ1OXFyeDFLbVpuVjlsUlhocmZ6b1EtYm5pS1paMTdEUzllRlJBNEdVdnBZUkxuRGpoSjFQbkVjY2VVaGRfZFFNaDVZRmJJR1NGekljS1ZvLUtHRE1BU2txaG1ON1E?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Las lluvias volvieron a complicar a Coquimbo: cortes de rutas y quebradas activadas - Diario de Cuyo",
+     "medio": "Diario de Cuyo",
+     "fecha": "2026-08-18T12:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTF9KUFh0YnVfaUpxX0dOdnVZX0RoU0hyRk1Pa1VMNmluaTlCLUFtWlU4a3l3T0xESHV3cGdhbDNwT1FMYTNEN0N3WHVGclpsRnNEbUxUekpVVlROaUtMTTNhcDJHMFR6bEZFQ1d0SWJ6Y0R1dkpEN2hfT3lqal8wUTQwQnZFbVd3dEV6UTJQZkdtd2dNMlJVV1N4a3pfdE85VWhqZlpod0UyTmJuX2doNzlMSmc0UTUyN1QtMg?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Evacuaciones, quebradas activadas y rutas cortadas: las emergencias que deja el sistema frontal desde Iquique a Coquimbo - madero.cl",
+     "medio": "madero.cl",
+     "fecha": "2026-08-18T01:40:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdHJpTGRHcE5QZnR6YkJZNlZCWjZHazdyVWpSN1dvcE15cDNlQm5ZdUlGZ2wwdjhzcUZuRlNadmpQMzNPZExsUkFTVzBRbkJna0JUelc2bThmcVIxWjMweTNRNVV5Z1dLOHdEcTRjNWlfZ3BFeWJFRHJTUUlJZ1RTVzM3Znd5by00Qy1hcXkyV0ZJTjNDMFM4WFY4QU1QT01jWXdyUWlpZGRtZDZXOHBXM0JJYThsWlZNaTlCaGZJLWJWVy1STWNadUNiU1piZkU1S0cw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Lluvias dejan cortes de rutas, activación de quebradas y problemas de conectividad - diarioeldia.cl",
      "medio": "diarioeldia.cl",
      "fecha": "2026-08-17T22:44:54+00:00",
@@ -1419,6 +1440,13 @@
      "medio": "Mi Radio",
      "fecha": "2026-08-17T19:44:39+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVA2ekRZNXgtNFhmVlMwaTFFZGZfUGRuZkZVYTRhLTVCLVhXN0NuYkZKV0ZqR01YUjAwR2dCdnYtZ25LQVVlZkJuTzg3eFVVWDUtQ3dMYjJkVk5rZ2dQczVDVDdNY1otOURIT1U4ZTIwZElHY1JiM1ZfekcxSFlVVVZVcWpyUUUtY0FWNF92YWgtb3pINHNUM1I2eFZuOXhCUEpqSGlZUXplQQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Lluvias inusuales azotarán el norte de Chile: advierten activación de quebradas y barro - TVN",
+     "medio": "TVN",
+     "fecha": "2026-08-17T14:18:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDZlZlhRbzA3aEQwcndpRzZnQzU0MGhoeGtWaWF5LWNXVkJpRV9tVGx6QmRRYV9LS2dQdEFQQ0xjcXcyZE1qdHk2cmFSSmtJT0hSRjEtWEpwRUxZbW1HZ21NT2RiYUZLRU5yV1RwMVVqdlBUbHNFeEtYRFQ4dGoyeUtqdnFxaDRLN0RZVFB3WWRHZDlvdlZoX0tVLVo0VHVlTGMybmdpUlozczDSAbABQVVfeXFMUFFXXzdzNlRCaDE0bDdkVDdDN1Zva3dnUjNwV2Jnc2JKcXp4eWh0Zk9OdTBKcVBGOGdwRDBaby1QUHdTeW1WVUQ5cE0ydWw0UFFPTmE3Q3ZnSVNuTXFhcHd4Ui1Db3FEX3JkRUlCTEhOVzV4NEU3WWI3aDVnUkstc0VYeFpqTEd3b3R3MUhLdUEwaW4ySXgyc182bmhfWENRZ1ozRmtoc0pyRnJtT2pWTkw?oc=5",
      "sector": null
     },
     {
@@ -1447,34 +1475,6 @@
      "medio": "Serena y Coquimbo",
      "fecha": "2026-08-13T02:26:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS0RyUV8yeGZyYzdZbW9WS0ctejRYVEVxSS12QXdWMFpCdENpYnpmd1VsYWtEclhkVXNEdFJSQmQ0cTh1cGRIc0Y5U0h2MFU3YllYNUFqd0tzLUZaSExCdlktOHEtQ2tneC00ZjdWbWx3ZFlFdTRveFhVWGc4b3lHVXJEbTZidWw1Z2Q5TGxSUExyc1BBM0hORzFhN2JJdi16Nk9iS0ZUN2g1bW1iWkhnME1n?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Dos menores quedaron atrapados por activación de quebrada en Combarbalá: lograron llegar a salvo a su hogar - Mi Radio",
-     "medio": "Mi Radio",
-     "fecha": "2026-08-12T22:24:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZVdGcldCYnY3QVNiR2NTUXRyMDlvd0ZudWtCTFp6a3FCbGdGS1hQdWVGY3BCdTBvQnJVZFZ0OWVwN2RzLU9UUUJ2SEd0dEh5aEUyeEx5a1FDT05tcmxCMGtnNWN5QVNpTy1mQ0hxOUZNNUIzdXdBSDJ0aU54M2R2ZnplWnJSOUtsa0ZiOGtLWUYxNDg5RHVWdDZ6WVo3eExEb21XbFhtZmZpLWw4WlBIcXVDSUZ6djRIdlZvVUtIc0FhM0xuajVzdmlJSzM2R3M0aXVKdFRzWlJRcVk?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "El Norte en alerta por activación de quebradas en Atacama - La Tercera",
-     "medio": "La Tercera",
-     "fecha": "2026-08-12T17:47:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVpBT2JNV0xzZGdfMEtQTFlzWV96azJzQ3BvcVEzOW9hd2p0YVNfbURDY0hvX0o1SnVXdmdlRjdSOEYxeE1jaldBQmVOdllWeFJQWkZoVERhcFh2ZVFQMXRYR3dZRG1pV0ptaFJnRVc2Qi1YeHl1RmFPS0EtakpMZy1VczVOZVZJaVJTSGtiMFgxOFVkNml1WTkySnBRdWhS0gHCAUFVX3lxTE14VXYxVVIzOXFQakNScGhPNmNsal9VbUxXYnFMaWY5aWVaS3JNX2x5WHliakFpcHJjTFk2YU5UU0VZZnhtUGdIRjlqeXBtQkM0T3NZX0tWbU9ORDlKQ3pOejZHekpZWnVKaEI3VVpycU5QQzhtUEFuZEctT1d0NXRaSUR6bm1NYXFPTWVhcnQxM3ktWDRraXRSVFFYamgyaUpmakVMNHlfd0VVcVFKdy0tSFR4VDZmOVhaUnVFWGpHYUpR?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "“Aumentos de caudal y activación de quebradas”: advierten peligros por la lluvia en Atacama y Coquimbo - La Tercera",
-     "medio": "La Tercera",
-     "fecha": "2026-08-11T15:06:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYlN0dUdUNTRidGZTV0xRa3ZTUmdCQzVPaktfc0RUZGRiT20yb0haWTdDdG1UNTJDZDF0ZUVjRnRCY0pEQ28xc0N2LUl3MlhzY202TWNNdkpsNXNpQ0N4UF9iNmtscW40bVpnV1JRa01qOUdpYWpQSDJ3QVVkQVMxWGlqQmgxQ0t3NXEtZlhvbHpFVk1fQUloeHVwMktIYVl3aWRhQXhmdVp3LTd5MG5QLUxSeDZoS2hDMjhvS0hSNHZDMms4eXFQRXAtMG82RWpwRm9NU1g3QTVpdkpwek51YkcxcDZpcm5XekYzUW5aMk1uVzRsYjQyS3F3bldLTGfSAf8BQVVfeXFMTmJTdHVHVDU0YnRmU1dMUWt2U1JnQkM1T2pLX3NEVGRkYk9tMm9IWlk3Q3RtVDUyQ2QxdGVFY0Z0QmNKRENvMXNDdi1JdzJYc2NtNk1jTXZKbDVzaUNDeFBfYjZrbHFuNG1aZ1dSUWtNajlHaWFqUEgyd0FVZEFTMVhpakJoMUNLdzVxLWZYb2x6RVZNX0FJaHh1cDJLSGFZd2lkYUF4ZnVady03eTBuUC1MUng2aEtoQzI4b0tIUjR2QzJrOHlxUEVwLTBvNkVqcEZvTVNYN0E1aXZKcHpOdWJHMXA2aXJuV3pGM1FuWjJNblc0bGI0Mktxd25XS0xn?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "“Aumentos de caudal y activación de quebradas”: advierten peligros por la lluvia en Atacama y Coquimbo - La Tercera",
-     "medio": "La Tercera",
-     "fecha": "2026-08-11T15:06:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbGRaRmpySkhIQ3lTV0xwbnRUN0VjWldvOVhsV0tUcEtNUHBNbG5qX0ZMdDZlYzlFbTY2Ry15TEEzZ184NS1tVkR1VjFucy1kMkdaelUtbWZqYTdNRHBqandxb1JoSGVQTVh2Z08tYlpyVi1TWGdSUjNtTmk5UHlYSFczUlJScmJpYks2NDVycjBXOW12MUFON08waGpMQXB4SExBSTRQUnRTcmV1NUVPaVdXQW1Bd2k1aFNDSzFUOUtXZEEzcW5DYTFfel85Y3lTYW9IZkxXN3E3NElfMVHSAf8BQVVfeXFMTmJTdHVHVDU0YnRmU1dMUWt2U1JnQkM1T2pLX3NEVGRkYk9tMm9IWlk3Q3RtVDUyQ2QxdGVFY0Z0QmNKRENvMXNDdi1JdzJYc2NtNk1jTXZKbDVzaUNDeFBfYjZrbHFuNG1aZ1dSUWtNajlHaWFqUEgyd0FVZEFTMVhpakJoMUNLdzVxLWZYb2x6RVZNX0FJaHh1cDJLSGFZd2lkYUF4ZnVady03eTBuUC1MUng2aEtoQzI4b0tIUjR2QzJrOHlxUEVwLTBvNkVqcEZvTVNYN0E1aXZKcHpOdWJHMXA2aXJuV3pGM1FuWjJNblc0bGI0Mktxd25XS0xn?oc=5",
      "sector": null
     }
    ]
@@ -2495,17 +2495,17 @@
      "sector": null
     },
     {
+     "titulo": "¡Ríos al límite! Ica, Cañete y más provincias en alerta por inminente riesgo de desborde tras intensas lluvias - Perú 21",
+     "medio": "Perú 21",
+     "fecha": "2026-02-16T08:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1lJbzhqTGlISmNKbmJ5UTZSZ3ZsWHlUUGFyUDRiVmkzVVE1X2k5WmxmV25GY2JQbjlTNTI5Sy1YWmZEWG5PejFRVXZ4cEpEaEtyRTRvaGVwLUt3SnpPMDJ4OGtDX0RtNExJc2I2WW5ZcFdPTlZ2TFpibVYxeDA1LVhuQlRzMXhrRE9kaFNhVHNmS3BLNnp1N251aU9ua0tQOXA3Yg?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Cuatro carreteras provinciales de Jaén permanecen cortadas al tráfico por inundaciones - Andalucía Información",
      "medio": "Andalucía Información",
      "fecha": "2026-02-04T08:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSWlmR2VlREdjVG9OeUxCZ0hUVmNxeTR4UTFoaDFURUNEZndHU3AxdzZxTk1DMExSSGFsM0dFbWJwVGt3ZTNjQUJZY19nMkQ0NGhOWGRDQUdrRUlLd0JMRmNCOHR2YUpFalpKVk5RRC1ZWjlKZjkwaktLcWZjdUp4TkhKa29pMTcxak45dXZFZHIyMDA2azVwb3pSbmJYOTdsOVhuUzlfbTZ0aFZyWHhqbUFVRGY4WDBSbXFKUTBMS0dvRlJCWkZzME41S0F5UEdFVG16bXZFeVo5OXg3UXNmWXB6dUcxd3hZVktyU1dVUTh5T1FTem9kRF9n0gH_AUFVX3lxTE9WUkUtcWxHN0JoWDRfdVRvV1B4VllodVRhVGdjMWhIS2lUVkc5X0RGV3RYWFkxZDFQN0RzdXNTd2dzUUg1ejBwU1lOem9wcDl0bHpjSXBmcVdjQmFKNUFSbEhjSC1NZTdTRzhVU2ZlYjJpU0JUazNDaU4wYmVNTEdUY0lYRC1PUVp0T3diQXJZVERvelNNVlVJS1Q0V3pZY2pDNEdfbkkyc29uZF9ycDFTWERKVjNnbmM0dVV6YnpvdXNEc1RpVzdqV3R3c2xqLU1PNlgxUGZsbm45REFOQWZJeHkwQ2NwNEx6R3B4SDIteFFpOWhlcjZoQjV5eDB4TQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Lluvias en Perú: Indeci alerta por posible desbordes de ríos Pisco y Cañete, tras llegar al umbral rojo - Infobae",
-     "medio": "Infobae",
-     "fecha": "2026-02-02T08:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQUlIODNwVzZZblFoWFc0RkdUNnpJOWttLW5ucGN3ckY3cUlfRWxZMVIxbklSQi1VSVd5RmdDRURnUVRsWjJpeFdhUTctdm9Ebm1BNnI0MHlaVjQtSkRpVmpTdHNTamRsbURzaE01SnhyRkZBTlo0QXpiemJYZkw5a0ViX2VDT1Qwc05zVWF6NGlxVG5jRzNhbjBaelRzU19KYkNXaVc1Q0FYY0tHZjFhRlJ6R0JWcXZ3OWlscjhXZlNKQkZOZVU1Y19rR3h4TXdlTjBmTmdiN3ZJd9IB9AFBVV95cUxQLWw2YkVHWWIxcGhnRHBrbGRJTHZFaDdUZDgxanhWbXg3aWhmTGlEWXA0WFo0MklNaVEtb0NqN2JXaUc1c3NIQmJHSkp6Q1V4cWljczhXdUZWdXozTWpHVU1rS01EcTVEd0c2Sm92X21EUmJXZUM5azMyVWNZT0hKcTVWUC1ZdXhZYUdwbWNGQ01CM1pGelNTUkNNV0ROZFRsSkNSWHBSX0J4RVE3aGpJU1doSVN1cjdWSEtoa1JSVV9OczZpSmtubHhBb2pEUjRWT2hXMEl3MDBzNnNRSjRyMTUzMUpHVFZSZVRXRVFOa3owVWdh?oc=5",
      "sector": null
     }
    ]
@@ -3208,6 +3208,13 @@
      "sector": null
     },
     {
+     "titulo": "\"Puede haber desborde\": Alcalde de Diego de Almagro detalla medidas ante crecida del río Salado - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2026-08-12T19:36:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTVJKenlfbUVXRG1ubHB3Vk81V3JSLVNjVzR2T2ZhR2ItN2E0cFM5TnRnaEpwbGJlOUN5b0pFVEdudWVDOGJDQjQwMDZPTFBuTk1NeFVXemF2R3FpZjhYVlktREZCOHR3eUpDZTZBUFp0bWg5ZlhKS3U1MmFjeUdsWkxxUmlqS3RzOVgxTlo2MFlITVowVDRITlhFcnBYSXhrR2dRWkY0MkRjbE9yQTdCSkdQTG05T1RwUDZOVVpwTGxiRkc2LUM0MTU0NE5ReE5JSnVJZmZWWGNhYnY1QlRWQTZsVmtLbkpQWU4xOFgwZHMtRE1mcWdWY2NMdkdZdVh2?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "El fantasma del aluvión del 2015 ronda a vecinos de Chañaral tras activación de alerta SAE por crecida del río El Salado - madero.cl",
      "medio": "madero.cl",
      "fecha": "2026-08-12T17:50:28+00:00",
@@ -3261,13 +3268,6 @@
      "medio": "VLN Radio",
      "fecha": "2026-08-11T20:33:59+00:00",
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMF93WWRMMU9oX2ZjY3YyNnc2dy1YbDh4d2praks4Y05qQlc5Rk1udzBIRkVDSDMzX3hMOWx0Wm5jeVd1SFN1YjFxSFAxMU9WYUVZazhLaGRTMGN2WkZtdWhQVmdfVk9rYWN1bFVaU25mM3pZdm5EOUpXTldOYVdvQXY5WEhTaHR2dXNHa211Y0FVT3MxdEQzbm5DSWNBVURlcUpaWXRqRnlQbXduanFfeVNRaXgybjdRWVhFRjhISjdab21lWUU2ZDRMN2lmZTM0X1VmRjhMcWRUMEdIcUpNWkRwVlA4VlRYRmNzcXh0U2VUZ29RNDcweQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Organizaciones de Diego de Almagro recurren al Primer Tribunal Ambiental para impugnar aprobación de proyecto BESS Pueblo Hundido - Radio Atacama",
-     "medio": "Radio Atacama",
-     "fecha": "2026-07-28T12:14:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObGY2OXRCdWIyRk5BQ0t1T2xHZEVMY0Q1X3lvR2RzT0llOXlwVlV5blYzT1o5dG9ldUlkczQtMHNkSGhyR0xuRjYyWlNZa0RlN2V3SEJ5eHBTMTF1UDRuZEF1VmY2T214cjladk8wd3MzLTgyV3IyUXoxZUFKTUZEZnBEeGdwUDl1U0Fxd3JNYnFBMTJKVXFsZ0p6TjZsTGFCUUlQWkZ3YVBqZlJSR25MV0JnM3o2WDJPU20xaG4wbk9zSVVPTHRuekllX0htdzIwRVB3ZHFmWlZoUQ?oc=5",
      "sector": null
     }
    ]

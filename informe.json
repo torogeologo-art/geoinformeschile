@@ -1,19 +1,19 @@
 {
- "generado": "2026-08-18T11:56:55+00:00",
+ "generado": "2026-08-18T14:07:49+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "08-08-2026",
   "hasta": "18-08-2026"
  },
  "totales": {
-  "alertas": 120,
+  "alertas": 122,
   "sae": 6,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
    "ROJA": 8,
-   "ATP": 68,
-   "AMARILLA": 44
+   "ATP": 69,
+   "AMARILLA": 45
   },
   "por_tipo": [
    [
@@ -22,7 +22,7 @@
    ],
    [
     "viento",
-    28
+    29
    ],
    [
     "evento meteorológico",
@@ -565,8 +565,8 @@
   {
    "fecha": "2026-08-18",
    "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
+   "AMARILLA": 1,
+   "ATP": 2,
    "sae": 0
   }
  ],
@@ -768,6 +768,29 @@
    ]
   },
   {
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "region": "Libertador General Bernardo O'Higgins",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "08-08 16:03",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "13-08 18:35",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "18-08 08:53",
+     "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Los Ríos",
    "region": "Los Ríos",
    "sae": false,
@@ -832,24 +855,6 @@
    ]
   },
   {
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "region": "Libertador General Bernardo O'Higgins",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "08-08 16:03",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "13-08 18:35",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Maule",
    "region": "Maule",
    "sae": false,
@@ -869,6 +874,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "18-08 09:37",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Coquimbo",
+   "tipo": "remoción en masa",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23"
+  },
+  {
+   "ts": "18-08 08:53",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-08-04-17-58-34"
+  },
   {
    "ts": "18-08 00:07",
    "nivel": "ATP",
@@ -976,24 +999,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1538"
-  },
-  {
-   "ts": "17-08 12:03",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-04-15-07-37"
-  },
-  {
-   "ts": "17-08 05:37",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Antofagasta",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
