@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-18T19:41:06+00:00",
+ "generado": "2026-08-18T20:51:26+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -255,10 +255,24 @@
    "comuna": "Tierra Amarilla",
    "noticias": [
     {
+     "titulo": "Municipio intervino el río Copiapó para evitar un riesgo y ahora enfrenta una fiscalización - elquehaydecierto.cl",
+     "medio": "elquehaydecierto.cl",
+     "fecha": "2026-08-18T16:47:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1hjOW9zVVpMRmhKZTZoS3JDcllMOWpaVm1KYnBYYlRsdkFYd09sbHFYb0lRLUlqRENBU25GRW5jTWNYWGFBLU1EYy15RDR3YVM0SU55SlhmMmVxN1VLWjZheEpGTGJVSTFSbnA4d0VhbFhhRjN2RFF3T0NFWldPV1k2Qk16a2VQUXd4ejBDYjk5SXQwSURzalhubDloanBPczhhQUtCbnBsMDM0NGFHSmtBak96YzduQ2dod0hXMGF5VXhVOWlyd1lWQTA?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Polémica por fiscalización en Tierra Amarilla: ¿Falla municipal o negligencia de infraestructura en el río Copiapó? - Diario Chañarcillo",
      "medio": "Diario Chañarcillo",
      "fecha": "2026-08-18T14:02:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYVJ1Yl9IYWZneXJiSFFmZkRja09NUVY3VVB3VkQ1ekhMeW80VG1ZTkJCOC0wT1BEMjFJNUxrcUFRdjZ4elB1dEZ6SWpFVHd5dDVES0k5cVFkUEhOTWUwNklNWXRUaFNXeG5oRmw1UWxsTWNrMlJHYkhnZUFQVjlRM0NkUXFnQXJNU1VhN2o2NkdYRzJsU3VXX3ZrMXlMaWRMQnhnT05IaUlGS0ExaGVGbTZscHJfUWdrNnRYVElKb3ZsODh3cEl3Q2J2TGxOaTVYSGFfdU4zUQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Controversia por fiscalización en Tierra Amarilla: ¿Falla municipal o negligencia en la infraestructura del río Copiapó? - urgente.cl",
+     "medio": "urgente.cl",
+     "fecha": "2026-08-17T16:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV1czSm1mT2tvSFZkeU9DdFpmQl9vaGRyRVVMY0NfbVpFa1hWRUx0c0VpclVEd2VNb3dscDNYZllUcnNKcG9PQXRKMzF2WDQ3MmhOOElrVk9TNXMxOWljcF9yX2Vrb2pwbjE2X3ZFbWR6LXNyeVVabnRNNVBXTVRkMHVWR3pKLS1GdHJld19fMGtGY0FrUzlReWptQWhFZjRTbkRTWnFsNEZIem4zZ0VNVWluOFlXNTNTV2Z4NVV4WWhsR2x1em55SXRWbGFScXpnR0w5UWV5b09ZVzR6?oc=5",
      "sector": null
     },
     {
@@ -309,24 +323,6 @@
      "fecha": "2026-08-13T04:17:54+00:00",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT3hQZU14cG9VdThrTlhnYU0yczZsanRCRUFQNG4xdU9rczV1QVY2S3pqem1tWnVWcEpRWmQ1Mkc0aTV5c1o5Q1p3Wi1EdnRMYTZSb1VNeXVEQXRyRkJ2RzNMaWZmUUEzTk1KSVdUcGFGLWRoamxPa2ttUXRobkNpMEhtYXJ0TnFFZWFDTm1MaFNsc3dtVjVSTXAybUxzQzctTEF0QUcxb1BQb2VwbmU1VFp3em52bF9iSkdFRGMtSzJSMU1kQmh2eExDWUR3TkE4dEUyVlhOSmQyaVBPUzI3Z3lzdw?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "Delegada Sofía Cid refuerza despliegue y coordinación regional ante evento meteorológico en Atacama - Medio digital El Zorro Nortino",
-     "medio": "Medio digital El Zorro Nortino",
-     "fecha": "2026-08-13T04:17:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNVNwb2VIQ2lWUEl6V0dvRDM5M1BpdGxjS1J5M0xBbElsaHB6VDdoRnBPdU5ndFlfSnIzODB1ZHRiYTBDdFM3SXF4Vnp3a3VlMmlmM0gwanRhOFJTekNVZmJmSkpGTWlzT0UzR18ta1Jpa0pfdFFsUnRsWDRRYWl4S0ktUTBTRndXMmU5WWxGSWZER0VFRVUzMFdZcGtyNkJHMVpRYllRNFNLN3ZRcVpMSEpuQ1ZrT3o4dU9tQW0wRFRUbWJ4V090MjM4dFJzR3RJaWhDamN2WUYtSHpCSGIzdg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "[VIDEO ] Alerta en Tierra Amarilla: Crecida de quebradas en Los Loros y evacuación por desborde del Río Pulido movilizan a la comunidad y al municipio - Tierramarillano",
-     "medio": "Tierramarillano",
-     "fecha": "2026-08-13T03:28:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWl9XQjdMQUlYcDE5akhualdrYkF5VTVPZm1SMkNYN1FMLU9vUjhnTUxsdG1UZ0VkYWFoY3AxOEVNM0FndW5wT0s4VVFNM3ktdUxQMnVNa1ROSk5EOGJtd0Vlc0lyYUJhYjBnZjFjS0tTQWhYNU1iRTRzNnRuZDF0SXNXRnl1ZlVKQXdnVG9VTWlBdjhFY1M1R0JjN0Z1TGkxTDN0MzVVR0Z0OVduYm5tNHZXeDZHLUFwWWFKeHdJNkc2aXdUY2t4dWpybzRER1VYX0I1cmNNOTBDVjQ0N1Fib3NFU3hjelRiNnQ4eWRwNkJaN0ExOXFQQjRMNExqOWNTQ1hmOUtabm4wbW9GX2ExdVd3cw?oc=5",
-     "sector": {
-      "nombre": "río Pulido",
-      "lat": -28.15641,
-      "lon": -69.878
-     }
     }
    ]
   },
@@ -653,6 +649,13 @@
    "comuna": "La Serena",
    "noticias": [
     {
+     "titulo": "Nuevas inundaciones golpean La Serena y Coquimbo: qué puede pasar con las playas en el verano - Diario la Ventana",
+     "medio": "Diario la Ventana",
+     "fecha": "2026-08-18T16:21:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZk9jMXkxT2tiYWZvS0h4RDhSeG0yRGx0NGNaY2FPVmcyU3hJSThkSEZybFFTWE10SFFWR3NEYTNBakx5V2FhLVN1MWQ1RGl4Z0VDbEdzV0FEcmRKTXh5Y2J1alh4TkVJRnEwQ3M5dS1kVkRtczVOdU1ocmhiQk5Sc2FELV9mSXBraFpJcmZRT3hUNndWMG4tLWJERm1lR2lSSEl2ZlA4UV9XZC14bi1JdzJUOVRieFBhRGRFVUZOR2FKQQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "SENAPRED alerta por crecida de ríos, esteros y quebradas en La Serena - Mi Radio",
      "medio": "Mi Radio",
      "fecha": "2026-08-17T16:25:26+00:00",
@@ -713,13 +716,6 @@
      "medio": "VLN Radio",
      "fecha": "2026-07-31T20:58:36+00:00",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOWlnWGhUS2ZrSU1pam5NdUhnR3BfN0dzNG83c05YVnlBRVNNSVJYSXRmclFLRHhDTU11TE82S2IxRnJyc21pMUc1c0t6d2hzcWszT1RGZUNHWkh5Ump2LTV1QmlLN2lSVC1vV3dFNmIyYUE1dTEwT05LX3RDMzd4Y2pHUDkzWFNMS0doMU5ST001SnJEZElmSERneHJ5RjI4TXRqU0RVOEU1c2JCNGh4RU9CVm1udmtIelJCdlBOeUJ2MnJ4UWE0ajljNWZJTGpzY2dydERDd0F6NW0wYS0yOGVQaVFqanR1cUE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Restos de viviendas y un refrigerador: playa El Faro de La Serena quedó llena de basura y escombros tras sistema frontal - Canal 13",
-     "medio": "Canal 13",
-     "fecha": "2026-07-31T12:17:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUmJDaXpuY3NiQkFvdVBBcnR2Rm9EMlJpX2VTb2kzd1lmcXZlamt6ZE81MGtUY1lBeUdxNEhUZWZpbDJ2WURMcWIzdnpVTkc2WEVoOUR1dGVhZzQ1VDBmM2I1ZjViMmFKUXY3ZXExOG5ORkViSEVZMjVkeFVtT3JsdU1QUUtXVk55d3FFT1BpOW9aeGRFNGt3a2p4eU1zTWNyWlVKTHo4bmluZVEyYzRXVEdrZ0dtdXFQOWxoS1ZiaXljQdIBwgFBVV95cUxNUmJDaXpuY3NiQkFvdVBBcnR2Rm9EMlJpX2VTb2kzd1lmcXZlamt6ZE81MGtUY1lBeUdxNEhUZWZpbDJ2WURMcWIzdnpVTkc2WEVoOUR1dGVhZzQ1VDBmM2I1ZjViMmFKUXY3ZXExOG5ORkViSEVZMjVkeFVtT3JsdU1QUUtXVk55d3FFT1BpOW9aeGRFNGt3a2p4eU1zTWNyWlVKTHo4bmluZVEyYzRXVEdrZ0dtdXFQOWxoS1ZiaXljQQ?oc=5",
      "sector": null
     }
    ]
@@ -1408,6 +1404,13 @@
    "comuna": "Coquimbo",
    "noticias": [
     {
+     "titulo": "Las lluvias volvieron a complicar a Coquimbo: cortes de rutas y quebradas activadas - Diario de Cuyo",
+     "medio": "Diario de Cuyo",
+     "fecha": "2026-08-18T12:21:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2RvbjVSRzlMSUtZaUhmMGNLUHFTeU5QUXFRYlREV2hhWGlJSHk5V3dkSHdvZ0ZfQmMyd2RqdnhoYWx4ZXhQVXN4cDg5a3RwTmhnM3k2bkdRaEtJR1ZWcTZRb0ZyNGlLeGRHeTJKRVBmQnI4M05yUlJ6anVpQURqMWpENW5mMFFFY3c0ZDFpWTZZS2pTS200TW01cFFQMmFZWktyZzB3ZndLOWRzS2dLcHBjVFY0SDQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Lluvias dejan cortes de rutas, activación de quebradas y problemas de conectividad en la Región de Coquimbo - madero.cl",
      "medio": "madero.cl",
      "fecha": "2026-08-18T12:21:05+00:00",
@@ -1468,13 +1471,6 @@
      "medio": "elobservatodo.cl",
      "fecha": "2026-08-15T14:04:32+00:00",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYXJVczZGWnVPeXoxQzlpZThvUG9TekRIaERkQ2JUeWVsQmw2YnIzYzA5b1c5b2NNNWFUUzR3dHF0N2cyaTYyb3pXT25PU0Q2bGdlYVA0eThTUHFhY0J4T1ltMmtOWFFGS1NEeEhhb0V1c3JoaWNUSWFpVlFZWGtMX2VwR1VGalppbVR0MXFoWFpOUVVHRFVZM0hEX1J6ZElfWTh3bE94N1h2b05acnpsMndPWE5qTkpZb1JBNkQ5SXRFZ3RGTk5aOA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Región Coquimbo. 2 menores de edad habían quedado aislados por activación de quebrada - Serena y Coquimbo",
-     "medio": "Serena y Coquimbo",
-     "fecha": "2026-08-13T02:26:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS0RyUV8yeGZyYzdZbW9WS0ctejRYVEVxSS12QXdWMFpCdENpYnpmd1VsYWtEclhkVXNEdFJSQmQ0cTh1cGRIc0Y5U0h2MFU3YllYNUFqd0tzLUZaSExCdlktOHEtQ2tneC00ZjdWbWx3ZFlFdTRveFhVWGc4b3lHVXJEbTZidWw1Z2Q5TGxSUExyc1BBM0hORzFhN2JJdi16Nk9iS0ZUN2g1bW1iWkhnME1n?oc=5",
      "sector": null
     }
    ]

@@ -1,18 +1,18 @@
 {
- "generado": "2026-08-18T19:41:10+00:00",
+ "generado": "2026-08-18T20:51:29+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "08-08-2026",
   "hasta": "18-08-2026"
  },
  "totales": {
-  "alertas": 124,
+  "alertas": 122,
   "sae": 8,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 67,
    "AMARILLA": 48,
+   "ATP": 65,
    "ROJA": 9
   },
   "por_tipo": [
@@ -22,7 +22,7 @@
    ],
    [
     "viento",
-    29
+    27
    ],
    [
     "evento meteorológico",
@@ -190,15 +190,6 @@
     "region_link": "antofagasta"
    },
    {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "10-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
     "nivel": "AMARILLA",
@@ -226,6 +217,15 @@
     "region_link": "nuble"
    },
    {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "10-08",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
     "lugar": "Región de Arica y Parinacota",
     "region": "Arica y Parinacota",
     "nivel": "AMARILLA",
@@ -233,15 +233,6 @@
     "ts": "16-08",
     "comuna_link": "",
     "region_link": "arica y parinacota"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "08-08",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
    },
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -287,6 +278,15 @@
     "ts": "16-08",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "18-08",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
    }
   ],
   "evento meteorológico": [
@@ -483,7 +483,7 @@
   ]
  },
  "vigentes": {
-  "ROJA": 8,
+  "ROJA": 7,
   "AMARILLA": 6,
   "ATP": 4,
   "regiones_roja": [
@@ -498,7 +498,7 @@
    "fecha": "2026-08-08",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 5,
+   "ATP": 3,
    "sae": 0
   },
   {
@@ -574,39 +574,6 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de Atacama",
-   "region": "Atacama",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "10-08 15:12",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "11-08 20:32",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "12-08 02:45",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "17-08 18:38",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "17-08 22:25",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Tarapacá",
    "region": "Tarapacá",
    "sae": true,
@@ -635,6 +602,39 @@
     {
      "nivel": "ROJA",
      "ts": "18-08 19:30",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Atacama",
+   "region": "Atacama",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "10-08 15:12",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "11-08 20:32",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "12-08 02:45",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "17-08 18:38",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-08 22:25",
      "estado": "VIGENTE"
     }
    ]
@@ -734,29 +734,6 @@
    ]
   },
   {
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "region": "Libertador General Bernardo O'Higgins",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "08-08 16:03",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "13-08 18:35",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "18-08 08:53",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Biobío",
    "region": "Biobío",
    "sae": false,
@@ -821,6 +798,29 @@
     {
      "nivel": "ATP",
      "ts": "17-08 18:57",
+     "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "region": "Libertador General Bernardo O'Higgins",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "12-08 21:59",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "13-08 18:35",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "18-08 08:53",
      "estado": "CANCELADA"
     }
    ]
