@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-18T21:51:13+00:00",
+ "generado": "2026-08-18T23:52:25+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -330,6 +330,20 @@
    "comuna": "Huasco",
    "noticias": [
     {
+     "titulo": "Alcaldes de la Prov. de Huasco entregan balance de las lluvias y sus principales afectaciones - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-08-18T20:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzRCQ2lOcGxLREotWnhtX1JJNk1fOEhvLTV5VFYyNko3YVhsV0l2Sm1qSm40a1U2Q0J3TnhabWd2R1ZtTTFkbElRTDlSMldJMVpuM3BHc2tMNmxOejVjX2d0ZnNKVHFuNHQ2T3dYMG9EbF8zVWs4MXpuSmFnVzBlWDdPdV9PVWNFb1RYWGd5ajFwYnYxalBoMmpYLUZLR1J1LThWRGxvdXk3LVVXTlZKU1U3ZFREM3QyUnZr?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Provincia de Huasco: Carabineros reforzó servicios preventivos por sistema frontal - Medio digital El Zorro Nortino",
+     "medio": "Medio digital El Zorro Nortino",
+     "fecha": "2026-08-18T19:16:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcXNCdVprYWJkeG5BdWFVZlFxOHhaZEhQZF9Hd2JqTkhWQXNkUXhfUUZrWVdOTGxQaWhsTEJpSzJ5ZERGdHpPdzd2TzNIZkc1SUVWTWxfblJIbjRrT1RPT3Y3bUU2WGxaUU9KQ0ExNl84RWRkNThpTkw3MVlMSDMyZzEtSDNyVGFhalpyVGpIZUdzc3dRaktDR0Q2a0t2NG9XN1JJNjlQQ2tVNGRIdmNQSFJfbWMxNzZTeUc1ZXlBbkU?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Alertas de evacuación, crecida de rio y activación de quebradas: Los efectos del evento meteorológico en la región de Atacama - Medio digital El Zorro Nortino",
      "medio": "Medio digital El Zorro Nortino",
      "fecha": "2026-08-12T17:41:48+00:00",
@@ -383,20 +397,6 @@
      "medio": "Medio digital El Zorro Nortino",
      "fecha": "2026-07-25T04:13:49+00:00",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVG9pMGRkcEMzSkExaUc5N3o5eGFFejBlOF9DUXV4MXZ3VjMtZlpqUXgtQVdsNUxVQ3VpdlI3aVVTYkFjM3QtNnJHM3M3b1BHTjhFNkJKN3VPazdsbTY0dmMzSGVlWDhOSk5fRVgtMk5fa2phSDZJbzVGbXRJSllpLU42OXZZSnZMVGhyMkFycFpHUHpudDhybEFVTC16azFaSTJJY3pnVUVHenI1NkhoaEU4RzBwTmM5NDYwcm1QVFhpUHBfRnlrUFRIZGsyMjlnSXRoM3N0b0l4TkdINERyQ1AtWkNsVWdkakJZ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Decretan Estado de Catástrofe en Tierra Amarilla por activación de quebradas y cortes de ruta - 24horas",
-     "medio": "24horas",
-     "fecha": "2026-07-23T17:57:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWUp0LXZNa0h1cXl1ekI1bFZhWW1sa3BkUU9NV0l4eXdhOVpTM0RPSWRhSFRzVTZlN1ZFeG9CLWdWZFNINTFjYXYzU2hlc2FiOHY1ZHZDV2F6bXBGVXNEekJjeUs0MU5JQ2Rzdk1xVVJVWml5TWFBemlWX0tNX204Z3NkTkUyNDROaFRDbUhGeUozYUdBbExiNkE3OW9zeDZFZ2FjREFGZGVmdUlU0gGyAUFVX3lxTE5HQnp4Q3pBWWtWUmFOS0wyS1dGM1Nwcmg3U1ktemVFR1FQQnlqd294aUI2VzBQbXlEUjRmZ0tfbTFDMHdZQjVTbnJBNnpjSUxZam84elVFcktoS0pvRnRlbWhOYjZXZXZma1ZHM2VPUFl0VFZpX3hkaklKQUVRejhlUXQ5bDZNVjRwaVdDRjRvWDAwV2F1TkRGblZ4SUxPbjlmUUhKVDJVS2dRa2llQ2lPZlE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Gobierno amplía Estado de Catástrofe a Tierra Amarilla por cortes de ruta tras activación de quebradas - La Tercera",
-     "medio": "La Tercera",
-     "fecha": "2026-07-22T23:48:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYU83NmNxVkV1aDFhTFJUbExJRWZ5OGZ0QnNlb2lXcm15T0ExN2xFT1RuYTFYNnhCeTR1OVRkd2t5N0loUlFubzhaaWd2UE9YWElrOUJoTGp5LW5IVGZNaXVkMjBRRFJ1VnBuRGNRb1NJbWhLLUM2cGpDaGxMTk5FdElDVGJjSWNKNDZqOUJONkgtZ1YzUHJZckNCcmlQUlItX0paZUFfOWx5dTBMZkp0SEpwYnc5Sk01Ty1icG9GdllkLXZuR3FQWHpkSFNFWGpNMEtZRDVvMzVmSmdXU3BJ0gGAAkFVX3lxTFBzNFV6a0htSy1uWXJTZlhyM19SMGIwRS1wczhsS3YtemVVS0lzYm02ZkY0UUFtLVZKa1JPcklqdHQ0RmU3UFBELUNLbENEX3BqaXZ6ME5TaWxaUmE4alBGMmdiLU9QOElCMGc4czZNQ01kNm1fZTZKVzhBMjJvTS1nbEVSRUhfeVFFd0NhaXNQbUhJOXVWT00wR0lEalN3LUFZWWQ4OGgtblNfeFk4c2VkZVpJSjhwWkNPWGJLOU0zME1qYWxiV1pWRkY4bXAtUGpYNVBaeENKRzZOODR5MjJMS1pJUzVhWnJyYkJ5N0czMjBzTlZVUGVfNWoyNi1JaWs?oc=5",
      "sector": null
     }
    ]
@@ -480,6 +480,13 @@
    "comuna": "Copiapó",
    "noticias": [
     {
+     "titulo": "Senapred ordena evacuar sector Paposo en Taltal por activación de quebradas - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-08-18T18:57:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOajd4aGNKYW1DMG14cEhHc0NOVi0xWS1QUDJOS3dpam4tM0hacGhvbjZrYnZvN1QtTWRkSHlqcWZ2aTNFVnlkT0VnTGlCUDZ1c0NObWpyMkVoMTluZkpHUldncjhaTExqYUtBWWVXZzZkT1hJQl93a3dmeGsycTVIcFBROGFram1EZzRuYXc0TmJnc0h0UEg0TzhEcl9VS0ZianFwMTByeHBfcXo3UEJzc1locWhMVkYySDJ6X09sUUdIMnltZjJUYlQxRV8zWTYxR04wX2JzSEpzaWFzUlNJbTdvSVlTdw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Atacama en alerta: Suspenden clases en todos los niveles y habilitan albergues por sistema frontal - Tierramarillano",
      "medio": "Tierramarillano",
      "fecha": "2026-08-18T03:40:33+00:00",
@@ -540,13 +547,6 @@
      "medio": "SoyChile.cl",
      "fecha": "2026-08-14T15:30:29+00:00",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnpWTk9NTzFLNElZeVZaakZpWERCd3pNY29YQ0VKSWdra1pyS29FQjVTUGpTSzYwUEZfQkwyWGQxZW1ncngxTGJPUG0xS1E3dGk5QVNnTGlha3hxU0dKdnRuS0djUHRLN1MxNWJiQTVEMzQ4Qi10OHJrVWlTQ2JidjlBSHZOQ2hVbGc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Impresionante crecida del río Copiapó: la curiosidad que desafió alerta para evacuar - soychile.cl",
-     "medio": "soychile.cl",
-     "fecha": "2026-08-14T14:02:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFU3cmRJQUV6R1UtY2oxdDhlQnhMbFA1VGI0ZlpXckRRdjBwaVM4NTZ6TzM3d1FCMTJzNGhKVVpqR3E1R0twUVYzWXN2bVpDZGxyTHEtLUJ2QlNIQnhlNTI0bG56RUJtOXFiWUdVMVlOc1ZMWW9WaFo4c2hhX09sTEd0b203dUhpZVE?oc=5",
      "sector": null
     }
    ]
@@ -807,6 +807,13 @@
    "comuna": "Freirina",
    "noticias": [
     {
+     "titulo": "Alcaldes de la Provincia del Huasco entregan balance de las lluvias - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-08-18T20:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOMzhEYS1PQTg1Y3lGaklobC1SQTNZcmV6TWk4QThkMVZyWURHMk8xRjFhREVNaV9kOTFCSnJmXzJtTzVHSEtJazJQcHdWQTVneFZoTk5maWV0ZWtWX2dIV3BwVUdpR25mT1N0Q0RfWlJheVAwTWt1b2QxNVlnaGlnZ1EtN21RQ0ppNmpWcmVFQzYwVXRlc0FuRENWWDhiT3NlNEYyWktXWWk3cVZ5RTRPcXlSZEk5ZFlIRHZpVktkWTlDZ1p0UHlsWUpncW8tc3ZFZTU2ZVAxMWgwQ2pyV05hVkFrZmdmZUxCaWJnY0d3bzkxeUdjRXQzeEtxc2lhRkY0bWhia3JKUS1hQXpNZlhaY0lBUzh5QW83c2RKVEhYc04ySUZYUjJwTmp3SFlXbWxkM1dhQ0VZUFlmQmE1ZERiQWRvZk94VDFTeUVUcmlzT0FETzlCUnNWWndTQUdKVmFKbEtMVVdET1huOXFtbXljTg?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Aluviones y casas al borde del derrumbe: Los impactantes registros que deja el sistema frontal por el norte - Chilevisión",
      "medio": "Chilevisión",
      "fecha": "2026-07-21T17:11:05+00:00",
@@ -867,13 +874,6 @@
      "medio": "Atacama Noticias",
      "fecha": "2026-07-20T11:28:50+00:00",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS1JBVW9iRUtlTmJyUTloczFDcUFDNVhBQjZTWjNNRC1YeEpnVTRLWGZmbUVuNWx4Mlc4cm56VEtvRG96amt5ZzFVUmhtaEhXSm9uM0FVOUJ5b0lFam83ZXBmMmJBX1h0U3lIUmRmMlJkcXZMeEgzcURBbC1ISHBWcUlkMDhYOTBhQWs3aEtTeUJsX3VhNV9xN2lueHN1RzBBeDRDM18xald3UWtIWTdmTnJqSTdZOUM0UWVxVVdWYWJ0Vk5Lc1pZLTl0VGo1TlpJV21xUFd2cnRHTzlSR0FDWA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Freirina sigue bajo la lluvia: suspensión de clases, inundaciones y evacuaciones por riesgo de desborde del río Huasco - 24horas",
-     "medio": "24horas",
-     "fecha": "2026-07-20T11:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcG5uQ3JZUm9yR1BtZEpER0lPazlQRjYwWFRuR0p5MXZMSkpQVVlJSkZNWHU3RW40QW01d0otTW1rSXVNX2VKYTZhS0xmUS12UEE2d2M2NjN1U2J1RTdiWGNsTUpoQnVJWjdWYWNqQzExZEI1NjBPUUs3S3JJaEdtVElCdll0MTTSAYwBQVVfeXFMTmZ3REJmNjkwYko3ZUFKQ3JfRm1KSkRBeTJGUVJqcldCY0EtNEI1MzhlN0IwS0FXa3VtS3RuUHExd2ZhU0lTTnNyOThxREVZTXBuSkRpVTRKMTRvZV8wbF9XYk4wTHpYZ3BtYVFxNHppMEFpY2FmRGxhM01kNzZ0Y2FNMkVZRlhJV3NDa3Q?oc=5",
      "sector": null
     }
    ]
@@ -1254,6 +1254,13 @@
    "comuna": "Vicuña",
    "noticias": [
     {
+     "titulo": "Explosivo posteo de la novia de Benjamín Vicuña luego de que Mauro Icardi lo cuestionara como padre - Mendoza 24",
+     "medio": "Mendoza 24",
+     "fecha": "2026-08-18T14:45:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT09EeUhqY0ZjTzk0R0tqWHpOSFM1R2hZOEk5YVh1SUMxc1lUYmdXTkdaWkZwdTA0Z3p3N1doYzJhLThzYWN5dHJrYnA1dF9TaUdNQ0RYWGxGMnYyUWVpWEpSOU5RN2xkZzR2QWVFYUZPVk5hNW1pNEk0X3VMV2xVVGpFWl96Q05aMmRXNDdWV3BIMGVaSTJVZENiektuLTYyM3pRU0lhWV9ZdVM3RmpmLVJBcWw5Ni1xbG0zcWRRa2pjNC1EZ19zZGs5WWEzR0RlUFVEOVozQ3BQUQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Explosivo posteo de la novia de Benjamín Vicuña luego de que Mauro Icardi lo cuestionara como padre - Lmneuquen.com",
      "medio": "Lmneuquen.com",
      "fecha": "2026-08-18T13:38:33+00:00",
@@ -1315,19 +1322,26 @@
      "fecha": "2026-08-17T17:46:12+00:00",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYmpOMDJfYmowQ1g2dzhSUG45bHhteGRmbUNIUDViV01qVmxGV1FIampKcXlUUlR4MFplUTZnOTVGakNaaXV1VlFZZUhuYklxenJqeDFMSm1WcUkyRzdaeURXZ3dEZGQ2aUY2RXJkN1phaGU3V1ozd0xuZVFFOFNES01LSkZxVGdzVUcySzFWSGNSeUM4aFI5ZUxvZFpGb080cElzOVlYT3I5WE9XU2k3MEpiVl85Y1piSVZ2dVlIa2tkMGF5aVI5UWxRdURkdXh3eHZVb0I5Q3BJbTDSAe8BQVVfeXFMTnRYMU10N2ItOWo4MmpnazFkR3VoNzdkbEZJRTNqaVJRQ3NZNndFS0QyRWdsamJjbmhhaFJaYUNLbUNGZGY5VXRSeHRHSnZma25jRHV1SEloUEp0QXYzOEN2UTFoNkJWM0xiQkJFbktWcDZBRDBQcU91QXMzUVBMYXdmazdNbURUV3BISHRYQWlRNUhhUy03Nkx2R0FVeU5KTXgydUNWZVdiVWpxekVQMkc3WmpkNEFGeVFESWZMMTQ0QTFMUVo0SHV6TzlHOFlBRExrTnE0Y2p6a2lMUHN0ZTRlZ3NsNGlhOExCVlVQTmM?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "Localidades aisladas, activación de quebradas y otras complicaciones dejaron lluvias en Vicuña - Mi Radio",
-     "medio": "Mi Radio",
-     "fecha": "2026-07-21T17:37:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbHFzQzBibk9tRWhsSkVQb29XQmNpOTl5S1R6MHBFVTUyaENNYldfX3hLWVptSTFjZHBiWUVyclBfM0swLTJUdXhod1Y5QUE5QWNNYTNkUGo5ZXFyM2dTX2IwS3NmS2RyWm45TXZqRU5lTkhVZ3diNFp3UnhoTjBWRlZkXzlTbnE0RkY4OWpyS0Rzc3NveUQ2MEk0UnZ4WlRJcmFRanNiNS14X0JxU0FfVUZNN2ZkZWgwNlN1UDExSDdNY2VCaEJ0YmJR?oc=5",
-     "sector": null
     }
    ]
   },
   "caldera": {
    "comuna": "Caldera",
    "noticias": [
+    {
+     "titulo": "Emergencia en Atacama mantiene a 98 personas albergadas y sectores aislados por cortes de rutas - madero.cl",
+     "medio": "madero.cl",
+     "fecha": "2026-08-18T17:57:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWVEVlVEN0xfLTloMkhPUEd6cmZnOGNMV2U1N0g3RFAyYTFSZ2JfZ3RWZ081cFhGTTV0TWc1UDhKSnJIQVFHaXhDaWFXc2tRaE5rWFZpcmFaQ3V2alpNa1JtclVZdk5yYzlYZm5LajdOWnpLcWxWbS1GRTluQ0ZsVUJET1ZyaWV3OG5BamZDdHU5TlJRelJfbzFKbS1jeWxnd0dFTV9HbWlwYk5zdzBQS3d1RE4?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Atacama: 98 personas permanecen albergadas y se mantienen cortes de caminos por sistema frontal - Medio digital El Zorro Nortino",
+     "medio": "Medio digital El Zorro Nortino",
+     "fecha": "2026-08-18T17:26:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOUczZTg2czFlTWVySmtHcUdOR0k1bURLMkJHSGdrZms2MFVveXQ2VU55UE90OFZGUHd2RHlqSWZhV2otbkVlX3lZSWJ1TzRjeXRZMy1hV1hyZ1gtNFJWYnBSV1liOXNCRU9wQmpwY0d3alZnTDZHeFROV0k2eGF0OVdoSU5wUDBqeFNWQ2gtUUs2elN6NEw3OU56eUpnMVE2S3BRMkxoeFFySkxzSU9pRmJzX2lTN2JpUmZudmVKcjNoQnZXclp5RmoybG5Ebm1SX1E?oc=5",
+     "sector": null
+    },
     {
      "titulo": "Delegada Sofía Cid informa 98 personas albergadas y actualización de conectividad y servicios en Atacama - fmcandelaria.cl",
      "medio": "fmcandelaria.cl",
@@ -1382,20 +1396,6 @@
      "medio": "NOSTÁLGICA cl",
      "fecha": "2026-08-17T18:45:30+00:00",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1FUNnBDSFBuVEh4T21wWVpndExWUEZXTjh2TklZVjMxUDBqcFh5M2pPaG1NSlV6OHN0WW1TWUMwclg0TDA5NnF4N0tDOGx1QUwyZ0tPLUtfZ1RRWWVha2pRajQzNFJnakVvRzZ3VlFBMnY4OTNidDI3VEUxMHVxLUNnYzZYWWswVm8teXpiYU1oSjlndkt0YVJFbkoxWWR1Ynl2X29n?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Por activación de quebradas: SENAPRED llama a evacuar Puerto Viejo por peligro de aluvión - Medio digital El Zorro Nortino",
-     "medio": "Medio digital El Zorro Nortino",
-     "fecha": "2026-08-17T18:33:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNktFcC1Sa3RoVWJ4UVBNdFNmWUZqVWRkM0h6RGJDLW43Y2RFTE1YX2NzS2hmM0tTbW01Ny0xNWg3XzlnX20tVGFVS3h1Tmc4Y0t3aDN5aFdKRjlXZjhtZmN3cHI0NGVsZldMSFpOYlM2aFhJTEplUFJ1d3I2c21SRkRDbHhsU1F3QmdiQUcyZUxjcVZoQmtWWmVJclJuLUZmSDVjb1l0b0lRMTVpb3VtcWVfUDN1WWlVWFplWThSUnd3SVlIVEdMLWVn?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Remoción en masa se registra en Puerto Viejo tras activación de quebradas por precipitaciones - La Tercera",
-     "medio": "La Tercera",
-     "fecha": "2026-08-17T18:22:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYWpJQ3JuY1pOZmtNVVpnUndXSFBEaFBKazVadXJJRklHelVXRDNKMFgwcTlNaVFkY2FqOVhxYVBPV0NHaURyYkZlV0Z3OG45UWtiSVdWLW5PSTVwMmhXM0dJZjVNWDVkV3ZJcTFmTWpNNVBzT253bHB0MGRCZUtqUTdzZkhsSk11RHZVcF84QTcxRHZlaGZjSDZrY08wNnd1M0tjdWhlb3lLalVjX0VHWGdUN21ucGNkMHZCWk1qbDRtSWJydTUwRzE1TW4zd2YzUWxZ0gH0AUFVX3lxTE9qbEZSNzNJOVZZVzlJSjJ0RlA4X3A2eV9STllCM2RvZUJrcU54ak54VFlwNUdEdVRUc0hrZUFSb2lqYm5jVHZySmVmejdGa2FEbHZLa25xd0lmVkh5WXFZYUJPTFBSOUlqd2otUWVOU21UdHE2U3FBX3pYa0d3ajBOejRLVFd1bFNfcmdpdThlM3h4THB5VTBhbVd2MERMQ2FtR0tmcXh5YlgzQzVKOUE0UUc0R2NISENVSEJOSUFNRGpkcktOY1dFWTdBNGlKcU52S1VySE9uSzUzTUZPckpIcXlYcDhoMWtuTFhrMnk1czFSNkM?oc=5",
      "sector": null
     }
    ]
