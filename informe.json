@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-19T18:55:17+00:00",
+ "generado": "2026-08-19T19:31:32+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "09-08-2026",
@@ -11,14 +11,14 @@
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 60,
-   "AMARILLA": 47,
+   "ATP": 59,
+   "AMARILLA": 48,
    "ROJA": 12
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    69
+    68
    ],
    [
     "viento",
@@ -37,16 +37,16 @@
     3
    ],
    [
+    "nevadas",
+    2
+   ],
+   [
     "remoción en masa",
     2
    ],
    [
     "activación de quebradas",
     2
-   ],
-   [
-    "otros",
-    1
    ]
   ]
  },
@@ -394,6 +394,26 @@
     "region_link": "atacama"
    }
   ],
+  "nevadas": [
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-08",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "10-08",
+    "comuna_link": "",
+    "region_link": "maule"
+   }
+  ],
   "remoción en masa": [
    {
     "lugar": "Región de Coquimbo",
@@ -433,22 +453,11 @@
     "comuna_link": "",
     "region_link": "coquimbo"
    }
-  ],
-  "otros": [
-   {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "09-08",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   }
   ]
  },
  "vigentes": {
   "ROJA": 6,
-  "AMARILLA": 5,
+  "AMARILLA": 4,
   "ATP": 3,
   "regiones_roja": [
    "Antofagasta",
@@ -461,7 +470,7 @@
    "fecha": "2026-08-09",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 4,
+   "ATP": 3,
    "sae": 0
   },
   {
@@ -530,45 +539,12 @@
   {
    "fecha": "2026-08-19",
    "ROJA": 3,
-   "AMARILLA": 1,
+   "AMARILLA": 2,
    "ATP": 1,
    "sae": 2
   }
  ],
  "escalamientos": [
-  {
-   "lugar": "Región de Tarapacá",
-   "region": "Tarapacá",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "15-08 22:59",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "16-08 23:41",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "17-08 19:21",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "18-08 14:33",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "18-08 17:38",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
   {
    "lugar": "Región de Antofagasta",
    "region": "Antofagasta",
@@ -609,11 +585,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "ROJA",
-     "ts": "11-08 20:32",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "AMARILLA",
      "ts": "12-08 02:45",
      "estado": "VIGENTE"
@@ -631,6 +602,44 @@
     {
      "nivel": "ROJA",
      "ts": "19-08 01:20",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "19-08 15:22",
+     "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Tarapacá",
+   "region": "Tarapacá",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "15-08 22:59",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "16-08 23:41",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-08 19:21",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "18-08 14:33",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "18-08 17:38",
      "estado": "VIGENTE"
     }
    ]
@@ -799,6 +808,15 @@
  ],
  "cronologia": [
   {
+   "ts": "19-08 15:22",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Atacama",
+   "tipo": "nevadas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14"
+  },
+  {
    "ts": "19-08 13:18",
    "nivel": "ROJA",
    "lugar": "Región de Tarapacá",
@@ -914,15 +932,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23"
-  },
-  {
-   "ts": "18-08 08:53",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-08-04-17-58-34"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
