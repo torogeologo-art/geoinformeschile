@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-18T23:52:25+00:00",
+ "generado": "2026-08-19T07:26:20+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -2360,6 +2360,13 @@
    "comuna": "Penco",
    "noticias": [
     {
+     "titulo": "Senapred solicita evacuar diferentes sectores de Tocopilla y Taltal por activación de quebradas - Meganoticias",
+     "medio": "Meganoticias",
+     "fecha": "2026-08-18T16:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeVZMamt0d0ZpS1dGOTlmdFRfajRtTzdaVXdzQTdsUXFwVVZESjlqaUtSMXdTWkFodk1ycV9BTkNlYWszQ0hETjV0QXdkN0dEckNtTHdPYnZ5WWRWUFJ6QXRkdnd4TEczNGpIaTJOVVJDOW1ic3pJWG5IMGZZakp2NU4yQ29kYzNLdWZWRllDdUtHeVRyQ2tGYm1pVHNRQjhLbXBWdVlqcGoyQjZhT28xaFFVT0JnNGVocEgtcms1anV4cVgxNEVxRXRTRmVISFZRZ3JoWWc2YkMyTEVDRU85X2ZlUXNpVTFvRDdNcERhRXc3SnlhN21PeTZR0gH_AUFVX3lxTFB6X2xUYUtyNFRnSEktVEpGQnJzb1lhV1VEczE1TVhTeEhUM2FIbjl6N0pJOTNtc1djZ0p5UDFtWEE2eDlSYWc5ZVVLQnlrMlFLX1lBZjZCYy1QbTMxQnpGSkx1ajBTMmtFM2FseVRhbjUwVVdmdVR1YUN6UHI4RE1VamN5c09raHdhVXlzNk5xSThiajMxbjJKb2wyNFV4U3lWWk8tWGdsOTJ1b3RPemc0TXpHSjBMTllhUHVEdEU4WHByQU1FMEpyeWNVOE9XRmVBUWg2Z2kwWTktS29uQXBNQ3d2SldKalNGRmk3cFRxZFhGUk9Qb2ZQWHhDMGFrNA?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Usan sensores sísmicos para prever aluviones y deslizamientos - SoyChile.cl",
      "medio": "SoyChile.cl",
      "fecha": "2026-08-05T12:51:49+00:00",
@@ -2420,13 +2427,6 @@
      "medio": "DUPLOS.CL",
      "fecha": "2026-08-02T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGh2NGlGWk5jREoydXdYM25LYVJSb0tTSFpiN0NRdjMzUlJlZVdhbVRJWDVwRzQ4UFZjRkRkUlBEM0x1dG1lWHRMckRiVUtDVHVPU0RtS01kNDNJcHYydEFwSjl4TnRqbUpNX2tDbmpYVDBDNEZpTmFVc1A1ZGlacDBTT1lvQl83S2xwNGlfcDAtRVQ0anc0QmhqNjZYR1E1ODRHT1BvQlU0WnM?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Puente Chacao alcanza 66% de avance y finaliza construcción de sus tres pilares: ¿cuándo estaría listo? - DUPLOS.CL",
-     "medio": "DUPLOS.CL",
-     "fecha": "2026-08-02T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSnotRXZoZ2tSVU9iTWdFZHhLeUdlMFR0WXN0SDlNcm5QZXU2YjZmdXo4dzN2cWxudHZPVFBjUG5iYmozTm1SRDJabS10bUhsRjJmZkNpRHFXOVFEbjRkbDhoZWpteUJnck51em8wY2VNN1FlQUJ4TGg2WVVGOENqbmdsTkdIYXRSNXh5bWhfS2owOHhHb2JHR0xtTFM?oc=5",
      "sector": null
     }
    ]
@@ -3197,6 +3197,20 @@
    "comuna": "Diego de Almagro",
    "noticias": [
     {
+     "titulo": "SENAPRED emite alerta de emergencia para la comuna de Diego de Almagro por riesgo de aluvión - Medio digital El Zorro Nortino",
+     "medio": "Medio digital El Zorro Nortino",
+     "fecha": "2026-08-19T03:05:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMTdyRVRIcmVnbk9iTUI0ZEdwQW5CdnpzLWszTjB6VlpPeTNpdjBjcXlETUQ0aTAxT0NpNW5DT3VhaTQ4WTA4Wkk5bzBrWkZRSmp1VEJ1bzJvTzdlWTU1WFR1dnJDdWF0ZkZrQVhrSUMwY1pjOEJPOTlBX0xMcEdvVzhJZ0ozaEJKQ3BCZEdaWnVxT1hPYzJQb09KOUlJZnJ0QmJ3NmdOTmN2NHZ1SlN0bjVFLTMxNHI4RklTRzF5OHUwUmNjbGR1Rmd1YUp0YUk?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred pide evitar quebradas y pendientes fuertes en Diego de Almagro por peligro de aluvión - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-08-19T01:07:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRjVuWHNmaUk5OUpQWFVYQTdnVVZVOHpDTnN5ZVhHWE9rMFBPeWo5aXUyWlJKem9BOEtIUHlEcGt0aUltd2VMVmVfRkxSOGttV0hTQWdfZjZaZkwyZTR0OFBUSy1UcUtQc3hscWJxT01TVjdPWTIybGNHTG5NUGVOSEVNc2ZrMEViVVNyaS1hS0NGb3NrRFNHelRIWHJYX25SOVBrbnRjZmc1bDduc18zZVJxalJvUnlid3Y4bnEyMGFqbTcyNjZSVnZmYWl4R2JHUUJEVnFlYmVWdmloUmQxeldaS1I5T1R6X1dzREpjMEZ1dE5mNUhseHBR?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Minuto a minuto | Aluvión provoca estragos y destruye varias casas en la localidad de El Tránsito, región de Atacama - Chilevisión",
      "medio": "Chilevisión",
      "fecha": "2026-08-12T23:27:00+00:00",
@@ -3250,20 +3264,6 @@
      "medio": "VLN Radio",
      "fecha": "2026-08-12T14:21:16+00:00",
      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX0t2NzQxU0xCQ3k3R2xCRzh1YXMzLWNwa21zaE45Zm5jbHJQblRVQVh4ckFHSjNWVmlWdXZnbWNDWmstNXVaak5lYUs5ZUw1OEh1b0VncGJEZ01aR0MwM3RIVERfaE04akxtd3RBVEZnaGdLM2xlVUNJNnlZTDA5aTBQOVZZV3JBeFZVWVpmQ25BdkJkb0Q3MGd3Sk5wQk1KQW1KZFJnSHI0SHI5RHhrY1RsQm8wMHhBeExiZEJJcnctRnNwQmV3Tlgtc1daSXVaVVliR0duSzF6MDJIVDhaaVdzWV8zRnhpNHM0VVI2NkREZw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred pide evitar quebradas y pendientes en Diego de Almagro y Chañaral por aluvión - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-08-12T14:15:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYUhUbldkc185dTBhUG1aRU9pTXFKQVdZZVlwVkU0eEwyOEowQWdLazZTMHFYOVBySElmbjZnV2FZYUxXUWM1TUJNTTNtWEg4YXZWcGlOeVhqS0hfSmJSaGprNW42Rk1wWTFYeDdMZWc2NGtiVjM2dHpvTkRjSTB5M0xoaC1NaFBVc0hRRFM3dkVYbTBGVnRKVFoyakhoU1BkekVIV3haMWpNN2lxR3hiaGd4TERmeUs4TF9XSDJiWmpGdG1rQi1QaFR4VlBLOEV4MVJheEVxT0t1NkpraEh4NElhbC1pQjRtTEhfU2gzTQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred pide evitar quebradas y pendientes fuertes en Alto del Carmen por peligro de aluvión - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-08-11T20:33:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMF93WWRMMU9oX2ZjY3YyNnc2dy1YbDh4d2praks4Y05qQlc5Rk1udzBIRkVDSDMzX3hMOWx0Wm5jeVd1SFN1YjFxSFAxMU9WYUVZazhLaGRTMGN2WkZtdWhQVmdfVk9rYWN1bFVaU25mM3pZdm5EOUpXTldOYVdvQXY5WEhTaHR2dXNHa211Y0FVT3MxdEQzbm5DSWNBVURlcUpaWXRqRnlQbXduanFfeVNRaXgybjdRWVhFRjhISjdab21lWUU2ZDRMN2lmZTM0X1VmRjhMcWRUMEdIcUpNWkRwVlA4VlRYRmNzcXh0U2VUZ29RNDcweQ?oc=5",
      "sector": null
     }
    ]

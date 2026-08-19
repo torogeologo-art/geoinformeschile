@@ -201,5 +201,9 @@
 "sectores caleta totoral|atacama": null,
 "sector paipote|atacama": null,
 "sectores caletas san marcos|tarapaca": null,
-"sectores zofri barrio industrial|tarapaca": null
+"sectores zofri barrio industrial|tarapaca": null,
+"sector coloso|antofagasta": {
+"lat": -23.69712,
+"lon": -70.42208
+}
 }
