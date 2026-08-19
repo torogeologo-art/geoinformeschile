@@ -1,17 +1,17 @@
 {
- "generado": "2026-08-19T14:47:04+00:00",
+ "generado": "2026-08-19T15:38:19+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "09-08-2026",
   "hasta": "19-08-2026"
  },
  "totales": {
-  "alertas": 119,
+  "alertas": 120,
   "sae": 10,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 61,
+   "ATP": 62,
    "AMARILLA": 47,
    "ROJA": 11
   },
@@ -22,7 +22,7 @@
    ],
    [
     "viento",
-    26
+    27
    ],
    [
     "evento meteorológico",
@@ -458,7 +458,7 @@
  "vigentes": {
   "ROJA": 7,
   "AMARILLA": 5,
-  "ATP": 4,
+  "ATP": 3,
   "regiones_roja": [
    "Antofagasta",
    "Atacama",
@@ -541,7 +541,7 @@
    "fecha": "2026-08-19",
    "ROJA": 2,
    "AMARILLA": 1,
-   "ATP": 0,
+   "ATP": 1,
    "sae": 2
   }
  ],
@@ -809,6 +809,15 @@
  ],
  "cronologia": [
   {
+   "ts": "19-08 11:10",
+   "nivel": "ATP",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-rio-verde-y-punta-arenas-por-viento-2026-08-16-16-32-13"
+  },
+  {
    "ts": "19-08 01:29",
    "nivel": "ROJA",
    "lugar": "Región de Antofagasta",
@@ -924,15 +933,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-07-12-18-52-58"
-  },
-  {
-   "ts": "17-08 22:49",
-   "nivel": "ATP",
-   "lugar": "Región de Valparaíso",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-08-14-14-54-33"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
