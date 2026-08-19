@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-19T13:11:18+00:00",
+ "generado": "2026-08-19T13:59:47+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
   {
@@ -12,17 +12,6 @@
    "lugar": "Antofagasta",
    "url": "https://t.me/SenapredChile/1554",
    "ts": "2026-08-18T23:54"
-  },
-  {
-   "nombre": "río Pulido",
-   "lat": -28.15641,
-   "lon": -69.878,
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "sae": true,
-   "lugar": "Tierra Amarilla",
-   "url": "https://t.me/SenapredChile/1517",
-   "ts": "2026-08-12T13:24"
   }
  ]
 }
