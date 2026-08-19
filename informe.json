@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-19T21:31:40+00:00",
+ "generado": "2026-08-19T22:02:21+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "09-08-2026",
@@ -11,8 +11,8 @@
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "AMARILLA": 48,
-   "ATP": 58,
+   "ATP": 59,
+   "AMARILLA": 47,
    "ROJA": 12
   },
   "por_tipo": [
@@ -22,11 +22,11 @@
    ],
    [
     "viento",
-    25
+    24
    ],
    [
     "evento meteorológico",
-    9
+    10
    ],
    [
     "crecida de río",
@@ -190,15 +190,6 @@
     "region_link": "antofagasta"
    },
    {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "09-08",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
     "lugar": "Región de Ñuble",
     "region": "Ñuble",
     "nivel": "AMARILLA",
@@ -224,6 +215,15 @@
     "ts": "16-08",
     "comuna_link": "",
     "region_link": "arica y parinacota"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "16-08",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -316,6 +316,15 @@
     "ts": "17-08",
     "comuna_link": "",
     "region_link": "los lagos"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "19-08",
+    "comuna_link": "",
+    "region_link": "atacama"
    }
   ],
   "crecida de río": [
@@ -458,7 +467,7 @@
  "vigentes": {
   "ROJA": 6,
   "AMARILLA": 4,
-  "ATP": 3,
+  "ATP": 4,
   "regiones_roja": [
    "Antofagasta",
    "Atacama",
@@ -469,7 +478,7 @@
   {
    "fecha": "2026-08-09",
    "ROJA": 0,
-   "AMARILLA": 2,
+   "AMARILLA": 1,
    "ATP": 1,
    "sae": 0
   },
@@ -540,7 +549,7 @@
    "fecha": "2026-08-19",
    "ROJA": 3,
    "AMARILLA": 2,
-   "ATP": 2,
+   "ATP": 3,
    "sae": 2
   }
  ],
@@ -585,11 +594,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "AMARILLA",
-     "ts": "12-08 02:45",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "ROJA",
      "ts": "17-08 18:38",
      "estado": "VIGENTE"
@@ -608,6 +612,11 @@
      "nivel": "AMARILLA",
      "ts": "19-08 15:22",
      "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-08 17:50",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -808,6 +817,15 @@
  ],
  "cronologia": [
   {
+   "ts": "19-08 17:50",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-altas-temperaturas-2026-08-19-17-52-10"
+  },
+  {
    "ts": "19-08 15:40",
    "nivel": "ATP",
    "lugar": "Región de Los Lagos",
@@ -923,15 +941,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
-  },
-  {
-   "ts": "18-08 12:19",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Atacama",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

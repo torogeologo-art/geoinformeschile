@@ -1,13 +1,27 @@
 {
- "generado": "2026-08-19T21:42:40+00:00",
+ "generado": "2026-08-19T22:02:17+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 13,
+ "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "4032e9f3b6e5",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Atacama por altas temperaturas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A435 Altas temperaturas en litoral, cordillera de la costa, valles, pampa y precordillera. 20-08 21-08 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por altas temperaturas , vigente desde hoy y hasta que las condiciones me",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-19T17:50:47.4747-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-altas-temperaturas-2026-08-19-17-52-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "1f52666dfec2",
    "nivel": "ATP",
@@ -1955,20 +1969,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-23T08:21:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-molina-y-curico-por-crecida-2026-07-18-02-08-20",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "085c71be4673",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Antofagasta por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se ha cancelado el siguiente alertamiento meteorológicos para la Región de Antofagasta, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A320-8 Viento normal a moderado con probabilidad de tormentas de arena en litoral, cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera de la región. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Antofagas",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-22T22:27:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-07-12-14-52-02",
    "origen": "senapred_web",
    "regiones_extra": []
   },
