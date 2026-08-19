@@ -1,13 +1,45 @@
 {
- "generado": "2026-08-19T14:46:43+00:00",
+ "generado": "2026-08-19T15:13:33+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "63a5df538707",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que lo originaron. Alertamiento Pronóstico Aviso A427-1 Viento normal a moderado en cordillera austral sur, insular central y pampa patagónica sur. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por viento para las provincia",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-19T11:10:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-rio-verde-y-punta-arenas-por-viento-2026-08-16-16-32-13",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "f1b632b59ab0",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota. Alertamiento Pronóstico Inicio Fin Enlace Aviso A433 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 19-08 19-08 Abrir aquí Aviso A388-11 Viento normal a moderado en cordillera. 19-08 19-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED mantiene la Alerta A",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-19T10:50:40.4040-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
   {
    "id": "d8f76322084f",
    "nivel": "ROJA",
@@ -36,22 +68,6 @@
    "url": "https://t.me/SenapredChile/1556",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "f1b632b59ab0",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota. Alertamiento Pronóstico Inicio Fin Enlace Aviso A433 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 19-08 19-08 Abrir aquí Asimismo, debido al debilitamiento de las condiciones que lo originaron, han sido cancelados los siguientes alertamientos meteorológico: Alertamiento Pronóstico Enlace Alerta AA139-1 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas.",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-19T01:09:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
   },
   {
    "id": "0229bac32d48",
@@ -237,22 +253,6 @@
    "url": "https://t.me/SenapredChile/1538",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "d4430f3a7c63",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A427-1 Viento normal a moderado en cordillera austral sur, insular central y pampa patagónica sur. 17-07 18-07 Abrir aquí Por otra parte, según lo señalado en el Pronóstico Especial emitido hoy por el Centro Meteorológico Regional Austral, se pronostican las siguientes intensidades de viento: •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vi",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-17T14:32:09.099-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-rio-verde-y-punta-arenas-por-viento-2026-08-16-16-32-13",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "fa9c24f6a4f6",
