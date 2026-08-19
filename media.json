@@ -1,6 +1,54 @@
 {
- "generado": "2026-08-19T10:47:45+00:00",
- "desde": "2026-08-17T10:47:43Z",
+ "generado": "2026-08-19T10:48:40+00:00",
+ "desde": "2026-08-17T10:48:38Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "FG1K56dpSI8",
+     "url": "https://www.youtube.com/watch?v=FG1K56dpSI8",
+     "titulo": "Lluvia intensa golpea a Antofagasta: Calles anegadas, cortes de luz y riesgo de mayores inundaciones",
+     "canal": "Meganoticias",
+     "publicado": "2026-08-18T14:02:41Z",
+     "live": false,
+     "score": 4.27,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Gtf_ZE0k0Og",
+     "url": "https://www.youtube.com/watch?v=Gtf_ZE0k0Og",
+     "titulo": "QUEBRADAS ACTIVAS: La inusual lluvia que afectó a Tocopilla y Antofagasta - Contigo en la Mañana",
+     "canal": "Chilevisión",
+     "publicado": "2026-08-17T18:51:11Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "s11ZcXvn4tU",
+     "url": "https://www.youtube.com/watch?v=s11ZcXvn4tU",
+     "titulo": "Hostal Sol del Norte",
+     "canal": "Milenka Cordero",
+     "publicado": "2026-08-18T20:25:10Z",
+     "live": false,
+     "score": 6.8,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
