@@ -1,13 +1,27 @@
 {
- "generado": "2026-08-19T17:04:48+00:00",
+ "generado": "2026-08-19T17:32:17+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "0acf041b831b",
+   "nivel": "ROJA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la Provincia de Iquique y comuna de Huara por evento meteorológico",
+   "descripcion": "Según la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-11 Viento normal a moderado con probabilidad de tormentas de arena en pampa, precordillera y cordillera. 19-08 19-08 Abrir aquí Aviso A433 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 19-08 19-08 Abrir Aquí Asimismo, ha sido cancelado el siguiente alertamiento meteorológico, debido al debilitamiento de las condiciones meteorológicas que",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-19T13:18:39.3939-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "d8f76322084f",
    "nivel": "ROJA",
@@ -84,18 +98,17 @@
    "sae": true
   },
   {
-   "id": "4c8086700652",
+   "id": "d76ab7cde680",
    "nivel": "ROJA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para la provincia de Iquique y la comuna de Huara por evento meteorológico",
-   "descripcion": "Según la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para el sector costero de la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-9 Viento normal a moderado con probabilidad de tormentas de arena en pampa y precordillera. 17-08 18-08 Abrir aquí Aviso A424 Precipitaciones normales a moderadas en litoral, cordillera de la costa, pampa y precordillera. 17-08 18-08 Abrir Aquí Aviso A433 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 19-08 19-08 Abrir",
+   "tipo": "aluvión",
+   "titulo": "¡ATENCIÓN!",
+   "descripcion": "¡ATENCIÓN!     \nPor peligro de aluvión se solicita EVACUAR sectores ZOFRI Barrio Industrial y Marinero Desconocido en la comuna de #Iquique, Región de Tarapacá.      \nPara reforzar los procesos de evacuación #SENAPRED activó Mensajería #SAE.   \nMantén la calma y sigue las indicaciones de las autoridades y organismos en terreno. Al momento de evacuar recuerda considerar a tu mascota y sus necesidades.       \nMás información en: https://web.senapred.cl/dimension-animal/",
    "region": "Tarapacá",
    "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-18T17:38:38.3838-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43",
-   "origen": "senapred_web",
-   "regiones_extra": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-18T20:30:18+00:00",
+   "url": "https://t.me/SenapredChile/1551",
+   "origen": "telegram",
    "sae": true
   },
   {
@@ -2837,7 +2850,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por incendio forestal #SENAPRED solicita evacuar calles Arturo Prat y O'Higgins (Poblado de Camiña), en la comuna de #Camiña, Región de Tarapacá.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE. \nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\nMás información en https://web.senapred.cl/dimension-animal/",
    "region": "Tarapacá",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-07-17T19:40:26+00:00",
    "url": "https://t.me/SenapredChile/1291",
    "origen": "telegram",

@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-19T16:48:37+00:00",
+ "generado": "2026-08-19T17:32:20+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "09-08-2026",
   "hasta": "19-08-2026"
  },
  "totales": {
-  "alertas": 120,
+  "alertas": 121,
   "sae": 10,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
    "ATP": 62,
    "AMARILLA": 47,
-   "ROJA": 11
+   "ROJA": 12
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    68
+    69
    ],
    [
     "viento",
@@ -456,14 +456,13 @@
   ]
  },
  "vigentes": {
-  "ROJA": 7,
+  "ROJA": 6,
   "AMARILLA": 5,
   "ATP": 3,
   "regiones_roja": [
    "Antofagasta",
    "Atacama",
-   "Coquimbo",
-   "Tarapacá"
+   "Coquimbo"
   ]
  },
  "serie": [
@@ -539,7 +538,7 @@
   },
   {
    "fecha": "2026-08-19",
-   "ROJA": 2,
+   "ROJA": 3,
    "AMARILLA": 1,
    "ATP": 1,
    "sae": 2
@@ -809,6 +808,15 @@
  ],
  "cronologia": [
   {
+   "ts": "19-08 13:18",
+   "nivel": "ROJA",
+   "lugar": "Región de Tarapacá",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43"
+  },
+  {
    "ts": "19-08 11:10",
    "nivel": "ATP",
    "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -924,15 +932,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-08-04-17-58-34"
-  },
-  {
-   "ts": "18-08 00:07",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-07-12-18-52-58"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
