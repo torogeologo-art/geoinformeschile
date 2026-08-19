@@ -1,13 +1,41 @@
 {
- "generado": "2026-08-19T22:03:03+00:00",
+ "generado": "2026-08-19T22:43:25+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 14,
+ "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "4f8aba0e52d6",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A435 Altas temperaturas en pampa. 21-08 22-08 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por altas temperaturas para las comunas de Antofagasta, Sierra Gorda y María Elena , vigente desde hoy y hasta que las condiciones m",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-19T18:24:44.4444-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-08-19-18-26-25",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "223ca87e0ec5",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del complejo Volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarilla [1] . En relación con el Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, se indica que entre el 01 y el 15 de agosto, el Complejo Volcánico Nevados de Chillán presentó actividad sísmica de baja energía y reducida tasa de ocurrencia. No obstante, se registraron pulsos de tremor continuo de distinta frecuencia, sismicida",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-19T18:18:54.5454-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "4032e9f3b6e5",
    "nivel": "ATP",
@@ -709,20 +737,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-07T22:52:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-07-31-17-26-47",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "f259564e6611",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarilla [1] . En relación con el Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, se indica que entre el 15 y 31 de julio, el sistema volcánico mantiene una condición de inestabilidad caracterizada por actividad sísmica asociada tanto al fracturamiento de roca como a la dinámica de fluidos, junto con manifestaciones superficial",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-07T16:25:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1955,20 +1969,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-23T10:25:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-viento-2026-07-13-18-03-41",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "fd3506e10611",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para las comunas de Molina y Curicó por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica Río Palos en junta con Colorado , ubicada en precordillera de las comunas de Molina y Curicó, indica una disminución en su caudal , alcanzando valores de umbral verde . En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida para las comunas de Molina y Curicó, que se encontraba vigente desde el 16 de julio.",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-23T08:21:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-molina-y-curico-por-crecida-2026-07-18-02-08-20",
    "origen": "senapred_web",
    "regiones_extra": []
   },
