@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-19T07:26:20+00:00",
+ "generado": "2026-08-19T08:06:02+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -515,6 +515,13 @@
      "sector": null
     },
     {
+     "titulo": "Senapred activa alarma por peligro para comunidad en dos quebradas de Copiapó - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-08-17T20:43:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZWtsczdBeElDNnI1LWcxbkdPYldMcElfbXI0bmN6cVMxbExScGc2VDE5N0xTZmlPb2RmZGFWR0RqdUVxdFBWY3BabjJQdTE1ZTY0TDZBQ2lNT3pOcFE0WVplME5mLUNxcnJ4X2hjNHJqUGJ3RThtZmtPNkFScDA5RmlNUnRGZC1vbHM4?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred activa alarma por peligro para comunidad en dos quebradas de Copiapó - soy-chile.cl",
      "medio": "soy-chile.cl",
      "fecha": "2026-08-17T20:39:07+00:00",
@@ -540,13 +547,6 @@
      "medio": "madero.cl",
      "fecha": "2026-08-17T15:22:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSERVLTZfd0hNTk9qLXMzYlhiWnlSQW51c1dHZVByN2l1Sk1sdlNqd2tLcmdMQUQ4b2N5OFlvY05TZWlobGkzcUNJYUktbmpvZ1lHb1hPRURJdE93OGNaRGNfdVpTNmFQWWQtZWJjVXdJSk04M2FmbGxfSW1JNEludlF2TndaMEs5aW1oZm0yUk03bW1iZlV6Z0ZUbkwwSWlNRjVCcGxLdHNBQ2RHcHFfc1BjdlloUFV2QUdR?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Impresionante crecida del río Copiapó: la curiosidad que desafió alerta para evacuar - SoyChile.cl",
-     "medio": "SoyChile.cl",
-     "fecha": "2026-08-14T15:30:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnpWTk9NTzFLNElZeVZaakZpWERCd3pNY29YQ0VKSWdra1pyS29FQjVTUGpTSzYwUEZfQkwyWGQxZW1ncngxTGJPUG0xS1E3dGk5QVNnTGlha3hxU0dKdnRuS0djUHRLN1MxNWJiQTVEMzQ4Qi10OHJrVWlTQ2JidjlBSHZOQ2hVbGc?oc=5",
      "sector": null
     }
    ]
@@ -1329,6 +1329,20 @@
    "comuna": "Caldera",
    "noticias": [
     {
+     "titulo": "Lluvias activan quebradas y mantienen con alerta roja a Iquique y Antofagasta - G5noticias",
+     "medio": "G5noticias",
+     "fecha": "2026-08-19T04:48:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUdRRGRLaW5PUm9hSG5fckdIc3dDN0MxMFlJTFhVVDhmbkQ4YTlnSWZ5ZUJmcmNNMXZObUhwV1NIOENERU1ybm1seFplMTVNVlVPbG1jekpaRzBXRVNrYWNZR1VMZ3ptQ3d1M21nNHNtTUVpb2p5UFZCRjFqcGFfQmY2S1F6R0lrNUN5V05mdmExTGpNRDZERWxVejI2ZjVfbndOMDVwbTBjN1owNmFBMQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Problemas de conectividad marcan el balance del último sistema frontal - diarioeldia.cl",
+     "medio": "diarioeldia.cl",
+     "fecha": "2026-08-18T21:05:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcTR1LWFCZkFlNzlHVW1iVXdwSS1mSl8wQ2NUXzA3Nm1GcGtmemlUeDdPakdDRDEyVERRa2dhN1RkNW55b0lXdVVUMW5ma2liMW96MjlsTzVURVl0MkVRUjlsMnFFXzZ3aUZwbGkyLTBCWUpZQ1gxNE1RdDJzR0JTcVFoM2g3ME5hTkdLQnF1bUR3TldxM2xlekd2OXA5V1EweGRERWF6ZXFfYTZmOTRLVk02Ri1tMEg2LUw0UVd0ZGpBUQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Emergencia en Atacama mantiene a 98 personas albergadas y sectores aislados por cortes de rutas - madero.cl",
      "medio": "madero.cl",
      "fecha": "2026-08-18T17:57:37+00:00",
@@ -1382,20 +1396,6 @@
      "medio": "radiogennesis.cl",
      "fecha": "2026-08-17T20:13:17+00:00",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQajduWDBtaDlnaTdzbEU3WDlJSkRhdDlPVGpiVzJyaUJQSlB0aFdJUWhKN042SEJKM3lWcmstQmQ4VThwVVhrWGdSOFV2OEZUaHptVGRjSlA0a0w0NW5sS2dZb3k0WU41S2l2UEt1WE1mVkNCcHRfb082bldDOVlGWE5FdU1RMnRTM0h6WjI3Rnd4by1mS2V4ZFZuSGNUSlk5OTkzV25yT3ZWU3J4ZnAyaDBLYl9LaV9nYklnSUx3?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Ordenan evacuación de Puerto Viejo por activación de quebradas - Radio Maray",
-     "medio": "Radio Maray",
-     "fecha": "2026-08-17T19:28:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXZDVnVKNC1fNjRzLXo0Z0lTSGFkMC1xMDZrQ09WNm1HOWZDVG9oeURyb3phdGU3dldrLVlmLXhqRlBoX2pMTWNLZXhUMWktQmVCdERtQXdCeHV5anRWRklZYTQ1WjhrU21SYVRzX3FBc2lWRTVoM0RFTWZuaDFtb1ZzZUZkTkN2U3QtdGZONXk2ZlM2NVZ6N3ZJT1pVMGp3WHh5OFZR?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Evacuación preventiva en Puerto Viejo por riesgo de aluviones - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-08-17T18:45:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1FUNnBDSFBuVEh4T21wWVpndExWUEZXTjh2TklZVjMxUDBqcFh5M2pPaG1NSlV6OHN0WW1TWUMwclg0TDA5NnF4N0tDOGx1QUwyZ0tPLUtfZ1RRWWVha2pRajQzNFJnakVvRzZ3VlFBMnY4OTNidDI3VEUxMHVxLUNnYzZYWWswVm8teXpiYU1oSjlndkt0YVJFbkoxWWR1Ynl2X29n?oc=5",
      "sector": null
     }
    ]
@@ -3340,6 +3340,93 @@
      "fecha": "2017-07-08T11:54:16+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2JOeVFZYktiaUJZQ0dBQ1lVSS1FNTFKNURYeU1rNUVTcWlxam1WSG5WcWUzSmh2YUVrcTk3QzRZVVNDR1dQdDJib3RhTzZCaHNKUnNEejdlX0NkZkpRLXdDXzhDeFlYRkxpbWt4QlVXYUprZHRkclEtMDdYYTF1d0JUNVd4YW5UZXFxRkxrWFlCak5hQXJuZDFOUmFyNHRPVUo0OFFGTDZ0ZmYzY3otQnRjR2Y2ek050gHAAUFVX3lxTFAwXzRfaGYzTkhiVU92b1Z5MWZ2MVlCSnBtdGtDamJ5dktQMjM2WDBzYUVOVkdCNGR5NXVEY09uWTE5dnZfckZHLVNReENWUW02TFV2YXljZ0kzV0xsQUF3WW42SVV3TmdMUkxyZm1QZGVMTllOeHJkZlUxWlZESDlXeXdTNzNFRG9uajlrWU5EM2V5ZTgxNzA4TVpaYV95X2pCYlhYMzdtUEJYRjNLOXoyY1djOG5rNGg2ZXA3NllPTw?oc=5",
      "sector": null
+    }
+   ]
+  },
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "noticias": [
+    {
+     "titulo": "PRESIDENTE KAST VIAJA A PRIMERA HORA DE ESTE MIÉRCOLES AL NORTE TRAS DECRETAR ESTADO DE CATÁSTROFE POR IMPACTO DEL TEMPORAL - Vilas Radio",
+     "medio": "Vilas Radio",
+     "fecha": "2026-08-19T04:00:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNakJ0TVg2TXc2eVlPRWF6b3ktYVpMckhaTC1icW04aW11Yk1PQkZmQ0U3alVDV0ZrVWxOYjlfR1dENVFWelhEb2ZFY1pqS0pKUHRoVXAwbzNBcHZ3dkJxLXFXa2ZjNUpjb2ZNY0VNWmd6RGxWQzRYQUExRjZwOWhubEV6eTYtSEY1MjVMb00wQTd6eHRsVWhUUW5ubVRXVk5ZSXEtYVlGOWZzR0xjZFN6UGJ0clVvMWxWSlZLODJRclNUdHp5b05YR2RkcC1RRDNoNkMzZ1puQ0ZVTjRRU2w0?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta SAE: ordenan evacuación de sector Coloso en Antofagasta por activación de quebradas - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-08-19T03:22:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNakpJcUFld3ZtRzRSTmtYRlExTk5EWHJldTJkRUgyYTdxM01EM0pCLUIydmdhWXhfMWgwTlhqTWZjYnJpenZGa2hjSlRBUTk1SUNlVENpRzZQcElYV1RaVEVvZFZYbUdLUnJYcjA4WF9oYVJXNmxkcDFLZ3J0cFhaMmRqVEhTUDdBYUUzeVJB?oc=5",
+     "sector": {
+      "nombre": "sector Coloso",
+      "lat": -23.69712,
+      "lon": -70.42208
+     }
+    },
+    {
+     "titulo": "Pronóstico en Antofagasta: miércoles 19 de agosto de 2026 - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-08-19T03:12:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSnpDcml6RUhoeGF3WnZwUjdMdXFkMGNHTl9VOEo4azRJUm9wdmRzaUNCdHFBY283Y21ZQUxlYldLNG94TXFzalc2V3RGUmRmUmJ2ekdLVXJ1dHZvSm5Fc21sS2o3MUp3YWlRSVRndmhnWGZJR25XM2l5QnpBSXQ1dF9VdDFkSlF5OW1PS0FaNmpBcWt3c1pUd3czU19NeHczMlVZbzktb21ZV0xBUF9nc25hQXBodUZtVC11VGJmV3Y1T0E3THBwZGxIZWw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Presidente Kast prepara viaje al norte en medio de la grave emergencia por las lluvias en Antofagasta - El Dínamo",
+     "medio": "El Dínamo",
+     "fecha": "2026-08-19T02:26:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGpCTkpIejFZMGJFM3o3eV8xRDhZa0pKMHItYzFpQ283NWdfakdKdHZkNm5ielJ2OFcxanhpeUlJX0VEU2lVZnV5N2FwR0JoX2pyMW1VQWl5NDdUQkEtTVhtTjFKU3IzOEYtZnA0WURvQVQ2M2ZZY3VianJWLXM4a0RVXzhtWlk2eWs3bnNRakpSTHFKc1NhRTlPOXNUMUFEYXNQUmxtUWlOSGtpdnZEaVNDMnpMRm5QYWlXSA?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Por activación de quebradas: SENAPRED solicita evacuar sectores de Tocopilla, Antofagasta y Taltal - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-08-19T01:45:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdXZZOW4tVGwwdHI2anRlSjg3M1RhWHhFX1V4RjZ6M0dKV05QQzRFcnRIR1Z1dW1nRDNVTGlubFU2OUl2U0JxdmU0SG1JTnNGNjNnbEQyRWhraWxaRE1MZkkzWm5vTHFOblowLTJtNFhEeVVxLWJRcXlKVGI2ZFJON0ZNRndCaWZFNXRwQWxVR1JSNXFlMXZqT3VyWUlicGFJRE9rNS1lcUd0a0tZU1RBYkZ3RUxxWUxlUEhybG5lQ3FyTmQ0WU9TbUFTbjFkZjJZSExpNW5oeWJ2ei1nNVZMVnRFUlpKSkl3aDlKQg?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred pide evacuar sector de Antofagasta por activación de quebradas: hay una veintena de aislados - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2026-08-19T01:13:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdU5QSmlnVmJhZC1zNzE3ZzAxU0pLWk5GMGJxcnVCQ1hDZ3BKNGxyZnVZTVNfa2UyUERLa2NlQ0J2a1dTRDAzTlRua0Uwa1cyZFcyMWlVZTZwemk5QWZMYkkxejlSMnVFMFdxNEJvMkZFNGhBODR5R2dyOGFpc1VfR0F6SXNGRFZ0M1dkbVVKajgxOFpiUXZxdzRUU05mT25rSmZBX1dhd3ZadHE5YUwtSzlHSFk5OGozeS1vcjNBWlE3dFRyZzFMM205Mi01YnFFT25tWXhqRmFNWXVOYjl6Y2FsYUdYcmhfVUNmYjNPaW5BVUcwWmZwcF9MRjhVbWFKUzR1MzJOcHZUcE80QWVzdU53?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "\"Por activación de quebradas\", Senapred ordena evacuar sector de Antofagasta - Cooperativa",
+     "medio": "Cooperativa",
+     "fecha": "2026-08-19T00:33:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaEdLdUJ4MU5hbzU2c3hra3FZOWpEbm50N1RoclZ1YnREajNOZlljRVY2bTMxZkVIU1NMZUR6VnJBVUVBUmM1V1Bra3ZxVEJSdWFQRnplOUtGZDhxenpsNk5ISFZ6SEFURkFKUmtFLTRQSnNTZFN3elFnUDA1a0JqcDJvMkRNV3R5V0ZjQ1VoNFdxSF9LeG5uM2dLc25ONDNTSERhVFBXTGdoaHgtNHF1QklDQ1JUeGo2b3J0MU9BMllFWng4ZEd6bW1TdlpqUkgyME9jVlFvZ1ZOeFBNXzN3Wg?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Pdte Kast viaja este miércoles a Antofagasta para conocer afectación por aluviones - Infogate.cl",
+     "medio": "Infogate.cl",
+     "fecha": "2026-08-19T00:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT3k0WWRRYzhPYTFVYVlvYi1TdVc2OE1Bc2FjZFlkZU9ic3hqQ0pLV090V2VnR1BReGFFY3lJcm5Cb0JvU1ZVbnZWN2pqUUw0M2JEVW04OWNOVjVtMUdOdUZnSWctcmcwVjcxNFFWQXVXNWxJSmtqLWRESU9mSnR1T0hfd0xTWXdmck9IdW9nR0tsclNpanpsZ3RRTFczbUc1NEZiM0hZd3daQ0ZxaklRT0NOY3hFQQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta SAE: ordenan evacuación de sector Coloso en Antofagasta por activación de quebrada - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-08-19T00:04:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcGJyOHpOUlFDUmVMaWZsenJSZ3hpTmlGM2phS3hyOXJ1UkE2ZDdpSkZDN3B2MWlabk12enhSVkhrRFl0MUtlQ01qY1dFSkxJMHZ4a2dfb0E1SGVWSTVoS2RIUFVDdUg0MjFrSjNwQVByZU9VcDJSYV9GelZOd0NhWlBzYTVIWEV0c0VQeXFn?oc=5",
+     "sector": {
+      "nombre": "sector Coloso",
+      "lat": -23.69712,
+      "lon": -70.42208
+     }
+    },
+    {
+     "titulo": "Senapred ordena evacuar sector Coloso en Antofagasta por activación de quebradas - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-08-18T23:55:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd2NSblFSZTRkRWt6M2Jqak9idzI3S1VudURkaWYzVDJkOXpfLW1nWFV3NVJMYm5PclU4U2lNT3pHUTZFRTdxYktJMXNGVDJ5VGxwdmYxcUphVkFqRHhabFoxVXBoeDdyQ3UyNDE3VTI4Mk56SjBmcDRrVmF0UC13bnZaTFFHWTJNNnh1TFdPVVJrREJYbHJObVlaVjJZQWloelNjakVyZ0dTSDk3QU5UVFhjMzFoN3RWYnpkWXRta2QybVVKMXVwdkx1dXBLZHE5S2h3RG5tNmtMMWxCcXB5c1k3Sy0yWWxiWXA0Tg?oc=5",
+     "sector": {
+      "nombre": "sector Coloso",
+      "lat": -23.69712,
+      "lon": -70.42208
+     }
     }
    ]
   }
