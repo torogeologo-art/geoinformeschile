@@ -1,13 +1,41 @@
 {
- "generado": "2026-08-18T23:52:06+00:00",
+ "generado": "2026-08-19T03:13:47+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "fd514dc5e08f",
+   "nivel": "ROJA",
+   "tipo": "activación de quebradas",
+   "titulo": "¡ATENCIÓN!",
+   "descripcion": "¡ATENCIÓN! \nPor activación de quebradas se solicita EVACUAR sector Miramar en la comuna de #Taltal, Región de Antofagasta. \n\nPara reforzar el proceso de evacuación #SENAPRED activó Mensajería #SAE. \nMantén la calma y sigue las indicaciones de las autoridades y organismos en terreno. \n\nAl momento de evacuar recuerda considerar a tu mascota y sus necesidades. \n\nMás información en: https://web.senapred.cl/dimension-animal/",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-19T01:20:28+00:00",
+   "url": "https://t.me/SenapredChile/1557",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "c9af496e69aa",
+   "nivel": "ROJA",
+   "tipo": "aluvión",
+   "titulo": "¡ATENCIÓN!",
+   "descripcion": "¡ATENCIÓN!  \nPor peligro de aluvión se hace un llamado a EVITAR acercarse a quebradas y pendientes fuertes en la comuna de #DiegoDeAlmagro, Región de Atacama.    \n\nPara reforzar el alertamiento preventivo #SENAPRED activó mensajería SAE.    \n\nMantente informado a través de los canales oficiales y sigue las indicaciones de la autoridad y de los equipos de respuesta en terreno.",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-19T01:20:02+00:00",
+   "url": "https://t.me/SenapredChile/1556",
+   "origen": "telegram",
+   "sae": true
+  },
   {
    "id": "bb4b46c0fc50",
    "nivel": "ROJA",
@@ -17,11 +45,27 @@
    "region": "Antofagasta",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-18T18:52:36.3636-04:00",
+   "ts": "2026-08-18T21:11:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
    "origen": "senapred_web",
    "regiones_extra": [],
    "sae": true
+  },
+  {
+   "id": "baaba01f5e4d",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la región de Arica y Parinacota por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA139-1 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas. 18-08 18-08 Abrir aquí Aviso A424 Precipitaciones normales a moderadas en litoral, cordillera de la costa, pampa y precordillera de la región. 17-08 18-08 Abrir aquí Aviso A433 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 19-08 19-08 Abrir aquí As",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-18T21:39:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
   },
   {
    "id": "4c8086700652",
@@ -37,22 +81,6 @@
    "origen": "senapred_web",
    "regiones_extra": [],
    "sae": true
-  },
-  {
-   "id": "baaba01f5e4d",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA139-1 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas. 18-08 18-08 Abrir aquí Aviso A423-1 Probables tormentas eléctricas en precordillera y cordillera de la región. 17-08 18-08 Abrir aquí Aviso A424 Precipitaciones normales a moderadas en litoral, cordillera de la costa, pampa y precordillera de la región. 17-08 18-08 Abrir aquí A",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-18T16:18:53.5353-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
   },
   {
    "id": "a66ef8d02ff2",
@@ -1928,20 +1956,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-22T22:27:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-07-12-14-52-02",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "b305130fbfc2",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para las comunas de Limache, Quintero, Concón y Quillota por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Puente Colmo” , ha registrado un continuo descenso en su caudal en las últimas horas, alcanzando valores de umbral azul , lo que supone una disminución del riesgo para la población cercana a este curso de agua. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida para las comunas de Limache, Quintero, Concón y Quillota, que se encontraba vigente desde el 21 de juli",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-22T13:29:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-limache-quintero-concon-y-quillota-por-crecida-2026-07-20-19-53-12",
    "origen": "senapred_web",
    "regiones_extra": []
   },
