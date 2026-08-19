@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-19T20:01:35+00:00",
+ "generado": "2026-08-19T20:48:17+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -1336,6 +1336,13 @@
      "sector": null
     },
     {
+     "titulo": "Sistema frontal en el norte de Chile: más de 1.100 albergados, 580 damnificados y una persona fallecida - ADN Radio",
+     "medio": "ADN Radio",
+     "fecha": "2026-08-19T13:52:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeGRkRlVqb3BSTlhnTTJsTVIxRXI2dmxielA0S0EzRTRpM0JYUFBETFB2cVlNOWZBQmw5YmNsaWJDLWF6aldKalVmS3Z1QzMzaEt2TXNLUWphcEN0M2xRM1R2X1pMc3AtVFQ1Rl9ya0ZaMTJPYi1oR0hpaG1YS3pyV0RlNmZKQzZZS09ja25raENZLWdyWlEwdzJOQXp6MWVyYlBZSWN2ZElfRUE4d0xqU0o5bUFfZXQxN0Q5a0o0ekRFcVhYVUFqS1FrZE9XZkk4ZW14QmFka3pzd0JPXzNJRUJDWHY2QdIB5gFBVV95cUxOeGRkRlVqb3BSTlhnTTJsTVIxRXI2dmxielA0S0EzRTRpM0JYUFBETFB2cVlNOWZBQmw5YmNsaWJDLWF6aldKalVmS3Z1QzMzaEt2TXNLUWphcEN0M2xRM1R2X1pMc3AtVFQ1Rl9ya0ZaMTJPYi1oR0hpaG1YS3pyV0RlNmZKQzZZS09ja25raENZLWdyWlEwdzJOQXp6MWVyYlBZSWN2ZElfRUE4d0xqU0o5bUFfZXQxN0Q5a0o0ekRFcVhYVUFqS1FrZE9XZkk4ZW14QmFka3pzd0JPXzNJRUJDWHY2QQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Lluvias activan quebradas y mantienen con alerta roja a Iquique y Antofagasta - G5noticias",
      "medio": "G5noticias",
      "fecha": "2026-08-19T04:48:20+00:00",
@@ -1389,13 +1396,6 @@
      "medio": "Paislobo Prensa",
      "fecha": "2026-08-18T04:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrLWtFZUJwcThNbDNUclRNQWtydWdfWDM4MF9XWXI1T01tYTJaRVg1UmY3RHN5YmY2OHRSSkhINlJpV0NFTUNwWGdzZFdUMExtRUpwTXhmWVg0aVBjaWdUc3VTbjVtd0lVTEI1d3dYV0F3ZlpwajFZM1J3?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred emite alerta SAE para evacuar comuna de Caldera tras remoción en masa y riesgo de aluvión - ADN Radio",
-     "medio": "ADN Radio",
-     "fecha": "2026-08-17T23:11:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOEo2R2dUOWJ1ckE3LS1qdlJ1YkhHZXE1R01XdEE0U3VtQnZRdlhVbDktYmU4TUhOT2N6N2FWc1FkS0lIcUowTUdlSEdyOVJXYnVCY1JBbEM1d2dRWVJmUXBrV19Vb0cwQWdiT1h6UXA3ZWcycnpJLThIeHVPTXBXR3FTRzdhMVNtX2pMckNienVHUW5pdWtnYmRPSmdqRks2WG85enhnQ012X0VIMzB1aE5nV3d0WjNuY3JpckRmcXBEZUNXX2x3dVZxSG5EbkHSAeMBQVVfeXFMTWJoVlFrTWpDZHdpOEdtMHo3anJESlFnbmJhRjZfRWFrdGM4UnhIc0dldTlfbWpIdndjeEhVbS1Gd2J5ZFFOLW9WSFQ5aDNrQVRmcmFpdlpTTkRlVE1yX1poY3Z3dmFKVGc0OVJiMURzVjZjb002MC1ZRzBteXh4bGM0M2pzblAxekFjR2JPdWNPbkVlZW8yMi13ay00VjFKQTl0ZEZka1dSNHNjUGhrbjQ5Wnc5UTAwQ3huNWFZcW1iMXBjRl9oNU9fTFBMcE81Z05jOGt3bWZoNElPWFBhdU1xTXM?oc=5",
      "sector": null
     }
    ]
@@ -3347,6 +3347,41 @@
    "comuna": "Antofagasta",
    "noticias": [
     {
+     "titulo": "Escondida | BHP mantiene plan preventivo en sus operaciones y apoya labores de respuesta en Coloso - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-08-19T20:44:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTEUxOTNjYjBXNFBSbWYwV082eFdfOEkxYnVWbXpyaHF0aVRsOUdkaXRCRVJvWVcybjNTdkQ3aHUtUWI4QTQ1NXNLbW02YklHd2lxOGdvLW1wTkMxNkx5cHNHMWFLVkkxVE1iRkRlMk1qQ24zRldzRThlTEtMbXBGMVAwTFBoZXNzVVJKa040OW4tdw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Obras aluvionales evitaron una tragedia mayor en Tocopilla: sistema puede retener 230 mil metros cúbicos en seis quebradas - soy-chile.cl",
+     "medio": "soy-chile.cl",
+     "fecha": "2026-08-19T19:44:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcjZESnYyZUpBT1ZDX0ZYRG5ya0ZsQkRwWTAxb1F6aVJ5WDh4QndhR1BUdmxUcGo2XzJIZHdqQV9VOHE5d01wT1M0cmdvZHRwTkxFUGhVZlA0VEtrbWZ4MHJKd2ppS1VRemNrUnRHdkF0Qkphbkp4SlVmVEhRcUtmNHM2UURZNS1DZjVpOEJEY3AyODA?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Rescatan en helicóptero a cinco personas aisladas tras remoción en masa en la Ruta 1 entre Tocopilla y Antofagasta - soy-chile.cl",
+     "medio": "soy-chile.cl",
+     "fecha": "2026-08-19T18:44:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjNudjVnVVYzSlJPSGZXSjVpNV81X0d4NjRnam13Y00yV2Z4UUQ2Um9FQWJiWVlPR1dDNG1tRjBDdTB2U3F2Y0I5V1Fua3Zmb2hBZ1ZleGV1S3NyZmRPUEtveDJScnJyT0NaRFJxc3RiRTRhQ25oS0FoZ2RRZjNyQnQtMjUtR2RyUlF0Ym5FdzZUdEU?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "[Fotos] Así quedó caleta Coloso después de la activación de quebradas por las fuertes lluvias - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-08-19T18:44:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdXRGTzVEdzNaN0c2WUZjc1dVV1Q0QnNERDJhN1BhZFhMTmZ3ay0xRmlIUnp0RGlrbWJMZDR2ekVfeVFVYmxQTWVWZVJCLVBFSWl4b3BFS0NKYU12NFpjX3FCYVgwN056d1R4VG5CeDNWWTY2bk5MMTVNNWo0cS1KQld2R0VXYm9PZFdyUGg5SUlZTWM?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "[Minuto a Minuto] Lluvias en el norte: Presidente Kast está en la Región de Antofagasta para monitorear emergencia - Radar BioBio",
+     "medio": "Radar BioBio",
+     "fecha": "2026-08-19T18:35:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTTc2RHV3cFA0TExmVk5zYnNzYkNWbWIxZVZYbVdKX0RaN3BReUZSM3VXMzY2MTUzX1RjN2swZW5SWGRSX2taV3lvQm0wZXBzNXlTTktWUjFOcVdRQVBDamNRVTRreGpyVkNVNmNTUGdHcWc0MWJyMUV4cnplV3dqMzgwN1pQdWZNTmRLVTVodGp3LV9RenJ4NlBsS3ZxdE84UFFIbzIwbDZjVWljX3pmSUhEQ2ZTYnRxeWNYZUhibWhvWG9tQWVDWnRLNjY4c29PQ1MwT2R4SmV6ZTFXbFZaWGRGYW5qV2FMM3ln?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Van 1.209 albergados por las lluvias y alcalde pide erradicar con urgencia campamentos en Antofagasta - SoyChile.cl",
      "medio": "SoyChile.cl",
      "fecha": "2026-08-19T14:03:45+00:00",
@@ -3368,56 +3403,17 @@
      "sector": null
     },
     {
+     "titulo": "[Minuto a Minuto] Lluvias en el norte: Presidente Kast viaja a Antofagasta para monitorear emergencia - Radar BioBio",
+     "medio": "Radar BioBio",
+     "fecha": "2026-08-19T12:06:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU2FCYnJpTUNKQ2cyTU9Rb3dVSVhzb0lPNTlLZFNiUlJzUzdoQ1ZfYURqaVdNYVZxbERJcThmOTNnMjVGUzdidThaU05GYUxxMmpwVDFsRGpBRGFDbGh5ZHNBLVdMWWdFR0M1VWJSSWdqRjdobVhtWG1wSklFU2tUWVlRUDlMZ2VQWF90U2Jsczc2TWJqUGhyLTQySTY5clE4UEptdUlHRy1PUVpJTXFpa00tcHczejVPV2V1dGtJbDZJd1JJbnYwN3h3VE81X2ZQaXY4dUtrZlFTZw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Lluvias en el norte: Presidente Kast viaja a Antofagasta para monitorear emergencia - Cooperativa",
      "medio": "Cooperativa",
      "fecha": "2026-08-19T11:38:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVUxJQ1NGa040aV9ZV3d4ek9iWU1qampmWGZtZ3NXX2lRTzVzODluZDBkanlTZEZqdTlrU3JDRi1aeHNIU19kVXU5WlpWYmtUSHRINXVHQUduaTRmSFctM29nUmFzVlZ2VmFWd2U3OXZyVGhuWlRDb3VRSGNnYUpJQVdpaWNzdk9LV21MbGJyTkdPcjBQWHpHQVJKVVhNSWgwUXZsMWE0ZnRia0pLb3JqLWhMeEdiQk0xTkE5a2VjYU9ULVhwQXJ3eEFFY1liZG9qVUhsbWUxR2loQ2pUaU9RcW1DSVA5OThlWlhBQWlB?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Estado de Catástrofe en Tocopilla por lluvias en el norte - Paislobo Prensa",
-     "medio": "Paislobo Prensa",
-     "fecha": "2026-08-19T11:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHdWREY1dseUljQndrRmUtVVk4ZmhYSFVoa20zamVERGJuNEQyOC1uaEVVZzVMQ3JHSzRlWWxqcUd4d3V6WmVoT1dHaV9wS0JDREpMdkVlMGd0cjNNSG1zRm1JV0xJYVEyZmJYYVQwR1h6UWlSdmxiQTlaNnV0M1k?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "PRESIDENTE KAST VIAJA A PRIMERA HORA DE ESTE MIÉRCOLES AL NORTE TRAS DECRETAR ESTADO DE CATÁSTROFE POR IMPACTO DEL TEMPORAL - Vilas Radio",
-     "medio": "Vilas Radio",
-     "fecha": "2026-08-19T04:00:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNakJ0TVg2TXc2eVlPRWF6b3ktYVpMckhaTC1icW04aW11Yk1PQkZmQ0U3alVDV0ZrVWxOYjlfR1dENVFWelhEb2ZFY1pqS0pKUHRoVXAwbzNBcHZ3dkJxLXFXa2ZjNUpjb2ZNY0VNWmd6RGxWQzRYQUExRjZwOWhubEV6eTYtSEY1MjVMb00wQTd6eHRsVWhUUW5ubVRXVk5ZSXEtYVlGOWZzR0xjZFN6UGJ0clVvMWxWSlZLODJRclNUdHp5b05YR2RkcC1RRDNoNkMzZ1puQ0ZVTjRRU2w0?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alerta SAE: ordenan evacuación de sector Coloso en Antofagasta por activación de quebradas - SoyChile.cl",
-     "medio": "SoyChile.cl",
-     "fecha": "2026-08-19T03:22:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNakpJcUFld3ZtRzRSTmtYRlExTk5EWHJldTJkRUgyYTdxM01EM0pCLUIydmdhWXhfMWgwTlhqTWZjYnJpenZGa2hjSlRBUTk1SUNlVENpRzZQcElYV1RaVEVvZFZYbUdLUnJYcjA4WF9oYVJXNmxkcDFLZ3J0cFhaMmRqVEhTUDdBYUUzeVJB?oc=5",
-     "sector": {
-      "nombre": "sector Coloso",
-      "lat": -23.69712,
-      "lon": -70.42208
-     }
-    },
-    {
-     "titulo": "Pronóstico en Antofagasta: miércoles 19 de agosto de 2026 - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-08-19T03:12:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSnpDcml6RUhoeGF3WnZwUjdMdXFkMGNHTl9VOEo4azRJUm9wdmRzaUNCdHFBY283Y21ZQUxlYldLNG94TXFzalc2V3RGUmRmUmJ2ekdLVXJ1dHZvSm5Fc21sS2o3MUp3YWlRSVRndmhnWGZJR25XM2l5QnpBSXQ1dF9VdDFkSlF5OW1PS0FaNmpBcWt3c1pUd3czU19NeHczMlVZbzktb21ZV0xBUF9nc25hQXBodUZtVC11VGJmV3Y1T0E3THBwZGxIZWw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Presidente Kast prepara viaje al norte en medio de la grave emergencia por las lluvias en Antofagasta - El Dínamo",
-     "medio": "El Dínamo",
-     "fecha": "2026-08-19T02:26:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGpCTkpIejFZMGJFM3o3eV8xRDhZa0pKMHItYzFpQ283NWdfakdKdHZkNm5ielJ2OFcxanhpeUlJX0VEU2lVZnV5N2FwR0JoX2pyMW1VQWl5NDdUQkEtTVhtTjFKU3IzOEYtZnA0WURvQVQ2M2ZZY3VianJWLXM4a0RVXzhtWlk2eWs3bnNRakpSTHFKc1NhRTlPOXNUMUFEYXNQUmxtUWlOSGtpdnZEaVNDMnpMRm5QYWlXSA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Por activación de quebradas: SENAPRED solicita evacuar sectores de Tocopilla, Antofagasta y Taltal - Radio Agricultura",
-     "medio": "Radio Agricultura",
-     "fecha": "2026-08-19T01:45:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdXZZOW4tVGwwdHI2anRlSjg3M1RhWHhFX1V4RjZ6M0dKV05QQzRFcnRIR1Z1dW1nRDNVTGlubFU2OUl2U0JxdmU0SG1JTnNGNjNnbEQyRWhraWxaRE1MZkkzWm5vTHFOblowLTJtNFhEeVVxLWJRcXlKVGI2ZFJON0ZNRndCaWZFNXRwQWxVR1JSNXFlMXZqT3VyWUlicGFJRE9rNS1lcUd0a0tZU1RBYkZ3RUxxWUxlUEhybG5lQ3FyTmQ0WU9TbUFTbjFkZjJZSExpNW5oeWJ2ei1nNVZMVnRFUlpKSkl3aDlKQg?oc=5",
      "sector": null
     }
    ]
