@@ -1,18 +1,18 @@
 {
- "generado": "2026-08-19T22:44:20+00:00",
+ "generado": "2026-08-19T23:09:40+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "09-08-2026",
   "hasta": "19-08-2026"
  },
  "totales": {
-  "alertas": 119,
+  "alertas": 118,
   "sae": 10,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "AMARILLA": 47,
    "ATP": 60,
+   "AMARILLA": 46,
    "ROJA": 12
   },
   "por_tipo": [
@@ -493,13 +493,6 @@
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-08-09",
-   "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 0,
-   "sae": 0
-  },
   {
    "fecha": "2026-08-10",
    "ROJA": 1,
