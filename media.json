@@ -1,54 +1,6 @@
 {
- "generado": "2026-08-19T09:41:25+00:00",
- "desde": "2026-08-17T09:41:22Z",
+ "generado": "2026-08-19T10:04:41+00:00",
+ "desde": "2026-08-17T10:04:39Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "s11ZcXvn4tU",
-     "url": "https://www.youtube.com/watch?v=s11ZcXvn4tU",
-     "titulo": "Hostal Sol del Norte",
-     "canal": "Milenka Cordero",
-     "publicado": "2026-08-18T20:25:10Z",
-     "live": false,
-     "score": 6.89,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "la serena": {
-   "comuna": "La Serena",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "AUx4n5-GWAE",
-     "url": "https://www.youtube.com/watch?v=AUx4n5-GWAE",
-     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
-     "canal": "La Serena Drone",
-     "publicado": "2026-08-17T13:17:51Z",
-     "live": true,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "Px1mwEHRN_4",
-     "url": "https://www.youtube.com/watch?v=Px1mwEHRN_4",
-     "titulo": "Localizador de sismos y Cámara en vivo 24/7 y desde la Quinta Compañía de Bomberos de Coquimbo.",
-     "canal": "QUINTA COQUIMBO",
-     "publicado": "2026-08-17T14:56:17Z",
-     "live": true,
-     "score": -1.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
