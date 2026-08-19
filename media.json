@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-19T08:06:06+00:00",
- "desde": "2026-08-17T08:06:03Z",
+ "generado": "2026-08-19T08:55:46+00:00",
+ "desde": "2026-08-17T08:55:42Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "antofagasta": {
@@ -15,7 +15,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-08-18T14:02:41Z",
      "live": false,
-     "score": 4.5,
+     "score": 4.43,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +44,7 @@
      "canal": "DSN Virales y Noticias",
      "publicado": "2026-08-18T00:02:28Z",
      "live": false,
-     "score": 3.33,
+     "score": 3.26,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +55,7 @@
      "canal": "F365",
      "publicado": "2026-08-17T23:31:28Z",
      "live": false,
-     "score": 3.29,
+     "score": 3.22,
      "verificado": false,
      "embeddable": true
     }
