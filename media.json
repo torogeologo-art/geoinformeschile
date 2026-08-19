@@ -1,65 +1,6 @@
 {
- "generado": "2026-08-19T11:29:54+00:00",
- "desde": "2026-08-17T11:29:51Z",
+ "generado": "2026-08-19T11:31:35+00:00",
+ "desde": "2026-08-17T11:31:33Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "antofagasta": {
-   "comuna": "Antofagasta",
-   "region": "Antofagasta",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "FG1K56dpSI8",
-     "url": "https://www.youtube.com/watch?v=FG1K56dpSI8",
-     "titulo": "Lluvia intensa golpea a Antofagasta: Calles anegadas, cortes de luz y riesgo de mayores inundaciones",
-     "canal": "Meganoticias",
-     "publicado": "2026-08-18T14:02:41Z",
-     "live": false,
-     "score": 4.21,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "Gtf_ZE0k0Og",
-     "url": "https://www.youtube.com/watch?v=Gtf_ZE0k0Og",
-     "titulo": "QUEBRADAS ACTIVAS: La inusual lluvia que afectó a Tocopilla y Antofagasta - Contigo en la Mañana",
-     "canal": "Chilevisión",
-     "publicado": "2026-08-17T18:51:11Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "la serena": {
-   "comuna": "La Serena",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "AUx4n5-GWAE",
-     "url": "https://www.youtube.com/watch?v=AUx4n5-GWAE",
-     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
-     "canal": "La Serena Drone",
-     "publicado": "2026-08-17T13:17:51Z",
-     "live": true,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "Px1mwEHRN_4",
-     "url": "https://www.youtube.com/watch?v=Px1mwEHRN_4",
-     "titulo": "Localizador de sismos y Cámara en vivo 24/7 y desde la Quinta Compañía de Bomberos de Coquimbo.",
-     "canal": "QUINTA COQUIMBO",
-     "publicado": "2026-08-17T14:56:17Z",
-     "live": true,
-     "score": -1.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
