@@ -1,12 +1,12 @@
 {
- "generado": "2026-08-19T13:11:17+00:00",
+ "generado": "2026-08-19T13:49:15+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 18,
+ "total_vigentes": 17,
  "alertas": [
   {
    "id": "d8f76322084f",
@@ -439,7 +439,7 @@
    "comunas": [
     "Tierra Amarilla"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-12T13:24:27+00:00",
    "url": "https://t.me/SenapredChile/1517",
    "origen": "telegram",
