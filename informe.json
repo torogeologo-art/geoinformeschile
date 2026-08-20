@@ -1,17 +1,17 @@
 {
- "generado": "2026-08-20T01:53:29+00:00",
+ "generado": "2026-08-20T03:04:18+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "10-08-2026",
   "hasta": "20-08-2026"
  },
  "totales": {
-  "alertas": 118,
+  "alertas": 119,
   "sae": 10,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 60,
+   "ATP": 61,
    "AMARILLA": 46,
    "ROJA": 12
   },
@@ -42,7 +42,7 @@
    ],
    [
     "remoción en masa",
-    2
+    3
    ],
    [
     "activación de quebradas",
@@ -459,6 +459,15 @@
     "ts": "13-08",
     "comuna_link": "",
     "region_link": "arica y parinacota"
+   },
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "19-08",
+    "comuna_link": "",
+    "region_link": "tarapaca"
    }
   ],
   "activación de quebradas": [
@@ -560,7 +569,7 @@
    "fecha": "2026-08-19",
    "ROJA": 3,
    "AMARILLA": 2,
-   "ATP": 5,
+   "ATP": 6,
    "sae": 2
   }
  ],
@@ -638,11 +647,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "AMARILLA",
-     "ts": "15-08 22:59",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "ATP",
      "ts": "16-08 23:41",
      "estado": "VIGENTE"
@@ -660,6 +664,11 @@
     {
      "nivel": "ROJA",
      "ts": "18-08 17:38",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-08 21:53",
      "estado": "VIGENTE"
     }
    ]
@@ -828,6 +837,15 @@
  ],
  "cronologia": [
   {
+   "ts": "19-08 21:53",
+   "nivel": "ATP",
+   "lugar": "Región de Tarapacá",
+   "tipo": "remoción en masa",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31"
+  },
+  {
    "ts": "19-08 18:24",
    "nivel": "ATP",
    "lugar": "Región de Antofagasta",
@@ -943,15 +961,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43"
-  },
-  {
-   "ts": "18-08 14:22",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Arica y Parinacota",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
