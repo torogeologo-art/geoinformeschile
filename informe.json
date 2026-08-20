@@ -1,19 +1,19 @@
 {
- "generado": "2026-08-20T14:56:56+00:00",
+ "generado": "2026-08-20T15:41:30+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "10-08-2026",
   "hasta": "20-08-2026"
  },
  "totales": {
-  "alertas": 119,
+  "alertas": 116,
   "sae": 10,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 61,
-   "AMARILLA": 46,
-   "ROJA": 12
+   "ATP": 60,
+   "AMARILLA": 45,
+   "ROJA": 11
   },
   "por_tipo": [
    [
@@ -22,7 +22,7 @@
    ],
    [
     "viento",
-    24
+    23
    ],
    [
     "evento meteorológico",
@@ -30,7 +30,7 @@
    ],
    [
     "crecida de río",
-    6
+    5
    ],
    [
     "nevadas",
@@ -226,15 +226,6 @@
     "region_link": "coquimbo"
    },
    {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "10-08",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
     "lugar": "Región de Biobío",
     "region": "Biobío",
     "nivel": "ATP",
@@ -363,15 +354,6 @@
     "ts": "17-08",
     "comuna_link": "la serena",
     "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "10-08",
-    "comuna_link": "",
-    "region_link": "los rios"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -504,9 +486,9 @@
  "serie": [
   {
    "fecha": "2026-08-10",
-   "ROJA": 1,
-   "AMARILLA": 4,
-   "ATP": 6,
+   "ROJA": 0,
+   "AMARILLA": 3,
+   "ATP": 5,
    "sae": 0
   },
   {
@@ -703,29 +685,6 @@
      "nivel": "ATP",
      "ts": "17-08 22:49",
      "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Los Ríos",
-   "region": "Los Ríos",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "10-08 11:16",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "10-08 11:29",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "11-08 11:16",
-     "estado": "VIGENTE"
     }
    ]
   },
