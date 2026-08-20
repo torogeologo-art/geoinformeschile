@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-20T16:14:43+00:00",
+ "generado": "2026-08-20T16:56:13+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -405,6 +405,13 @@
    "comuna": "Vallenar",
    "noticias": [
     {
+     "titulo": "quebrada El Jilguero - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-08-20T08:30:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNYmpSWl85T0dFeU5LSzhwb3NOSm5iS0pvT250VU12WEJDVUV4bG9VMUhPQWZBWm9SaXdpbzJJOVJmS0VQamJ3NF9CMFNremNHVzFKMWd4b2tfQlNObS1WbTZjdGkwYnJQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "MOP informa cortes y activación de quebradas en distintos puntos de la Ruta 5 entre Vallenar y La Serena - Medio digital El Zorro Nortino",
      "medio": "Medio digital El Zorro Nortino",
      "fecha": "2026-08-17T22:37:28+00:00",
@@ -465,13 +472,6 @@
      "medio": "diarioeldia.cl",
      "fecha": "2026-07-22T15:37:24+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ25feDI2eVVmZzd0aENsdEhiRFJGdXV4ZHF4cnotSllfdk9iX1VqbVlWWVN4WVktdWNLeFRWdTVFbGFyWEhuREF2UGhOWHpDN2xaaktuVV94a3U0V0tnNXlGRU5aNks3UUczUWFyOTItWTBSd3lzcENIWG5fMDRFaGhadUtpRmdDeUF1NDh4T0ZzbFVuUFJsVk5wSmVUeGgtdTFaRHNLdS1DV3FlbDRQWlMwUlliT2MxSWRjR3NCaE1uZUV0Y3gyU2NxX1BjcXN2ZmMyV1E3cTRDc3V6?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "MOP mantiene suspendido el tránsito en la Ruta 5 Norte entre Vallenar y Caldera - Radio Atacama",
-     "medio": "Radio Atacama",
-     "fecha": "2026-07-22T13:24:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQV9mNmZGMFVJS19STFN5Zm0wR2xrWlBfLXd0aXlLTmx4aldZODlCQmlxcWp2ZHQ2bGdzNUF0a2VYdURnd05jR25vdWhmbnNGSkc0REpncXhtVWlJRlB2cTlTc0NFNnJqdHgzNThtNHU0Q2gyNmpESF9LRWFDN3psRUZ2ckE5bENwZ2xNVC1jeEkteE0xeEZNdFEzUnMydw?oc=5",
      "sector": null
     }
    ]
@@ -807,6 +807,13 @@
    "comuna": "Freirina",
    "noticias": [
     {
+     "titulo": "Habilitan rutas afectadas por quebradas en Atacama - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-08-20T13:44:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLTZJM2JacEx0cDFDQ2twaVgzTHB5aWlxMlhCclB0QURWVTItTXVKajBFM0VrRy1TMUJUMGMzbnRSdVJPUG0yYXRVLWlqSWh1ZTZMSWN1U0U2cEJ5emk3TUl6YkcyOG8zWjNLOHY4T1d1Wnd4TGRBcWtDYjRNWHNKcHAweVY0TFJBOWlaZnBaTUlmWGpUVmlFVG9VeHZGcE9hb0pUSXN2V0FVVzJDd0N5ay1nc2RtdUFneGlMVXRsNzR6cFcyaHlpQ2JhMi1BWDBwSXJEOVFiQ2RZZw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Alcaldes de la Provincia del Huasco entregan balance de las lluvias - NOSTÁLGICA cl",
      "medio": "NOSTÁLGICA cl",
      "fecha": "2026-08-18T20:00:00+00:00",
@@ -867,13 +874,6 @@
      "medio": "NOSTÁLGICA cl",
      "fecha": "2026-07-21T14:24:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbnQ4QlJCUWtpNzctN2g5M0hNSms2dzJrT3hlYmxfY2ktWHhncUN0RzR4bHRSRGg0S1Frdmg2X0V6Ui1VbEJDTF8zekZERTcyV1NrYmxkMUN6OURoUXVFWmZ5TFlPYmRWWWdOMkNTTnVCcE9EYkc5bHhlTFZreXE3MUZhNFNMUThrQ1lsRUZsaWFvUWpHbE1mTVlDcHY5Xy1rVkMzVUxWaGRrYWE3X3FXWllEYXdNdTZvZFV5OVUtd0h0bUEwTE90UW1RdDduTXVIWTB3Wg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Freirina: Colapsa Puente Maitencillo y caida de vehículo mayor producto de la activación de las quebradas - Atacama Noticias",
-     "medio": "Atacama Noticias",
-     "fecha": "2026-07-20T11:28:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS1JBVW9iRUtlTmJyUTloczFDcUFDNVhBQjZTWjNNRC1YeEpnVTRLWGZmbUVuNWx4Mlc4cm56VEtvRG96amt5ZzFVUmhtaEhXSm9uM0FVOUJ5b0lFam83ZXBmMmJBX1h0U3lIUmRmMlJkcXZMeEgzcURBbC1ISHBWcUlkMDhYOTBhQWs3aEtTeUJsX3VhNV9xN2lueHN1RzBBeDRDM18xald3UWtIWTdmTnJqSTdZOUM0UWVxVVdWYWJ0Vk5Lc1pZLTl0VGo1TlpJV21xUFd2cnRHTzlSR0FDWA?oc=5",
      "sector": null
     }
    ]
@@ -3347,6 +3347,20 @@
    "comuna": "Antofagasta",
    "noticias": [
     {
+     "titulo": "Comité de Ministros resolverá reclamaciones del proyecto Aguas Marítimas de Cramsa - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-08-20T15:24:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMTdDemU4VnFhV3RlQVJSVlhiNUV1UzV2bTdEOFBFQk02NWVzc3VxNEduVDNIa0tHN1c0ckotbUkwVHMwOVJzVk81aEcyS0JKLVFkZEg0cWNQS3dRdnE3ZERzUmh0UWZXeXVUenVTNXA0OHNHN2Z3QW1ZSlE3SUlwZldEZFVBbU1mRjhZTy1ocnVDVXpjTldSZ2xIMA?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Joven muere tras ser atropellada en el sector norte de Antofagasta: responsable no estaría identificado - soy-chile.cl",
+     "medio": "soy-chile.cl",
+     "fecha": "2026-08-20T13:04:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVXRMV0RtVDc3dHRFR3Fhcmp5UTZtSG1nOEowRkExV1M0NC1HWG5kRmNKTkpMcW1Ea3owdjNPLTcyMHlER0FKd2htLTRTVUNINDhILUtrS3gzZFBpaHZXc19YeWxzeC1rUFpTN2wxZklyMGdTMDQwQnhhS3N2Q0RscGpRdFdzRGlDUy1MY2xkLTRoOGlIWlBr?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Pronóstico en Antofagasta: jueves 20 de agosto de 2026 - VLN Radio",
      "medio": "VLN Radio",
      "fecha": "2026-08-20T03:11:18+00:00",
@@ -3404,20 +3418,6 @@
      "medio": "soy-chile.cl",
      "fecha": "2026-08-19T18:44:55+00:00",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjNudjVnVVYzSlJPSGZXSjVpNV81X0d4NjRnam13Y00yV2Z4UUQ2Um9FQWJiWVlPR1dDNG1tRjBDdTB2U3F2Y0I5V1Fua3Zmb2hBZ1ZleGV1S3NyZmRPUEtveDJScnJyT0NaRFJxc3RiRTRhQ25oS0FoZ2RRZjNyQnQtMjUtR2RyUlF0Ym5FdzZUdEU?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "[Fotos] Así quedó caleta Coloso después de la activación de quebradas por las fuertes lluvias - SoyChile.cl",
-     "medio": "SoyChile.cl",
-     "fecha": "2026-08-19T18:44:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdXRGTzVEdzNaN0c2WUZjc1dVV1Q0QnNERDJhN1BhZFhMTmZ3ay0xRmlIUnp0RGlrbWJMZDR2ekVfeVFVYmxQTWVWZVJCLVBFSWl4b3BFS0NKYU12NFpjX3FCYVgwN056d1R4VG5CeDNWWTY2bk5MMTVNNWo0cS1KQld2R0VXYm9PZFdyUGg5SUlZTWM?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "[Fotos] Así quedó caleta Coloso después de la activación de quebradas por las fuertes lluvias - soy-chile.cl",
-     "medio": "soy-chile.cl",
-     "fecha": "2026-08-19T18:41:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMHRnZ3BtNXZndGJ5eHpNekJQeTc2cm5rbEREdHRmN2MtQ3E5WjRNZzZ0MFhYVU9lU1VJUGFXdmZGOFYySFBVOTdOVHlNRjgtQjNBdWphMF9mZVV2Y0hnaVdlN0pPd3VBYTdubzZkQjRFTEZfSXB6WVpFMThKWEFGTnBuRDlja19wRTZrUGE5bw?oc=5",
      "sector": null
     }
    ]
