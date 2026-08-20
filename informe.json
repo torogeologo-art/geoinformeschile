@@ -1,18 +1,18 @@
 {
- "generado": "2026-08-20T18:13:34+00:00",
+ "generado": "2026-08-20T19:05:09+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "10-08-2026",
   "hasta": "20-08-2026"
  },
  "totales": {
-  "alertas": 115,
+  "alertas": 113,
   "sae": 10,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 59,
    "AMARILLA": 45,
+   "ATP": 57,
    "ROJA": 11
   },
   "por_tipo": [
@@ -22,7 +22,7 @@
    ],
    [
     "viento",
-    23
+    21
    ],
    [
     "evento meteorológico",
@@ -226,15 +226,6 @@
     "region_link": "coquimbo"
    },
    {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "10-08",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
     "lugar": "Región de Valparaíso",
     "region": "Valparaíso",
     "nivel": "ATP",
@@ -242,6 +233,15 @@
     "ts": "14-08",
     "comuna_link": "",
     "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "16-08",
+    "comuna_link": "",
+    "region_link": "biobio"
    },
    {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -488,7 +488,7 @@
    "fecha": "2026-08-10",
    "ROJA": 0,
    "AMARILLA": 3,
-   "ATP": 4,
+   "ATP": 2,
    "sae": 0
   },
   {
@@ -557,39 +557,6 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de Antofagasta",
-   "region": "Antofagasta",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "16-08 21:07",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "17-08 15:36",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "18-08 12:50",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "18-08 13:05",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "19-08 18:24",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Atacama",
    "region": "Atacama",
    "sae": true,
@@ -656,6 +623,39 @@
    ]
   },
   {
+   "lugar": "Región de Antofagasta",
+   "region": "Antofagasta",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "16-08 21:07",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "17-08 15:36",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "18-08 12:50",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "18-08 13:05",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-08 18:24",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Valparaíso",
    "region": "Valparaíso",
    "sae": false,
@@ -685,29 +685,6 @@
      "nivel": "ATP",
      "ts": "17-08 22:49",
      "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Biobío",
-   "region": "Biobío",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "10-08 14:40",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "11-08 20:51",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "13-08 13:52",
-     "estado": "VIGENTE"
     }
    ]
   },
