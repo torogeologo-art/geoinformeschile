@@ -1,28 +1,28 @@
 {
- "generado": "2026-08-20T19:05:09+00:00",
+ "generado": "2026-08-20T19:47:54+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "10-08-2026",
   "hasta": "20-08-2026"
  },
  "totales": {
-  "alertas": 113,
+  "alertas": 110,
   "sae": 10,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "AMARILLA": 45,
-   "ATP": 57,
+   "ATP": 56,
+   "AMARILLA": 43,
    "ROJA": 11
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    66
+    64
    ],
    [
     "viento",
-    21
+    20
    ],
    [
     "evento meteorológico",
@@ -71,15 +71,6 @@
     "region_link": "antofagasta"
    },
    {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "10-08",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
     "lugar": "Región de Atacama",
     "region": "Atacama",
     "nivel": "AMARILLA",
@@ -96,6 +87,15 @@
     "ts": "18-08",
     "comuna_link": "",
     "region_link": "arica y parinacota"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "11-08",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de La Araucanía",
@@ -188,15 +188,6 @@
     "ts": "18-08",
     "comuna_link": "",
     "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "10-08",
-    "comuna_link": "",
-    "region_link": "nuble"
    },
    {
     "lugar": "Región de Atacama",
@@ -487,8 +478,8 @@
   {
    "fecha": "2026-08-10",
    "ROJA": 0,
-   "AMARILLA": 3,
-   "ATP": 2,
+   "AMARILLA": 1,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -590,39 +581,6 @@
    ]
   },
   {
-   "lugar": "Región de Tarapacá",
-   "region": "Tarapacá",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "16-08 23:41",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "17-08 19:21",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "18-08 14:33",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "18-08 17:38",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "19-08 21:53",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Antofagasta",
    "region": "Antofagasta",
    "sae": true,
@@ -651,6 +609,39 @@
     {
      "nivel": "ATP",
      "ts": "19-08 18:24",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Tarapacá",
+   "region": "Tarapacá",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "16-08 23:41",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-08 19:21",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "18-08 14:33",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "18-08 17:38",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-08 21:53",
      "estado": "VIGENTE"
     }
    ]
