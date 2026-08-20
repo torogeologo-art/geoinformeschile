@@ -1,18 +1,18 @@
 {
- "generado": "2026-08-20T21:46:35+00:00",
+ "generado": "2026-08-20T22:35:12+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "10-08-2026",
   "hasta": "20-08-2026"
  },
  "totales": {
-  "alertas": 109,
+  "alertas": 110,
   "sae": 10,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
    "AMARILLA": 43,
-   "ATP": 55,
+   "ATP": 56,
    "ROJA": 11
   },
   "por_tipo": [
@@ -26,7 +26,7 @@
    ],
    [
     "evento meteorológico",
-    10
+    11
    ],
    [
     "crecida de río",
@@ -535,6 +535,13 @@
    "AMARILLA": 2,
    "ATP": 6,
    "sae": 2
+  },
+  {
+   "fecha": "2026-08-20",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
+   "sae": 0
   }
  ],
  "escalamientos": [
@@ -737,6 +744,15 @@
  ],
  "cronologia": [
   {
+   "ts": "20-08 17:45",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
+  },
+  {
    "ts": "19-08 21:53",
    "nivel": "ATP",
    "lugar": "Región de Tarapacá",
@@ -852,15 +868,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31"
-  },
-  {
-   "ts": "18-08 14:27",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Tarapacá",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
