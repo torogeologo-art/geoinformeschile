@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-20T07:24:36+00:00",
- "desde": "2026-08-18T07:24:33Z",
+ "generado": "2026-08-20T07:58:03+00:00",
+ "desde": "2026-08-18T07:58:01Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "antofagasta": {
@@ -33,7 +33,7 @@
      "canal": "Milenka Cordero",
      "publicado": "2026-08-18T20:25:10Z",
      "live": false,
-     "score": 5.08,
+     "score": 5.04,
      "verificado": false,
      "embeddable": true
     }
@@ -51,7 +51,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-08-19T16:19:22Z",
      "live": true,
-     "score": 6.74,
+     "score": 6.7,
      "verificado": false,
      "embeddable": true
     }
