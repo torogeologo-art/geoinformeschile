@@ -1,18 +1,18 @@
 {
- "generado": "2026-08-20T21:11:53+00:00",
+ "generado": "2026-08-20T21:46:35+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "10-08-2026",
   "hasta": "20-08-2026"
  },
  "totales": {
-  "alertas": 110,
+  "alertas": 109,
   "sae": 10,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 56,
    "AMARILLA": 43,
+   "ATP": 55,
    "ROJA": 11
   },
   "por_tipo": [
@@ -33,10 +33,6 @@
     5
    ],
    [
-    "nevadas",
-    3
-   ],
-   [
     "aluvión",
     3
    ],
@@ -46,6 +42,10 @@
    ],
    [
     "activación de quebradas",
+    2
+   ],
+   [
+    "nevadas",
     2
    ]
   ]
@@ -365,35 +365,6 @@
     "region_link": "biobio"
    }
   ],
-  "nevadas": [
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "19-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "10-08",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "19-08",
-    "comuna_link": "",
-    "region_link": "nuble"
-   }
-  ],
   "aluvión": [
    {
     "lugar": "Región de Atacama",
@@ -462,6 +433,26 @@
     "comuna_link": "",
     "region_link": "coquimbo"
    }
+  ],
+  "nevadas": [
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-08",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "19-08",
+    "comuna_link": "",
+    "region_link": "nuble"
+   }
   ]
  },
  "vigentes": {
@@ -479,7 +470,7 @@
    "fecha": "2026-08-10",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 1,
+   "ATP": 0,
    "sae": 0
   },
   {
@@ -721,24 +712,6 @@
     {
      "nivel": "ATP",
      "ts": "17-08 18:57",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Maule",
-   "region": "Maule",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "10-08 17:15",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "13-08 17:48",
      "estado": "CANCELADA"
     }
    ]
