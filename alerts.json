@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-20T21:46:31+00:00",
+ "generado": "2026-08-20T22:10:02+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 13,
  "alertas": [
+  {
+   "id": "fa97513f9315",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se modifica cobertura Alerta Temprana Preventiva para la Provincia de Palena por heladas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A434 Heladas normales a moderadas en Patagonia subandina. 21-08 22-08 Abrir aquí Cabe señalar que, se ha cancelado el Aviso meteorológico A431 que pronostico precipitaciones normales a moderadas en el litoral interior y cordillera austral de la región, debido al debilitamiento de las condiciones meteorológicas que dieron su origen. En consideración a estos anteceden",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-20T17:45:29.2929-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "8507f983d333",
    "nivel": "ATP",
@@ -75,20 +89,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-19T17:50:47.4747-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-altas-temperaturas-2026-08-19-17-52-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1f52666dfec2",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se modifica Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A431 Precipitaciones normales a moderadas en el litoral interior y cordillera austral. 19-08 20-08 Abrir aquí Aviso A434 Heladas normales a moderadas en Patagonia subandina. 21-08 22-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED modifica evento de Ale",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-19T15:40:06.066-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13",
    "origen": "senapred_web",
    "regiones_extra": []
   },
