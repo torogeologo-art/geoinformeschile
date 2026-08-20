@@ -1,9 +1,9 @@
 {
- "generado": "2026-08-19T23:40:14+00:00",
+ "generado": "2026-08-20T01:53:29+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "09-08-2026",
-  "hasta": "19-08-2026"
+  "desde": "10-08-2026",
+  "hasta": "20-08-2026"
  },
  "totales": {
   "alertas": 118,
@@ -483,8 +483,8 @@
   ]
  },
  "vigentes": {
-  "ROJA": 6,
-  "AMARILLA": 4,
+  "ROJA": 5,
+  "AMARILLA": 3,
   "ATP": 6,
   "regiones_roja": [
    "Antofagasta",
