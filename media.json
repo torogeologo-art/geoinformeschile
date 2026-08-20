@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-20T09:44:15+00:00",
- "desde": "2026-08-18T09:44:13Z",
+ "generado": "2026-08-20T10:12:27+00:00",
+ "desde": "2026-08-18T10:12:25Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "antofagasta": {
@@ -15,7 +15,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-08-19T15:27:11Z",
      "live": false,
-     "score": 4.48,
+     "score": 4.44,
      "verificado": false,
      "embeddable": true
     },
@@ -62,7 +62,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-08-19T16:19:22Z",
      "live": true,
-     "score": 6.55,
+     "score": 6.51,
      "verificado": false,
      "embeddable": true
     }
