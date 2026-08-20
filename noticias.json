@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-20T22:35:09+00:00",
+ "generado": "2026-08-20T23:04:58+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -180,6 +180,13 @@
    "comuna": "Los Vilos",
    "noticias": [
     {
+     "titulo": "Aluvión afecta a familias de Infiernillo en Los Vilos: viviendas y vehículos quedaron bajo el barro - David Noticias",
+     "medio": "David Noticias",
+     "fecha": "2026-08-10T22:29:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wd1QxQmV2cm5Camk3U3p4bWJqN19QR1JCT2VySG1vV2pyNzY4RllrUGtJd1NDakdEaS1IeXZxX3M1cl9xQ3lXSzlLU0pWQQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "río Quilimarí - Radio Agricultura",
      "medio": "Radio Agricultura",
      "fecha": "2026-08-07T05:26:30+00:00",
@@ -240,13 +247,6 @@
      "medio": "David Noticias",
      "fecha": "2026-07-22T15:11:27+00:00",
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTW1DeDVSWXFHSXR3dzZJbjlmVkhlVEkzcHAxazFiSTQ2NmtlWk13Mk1VSjNVdTRyU1UwMlhfUnNLd2dmd3dVYUpTYXdyM29TUExlVWtZVDRlMXJUNkI5TWgySzAzMXpteG9aV1FzbmlaOVZwUlVBVXNheWtpTnR4aVFkNFFyWFlXcm5Jb2VoM3ZCYUZGQ00wS0hCYWdFLThYZWNuZ2VILU4yeGd4OEZlNmxsUnlZM1JwWi1OTDdLX25XRnBFcThJdHJkZjBCNlJBNGRNQXJsSGg2NnJqeHNLSTJuRktHLVMwSnFQYw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "[Minuto a Minuto] Clases suspendidas este miércoles en las regiones de Coquimbo y Valparaíso, más comunas de Atacama y la RM - Radar BioBio",
-     "medio": "Radar BioBio",
-     "fecha": "2026-07-22T02:08:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaEMtbTd0amtlT19mVUQzN29ScUxTRk1GWk4tcUZYTlJ3d1AxaXE5UmpOYVlCOW1yQWptVWl0V2RxQ2Q4Z2V2WGZpdnU0SURNZTN4VVRaVXIzaVhRWlQ5VGEwVy1SSTc5dWhoSlZIdTh4UnU0UHFkUFZEek40bWxhbzFlR0R3ZnVwVzFMNkRETmNLY2VUSzZTNFhDbG9OZjRsMlRyNk5mWk1tOEFOYnNQdTdFNHFGVU9FRmsybFVRd0xyV2xGeHhxdXNuTDM5VTBIdkNGYzU4eVlPLUF5TnlFRDF5eHg3cmxqUzhSLTBkMzlnLXZ3SkNyWg?oc=5",
      "sector": null
     }
    ]
@@ -3347,6 +3347,24 @@
    "comuna": "Antofagasta",
    "noticias": [
     {
+     "titulo": "Aplicarán FIBE para avanzar en ayudas a afectados en el sector Coloso de Antofagasta - Antofagasta TV",
+     "medio": "Antofagasta TV",
+     "fecha": "2026-08-20T21:42:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUlzRzlfVXJfZmNPRFdmWVM2NkI4OXJBTmdkLWU4TEdGWk9lQU5qN1lIcF9NTnBjSjZ1ZnBfLWNxSllrODU4ZzJEU0F0V3Y5U3ZfM2ZJcTVKckx2b2lVRUh3T3dVem9WSlF4WFp6VVhURnNERDRQQkVXTzZRZGhDS0FuT1ZWMUd3emdDRFNKTXlJcWdpM3FLZjdLSlE3WnQzYUNabmZRVkx6RHd4UlZPcS12eFE?oc=5",
+     "sector": {
+      "nombre": "sector Coloso",
+      "lat": -23.69712,
+      "lon": -70.42208
+     }
+    },
+    {
+     "titulo": "Tras daños por lluvias en Caleta Coloso: aplicarán FIBE para avanzar en ayudas a familias afectadas - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-08-20T18:19:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1FVUXprWjNPM0VQNnBMOEJMWUREMU5OMGloSjNMeEdHS2lFZDlNaGFtOEd0bC1SUTNZU21SeDlZeDBvcWJNdlNLVGdnNXZjRDRvWWRtQjc1Z3NvSTdCNGJPSWo4LXNCd1pCRHJiZFZ0TzhubEtIRDdhWU8yT0plSjlLZG43ZDFTTHkwcVlaaGxIcUZrWWF0ZzFVWm5zRk1BcEhJ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Comité de Ministros resolverá reclamaciones del proyecto Aguas Marítimas de Cramsa - SoyChile.cl",
      "medio": "SoyChile.cl",
      "fecha": "2026-08-20T15:24:09+00:00",
@@ -3404,20 +3422,6 @@
      "medio": "SoyChile.cl",
      "fecha": "2026-08-19T20:44:09+00:00",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTEUxOTNjYjBXNFBSbWYwV082eFdfOEkxYnVWbXpyaHF0aVRsOUdkaXRCRVJvWVcybjNTdkQ3aHUtUWI4QTQ1NXNLbW02YklHd2lxOGdvLW1wTkMxNkx5cHNHMWFLVkkxVE1iRkRlMk1qQ24zRldzRThlTEtMbXBGMVAwTFBoZXNzVVJKa040OW4tdw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Obras aluvionales evitaron una tragedia mayor en Tocopilla: sistema puede retener 230 mil metros cúbicos en seis quebradas - soy-chile.cl",
-     "medio": "soy-chile.cl",
-     "fecha": "2026-08-19T19:44:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcjZESnYyZUpBT1ZDX0ZYRG5ya0ZsQkRwWTAxb1F6aVJ5WDh4QndhR1BUdmxUcGo2XzJIZHdqQV9VOHE5d01wT1M0cmdvZHRwTkxFUGhVZlA0VEtrbWZ4MHJKd2ppS1VRemNrUnRHdkF0Qkphbkp4SlVmVEhRcUtmNHM2UURZNS1DZjVpOEJEY3AyODA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Rescatan en helicóptero a cinco personas aisladas tras remoción en masa en la Ruta 1 entre Tocopilla y Antofagasta - soy-chile.cl",
-     "medio": "soy-chile.cl",
-     "fecha": "2026-08-19T18:44:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjNudjVnVVYzSlJPSGZXSjVpNV81X0d4NjRnam13Y00yV2Z4UUQ2Um9FQWJiWVlPR1dDNG1tRjBDdTB2U3F2Y0I5V1Fua3Zmb2hBZ1ZleGV1S3NyZmRPUEtveDJScnJyT0NaRFJxc3RiRTRhQ25oS0FoZ2RRZjNyQnQtMjUtR2RyUlF0Ym5FdzZUdEU?oc=5",
      "sector": null
     }
    ]

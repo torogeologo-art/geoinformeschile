@@ -1,17 +1,17 @@
 {
- "generado": "2026-08-20T22:35:12+00:00",
+ "generado": "2026-08-20T23:05:00+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "10-08-2026",
   "hasta": "20-08-2026"
  },
  "totales": {
-  "alertas": 110,
+  "alertas": 109,
   "sae": 10,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "AMARILLA": 43,
+   "AMARILLA": 42,
    "ATP": 56,
    "ROJA": 11
   },
@@ -22,7 +22,7 @@
    ],
    [
     "viento",
-    20
+    19
    ],
    [
     "evento meteorológico",
@@ -194,7 +194,7 @@
     "region": "Atacama",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "10-08",
+    "ts": "13-08",
     "comuna_link": "",
     "region_link": "atacama"
    },
@@ -466,13 +466,6 @@
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-08-10",
-   "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 0,
-   "sae": 0
-  },
   {
    "fecha": "2026-08-11",
    "ROJA": 1,
