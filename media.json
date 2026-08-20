@@ -1,54 +1,6 @@
 {
- "generado": "2026-08-20T11:33:49+00:00",
- "desde": "2026-08-18T11:33:48Z",
+ "generado": "2026-08-20T12:03:15+00:00",
+ "desde": "2026-08-18T12:03:14Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "antofagasta": {
-   "comuna": "Antofagasta",
-   "region": "Antofagasta",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "ekn98ZMvhUw",
-     "url": "https://www.youtube.com/watch?v=ekn98ZMvhUw",
-     "titulo": "Emergencia en el norte: Aluviones golpean Iquique y Antofagasta",
-     "canal": "Meganoticias",
-     "publicado": "2026-08-19T15:27:11Z",
-     "live": false,
-     "score": 4.32,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "FG1K56dpSI8",
-     "url": "https://www.youtube.com/watch?v=FG1K56dpSI8",
-     "titulo": "Lluvia intensa golpea a Antofagasta: Calles anegadas, cortes de luz y riesgo de mayores inundaciones",
-     "canal": "Meganoticias",
-     "publicado": "2026-08-18T14:02:41Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "s11ZcXvn4tU",
-     "url": "https://www.youtube.com/watch?v=s11ZcXvn4tU",
-     "titulo": "Hostal Sol del Norte",
-     "canal": "Milenka Cordero",
-     "publicado": "2026-08-18T20:25:10Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
