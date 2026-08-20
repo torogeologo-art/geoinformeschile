@@ -1,6 +1,102 @@
 {
- "generado": "2026-08-20T12:04:17+00:00",
- "desde": "2026-08-18T12:04:16Z",
+ "generado": "2026-08-20T13:12:21+00:00",
+ "desde": "2026-08-18T13:12:19Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "i98ssG1s3rk",
+     "url": "https://www.youtube.com/watch?v=i98ssG1s3rk",
+     "titulo": "Pescadores de Caleta Coloso en Antofagasta hablan sobre pérdidas en aluvión",
+     "canal": "TVN Chile",
+     "publicado": "2026-08-19T22:58:30Z",
+     "live": false,
+     "score": 6.81,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "lRlAK2Wlqbg",
+     "url": "https://www.youtube.com/watch?v=lRlAK2Wlqbg",
+     "titulo": "Tras sistema frontal que azotó la región de Antofagasta Caleta Coloso resultó gravemente dañada",
+     "canal": "Antofagasta TV",
+     "publicado": "2026-08-19T22:12:09Z",
+     "live": false,
+     "score": 6.75,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "db3N6OdBTu0",
+     "url": "https://www.youtube.com/watch?v=db3N6OdBTu0",
+     "titulo": "después del aluvión caleta coloso antofagasta",
+     "canal": "Pablo Carrizo",
+     "publicado": "2026-08-19T21:39:38Z",
+     "live": false,
+     "score": 6.7,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "0l9msUKyLFY",
+     "url": "https://www.youtube.com/watch?v=0l9msUKyLFY",
+     "titulo": "aluvión caleta coloso antofagasta",
+     "canal": "Pablo Carrizo",
+     "publicado": "2026-08-19T21:35:43Z",
+     "live": false,
+     "score": 6.7,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "yGYTMWpqvaI",
+     "url": "https://www.youtube.com/watch?v=yGYTMWpqvaI",
+     "titulo": "aluvión caleta coloso antofagasta",
+     "canal": "Pablo Carrizo",
+     "publicado": "2026-08-19T21:33:40Z",
+     "live": false,
+     "score": 6.7,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "XKnrKjQaL6k",
+     "url": "https://www.youtube.com/watch?v=XKnrKjQaL6k",
+     "titulo": "LOS ESTRAGOS que dejaron las lluvias en Antofagasta e Iquique: Aluvión sepultó autos en Coloso",
+     "canal": "CHV Noticias",
+     "publicado": "2026-08-19T21:30:31Z",
+     "live": false,
+     "score": 6.69,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "UpsodJOa_PU",
+     "url": "https://www.youtube.com/watch?v=UpsodJOa_PU",
+     "titulo": "Calles de sector Coloso cubiertas por el barro en Antofagasta",
+     "canal": "Meganoticias",
+     "publicado": "2026-08-19T19:18:10Z",
+     "live": false,
+     "score": 6.51,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "1U4TlgU6DmM",
+     "url": "https://www.youtube.com/watch?v=1U4TlgU6DmM",
+     "titulo": "Así quedó Caleta Coloso tras aluvión en Antofagasta: Arrasó con casas y embarcaciones",
+     "canal": "CHV Noticias",
+     "publicado": "2026-08-19T16:50:05Z",
+     "live": false,
+     "score": 6.3,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
