@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-21T11:06:06+00:00",
- "desde": "2026-08-19T11:06:04Z",
+ "generado": "2026-08-21T11:31:15+00:00",
+ "desde": "2026-08-19T11:31:13Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "antofagasta": {
@@ -27,6 +27,24 @@
      "publicado": "2026-08-19T15:27:11Z",
      "live": false,
      "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "la serena": {
+   "comuna": "La Serena",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "b9Hr3_qhaj4",
+     "url": "https://www.youtube.com/watch?v=b9Hr3_qhaj4",
+     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
+     "canal": "La Serena Drone",
+     "publicado": "2026-08-19T16:19:22Z",
+     "live": true,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     }
