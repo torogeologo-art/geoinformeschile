@@ -1,13 +1,41 @@
 {
- "generado": "2026-08-21T19:01:00+00:00",
+ "generado": "2026-08-21T19:31:57+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 14,
+ "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "00af0b4d51e4",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A437 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 24-08 26-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por evento meteorológico , vigente a contar de hoy y hast",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-21T15:01:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-08-21-15-28-01",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "316a40224d8a",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A437 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 24-08 26-08 Abrir aquí Aviso A438 Precipitaciones normales a moderadas en litoral, cordillera de la costa y valle. 25-08 26-08 Abrir aquí Aviso A439 Precipitaciones normales a moderadas con isoterma cero alta en precordillera y cordillera. 25-08 26-08 Abrir aquí En",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-21T14:18:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-21-15-16-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "60d17bce231a",
    "nivel": "ATP",
@@ -1957,20 +1985,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "9966887c27d1",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva en la Provincia de Tamarugal por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones meteorológicas iniciales, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Tarapacá. Alertamiento Pronóstico Aviso A320-8/2026 Viento normal a moderado en cordillera. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por viento en la Provincia de Tamarugal, que se mantuvo vigente desde el 13 de julio de 202",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-23T10:25:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-viento-2026-07-13-18-03-41",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "bf6e2801fcbd",
