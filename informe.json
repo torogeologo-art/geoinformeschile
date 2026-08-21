@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-21T17:36:04+00:00",
+ "generado": "2026-08-21T18:13:22+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "11-08-2026",
   "hasta": "21-08-2026"
  },
  "totales": {
-  "alertas": 106,
+  "alertas": 105,
   "sae": 10,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "AMARILLA": 41,
    "ATP": 54,
-   "ROJA": 11
+   "ROJA": 11,
+   "AMARILLA": 40
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    61
+    60
    ],
    [
     "viento",
@@ -71,15 +71,6 @@
     "region_link": "antofagasta"
    },
    {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "11-08",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
     "nivel": "AMARILLA",
@@ -96,6 +87,15 @@
     "ts": "18-08",
     "comuna_link": "",
     "region_link": "arica y parinacota"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "12-08",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Atacama",
@@ -478,7 +478,7 @@
   {
    "fecha": "2026-08-11",
    "ROJA": 1,
-   "AMARILLA": 4,
+   "AMARILLA": 3,
    "ATP": 2,
    "sae": 1
   },
