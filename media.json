@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-21T12:03:10+00:00",
- "desde": "2026-08-19T12:03:08Z",
+ "generado": "2026-08-21T12:16:33+00:00",
+ "desde": "2026-08-19T12:16:32Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "antofagasta": {
@@ -9,41 +9,89 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "Nfg6JvWCPVM",
-     "url": "https://www.youtube.com/watch?v=Nfg6JvWCPVM",
-     "titulo": "#BuzóndeRAO | Capítulo 168 | miércoles 19 de agosto del 2026",
-     "canal": "Radio Antofagasta Online",
-     "publicado": "2026-08-19T19:31:06Z",
+     "id": "btLn9QKB-XU",
+     "url": "https://www.youtube.com/watch?v=btLn9QKB-XU",
+     "titulo": "Dron registró el estado de Caleta Coloso tras paso de aluvión #chvnoticias",
+     "canal": "CHV Noticias",
+     "publicado": "2026-08-20T22:45:25Z",
      "live": false,
-     "score": 3.0,
+     "score": 6.87,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "ekn98ZMvhUw",
-     "url": "https://www.youtube.com/watch?v=ekn98ZMvhUw",
-     "titulo": "Emergencia en el norte: Aluviones golpean Iquique y Antofagasta",
-     "canal": "Meganoticias",
-     "publicado": "2026-08-19T15:27:11Z",
+     "id": "uLBFqhgQXpE",
+     "url": "https://www.youtube.com/watch?v=uLBFqhgQXpE",
+     "titulo": "Caleta Coloso golpeado por aluvión: Cámara aérea muestra como quedó localidad de Antofagasta",
+     "canal": "CHV Noticias",
+     "publicado": "2026-08-20T16:10:23Z",
      "live": false,
-     "score": 3.0,
+     "score": 6.32,
      "verificado": false,
      "embeddable": true
-    }
-   ]
-  },
-  "la serena": {
-   "comuna": "La Serena",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
+    },
     {
-     "id": "b9Hr3_qhaj4",
-     "url": "https://www.youtube.com/watch?v=b9Hr3_qhaj4",
-     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
-     "canal": "La Serena Drone",
-     "publicado": "2026-08-19T16:19:22Z",
-     "live": true,
+     "id": "i98ssG1s3rk",
+     "url": "https://www.youtube.com/watch?v=i98ssG1s3rk",
+     "titulo": "Pescadores de Caleta Coloso en Antofagasta hablan sobre pérdidas en aluvión",
+     "canal": "TVN Chile",
+     "publicado": "2026-08-19T22:58:30Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "lRlAK2Wlqbg",
+     "url": "https://www.youtube.com/watch?v=lRlAK2Wlqbg",
+     "titulo": "Tras sistema frontal que azotó la región de Antofagasta Caleta Coloso resultó gravemente dañada",
+     "canal": "Antofagasta TV",
+     "publicado": "2026-08-19T22:12:09Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "db3N6OdBTu0",
+     "url": "https://www.youtube.com/watch?v=db3N6OdBTu0",
+     "titulo": "después del aluvión caleta coloso antofagasta",
+     "canal": "Pablo Carrizo",
+     "publicado": "2026-08-19T21:39:38Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "0l9msUKyLFY",
+     "url": "https://www.youtube.com/watch?v=0l9msUKyLFY",
+     "titulo": "aluvión caleta coloso antofagasta",
+     "canal": "Pablo Carrizo",
+     "publicado": "2026-08-19T21:35:43Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "yGYTMWpqvaI",
+     "url": "https://www.youtube.com/watch?v=yGYTMWpqvaI",
+     "titulo": "aluvión caleta coloso antofagasta",
+     "canal": "Pablo Carrizo",
+     "publicado": "2026-08-19T21:33:40Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "XKnrKjQaL6k",
+     "url": "https://www.youtube.com/watch?v=XKnrKjQaL6k",
+     "titulo": "LOS ESTRAGOS que dejaron las lluvias en Antofagasta e Iquique: Aluvión sepultó autos en Coloso",
+     "canal": "CHV Noticias",
+     "publicado": "2026-08-19T21:30:31Z",
+     "live": false,
      "score": 5.0,
      "verificado": false,
      "embeddable": true
