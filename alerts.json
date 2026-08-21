@@ -1,13 +1,41 @@
 {
- "generado": "2026-08-21T22:02:04+00:00",
+ "generado": "2026-08-21T22:43:13+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "004842d3da69",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A437 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 24-08 26-08 Abrir aquí Aviso A438 Precipitaciones normales a moderadas en litoral, cordillera de la costa y valle. 25-08 26-08 Abrir aquí Aviso A439 Precipitaciones normales a moderadas con isoterma cero alta en precordillera y cordillera. 25-08 26-08 Abrir aquí Por",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-21T17:08:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-21-15-16-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ec34638df838",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Aviso A437 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 24-08 26-08 Abrir aquí Aviso A438 Precipitaciones normales a moderadas en litoral, cordillera de la costa y valle. 25-08 26-08 Abrir aquí Aviso A439 Precipitaciones normales a moderadas con isoterma cero alta en precordillera y cordillera. 25-08 26-08 Abrir aquí En",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-21T16:07:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "2e6ac6f9084e",
    "nivel": "AMARILLA",
@@ -47,20 +75,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-21T15:01:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-08-21-15-28-01",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "316a40224d8a",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A437 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 24-08 26-08 Abrir aquí Aviso A438 Precipitaciones normales a moderadas en litoral, cordillera de la costa y valle. 25-08 26-08 Abrir aquí Aviso A439 Precipitaciones normales a moderadas con isoterma cero alta en precordillera y cordillera. 25-08 26-08 Abrir aquí En",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-21T14:18:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-21-15-16-11",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1983,22 +1997,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-copiapo-y-caldera-por-evento-meteorologico-2026-07-19-03-21-21",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "f2398ffd116d",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes por Heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento cancelado Pronóstico Alerta AA104 Heladas moderadas a intensas cordillera austral norte, insular norte y pampa patagonia norte. Aviso A327-1 Heladas normales a moderadas cordillera en austral sur, insular sur, pampa patagónica norte y pampa patagónica sur. En consideración estos antecedentes y en coordinación con la Delegación Presidenc",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-23T15:45:10.1010-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-heladas-2026-07-14-18-30-50",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "bf6e2801fcbd",
