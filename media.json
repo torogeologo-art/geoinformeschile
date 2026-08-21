@@ -1,98 +1,21 @@
 {
- "generado": "2026-08-21T12:16:33+00:00",
- "desde": "2026-08-19T12:16:32Z",
+ "generado": "2026-08-21T13:12:24+00:00",
+ "desde": "2026-08-19T13:12:23Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "antofagasta": {
-   "comuna": "Antofagasta",
-   "region": "Antofagasta",
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "btLn9QKB-XU",
-     "url": "https://www.youtube.com/watch?v=btLn9QKB-XU",
-     "titulo": "Dron registró el estado de Caleta Coloso tras paso de aluvión #chvnoticias",
-     "canal": "CHV Noticias",
-     "publicado": "2026-08-20T22:45:25Z",
-     "live": false,
-     "score": 6.87,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "uLBFqhgQXpE",
-     "url": "https://www.youtube.com/watch?v=uLBFqhgQXpE",
-     "titulo": "Caleta Coloso golpeado por aluvión: Cámara aérea muestra como quedó localidad de Antofagasta",
-     "canal": "CHV Noticias",
-     "publicado": "2026-08-20T16:10:23Z",
-     "live": false,
-     "score": 6.32,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "i98ssG1s3rk",
-     "url": "https://www.youtube.com/watch?v=i98ssG1s3rk",
-     "titulo": "Pescadores de Caleta Coloso en Antofagasta hablan sobre pérdidas en aluvión",
-     "canal": "TVN Chile",
-     "publicado": "2026-08-19T22:58:30Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "lRlAK2Wlqbg",
-     "url": "https://www.youtube.com/watch?v=lRlAK2Wlqbg",
-     "titulo": "Tras sistema frontal que azotó la región de Antofagasta Caleta Coloso resultó gravemente dañada",
-     "canal": "Antofagasta TV",
-     "publicado": "2026-08-19T22:12:09Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "db3N6OdBTu0",
-     "url": "https://www.youtube.com/watch?v=db3N6OdBTu0",
-     "titulo": "después del aluvión caleta coloso antofagasta",
-     "canal": "Pablo Carrizo",
-     "publicado": "2026-08-19T21:39:38Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "0l9msUKyLFY",
-     "url": "https://www.youtube.com/watch?v=0l9msUKyLFY",
-     "titulo": "aluvión caleta coloso antofagasta",
-     "canal": "Pablo Carrizo",
-     "publicado": "2026-08-19T21:35:43Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "yGYTMWpqvaI",
-     "url": "https://www.youtube.com/watch?v=yGYTMWpqvaI",
-     "titulo": "aluvión caleta coloso antofagasta",
-     "canal": "Pablo Carrizo",
-     "publicado": "2026-08-19T21:33:40Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "XKnrKjQaL6k",
-     "url": "https://www.youtube.com/watch?v=XKnrKjQaL6k",
-     "titulo": "LOS ESTRAGOS que dejaron las lluvias en Antofagasta e Iquique: Aluvión sepultó autos en Coloso",
-     "canal": "CHV Noticias",
-     "publicado": "2026-08-19T21:30:31Z",
-     "live": false,
-     "score": 5.0,
+     "id": "FRNEczLKfwM",
+     "url": "https://www.youtube.com/watch?v=FRNEczLKfwM",
+     "titulo": "EN VIVO DESDE CALAMA – Informativo de Punto de Prensa – 21 agosto 2026",
+     "canal": "diarioenlalinea",
+     "publicado": "2026-08-21T12:29:00Z",
+     "live": true,
+     "score": 7.94,
      "verificado": false,
      "embeddable": true
     }
