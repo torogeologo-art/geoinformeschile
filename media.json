@@ -1,6 +1,54 @@
 {
- "generado": "2026-08-21T06:18:02+00:00",
- "desde": "2026-08-19T06:18:01Z",
+ "generado": "2026-08-21T07:02:11+00:00",
+ "desde": "2026-08-19T07:02:08Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "Nfg6JvWCPVM",
+     "url": "https://www.youtube.com/watch?v=Nfg6JvWCPVM",
+     "titulo": "#BuzóndeRAO | Capítulo 168 | miércoles 19 de agosto del 2026",
+     "canal": "Radio Antofagasta Online",
+     "publicado": "2026-08-19T19:31:06Z",
+     "live": false,
+     "score": 3.04,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "ekn98ZMvhUw",
+     "url": "https://www.youtube.com/watch?v=ekn98ZMvhUw",
+     "titulo": "Emergencia en el norte: Aluviones golpean Iquique y Antofagasta",
+     "canal": "Meganoticias",
+     "publicado": "2026-08-19T15:27:11Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "la serena": {
+   "comuna": "La Serena",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "b9Hr3_qhaj4",
+     "url": "https://www.youtube.com/watch?v=b9Hr3_qhaj4",
+     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
+     "canal": "La Serena Drone",
+     "publicado": "2026-08-19T16:19:22Z",
+     "live": true,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
