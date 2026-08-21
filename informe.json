@@ -1,18 +1,18 @@
 {
- "generado": "2026-08-21T22:02:08+00:00",
+ "generado": "2026-08-21T22:43:51+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "11-08-2026",
   "hasta": "21-08-2026"
  },
  "totales": {
-  "alertas": 105,
+  "alertas": 106,
   "sae": 9,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
    "AMARILLA": 39,
-   "ATP": 56,
+   "ATP": 57,
    "ROJA": 10
   },
   "por_tipo": [
@@ -22,7 +22,7 @@
    ],
    [
     "viento",
-    23
+    24
    ],
    [
     "evento meteorológico",
@@ -476,7 +476,7 @@
  "vigentes": {
   "ROJA": 5,
   "AMARILLA": 2,
-  "ATP": 9,
+  "ATP": 10,
   "regiones_roja": [
    "Antofagasta",
    "Atacama",
@@ -558,7 +558,7 @@
    "fecha": "2026-08-21",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 4,
+   "ATP": 5,
    "sae": 0
   }
  ],
@@ -762,6 +762,15 @@
  ],
  "cronologia": [
   {
+   "ts": "21-08 16:07",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25"
+  },
+  {
    "ts": "21-08 15:55",
    "nivel": "AMARILLA",
    "lugar": "Región de Coquimbo",
@@ -877,15 +886,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43"
-  },
-  {
-   "ts": "19-08 11:10",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-rio-verde-y-punta-arenas-por-viento-2026-08-16-16-32-13"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
