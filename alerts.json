@@ -1,13 +1,27 @@
 {
- "generado": "2026-08-21T16:55:03+00:00",
+ "generado": "2026-08-21T17:33:25+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 13,
+ "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "60d17bce231a",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , en mesa técnica realizada durante al jornada del día 20 de agosto en donde se analizaron las proyecciones meteorológicas para los próximos días en la región, destacando precipitaciones (mm), Viento (Km/h) e Isoterma (m.s.n.m) con los siguientes montos: Zona 24 de agosto 25 de agosto 26 de agosto Precipitaciones Viento Precipitaciones Viento Precipitaciones Viento Litoral 15 – 25 25 – 40 rachas 50 35 – 50 25 – 40 rachas 60 15 – 25 25 – 40 Cordillera de la Costa 35 – 45 Valle Longitudinal 25 – 35 25 – 40",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-21T13:30:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "fa97513f9315",
    "nivel": "ATP",
