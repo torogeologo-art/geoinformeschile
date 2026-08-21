@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-21T16:12:22+00:00",
+ "generado": "2026-08-21T16:55:07+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "11-08-2026",
   "hasta": "21-08-2026"
  },
  "totales": {
-  "alertas": 106,
+  "alertas": 105,
   "sae": 10,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 54,
    "AMARILLA": 41,
+   "ATP": 53,
    "ROJA": 11
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    62
+    61
    ],
    [
     "viento",
@@ -470,7 +470,7 @@
    "fecha": "2026-08-11",
    "ROJA": 1,
    "AMARILLA": 4,
-   "ATP": 3,
+   "ATP": 2,
    "sae": 1
   },
   {
@@ -539,39 +539,6 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de Tarapacá",
-   "region": "Tarapacá",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "16-08 23:41",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "17-08 19:21",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "18-08 14:33",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "18-08 17:38",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "19-08 21:53",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Atacama",
    "region": "Atacama",
    "sae": true,
@@ -600,6 +567,39 @@
     {
      "nivel": "ATP",
      "ts": "19-08 17:50",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Tarapacá",
+   "region": "Tarapacá",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "16-08 23:41",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-08 19:21",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "18-08 14:33",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "18-08 17:38",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-08 21:53",
      "estado": "VIGENTE"
     }
    ]
