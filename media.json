@@ -1,25 +1,6 @@
 {
- "generado": "2026-08-21T14:00:13+00:00",
- "desde": "2026-08-19T14:00:12Z",
+ "generado": "2026-08-21T14:08:43+00:00",
+ "desde": "2026-08-19T14:08:42Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "antofagasta": {
-   "comuna": "Antofagasta",
-   "region": "Antofagasta",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "f5dGSwuoof4",
-     "url": "https://www.youtube.com/watch?v=f5dGSwuoof4",
-     "titulo": "EN VIVO | MATINAL DE ANTOFAGASTA | 21 DE AGOSTO 2026 | ANTOFAGASTA TV",
-     "canal": "Antofagasta TV",
-     "publicado": "2026-08-20T22:34:10Z",
-     "live": true,
-     "score": 6.71,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
