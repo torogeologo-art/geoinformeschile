@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-21T04:56:24+00:00",
+ "generado": "2026-08-21T05:40:13+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -365,6 +365,13 @@
      "sector": null
     },
     {
+     "titulo": "​Nueva Atacama normaliza el suministro de agua potable en todo Huasco - Radio Atacama",
+     "medio": "Radio Atacama",
+     "fecha": "2026-07-31T00:22:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTU1HYzBaaVJRUW5IMjhOczNfbUswWHVTOFZjbDNRblBHVlRvWkZjS3NIdTQ5R2RRRE5Dd0w1Q1NJblc4OTQwblozTzFXMExrR3NWZDNlTC1LdTgyWExYbi11bk8tVmdKWmtWcno1bWgtNjVtN2FIX0VxeERhcERIbGpnY0xPMzZ1RE9SSWsyWTVkeF8xLWc?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Hasta el 29 de junio estarán suspendidas las clases en la provincia del Huasco - SoyChile.cl",
      "medio": "SoyChile.cl",
      "fecha": "2026-07-27T19:15:33+00:00",
@@ -390,13 +397,6 @@
      "medio": "Revista Digital Minera REDIMIN",
      "fecha": "2026-07-25T23:40:03+00:00",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMWdNZGdmSElzUm15Mm9oaENLVzM4M0FULVc4dVBIQ1BWdW5FNXMyb0tQaHVxWXZPU2k5VGpOc3NHRFcyWTdSczMweEE0S2FJcTJ6dEoxdGxBS1ljQXNKWmpkQUNQcnd0Nl9uNGJJYUJhOEsxUU1FV3pnbEFGSFZ0WXZlWWhobFlDQ1ZaQXlLcWYyblBtaU52ZXBQUUlqd3l0WXpzYUJ2Vk0zMmJEbmdF?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alcalde de Huasco constata daños en sectores rurales y coordina despliegue de ayuda para familias afectadas - Medio digital El Zorro Nortino",
-     "medio": "Medio digital El Zorro Nortino",
-     "fecha": "2026-07-25T04:13:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVG9pMGRkcEMzSkExaUc5N3o5eGFFejBlOF9DUXV4MXZ3VjMtZlpqUXgtQVdsNUxVQ3VpdlI3aVVTYkFjM3QtNnJHM3M3b1BHTjhFNkJKN3VPazdsbTY0dmMzSGVlWDhOSk5fRVgtMk5fa2phSDZJbzVGbXRJSllpLU42OXZZSnZMVGhyMkFycFpHUHpudDhybEFVTC16azFaSTJJY3pnVUVHenI1NkhoaEU4RzBwTmM5NDYwcm1QVFhpUHBfRnlrUFRIZGsyMjlnSXRoM3N0b0l4TkdINERyQ1AtWkNsVWdkakJZ?oc=5",
      "sector": null
     }
    ]
@@ -1329,6 +1329,13 @@
    "comuna": "Caldera",
    "noticias": [
     {
+     "titulo": "Funcionarios municipales de Caldera apoyan a vecinos de Puerto Viejo tras efectos del paso del sistema frontal - RadioGennesis",
+     "medio": "RadioGennesis",
+     "fecha": "2026-08-20T17:08:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMTkxM0hSWHoyZDYwY0dUT0FtQ1NtbEt3UXV3MnVDbWhZNE5lUDNUa2xveFlLbEVVWXdkSlM3MlBpY3dqQndaeEVNVy1vU1k5UmpGdHJtdkhScmxQUGdWb0l2UG13b1R1MDFyUGlWSUdJLVd5YktQVHVfVlp3RW5qSUF1MlFMRExUblpKY1JOUnF6bWhGTmpzUV9sQ0h0Nk5HR2VJY2pOSFMxdUg2TE9BbFJ0UjU0eFVHekNuM1luZm5RWHktaEtGREJwNnNqU1ZDSXRkcDJtTDlMWkdEcTJjWEF2ZWJNZw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Funcionarios municipales apoyan a vecinos de Puerto Viejo - elzorronortino.cl",
      "medio": "elzorronortino.cl",
      "fecha": "2026-08-20T00:11:28+00:00",
@@ -1389,13 +1396,6 @@
      "medio": "Radio Atacama",
      "fecha": "2026-08-18T14:08:26+00:00",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTzFxLTllS3Y4VktTeFZ0V05TWnFOS1pPT0wydVprZWNYM3RWVXp1LVRiNmhabktDN04yZXlibWVabnk0a0QtMU5TclIzbDAteVRVTmJENmVZQ2x2UnZnaU44ajhuMnI4SE9pb3JPbzJqU2NJbm5HU3U3V0dmbWJkMmpNYnk4NVF4czBjMWhNTVNzb25hRnNHV19wdnNYMGdRQ3pwa2tBMGdCVmtzdzEyVTVPZFNLNGZMY2FUZ0JpT19GTDJVVVNFNlBRYXp4STI5c2p0bw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Aluvión afecta a Puerto Viejo: más de 10 viviendas afectadas por intensas lluvias - ADN Radio",
-     "medio": "ADN Radio",
-     "fecha": "2026-08-18T13:30:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnlDUmMtT2djRE94QndyTGlyUF92ZDZqY0lrQ2FlVndQVVBZNWVPZHFWWU8yeGprVTk5RGt4SE9QN0FJYkVzc3M3VmRxSEk1aEdXWTRxdXdCRDNHcDR1NmJ3bURtVGhDNGI4YTVlcTMwZnBRQTZJc1lmTVNpUm5rSlFDaWhEMG56VDRoWUo2c1U5Yk5MaXRrU3pmTWJOQ3J2VEpvNDJRaFFPWExZQTBCUmJ0R0ZBSVpSRGxIT3Vpc0VnVUZrbU5mYU9ud9IBywFBVV95cUxOUnlDUmMtT2djRE94QndyTGlyUF92ZDZqY0lrQ2FlVndQVVBZNWVPZHFWWU8yeGprVTk5RGt4SE9QN0FJYkVzc3M3VmRxSEk1aEdXWTRxdXdCRDNHcDR1NmJ3bURtVGhDNGI4YTVlcTMwZnBRQTZJc1lmTVNpUm5rSlFDaWhEMG56VDRoWUo2c1U5Yk5MaXRrU3pmTWJOQ3J2VEpvNDJRaFFPWExZQTBCUmJ0R0ZBSVpSRGxIT3Vpc0VnVUZrbU5mYU9udw?oc=5",
      "sector": null
     }
    ]
