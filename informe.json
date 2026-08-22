@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-22T13:38:01+00:00",
+ "generado": "2026-08-22T14:00:26+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "12-08-2026",
   "hasta": "22-08-2026"
  },
  "totales": {
-  "alertas": 101,
+  "alertas": 99,
   "sae": 8,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 55,
-   "AMARILLA": 37,
-   "ROJA": 9
+   "ROJA": 9,
+   "ATP": 54,
+   "AMARILLA": 36
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    53
+    51
    ],
    [
     "viento",
@@ -69,15 +69,6 @@
     "ts": "18-08",
     "comuna_link": "",
     "region_link": "tarapaca"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "12-08",
-    "comuna_link": "",
-    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Valparaíso",
@@ -143,15 +134,6 @@
     "region_link": "arica y parinacota"
    },
    {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "12-08",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
     "lugar": "Región de Biobío",
     "region": "Biobío",
     "nivel": "ATP",
@@ -177,6 +159,24 @@
     "ts": "14-08",
     "comuna_link": "",
     "region_link": "los lagos"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "14-08",
+    "comuna_link": "",
+    "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "14-08",
+    "comuna_link": "",
+    "region_link": "la araucania"
    }
   ],
   "viento": [
@@ -496,8 +496,8 @@
   {
    "fecha": "2026-08-12",
    "ROJA": 1,
-   "AMARILLA": 2,
-   "ATP": 4,
+   "AMARILLA": 1,
+   "ATP": 3,
    "sae": 1
   },
   {
