@@ -1,23 +1,37 @@
 {
- "generado": "2026-08-22T21:01:56+00:00",
+ "generado": "2026-08-22T21:37:34+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "d37ab93d27f8",
+   "nivel": "ATP",
+   "tipo": "marejadas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Isla de Pascua por marejadas anormales",
+   "descripcion": "De acuerdo con la información proporcionada por el Centro Meteorológico Marítimo Regional de Valparaíso, mediante su Aviso N°39, se indica que se presentarán marejadas anormales en el sector de Isla de Pascua, Región de Valparaíso. Se estima que esta condición genere marejadas, fuertes rompientes, sobrepasos y potenciales daños a la infraestructura costera, principalmente en bahías abiertas al suroeste, alcanzando su mayor desarrollo en las respectivas horas de pleamar especialmente entre las 03:00 a 05:00 horas, como marea primaria, y entre las 15:00 y 17:00 horas, como pleamar secundaria. Pr",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-22T16:52:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-08-22-17-35-24",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "d7e87dc59eff",
    "nivel": "ATP",
-   "tipo": "aluvión",
+   "tipo": "viento",
    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A440 Precipitaciones normales a moderadas en litoral, cordillera de la costa y precordillera. 25-08 26-08 Abrir aquí En tanto, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa , indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizami",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A440-1 Precipitaciones normales a moderadas en litoral, cordillera de la costa y precordillera de la región. 25-08 26-08 Abrir aquí Aviso A441 Viento normal a moderado en litoral, cordillera de la costa y valle de la región. 25-08 25-08 Abrir aquí En tanto, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica",
    "region": "La Araucanía",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-22T02:26:32.3232-04:00",
+   "ts": "2026-08-22T16:14:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44",
    "origen": "senapred_web",
    "regiones_extra": []
