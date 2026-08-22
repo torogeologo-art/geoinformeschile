@@ -1,6 +1,47 @@
 {
- "generado": "2026-08-22T10:01:19+00:00",
- "desde": "2026-08-20T10:01:17Z",
+ "generado": "2026-08-22T10:02:31+00:00",
+ "desde": "2026-08-20T10:02:30Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "D5sdDgkCdNo",
+     "url": "https://www.youtube.com/watch?v=D5sdDgkCdNo",
+     "titulo": "Emergencia en Coloso | El sector más afectado tras la activación de quebradas en Antofagasta",
+     "canal": "24 Horas - TVN Chile",
+     "publicado": "2026-08-21T20:37:11Z",
+     "live": false,
+     "score": 6.88,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "btLn9QKB-XU",
+     "url": "https://www.youtube.com/watch?v=btLn9QKB-XU",
+     "titulo": "Dron registró el estado de Caleta Coloso tras paso de aluvión #chvnoticias",
+     "canal": "CHV Noticias",
+     "publicado": "2026-08-20T22:45:25Z",
+     "live": false,
+     "score": 5.06,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "uLBFqhgQXpE",
+     "url": "https://www.youtube.com/watch?v=uLBFqhgQXpE",
+     "titulo": "Caleta Coloso golpeado por aluvión: Cámara aérea muestra como quedó localidad de Antofagasta",
+     "canal": "CHV Noticias",
+     "publicado": "2026-08-20T16:10:23Z",
+     "live": false,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
