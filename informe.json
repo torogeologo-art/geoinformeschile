@@ -1,17 +1,17 @@
 {
- "generado": "2026-08-22T21:01:59+00:00",
+ "generado": "2026-08-22T21:38:29+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "12-08-2026",
   "hasta": "22-08-2026"
  },
  "totales": {
-  "alertas": 97,
+  "alertas": 98,
   "sae": 7,
   "comunas": 2,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 53,
+   "ATP": 54,
    "ROJA": 8,
    "AMARILLA": 36
   },
@@ -476,7 +476,7 @@
  "vigentes": {
   "ROJA": 5,
   "AMARILLA": 2,
-  "ATP": 10,
+  "ATP": 11,
   "regiones_roja": [
    "Antofagasta",
    "Atacama",
@@ -558,7 +558,7 @@
    "fecha": "2026-08-22",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 1,
+   "ATP": 2,
    "sae": 0
   }
  ],
@@ -762,6 +762,15 @@
  ],
  "cronologia": [
   {
+   "ts": "22-08 16:52",
+   "nivel": "ATP",
+   "lugar": "Región de Valparaíso",
+   "tipo": "marejadas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-08-22-17-35-24"
+  },
+  {
    "ts": "22-08 02:26",
    "nivel": "ATP",
    "lugar": "Región de La Araucanía",
@@ -877,15 +886,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-altas-temperaturas-2026-08-19-17-52-10"
-  },
-  {
-   "ts": "19-08 15:40",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
