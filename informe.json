@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-22T11:59:57+00:00",
+ "generado": "2026-08-22T12:56:19+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "12-08-2026",
   "hasta": "22-08-2026"
  },
  "totales": {
-  "alertas": 104,
+  "alertas": 102,
   "sae": 9,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 57,
    "ROJA": 10,
+   "ATP": 55,
    "AMARILLA": 37
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    55
+    53
    ],
    [
     "viento",
@@ -53,15 +53,6 @@
  "tipos_detalle": {
   "tormentas eléctricas": [
    {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "18-08",
-    "comuna_link": "",
-    "region_link": "tarapaca"
-   },
-   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ROJA",
@@ -69,6 +60,15 @@
     "ts": "19-08",
     "comuna_link": "",
     "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-08",
+    "comuna_link": "",
+    "region_link": "tarapaca"
    },
    {
     "lugar": "Región de La Araucanía",
@@ -143,15 +143,6 @@
     "region_link": "arica y parinacota"
    },
    {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "12-08",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
     "lugar": "Región de Los Ríos",
     "region": "Los Ríos",
     "nivel": "ATP",
@@ -177,6 +168,15 @@
     "ts": "13-08",
     "comuna_link": "",
     "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "14-08",
+    "comuna_link": "",
+    "region_link": "los lagos"
    }
   ],
   "viento": [
@@ -506,7 +506,7 @@
    "fecha": "2026-08-12",
    "ROJA": 2,
    "AMARILLA": 2,
-   "ATP": 6,
+   "ATP": 4,
    "sae": 2
   },
   {
@@ -582,39 +582,6 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de Tarapacá",
-   "region": "Tarapacá",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "16-08 23:41",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "17-08 19:21",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "18-08 14:33",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "18-08 17:38",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "19-08 21:53",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Antofagasta",
    "region": "Antofagasta",
    "sae": true,
@@ -676,6 +643,39 @@
     {
      "nivel": "ATP",
      "ts": "19-08 17:50",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Tarapacá",
+   "region": "Tarapacá",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "16-08 23:41",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-08 19:21",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "18-08 14:33",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "18-08 17:38",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-08 21:53",
      "estado": "VIGENTE"
     }
    ]
