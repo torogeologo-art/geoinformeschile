@@ -1,19 +1,19 @@
 {
- "generado": "2026-08-22T12:56:19+00:00",
+ "generado": "2026-08-22T13:38:01+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "12-08-2026",
   "hasta": "22-08-2026"
  },
  "totales": {
-  "alertas": 102,
-  "sae": 9,
+  "alertas": 101,
+  "sae": 8,
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "ROJA": 10,
    "ATP": 55,
-   "AMARILLA": 37
+   "AMARILLA": 37,
+   "ROJA": 9
   },
   "por_tipo": [
    [
@@ -29,11 +29,11 @@
     10
    ],
    [
-    "crecida de río",
-    4
+    "aluvión",
+    3
    ],
    [
-    "aluvión",
+    "crecida de río",
     3
    ],
    [
@@ -354,44 +354,6 @@
     "region_link": "antofagasta"
    }
   ],
-  "crecida de río": [
-   {
-    "lugar": "Tierra Amarilla",
-    "region": "Atacama",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "12-08",
-    "comuna_link": "tierra amarilla",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Tierra Amarilla",
-    "region": "",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "13-08",
-    "comuna_link": "tierra amarilla",
-    "region_link": ""
-   },
-   {
-    "lugar": "La Serena",
-    "region": "Coquimbo",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "17-08",
-    "comuna_link": "la serena",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "12-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   }
-  ],
   "aluvión": [
    {
     "lugar": "Diego de Almagro, Chañaral",
@@ -419,6 +381,35 @@
     "ts": "22-08",
     "comuna_link": "",
     "region_link": "la araucania"
+   }
+  ],
+  "crecida de río": [
+   {
+    "lugar": "Tierra Amarilla",
+    "region": "",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "13-08",
+    "comuna_link": "tierra amarilla",
+    "region_link": ""
+   },
+   {
+    "lugar": "La Serena",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "17-08",
+    "comuna_link": "la serena",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "12-08",
+    "comuna_link": "",
+    "region_link": "atacama"
    }
   ],
   "remoción en masa": [
@@ -504,10 +495,10 @@
  "serie": [
   {
    "fecha": "2026-08-12",
-   "ROJA": 2,
+   "ROJA": 1,
    "AMARILLA": 2,
    "ATP": 4,
-   "sae": 2
+   "sae": 1
   },
   {
    "fecha": "2026-08-13",
