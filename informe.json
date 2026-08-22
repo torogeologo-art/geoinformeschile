@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-22T14:33:11+00:00",
+ "generado": "2026-08-22T15:00:55+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "12-08-2026",
   "hasta": "22-08-2026"
  },
  "totales": {
-  "alertas": 98,
+  "alertas": 97,
   "sae": 7,
   "comunas": 2,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 54,
    "AMARILLA": 36,
+   "ATP": 53,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    51
+    50
    ],
    [
     "viento",
@@ -488,7 +488,7 @@
    "fecha": "2026-08-12",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 3,
+   "ATP": 2,
    "sae": 0
   },
   {
@@ -564,39 +564,6 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de Antofagasta",
-   "region": "Antofagasta",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "16-08 21:07",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "17-08 15:36",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "18-08 12:50",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "18-08 13:05",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "19-08 18:24",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Atacama",
    "region": "Atacama",
    "sae": true,
@@ -625,6 +592,39 @@
     {
      "nivel": "ATP",
      "ts": "19-08 17:50",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Antofagasta",
+   "region": "Antofagasta",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "16-08 21:07",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "17-08 15:36",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "18-08 12:50",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "18-08 13:05",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-08 18:24",
      "estado": "VIGENTE"
     }
    ]
