@@ -1,18 +1,18 @@
 {
- "generado": "2026-08-22T21:59:47+00:00",
+ "generado": "2026-08-22T22:33:20+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "12-08-2026",
   "hasta": "22-08-2026"
  },
  "totales": {
-  "alertas": 98,
+  "alertas": 99,
   "sae": 7,
   "comunas": 2,
   "regiones": 16,
   "por_nivel": {
    "ROJA": 8,
-   "ATP": 54,
+   "ATP": 55,
    "AMARILLA": 36
   },
   "por_tipo": [
@@ -22,7 +22,7 @@
    ],
    [
     "viento",
-    25
+    26
    ],
    [
     "evento meteorológico",
@@ -558,7 +558,7 @@
    "fecha": "2026-08-22",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 2,
+   "ATP": 3,
    "sae": 0
   }
  ],
@@ -762,6 +762,15 @@
  ],
  "cronologia": [
   {
+   "ts": "22-08 18:13",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
+  },
+  {
    "ts": "22-08 16:52",
    "nivel": "ATP",
    "lugar": "Región de Valparaíso",
@@ -877,15 +886,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
-  },
-  {
-   "ts": "19-08 17:50",
-   "nivel": "ATP",
-   "lugar": "Región de Atacama",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-altas-temperaturas-2026-08-19-17-52-10"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
