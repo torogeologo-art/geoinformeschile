@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-22T19:58:53+00:00",
+ "generado": "2026-08-22T20:34:37+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -3411,6 +3411,13 @@
      "sector": null
     },
     {
+     "titulo": "[Minuto a Minuto] Balance de Senapred en el norte: 810 personas damnificadas y 1.152 albergados - Cooperativa",
+     "medio": "Cooperativa",
+     "fecha": "2026-08-20T06:15:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbWdyOUZXa2c0bUF6NGNLZDFiX3hRRXcxcV9HMnQ5Mldwb1ROWlotSXNPQTd6WWJVcHVTb3pIVU9WckdnQkh1MlRUNXVmMkhNNHE5LXRKM0VFbm5SR3Zjd2dMYVlmWmVFX0x6YXhUN2thMGd0VlRTQy1ndmJHN1hoTFB1QWNpUEZTWlZtS0gtdXZVS184RzFxYndmalJnVW1QQVFVOWRnSWZfRjhvMUFlSGJaNE9FcXBKaUcxMkVLcnhvcXlKeFVPSDhsMVV3WUlmNUxHU2QwNVpRWU5UWW02Q1lkRUVjZw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Pronóstico en Antofagasta: jueves 20 de agosto de 2026 - VLN Radio",
      "medio": "VLN Radio",
      "fecha": "2026-08-20T03:11:18+00:00",
@@ -3423,17 +3430,6 @@
      "fecha": "2026-08-19T22:53:29+00:00",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSFQ0aVJ4eTZpUTcwS2V3YkdCWmlhU1pwbkJPcFRpQVFtS0JaeTZUalF6TVlPZUpIdldiOURfS1NzWkVyb2hkRWZEZFU5M0NXeks5anpaTlY3cmNIODU3SXdPZzNPY3VHMTl2MHZNcllMZGRFd1VjQ2VFMUk5djRmTFg2d2JueFNhc09KVTg1cnZIR29hUEJtbFM3R0hLMTBSWFQxZkJCUzBGcGJTUmF1d05vbmFQYzRMd3J3QXhB?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "Despliegue 24/7 de la MUNICIPALIDAD DE ANTOFAGASTA en la emergencia y en sector COLOSO - Desierto FM",
-     "medio": "Desierto FM",
-     "fecha": "2026-08-19T22:06:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmpjYlhCam52Smx0MWhxeVF1LUVMN2JHOHBLVTBGNThOeHpWeXR5bXRXNEZkOWR5dElaSy1YSmdzU3J5d2JQZ3k5cXEyVHFZUW4ySDZMNERJUGJXQVB2dlNhbHBPU2hEZmNjR3pkS1M0Um85eV9UQ2hzWU1MWlhzaXBfbDl6WC1MRWdwWnEzbG8wWTdKTjFsQTdGT1dlcExaTnNwbENBSHYxZHRCVDhLc1kwSQ?oc=5",
-     "sector": {
-      "nombre": "sector Coloso",
-      "lat": -23.69712,
-      "lon": -70.42208
-     }
     }
    ]
   }
