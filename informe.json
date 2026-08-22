@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-22T05:46:37+00:00",
+ "generado": "2026-08-22T06:51:08+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "12-08-2026",
@@ -11,14 +11,14 @@
   "comunas": 4,
   "regiones": 16,
   "por_nivel": {
-   "AMARILLA": 38,
-   "ATP": 57,
-   "ROJA": 10
+   "ATP": 58,
+   "ROJA": 10,
+   "AMARILLA": 37
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    58
+    56
    ],
    [
     "viento",
@@ -30,15 +30,15 @@
    ],
    [
     "crecida de río",
+    4
+   ],
+   [
+    "aluvión",
     3
    ],
    [
     "remoción en masa",
     3
-   ],
-   [
-    "aluvión",
-    2
    ],
    [
     "activación de quebradas",
@@ -69,24 +69,6 @@
     "ts": "19-08",
     "comuna_link": "",
     "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "12-08",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "12-08",
-    "comuna_link": "",
-    "region_link": "atacama"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -125,6 +107,15 @@
     "region_link": "libertador general bernardo o'higgins"
    },
    {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "13-08",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
     "lugar": "Región de Metropolitana de Santiago",
     "region": "Metropolitana de Santiago",
     "nivel": "AMARILLA",
@@ -141,6 +132,15 @@
     "ts": "13-08",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "14-08",
+    "comuna_link": "",
+    "region_link": "atacama"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -381,6 +381,44 @@
     "ts": "17-08",
     "comuna_link": "la serena",
     "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "12-08",
+    "comuna_link": "",
+    "region_link": "atacama"
+   }
+  ],
+  "aluvión": [
+   {
+    "lugar": "Diego de Almagro, Chañaral",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "12-08",
+    "comuna_link": "diego de almagro",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "19-08",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "22-08",
+    "comuna_link": "",
+    "region_link": "la araucania"
    }
   ],
   "remoción en masa": [
@@ -410,26 +448,6 @@
     "ts": "19-08",
     "comuna_link": "",
     "region_link": "tarapaca"
-   }
-  ],
-  "aluvión": [
-   {
-    "lugar": "Diego de Almagro, Chañaral",
-    "region": "Atacama",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "12-08",
-    "comuna_link": "diego de almagro",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "19-08",
-    "comuna_link": "",
-    "region_link": "atacama"
    }
   ],
   "activación de quebradas": [
@@ -487,7 +505,7 @@
   {
    "fecha": "2026-08-12",
    "ROJA": 2,
-   "AMARILLA": 3,
+   "AMARILLA": 2,
    "ATP": 7,
    "sae": 2
   },
@@ -553,42 +571,16 @@
    "AMARILLA": 1,
    "ATP": 6,
    "sae": 0
+  },
+  {
+   "fecha": "2026-08-22",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
+   "sae": 0
   }
  ],
  "escalamientos": [
-  {
-   "lugar": "Región de Atacama",
-   "region": "Atacama",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "17-08 18:38",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "17-08 22:25",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "19-08 01:20",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "19-08 15:22",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "19-08 17:50",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
   {
    "lugar": "Región de Tarapacá",
    "region": "Tarapacá",
@@ -651,6 +643,39 @@
     {
      "nivel": "ATP",
      "ts": "19-08 18:24",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Atacama",
+   "region": "Atacama",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ROJA",
+     "ts": "17-08 18:38",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-08 22:25",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "19-08 01:20",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "19-08 15:22",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-08 17:50",
      "estado": "VIGENTE"
     }
    ]
@@ -754,6 +779,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "22-08 02:26",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "aluvión",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44"
+  },
   {
    "ts": "21-08 20:20",
    "nivel": "ATP",
@@ -870,15 +904,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
-  },
-  {
-   "ts": "19-08 15:22",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Atacama",
-   "tipo": "nevadas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
