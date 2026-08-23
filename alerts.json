@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-23T22:59:46+00:00",
+ "generado": "2026-08-23T23:30:41+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "2625dc05cec8",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA145 Precipitaciones moderadas a fuerte en corto periodo de tiempo en litoral y cordillera de la costa de la región. 25-08&nbsp; 26-08 Abrir aquí Alerta AA146 Precipitaciones moderadas a fuertes en precordillera de la región. 25-08 26-08 Abrir aquí Aviso A437-1 Viento normal a moderado en litoral, cordillera costa, valle, precordillera y cordillera de la región.",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-23T18:25:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "138883edaf1c",
    "nivel": "AMARILLA",
@@ -161,20 +175,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-22T16:14:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ec34638df838",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Aviso A437 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 24-08 26-08 Abrir aquí Aviso A438 Precipitaciones normales a moderadas en litoral, cordillera de la costa y valle. 25-08 26-08 Abrir aquí Aviso A439 Precipitaciones normales a moderadas con isoterma cero alta en precordillera y cordillera. 25-08 26-08 Abrir aquí En",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-21T16:07:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25",
    "origen": "senapred_web",
    "regiones_extra": []
   },
