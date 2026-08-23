@@ -1,6 +1,36 @@
 {
- "generado": "2026-08-23T06:03:28+00:00",
- "desde": "2026-08-21T06:03:27Z",
+ "generado": "2026-08-23T07:02:43+00:00",
+ "desde": "2026-08-21T07:02:40Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "_dLc7S3ikdI",
+     "url": "https://www.youtube.com/watch?v=_dLc7S3ikdI",
+     "titulo": "Aluvión en Coloso, Antofagasta 2026",
+     "canal": "CPerezSotelo",
+     "publicado": "2026-08-22T22:37:17Z",
+     "live": false,
+     "score": 7.3,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "D5sdDgkCdNo",
+     "url": "https://www.youtube.com/watch?v=D5sdDgkCdNo",
+     "titulo": "Emergencia en Coloso | El sector más afectado tras la activación de quebradas en Antofagasta",
+     "canal": "24 Horas - TVN Chile",
+     "publicado": "2026-08-21T20:37:11Z",
+     "live": false,
+     "score": 5.13,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
