@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-23T19:10:06+00:00",
+ "generado": "2026-08-23T19:37:03+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "507dbe716bc5",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA145 Precipitaciones moderadas a fuerte en corto periodo de tiempo en litoral de la región. 25-08&nbsp; 26-08 Abrir aquí Alerta AA146 Precipitaciones moderadas a fuertes en precordillera de la región. 25-08 26-08 Abrir aquí Aviso A437-1 Viento normal a moderado en litoral, cordillera costa, valle, precordillera y cordillera de la región. 24-08 27-08 Abrir aquí Avis",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-23T15:13:04.044-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "da59f35ed46f",
    "nivel": "ATP",
@@ -131,20 +145,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-21T16:07:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "86fd8fe0c391",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A437 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 24-08 26-08 Abrir aquí Aviso A438 Precipitaciones normales a moderadas en litoral, cordillera de la costa y valle. 25-08 26-08 Abrir aquí Aviso A439 Precipitaciones normales a moderadas con isoterma cero alta en precordillera y cordillera. 25-08 26-08 Abrir aquí En co",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-21T15:28:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02",
    "origen": "senapred_web",
    "regiones_extra": []
   },
