@@ -1,28 +1,28 @@
 {
- "generado": "2026-08-23T05:35:24+00:00",
+ "generado": "2026-08-23T07:03:21+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "13-08-2026",
   "hasta": "23-08-2026"
  },
  "totales": {
-  "alertas": 98,
+  "alertas": 95,
   "sae": 6,
   "comunas": 1,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 55,
-   "AMARILLA": 36,
+   "ATP": 54,
+   "AMARILLA": 34,
    "ROJA": 7
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    48
+    46
    ],
    [
     "viento",
-    27
+    26
    ],
    [
     "evento meteorológico",
@@ -53,15 +53,6 @@
  "tipos_detalle": {
   "tormentas eléctricas": [
    {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "19-08",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
     "lugar": "Región de Tarapacá",
     "region": "Tarapacá",
     "nivel": "ROJA",
@@ -71,13 +62,13 @@
     "region_link": "tarapaca"
    },
    {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "13-08",
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "19-08",
     "comuna_link": "",
-    "region_link": "coquimbo"
+    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -123,6 +114,15 @@
     "ts": "14-08",
     "comuna_link": "",
     "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "14-08",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -190,15 +190,6 @@
     "region_link": "antofagasta"
    },
    {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "13-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
     "lugar": "Región de Arica y Parinacota",
     "region": "Arica y Parinacota",
     "nivel": "AMARILLA",
@@ -215,6 +206,15 @@
     "ts": "16-08",
     "comuna_link": "",
     "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "18-08",
+    "comuna_link": "",
+    "region_link": "atacama"
    },
    {
     "lugar": "Región de Valparaíso",
@@ -469,8 +469,8 @@
   {
    "fecha": "2026-08-13",
    "ROJA": 0,
-   "AMARILLA": 6,
-   "ATP": 7,
+   "AMARILLA": 4,
+   "ATP": 6,
    "sae": 0
   },
   {
@@ -539,34 +539,34 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de Antofagasta",
-   "region": "Antofagasta",
+   "lugar": "Región de Tarapacá",
+   "region": "Tarapacá",
    "sae": true,
    "max": "ROJA",
    "pasos": [
     {
+     "nivel": "ATP",
+     "ts": "16-08 23:41",
+     "estado": "VIGENTE"
+    },
+    {
      "nivel": "AMARILLA",
-     "ts": "16-08 21:07",
+     "ts": "17-08 19:21",
      "estado": "VIGENTE"
     },
     {
      "nivel": "ATP",
-     "ts": "17-08 15:36",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "18-08 12:50",
+     "ts": "18-08 14:33",
      "estado": "VIGENTE"
     },
     {
      "nivel": "ROJA",
-     "ts": "18-08 13:05",
+     "ts": "18-08 17:38",
      "estado": "VIGENTE"
     },
     {
      "nivel": "ATP",
-     "ts": "19-08 18:24",
+     "ts": "19-08 21:53",
      "estado": "VIGENTE"
     }
    ]
@@ -605,34 +605,34 @@
    ]
   },
   {
-   "lugar": "Región de Tarapacá",
-   "region": "Tarapacá",
+   "lugar": "Región de Antofagasta",
+   "region": "Antofagasta",
    "sae": true,
    "max": "ROJA",
    "pasos": [
     {
+     "nivel": "AMARILLA",
+     "ts": "16-08 21:07",
+     "estado": "VIGENTE"
+    },
+    {
      "nivel": "ATP",
-     "ts": "16-08 23:41",
+     "ts": "17-08 15:36",
      "estado": "VIGENTE"
     },
     {
      "nivel": "AMARILLA",
-     "ts": "17-08 19:21",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "18-08 14:33",
+     "ts": "18-08 12:50",
      "estado": "VIGENTE"
     },
     {
      "nivel": "ROJA",
-     "ts": "18-08 17:38",
+     "ts": "18-08 13:05",
      "estado": "VIGENTE"
     },
     {
      "nivel": "ATP",
-     "ts": "19-08 21:53",
+     "ts": "19-08 18:24",
      "estado": "VIGENTE"
     }
    ]
