@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-23T20:33:02+00:00",
+ "generado": "2026-08-23T20:34:07+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,22 @@
  },
  "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "8e501bc38549",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A443 Probables tormentas eléctricas en cordillera de la región. 23-08 23-08 Abrir aquí Aviso A444 Nevadas normales a moderadas en cordillera de la región. 23-08 24-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED mantiene la Alerta Amari",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-23T16:31:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
   {
    "id": "507dbe716bc5",
    "nivel": "ATP",
@@ -21,22 +37,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "8e501bc38549",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A433 Viento normal a moderado con probabilidad de tormentas de arena en litoral de la región. 19-08 19-08 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento para la región: Alertamiento Pronóstico Aviso A388-11 Viento normal a moderado en cordillera de la región. En consideraci",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-23T14:25:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
   },
   {
    "id": "da59f35ed46f",
