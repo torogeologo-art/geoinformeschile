@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-23T21:38:28+00:00",
+ "generado": "2026-08-23T21:59:42+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "13-08-2026",
   "hasta": "23-08-2026"
  },
  "totales": {
-  "alertas": 97,
+  "alertas": 96,
   "sae": 6,
   "comunas": 1,
   "regiones": 16,
   "por_nivel": {
-   "AMARILLA": 37,
+   "AMARILLA": 36,
    "ATP": 53,
    "ROJA": 7
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    44
+    43
    ],
    [
     "viento",
@@ -69,15 +69,6 @@
     "ts": "18-08",
     "comuna_link": "",
     "region_link": "tarapaca"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "13-08",
-    "comuna_link": "",
-    "region_link": "maule"
    },
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -132,6 +123,15 @@
     "ts": "14-08",
     "comuna_link": "",
     "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "14-08",
+    "comuna_link": "",
+    "region_link": "maule"
    },
    {
     "lugar": "Región de Ñuble",
@@ -478,7 +478,7 @@
   {
    "fecha": "2026-08-13",
    "ROJA": 0,
-   "AMARILLA": 4,
+   "AMARILLA": 3,
    "ATP": 2,
    "sae": 0
   },
