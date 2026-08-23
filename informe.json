@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-23T17:03:37+00:00",
+ "generado": "2026-08-23T17:37:38+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "13-08-2026",
   "hasta": "23-08-2026"
  },
  "totales": {
-  "alertas": 95,
+  "alertas": 94,
   "sae": 6,
   "comunas": 1,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 54,
+   "ATP": 53,
    "AMARILLA": 34,
    "ROJA": 7
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    46
+    45
    ],
    [
     "viento",
@@ -53,15 +53,6 @@
  "tipos_detalle": {
   "tormentas eléctricas": [
    {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "18-08",
-    "comuna_link": "",
-    "region_link": "tarapaca"
-   },
-   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ROJA",
@@ -69,6 +60,15 @@
     "ts": "19-08",
     "comuna_link": "",
     "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-08",
+    "comuna_link": "",
+    "region_link": "tarapaca"
    },
    {
     "lugar": "Región de Valparaíso",
@@ -470,7 +470,7 @@
    "fecha": "2026-08-13",
    "ROJA": 0,
    "AMARILLA": 4,
-   "ATP": 5,
+   "ATP": 4,
    "sae": 0
   },
   {
@@ -546,39 +546,6 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de Tarapacá",
-   "region": "Tarapacá",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "16-08 23:41",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "17-08 19:21",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "18-08 14:33",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "18-08 17:38",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "19-08 21:53",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Atacama",
    "region": "Atacama",
    "sae": true,
@@ -640,6 +607,39 @@
     {
      "nivel": "ATP",
      "ts": "19-08 18:24",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Tarapacá",
+   "region": "Tarapacá",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "16-08 23:41",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-08 19:21",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "18-08 14:33",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "18-08 17:38",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-08 21:53",
      "estado": "VIGENTE"
     }
    ]
