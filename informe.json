@@ -1,17 +1,17 @@
 {
- "generado": "2026-08-23T16:38:06+00:00",
+ "generado": "2026-08-23T17:03:37+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "13-08-2026",
   "hasta": "23-08-2026"
  },
  "totales": {
-  "alertas": 94,
+  "alertas": 95,
   "sae": 6,
   "comunas": 1,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 53,
+   "ATP": 54,
    "AMARILLA": 34,
    "ROJA": 7
   },
@@ -22,7 +22,7 @@
    ],
    [
     "viento",
-    26
+    27
    ],
    [
     "evento meteorológico",
@@ -287,6 +287,15 @@
     "ts": "21-08",
     "comuna_link": "",
     "region_link": "los lagos"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "23-08",
+    "comuna_link": "",
+    "region_link": "los rios"
    }
   ],
   "evento meteorológico": [
@@ -449,7 +458,7 @@
  "vigentes": {
   "ROJA": 5,
   "AMARILLA": 2,
-  "ATP": 9,
+  "ATP": 10,
   "regiones_roja": [
    "Antofagasta",
    "Atacama",
@@ -525,6 +534,13 @@
    "ROJA": 0,
    "AMARILLA": 1,
    "ATP": 5,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-08-23",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   }
  ],
@@ -682,6 +698,15 @@
  ],
  "cronologia": [
   {
+   "ts": "23-08 12:49",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-08-23-12-49-10"
+  },
+  {
    "ts": "22-08 20:38",
    "nivel": "AMARILLA",
    "lugar": "Región de Coquimbo",
@@ -797,15 +822,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44"
-  },
-  {
-   "ts": "20-08 17:45",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
