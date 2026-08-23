@@ -1,13 +1,27 @@
 {
- "generado": "2026-08-23T21:31:14+00:00",
+ "generado": "2026-08-23T21:38:24+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "138883edaf1c",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A445 Viento normal a moderado en cordillera de la región. 27-08 28-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por viento para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen, vigente a c",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-23T16:49:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "8e501bc38549",
    "nivel": "AMARILLA",

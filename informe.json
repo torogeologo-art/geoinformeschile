@@ -1,17 +1,17 @@
 {
- "generado": "2026-08-23T21:01:12+00:00",
+ "generado": "2026-08-23T21:38:28+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "13-08-2026",
   "hasta": "23-08-2026"
  },
  "totales": {
-  "alertas": 96,
+  "alertas": 97,
   "sae": 6,
   "comunas": 1,
   "regiones": 16,
   "por_nivel": {
-   "AMARILLA": 36,
+   "AMARILLA": 37,
    "ATP": 53,
    "ROJA": 7
   },
@@ -22,7 +22,7 @@
    ],
    [
     "viento",
-    29
+    30
    ],
    [
     "evento meteorológico",
@@ -466,7 +466,7 @@
  },
  "vigentes": {
   "ROJA": 5,
-  "AMARILLA": 2,
+  "AMARILLA": 3,
   "ATP": 10,
   "regiones_roja": [
    "Antofagasta",
@@ -548,7 +548,7 @@
   {
    "fecha": "2026-08-23",
    "ROJA": 0,
-   "AMARILLA": 2,
+   "AMARILLA": 3,
    "ATP": 3,
    "sae": 0
   }
@@ -560,11 +560,6 @@
    "sae": true,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "17-08 18:38",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "AMARILLA",
      "ts": "17-08 22:25",
@@ -583,6 +578,11 @@
     {
      "nivel": "ATP",
      "ts": "19-08 17:50",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "23-08 16:49",
      "estado": "VIGENTE"
     }
    ]
@@ -702,6 +702,15 @@
  ],
  "cronologia": [
   {
+   "ts": "23-08 16:49",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Atacama",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33"
+  },
+  {
    "ts": "23-08 15:13",
    "nivel": "ATP",
    "lugar": "Región de Ñuble",
@@ -817,15 +826,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25"
-  },
-  {
-   "ts": "21-08 15:55",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
