@@ -1,18 +1,18 @@
 {
- "generado": "2026-08-23T19:10:10+00:00",
+ "generado": "2026-08-23T19:38:10+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "13-08-2026",
   "hasta": "23-08-2026"
  },
  "totales": {
-  "alertas": 94,
+  "alertas": 95,
   "sae": 6,
   "comunas": 1,
   "regiones": 16,
   "por_nivel": {
    "AMARILLA": 35,
-   "ATP": 52,
+   "ATP": 53,
    "ROJA": 7
   },
   "por_tipo": [
@@ -22,7 +22,7 @@
    ],
    [
     "viento",
-    28
+    29
    ],
    [
     "evento meteorológico",
@@ -549,7 +549,7 @@
    "fecha": "2026-08-23",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 2,
+   "ATP": 3,
    "sae": 0
   }
  ],
@@ -702,6 +702,15 @@
  ],
  "cronologia": [
   {
+   "ts": "23-08 15:13",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02"
+  },
+  {
    "ts": "23-08 14:15",
    "nivel": "ATP",
    "lugar": "Región de Maule",
@@ -817,15 +826,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02"
-  },
-  {
-   "ts": "21-08 15:01",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-08-21-15-28-01"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
