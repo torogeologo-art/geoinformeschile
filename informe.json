@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-23T17:37:38+00:00",
+ "generado": "2026-08-23T17:58:55+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "13-08-2026",
   "hasta": "23-08-2026"
  },
  "totales": {
-  "alertas": 94,
+  "alertas": 93,
   "sae": 6,
   "comunas": 1,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 53,
+   "ATP": 52,
    "AMARILLA": 34,
    "ROJA": 7
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    45
+    44
    ],
    [
     "viento",
@@ -134,15 +134,6 @@
     "region_link": "coquimbo"
    },
    {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "13-08",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
     "lugar": "Región de Ñuble",
     "region": "Ñuble",
     "nivel": "ATP",
@@ -168,6 +159,15 @@
     "ts": "14-08",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "14-08",
+    "comuna_link": "",
+    "region_link": "biobio"
    },
    {
     "lugar": "Región de La Araucanía",
@@ -470,7 +470,7 @@
    "fecha": "2026-08-13",
    "ROJA": 0,
    "AMARILLA": 4,
-   "ATP": 4,
+   "ATP": 3,
    "sae": 0
   },
   {
