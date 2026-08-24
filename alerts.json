@@ -1,13 +1,41 @@
 {
- "generado": "2026-08-24T20:38:03+00:00",
+ "generado": "2026-08-24T21:11:40+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "2fa56e136054",
+   "nivel": "ROJA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Roja para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A445-1 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa y cordillera. 27-08 29-08 Abrir aquí Aviso A448 Probables tormentas eléctricas en precordillera salar y cordillera. 24-08 24-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Re",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-24T16:45:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "2fa016cebb3b",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA147 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas. 26-08 28-08 Abrir aquí Asimismo, mediante la actualización del siguiente Aviso Meteorológico, se dan por finalizadas las condiciones que originaron el alertamiento en la región. Alertamiento Pronóstico Enlace Aviso A445-1 Viento normal a moderado en zonas de la región de Antofagasta. Abrir aquí E",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-24T16:31:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "6b291d6f79b8",
    "nivel": "AMARILLA",
@@ -35,20 +63,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-23T18:25:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "138883edaf1c",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A445 Viento normal a moderado en cordillera de la región. 27-08 28-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por viento para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen, vigente a c",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-23T16:49:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -249,21 +263,6 @@
    "regiones_extra": []
   },
   {
-   "id": "d8f76322084f",
-   "nivel": "ROJA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Roja para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-11 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 19-08 19-08 Abrir Aquí Aviso A433 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 19-08 19-08 Abrir Aquí Asimismo, han sido cancelados los siguie",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-19T11:40:32.3232-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
-   "origen": "senapred_web",
-   "regiones_extra": [],
-   "sae": true
-  },
-  {
    "id": "63a5df538707",
    "nivel": "ATP",
    "tipo": "viento",
@@ -278,6 +277,20 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
+  },
+  {
+   "id": "fd514dc5e08f",
+   "nivel": "ROJA",
+   "tipo": "activación de quebradas",
+   "titulo": "¡ATENCIÓN!",
+   "descripcion": "¡ATENCIÓN! \nPor activación de quebradas se solicita EVACUAR sector Miramar en la comuna de #Taltal, Región de Antofagasta. \n\nPara reforzar el proceso de evacuación #SENAPRED activó Mensajería #SAE. \nMantén la calma y sigue las indicaciones de las autoridades y organismos en terreno. \n\nAl momento de evacuar recuerda considerar a tu mascota y sus necesidades. \n\nMás información en: https://web.senapred.cl/dimension-animal/",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-19T01:20:28+00:00",
+   "url": "https://t.me/SenapredChile/1557",
+   "origen": "telegram",
+   "sae": true
   },
   {
    "id": "c9af496e69aa",
