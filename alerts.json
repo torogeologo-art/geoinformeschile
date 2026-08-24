@@ -1,23 +1,23 @@
 {
- "generado": "2026-08-24T15:58:00+00:00",
+ "generado": "2026-08-24T16:48:56+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 18,
+ "total_vigentes": 17,
  "alertas": [
   {
-   "id": "8e501bc38549",
+   "id": "6b291d6f79b8",
    "nivel": "AMARILLA",
    "tipo": "tormentas eléctricas",
    "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A444 Nevadas normales a moderadas en cordillera de la región. 23-08 24-08 Abrir aquí Aviso A446-1 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 23-08 24-08 Abrir aquí Cabe señalar que, se ha cancelado el Aviso A443 que pronosticó probables tormentas eléctricas en cordillera de la región, debido al debilitamiento de las cond",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A446-1 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 23-08 24-08 Abrir aquí Asimismo, debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento: Alertamiento Pronóstico Enlace Aviso A444 Nevadas normales a moderadas en cordillera de la región. Abrir aquí En considerac",
    "region": "Arica y Parinacota",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-23T23:13:00.000-04:00",
+   "ts": "2026-08-24T11:57:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
    "origen": "senapred_web",
    "regiones_extra": [
@@ -415,7 +415,7 @@
    "comunas": [
     "La Serena"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-17T16:19:30+00:00",
    "url": "https://t.me/SenapredChile/1538",
    "origen": "telegram",
