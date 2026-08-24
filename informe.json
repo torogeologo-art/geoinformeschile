@@ -1,17 +1,17 @@
 {
- "generado": "2026-08-24T21:47:30+00:00",
+ "generado": "2026-08-24T22:33:30+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "14-08-2026",
   "hasta": "24-08-2026"
  },
  "totales": {
-  "alertas": 86,
+  "alertas": 85,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 47,
+   "ATP": 46,
    "AMARILLA": 31,
    "ROJA": 8
   },
@@ -45,7 +45,7 @@
     2
    ],
    [
-    "otros",
+    "crecida de río",
     1
    ]
   ]
@@ -443,15 +443,15 @@
     "region_link": "nuble"
    }
   ],
-  "otros": [
+  "crecida de río": [
    {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "14-08",
-    "comuna_link": "",
-    "region_link": "los rios"
+    "lugar": "La Serena",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "17-08",
+    "comuna_link": "la serena",
+    "region_link": "coquimbo"
    }
   ]
  },
@@ -469,7 +469,7 @@
    "fecha": "2026-08-14",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 2,
+   "ATP": 1,
    "sae": 0
   },
   {
