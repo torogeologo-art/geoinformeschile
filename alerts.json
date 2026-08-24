@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-24T03:10:26+00:00",
+ "generado": "2026-08-24T04:06:56+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -13,11 +13,11 @@
    "nivel": "AMARILLA",
    "tipo": "tormentas eléctricas",
    "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A443 Probables tormentas eléctricas en cordillera de la región. 23-08 23-08 Abrir aquí Aviso A444 Nevadas normales a moderadas en cordillera de la región. 23-08 24-08 Abrir aquí Aviso A446-1 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 23-08 24-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la De",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A444 Nevadas normales a moderadas en cordillera de la región. 23-08 24-08 Abrir aquí Aviso A446-1 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 23-08 24-08 Abrir aquí Cabe señalar que, se ha cancelado el Aviso A443 que pronosticó probables tormentas eléctricas en cordillera de la región, debido al debilitamiento de las cond",
    "region": "Arica y Parinacota",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-23T22:02:00.000-04:00",
+   "ts": "2026-08-23T23:13:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
    "origen": "senapred_web",
    "regiones_extra": [
