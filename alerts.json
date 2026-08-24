@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-23T23:59:08+00:00",
+ "generado": "2026-08-24T01:51:20+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -1819,7 +1819,7 @@
    "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Alerta AA108 Viento moderado a fuerte con desarrollo de ventisca en cordillera de la costa y cordillera. 28-07 28-07 Alerta AA112 Viento moderado a fuerte con desarrollo de ventisca en cordillera y cordillera. 31-07 31-07 Aviso A359-1 Viento normal a moderado, con probabilidad de ventisca en cordillera de la costa, precordillera Alto Loa, precordillera salar y cordillera. 28-07",
    "region": "Antofagasta",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-07-28T16:55:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-07-25-18-03-01",
    "origen": "senapred_web",
@@ -1995,34 +1995,6 @@
    "estado": "CANCELADA",
    "ts": "2026-07-25T13:55:41.4141-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-evento-meteorologico-2026-07-16-12-11-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "bbebffabb767",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por Altas Temperaturas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido actualizado el Aviso Meteorológico A346-2, dejando fuera de cobertura a la Región de Antofagasta, y manteniendo su vigencia solo para la Región de Atacama: En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por Altas Temperaturas , que se mantenía vigente desde el 22 de julio.",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-24T18:50:30.3030-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-07-22-19-18-07",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "89048f8e4b68",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para la comuna de Arauco por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Pichilo en Pichilo” ubicada en la comuna de Arauco, indica un descenso en su caudal y se encuentra sin umbral de alerta. Adicionalmente, no se prevén precipitaciones de mayor intensidad en la zona durante las próximas horas. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida para la comuna de Arauco, que se mantenía vigente desde el 22 de julio.",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-24T08:43:35.3535-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco--por-crecida-2026-07-22-06-41-16",
    "origen": "senapred_web",
    "regiones_extra": []
   },
