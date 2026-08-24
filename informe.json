@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-24T03:10:53+00:00",
+ "generado": "2026-08-24T04:08:24+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "14-08-2026",
   "hasta": "24-08-2026"
  },
  "totales": {
-  "alertas": 92,
+  "alertas": 91,
   "sae": 6,
   "comunas": 1,
   "regiones": 16,
   "por_nivel": {
-   "AMARILLA": 33,
+   "AMARILLA": 32,
    "ATP": 52,
    "ROJA": 7
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    38
+    37
    ],
    [
     "viento",
@@ -71,15 +71,6 @@
     "region_link": "tarapaca"
    },
    {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "14-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
     "nivel": "AMARILLA",
@@ -114,6 +105,15 @@
     "ts": "14-08",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "15-08",
+    "comuna_link": "",
+    "region_link": "atacama"
    },
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -478,7 +478,7 @@
   {
    "fecha": "2026-08-14",
    "ROJA": 0,
-   "AMARILLA": 4,
+   "AMARILLA": 3,
    "ATP": 10,
    "sae": 0
   },
@@ -548,39 +548,6 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de Atacama",
-   "region": "Atacama",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "17-08 22:25",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "19-08 01:20",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "19-08 15:22",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "19-08 17:50",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "23-08 16:49",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Antofagasta",
    "region": "Antofagasta",
    "sae": true,
@@ -642,6 +609,39 @@
     {
      "nivel": "ATP",
      "ts": "19-08 21:53",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Atacama",
+   "region": "Atacama",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-08 22:25",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "19-08 01:20",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "19-08 15:22",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-08 17:50",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "23-08 16:49",
      "estado": "VIGENTE"
     }
    ]
