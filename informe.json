@@ -1,28 +1,28 @@
 {
- "generado": "2026-08-24T19:46:52+00:00",
+ "generado": "2026-08-24T20:38:07+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "14-08-2026",
   "hasta": "24-08-2026"
  },
  "totales": {
-  "alertas": 83,
+  "alertas": 81,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "AMARILLA": 32,
    "ATP": 44,
+   "AMARILLA": 30,
    "ROJA": 7
   },
   "por_tipo": [
    [
-    "tormentas eléctricas",
-    31
-   ],
-   [
     "viento",
     30
+   ],
+   [
+    "tormentas eléctricas",
+    29
    ],
    [
     "evento meteorológico",
@@ -51,125 +51,6 @@
   ]
  },
  "tipos_detalle": {
-  "tormentas eléctricas": [
-   {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "18-08",
-    "comuna_link": "",
-    "region_link": "tarapaca"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "19-08",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "14-08",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "14-08",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "18-08",
-    "comuna_link": "",
-    "region_link": "arica y parinacota"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "15-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "16-08",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "16-08",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "16-08",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "15-08",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "16-08",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "16-08",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "18-08",
-    "comuna_link": "",
-    "region_link": "nuble"
-   }
-  ],
   "viento": [
    {
     "lugar": "Región de Antofagasta",
@@ -287,6 +168,125 @@
     "ts": "23-08",
     "comuna_link": "",
     "region_link": "los rios"
+   }
+  ],
+  "tormentas eléctricas": [
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "18-08",
+    "comuna_link": "",
+    "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "19-08",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "18-08",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "15-08",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "16-08",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "16-08",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "16-08",
+    "comuna_link": "",
+    "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "17-08",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "17-08",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "15-08",
+    "comuna_link": "",
+    "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "16-08",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "16-08",
+    "comuna_link": "",
+    "region_link": "los lagos"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "18-08",
+    "comuna_link": "",
+    "region_link": "nuble"
    }
   ],
   "evento meteorológico": [
@@ -450,7 +450,7 @@
   {
    "fecha": "2026-08-14",
    "ROJA": 0,
-   "AMARILLA": 2,
+   "AMARILLA": 0,
    "ATP": 2,
    "sae": 0
   },
