@@ -1,17 +1,17 @@
 {
- "generado": "2026-08-24T13:15:36+00:00",
+ "generado": "2026-08-24T14:13:25+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "14-08-2026",
   "hasta": "24-08-2026"
  },
  "totales": {
-  "alertas": 91,
+  "alertas": 90,
   "sae": 6,
   "comunas": 1,
-  "regiones": 16,
+  "regiones": 15,
   "por_nivel": {
-   "ATP": 52,
+   "ATP": 51,
    "AMARILLA": 32,
    "ROJA": 7
   },
@@ -26,7 +26,7 @@
    ],
    [
     "evento meteorológico",
-    12
+    11
    ],
    [
     "aluvión",
@@ -309,15 +309,6 @@
     "region_link": "tarapaca"
    },
    {
-    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-    "region": "Aysén del General Carlos Ibáñez del Campo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "14-08",
-    "comuna_link": "",
-    "region_link": "aysen del general carlos ibanez del campo"
-   },
-   {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
     "region": "Magallanes y de la Antártica Chilena",
     "nivel": "ATP",
@@ -479,7 +470,7 @@
    "fecha": "2026-08-14",
    "ROJA": 0,
    "AMARILLA": 3,
-   "ATP": 10,
+   "ATP": 9,
    "sae": 0
   },
   {
