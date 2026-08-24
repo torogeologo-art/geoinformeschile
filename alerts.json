@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-24T21:12:39+00:00",
+ "generado": "2026-08-24T21:46:10+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "1a64124211e4",
+   "nivel": "ATP",
+   "tipo": "aluvión",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A437-2 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 24-08 27-08 Abrir aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos, caídas d",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-24T17:23:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-08-21-15-28-01",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "d506f967e4b1",
+   "nivel": "ATP",
+   "tipo": "aluvión",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A441-1 Viento normal a moderado en litoral, cordillera de la costa, Chiloé y litoral interior. 25-08 26-08 Abrir aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamient",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-24T17:11:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "856812a876d5",
    "nivel": "ATP",
@@ -151,20 +179,6 @@
    "regiones_extra": []
   },
   {
-   "id": "fc9220ee1173",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A441 Viento normal a moderado en litoral, cordillera de la costa, Chiloé y zona interior de la región. 25-08 25-08 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que lo originaron ha sido cancelado el siguiente alertamiento meteorológico: Alertamiento Pronóstico Aviso A434 Heladas normales a moderadas en Patagonia subandina. Por otra parte, el",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-22T18:13:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "d37ab93d27f8",
    "nivel": "ATP",
    "tipo": "marejadas",
@@ -189,20 +203,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-22T16:14:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "00af0b4d51e4",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A437 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 24-08 26-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por evento meteorológico , vigente a contar de hoy y hast",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-21T15:01:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-08-21-15-28-01",
    "origen": "senapred_web",
    "regiones_extra": []
   },
