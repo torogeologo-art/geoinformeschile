@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-24T22:33:30+00:00",
+ "generado": "2026-08-24T23:39:50+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "14-08-2026",
   "hasta": "24-08-2026"
  },
  "totales": {
-  "alertas": 85,
+  "alertas": 87,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 46,
-   "AMARILLA": 31,
+   "ATP": 47,
+   "AMARILLA": 32,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "viento",
-    32
+    33
    ],
    [
     "tormentas eléctricas",
@@ -30,7 +30,7 @@
    ],
    [
     "aluvión",
-    5
+    6
    ],
    [
     "activación de quebradas",
@@ -456,7 +456,7 @@
   ]
  },
  "vigentes": {
-  "ROJA": 5,
+  "ROJA": 4,
   "AMARILLA": 3,
   "ATP": 10,
   "regiones_roja": [
@@ -538,8 +538,8 @@
   {
    "fecha": "2026-08-24",
    "ROJA": 1,
-   "AMARILLA": 2,
-   "ATP": 3,
+   "AMARILLA": 3,
+   "ATP": 4,
    "sae": 0
   }
  ],
@@ -664,6 +664,24 @@
  ],
  "cronologia": [
   {
+   "ts": "24-08 18:19",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Coquimbo",
+   "tipo": "aluvión",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23"
+  },
+  {
+   "ts": "24-08 17:49",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25"
+  },
+  {
    "ts": "24-08 17:23",
    "nivel": "ATP",
    "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -767,24 +785,6 @@
    "nivel": "AMARILLA",
    "lugar": "Región de Coquimbo",
    "tipo": "aluvión",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23"
-  },
-  {
-   "ts": "23-08 12:49",
-   "nivel": "ATP",
-   "lugar": "Región de Los Ríos",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-08-23-12-49-10"
-  },
-  {
-   "ts": "22-08 20:38",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "viento",
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23"
