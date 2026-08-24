@@ -1,28 +1,28 @@
 {
- "generado": "2026-08-24T20:38:07+00:00",
+ "generado": "2026-08-24T21:12:44+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "14-08-2026",
   "hasta": "24-08-2026"
  },
  "totales": {
-  "alertas": 81,
+  "alertas": 84,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 44,
-   "AMARILLA": 30,
-   "ROJA": 7
+   "ATP": 45,
+   "AMARILLA": 31,
+   "ROJA": 8
   },
   "por_tipo": [
    [
     "viento",
-    30
+    32
    ],
    [
     "tormentas eléctricas",
-    29
+    30
    ],
    [
     "evento meteorológico",
@@ -438,7 +438,7 @@
   ]
  },
  "vigentes": {
-  "ROJA": 4,
+  "ROJA": 5,
   "AMARILLA": 3,
   "ATP": 10,
   "regiones_roja": [
@@ -519,9 +519,9 @@
   },
   {
    "fecha": "2026-08-24",
-   "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 0,
+   "ROJA": 1,
+   "AMARILLA": 2,
+   "ATP": 1,
    "sae": 0
   }
  ],
@@ -599,11 +599,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "AMARILLA",
-     "ts": "16-08 21:07",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "ATP",
      "ts": "17-08 15:36",
      "estado": "VIGENTE"
@@ -621,6 +616,11 @@
     {
      "nivel": "ATP",
      "ts": "19-08 18:24",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "24-08 16:45",
      "estado": "VIGENTE"
     }
    ]
@@ -645,6 +645,33 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "24-08 17:07",
+   "nivel": "ATP",
+   "lugar": "Región de Maule",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-21-15-16-11"
+  },
+  {
+   "ts": "24-08 16:45",
+   "nivel": "ROJA",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
+  },
+  {
+   "ts": "24-08 16:31",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Atacama",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33"
+  },
   {
    "ts": "24-08 11:57",
    "nivel": "AMARILLA",
@@ -743,33 +770,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-altas-temperaturas-2026-08-19-17-52-10"
-  },
-  {
-   "ts": "22-08 18:13",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
-  },
-  {
-   "ts": "22-08 16:52",
-   "nivel": "ATP",
-   "lugar": "Región de Valparaíso",
-   "tipo": "marejadas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-08-22-17-35-24"
-  },
-  {
-   "ts": "22-08 02:26",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "aluvión",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
