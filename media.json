@@ -1,6 +1,43 @@
 {
- "generado": "2026-08-24T05:55:22+00:00",
- "desde": "2026-08-22T05:55:21Z",
+ "generado": "2026-08-24T07:07:24+00:00",
+ "desde": "2026-08-22T07:07:21Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "AUuEev8XbO8",
+     "url": "https://www.youtube.com/watch?v=AUuEev8XbO8",
+     "titulo": "TORMENTA ELÉCTRICA EN EL DESIERTO DE ATACAMA 😱 | Antofagasta | Ep.55 | Vuelta al Mundo en moto",
+     "canal": "MotoAventuras de 3",
+     "publicado": "2026-08-23T23:30:09Z",
+     "live": false,
+     "score": 5.36,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "la serena": {
+   "comuna": "La Serena",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "ajNbPU5V_Lk",
+     "url": "https://www.youtube.com/watch?v=ajNbPU5V_Lk",
+     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
+     "canal": "La Serena Drone",
+     "publicado": "2026-08-23T14:50:30Z",
+     "live": true,
+     "score": 6.64,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
