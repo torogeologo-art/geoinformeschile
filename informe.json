@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-24T12:03:54+00:00",
+ "generado": "2026-08-24T13:15:36+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "14-08-2026",
@@ -11,8 +11,8 @@
   "comunas": 1,
   "regiones": 16,
   "por_nivel": {
-   "AMARILLA": 32,
    "ATP": 52,
+   "AMARILLA": 32,
    "ROJA": 7
   },
   "por_tipo": [
@@ -71,15 +71,6 @@
     "region_link": "tarapaca"
    },
    {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "14-08",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
     "lugar": "Región de Arica y Parinacota",
     "region": "Arica y Parinacota",
     "nivel": "AMARILLA",
@@ -105,6 +96,15 @@
     "ts": "14-08",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "14-08",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Atacama",
