@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-24T01:53:07+00:00",
+ "generado": "2026-08-24T03:10:53+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "14-08-2026",
   "hasta": "24-08-2026"
  },
  "totales": {
-  "alertas": 93,
+  "alertas": 92,
   "sae": 6,
   "comunas": 1,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 53,
    "AMARILLA": 33,
+   "ATP": 52,
    "ROJA": 7
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    39
+    38
    ],
    [
     "viento",
@@ -134,15 +134,6 @@
     "region_link": "libertador general bernardo o'higgins"
    },
    {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "13-08",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
-   {
     "lugar": "Región de Los Lagos",
     "region": "Los Lagos",
     "nivel": "ATP",
@@ -177,6 +168,15 @@
     "ts": "14-08",
     "comuna_link": "",
     "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "18-08",
+    "comuna_link": "",
+    "region_link": "nuble"
    }
   ],
   "viento": [
@@ -475,13 +475,6 @@
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-08-13",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
   {
    "fecha": "2026-08-14",
    "ROJA": 0,
