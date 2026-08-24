@@ -1,13 +1,27 @@
 {
- "generado": "2026-08-24T22:33:27+00:00",
+ "generado": "2026-08-24T23:02:46+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 18,
+ "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "8deb2c748c11",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA145-1 Precipitaciones moderadas a fuerte en corto periodo de tiempo en litoral y cordillera de la costa. 25-08&nbsp; 26-08 Abrir aquí Alerta AA146-1 Precipitaciones moderadas a fuertes en precordillera. 25-08 26-08 Abrir aquí Aviso A437-2 Viento normal a moderado en litoral, cordillera costa, valle, precordillera y cordillera. 24-08 27-08 Abrir aquí Aviso A438-2",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-24T17:49:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "1a64124211e4",
    "nivel": "ATP",
@@ -93,20 +107,6 @@
    "regiones_extra": [
     "Parinacota"
    ]
-  },
-  {
-   "id": "2625dc05cec8",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA145 Precipitaciones moderadas a fuerte en corto periodo de tiempo en litoral y cordillera de la costa de la región. 25-08&nbsp; 26-08 Abrir aquí Alerta AA146 Precipitaciones moderadas a fuertes en precordillera de la región. 25-08 26-08 Abrir aquí Aviso A437-1 Viento normal a moderado en litoral, cordillera costa, valle, precordillera y cordillera de la región.",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-23T18:25:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "507dbe716bc5",
@@ -384,7 +384,7 @@
    "descripcion": "¡ATENCIÓN!  \nPor alerta de crecidas se hace un llamado a EVITAR acercarse a quebradas del sector Paipote en la comuna de #Copiapó, Región de Atacama.    \n\nPara reforzar el alertamiento preventivo #SENAPRED activó mensajería SAE.    \n\nMantente informado a través de los canales oficiales y sigue las indicaciones de la autoridad y de los equipos de respuesta en terreno.",
    "region": "Atacama",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-17T22:56:39+00:00",
    "url": "https://t.me/SenapredChile/1542",
    "origen": "telegram",
