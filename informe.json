@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-25T09:53:14+00:00",
+ "generado": "2026-08-25T10:39:30+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "15-08-2026",
   "hasta": "25-08-2026"
  },
  "totales": {
-  "alertas": 87,
+  "alertas": 88,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 47,
+   "ATP": 48,
    "AMARILLA": 32,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "viento",
-    33
+    34
    ],
    [
     "tormentas eléctricas",
@@ -534,6 +534,13 @@
    "AMARILLA": 3,
    "ATP": 5,
    "sae": 0
+  },
+  {
+   "fecha": "2026-08-25",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
+   "sae": 0
   }
  ],
  "escalamientos": [
@@ -657,6 +664,15 @@
  ],
  "cronologia": [
   {
+   "ts": "25-08 05:42",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44"
+  },
+  {
    "ts": "24-08 20:45",
    "nivel": "ATP",
    "lugar": "Región de Antofagasta",
@@ -772,15 +788,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59"
-  },
-  {
-   "ts": "23-08 14:15",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-21-15-16-11"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

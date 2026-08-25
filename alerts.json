@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-25T10:14:05+00:00",
+ "generado": "2026-08-25T10:39:26+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "62f90940040a",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A440-2 Precipitaciones normales a moderadas en litoral, cordillera de la costa y precordillera de la región. 25-08 26-08 Abrir aquí Aviso A441 Viento normal a moderado en litoral, cordillera de la costa y valle de la región. 25-08 25-08 Abrir aquí En tanto, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-25T05:42:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "2fa56e136054",
    "nivel": "ROJA",
@@ -203,20 +217,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-22T16:52:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-08-22-17-35-24",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "d7e87dc59eff",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A440-1 Precipitaciones normales a moderadas en litoral, cordillera de la costa y precordillera de la región. 25-08 26-08 Abrir aquí Aviso A441 Viento normal a moderado en litoral, cordillera de la costa y valle de la región. 25-08 25-08 Abrir aquí En tanto, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-22T16:14:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44",
    "origen": "senapred_web",
    "regiones_extra": []
   },
