@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-25T12:04:40+00:00",
- "desde": "2026-08-23T12:04:38Z",
+ "generado": "2026-08-25T12:59:48+00:00",
+ "desde": "2026-08-23T12:59:46Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "antofagasta": {
@@ -16,6 +16,24 @@
      "publicado": "2026-08-23T23:30:09Z",
      "live": false,
      "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "Mz0bjZcm7nA",
+     "url": "https://www.youtube.com/watch?v=Mz0bjZcm7nA",
+     "titulo": "EN VIVO DESDE CALAMA – Informativo de Punto de Prensa – 25 agosto 2026",
+     "canal": "diarioenlalinea",
+     "publicado": "2026-08-25T11:56:40Z",
+     "live": true,
+     "score": 7.91,
      "verificado": false,
      "embeddable": true
     }
