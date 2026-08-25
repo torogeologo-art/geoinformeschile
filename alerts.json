@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-25T21:04:52+00:00",
+ "generado": "2026-08-25T21:34:53+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "3f1eeb736819",
+   "nivel": "ATP",
+   "tipo": "aluvión",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa , indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos, caídas de rocas) es Alta en cordillera de la costa, precordillera y cordillera; Moderada en litoral y valle. Asimismo, la Dirección General del Territorio Marítimo y Marina Mercante (DIRECTEMAR) mediante su Aviso N°32A , pronostica un aviso de mal tiempo y temporal en área oceánica y costera entre sector Boyeruca a Corral, desde el martes 2",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-25T17:30:15.1515-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "ddcee1c8b592",
    "nivel": "AMARILLA",
@@ -47,20 +61,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-25T15:46:01.011-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "3f1eeb736819",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA145-1 Precipitaciones moderadas a fuerte en corto periodo de tiempo en litoral y cordillera de la costa. 25-08&nbsp; 26-08 Abrir aquí Alerta AA146-1 Precipitaciones moderadas a fuertes en precordillera. 25-08 26-08 Abrir aquí Aviso A437-2 Viento normal a moderado en litoral, cordillera costa, valle, precordillera y cordillera. 24-08 27-08 Abrir aquí Aviso A438-2",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-25T14:30:17.1717-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25",
    "origen": "senapred_web",
    "regiones_extra": []
   },

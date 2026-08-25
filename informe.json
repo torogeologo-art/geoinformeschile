@@ -1,17 +1,17 @@
 {
- "generado": "2026-08-25T20:48:16+00:00",
+ "generado": "2026-08-25T21:35:13+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "15-08-2026",
   "hasta": "25-08-2026"
  },
  "totales": {
-  "alertas": 91,
+  "alertas": 90,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 49,
+   "ATP": 48,
    "AMARILLA": 33,
    "ROJA": 9
   },
@@ -22,7 +22,7 @@
    ],
    [
     "tormentas eléctricas",
-    29
+    28
    ],
    [
     "evento meteorológico",
@@ -172,15 +172,6 @@
   ],
   "tormentas eléctricas": [
    {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "19-08",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
     "lugar": "Región de Tarapacá",
     "region": "Tarapacá",
     "nivel": "ROJA",
@@ -188,6 +179,15 @@
     "ts": "18-08",
     "comuna_link": "",
     "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "19-08",
+    "comuna_link": "",
+    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -469,7 +469,7 @@
    "fecha": "2026-08-15",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 3,
+   "ATP": 2,
    "sae": 0
   },
   {
@@ -545,39 +545,6 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de Antofagasta",
-   "region": "Antofagasta",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "18-08 13:05",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "19-08 18:24",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "24-08 16:45",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "24-08 20:45",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "25-08 15:46",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Tarapacá",
    "region": "Tarapacá",
    "sae": true,
@@ -606,6 +573,39 @@
     {
      "nivel": "ATP",
      "ts": "19-08 21:53",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Antofagasta",
+   "region": "Antofagasta",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ROJA",
+     "ts": "18-08 13:05",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-08 18:24",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "24-08 16:45",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "24-08 20:45",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "25-08 15:46",
      "estado": "VIGENTE"
     }
    ]
