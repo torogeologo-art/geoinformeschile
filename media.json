@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-25T17:38:38+00:00",
- "desde": "2026-08-23T17:38:37Z",
+ "generado": "2026-08-25T17:58:57+00:00",
+ "desde": "2026-08-23T17:58:56Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "antofagasta": {
@@ -9,13 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "AUuEev8XbO8",
-     "url": "https://www.youtube.com/watch?v=AUuEev8XbO8",
-     "titulo": "TORMENTA ELÉCTRICA EN EL DESIERTO DE ATACAMA 😱 | Antofagasta | Ep.55 | Vuelta al Mundo en moto",
-     "canal": "MotoAventuras de 3",
-     "publicado": "2026-08-23T23:30:09Z",
+     "id": "4Jz-tm_bThI",
+     "url": "https://www.youtube.com/watch?v=4Jz-tm_bThI",
+     "titulo": "Ruta destruida por las lluvias | Coloso a Duna Madre con Vincenzo_OG – Parte 1",
+     "canal": "Denny Mandiola",
+     "publicado": "2026-08-24T20:46:15Z",
      "live": false,
-     "score": 3.0,
+     "score": 6.23,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "5f2y3Oyybjk",
+     "url": "https://www.youtube.com/watch?v=5f2y3Oyybjk",
+     "titulo": "Departamento en ArriendoTravesia Coloso Jardines del Sur",
+     "canal": "Ingrid González",
+     "publicado": "2026-08-23T20:05:55Z",
+     "live": false,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     }
