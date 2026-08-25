@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-25T17:18:40+00:00",
+ "generado": "2026-08-25T17:38:37+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -11,13 +11,13 @@
   {
    "id": "62f90940040a",
    "nivel": "ATP",
-   "tipo": "viento",
+   "tipo": "tormentas eléctricas",
    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A440-2 Precipitaciones normales a moderadas en litoral, cordillera de la costa y precordillera de la región. 25-08 26-08 Abrir aquí Aviso A441 Viento normal a moderado en litoral, cordillera de la costa y valle de la región. 25-08 25-08 Abrir aquí En tanto, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A440-2 Precipitaciones normales a moderadas en litoral, cordillera de la costa y precordillera. 25-08 26-08 Abrir aquí Aviso A441-1 Viento normal a moderado en litoral, cordillera de la costa y valle. 25-08 26-08 Abrir aquí Aviso A450-1 Probables tormentas eléctricas en el litoral, cordillera de la costa, valle y precordillera. 26-08 26-08 Abrir aquí En tanto,",
    "region": "La Araucanía",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-25T05:42:00.000-04:00",
+   "ts": "2026-08-25T13:36:22.2222-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44",
    "origen": "senapred_web",
    "regiones_extra": []
