@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-25T20:03:30+00:00",
+ "generado": "2026-08-25T20:34:22+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "ddcee1c8b592",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA147-1 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas. 26-08 30-08 Abrir aquí En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva por viento para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Ca",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-25T16:23:02.022-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "d276cb545a1f",
+   "nivel": "AMARILLA",
+   "tipo": "aluvión",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A437-3 Viento normal a moderado en precordillera y valles precordilleranos y cordillera. 25-08 27-08 Abrir aquí En tanto, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por peligro de remoción en masa , indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos, caídas de rocas) es Baja en",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-25T16:14:25.2525-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "b192c85201c1",
    "nivel": "ROJA",
@@ -79,20 +107,6 @@
    "regiones_extra": []
   },
   {
-   "id": "a1abcc362955",
-   "nivel": "AMARILLA",
-   "tipo": "aluvión",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A437-2 Viento normal a moderado en precordillera y valles precordilleranos, y cordillera. 25-08 27-08 Abrir aquí En tanto, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por peligro de remoción en masa , indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos, caídas de rocas) es Baja en",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-24T18:19:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "1a64124211e4",
    "nivel": "ATP",
    "tipo": "aluvión",
@@ -117,20 +131,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-24T17:07:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-21-15-16-11",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2fa016cebb3b",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA147 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas. 26-08 28-08 Abrir aquí Asimismo, mediante la actualización del siguiente Aviso Meteorológico, se dan por finalizadas las condiciones que originaron el alertamiento en la región. Alertamiento Pronóstico Enlace Aviso A445-1 Viento normal a moderado en zonas de la región de Antofagasta. Abrir aquí E",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-24T16:31:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33",
    "origen": "senapred_web",
    "regiones_extra": []
   },
