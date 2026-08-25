@@ -1,28 +1,28 @@
 {
- "generado": "2026-08-25T17:58:58+00:00",
+ "generado": "2026-08-25T18:52:28+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "15-08-2026",
   "hasta": "25-08-2026"
  },
  "totales": {
-  "alertas": 88,
+  "alertas": 90,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 48,
+   "ATP": 50,
    "AMARILLA": 32,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "viento",
-    34
+    35
    ],
    [
     "tormentas eléctricas",
-    29
+    30
    ],
    [
     "evento meteorológico",
@@ -539,7 +539,7 @@
    "fecha": "2026-08-25",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 1,
+   "ATP": 3,
    "sae": 0
   }
  ],
@@ -664,6 +664,24 @@
  ],
  "cronologia": [
   {
+   "ts": "25-08 14:30",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25"
+  },
+  {
+   "ts": "25-08 14:25",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
+  },
+  {
    "ts": "25-08 05:42",
    "nivel": "ATP",
    "lugar": "Región de La Araucanía",
@@ -770,24 +788,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33"
-  },
-  {
-   "ts": "23-08 15:13",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02"
-  },
-  {
-   "ts": "23-08 14:25",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Arica y Parinacota",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
