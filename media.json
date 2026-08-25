@@ -1,6 +1,25 @@
 {
- "generado": "2026-08-25T06:17:37+00:00",
- "desde": "2026-08-23T06:17:36Z",
+ "generado": "2026-08-25T07:09:54+00:00",
+ "desde": "2026-08-23T07:09:53Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "AUuEev8XbO8",
+     "url": "https://www.youtube.com/watch?v=AUuEev8XbO8",
+     "titulo": "TORMENTA ELÉCTRICA EN EL DESIERTO DE ATACAMA 😱 | Antofagasta | Ep.55 | Vuelta al Mundo en moto",
+     "canal": "MotoAventuras de 3",
+     "publicado": "2026-08-23T23:30:09Z",
+     "live": false,
+     "score": 3.36,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
