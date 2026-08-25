@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-25T13:58:28+00:00",
- "desde": "2026-08-23T13:58:26Z",
+ "generado": "2026-08-25T14:07:52+00:00",
+ "desde": "2026-08-23T14:07:51Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "antofagasta": {
@@ -9,24 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "b7sJg990VTA",
-     "url": "https://www.youtube.com/watch?v=b7sJg990VTA",
-     "titulo": "Transmisión en Vivo | Tevex Oficial",
-     "canal": "Tevex Oficial",
-     "publicado": "2026-08-25T13:35:42Z",
-     "live": true,
-     "score": 7.97,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "3F8sNV2zitE",
      "url": "https://www.youtube.com/watch?v=3F8sNV2zitE",
      "titulo": "EN VIVO | EL MATINAL DE ANTOFAGASTA | 25  DE AGOSTO 2026 | ANTOFAGASTA TV",
      "canal": "Antofagasta TV",
      "publicado": "2026-08-25T12:46:19Z",
      "live": true,
-     "score": 7.9,
+     "score": 7.89,
      "verificado": false,
      "embeddable": true
     },
