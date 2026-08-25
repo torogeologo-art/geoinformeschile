@@ -1,18 +1,18 @@
 {
- "generado": "2026-08-25T21:35:13+00:00",
+ "generado": "2026-08-25T22:01:45+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "15-08-2026",
   "hasta": "25-08-2026"
  },
  "totales": {
-  "alertas": 90,
+  "alertas": 91,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
    "ATP": 48,
-   "AMARILLA": 33,
+   "AMARILLA": 34,
    "ROJA": 9
   },
   "por_tipo": [
@@ -37,16 +37,16 @@
     2
    ],
    [
+    "crecida de río",
+    2
+   ],
+   [
     "remoción en masa",
     2
    ],
    [
     "nevadas",
     2
-   ],
-   [
-    "crecida de río",
-    1
    ]
   ]
  },
@@ -403,6 +403,26 @@
     "region_link": "coquimbo"
    }
   ],
+  "crecida de río": [
+   {
+    "lugar": "La Serena",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "17-08",
+    "comuna_link": "la serena",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "25-08",
+    "comuna_link": "",
+    "region_link": "maule"
+   }
+  ],
   "remoción en masa": [
    {
     "lugar": "Región de Coquimbo",
@@ -442,22 +462,11 @@
     "comuna_link": "",
     "region_link": "nuble"
    }
-  ],
-  "crecida de río": [
-   {
-    "lugar": "La Serena",
-    "region": "Coquimbo",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "17-08",
-    "comuna_link": "la serena",
-    "region_link": "coquimbo"
-   }
   ]
  },
  "vigentes": {
   "ROJA": 4,
-  "AMARILLA": 3,
+  "AMARILLA": 4,
   "ATP": 11,
   "regiones_roja": [
    "Antofagasta",
@@ -538,7 +547,7 @@
   {
    "fecha": "2026-08-25",
    "ROJA": 1,
-   "AMARILLA": 2,
+   "AMARILLA": 3,
    "ATP": 3,
    "sae": 0
   }
@@ -644,6 +653,29 @@
    ]
   },
   {
+   "lugar": "Región de Maule",
+   "region": "Maule",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-08 12:03",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "21-08 14:18",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "25-08 17:51",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Arica y Parinacota",
    "region": "Arica y Parinacota",
    "sae": false,
@@ -663,6 +695,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "25-08 17:51",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Maule",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32"
+  },
   {
    "ts": "25-08 16:23",
    "nivel": "AMARILLA",
@@ -779,15 +820,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
-  },
-  {
-   "ts": "24-08 16:31",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Atacama",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

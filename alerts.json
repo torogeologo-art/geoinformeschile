@@ -1,13 +1,27 @@
 {
- "generado": "2026-08-25T21:45:23+00:00",
+ "generado": "2026-08-25T22:01:42+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 18,
+ "total_vigentes": 19,
  "alertas": [
+  {
+   "id": "85af5d4ac830",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para la Región del Maule por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), en base al estado actual del Embalse Colbún y las condiciones meteorológicas proyectadas para la región, se prevé la necesidad de efectuar vertimientos controlados mediante la apertura de compuertas del embalse, donde se prevén eventuales aumentos de caudal en la cuenca del Río Maule, provocando crecidas y desbordes de esteros y ríos. Del mismo modo, la estación hidrométrica Río Palos en junta con Colorado , ubicada en precordillera de las comunas de Molina y Curicó, indica un incremento en su caudal , alcanzando",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-25T17:51:18.1818-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "3f1eeb736819",
    "nivel": "ATP",
