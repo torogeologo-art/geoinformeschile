@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-25T22:01:45+00:00",
+ "generado": "2026-08-25T22:47:40+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "15-08-2026",
   "hasta": "25-08-2026"
  },
  "totales": {
-  "alertas": 91,
+  "alertas": 92,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 48,
+   "ATP": 49,
    "AMARILLA": 34,
    "ROJA": 9
   },
   "por_tipo": [
    [
     "viento",
-    36
+    37
    ],
    [
     "tormentas eléctricas",
@@ -548,7 +548,7 @@
    "fecha": "2026-08-25",
    "ROJA": 1,
    "AMARILLA": 3,
-   "ATP": 3,
+   "ATP": 4,
    "sae": 0
   }
  ],
@@ -696,6 +696,15 @@
  ],
  "cronologia": [
   {
+   "ts": "25-08 18:16",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02"
+  },
+  {
    "ts": "25-08 17:51",
    "nivel": "AMARILLA",
    "lugar": "Región de Maule",
@@ -811,15 +820,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-21-15-16-11"
-  },
-  {
-   "ts": "24-08 16:45",
-   "nivel": "ROJA",
-   "lugar": "Región de Antofagasta",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
