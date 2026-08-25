@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-24T23:59:55+00:00",
+ "generado": "2026-08-25T00:00:24+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -1996,20 +1996,6 @@
    "url": "https://t.me/SenapredChile/1441",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "93471a8f2b60",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Amarilla para la Región de Aysén por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones meteorológicas iniciales, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Aysén: Alertamiento Pronóstico Aviso A344-1 Nevadas normales a moderadas en cordillera austral norte y patagonia subandina norte de la región. Aviso A342-4 Viento normal a moderado en insular norte de la región. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Aysén, la Dirección Regional del SENAPRED canc",
-   "region": "Aysén del General Carlos Ibáñez del Campo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-25T13:55:41.4141-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-evento-meteorologico-2026-07-16-12-11-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "bf6e2801fcbd",
