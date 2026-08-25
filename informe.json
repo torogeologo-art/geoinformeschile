@@ -1,19 +1,19 @@
 {
- "generado": "2026-08-25T19:37:54+00:00",
+ "generado": "2026-08-25T20:03:34+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "15-08-2026",
   "hasta": "25-08-2026"
  },
  "totales": {
-  "alertas": 89,
+  "alertas": 90,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
    "AMARILLA": 32,
    "ATP": 49,
-   "ROJA": 8
+   "ROJA": 9
   },
   "por_tipo": [
    [
@@ -22,7 +22,7 @@
    ],
    [
     "tormentas eléctricas",
-    29
+    30
    ],
    [
     "evento meteorológico",
@@ -537,7 +537,7 @@
   },
   {
    "fecha": "2026-08-25",
-   "ROJA": 0,
+   "ROJA": 1,
    "AMARILLA": 0,
    "ATP": 3,
    "sae": 0
@@ -584,11 +584,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "AMARILLA",
-     "ts": "18-08 12:50",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "ROJA",
      "ts": "18-08 13:05",
      "estado": "VIGENTE"
@@ -606,6 +601,11 @@
     {
      "nivel": "ATP",
      "ts": "24-08 20:45",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "25-08 15:46",
      "estado": "VIGENTE"
     }
    ]
@@ -663,6 +663,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "25-08 15:46",
+   "nivel": "ROJA",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
+  },
   {
    "ts": "25-08 14:30",
    "nivel": "ATP",
@@ -779,15 +788,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25"
-  },
-  {
-   "ts": "23-08 16:49",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Atacama",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
