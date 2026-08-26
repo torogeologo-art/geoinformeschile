@@ -1,5 +1,17 @@
 {
- "generado": "2026-08-26T09:20:19+00:00",
+ "generado": "2026-08-26T10:07:28+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
- "sectores": []
+ "sectores": [
+  {
+   "nombre": "río Chillán",
+   "lat": -36.69052,
+   "lon": -71.90384,
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "sae": false,
+   "lugar": "Ñuble",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-pinto-coihueco-chillan-y-chillan-viejo-por-crecida-2026-08-26-05-35-12",
+   "ts": "2026-08-26T05:33"
+  }
+ ]
 }

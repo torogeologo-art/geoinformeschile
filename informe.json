@@ -1,18 +1,18 @@
 {
- "generado": "2026-08-26T09:20:22+00:00",
+ "generado": "2026-08-26T10:07:31+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "16-08-2026",
   "hasta": "26-08-2026"
  },
  "totales": {
-  "alertas": 91,
+  "alertas": 92,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
    "ATP": 50,
-   "AMARILLA": 32,
+   "AMARILLA": 33,
    "ROJA": 9
   },
   "por_tipo": [
@@ -34,7 +34,7 @@
    ],
    [
     "crecida de río",
-    2
+    3
    ],
    [
     "remoción en masa",
@@ -401,6 +401,15 @@
     "ts": "25-08",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "26-08",
+    "comuna_link": "",
+    "region_link": "nuble"
    }
   ],
   "remoción en masa": [
@@ -457,7 +466,7 @@
  },
  "vigentes": {
   "ROJA": 1,
-  "AMARILLA": 4,
+  "AMARILLA": 5,
   "ATP": 10,
   "regiones_roja": [
    "Antofagasta"
@@ -532,6 +541,13 @@
    "ROJA": 1,
    "AMARILLA": 3,
    "ATP": 7,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-08-26",
+   "ROJA": 0,
+   "AMARILLA": 1,
+   "ATP": 0,
    "sae": 0
   }
  ],
@@ -680,9 +696,36 @@
      "estado": "CANCELADA"
     }
    ]
+  },
+  {
+   "lugar": "Región de Ñuble",
+   "region": "Ñuble",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "18-08 00:07",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "26-08 05:33",
+     "estado": "VIGENTE"
+    }
+   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "26-08 05:33",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Ñuble",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-pinto-coihueco-chillan-y-chillan-viejo-por-crecida-2026-08-26-05-35-12"
+  },
   {
    "ts": "25-08 20:55",
    "nivel": "ATP",
@@ -799,15 +842,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23"
-  },
-  {
-   "ts": "24-08 17:49",
-   "nivel": "ATP",
-   "lugar": "Región de Biobío",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

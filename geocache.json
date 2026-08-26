@@ -206,5 +206,9 @@
 "lat": -23.69712,
 "lon": -70.42208
 },
-"sector miramar|antofagasta": null
+"sector miramar|antofagasta": null,
+"rio chillan|nuble": {
+"lat": -36.69052,
+"lon": -71.90384
+}
 }

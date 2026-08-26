@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-26T09:20:20+00:00",
+ "generado": "2026-08-26T10:07:30+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -3430,6 +3430,101 @@
      "fecha": "2026-08-20T15:24:09+00:00",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMTdDemU4VnFhV3RlQVJSVlhiNUV1UzV2bTdEOFBFQk02NWVzc3VxNEduVDNIa0tHN1c0ckotbUkwVHMwOVJzVk81aEcyS0JKLVFkZEg0cWNQS3dRdnE3ZERzUmh0UWZXeXVUenVTNXA0OHNHN2Z3QW1ZSlE3SUlwZldEZFVBbU1mRjhZTy1ocnVDVXpjTldSZ2xIMA?oc=5",
      "sector": null
+    }
+   ]
+  },
+  "nuble": {
+   "comuna": "Ñuble",
+   "noticias": [
+    {
+     "titulo": "río Chillán - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-08-18T19:31:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YcWtfU19Ic3gzSVIzUHdSYnBnVFVWdHRZcXVXRXRpMjN0bk1WQml0YW0xQko2dm0wQVRHQi10WHhXMnRwVXV4aUdrUGk1S0NYQnJjRV9vTGJVOXZj?oc=5",
+     "sector": {
+      "nombre": "río Chillán",
+      "lat": -36.69052,
+      "lon": -71.90384
+     }
+    },
+    {
+     "titulo": "Senapred mantiene Alerta Amarilla para las comunas de Yungay, Pemuco, Bulnes, Quillón, Chillán, Ránquil, Coelemu, Pin... - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-08-01T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOejNNUkotY3JqODlCcjNZOU1DSWJCcm0xRF9kdlU2aThRRExXRVh6Q0M3eS1oMXk3Vk44clVHQjFoQzhrU05qNWt0b082UDZIc2Z1QnJsdVluRVd4MHpVbkk2WlBDQnQ4TG9XMHdnMU16YXppVEFIUzB5QTFYS3ZXaEdUMkRSTGI2UUJsemh3SVZCcmhVVnVsR1dKbEkzamxFdEFtdzhDQllRYU9WZks3QTVnS1VFRnZ1SFZiMGg0TWQ0NDZOemdKTnRyb0RvOWF6cEI2aU9uUG1jSWRibklQNmludGlDZEZmNF8zdGNjbjZRdEl1NDlueVpHRDVmc0s3cGRFOGpGUU5Ddnp3?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred declara alerta amarilla en cuatro comunas de Ñuble por aumento del caudal del río Chillán - La Tercera",
+     "medio": "La Tercera",
+     "fecha": "2026-07-26T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMXlONHVPQzQ4U09ZbzBicWZ5VzhxdmlHcUFBblNkeVlIUGxrdXlGV1FLWWxpNmF2aGRpMmZMNm12OWx6bFRVazVNQVB4dWNnTWtsc3pKcGlITGJWdjY0Qmg1TDJfUDNVM0diTVdnWm9PNlp6NGh3UXZ6b0V2bVU0N0g1QUdsR0RlQzFlazBoR29yNnJKVW1sSVpuU1RJYW5zSGJFTjVoUV9wR2FWOU1OMmFua3F5NEg0eVFpUkl1TERGTTBRXzRNRzBYTXJkUzdYX1llUFVBeE8wd9IB-wFBVV95cUxNdHZObDZLVnFDTmdoWDBxMUVfMXM4UEFxS05FdVA5MTZ1cm5sWXhDMWMyWVdNejViMFVaMDNvQjVfdHROaF9wUC1xcTNBSE9CZWE3MXV1aTZLU1U0TFBVTFpOaUZ2MWZwUFFVcC16emVXdXM2UFlta1lpc24xMFNrcFhJSTZlVlMzcnBhNGN2dzJyQVc3bFB4UWlkb3dRR1ppdVVlQU14NVBpNHlmbC1JM0pBUFhLNDRjZEN0OWVIVWVjQkFyTHJFX3NSNFlxVndoeTdIb3YyTFI1NHkzbFJsTlJIc3dWa2VmX0p5a3JIVDlmR0tBS2JmQkhMRQ?oc=5",
+     "sector": {
+      "nombre": "río Chillán",
+      "lat": -36.69052,
+      "lon": -71.90384
+     }
+    },
+    {
+     "titulo": "Alerta Amarilla en seis comunas de Ñuble por crecidas en los ríos Perquilauquén y Chillán - Radar BioBio",
+     "medio": "Radar BioBio",
+     "fecha": "2026-07-26T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT01hMng3TUgwV3NiWlVLWEpDM09KeG9YUTVEX2djdGtqYW1xVURIQlE4eHlBNkk0cFg1U2ZlVjdJRWRpaU5feDZaNXM3aGZfZ01xTmlGaDFiY3BjWjZNWERQZnozaElQRjNMUXJmbkxmUlM3ckJwS2VJYkh5YTA5UldzV3d4NUZpRXl0aHVPTDRDa0txcWlpWkhuUXFwSlZrZk5fUGxRNHdoM3c5ZmhBeS00NGdUaFNMYkx5bEJXYWt1dGZGMmQ2MkgxRWhUZw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Van casi 100 mm de precipitaciones en valle de Ñuble: revisa los cortes de rutas en la región - lafontana.cl",
+     "medio": "lafontana.cl",
+     "fecha": "2026-07-17T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwZzlkM0VjRDNxVDJWTE5Rdm11YjI3SFp1eW1GS1J2UTdJcmFieHdXNmJWYUJxV1YwVmhlZFF4eDJrTjRjNW55cWJRbUw5Ymh2M3FCOHhTV3p2VEV4RWZlUUItdHp4YWFxRWhQOQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Tres ríos de Ñuble permanecen en Alerta Amarilla por aumento de caudales - Ñuble Actual",
+     "medio": "Ñuble Actual",
+     "fecha": "2026-07-17T04:35:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVdONkJ6V2JmS1pid3JBcm42aXp6Q0tkeFJFMjRQTmhHUS04UDFPZmU2eUJkMzNNVnlrVUlRUE9MV2hwUFlGalZTTlZmTUxqRlZidGExcWVoSGRXTU5xYnNCRm5sNDBLdDRjVjBaNml1YjR3aHNJY0NleEs5dExwVDBnUXZfZmMyQlpVQWlIUmptTG9udTFtQ1JNNDc4NnlXNmZvd2JIeDd5aE1ZcndibmJkV3RwLVU?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Sistema frontal deja 100 milímetros de agua en Chillán y tres ríos con alerta de desborde - La Discusión",
+     "medio": "La Discusión",
+     "fecha": "2026-07-16T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdEpaWVB2RF9TQVIwWWpEWDNHYW55aWxqVDQ3QXBpcElxVXFzUE02SVZTWmNma2tXOFhkVS1odGZaSVZqRThYYnlnYWFSd2ItcDVKUFNORkNablRmTVJ4eEtTUkhsSzdPQjFfZ01CUV9iT3V0anNQN2lLdXI1SzZkdE5nQkVrT25YWlVYcjFKY3hid0NWMVpXTnV3eHJXZnpqR01DMGI3VWVwbHFhMktPNkpqbHlmQQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta Amarilla por crecida del río Chillán: SENAPRED activa medidas preventivas en Pinto, Chillán y Chillán Viejo - Ñuble Actual",
+     "medio": "Ñuble Actual",
+     "fecha": "2026-07-15T22:56:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUVhJcjRDMFN5RkpXSVNncXdEeHUtZ0dqZnlXOFFiRGVDSTJsNC1kZ1J3ZkRUSzJoM29XZThjTjJJV3BLMXZXTzZSTnFpNUhQcFdJd3ptX1p4cjRuTDB5ZWVIUHpzeWlGek9sWkVWSi04b05TaFR1NjYtMTE2M2ZlLTZnX29JZUx0NE82ODl0UTJvNU03MXpyanlZNmpCalZCQ3dsLUxQNXRtbnh0aXQ3TGpJQUNNVmV2MlBpVl95TXhMNkwxSlVKT2lYS1kzcDBMWndCSmw4aG1uTGRqemZVQnh6c2M5NERta2dUMw?oc=5",
+     "sector": {
+      "nombre": "río Chillán",
+      "lat": -36.69052,
+      "lon": -71.90384
+     }
+    },
+    {
+     "titulo": "VIDEO | Senapred decreta Alerta Amarilla en tres comunas de Ñuble por aumento del río Chillán - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-07-15T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSmpKRDU0OG4zVHMyYmpidE9McnhFX1JtcXQ2STdlRnAzUmQtWHJnQzJEVGR3VjB5OTdBazhrYXN1bS0wbTlUdi1rbFd4ZkJJTWUyY3lfTGxVMS03MU1nOGVHbll2R21rMVdsYjRHenNtdkdBR1VjVUZHSS1NcjFmNzlqaHo0OEFpTHBNZDgzZEwtRE9SNlVNdmY2WkNXbkFSQkZfcjFncnZ4dDAtYUtWVkd0WUNnUEN2SGlTY0hfM3FCbzNleXVGZFExQnYtWE5KVHk3NFZ2dENiUVlNQmlwVTBpZkRGZw?oc=5",
+     "sector": {
+      "nombre": "río Chillán",
+      "lat": -36.69052,
+      "lon": -71.90384
+     }
+    },
+    {
+     "titulo": "Declaran Alerta Amarilla en Pinto, Chillán y Chillán Viejo por crecida del río Chillán - La Discusión",
+     "medio": "La Discusión",
+     "fecha": "2026-07-15T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMEVDZ1ZJSXNjQ1dfYVNiTG9xdlpVa0E1QUZzYzhLd1FOVjEtRkIyU0NvdVpFRmZjVFh1STktNkFIa2hMUTRfR0E5aTFoa3JlYVV0eWI4ajV4emk3MUdCRXZzeU40aFZBNjVmLVpYeXBhOHQ3c1VsdjVpTGRMZ0FwRHJ4NzY0UXVzUmY1ZUtCZnNQeDk1aXUtdTBNOHFocHo4NFZ6Y0lPZ0VITEwyOUE?oc=5",
+     "sector": {
+      "nombre": "río Chillán",
+      "lat": -36.69052,
+      "lon": -71.90384
+     }
     }
    ]
   }
