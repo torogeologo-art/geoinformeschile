@@ -1,13 +1,27 @@
 {
- "generado": "2026-08-26T09:20:19+00:00",
+ "generado": "2026-08-26T09:58:41+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "a4b4c2a636e1",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para las comunas de Pinto, Coihueco, Chillán y Chillán Viejo por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ río Chillán en Esperanza N°2”, indica un incremento en su caudal , alcanzando valores de umbral amarillo (llegando a 2.8), lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED declara Alerta Amarilla comunal por crecida para las comunas de Pinto, Coihueco, Chillán y Chillán Viejo, vigente a contar de hoy y hasta que l",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-26T05:33:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-pinto-coihueco-chillan-y-chillan-viejo-por-crecida-2026-08-26-05-35-12",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "6d95f8834f87",
    "nivel": "ATP",
