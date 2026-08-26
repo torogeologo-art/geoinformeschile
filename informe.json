@@ -1,17 +1,17 @@
 {
- "generado": "2026-08-26T14:28:35+00:00",
+ "generado": "2026-08-26T16:03:22+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "16-08-2026",
   "hasta": "26-08-2026"
  },
  "totales": {
-  "alertas": 93,
+  "alertas": 92,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 50,
+   "ATP": 49,
    "AMARILLA": 34,
    "ROJA": 9
   },
@@ -22,7 +22,7 @@
    ],
    [
     "tormentas eléctricas",
-    28
+    27
    ],
    [
     "evento meteorológico",
@@ -253,15 +253,6 @@
     "region_link": "arica y parinacota"
    },
    {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "16-08",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
     "lugar": "Región de Los Lagos",
     "region": "Los Lagos",
     "nivel": "ATP",
@@ -477,7 +468,7 @@
    "fecha": "2026-08-16",
    "ROJA": 0,
    "AMARILLA": 8,
-   "ATP": 7,
+   "ATP": 6,
    "sae": 0
   },
   {
