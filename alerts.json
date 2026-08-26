@@ -1,24 +1,38 @@
 {
- "generado": "2026-08-26T11:35:48+00:00",
+ "generado": "2026-08-26T12:15:53+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 17,
  "alertas": [
   {
-   "id": "a4b4c2a636e1",
+   "id": "02751cac60ae",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para las comunas de Pinto, Coihueco, Chillán y Chillán Viejo por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ río Chillán en Esperanza N°2”, indica un incremento en su caudal , alcanzando valores de umbral amarillo (llegando a 2.8), lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED declara Alerta Amarilla comunal por crecida para las comunas de Pinto, Coihueco, Chillán y Chillán Viejo, vigente a contar de hoy y hasta que l",
+   "titulo": "Se declara Alerta Amarilla para las comunas de San Fabián y Ñiquénpor crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Perquilauquén en San Manuel”, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para las comunas de San Fabián y Ñiquén, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con la declar",
    "region": "Ñuble",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-26T05:33:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-pinto-coihueco-chillan-y-chillan-viejo-por-crecida-2026-08-26-05-35-12",
+   "ts": "2026-08-26T07:45:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-fabian-y-iquenpor-crecida-2026-08-26-07-54-58",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "f7f7826a78c1",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Amarilla para la Región del Maule por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “ Estación Rio Melado en el Salto”, se encuentra en sector aguas arriba embalse El Melado , comuna Colbún, ha sobrepasado los valores base encontrándose en umbral amarillo. Del mismo modo, la “ Estación Rio Perquilauquén en San Manuel”, ha sobrepasado los valores base encontrándose en umbral amarillo. Cabe mencionar, que dicha estación está ubicada al lado sur del Río Perquilauquén en el sector La Balsa de la Comuna de San Fabian, Región del Ñuble , debido a lo cual,",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-26T07:39:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -107,16 +121,16 @@
    "regiones_extra": []
   },
   {
-   "id": "85af5d4ac830",
+   "id": "9055027443e7",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para la Región del Maule por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), en base al estado actual del Embalse Colbún y las condiciones meteorológicas proyectadas para la región, se prevé la necesidad de efectuar vertimientos controlados mediante la apertura de compuertas del embalse, donde se prevén eventuales aumentos de caudal en la cuenca del Río Maule, provocando crecidas y desbordes de esteros y ríos. Del mismo modo, la estación hidrométrica Río Palos en junta con Colorado , ubicada en precordillera de las comunas de Molina y Curicó, indica un incremento en su caudal , alcanzando",
+   "titulo": "Se declara Alerta Amarilla para las comunas de San Clemente y Colbún por crecida",
+   "descripcion": "1.- RESUMEN DE LA SITUACIÓN En consideración al boletín de recomendación de Alerta de Crecida por parte de la Dirección General de Aguas, el cual establece el actual nivel del embalse Colbún correspondiente a 434,3 m.s.n.m, sobre la base de proyecciones meteorológicas de precipitaciones para los próximos 5 días en la Región del Maule, y considerando los resultados obtenidos por el modelo Precipitación – Escorrentía de DGA, es posible concluir que existirán condiciones que motivarán a realizar vertimientos controlados a través de las compuertas del embalse. De acuerdo con la información proporc",
    "region": "Maule",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-25T17:51:18.1818-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32",
+   "ts": "2026-08-25T17:42:45.4545-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-clemente-y-colbun-por-crecida-2026-08-25-17-45-57",
    "origen": "senapred_web",
    "regiones_extra": []
   },
