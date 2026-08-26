@@ -1,13 +1,27 @@
 {
- "generado": "2026-08-26T16:03:19+00:00",
+ "generado": "2026-08-26T17:01:44+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "c9e774e593e0",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección Meteorológica de Chile y por los distintos organismos técnicos competentes, que indican una disminución de las condiciones de amenaza y por cuanto no se mantienen avisos, alertas o pronósticos que indíquenla inminencia de un fenómeno meteorológico de intensidad tal que requiera sostener una condición reforzada de alistamiento y movilización regional de recursos. Del mismo modo, las situaciones de afectación de viviendas, interrupciones de conectividad y otras consecuencias derivadas del evento, se encuentran identificadas, atendidas o e",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-26T12:47:24.2424-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "bf328e7e1eb9",
    "nivel": "AMARILLA",
@@ -159,20 +173,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-25T16:23:02.022-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "d276cb545a1f",
-   "nivel": "AMARILLA",
-   "tipo": "aluvión",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A437-3 Viento normal a moderado en precordillera y valles precordilleranos y cordillera. 25-08 27-08 Abrir aquí En tanto, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por peligro de remoción en masa , indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos, caídas de rocas) es Baja en",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-25T16:14:25.2525-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },
