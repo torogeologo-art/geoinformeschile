@@ -1,17 +1,5 @@
 {
- "generado": "2026-08-25T23:30:22+00:00",
+ "generado": "2026-08-26T00:01:21+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
- "sectores": [
-  {
-   "nombre": "sector Coloso",
-   "lat": -23.69712,
-   "lon": -70.42208,
-   "nivel": "ROJA",
-   "tipo": "activación de quebradas",
-   "sae": true,
-   "lugar": "Antofagasta",
-   "url": "https://t.me/SenapredChile/1554",
-   "ts": "2026-08-18T23:54"
-  }
- ]
+ "sectores": []
 }
