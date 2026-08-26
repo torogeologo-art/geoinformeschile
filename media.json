@@ -1,6 +1,25 @@
 {
- "generado": "2026-08-26T14:28:34+00:00",
- "desde": "2026-08-24T14:28:34Z",
+ "generado": "2026-08-26T16:02:37+00:00",
+ "desde": "2026-08-24T16:02:36Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "w7aEtgfHFOs",
+     "url": "https://www.youtube.com/watch?v=w7aEtgfHFOs",
+     "titulo": "Panthers Volley Club está en vivo  Regional Sub 17  Antofagasta (Colegio San Luis) vs Calama",
+     "canal": "Panthers Volley Club",
+     "publicado": "2026-08-26T14:47:36Z",
+     "live": true,
+     "score": 7.9,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
