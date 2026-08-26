@@ -1,32 +1,32 @@
 {
- "generado": "2026-08-26T16:03:22+00:00",
+ "generado": "2026-08-26T17:51:09+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "16-08-2026",
   "hasta": "26-08-2026"
  },
  "totales": {
-  "alertas": 92,
+  "alertas": 93,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 49,
-   "AMARILLA": 34,
-   "ROJA": 9
+   "ATP": 48,
+   "AMARILLA": 35,
+   "ROJA": 10
   },
   "por_tipo": [
    [
     "viento",
-    38
+    37
    ],
    [
     "tormentas eléctricas",
-    27
+    28
    ],
    [
     "evento meteorológico",
-    10
+    11
    ],
    [
     "aluvión",
@@ -62,15 +62,6 @@
     "region_link": "antofagasta"
    },
    {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "16-08",
-    "comuna_link": "",
-    "region_link": "arica y parinacota"
-   },
-   {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
     "nivel": "AMARILLA",
@@ -78,6 +69,15 @@
     "ts": "16-08",
     "comuna_link": "",
     "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "16-08",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
    },
    {
     "lugar": "Región de Atacama",
@@ -291,6 +291,15 @@
     "region_link": "tarapaca"
    },
    {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "26-08",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
     "lugar": "Región de Metropolitana de Santiago",
     "region": "Metropolitana de Santiago",
     "nivel": "ATP",
@@ -457,7 +466,7 @@
  },
  "vigentes": {
   "ROJA": 1,
-  "AMARILLA": 6,
+  "AMARILLA": 5,
   "ATP": 10,
   "regiones_roja": [
    "Antofagasta"
@@ -468,7 +477,7 @@
    "fecha": "2026-08-16",
    "ROJA": 0,
    "AMARILLA": 8,
-   "ATP": 6,
+   "ATP": 5,
    "sae": 0
   },
   {
@@ -536,8 +545,8 @@
   },
   {
    "fecha": "2026-08-26",
-   "ROJA": 0,
-   "AMARILLA": 2,
+   "ROJA": 1,
+   "AMARILLA": 3,
    "ATP": 0,
    "sae": 0
   }
@@ -676,24 +685,6 @@
    ]
   },
   {
-   "lugar": "Región de Arica y Parinacota",
-   "region": "Arica y Parinacota",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "16-08 13:49",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "16-08 16:23",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Ñuble",
    "region": "Ñuble",
    "sae": false,
@@ -713,6 +704,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "26-08 13:24",
+   "nivel": "ROJA",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
+  },
+  {
+   "ts": "26-08 12:47",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Coquimbo",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23"
+  },
   {
    "ts": "26-08 07:39",
    "nivel": "AMARILLA",
@@ -820,24 +829,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
-  },
-  {
-   "ts": "25-08 05:42",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44"
-  },
-  {
-   "ts": "24-08 20:45",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-08-24-20-55-53"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
