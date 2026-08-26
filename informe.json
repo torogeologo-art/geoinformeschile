@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-26T17:51:09+00:00",
+ "generado": "2026-08-26T19:20:00+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "16-08-2026",
   "hasta": "26-08-2026"
  },
  "totales": {
-  "alertas": 93,
+  "alertas": 94,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 48,
+   "ATP": 49,
    "AMARILLA": 35,
    "ROJA": 10
   },
   "por_tipo": [
    [
     "viento",
-    37
+    38
    ],
    [
     "tormentas eléctricas",
@@ -172,15 +172,6 @@
   ],
   "tormentas eléctricas": [
    {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "19-08",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
     "lugar": "Región de Tarapacá",
     "region": "Tarapacá",
     "nivel": "ROJA",
@@ -188,6 +179,15 @@
     "ts": "18-08",
     "comuna_link": "",
     "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "19-08",
+    "comuna_link": "",
+    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -467,7 +467,7 @@
  "vigentes": {
   "ROJA": 1,
   "AMARILLA": 5,
-  "ATP": 10,
+  "ATP": 11,
   "regiones_roja": [
    "Antofagasta"
   ]
@@ -547,44 +547,11 @@
    "fecha": "2026-08-26",
    "ROJA": 1,
    "AMARILLA": 3,
-   "ATP": 0,
+   "ATP": 1,
    "sae": 0
   }
  ],
  "escalamientos": [
-  {
-   "lugar": "Región de Antofagasta",
-   "region": "Antofagasta",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "18-08 13:05",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "19-08 18:24",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "24-08 16:45",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "24-08 20:45",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "25-08 15:46",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
   {
    "lugar": "Región de Tarapacá",
    "region": "Tarapacá",
@@ -614,6 +581,39 @@
     {
      "nivel": "ATP",
      "ts": "19-08 21:53",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Antofagasta",
+   "region": "Antofagasta",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ROJA",
+     "ts": "18-08 13:05",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-08 18:24",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "24-08 16:45",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "24-08 20:45",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "25-08 15:46",
      "estado": "VIGENTE"
     }
    ]
@@ -704,6 +704,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "26-08 15:18",
+   "nivel": "ATP",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-26-15-19-11"
+  },
   {
    "ts": "26-08 13:24",
    "nivel": "ROJA",
@@ -820,15 +829,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25"
-  },
-  {
-   "ts": "25-08 14:25",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
