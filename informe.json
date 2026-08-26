@@ -1,28 +1,28 @@
 {
- "generado": "2026-08-26T00:01:23+00:00",
+ "generado": "2026-08-26T02:00:27+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "16-08-2026",
   "hasta": "26-08-2026"
  },
  "totales": {
-  "alertas": 92,
+  "alertas": 93,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "AMARILLA": 34,
-   "ATP": 49,
+   "ATP": 51,
+   "AMARILLA": 33,
    "ROJA": 9
   },
   "por_tipo": [
    [
     "viento",
-    37
+    38
    ],
    [
     "tormentas eléctricas",
-    28
+    29
    ],
    [
     "evento meteorológico",
@@ -31,10 +31,6 @@
    [
     "aluvión",
     7
-   ],
-   [
-    "activación de quebradas",
-    2
    ],
    [
     "crecida de río",
@@ -47,6 +43,10 @@
    [
     "nevadas",
     2
+   ],
+   [
+    "activación de quebradas",
+    1
    ]
   ]
  },
@@ -383,26 +383,6 @@
     "region_link": "libertador general bernardo o'higgins"
    }
   ],
-  "activación de quebradas": [
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "17-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "15-08",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   }
-  ],
   "crecida de río": [
    {
     "lugar": "La Serena",
@@ -462,22 +442,32 @@
     "comuna_link": "",
     "region_link": "nuble"
    }
+  ],
+  "activación de quebradas": [
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "17-08",
+    "comuna_link": "",
+    "region_link": "atacama"
+   }
   ]
  },
  "vigentes": {
-  "ROJA": 3,
+  "ROJA": 1,
   "AMARILLA": 4,
   "ATP": 11,
   "regiones_roja": [
-   "Antofagasta",
-   "Atacama"
+   "Antofagasta"
   ]
  },
  "serie": [
   {
    "fecha": "2026-08-15",
    "ROJA": 0,
-   "AMARILLA": 2,
+   "AMARILLA": 1,
    "ATP": 1,
    "sae": 0
   },
@@ -548,7 +538,7 @@
    "fecha": "2026-08-25",
    "ROJA": 1,
    "AMARILLA": 3,
-   "ATP": 5,
+   "ATP": 7,
    "sae": 0
   }
  ],
@@ -672,6 +662,11 @@
      "nivel": "AMARILLA",
      "ts": "25-08 17:51",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "25-08 20:39",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -695,6 +690,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "25-08 20:55",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-08-21-15-28-01"
+  },
+  {
+   "ts": "25-08 20:39",
+   "nivel": "ATP",
+   "lugar": "Región de Maule",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-21-15-16-11"
+  },
   {
    "ts": "25-08 19:56",
    "nivel": "ATP",
@@ -802,24 +815,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25"
-  },
-  {
-   "ts": "24-08 17:23",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "aluvión",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-08-21-15-28-01"
-  },
-  {
-   "ts": "24-08 17:11",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "aluvión",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
