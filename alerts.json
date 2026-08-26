@@ -1,13 +1,41 @@
 {
- "generado": "2026-08-26T19:19:57+00:00",
+ "generado": "2026-08-26T22:24:47+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "5a0e5bb51f59",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la región de Los Ríos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA150 Tormentas Eléctricas en la precordillera de la región. 26-08 26-08 Abrir aquí Aviso A441-1 Viento normal a moderado en el litoral y cordillera de la costa. 25-08 25-08 Abrir aquí Aviso A450-4 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en el litoral, cordillera de la costa, valle y precordillera. 25-08 26-08 Abrir aq",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-26T16:52:02.022-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-08-23-12-49-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "05b418f7d896",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: ​ Alertamiento Pronóstico Inicio Fin Enlace Aviso A437-3 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 25-08 27-08 Abrir aquí Aviso A450-4 Probables tormentas eléctricas en valle, precordillera y cordillera. 26-08 28-08 Abrir aquí Asimismo, la DMC ha cancelado los siguiente alertamientos meteorológico para la Región del Maule, debido al debilitamiento de las condi",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-26T16:15:25.2525-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-21-15-16-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "0e8cd4009c2a",
    "nivel": "ATP",
@@ -93,20 +121,6 @@
    "regiones_extra": []
   },
   {
-   "id": "4f755db1e20f",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la región de Los Ríos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA148 Tormentas eléctricas en la región. 25-08 26-08 Abrir aquí Aviso A440-2 Precipitaciones normales a moderadas en litoral, cordillera de la costa y precordillera. 25-08 26-08 Abrir aquí Aviso A441-1 Viento normal a moderado en el litoral y cordillera de la costa. 25-08 25-08 Abrir aquí Aviso A450-2 Probables tormentas eléctricas con probabilidad de fuertes rac",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-25T23:09:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-08-23-12-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "4bc894e6815d",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -117,20 +131,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-25T20:55:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-08-21-15-28-01",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "4fbdb7201907",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA145-1 Precipitaciones moderadas a fuerte en corto periodo de tiempo en litoral. 25-08&nbsp; 26-08 Abrir aquí Alerta AA146-1 Precipitaciones moderadas a fuertes en precordillera. 25-08 26-08 Abrir aquí Aviso A437-3 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 25-08 27-08 Abrir aquí Aviso A438-2 Precipitaciones no",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-25T20:39:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-21-15-16-11",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -298,7 +298,7 @@
    "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarilla [1] . En relación con el Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, se indica que entre el 01 y el 15 de agosto, el Complejo Volcánico Nevados de Chillán presentó actividad sísmica de baja energía y reducida tasa de ocurrencia. No obstante, se registraron pulsos de tremor continuo de distinta frecuencia, sismicida",
    "region": "Ñuble",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-08-19T18:18:54.5454-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
    "origen": "senapred_web",
