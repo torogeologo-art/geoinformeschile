@@ -1,32 +1,32 @@
 {
- "generado": "2026-08-26T22:26:07+00:00",
+ "generado": "2026-08-27T03:30:39+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "16-08-2026",
-  "hasta": "26-08-2026"
+  "desde": "17-08-2026",
+  "hasta": "27-08-2026"
  },
  "totales": {
-  "alertas": 91,
+  "alertas": 84,
   "sae": 6,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "AMARILLA": 33,
-   "ATP": 48,
+   "ATP": 47,
+   "AMARILLA": 27,
    "ROJA": 10
   },
   "por_tipo": [
    [
     "viento",
-    34
+    32
    ],
    [
     "tormentas eléctricas",
-    29
+    25
    ],
    [
     "evento meteorológico",
-    11
+    10
    ],
    [
     "aluvión",
@@ -190,42 +190,6 @@
     "region_link": "antofagasta"
    },
    {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "16-08",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "16-08",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "16-08",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "16-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
     "lugar": "Región de Maule",
     "region": "Maule",
     "nivel": "AMARILLA",
@@ -242,6 +206,15 @@
     "ts": "17-08",
     "comuna_link": "",
     "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "17-08",
+    "comuna_link": "",
+    "region_link": "atacama"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -278,18 +251,27 @@
     "ts": "25-08",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "25-08",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "26-08",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
    }
   ],
   "evento meteorológico": [
-   {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "16-08",
-    "comuna_link": "",
-    "region_link": "tarapaca"
-   },
    {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
@@ -467,7 +449,7 @@
  "vigentes": {
   "ROJA": 1,
   "AMARILLA": 5,
-  "ATP": 10,
+  "ATP": 9,
   "regiones_roja": [
    "Antofagasta"
   ]
@@ -476,8 +458,8 @@
   {
    "fecha": "2026-08-16",
    "ROJA": 0,
-   "AMARILLA": 6,
-   "ATP": 2,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -553,6 +535,39 @@
  ],
  "escalamientos": [
   {
+   "lugar": "Región de Tarapacá",
+   "region": "Tarapacá",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "16-08 23:41",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-08 19:21",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "18-08 14:33",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "18-08 17:38",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-08 21:53",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Antofagasta",
    "region": "Antofagasta",
    "sae": true,
@@ -614,39 +629,6 @@
     {
      "nivel": "AMARILLA",
      "ts": "23-08 16:49",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Tarapacá",
-   "region": "Tarapacá",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "16-08 23:41",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "17-08 19:21",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "18-08 14:33",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "18-08 17:38",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "19-08 21:53",
      "estado": "VIGENTE"
     }
    ]
