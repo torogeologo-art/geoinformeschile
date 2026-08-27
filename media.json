@@ -1,6 +1,25 @@
 {
- "generado": "2026-08-27T03:30:38+00:00",
- "desde": "2026-08-25T03:30:37Z",
+ "generado": "2026-08-27T14:34:20+00:00",
+ "desde": "2026-08-25T14:34:19Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "Xc4mkLq2EOk",
+     "url": "https://www.youtube.com/watch?v=Xc4mkLq2EOk",
+     "titulo": "EN VIVO | EL MATINAL DE ANTOFAGASTA | 27  DE AGOSTO 2026 | ANTOFAGASTA TV",
+     "canal": "Antofagasta TV",
+     "publicado": "2026-08-27T12:43:09Z",
+     "live": true,
+     "score": 7.85,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }

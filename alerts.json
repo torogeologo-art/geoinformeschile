@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-27T03:30:19+00:00",
+ "generado": "2026-08-27T14:34:18+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "763e2b43d869",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Amarilla para la región del Maule por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro en sus caudales. Estación hidrométrica Umbral Río Perquilauquén en Quella Amarillo Río Maule en Armerillo Amarillo Río Melado en El Salto Amarillo Río Perquilauquén en San Manuel Amarillo Cabe señalar que la estación Río Perquilauquén en San Manuel, se encuentra ubicada al sur del Río Perquilauquén, en el sector La Balsa de la comuna de San Fabián, Región de Ñuble. No obstante lo anterior, el río Perquilauquén es afluente del río Loncomi",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-27T00:25:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "05b418f7d896",
    "nivel": "ATP",
@@ -89,20 +103,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-26T07:46:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-fabian-y-iquenpor-crecida-2026-08-26-07-54-58",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "f7f7826a78c1",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Monitoreo Alerta Amarilla para la Región del Maule por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “ Estación Rio Melado en el Salto”, se encuentra en sector aguas arriba embalse El Melado , comuna Colbún, ha sobrepasado los valores base encontrándose en umbral amarillo. Del mismo modo, la “ Estación Rio Perquilauquén en San Manuel”, ha sobrepasado los valores base encontrándose en umbral amarillo. Cabe mencionar, que dicha estación está ubicada al lado sur del Río Perquilauquén en el sector La Balsa de la Comuna de San Fabian, Región del Ñuble , debido a lo cual,",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-26T07:39:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32",
    "origen": "senapred_web",
    "regiones_extra": []
   },
