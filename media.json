@@ -1,25 +1,6 @@
 {
- "generado": "2026-08-28T00:03:12+00:00",
- "desde": "2026-08-26T00:03:11Z",
+ "generado": "2026-08-28T11:26:18+00:00",
+ "desde": "2026-08-26T11:26:17Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "antofagasta": {
-   "comuna": "Antofagasta",
-   "region": "Antofagasta",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "sdB0Met7kMo",
-     "url": "https://www.youtube.com/watch?v=sdB0Met7kMo",
-     "titulo": "EXTRACCIÓN MINAS VS. EQUIPOS AUXILIARES | LIGA A - MINERA ESCONDIDA 2026 | FECHA 5 | EN VIVO !",
-     "canal": "LIGA SPORTS",
-     "publicado": "2026-08-27T13:17:40Z",
-     "live": true,
-     "score": 7.1,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }

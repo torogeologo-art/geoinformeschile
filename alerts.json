@@ -1,13 +1,27 @@
 {
- "generado": "2026-08-28T00:02:44+00:00",
+ "generado": "2026-08-28T11:26:16+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "13005f074ca7",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta, debido al debilitamiento de las condiciones que lo originaron. Alertamiento Pronóstico Enlace Aviso A449 Altas temperaturas en pampa. Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por altas temperaturas para las comunas de Antofagasta, Sierra Gorda y María Elena, que se",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-27T21:31:51.5151-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-08-24-20-55-53",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "4a36087812ae",
    "nivel": "ATP",
@@ -229,20 +243,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-25T16:23:02.022-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "fb2e69406eda",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A449 Altas temperaturas en pampa de la región. 26-08 27-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por altas temperaturas para las comunas de Antofagasta, Sierra Gorda y María Elena, vigente a contar de hoy y hasta",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-24T20:45:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-08-24-20-55-53",
    "origen": "senapred_web",
    "regiones_extra": []
   },
