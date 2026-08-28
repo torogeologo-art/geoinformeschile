@@ -1,6 +1,25 @@
 {
- "generado": "2026-08-28T11:28:29+00:00",
- "desde": "2026-08-26T11:28:28Z",
+ "generado": "2026-08-28T21:28:52+00:00",
+ "desde": "2026-08-26T21:28:51Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "maule": {
+   "comuna": "Maule",
+   "region": "Maule",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "R2qyZ-Cl3c0",
+     "url": "https://www.youtube.com/watch?v=R2qyZ-Cl3c0",
+     "titulo": "En Vivo / Live: Huequén, Curepto – Panoramic View from Firefighters Camera",
+     "canal": "Tercera de Huaquén",
+     "publicado": "2026-08-28T14:36:02Z",
+     "live": true,
+     "score": 7.43,
+     "verificado": false,
+     "embeddable": false
+    }
+   ]
+  }
+ }
 }

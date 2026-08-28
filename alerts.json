@@ -1,13 +1,83 @@
 {
- "generado": "2026-08-28T11:28:02+00:00",
+ "generado": "2026-08-28T21:28:50+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "fc159331a076",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Provincia del Tamarugal por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA147-4 Viento moderado a fuerte con desarrollo de ventisca en cordillera. 30-08 30-08 Abrir aquí Aviso A445-3 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. 29-08 29-08 Abrir aquí Aviso A455 Viento normal a moderado en pampa de la región.30-08 30-08 30-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la De",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-28T16:38:22.2222-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "0c5553be3405",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA152 Tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales 28-08 28-08 Abrir aquí Aviso A450-6 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. 27-08 29-08 Abrir aquí Mientras que, se han cancelado los siguientes a",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-28T15:54:28.2828-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "711467c8138c",
+   "nivel": "ROJA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Roja para la Región de la Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA147-4 Viento moderado a fuerte con desarrollo de ventiscas en Cordillera de la Costa, Precordillera Alto Loa, Precordillera Salar y Cordillera. 28-08 31-08 Abrir aquí Aviso A445-3 Viento normal a moderado con probabilidad de tormentas de arena en Precordillera Occidental. 30-08 30-08 Abrir aquí Aviso A455 Viento normal a moderado con probabilidad de tormenta",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-28T15:00:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "418b5eb2acb6",
+   "nivel": "ATP",
+   "tipo": "remoción en masa",
+   "titulo": "Monitoreo  Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigente los siguientes alertamientos meteorológicos para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A452-3 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en litoral y Chiloé. 28-08 29-08 Abrir aquí Aviso A454 Precipitaciones normales a moderadas en litoral. 28-08 29-08 Abrir aquí En tanto, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-28T12:09:49.4949-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "6f7d6ecca5a2",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A452-1 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en litoral, cordillera de la costa y valle. 27-08 28-08 Abrir aquí Aviso A454 Precipitaciones normales a moderadas en litoral. 28-08 29-08 Abrir aquí En tanto, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-28T12:01:17.1717-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "13005f074ca7",
    "nivel": "ATP",
@@ -23,34 +93,6 @@
    "regiones_extra": []
   },
   {
-   "id": "4a36087812ae",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura Alerta Temprana Preventiva para la Provincia del Tamarugal por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA147-3 Viento moderado a fuerte con desarrollo de ventisca en cordillera. 30-08 30-08 Abrir aquí Aviso A445-2 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. 29-08 29-08 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que lo originaron, han sido cancelados los siguientes alertamientos meteorológicos: Alertam",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-27T18:52:23.2323-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a51e51cbc55f",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A452-1 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en litoral, cordillera de la costa y valle. 27-08 28-08 Abrir aquí Aviso A454 Precipitaciones normales a moderadas en litoral. 28-08 29-08 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que lo originaron, han sido cancelados los siguientes alert",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-27T18:16:15.1515-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "9b5196906c5a",
    "nivel": "ROJA",
    "tipo": "crecida de río",
@@ -61,20 +103,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-27T13:17:58.5858-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-clemente-y-colbun-por-crecida-2026-08-25-17-45-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "645c5d191d55",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A452-1 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en litoral y Chiloé. 27-08 28-08 Abrir aquí Aviso A454 Precipitaciones normales a moderadas en litoral. 28-08 29-08 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que lo originaron, han sido cancelados los siguientes alertamientos meteorológicos: Alertam",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-27T12:08:57.5757-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -135,6 +163,20 @@
    "regiones_extra": []
   },
   {
+   "id": "9cea9c0411dd",
+   "nivel": "ATP",
+   "tipo": "marejadas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Isla de Pascua por marejadas anormales",
+   "descripcion": "De acuerdo con la información proporcionada por el Centro Meteorológico Marítimo de Valparaíso, ha finalizado la vigencia del Aviso N°39 por marejadas anormales en el sector de Isla de Pascua de la Región de Valparaíso. Lo anterior, debido al debilitamiento de las condiciones que lo originaron. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la Provincia de Isla de Pascua por marejadas anormales, que se mantuvo vigente desde el 22 de agosto de 2026.",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-26T20:25:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-08-22-17-35-24",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
    "id": "5a0e5bb51f59",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -163,20 +205,6 @@
    "regiones_extra": []
   },
   {
-   "id": "436946d3cbc9",
-   "nivel": "ROJA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Roja para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA147-3 Viento moderado a fuerte con desarrollo de ventiscas en Cordillera de la Costa, Precordillera Alto Loa, Precordillera Salar y Cordillera. 28-08 30-08 Abrir aquí Aviso A445-2 Viento normal a moderado con probabilidad de tormentas de arena en Precordillera Occidental y Cordillera. 27-08 30-08 Abrir aquí En consideración a estos antecedentes y en coordina",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-26T13:24:47.4747-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "c9e774e593e0",
    "nivel": "AMARILLA",
    "tipo": "evento meteorológico",
@@ -201,20 +229,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-25T20:55:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-08-21-15-28-01",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a425b5d9e849",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA145-1 Precipitaciones moderadas a fuerte en corto periodo de tiempo en litoral. 25-08&nbsp; 26-08 Abrir aquí Alerta AA146-1 Precipitaciones moderadas a fuertes en precordillera. 25-08 26-08 Abrir aquí Aviso A437-3 Viento normal a moderado en litoral, cordillera costa, valle, precordillera y cordillera. 25-08 27-08 Abrir aquí Aviso A438-2 Precipitaciones normales a",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-25T18:16:32.3232-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -287,20 +301,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-22T20:10:39.3939-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-altas-temperaturas-2026-08-19-17-52-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "d37ab93d27f8",
-   "nivel": "ATP",
-   "tipo": "marejadas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Isla de Pascua por marejadas anormales",
-   "descripcion": "De acuerdo con la información proporcionada por el Centro Meteorológico Marítimo Regional de Valparaíso, mediante su Aviso N°39, se indica que se presentarán marejadas anormales en el sector de Isla de Pascua, Región de Valparaíso. Se estima que esta condición genere marejadas, fuertes rompientes, sobrepasos y potenciales daños a la infraestructura costera, principalmente en bahías abiertas al suroeste, alcanzando su mayor desarrollo en las respectivas horas de pleamar especialmente entre las 03:00 a 05:00 horas, como marea primaria, y entre las 15:00 y 17:00 horas, como pleamar secundaria. Pr",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-22T16:52:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-08-22-17-35-24",
    "origen": "senapred_web",
    "regiones_extra": []
   },
