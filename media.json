@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-29T15:15:38+00:00",
- "desde": "2026-08-27T15:15:36Z",
+ "generado": "2026-08-29T18:37:02+00:00",
+ "desde": "2026-08-27T18:37:00Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "maule": {
@@ -9,13 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "6lflbbZzApc",
+     "url": "https://www.youtube.com/watch?v=6lflbbZzApc",
+     "titulo": "Linares Chile, Region de Maule",
+     "canal": "Radio Buena Nueva",
+     "publicado": "2026-08-29T15:50:20Z",
+     "live": true,
+     "score": 7.77,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "R2qyZ-Cl3c0",
      "url": "https://www.youtube.com/watch?v=R2qyZ-Cl3c0",
      "titulo": "En Vivo / Live: Huequén, Curepto – Panoramic View from Firefighters Camera",
      "canal": "Tercera de Huaquén",
      "publicado": "2026-08-28T14:36:02Z",
      "live": true,
-     "score": 5.95,
+     "score": 5.67,
      "verificado": false,
      "embeddable": false
     }

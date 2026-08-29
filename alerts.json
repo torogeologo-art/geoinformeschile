@@ -1,13 +1,27 @@
 {
- "generado": "2026-08-29T15:15:18+00:00",
+ "generado": "2026-08-29T18:37:00+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "1da6e5d7de8a",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para la comuna de Concepción por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación de la red fluviométrica del&nbsp; “Río Andalién antes del Ex peaje Chaimavida” ubicada en la comuna de Concepción, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Concepción, vigente a contar de hoy y",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-29T13:39:12.1212-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-concepcion-por-crecida-2026-08-29-13-41-27",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "fe6854725ec1",
    "nivel": "ATP",
