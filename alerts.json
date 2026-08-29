@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-29T10:22:28+00:00",
+ "generado": "2026-08-29T15:13:24+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "fe6854725ec1",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Alerta A152-2 Tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 29-08 29-08 Abrir aquí Aviso A450-7 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 29-08 29-",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-29T09:45:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "0c5553be3405",
    "nivel": "ATP",
@@ -19,20 +33,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-28T22:36:22.2222-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2708a2d9e58a",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Alerta A152-1 Tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 28-08 29-08 Abrir aquí Aviso A450-6 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 26-08 27-0",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-28T20:39:33.3333-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25",
    "origen": "senapred_web",
    "regiones_extra": []
   },
