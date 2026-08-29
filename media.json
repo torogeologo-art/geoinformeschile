@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-29T21:18:52+00:00",
- "desde": "2026-08-27T21:18:51Z",
+ "generado": "2026-08-29T23:32:14+00:00",
+ "desde": "2026-08-27T23:32:12Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "antofagasta": {
@@ -15,9 +15,20 @@
      "canal": "SKATE FESTIVAL CIRCUIT",
      "publicado": "2026-08-29T21:07:18Z",
      "live": true,
-     "score": 7.98,
+     "score": 7.8,
      "verificado": false,
      "embeddable": false
+    },
+    {
+     "id": "H1hzPEpK42U",
+     "url": "https://www.youtube.com/watch?v=H1hzPEpK42U",
+     "titulo": "🔴 EN VIVO | San Antonio Norte vs Escudo de Chile | Fútbol Federado Masculino | Taltal 2026",
+     "canal": "Radio Pulso Comunal ",
+     "publicado": "2026-08-29T22:56:20Z",
+     "live": true,
+     "score": -3.05,
+     "verificado": false,
+     "embeddable": true
     }
    ]
   },
@@ -33,7 +44,7 @@
      "canal": "Radio Buena Nueva",
      "publicado": "2026-08-29T15:50:20Z",
      "live": true,
-     "score": 7.54,
+     "score": 7.36,
      "verificado": false,
      "embeddable": true
     }
