@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-29T18:39:27+00:00",
+ "generado": "2026-08-29T21:17:22+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "1e8342a9321b",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA152-2 Tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 29-08 29-08 Abrir aquí Aviso A450-7 Probables tormentas eléctricas con probabilidad de fuertes rachas de viento locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 29-08 29-08",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-29T17:01:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "1da6e5d7de8a",
    "nivel": "AMARILLA",
@@ -33,20 +47,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-29T09:45:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "0c5553be3405",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Ñuble, se indica que, aproximadamente a las 21:00 horas de hoy se registró un evento de viento con características tornádicas en el sector Campanario de Cholguán de la comuna de Yungay. Cabe destacar que, preliminarmente se registran 3 viviendas, Planta de Arauco “Cholguán” y la Subestación Eléctrica “Cholguán” con daños en evaluación. Además, producto de este evento, se ha interrumpido el servicio básico de electricidad para 15.860 clientes en diversos sectores de las comunas de Yungay (11.212), El Carmen (2.68",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-28T22:36:22.2222-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02",
    "origen": "senapred_web",
    "regiones_extra": []
   },

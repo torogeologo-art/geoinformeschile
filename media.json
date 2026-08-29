@@ -1,8 +1,26 @@
 {
- "generado": "2026-08-29T18:39:55+00:00",
- "desde": "2026-08-27T18:39:54Z",
+ "generado": "2026-08-29T21:17:24+00:00",
+ "desde": "2026-08-27T21:17:23Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "myLRBMs3RHM",
+     "url": "https://www.youtube.com/watch?v=myLRBMs3RHM",
+     "titulo": "Campeonato Skateboard – Skate Festival Circuit 2026 🛹🔥 | Antofagasta parte 2",
+     "canal": "SKATE FESTIVAL CIRCUIT",
+     "publicado": "2026-08-29T21:07:18Z",
+     "live": true,
+     "score": 7.99,
+     "verificado": false,
+     "embeddable": false
+    }
+   ]
+  },
   "maule": {
    "comuna": "Maule",
    "region": "Maule",
@@ -15,20 +33,9 @@
      "canal": "Radio Buena Nueva",
      "publicado": "2026-08-29T15:50:20Z",
      "live": true,
-     "score": 7.76,
+     "score": 7.55,
      "verificado": false,
      "embeddable": true
-    },
-    {
-     "id": "R2qyZ-Cl3c0",
-     "url": "https://www.youtube.com/watch?v=R2qyZ-Cl3c0",
-     "titulo": "En Vivo / Live: Huequén, Curepto – Panoramic View from Firefighters Camera",
-     "canal": "Tercera de Huaquén",
-     "publicado": "2026-08-28T14:36:02Z",
-     "live": true,
-     "score": 5.66,
-     "verificado": false,
-     "embeddable": false
     }
    ]
   }
