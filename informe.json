@@ -1,19 +1,19 @@
 {
- "generado": "2026-08-29T03:21:29+00:00",
+ "generado": "2026-08-29T10:22:55+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "19-08-2026",
   "hasta": "29-08-2026"
  },
  "totales": {
-  "alertas": 75,
-  "sae": 1,
+  "alertas": 73,
+  "sae": 0,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "AMARILLA": 19,
-   "ROJA": 7,
-   "ATP": 49
+   "ATP": 49,
+   "ROJA": 6,
+   "AMARILLA": 18
   },
   "por_tipo": [
    [
@@ -22,7 +22,7 @@
    ],
    [
     "tormentas eléctricas",
-    23
+    21
    ],
    [
     "evento meteorológico",
@@ -145,15 +145,6 @@
   ],
   "tormentas eléctricas": [
    {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "19-08",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
     "lugar": "Región de Tarapacá",
     "region": "Tarapacá",
     "nivel": "ROJA",
@@ -163,11 +154,20 @@
     "region_link": "tarapaca"
    },
    {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "24-08",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
     "lugar": "Región de Arica y Parinacota",
     "region": "Arica y Parinacota",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "19-08",
+    "ts": "23-08",
     "comuna_link": "",
     "region_link": "arica y parinacota"
    },
@@ -404,10 +404,10 @@
  "serie": [
   {
    "fecha": "2026-08-19",
-   "ROJA": 2,
-   "AMARILLA": 2,
+   "ROJA": 1,
+   "AMARILLA": 1,
    "ATP": 6,
-   "sae": 1
+   "sae": 0
   },
   {
    "fecha": "2026-08-20",
@@ -477,7 +477,7 @@
   {
    "lugar": "Región de Antofagasta",
    "region": "Antofagasta",
-   "sae": true,
+   "sae": false,
    "max": "ROJA",
    "pasos": [
     {
