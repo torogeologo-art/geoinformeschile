@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-29T18:39:56+00:00",
+ "generado": "2026-08-29T21:18:52+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "19-08-2026",
@@ -11,8 +11,8 @@
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "AMARILLA": 19,
    "ATP": 49,
+   "AMARILLA": 19,
    "ROJA": 5
   },
   "por_tipo": [
@@ -22,23 +22,19 @@
    ],
    [
     "tormentas eléctricas",
-    21
+    22
    ],
    [
     "evento meteorológico",
-    9
+    8
    ],
    [
     "crecida de río",
-    7
+    8
    ],
    [
     "aluvión",
     6
-   ],
-   [
-    "nevadas",
-    2
    ],
    [
     "remoción en masa",
@@ -47,6 +43,10 @@
    [
     "marejadas",
     2
+   ],
+   [
+    "nevadas",
+    1
    ]
   ]
  },
@@ -246,15 +246,6 @@
     "region_link": "coquimbo"
    },
    {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "19-08",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
     "lugar": "Región de Atacama",
     "region": "Atacama",
     "nivel": "ATP",
@@ -271,6 +262,15 @@
     "ts": "19-08",
     "comuna_link": "",
     "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "20-08",
+    "comuna_link": "",
+    "region_link": "los lagos"
    }
   ],
   "crecida de río": [
@@ -282,6 +282,15 @@
     "ts": "27-08",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-08",
+    "comuna_link": "",
+    "region_link": "atacama"
    },
    {
     "lugar": "Región de Ñuble",
@@ -340,26 +349,6 @@
     "region_link": "libertador general bernardo o'higgins"
    }
   ],
-  "nevadas": [
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "19-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "19-08",
-    "comuna_link": "",
-    "region_link": "nuble"
-   }
-  ],
   "remoción en masa": [
    {
     "lugar": "Región de Tarapacá",
@@ -390,6 +379,17 @@
     "comuna_link": "",
     "region_link": "valparaiso"
    }
+  ],
+  "nevadas": [
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "19-08",
+    "comuna_link": "",
+    "region_link": "nuble"
+   }
   ]
  },
  "vigentes": {
@@ -406,7 +406,7 @@
    "fecha": "2026-08-19",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 5,
+   "ATP": 4,
    "sae": 0
   },
   {
@@ -476,7 +476,7 @@
    "fecha": "2026-08-29",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 1,
+   "ATP": 2,
    "sae": 0
   }
  ],
@@ -554,14 +554,19 @@
    "max": "AMARILLA",
    "pasos": [
     {
+     "nivel": "ATP",
+     "ts": "19-08 17:50",
+     "estado": "VIGENTE"
+    },
+    {
      "nivel": "AMARILLA",
-     "ts": "19-08 15:22",
+     "ts": "19-08 19:49",
      "estado": "CANCELADA"
     },
     {
      "nivel": "ATP",
-     "ts": "19-08 17:50",
-     "estado": "VIGENTE"
+     "ts": "22-08 20:10",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "AMARILLA",
@@ -613,6 +618,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "29-08 17:01",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02"
+  },
   {
    "ts": "29-08 13:39",
    "nivel": "AMARILLA",
@@ -729,15 +743,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44"
-  },
-  {
-   "ts": "27-08 13:17",
-   "nivel": "ROJA",
-   "lugar": "Región de Maule",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-clemente-y-colbun-por-crecida-2026-08-25-17-45-57"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
