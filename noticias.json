@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-29T15:15:35+00:00",
+ "generado": "2026-08-29T18:39:53+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -649,6 +649,13 @@
    "comuna": "La Serena",
    "noticias": [
     {
+     "titulo": "Río Elqui recupera su capacidad de conducción tras las últimas crecidas - diarioeldia.cl",
+     "medio": "diarioeldia.cl",
+     "fecha": "2026-08-29T14:49:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRjhrcFhqeUlCWWt2ZGQ0aVRQVUo5VU0yTnF5blFTNHBER05LRkdkSVNxZldtMGswNE5LZG9pZG5KMURGWndUbnROcm9qMkw2dFFhODdzbmdYekpNQ0tHM2FkRW44TlNkTEFKZWhEelNVM1ZUYW9jNkVQQ09mSGdqeFpULWxjU1NHbjhJUlRGT2NKaUZXalpZaXV6T2pPZmNOYTd6cXJOeFk2T3c4aDVZZG1vNnlPT2pHdW5zMmZqelJmRkU?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Nuevas inundaciones golpean La Serena y Coquimbo: qué puede pasar con las playas en el verano - Diario la Ventana",
      "medio": "Diario la Ventana",
      "fecha": "2026-08-18T16:21:16+00:00",
@@ -709,13 +716,6 @@
      "medio": "En Cancha",
      "fecha": "2026-08-01T17:02:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbGhORWktRmw2OWdib0pZZmNTVUZHdXdQREZQZXJBZV82X2c2YkFhcFEtNm9kVzhxb3pVSHc3RGZIc0xsVnZQaWFadjQ4bHdxQXRMR2d2UkloY0JSOG8wTFhJbmR4eERRNlRRSll4bzhWSGprY2VsOGZKOUI5YlZiOGxMZ0t4VDdINl9aX0ZHWjhBXzE4RmZsSUs4SHpZQTZNR3NpRTlpY195VzQxdEl0TEM4ZGhfR0dfd2lvMXdqMXZVOHk4VUJEOXRnOUtVci0yTE1KZXhJODBnelFIYTNONlNlektQaG9aUE1nQ3lNWUIzY0t3dXc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred pide evitar riberas de río, esteros y quebradas en La Serena por crecidas - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-07-31T20:58:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOWlnWGhUS2ZrSU1pam5NdUhnR3BfN0dzNG83c05YVnlBRVNNSVJYSXRmclFLRHhDTU11TE82S2IxRnJyc21pMUc1c0t6d2hzcWszT1RGZUNHWkh5Ump2LTV1QmlLN2lSVC1vV3dFNmIyYUE1dTEwT05LX3RDMzd4Y2pHUDkzWFNMS0doMU5ST001SnJEZElmSERneHJ5RjI4TXRqU0RVOEU1c2JCNGh4RU9CVm1udmtIelJCdlBOeUJ2MnJ4UWE0ajljNWZJTGpzY2dydERDd0F6NW0wYS0yOGVQaVFqanR1cUE?oc=5",
      "sector": null
     }
    ]
@@ -2209,6 +2209,13 @@
    "comuna": "Traiguén",
    "noticias": [
     {
+     "titulo": "25 damnificados e inundaciones en viviendas de Pucatrihue y Choroy Traiguén tras emergencia en San Juan de la Costa por desborde de río Llesquehue - Radio Sago",
+     "medio": "Radio Sago",
+     "fecha": "2026-08-29T17:05:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZmw2ci1aNktjUDJaZUZ3U3R2d1cxc0tjZm5CMWdOVWwxM2pBMktWM0RZR1RhVGwzc0JWS3BqYTVlN3JyYW12RVhGY0c3UHJlYUVjRG5aU2U4Vll0R0Y5M2JoREF1UmE5RTBnR19senM5WVVDSVQ0Sm5WMUhsWWRuN1loVTY2Y2dqRlJSYUU5OG9EWWllOVNHN1Y1eWEtSnBLTFI5RkxWOHYwcVZOUmVkTzBqQzZIeTZwWFlFU1FzWF9RVXBiVTBTa1FaT2F0X095R0NWX1lERnROZTBXNXlfSFVDUEpyQjZXZUdOMFdfbGJiaGdDNXg2UGpsRDc2LUFqU1E?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Desborde del río Llesquehue en el sector Choroy Traiguén de Pucatrihue provoca inundaciones en viviendas - Radio Sago",
      "medio": "Radio Sago",
      "fecha": "2026-08-28T17:38:56+00:00",
@@ -2273,13 +2280,6 @@
      "medio": "Araucanía Diario",
      "fecha": "2026-08-03T10:53:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQXlvTkJ3bG5UMTBZZVV1OS1FZUt0eV9lYUtxeVkzT2xtVU5UakJ0NmhRX29VQU94eURicHoxT1RwOUg1N2dpR1MwSG1STHVSamg4R1VwRWNqMTFacUJvUVVlOFZBdDMyUmNaZGZuamoyYzd5S2w1NUJiX2UwX25COHpOM1NLbm5UdGs2WUJvdThFRTdIWGdfZHFQNkg4SE9aUVFKUmU1U3MyR1Y2MFR1TzJjSXZ4QTM0VEdDRzJJR2HSAbgBQVVfeXFMTmdVcE1UbWtXc25RczZheE02dndCdlJTLWlkSl9yRU16SF8wQ1FoTlVxaEpqZ0MybGhXQmxqZnVZRWtxblB5ZnN3dk8tRDAwNEh3cllNM2pCcHRTQ29oamxjUDlBR3EtanJtZHpIaDBQOEYyWWx5bWw4UlJBTmt2TlNTOFlySEx4SXEzUXFlcWlkQ0NFbF93eDdQcGNPa3pPb082Y2UyeU5FWEJ0S3EyMTQyMlNkQWxXMw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred solicita evacuación en el sector Las Obras de Traiguén por desbordamiento de río y humedales - urgente.cl",
-     "medio": "urgente.cl",
-     "fecha": "2026-08-03T04:06:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRmFwMEFzeS1WSGROcW00V2Zvc2FaNUp3S2szNndLTkpzZWZhOWwxUnFoTkR2ajBtVUFCRmlOTndSSlF2V2dZM2stRDVoQ2Jvb1N1QXlOWkRHQk5JTHVuM1RqWC1JcVRIamgwY2xpb3h3NHd1cHhXRVNpUHoxLXdWNGFrWXE5SnkwWWpqZENxNThrMVFXYko5QjJSYnpOdXJXYkFRbEJra0RJZUN4Z2REd0VOWFlBaEVFWS0wV0cxeXdNbkkxS2dv?oc=5",
      "sector": null
     }
    ]
