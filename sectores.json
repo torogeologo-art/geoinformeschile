@@ -1,17 +1,5 @@
 {
- "generado": "2026-08-30T13:19:28+00:00",
+ "generado": "2026-08-30T17:43:27+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
- "sectores": [
-  {
-   "nombre": "río Perquilauquén",
-   "lat": -36.24792,
-   "lon": -71.79315,
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "sae": false,
-   "lugar": "Maule",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32",
-   "ts": "2026-08-27T00:25"
-  }
- ]
+ "sectores": []
 }

@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-30T13:19:56+00:00",
+ "generado": "2026-08-30T17:43:45+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "20-08-2026",
   "hasta": "30-08-2026"
  },
  "totales": {
-  "alertas": 75,
+  "alertas": 78,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 50,
-   "AMARILLA": 19,
+   "ATP": 52,
+   "AMARILLA": 20,
    "ROJA": 6
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    27
+    29
    ],
    [
     "viento",
@@ -26,7 +26,7 @@
    ],
    [
     "crecida de río",
-    9
+    10
    ],
    [
     "evento meteorológico",
@@ -385,8 +385,8 @@
  },
  "vigentes": {
   "ROJA": 3,
-  "AMARILLA": 3,
-  "ATP": 8,
+  "AMARILLA": 2,
+  "ATP": 6,
   "regiones_roja": [
    "Antofagasta",
    "Biobío",
@@ -467,8 +467,8 @@
   {
    "fecha": "2026-08-30",
    "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
+   "AMARILLA": 1,
+   "ATP": 3,
    "sae": 0
   }
  ],
@@ -479,16 +479,6 @@
    "sae": false,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "26-08 07:39",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "26-08 16:15",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "AMARILLA",
      "ts": "27-08 00:25",
@@ -503,6 +493,16 @@
      "nivel": "ATP",
      "ts": "28-08 19:08",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "30-08 09:00",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "30-08 09:19",
+     "estado": "CANCELADA"
     }
    ]
   },
@@ -616,6 +616,33 @@
  ],
  "cronologia": [
   {
+   "ts": "30-08 11:24",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44"
+  },
+  {
+   "ts": "30-08 09:19",
+   "nivel": "ATP",
+   "lugar": "Región de Maule",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-21-15-16-11"
+  },
+  {
+   "ts": "30-08 09:00",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Maule",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32"
+  },
+  {
    "ts": "30-08 07:56",
    "nivel": "ATP",
    "lugar": "Región de Los Ríos",
@@ -713,33 +740,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25"
-  },
-  {
-   "ts": "28-08 19:08",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-21-15-16-11"
-  },
-  {
-   "ts": "28-08 17:31",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Atacama",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33"
-  },
-  {
-   "ts": "28-08 16:38",
-   "nivel": "ATP",
-   "lugar": "Región de Tarapacá",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
