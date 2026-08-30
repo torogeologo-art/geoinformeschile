@@ -1,13 +1,53 @@
 {
- "generado": "2026-08-30T01:44:49+00:00",
- "desde": "2026-08-28T01:44:48Z",
+ "generado": "2026-08-30T07:30:06+00:00",
+ "desde": "2026-08-28T07:30:04Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "adBrSW8il6I",
+     "url": "https://www.youtube.com/watch?v=adBrSW8il6I",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-08-29T14:08:16Z",
+     "live": true,
+     "score": -3.45,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "jC3YcYBtghc",
+     "url": "https://www.youtube.com/watch?v=jC3YcYBtghc",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-08-29T14:08:16Z",
+     "live": true,
+     "score": -3.45,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "maule": {
    "comuna": "Maule",
    "region": "Maule",
    "alerta": "ROJA",
    "videos": [
+    {
+     "id": "fXivXmOiC2M",
+     "url": "https://www.youtube.com/watch?v=fXivXmOiC2M",
+     "titulo": "🔴 LIVE | Curepto, Maule Region, Chile 🇨🇱 | 24/7 Panoramic Live Camera | Real-Time Views",
+     "canal": "Radio Poesía",
+     "publicado": "2026-08-30T03:09:17Z",
+     "live": true,
+     "score": 7.64,
+     "verificado": false,
+     "embeddable": true
+    },
     {
      "id": "6lflbbZzApc",
      "url": "https://www.youtube.com/watch?v=6lflbbZzApc",
@@ -15,7 +55,7 @@
      "canal": "Radio Buena Nueva",
      "publicado": "2026-08-29T15:50:20Z",
      "live": true,
-     "score": 7.17,
+     "score": 6.69,
      "verificado": false,
      "embeddable": true
     }
