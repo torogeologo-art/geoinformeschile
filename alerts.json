@@ -1,13 +1,55 @@
 {
- "generado": "2026-08-30T13:19:27+00:00",
+ "generado": "2026-08-30T17:35:45+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 14,
+ "total_vigentes": 11,
  "alertas": [
+  {
+   "id": "1555c027aa17",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , debido al debilitamiento de las condiciones que los originaron, han sido cancelados los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Aviso A452-1 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en litoral, cordillera de la costa y valle. Aviso A454 Precipitaciones normales a moderadas en litoral. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Direcc",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-30T11:24:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "211d959dc40d",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , debido al debilitamiento de las condiciones que lo originaron ha sido cancelado el siguiente alertamiento meteorológico para la Región del Maule: Alertamiento Pronóstico Aviso A450-7 Probables tormentas eléctricas en litoral, con probabilidad de fuertes rachas de vientos locales en precordillera y cordillera. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por evento",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-30T09:19:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-21-15-16-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "accc2b67fbbf",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Amarilla para la Región del Maule por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) , las estaciones hidrométricas de monitoreo de la región se mantienen en rangos estables, encontrándose en umbrales verdes, situación que supone una disminución del riesgo para la población cercana a sus cursos hídricos. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED cancela la Alerta Amarilla Regional por crecida, que se mantuvo vigente desde el 25 de agosto de 2026.",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-08-30T09:00:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "d15dd1a35c6b",
    "nivel": "ATP",
@@ -135,20 +177,6 @@
    "regiones_extra": []
   },
   {
-   "id": "225c6ef7a47a",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A450-6 Probables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera y cordillera. 27-08 29-08 Abrir aquí Cabe señalare que, se ha cancelado el aviso A437-3 que pronostico viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera, debido al debilitamiento de las condiciones meteorológicas que lo originaron. En",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-28T19:08:29.2929-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-21-15-16-11",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "2c2e8c83a9c8",
    "nivel": "ROJA",
    "tipo": "tormentas eléctricas",
@@ -173,20 +201,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-28T16:38:22.2222-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "6f7d6ecca5a2",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A452-1 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en litoral, cordillera de la costa y valle. 27-08 28-08 Abrir aquí Aviso A454 Precipitaciones normales a moderadas en litoral. 28-08 29-08 Abrir aquí En tanto, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-28T12:01:17.1717-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -243,20 +257,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-27T10:44:34.3434-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-pinto-coihueco-chillan-y-chillan-viejo-por-crecida-2026-08-26-05-35-12",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "763e2b43d869",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Monitoreo Alerta Amarilla para la región del Maule por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro en sus caudales. Estación hidrométrica Umbral Río Perquilauquén en Quella Amarillo Río Maule en Armerillo Amarillo Río Melado en El Salto Amarillo Río Perquilauquén en San Manuel Amarillo Cabe señalar que la estación Río Perquilauquén en San Manuel, se encuentra ubicada al sur del Río Perquilauquén, en el sector La Balsa de la comuna de San Fabián, Región de Ñuble. No obstante lo anterior, el río Perquilauquén es afluente del río Loncomi",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-27T00:25:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32",
    "origen": "senapred_web",
    "regiones_extra": []
   },

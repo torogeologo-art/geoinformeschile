@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-30T13:19:55+00:00",
- "desde": "2026-08-28T13:19:53Z",
+ "generado": "2026-08-30T17:35:48+00:00",
+ "desde": "2026-08-28T17:35:46Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -15,7 +15,7 @@
      "canal": "SRGenial",
      "publicado": "2026-08-29T14:08:16Z",
      "live": true,
-     "score": -3.93,
+     "score": -4.29,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-08-29T14:08:16Z",
      "live": true,
-     "score": -3.93,
+     "score": -4.29,
      "verificado": false,
      "embeddable": true
     }
@@ -38,24 +38,35 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "aSkTF6d01BA",
-     "url": "https://www.youtube.com/watch?v=aSkTF6d01BA",
-     "titulo": "antofagasta futsal está en vivo",
-     "canal": "antofagasta futsal",
-     "publicado": "2026-08-30T12:50:49Z",
+     "id": "AfYn8mRj4HM",
+     "url": "https://www.youtube.com/watch?v=AfYn8mRj4HM",
+     "titulo": "EN VIVO | A Todo Deporte al aire por Centro FM| Deportes Antofagasta vs D. Copiapo| Ascenso Caixun",
+     "canal": "A Todo Deporte",
+     "publicado": "2026-08-30T16:11:46Z",
      "live": true,
-     "score": 7.96,
+     "score": 7.88,
      "verificado": false,
-     "embeddable": false
+     "embeddable": true
     },
     {
-     "id": "1XxIfAQhEhw",
-     "url": "https://www.youtube.com/watch?v=1XxIfAQhEhw",
-     "titulo": "CD. ANTOFAGASTA VS. SAN MARCOS | SUB 16 | CLAUSURA FECHA 1 | EN VIVO !",
+     "id": "WAyWPR-BMz8",
+     "url": "https://www.youtube.com/watch?v=WAyWPR-BMz8",
+     "titulo": "CD. COPIAPÓ VS. CD. ANTOFAGASTA | LIGA DE ASCENSO - FECHA 23 | EN VIVO !",
      "canal": "LIGA SPORTS",
-     "publicado": "2026-08-30T02:10:05Z",
+     "publicado": "2026-08-30T02:46:52Z",
      "live": true,
-     "score": 7.07,
+     "score": 6.77,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "fyRJeXWya4M",
+     "url": "https://www.youtube.com/watch?v=fyRJeXWya4M",
+     "titulo": "🔴DEPORTES COPIAPO VS DEPORTES ANTOFAGASTA🔴FUTBOL CHILENO",
+     "canal": "FUTBOL VIRTUAL 2.0 PRO",
+     "publicado": "2026-08-30T02:03:35Z",
+     "live": true,
+     "score": 6.71,
      "verificado": false,
      "embeddable": true
     }
@@ -73,7 +84,7 @@
      "canal": "Radio Poesía",
      "publicado": "2026-08-30T03:09:17Z",
      "live": true,
-     "score": 7.15,
+     "score": 6.8,
      "verificado": false,
      "embeddable": true
     },
@@ -84,7 +95,7 @@
      "canal": "Radio Buena Nueva",
      "publicado": "2026-08-29T15:50:20Z",
      "live": true,
-     "score": 6.21,
+     "score": 5.85,
      "verificado": false,
      "embeddable": true
     }
