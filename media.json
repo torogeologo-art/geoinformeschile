@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-30T07:31:47+00:00",
- "desde": "2026-08-28T07:31:45Z",
+ "generado": "2026-08-30T13:14:46+00:00",
+ "desde": "2026-08-28T13:14:44Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -15,7 +15,7 @@
      "canal": "SRGenial",
      "publicado": "2026-08-29T14:08:16Z",
      "live": true,
-     "score": -3.45,
+     "score": -3.93,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,36 @@
      "canal": "Tele Genial",
      "publicado": "2026-08-29T14:08:16Z",
      "live": true,
-     "score": -3.45,
+     "score": -3.93,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "aSkTF6d01BA",
+     "url": "https://www.youtube.com/watch?v=aSkTF6d01BA",
+     "titulo": "antofagasta futsal está en vivo",
+     "canal": "antofagasta futsal",
+     "publicado": "2026-08-30T12:50:49Z",
+     "live": true,
+     "score": 7.97,
+     "verificado": false,
+     "embeddable": false
+    },
+    {
+     "id": "1XxIfAQhEhw",
+     "url": "https://www.youtube.com/watch?v=1XxIfAQhEhw",
+     "titulo": "CD. ANTOFAGASTA VS. SAN MARCOS | SUB 16 | CLAUSURA FECHA 1 | EN VIVO !",
+     "canal": "LIGA SPORTS",
+     "publicado": "2026-08-30T02:10:05Z",
+     "live": true,
+     "score": 7.08,
      "verificado": false,
      "embeddable": true
     }
@@ -44,7 +73,7 @@
      "canal": "Radio Poesía",
      "publicado": "2026-08-30T03:09:17Z",
      "live": true,
-     "score": 7.64,
+     "score": 7.16,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +84,7 @@
      "canal": "Radio Buena Nueva",
      "publicado": "2026-08-29T15:50:20Z",
      "live": true,
-     "score": 6.69,
+     "score": 6.22,
      "verificado": false,
      "embeddable": true
     }
