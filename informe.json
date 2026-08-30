@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-30T07:31:47+00:00",
+ "generado": "2026-08-30T13:19:56+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "20-08-2026",
   "hasta": "30-08-2026"
  },
  "totales": {
-  "alertas": 74,
+  "alertas": 75,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 49,
+   "ATP": 50,
    "AMARILLA": 19,
    "ROJA": 6
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    26
+    27
    ],
    [
     "viento",
@@ -386,7 +386,7 @@
  "vigentes": {
   "ROJA": 3,
   "AMARILLA": 3,
-  "ATP": 9,
+  "ATP": 8,
   "regiones_roja": [
    "Antofagasta",
    "Biobío",
@@ -462,6 +462,13 @@
    "ROJA": 1,
    "AMARILLA": 2,
    "ATP": 6,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-08-30",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   }
  ],
@@ -609,6 +616,15 @@
  ],
  "cronologia": [
   {
+   "ts": "30-08 07:56",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-08-23-12-49-10"
+  },
+  {
    "ts": "29-08 23:50",
    "nivel": "ROJA",
    "lugar": "Región de Biobío",
@@ -724,15 +740,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31"
-  },
-  {
-   "ts": "28-08 15:54",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
