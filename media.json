@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-30T17:43:45+00:00",
- "desde": "2026-08-28T17:43:43Z",
+ "generado": "2026-08-30T20:03:58+00:00",
+ "desde": "2026-08-28T20:03:56Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -15,7 +15,7 @@
      "canal": "SRGenial",
      "publicado": "2026-08-29T14:08:16Z",
      "live": true,
-     "score": -4.3,
+     "score": -4.49,
      "verificado": false,
      "embeddable": true
     },
@@ -26,47 +26,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-08-29T14:08:16Z",
      "live": true,
-     "score": -4.3,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "antofagasta": {
-   "comuna": "Antofagasta",
-   "region": "Antofagasta",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "AfYn8mRj4HM",
-     "url": "https://www.youtube.com/watch?v=AfYn8mRj4HM",
-     "titulo": "EN VIVO | A Todo Deporte al aire por Centro FM| Deportes Antofagasta vs D. Copiapo| Ascenso Caixun",
-     "canal": "A Todo Deporte",
-     "publicado": "2026-08-30T16:11:46Z",
-     "live": true,
-     "score": 7.87,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "WAyWPR-BMz8",
-     "url": "https://www.youtube.com/watch?v=WAyWPR-BMz8",
-     "titulo": "CD. COPIAPÓ VS. CD. ANTOFAGASTA | LIGA DE ASCENSO - FECHA 23 | EN VIVO !",
-     "canal": "LIGA SPORTS",
-     "publicado": "2026-08-30T02:46:52Z",
-     "live": true,
-     "score": 6.75,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "fyRJeXWya4M",
-     "url": "https://www.youtube.com/watch?v=fyRJeXWya4M",
-     "titulo": "🔴DEPORTES COPIAPO VS DEPORTES ANTOFAGASTA🔴FUTBOL CHILENO",
-     "canal": "FUTBOL VIRTUAL 2.0 PRO",
-     "publicado": "2026-08-30T02:03:35Z",
-     "live": true,
-     "score": 6.69,
+     "score": -4.49,
      "verificado": false,
      "embeddable": true
     }
@@ -78,24 +38,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "boFmDECbMgo",
-     "url": "https://www.youtube.com/watch?v=boFmDECbMgo",
-     "titulo": "TORNEO MAULE SUR ÁGUILAS DE ACHIBUE VS HÚSARES",
-     "canal": "Club Deportivo Husares de Cauquenes",
-     "publicado": "2026-08-30T17:40:23Z",
-     "live": true,
-     "score": 8.0,
-     "verificado": false,
-     "embeddable": false
-    },
-    {
      "id": "fXivXmOiC2M",
      "url": "https://www.youtube.com/watch?v=fXivXmOiC2M",
      "titulo": "🔴 LIVE | Curepto, Maule Region, Chile 🇨🇱 | 24/7 Panoramic Live Camera | Real-Time Views",
      "canal": "Radio Poesía",
      "publicado": "2026-08-30T03:09:17Z",
      "live": true,
-     "score": 6.79,
+     "score": 6.59,
      "verificado": false,
      "embeddable": true
     },
@@ -106,7 +55,7 @@
      "canal": "Radio Buena Nueva",
      "publicado": "2026-08-29T15:50:20Z",
      "live": true,
-     "score": 5.84,
+     "score": 5.65,
      "verificado": false,
      "embeddable": true
     }

@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-30T17:43:26+00:00",
+ "generado": "2026-08-30T20:03:55+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 11,
  "alertas": [
+  {
+   "id": "45f2dde1ed72",
+   "nivel": "ROJA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Roja para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA147-4 Viento moderado a fuerte con desarrollo de ventiscas en Cordillera de la Costa, Precordillera Alto Loa, Precordillera Salar y Cordillera. 28-08 31-08 Abrir aquí Aviso A445-3 Viento normal a moderado con probabilidad de tormentas de arena en Precordillera Occidental. 30-08 30-08 Abrir aquí Aviso A455 Viento normal a moderado con probabilidad de torment",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-30T15:12:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "1555c027aa17",
    "nivel": "ATP",
@@ -173,20 +187,6 @@
    "estado": "VIGENTE",
    "ts": "2026-08-29T09:45:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2c2e8c83a9c8",
-   "nivel": "ROJA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Roja para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA147-4 Viento moderado a fuerte con desarrollo de ventiscas en Cordillera de la Costa, Precordillera Alto Loa, Precordillera Salar y Cordillera. 28-08 31-08 Abrir aquí Aviso A445-3 Viento normal a moderado con probabilidad de tormentas de arena en Precordillera Occidental. 30-08 30-08 Abrir aquí Aviso A455 Viento normal a moderado con probabilidad de torment",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-28T18:04:09.099-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
    "origen": "senapred_web",
    "regiones_extra": []
   },
