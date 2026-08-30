@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-30T20:06:42+00:00",
+ "generado": "2026-08-30T22:47:36+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "20-08-2026",
   "hasta": "30-08-2026"
  },
  "totales": {
-  "alertas": 79,
+  "alertas": 80,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
    "ATP": 52,
-   "AMARILLA": 20,
+   "AMARILLA": 21,
    "ROJA": 7
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    30
+    31
    ],
    [
     "viento",
@@ -26,15 +26,15 @@
    ],
    [
     "crecida de río",
-    10
-   ],
-   [
-    "evento meteorológico",
-    6
+    11
    ],
    [
     "aluvión",
     6
+   ],
+   [
+    "evento meteorológico",
+    5
    ],
    [
     "marejadas",
@@ -273,44 +273,6 @@
     "region_link": "nuble"
    }
   ],
-  "evento meteorológico": [
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "26-08",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "20-08",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "22-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "22-08",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   }
-  ],
   "aluvión": [
    {
     "lugar": "Región de Coquimbo",
@@ -349,6 +311,35 @@
     "region_link": "libertador general bernardo o'higgins"
    }
   ],
+  "evento meteorológico": [
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "26-08",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "22-08",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "22-08",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   }
+  ],
   "marejadas": [
    {
     "lugar": "Región de Valparaíso",
@@ -385,7 +376,7 @@
  },
  "vigentes": {
   "ROJA": 3,
-  "AMARILLA": 2,
+  "AMARILLA": 1,
   "ATP": 6,
   "regiones_roja": [
    "Antofagasta",
@@ -394,13 +385,6 @@
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-08-20",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
   {
    "fecha": "2026-08-21",
    "ROJA": 0,
@@ -467,8 +451,8 @@
   {
    "fecha": "2026-08-30",
    "ROJA": 1,
-   "AMARILLA": 1,
-   "ATP": 3,
+   "AMARILLA": 2,
+   "ATP": 4,
    "sae": 0
   }
  ],
@@ -587,6 +571,11 @@
      "nivel": "AMARILLA",
      "ts": "29-08 17:53",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "30-08 16:37",
+     "estado": "CANCELADA"
     }
    ]
   },
@@ -615,6 +604,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "30-08 16:37",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02"
+  },
+  {
+   "ts": "30-08 16:25",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Ñuble",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-quillon-por-crecida-2026-08-29-17-58-46"
+  },
   {
    "ts": "30-08 15:12",
    "nivel": "ROJA",
@@ -722,24 +729,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02"
-  },
-  {
-   "ts": "29-08 13:39",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Biobío",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-concepcion-por-crecida-2026-08-29-13-41-27"
-  },
-  {
-   "ts": "29-08 09:45",
-   "nivel": "ATP",
-   "lugar": "Región de Biobío",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
