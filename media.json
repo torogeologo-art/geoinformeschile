@@ -1,37 +1,8 @@
 {
- "generado": "2026-08-29T23:33:37+00:00",
- "desde": "2026-08-27T23:33:35Z",
+ "generado": "2026-08-30T01:42:50+00:00",
+ "desde": "2026-08-28T01:42:49Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "antofagasta": {
-   "comuna": "Antofagasta",
-   "region": "Antofagasta",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "myLRBMs3RHM",
-     "url": "https://www.youtube.com/watch?v=myLRBMs3RHM",
-     "titulo": "Campeonato Skateboard – Skate Festival Circuit 2026 🛹🔥 | Antofagasta parte 2",
-     "canal": "SKATE FESTIVAL CIRCUIT",
-     "publicado": "2026-08-29T21:07:18Z",
-     "live": true,
-     "score": 7.8,
-     "verificado": false,
-     "embeddable": false
-    },
-    {
-     "id": "H1hzPEpK42U",
-     "url": "https://www.youtube.com/watch?v=H1hzPEpK42U",
-     "titulo": "🔴 EN VIVO | San Antonio Norte vs Escudo de Chile | Fútbol Federado Masculino | Taltal 2026",
-     "canal": "Radio Pulso Comunal ",
-     "publicado": "2026-08-29T22:56:20Z",
-     "live": true,
-     "score": -3.05,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "maule": {
    "comuna": "Maule",
    "region": "Maule",
@@ -44,7 +15,7 @@
      "canal": "Radio Buena Nueva",
      "publicado": "2026-08-29T15:50:20Z",
      "live": true,
-     "score": 7.36,
+     "score": 7.18,
      "verificado": false,
      "embeddable": true
     }
