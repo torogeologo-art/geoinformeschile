@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-29T23:33:37+00:00",
+ "generado": "2026-08-30T01:44:50+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "19-08-2026",
-  "hasta": "29-08-2026"
+  "desde": "20-08-2026",
+  "hasta": "30-08-2026"
  },
  "totales": {
-  "alertas": 73,
+  "alertas": 74,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "AMARILLA": 20,
-   "ATP": 48,
+   "ATP": 50,
+   "AMARILLA": 19,
    "ROJA": 5
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    24
+    26
    ],
    [
     "viento",
@@ -26,7 +26,7 @@
    ],
    [
     "crecida de río",
-    9
+    8
    ],
    [
     "evento meteorológico",
@@ -255,15 +255,6 @@
     "region_link": "maule"
    },
    {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "19-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
     "lugar": "Región de Ñuble",
     "region": "Ñuble",
     "nivel": "AMARILLA",
@@ -404,7 +395,7 @@
  "vigentes": {
   "ROJA": 2,
   "AMARILLA": 4,
-  "ATP": 10,
+  "ATP": 9,
   "regiones_roja": [
    "Antofagasta",
    "Maule"
@@ -414,7 +405,7 @@
   {
    "fecha": "2026-08-19",
    "ROJA": 0,
-   "AMARILLA": 1,
+   "AMARILLA": 0,
    "ATP": 1,
    "sae": 0
   },
@@ -485,7 +476,7 @@
    "fecha": "2026-08-29",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 4,
+   "ATP": 6,
    "sae": 0
   }
  ],
@@ -557,34 +548,6 @@
    ]
   },
   {
-   "lugar": "Región de Atacama",
-   "region": "Atacama",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "19-08 19:49",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "22-08 20:10",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "23-08 16:49",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "29-08 18:08",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Ñuble",
    "region": "Ñuble",
    "sae": false,
@@ -613,6 +576,29 @@
    ]
   },
   {
+   "lugar": "Región de Atacama",
+   "region": "Atacama",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "22-08 20:10",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "23-08 16:49",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "29-08 18:08",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Biobío",
    "region": "Biobío",
    "sae": false,
@@ -632,6 +618,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "29-08 20:30",
+   "nivel": "ATP",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-26-15-19-11"
+  },
+  {
+   "ts": "29-08 19:34",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
+  },
   {
    "ts": "29-08 18:08",
    "nivel": "ATP",
@@ -739,24 +743,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
-  },
-  {
-   "ts": "28-08 12:09",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "remoción en masa",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
-  },
-  {
-   "ts": "28-08 12:01",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-21-13-31-44"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
