@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-30T01:44:47+00:00",
+ "generado": "2026-08-30T07:31:44+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -480,6 +480,13 @@
    "comuna": "Copiapó",
    "noticias": [
     {
+     "titulo": "MOP fortalece monitoreo de crecidas en quebrada Paipote y Río Copiapó con nuevos sensores radar - Tierramarillano",
+     "medio": "Tierramarillano",
+     "fecha": "2026-08-30T05:54:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN254eDRlWldscEhFU0RudkZKSF81akNFUHlUMjUyZXlOWnd3RWJRVENiWTE5MGN4dVZFaUVYVVpNNmVDWDcycFRIblNORF9sMEx1cTRyVXhKcllhR3Z2cW5vZmVNSXFRb3Q5TndSdWdTblR1eGU2amZkV2ptQlM5dUlwTnlJX25Ka2FEYzZzbzA1TUZyUWZhYl9WbjJXakY1SGZFaXBrSS1TcndJY2RPMVUtT01YcHlBaDZSRDRHQ2RlbFZpWnJYSnE2TktfaGs?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "MOP fortalece monitoreo de crecidas en quebrada Paipote y Río Copiapó con nuevos sensores radar - Radio Atacama",
      "medio": "Radio Atacama",
      "fecha": "2026-08-29T00:10:00+00:00",
@@ -540,13 +547,6 @@
      "medio": "VLN Radio",
      "fecha": "2026-08-17T22:10:58+00:00",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdHRyYmtXUXV2X2p3SF9kZG5QU0p1ay1uRjJrRENMRUJ2clVlZVJhbDBDemJuVURxZnFHY1RiV3pYRVRfc0tqdG1YblYxcmI5TWo2dHFhdU1Fa1RhcWpZUXBfYmpkU0xzaDdLUUNNYmgyLVNTNHhZelJjazB4UjBzZzR5MEYxS0o2d19aQXBpYVhnQk9FSVlLVkVTU254S0JjUWdxWmctaUZ6SXE1dmxTZGRTRFlZMl80dHZKeWFmbGxqMHh5QjU4Q2MweTM1UXMteHFuSlJhWGF1cEdSOGhtU0l4QS1xdG5nLVFkRHVuSHhfdm1YWFZYM2d3?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred activa alarma por peligro para comunidad en dos quebradas de Copiapó - SoyChile.cl",
-     "medio": "SoyChile.cl",
-     "fecha": "2026-08-17T20:43:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZWtsczdBeElDNnI1LWcxbkdPYldMcElfbXI0bmN6cVMxbExScGc2VDE5N0xTZmlPb2RmZGFWR0RqdUVxdFBWY3BabjJQdTE1ZTY0TDZBQ2lNT3pOcFE0WVplME5mLUNxcnJ4X2hjNHJqUGJ3RThtZmtPNkFScDA5RmlNUnRGZC1vbHM4?oc=5",
      "sector": null
     }
    ]
