@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-30T17:43:45+00:00",
+ "generado": "2026-08-30T20:06:42+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "20-08-2026",
   "hasta": "30-08-2026"
  },
  "totales": {
-  "alertas": 78,
+  "alertas": 79,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
    "ATP": 52,
    "AMARILLA": 20,
-   "ROJA": 6
+   "ROJA": 7
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    29
+    30
    ],
    [
     "viento",
@@ -466,7 +466,7 @@
   },
   {
    "fecha": "2026-08-30",
-   "ROJA": 0,
+   "ROJA": 1,
    "AMARILLA": 1,
    "ATP": 3,
    "sae": 0
@@ -616,6 +616,15 @@
  ],
  "cronologia": [
   {
+   "ts": "30-08 15:12",
+   "nivel": "ROJA",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
+  },
+  {
    "ts": "30-08 11:24",
    "nivel": "ATP",
    "lugar": "Región de La Araucanía",
@@ -725,15 +734,6 @@
   },
   {
    "ts": "29-08 09:45",
-   "nivel": "ATP",
-   "lugar": "Región de Biobío",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25"
-  },
-  {
-   "ts": "28-08 20:39",
    "nivel": "ATP",
    "lugar": "Región de Biobío",
    "tipo": "tormentas eléctricas",
