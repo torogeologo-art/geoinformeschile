@@ -1,26 +1,8 @@
 {
- "generado": "2026-08-30T22:47:36+00:00",
- "desde": "2026-08-28T22:47:34Z",
+ "generado": "2026-08-31T01:15:27+00:00",
+ "desde": "2026-08-29T01:15:25Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "antofagasta": {
-   "comuna": "Antofagasta",
-   "region": "Antofagasta",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "QZBdJe4do5M",
-     "url": "https://www.youtube.com/watch?v=QZBdJe4do5M",
-     "titulo": "Primera Iglesia Metodista Pentecostal Antofagasta está en vivo",
-     "canal": "Primera Iglesia Metodista Pentecostal Antofagasta",
-     "publicado": "2026-08-30T22:14:11Z",
-     "live": true,
-     "score": 7.95,
-     "verificado": false,
-     "embeddable": false
-    }
-   ]
-  },
   "biobio": {
    "comuna": "Biobío",
    "region": "Biobío",
@@ -33,7 +15,7 @@
      "canal": "SRGenial",
      "publicado": "2026-08-29T14:08:16Z",
      "live": true,
-     "score": -4.72,
+     "score": -4.93,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +26,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-08-29T14:08:16Z",
      "live": true,
-     "score": -4.72,
+     "score": -4.93,
      "verificado": false,
      "embeddable": true
     }
@@ -62,7 +44,7 @@
      "canal": "Radio Poesía",
      "publicado": "2026-08-30T03:09:17Z",
      "live": true,
-     "score": 6.36,
+     "score": 6.16,
      "verificado": false,
      "embeddable": true
     },
@@ -73,7 +55,7 @@
      "canal": "Radio Buena Nueva",
      "publicado": "2026-08-29T15:50:20Z",
      "live": true,
-     "score": 5.42,
+     "score": 5.22,
      "verificado": false,
      "embeddable": true
     }

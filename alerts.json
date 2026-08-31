@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-30T22:47:32+00:00",
+ "generado": "2026-08-31T01:15:24+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 10,
  "alertas": [
+  {
+   "id": "f7a29dac236c",
+   "nivel": "ATP",
+   "tipo": "aluvión",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A462 Probable desarrollo de tormentas eléctricas asociadas con chubascos aislados en litoral interior de la región. 30-08 30-08 Abrir aquí En tanto, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa , indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrum",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-08-30T19:41:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "005ce9ac7bed",
    "nivel": "ATP",
@@ -131,20 +145,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-29T20:30:46.4646-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-26-15-19-11",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "850f830fad59",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelado los siguientes alertamientos meteorológicos para la Región de Los Lagos, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A452-3 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en litoral y Chiloé. Aviso A454 Precipitaciones normales a moderadas en litoral. Por otra parte, de acuerdo con la información proporcionada en el informe de amenaza meteorológica emitido durante la jornada por la Di",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-29T19:34:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -971,7 +971,7 @@
    "descripcion": "¡ATENCIÓN! EVITA ribera del estero Caillín por alerta de crecida, en la comuna de #Cañete, Región del Biobío. \nInfórmate a través de los canales oficiales y sigue las indicaciones de la autoridad.\n#SENAPRED activó mensajería #SAE Preventiva.",
    "region": "Biobío",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-08-06T02:59:25+00:00",
    "url": "https://t.me/SenapredChile/1511",
    "origen": "telegram",
@@ -1279,7 +1279,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por desborde del Río Vergara #SENAPRED reitera el llamado a evacuar sector Las Rocas 2 en la comuna de #Angol, Región de La Araucanía.   \nPara reforzar la evacuación en terreno por parte de los organismos técnicos #SENAPRED activó mensajería #SAE.   \nRecuerda actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.   \nMás información en:  https://web.senapred.cl/dimension-animal/",
    "region": "La Araucanía",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-08-02T21:28:34+00:00",
    "url": "https://t.me/SenapredChile/1494",
    "origen": "telegram",
@@ -1321,7 +1321,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por desborde del Río Andalién #SENAPRED solicita evacuar sectores Santa Rita, Puente 1 y El Queule en la comuna de #Concepción, Región del Biobío. \nPara reforzar la evacuación en terreno por parte de los organismos técnicos #SENAPRED activó mensajería #SAE. \nRecuerda actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades. \nMás información en:  https://web.senapred.cl/dimension-animal/",
    "region": "Biobío",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-08-02T18:31:08+00:00",
    "url": "https://t.me/SenapredChile/1492",
    "origen": "telegram",
@@ -1461,7 +1461,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN! Por alerta de crecida, SENAPRED reitera EVITAR riberas de Río Curanilahue, Río Rana y Estero Plegarias, Comuna de Curanilahue, Región del Biobío.\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
    "region": "Biobío",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-08-01T23:56:21+00:00",
    "url": "https://t.me/SenapredChile/1478",
    "origen": "telegram",
@@ -1645,7 +1645,7 @@
    "descripcion": "¡ATENCIÓN! Por alerta de crecida evite la ribera del Río Renaico y Vergara, comuna Renaico, Región de La Araucanía.\n\n#SENAPRED activó mensajería SAE Preventiva.\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
    "region": "La Araucanía",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-08-01T15:25:29+00:00",
    "url": "https://t.me/SenapredChile/1466",
    "origen": "telegram",
@@ -1700,20 +1700,6 @@
    "sae": true
   },
   {
-   "id": "c8b810a77781",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se declara Alerta Roja para la comuna de Concepción por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “Río Andalién antes Ex Peaje Chaimávida” , ubicada en la comuna de Concepción, indica un incremento en su caudal , alcanzando valores de umbral rojo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. Cabe señalar, el umbral rojo establecido por la DGA señala un caudal que puede llegar a producir daños a sectores poblados e infraestructura, pudiendo según el caso, requerir acciones tales como evacuación, defensas, disponibilidad, y recursos humanos, maqu",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-31T20:07:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-concepcion-por-desborde-2026-07-31-20-11-50",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "cb0d598b5efa",
    "nivel": "ROJA",
    "tipo": "crecida de río",
@@ -1763,36 +1749,6 @@
    "sae": true
   },
   {
-   "id": "6bdd854ba4e9",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por Heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que lo originaron. Alertamiento Pronóstico Enlace Aviso A361-1 Heladas normales a moderadas con formación de hielo en Cordillera Austral Sur, Insular Sur, Pampa Patagónica Norte y Pampa Patagónica Sur. Abrir aquí En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Tempra",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-31T16:13:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-heladas-2026-07-26-16-29-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
-  },
-  {
-   "id": "fbd0e5708858",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Taltal, Mejillones y Tocopilla por precipitaciones",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta, debido al debilitamiento de las condiciones meteorológicas que lo originaron. Alertamiento Pronóstico Enlace Aviso A367-1 Precipitaciones normales a moderadas en litoral. Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por precipitaciones para las comunas de Antofagasta,",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-31T14:00:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-taltal-por-precipitaciones-2026-07-27-17-41-04",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "202594839e1e",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -1807,20 +1763,6 @@
    "url": "https://t.me/SenapredChile/1453",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "bd286fe6b344",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se declara Alerta Roja para la comuna de Victoria por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ Río Quino en Longitudinal ”, ubicada en la comuna de Victoria, indica un incremento en su caudal , alcanzando valores de umbral rojo , lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED declara Alerta Roja por desborde para la comuna de Victoria , vigente desde hoy y hasta que las condiciones así lo ameriten. C",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-07-31T03:19:27.2727-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-victoria-por-desborde-2026-07-31-03-22-18",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "a5d22620481b",
