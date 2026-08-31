@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-31T01:19:06+00:00",
- "desde": "2026-08-29T01:19:04Z",
+ "generado": "2026-08-31T07:27:06+00:00",
+ "desde": "2026-08-29T07:27:04Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -15,7 +15,7 @@
      "canal": "SRGenial",
      "publicado": "2026-08-29T14:08:16Z",
      "live": true,
-     "score": -4.93,
+     "score": -5.0,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-08-29T14:08:16Z",
      "live": true,
-     "score": -4.93,
+     "score": -5.0,
      "verificado": false,
      "embeddable": true
     }
@@ -44,7 +44,7 @@
      "canal": "Radio Poesía",
      "publicado": "2026-08-30T03:09:17Z",
      "live": true,
-     "score": 6.15,
+     "score": 5.64,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +55,7 @@
      "canal": "Radio Buena Nueva",
      "publicado": "2026-08-29T15:50:20Z",
      "live": true,
-     "score": 5.21,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     }
