@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-31T01:19:03+00:00",
+ "generado": "2026-08-31T07:30:27+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -1976,6 +1976,13 @@
    "comuna": "Monte Patria",
    "noticias": [
     {
+     "titulo": "Con maquinarias habilitan paso más seguro hacia localidades aisladas en Monte Patria - La Serena Online",
+     "medio": "La Serena Online",
+     "fecha": "2026-08-30T21:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS19TQjV3QnZYYk5MckJOQjlVVk5YY0pTM0NMTHZ1SEpnSGJ3YnptOUN2aG5rMXYwNDhOTm1zajVLMWtZWFFoUTZYNDhpSENxS0tMSS1ybndsOGtHczZ6Z1RBb1Z2Y0JNR2FSWlY0dERUUW1WeHdiZHd1R2dIUndWLUtlS05rbXNDbmJ6enFGc0xOUDJpY094REh5QTltZWZ5NzJfaVdSQVRwS01iY0JOUTRBRlhPel92dHdvSVNIdw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Primer avance para localidades aisladas: Habilitan paso tras la destrucción del puente en Monte Patria - Mi Radio",
      "medio": "Mi Radio",
      "fecha": "2026-08-28T13:13:49+00:00",
@@ -2036,13 +2043,6 @@
      "medio": "El Ovallino",
      "fecha": "2026-08-01T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZzFmYTNzWnBza1BScmw5b2k5NjYyZWNJeDJzbEUwMm9VNTB5ZWkwcW1aQ0tyRjI5bUVUeFF6TE5pMVI4TFBRNUY5R3dlYnFpZDFtbzdFQ01pLVl1a3ZYbmhKZjgzdW5NRXQ2WUd0UlRnQnJ5ODRVVV9UNml6SXl6Rm5hNkRzMW04WEhaZ1RWaGZjZ1NFTUw1T3JfY3Y?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "SENAPRED activa alerta SAE por crecida de río en Combarbalá y Monte Patria: Piden evitar la ribera del río Guatulame - Chilevisión",
-     "medio": "Chilevisión",
-     "fecha": "2026-07-31T20:57:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTXR1c1NuSG93UmNYYmd5dFVKUndYOUFCQkJYSVdUSFdtRjNpY01GcktaY0ZOUS1XT0N2eG82RFRCOEtSZm1samRCNDZ4TUY2VnU5aW9oWXZCdmtYcGR6b3V2aE5HZ3hnRDJneWZGNFl6bXlXSmljRHBMRHMwcm1FeWRFTWZHRXRPVFgxaWtTVFZvMWpFMElpZFEtSkxBWkRlWVNGTV9GbWJ0ZmlNaEZsQ2owNzVtc3VuMlJZYTNfanBJdDRnT3hNNWphd2F2OHBmN3ZQOHBVc3llZlRuR2FobTN0am1XM3YxdkVnejVESFpJTVMyd3ZKcHBDTUhpSVU3VGc?oc=5",
      "sector": null
     }
    ]
@@ -2134,6 +2134,13 @@
    "comuna": "Concepción",
    "noticias": [
     {
+     "titulo": "Senapred decreta Alerta Roja en Concepción ante el alza del caudal del río Andalién - Canal 9 Bío Bío Televisión",
+     "medio": "Canal 9 Bío Bío Televisión",
+     "fecha": "2026-08-30T15:52:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTXp3dG9VNVBPdV82T3JYMDMyWndFUHNQVDZKR1UxcWpFUGhQUHFNUFJFYkhQNkRtdlYzdTZ1YXp5QWdnYmdDeXM5eGxhVklweGc5bzVGQUFHR0loNkxSZHIwM2NiVjFCSUgxQ2lDLWp2R3NaU3Z3WWJXSmhrWUhVRGxxZHlIT3gtc3dXM1kwNS1DZnBudXktZ1hqeFd0Q2hOWTRCM0NJc2pmd3pMQkJFWTREUjBBZTlDcVM4UjUwSzZoQlk?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred declara alerta roja para Concepción por riesgo de desborde del río Andalién - laregionhoy.cl",
      "medio": "laregionhoy.cl",
      "fecha": "2026-08-30T13:13:19+00:00",
@@ -2145,6 +2152,13 @@
      "medio": "El Reporte Diario",
      "fecha": "2026-08-30T04:46:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdHhUY3RiLWRzLVd3QlV5MDE1dXkyNVhhODF1SGZUc1c5a2RweS01VzlIT1lRam80MlJNbVhhbnRwS1BGa3puRkJhQXNGYnRWWXBJeTJDbkt2ZC1fc3V2MVc0WGg4OTlrbEhXeW1MajVWdmRIaWRfblc3T0hVZTFiaHdGMUFCN3J3UkNEVEJEb2NPck9zMnRj?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Decretan alerta roja para Concepción: caudal del río Andalién sube a nivel crítico - La Tercera",
+     "medio": "La Tercera",
+     "fecha": "2026-08-30T04:16:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTVhVczhOblllVl9pNkE3NUlKdzkzbWZJVkhGaUJ3ODJpREplSU5NS2lfX0F6UTY0STJvWll6S212dUlvSnJTd3lycE01dW94OUo1Y1o0T05HVzBXTmFwQkUzS1JkNWgwMC10VVZfbDJ6X1NFVFpyN3BoS0xVSG9xSkNpSGkzQTJQSmlMbTA0WWFCaGs4dER4b01nUVp3eWV0Q1g2elkxTkdNaS16NkdDXzViQkjSAdYBQVVfeXFMTlJvZEluSGFJeF90M0FSRDRmdkhiUUtQcVM1M0hROHlMWjhEYi0tVnY1ZXhWNHJndGM0cGdBRjlpaU5nUHY5QWlyRU91dC14VnpBNlVnQmNwRGNMRWgtNTlWc2RfMXYzbTAwdXZGTl9yTjRXT014U09qSTdndW82dGRKNjUxOUwtT0VwTFN1c3VwcnFwMVZ4YWdrTUl5ZFpVS0szSWwtYXhXRkl6Slk4WGItcHlNSlhtanpzRnVOdHl5dDJHaDNCaUJ1YVk5RzlRR1pfLWJxQQ?oc=5",
      "sector": null
     },
     {
@@ -2187,20 +2201,6 @@
      "medio": "TVU | Televisión Universidad de Concepción",
      "fecha": "2026-08-02T20:49:50+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNazU3Q19FVHlOeFlyVXU5VmhUQ0JaZUJnWVNkTERxTnVmVG5oYkQ5eEZxLUQ0YUhqUjNqZGF2TnZPN0pqWkN1bHVKeDVoSVotSWpsWXhSSXpqTlZRRnpxOFItQkh1dlVwaW9vSDVhYzMtTmk4c3NUV2p1QTZmQ0VCLVhQT1pUb3d2LWpjcGxyczQ0czhiWVhkNzZtQ3RoQndxWWlpS0s2bWlRNTJ0ZzI4dTB1aFlialVuTFBnRjVJcmFCRnZiVzdZSUFTX3NPUnpqZEl3Q3ZQX2tYSFNFSlE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Los impactantes registros del desborde del río Andalién en Concepción - Amigos Penquistas",
-     "medio": "Amigos Penquistas",
-     "fecha": "2026-08-02T20:49:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONHF3cUliMC0tb0c3bnVIakI5a3ctZWNFSUpyaldPTFo5ZDBoVktqZTJjeDFXbHd4QTd5T1VmdEJqMGNpQWI5RGdJZE9SVTRHZncxOWFlRl84bnJPenAzQ3pUTkVDanY5MDRlTEIwU1RBUDNHcTVCdnZ5cl9NWkFhQllHVEY2ZEJMTWRJYjhRdXlyOTlkakh1aGxqc21KVTZyRnRIX0RBbVVJaGUxMkE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred solicita evacuar el sector Santa Rita de Concepción tras nuevo desborde del río Andalién - TVU | Televisión Universidad de Concepción",
-     "medio": "TVU | Televisión Universidad de Concepción",
-     "fecha": "2026-08-02T20:49:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV1p1VGJJcTBwZG5rZjdfWHRRdFZocVItYW1SWmFqZmEyNEF6b0hWU1g0eXI0UzJtbWxIV2xVOTdCNGMtZ2p5U0pGdnJqSU50MFU2ZC1XejNQMWR2Q2V4bVBEWFBJdGJNb3Z1Unk5cnRFTG5vbDlJOWg5Q1M3WUdtejRkU0xDSk5UZEVkYy1jR3JGVk9VTkZBSE5iQUZCLVA5R1VmNFQ4WVBQb214bUJPSDh6ZUgzV3BiYVROeVVreHZnaUItOHlVenduMDE0b29XZ0wweVl3?oc=5",
      "sector": null
     }
    ]

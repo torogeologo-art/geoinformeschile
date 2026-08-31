@@ -1,24 +1,24 @@
 {
- "generado": "2026-08-31T01:19:06+00:00",
+ "generado": "2026-08-31T07:30:31+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "21-08-2026",
   "hasta": "31-08-2026"
  },
  "totales": {
-  "alertas": 81,
+  "alertas": 82,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
    "ATP": 53,
    "AMARILLA": 21,
-   "ROJA": 7
+   "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    31
+    32
    ],
    [
     "viento",
@@ -454,6 +454,13 @@
    "AMARILLA": 2,
    "ATP": 5,
    "sae": 0
+  },
+  {
+   "fecha": "2026-08-31",
+   "ROJA": 1,
+   "AMARILLA": 0,
+   "ATP": 0,
+   "sae": 0
   }
  ],
  "escalamientos": [
@@ -605,6 +612,15 @@
  ],
  "cronologia": [
   {
+   "ts": "31-08 01:16",
+   "nivel": "ROJA",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
+  },
+  {
    "ts": "30-08 19:41",
    "nivel": "ATP",
    "lugar": "Región de Los Lagos",
@@ -720,15 +736,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-quillon-por-crecida-2026-08-29-17-58-46"
-  },
-  {
-   "ts": "29-08 17:39",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-08-21-15-28-01"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
