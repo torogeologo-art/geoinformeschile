@@ -1,32 +1,21 @@
 {
- "generado": "2026-08-31T07:30:30+00:00",
- "desde": "2026-08-29T07:30:28Z",
+ "generado": "2026-08-31T15:19:59+00:00",
+ "desde": "2026-08-29T15:19:57Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "adBrSW8il6I",
-     "url": "https://www.youtube.com/watch?v=adBrSW8il6I",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-08-29T14:08:16Z",
+     "id": "15NPzWLJgyc",
+     "url": "https://www.youtube.com/watch?v=15NPzWLJgyc",
+     "titulo": "EN VIVO | EL MATINAL DE ANTOFAGASTA | 31  DE AGOSTO 2026 | ANTOFAGASTA TV",
+     "canal": "Antofagasta TV",
+     "publicado": "2026-08-31T12:46:49Z",
      "live": true,
-     "score": -5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "jC3YcYBtghc",
-     "url": "https://www.youtube.com/watch?v=jC3YcYBtghc",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-08-29T14:08:16Z",
-     "live": true,
-     "score": -5.0,
+     "score": 7.79,
      "verificado": false,
      "embeddable": true
     }
@@ -38,13 +27,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "gPNGqJYxhFA",
+     "url": "https://www.youtube.com/watch?v=gPNGqJYxhFA",
+     "titulo": "🟠EN VIVO Matinal La Voz Del Maule | Lunes 31 de Agosto | Diario El Centro",
+     "canal": "El Centro TV",
+     "publicado": "2026-08-31T13:08:20Z",
+     "live": true,
+     "score": 7.82,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "fXivXmOiC2M",
      "url": "https://www.youtube.com/watch?v=fXivXmOiC2M",
      "titulo": "🔴 LIVE | Curepto, Maule Region, Chile 🇨🇱 | 24/7 Panoramic Live Camera | Real-Time Views",
      "canal": "Radio Poesía",
      "publicado": "2026-08-30T03:09:17Z",
      "live": true,
-     "score": 5.64,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     },
