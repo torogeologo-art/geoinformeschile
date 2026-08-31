@@ -1,59 +1,19 @@
 {
- "generado": "2026-08-31T15:23:30+00:00",
- "desde": "2026-08-29T15:23:28Z",
+ "generado": "2026-08-31T20:59:34+00:00",
+ "desde": "2026-08-29T20:59:33Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "antofagasta": {
-   "comuna": "Antofagasta",
-   "region": "Antofagasta",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "15NPzWLJgyc",
-     "url": "https://www.youtube.com/watch?v=15NPzWLJgyc",
-     "titulo": "EN VIVO | EL MATINAL DE ANTOFAGASTA | 31  DE AGOSTO 2026 | ANTOFAGASTA TV",
-     "canal": "Antofagasta TV",
-     "publicado": "2026-08-31T12:46:49Z",
-     "live": true,
-     "score": 7.78,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "maule": {
    "comuna": "Maule",
    "region": "Maule",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "gPNGqJYxhFA",
-     "url": "https://www.youtube.com/watch?v=gPNGqJYxhFA",
-     "titulo": "🟠EN VIVO Matinal La Voz Del Maule | Lunes 31 de Agosto | Diario El Centro",
-     "canal": "El Centro TV",
-     "publicado": "2026-08-31T13:08:20Z",
-     "live": true,
-     "score": 7.81,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "fXivXmOiC2M",
      "url": "https://www.youtube.com/watch?v=fXivXmOiC2M",
      "titulo": "🔴 LIVE | Curepto, Maule Region, Chile 🇨🇱 | 24/7 Panoramic Live Camera | Real-Time Views",
      "canal": "Radio Poesía",
      "publicado": "2026-08-30T03:09:17Z",
-     "live": true,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "6lflbbZzApc",
-     "url": "https://www.youtube.com/watch?v=6lflbbZzApc",
-     "titulo": "Linares Chile, Region de Maule",
-     "canal": "Radio Buena Nueva",
-     "publicado": "2026-08-29T15:50:20Z",
      "live": true,
      "score": 5.0,
      "verificado": false,
