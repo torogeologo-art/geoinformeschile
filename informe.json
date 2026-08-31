@@ -1,17 +1,17 @@
 {
- "generado": "2026-08-30T22:47:36+00:00",
+ "generado": "2026-08-31T01:19:06+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "20-08-2026",
-  "hasta": "30-08-2026"
+  "desde": "21-08-2026",
+  "hasta": "31-08-2026"
  },
  "totales": {
-  "alertas": 80,
+  "alertas": 81,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 52,
+   "ATP": 53,
    "AMARILLA": 21,
    "ROJA": 7
   },
@@ -30,7 +30,7 @@
    ],
    [
     "aluvión",
-    6
+    7
    ],
    [
     "evento meteorológico",
@@ -452,7 +452,7 @@
    "fecha": "2026-08-30",
    "ROJA": 1,
    "AMARILLA": 2,
-   "ATP": 4,
+   "ATP": 5,
    "sae": 0
   }
  ],
@@ -605,6 +605,15 @@
  ],
  "cronologia": [
   {
+   "ts": "30-08 19:41",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "aluvión",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
+  },
+  {
    "ts": "30-08 16:37",
    "nivel": "ATP",
    "lugar": "Región de Ñuble",
@@ -720,15 +729,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-08-21-15-28-01"
-  },
-  {
-   "ts": "29-08 17:01",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
