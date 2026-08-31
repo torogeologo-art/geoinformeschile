@@ -1,28 +1,28 @@
 {
- "generado": "2026-08-31T15:23:31+00:00",
+ "generado": "2026-08-31T21:01:28+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "21-08-2026",
   "hasta": "31-08-2026"
  },
  "totales": {
-  "alertas": 82,
+  "alertas": 83,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 53,
-   "AMARILLA": 21,
-   "ROJA": 8
+   "ATP": 54,
+   "AMARILLA": 20,
+   "ROJA": 9
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    32
+    35
    ],
    [
     "viento",
-    23
+    18
    ],
    [
     "crecida de río",
@@ -37,12 +37,12 @@
     5
    ],
    [
-    "marejadas",
-    2
+    "otros",
+    3
    ],
    [
-    "otros",
-    1
+    "marejadas",
+    2
    ],
    [
     "remoción en masa",
@@ -167,7 +167,7 @@
     "region": "Coquimbo",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "21-08",
+    "ts": "22-08",
     "comuna_link": "",
     "region_link": "coquimbo"
    },
@@ -181,15 +181,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "21-08",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
     "lugar": "Región de Maule",
     "region": "Maule",
     "nivel": "ATP",
@@ -197,33 +188,6 @@
     "ts": "21-08",
     "comuna_link": "",
     "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "21-08",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "21-08",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "21-08",
-    "comuna_link": "",
-    "region_link": "biobio"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -242,6 +206,33 @@
     "ts": "23-08",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "23-08",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "23-08",
+    "comuna_link": "",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "25-08",
+    "comuna_link": "",
+    "region_link": "la araucania"
    }
   ],
   "crecida de río": [
@@ -340,17 +331,6 @@
     "region_link": "antofagasta"
    }
   ],
-  "marejadas": [
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "22-08",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   }
-  ],
   "otros": [
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -360,6 +340,26 @@
     "ts": "27-08",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "31-08",
+    "comuna_link": "",
+    "region_link": "los rios"
+   }
+  ],
+  "marejadas": [
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "22-08",
+    "comuna_link": "",
+    "region_link": "valparaiso"
    }
   ],
   "remoción en masa": [
@@ -375,12 +375,11 @@
   ]
  },
  "vigentes": {
-  "ROJA": 3,
-  "AMARILLA": 1,
-  "ATP": 6,
+  "ROJA": 2,
+  "AMARILLA": 0,
+  "ATP": 3,
   "regiones_roja": [
    "Antofagasta",
-   "Biobío",
    "Maule"
   ]
  },
@@ -388,8 +387,8 @@
   {
    "fecha": "2026-08-21",
    "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 6,
+   "AMARILLA": 0,
+   "ATP": 2,
    "sae": 0
   },
   {
@@ -457,9 +456,9 @@
   },
   {
    "fecha": "2026-08-31",
-   "ROJA": 1,
+   "ROJA": 2,
    "AMARILLA": 0,
-   "ATP": 0,
+   "ATP": 5,
    "sae": 0
   }
  ],
@@ -538,7 +537,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "21-08 16:07",
+     "ts": "23-08 18:25",
      "estado": "VIGENTE"
     },
     {
@@ -550,6 +549,11 @@
      "nivel": "ROJA",
      "ts": "29-08 23:50",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "31-08 12:41",
+     "estado": "CANCELADA"
     }
    ]
   },
@@ -561,7 +565,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "21-08 15:28",
+     "ts": "23-08 15:13",
      "estado": "VIGENTE"
     },
     {
@@ -611,6 +615,60 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "31-08 15:05",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "otros",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03"
+  },
+  {
+   "ts": "31-08 12:53",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
+  },
+  {
+   "ts": "31-08 12:41",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25"
+  },
+  {
+   "ts": "31-08 12:31",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-collipulli-curacautin-cunco-vilcun-pucon-y-villarrica-por-tormentas-electricas-2026-08-30-18-26-03"
+  },
+  {
+   "ts": "31-08 12:25",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "otros",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-malloa-por-evento-masivo-2026-08-27-11-34-54"
+  },
+  {
+   "ts": "31-08 12:01",
+   "nivel": "ROJA",
+   "lugar": "Región de Biobío",
+   "tipo": "desborde",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-concepcion-por-crecida-2026-08-29-13-41-27"
+  },
   {
    "ts": "31-08 01:16",
    "nivel": "ROJA",
@@ -682,60 +740,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32"
-  },
-  {
-   "ts": "30-08 07:56",
-   "nivel": "ATP",
-   "lugar": "Región de Los Ríos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-08-23-12-49-10"
-  },
-  {
-   "ts": "29-08 23:50",
-   "nivel": "ROJA",
-   "lugar": "Región de Biobío",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-concepcion-por-crecida-2026-08-29-13-41-27"
-  },
-  {
-   "ts": "29-08 20:30",
-   "nivel": "ATP",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-26-15-19-11"
-  },
-  {
-   "ts": "29-08 19:34",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
-  },
-  {
-   "ts": "29-08 18:08",
-   "nivel": "ATP",
-   "lugar": "Región de Atacama",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33"
-  },
-  {
-   "ts": "29-08 17:53",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Ñuble",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-quillon-por-crecida-2026-08-29-17-58-46"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
