@@ -1,24 +1,24 @@
 {
- "generado": "2026-09-01T00:38:56+00:00",
+ "generado": "2026-09-01T05:43:40+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "22-08-2026",
   "hasta": "01-09-2026"
  },
  "totales": {
-  "alertas": 81,
+  "alertas": 82,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 52,
+   "ATP": 53,
    "AMARILLA": 20,
    "ROJA": 9
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    35
+    36
    ],
    [
     "viento",
@@ -453,6 +453,13 @@
    "AMARILLA": 0,
    "ATP": 5,
    "sae": 0
+  },
+  {
+   "fecha": "2026-09-01",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
+   "sae": 0
   }
  ],
  "escalamientos": [
@@ -609,6 +616,15 @@
  ],
  "cronologia": [
   {
+   "ts": "01-09 00:13",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33"
+  },
+  {
    "ts": "31-08 15:05",
    "nivel": "ATP",
    "lugar": "Región de Los Ríos",
@@ -724,15 +740,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-21-15-16-11"
-  },
-  {
-   "ts": "30-08 09:00",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Maule",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
