@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-01T00:38:27+00:00",
+ "generado": "2026-09-01T05:42:10+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -9,15 +9,29 @@
  "total_vigentes": 5,
  "alertas": [
   {
+   "id": "3033b88eaf1d",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A461-2 Viento normal a moderado con probabilidad de tormentas de arena en el litoral. 31-08 01-09 Abrir aquí Aviso A460 Altas temperaturas en litoral, cordillera de la costa y sectores de valles y pampa. 01-09 01-09 Abrir aquí Cabe señalar que, debido al debilitamiento de las condiciones meteorológicas que lo originaron ha sido cancelado el siguiente alertamiento",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-01T00:13:21.2121-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
    "id": "63edbadcc97b",
    "nivel": "ROJA",
    "tipo": "tormentas eléctricas",
    "titulo": "Monitoreo Alerta Roja para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA147-4 Viento moderado a fuerte con desarrollo de ventiscas en cordillera de la costa, precordillera Alto Loa, precordillera Salar y cordillera. 28-08 31-08 Abrir aquí Aviso A461-2 Viento normal a moderado con probabilidad de tormentas de arena en el litoral. 31-08 01-09 Abrir aquí 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SITUACION",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A461-2 Viento normal a moderado con probabilidad de tormentas de arena en el litoral. 31-08 01-09 Abrir aquí Cabe señalar que, debido al debilitamiento de las condiciones meteorológicas que lo originaron ha sido cancelado el siguiente alertamiento para la región: Alertamiento Pronóstico Alerta AA147-4 Viento moderado a fuerte con desarrollo de ventiscas en cordiller",
    "region": "Antofagasta",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-08-31T17:51:00.000-04:00",
+   "ts": "2026-08-31T23:06:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
    "origen": "senapred_web",
    "regiones_extra": []
@@ -201,20 +215,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-29T20:30:46.4646-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-26-15-19-11",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e1dff2866385",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura y evento de Alerta Temprana Preventiva para la Región de Atacama a evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA147-4 Viento moderado a fuerte en cordillera, con desarrollo de ventiscas. 26-08 30-08 Abrir aquí Aviso A445-3 Viento normal a moderado en cordillera. 29-08 31-08 Abrir aquí Aviso A460 Altas temperaturas en litoral, cordillera de la costa y sectores de valles y pampa. 01-09 01-09 Abrir aquí Aviso A461 Viento normal a moderado con probabilidad de tormentas de are",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-08-29T18:08:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33",
    "origen": "senapred_web",
    "regiones_extra": []
   },

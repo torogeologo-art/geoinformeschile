@@ -1,25 +1,6 @@
 {
- "generado": "2026-09-01T00:38:55+00:00",
- "desde": "2026-08-30T00:38:54Z",
+ "generado": "2026-09-01T05:42:12+00:00",
+ "desde": "2026-08-30T05:42:11Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "maule": {
-   "comuna": "Maule",
-   "region": "Maule",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "fXivXmOiC2M",
-     "url": "https://www.youtube.com/watch?v=fXivXmOiC2M",
-     "titulo": "🔴 LIVE | Curepto, Maule Region, Chile 🇨🇱 | 24/7 Panoramic Live Camera | Real-Time Views",
-     "canal": "Radio Poesía",
-     "publicado": "2026-08-30T03:09:17Z",
-     "live": true,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
