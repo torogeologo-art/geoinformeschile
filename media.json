@@ -1,43 +1,6 @@
 {
- "generado": "2026-09-01T15:13:05+00:00",
- "desde": "2026-08-30T15:13:03Z",
+ "generado": "2026-09-01T18:33:42+00:00",
+ "desde": "2026-08-30T18:33:41Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "antofagasta": {
-   "comuna": "Antofagasta",
-   "region": "Antofagasta",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "Mupko8wlD-s",
-     "url": "https://www.youtube.com/watch?v=Mupko8wlD-s",
-     "titulo": "EN VIVO | EL MATINAL DE ANTOFAGASTA | 1  DE SEPTIEMBRE 2026 | ANTOFAGASTA TV",
-     "canal": "Antofagasta TV",
-     "publicado": "2026-09-01T12:46:54Z",
-     "live": true,
-     "score": 7.8,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "maule": {
-   "comuna": "Maule",
-   "region": "Maule",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "ZTRCli6fBdc",
-     "url": "https://www.youtube.com/watch?v=ZTRCli6fBdc",
-     "titulo": "🟠EN VIVO Matinal La Voz Del Maule | Martes 01 de Septiembre | Diario El Centro",
-     "canal": "El Centro TV",
-     "publicado": "2026-08-31T15:30:44Z",
-     "live": true,
-     "score": 6.02,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
