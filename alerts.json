@@ -1,13 +1,41 @@
 {
- "generado": "2026-09-01T18:36:54+00:00",
+ "generado": "2026-09-01T21:22:33+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 5,
+ "total_vigentes": 7,
  "alertas": [
+  {
+   "id": "062ad2cc4b22",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Ríos. Alertamiento Pronóstico Inicio Fin Enlace Aviso A464 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en cordillera de la costa, valle y precordillera. 02-09 02-09 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED Declara Alerta Temprana Preventiva regional por tormentas eléctri",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-01T16:43:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-09-01-17-05-58",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "220704e70957",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A464 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en el litoral, cordillera de la costa, valle y precordillera. 02-09 02-09 Abrir aquí Aviso A465 Viento normal a moderado (Raco, dirección Este) en precordillera y cordillera. 05-09 06-09 Abrir aquí Por otra parte, según lo señalado en el Informe de Amenaza Meteorológica, se pronos",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-01T16:29:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "3033b88eaf1d",
    "nivel": "ATP",
