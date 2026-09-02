@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-01T23:30:23+00:00",
+ "generado": "2026-09-02T01:19:28+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 5,
+ "total_vigentes": 6,
  "alertas": [
+  {
+   "id": "285cfb567f16",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Temprana Preventiva para la comuna de Tortel por crecida",
+   "descripcion": "De acuerdo con la información técnica proporcionada por la Dirección General de Aguas (DGA) , mediante su minuta técnica N°1 de hoy 01 de septiembre, se informa que la situación del Lago HPN4 localizado al sur de Campos de Hielo Norte indica lo siguiente: Monitoreo del lago : los registros de la cámara óptica remota y los datos continuos de la estación DGA confirman un proceso activo de llenado y aumento del nivel de agua en el lago glacial. Situación actual : el lago presenta niveles elevados de agua, existiendo una amenaza latente de descarga súbita. Al momento, se estima que faltan unos 11",
+   "region": "Aysén del General Carlos Ibáñez del Campo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-01T19:27:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-tortel-por-crecida-2026-09-01-20-14-35",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "22f7866a57ad",
    "nivel": "ATP",
@@ -1342,34 +1356,6 @@
    "sae": true
   },
   {
-   "id": "f6bbbea2a4aa",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se cancela Alerta Roja para la comuna de Osorno por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Lagos, personal de la Ilustre Municipalidad de Osorno indica que durante la presente jornada se realizaron patrullajes de observación en la ribera del Río Damas y del Río Rahue, evidenciando una tendencia al descenso en sus niveles de caudal, lo que contribuiría a disminuir el riesgo para la población y la infraestructura vial ubicada en las cercanías de este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SE",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-02T19:17:01.011-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-osorno-por-desborde-2026-08-01-19-43-36",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "f76b3c838ac6",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Roja para la comuna de Sagrada Familia por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación fluviométrica “Río Estero Culenar en Villa Prat” ubicada en comuna de Sagrada Familia, ha registrado un descenso en el caudal encontrándose en umbral amarillo. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED cancela Alerta Roja por desborde para la comuna de Sagrada Familia , que se mantuvo vigente desde hoy 02 de Agosto. Cabe señalar que, la Región del Maule mantiene la Alerta Amarilla Regional por crecida vig",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-02T18:53:28.2828-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-sagrada-familia-por-desborde-2026-08-02-06-50-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "c88eee758e63",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -1382,20 +1368,6 @@
    "url": "https://t.me/SenapredChile/1492",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "2cb28d90b36d",
-   "nivel": "ROJA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Roja para la Provincia de Huasco por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la región, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Enlace Alerta A112-1 Viento moderado a fuerte con desarrollo de ventiscas en precordillera y cordillera. Abrir aquí Aviso A359-4 Viento normal a moderado en cordillera. Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED canc",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-02T06:09:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-huasco-por-evento-meteorologico-2026-07-16-19-52-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "973477d205af",
@@ -2318,7 +2290,7 @@
    "descripcion": "¡ATENCIÓN! Por desborde del Río Huasco #SENAPRED solicita evacuar sectores aledaños a la ribera de dicho curso de agua en la comuna de #Vallenar, Región de Atacama. \nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE. \nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades. \nMás información en: https://web.senapred.cl/dimension-animal/",
    "region": "Atacama",
    "comunas": [],
-   "estado": "CANCELADA",
+   "estado": "EXPIRADA",
    "ts": "2026-07-20T09:15:35+00:00",
    "url": "https://t.me/SenapredChile/1386",
    "origen": "telegram",
@@ -2424,7 +2396,7 @@
    "descripcion": "REITERAMOS el llamado de #SENAPRED por activación de Quebrada Alarcón, a EVACUAR el sector #Amancay, en la comuna de #Freirina, Región de Atacama.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\nRECUERDA mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta.\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información en https://web.senapred.cl/dimension-animal/",
    "region": "Atacama",
    "comunas": [],
-   "estado": "CANCELADA",
+   "estado": "EXPIRADA",
    "ts": "2026-07-19T21:07:28+00:00",
    "url": "https://t.me/SenapredChile/1356",
    "origen": "telegram",
@@ -2660,7 +2632,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por desborde de canal, #SENAPRED solicita evacuar sector Quebrada Valparaíso; en la comuna de #Vallenar, Región de Atacama.\n\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.\n\nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\n\nMás información en: https://web.senapred.cl/dimension-animal/",
    "region": "Atacama",
    "comunas": [],
-   "estado": "CANCELADA",
+   "estado": "EXPIRADA",
    "ts": "2026-07-18T11:48:02+00:00",
    "url": "https://t.me/SenapredChile/1321",
    "origen": "telegram",
