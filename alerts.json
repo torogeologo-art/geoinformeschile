@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-02T21:42:02+00:00",
+ "generado": "2026-09-02T23:34:21+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 10,
+ "total_vigentes": 11,
  "alertas": [
+  {
+   "id": "ef41d0dfe97f",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Monitoreo Alerta Amarilla para las comunas de Tocopilla y Taltal por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED, en el contexto del evento meteorológico que se desarrolló en la Región de Antofagasta, se reportan los siguientes antecedentes y novedades: Comuna Afectación a Personas Daño a Viviendas DAMNIFICADOS ALBERGADOS AISLADOS LESIONADOS DESAPARECIDOS FALLECIDOS DESTRUIDAS DAÑO MAYOR DAÑO MENOR EN EVALUACIÓN Antofagasta 0 0 0 0 0 0 0 0 21 0 Mejillones 0 0 0 0 0 0 0 0 0 36 Tocopilla 6 0 0 0 0 0 10 56 9.442 0 Taltal 0 0 0 0 0 1 0 0 0 0 Ollagüe 0 0 0 0 0 0 0 0 3 12 Total 6 0 0 0 0 1 10 56 9.466 48 &nbsp; &nbsp; MONITOREO",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-02T18:37:11.1111-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "34387c0ffab8",
    "nivel": "ATP",
@@ -91,20 +105,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-01T18:41:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "fe9193b341d2",
-   "nivel": "ROJA",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para las comunas de Tocopilla y Taltal por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), no se mantienen alertamientos meteorológicos para la Región de Antofagasta. No obstante, en el contexto del evento meteorológico que afectó a la región, sumado a las acciones de respuesta en las comunas afectadas consignadas hoy en día en la Fase de Recuperación y restablecimiento de la normalidad , se encuentran en desarrollo y ejecución distintas gestiones, tales como: entrega de recursos, contrato de maquinarias, servicios de habilitación de conectividad, y limpieza de zonas afectadas (instalaciones e",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-01T18:33:56.5656-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -540,7 +540,7 @@
    "descripcion": "¡ATENCIÓN! \nPor activación de quebradas se solicita EVACUAR sector Miramar en la comuna de #Taltal, Región de Antofagasta. \n\nPara reforzar el proceso de evacuación #SENAPRED activó Mensajería #SAE. \nMantén la calma y sigue las indicaciones de las autoridades y organismos en terreno. \n\nAl momento de evacuar recuerda considerar a tu mascota y sus necesidades. \n\nMás información en: https://web.senapred.cl/dimension-animal/",
    "region": "Antofagasta",
    "comunas": [],
-   "estado": "CANCELADA",
+   "estado": "EXPIRADA",
    "ts": "2026-08-19T01:20:28+00:00",
    "url": "https://t.me/SenapredChile/1557",
    "origen": "telegram",
@@ -568,7 +568,7 @@
    "descripcion": "¡ATENCIÓN! \nPor activación de quebradas se solicita EVACUAR sector Coloso en la comuna de #Antofagasta, Región de Antofagasta. \nPara reforzar el proceso de evacuación #SENAPRED activó Mensajería #SAE. \nMantén la calma y sigue las indicaciones de las autoridades y organismos en terreno. Al momento de evacuar recuerda considerar a tu mascota y sus necesidades. \nMás información en: https://web.senapred.cl/dimension-animal/",
    "region": "Antofagasta",
    "comunas": [],
-   "estado": "CANCELADA",
+   "estado": "EXPIRADA",
    "ts": "2026-08-18T23:54:49+00:00",
    "url": "https://t.me/SenapredChile/1554",
    "origen": "telegram",
