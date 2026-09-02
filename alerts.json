@@ -1,13 +1,57 @@
 {
- "generado": "2026-09-02T18:54:31+00:00",
+ "generado": "2026-09-02T21:39:00+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 7,
+ "total_vigentes": 10,
  "alertas": [
+  {
+   "id": "34387c0ffab8",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A466 Viento normal a moderado con probabilidad de tormentas de arena en litoral de la Provincia de Huasco. 04-09 04-09 Abrir aquí Aviso A467 Viento normal a moderado con probabilidad de ventisca en cordillera. 06-09 07-09 Abrir aquí Aviso A468 Altas temperaturas en cordillera de la costa y sectores de valles y pampa. 04-09 04-09 Abrir aquí En consideración a estos",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-02T16:45:03.033-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "9d2a7504bc60",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la comuna de Torres del Paine por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), según su Pronóstico Meteorológico Especial emitido por Centro Meteorológico Regional Austral, se indica que desde la tarde de hoy miércoles 02 y hasta la tarde del jueves 03 de septiembre, se pronostican nevadas y viento de intensidad moderado a fuerte (hasta 120 km/h) para la zona del paso “John Gardner” en el Parque Nacional Torres del Paine de la Región de Magallanes y de la Antártica Chilena. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Magallanes, la Di",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-02T16:42:23.2323-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-evento-meteorologico-2026-09-02-16-42-55",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "dfbdf09ec653",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta y Taltal por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A467 Viento normal a moderado con probabilidad de ventiscas en cordillera. 06-09 07-09 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por viento para la provincia de El Loa y las comunas de Antofagasta y Taltal , vigente desd",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-02T16:26:33.3333-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-09-02-16-27-21",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "64a5001d04da",
    "nivel": "ATP",
