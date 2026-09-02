@@ -1,18 +1,18 @@
 {
- "generado": "2026-09-01T23:30:25+00:00",
+ "generado": "2026-09-02T01:26:52+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "22-08-2026",
-  "hasta": "01-09-2026"
+  "desde": "23-08-2026",
+  "hasta": "02-09-2026"
  },
  "totales": {
-  "alertas": 84,
+  "alertas": 82,
   "sae": 0,
   "comunas": 0,
-  "regiones": 14,
+  "regiones": 15,
   "por_nivel": {
-   "ATP": 53,
-   "AMARILLA": 20,
+   "ATP": 52,
+   "AMARILLA": 19,
    "ROJA": 11
   },
   "por_tipo": [
@@ -22,19 +22,19 @@
    ],
    [
     "viento",
-    15
+    14
    ],
    [
     "crecida de río",
-    12
-   ],
-   [
-    "evento meteorológico",
-    6
+    13
    ],
    [
     "aluvión",
     6
+   ],
+   [
+    "evento meteorológico",
+    4
    ],
    [
     "otros",
@@ -163,15 +163,6 @@
   ],
   "viento": [
    {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "22-08",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
     "lugar": "Región de Atacama",
     "region": "Atacama",
     "nivel": "AMARILLA",
@@ -253,35 +244,15 @@
     "ts": "26-08",
     "comuna_link": "",
     "region_link": "nuble"
-   }
-  ],
-  "evento meteorológico": [
+   },
    {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ROJA",
+    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "nivel": "ATP",
     "sae": false,
     "ts": "01-09",
     "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "26-08",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "22-08",
-    "comuna_link": "",
-    "region_link": "atacama"
+    "region_link": "aysen del general carlos ibanez del campo"
    }
   ],
   "aluvión": [
@@ -311,6 +282,26 @@
     "ts": "24-08",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
+   }
+  ],
+  "evento meteorológico": [
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "01-09",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "26-08",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    }
   ],
   "otros": [
@@ -359,17 +350,10 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 0,
-  "ATP": 5,
+  "ATP": 6,
   "regiones_roja": []
  },
  "serie": [
-  {
-   "fecha": "2026-08-22",
-   "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 2,
-   "sae": 0
-  },
   {
    "fecha": "2026-08-23",
    "ROJA": 0,
@@ -437,44 +421,11 @@
    "fecha": "2026-09-01",
    "ROJA": 2,
    "AMARILLA": 0,
-   "ATP": 4,
+   "ATP": 5,
    "sae": 0
   }
  ],
  "escalamientos": [
-  {
-   "lugar": "Región de Antofagasta",
-   "region": "Antofagasta",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "24-08 16:45",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "24-08 20:45",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "25-08 15:46",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "27-08 21:31",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "28-08 15:00",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
   {
    "lugar": "Región de Maule",
    "region": "Maule",
@@ -505,6 +456,39 @@
      "nivel": "ROJA",
      "ts": "01-09 17:21",
      "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Antofagasta",
+   "region": "Antofagasta",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ROJA",
+     "ts": "24-08 16:45",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "24-08 20:45",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "25-08 15:46",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "27-08 21:31",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "28-08 15:00",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -568,32 +552,18 @@
      "estado": "CANCELADA"
     }
    ]
-  },
-  {
-   "lugar": "Región de Atacama",
-   "region": "Atacama",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "22-08 20:10",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "23-08 16:49",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "29-08 18:08",
-     "estado": "VIGENTE"
-    }
-   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "01-09 19:27",
+   "nivel": "ATP",
+   "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-tortel-por-crecida-2026-09-01-20-14-35"
+  },
   {
    "ts": "01-09 18:33",
    "nivel": "ROJA",
@@ -710,15 +680,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
-  },
-  {
-   "ts": "30-08 19:41",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "aluvión",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
