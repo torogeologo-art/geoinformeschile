@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-02T15:20:16+00:00",
+ "generado": "2026-09-02T18:54:56+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -649,6 +649,13 @@
    "comuna": "La Serena",
    "noticias": [
     {
+     "titulo": "MOP ejecuta obras de emergencia para recuperar capacidad hidráulica del río Elqui - La Serena Online",
+     "medio": "La Serena Online",
+     "fecha": "2026-08-29T20:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUNZRGFVVEFtUndCVDhWSDlSRnRablZNV1FfN0lESEZqR0phLXJMOXFyXzVOdXlQd3lYb2loUHpFQnpTQzdmaUJUWFMzTGV3LVN4S0NJWWxicDdYX2V0RHp5U085S1pzSjU5U2JlMmNBMS1uUHR5eTI3Y0hSR0VWQUhGdWVRcjV2Rk96bUVzUXVISHd1WjVXNEYwbEFjVy1sZlZrVFZXZzcxMk1nZFNIT2xYemctSHNrUTFF?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Río Elqui recupera su capacidad de conducción tras las últimas crecidas - diarioeldia.cl",
      "medio": "diarioeldia.cl",
      "fecha": "2026-08-29T14:49:53+00:00",
@@ -709,13 +716,6 @@
      "medio": "Infobae",
      "fecha": "2026-08-02T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNenQ0NWNpYW9Oa3V5RlItMmZMc21ENHlRN3BxcXBKUHVyOTdKdHZlNFMyNEhoVHZUT1lPLVE5VHJjMlhiQlhKQTJuX2s1aTVRVkNDUTJ1Z0QxT3lLVWd6SWt2MF8yNjBxbF9sYlk5ZEt0TUdEdVBJT3VHT2gxb21HWlppVi15Q2tfdHNDY19LcFNocTFmY3h6MEd5NE9QZ0pOcnZ4MzhvbENoclpDajhxcVpsUEFLTUNaMEpMQ0l0U3NFYzQ5Wi1LdWxpdEtGYjZFbFBhOTVsbkU5am40ZGxLY2tQRHQ4YlF2VGhGeng1YTJHdXZyN29NYg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alerta en la Región de La Araucanía por crecida de río: Senapred activa mensaje SAE y pide evitar las riberas - En Cancha",
-     "medio": "En Cancha",
-     "fecha": "2026-08-01T17:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbGhORWktRmw2OWdib0pZZmNTVUZHdXdQREZQZXJBZV82X2c2YkFhcFEtNm9kVzhxb3pVSHc3RGZIc0xsVnZQaWFadjQ4bHdxQXRMR2d2UkloY0JSOG8wTFhJbmR4eERRNlRRSll4bzhWSGprY2VsOGZKOUI5YlZiOGxMZ0t4VDdINl9aX0ZHWjhBXzE4RmZsSUs4SHpZQTZNR3NpRTlpY195VzQxdEl0TEM4ZGhfR0dfd2lvMXdqMXZVOHk4VUJEOXRnOUtVci0yTE1KZXhJODBnelFIYTNONlNlektQaG9aUE1nQ3lNWUIzY0t3dXc?oc=5",
      "sector": null
     }
    ]
@@ -2101,6 +2101,13 @@
      "sector": null
     },
     {
+     "titulo": "[Minuto a Minuto] Sistema frontal: más de 1.100 damnificados y resguardo militar para viviendas evacuadas - Radar BioBio",
+     "medio": "Radar BioBio",
+     "fecha": "2026-08-02T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeDB4bm1IN0NkMUlsYXdmMHk4VUNleGpuTGVZdC1zaHAxM3lYbTdhWW9NRnlmVXZEQ01ONU9ka0xrYU92RXdrR0dZX21NME5tc01LbzloRUY3T0RMMXJQZ000REpwMDN4bTRoVkhBWjdwSUliMkd5V3FWVHYwSTRYYlBvOHItejRScTRsQ1puajNOeDRGdUtjYmlDLUhUTGxwNTlQd1U4SktPNXdwTzVKaGE0ZC1ObnZTS0hOR20wUk10UkdtRGJmdkNpTnZJbW1FUjFVWmlYODBmQ3BSYTZj?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Frente de mal tiempo deja 2.000 afectados en La Araucanía; vigilan Lumaco y Purén por crecida de ríos - Canal 9 Bío Bío Televisión",
      "medio": "Canal 9 Bío Bío Televisión",
      "fecha": "2026-08-02T05:10:51+00:00",
@@ -2119,13 +2126,6 @@
      "medio": "Alerta Noticias Temuco.cl",
      "fecha": "2026-08-02T02:48:54+00:00",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzQtSmhhR1p2V0xGOVg0QzBmd0lMbkhkTXc2M25YVEtsbmtuQ1R6UDVBMi1VN1VOUXRMOEtqcW5XZXB3N3B1VUdyUWlNMHJrenJlb1dvRWlBRmRjMExSTm1sRlhISEFLSWxVVE5vbmxRTWxQSEplby13OWFJQXlKd3dGYWctaU0yVmdEb1d5UTZoUQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Sistema frontal deja 2 mil afectados en La Araucanía: monitorean a Lumaco y Purén por desborde de ríos - BioBioChile",
-     "medio": "BioBioChile",
-     "fecha": "2026-08-02T02:34:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdkQ0cEFZM1o1dENtOFhMbWR1ZV83Y1MzQ2tZb3NtZ3F3Y2Fzek5faDM2VS1FMFNJLXlHYlpfSmtiaEVKYlVUN3Q4aG41dkFVeUJwYXE4Ry1uMjlRclhaRHJraUs3ck5mczJDRElQSXFta3ZvRVd4YnZmZTVXSi1YRVN0VTVMa19qMXdaNXIzMVRLdS1sc3dtZDNXU3VHUVRyTUZJR1EzWFhfdFpqUHRNUE1jYlF4Y28zemRPQmJUUjFCeEh1SXFyaS1KV01paWJEazBCSzl4Tmw0dkhtSWJCZ2dhaTNqNTE5bXRCbjhkdkwzMkVIVXJXTGpuUDJqME8zZFd6ME9VWUw0djhBNlhXeE03Z1E?oc=5",
      "sector": null
     }
    ]
