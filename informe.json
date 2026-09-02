@@ -1,24 +1,24 @@
 {
- "generado": "2026-09-02T18:54:57+00:00",
+ "generado": "2026-09-02T21:42:16+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "23-08-2026",
   "hasta": "02-09-2026"
  },
  "totales": {
-  "alertas": 79,
+  "alertas": 80,
   "sae": 0,
   "comunas": 0,
-  "regiones": 15,
+  "regiones": 16,
   "por_nivel": {
-   "ATP": 51,
-   "AMARILLA": 17,
+   "ATP": 53,
+   "AMARILLA": 16,
    "ROJA": 11
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    38
+    39
    ],
    [
     "viento",
@@ -167,18 +167,9 @@
     "region": "Atacama",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "23-08",
+    "ts": "24-08",
     "comuna_link": "",
     "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "23-08",
-    "comuna_link": "",
-    "region_link": "nuble"
    },
    {
     "lugar": "Región de Biobío",
@@ -206,6 +197,33 @@
     "ts": "25-08",
     "comuna_link": "",
     "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "25-08",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "02-09",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "02-09",
+    "comuna_link": "",
+    "region_link": "magallanes y de la antartica chilena"
    }
   ],
   "crecida de río": [
@@ -341,15 +359,15 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 0,
-  "ATP": 7,
+  "ATP": 10,
   "regiones_roja": []
  },
  "serie": [
   {
    "fecha": "2026-08-23",
    "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 2,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -419,7 +437,7 @@
    "fecha": "2026-09-02",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 1,
+   "ATP": 4,
    "sae": 0
   }
  ],
@@ -430,11 +448,6 @@
    "sae": false,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "24-08 16:45",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "ATP",
      "ts": "24-08 20:45",
@@ -453,6 +466,11 @@
     {
      "nivel": "ROJA",
      "ts": "28-08 15:00",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "02-09 16:26",
      "estado": "VIGENTE"
     }
    ]
@@ -526,7 +544,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "23-08 15:13",
+     "ts": "25-08 18:16",
      "estado": "VIGENTE"
     },
     {
@@ -553,6 +571,33 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "02-09 16:45",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34"
+  },
+  {
+   "ts": "02-09 16:42",
+   "nivel": "ATP",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-evento-meteorologico-2026-09-02-16-42-55"
+  },
+  {
+   "ts": "02-09 16:26",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-09-02-16-27-21"
+  },
   {
    "ts": "02-09 08:33",
    "nivel": "ATP",
@@ -651,33 +696,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25"
-  },
-  {
-   "ts": "31-08 12:31",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-collipulli-curacautin-cunco-vilcun-pucon-y-villarrica-por-tormentas-electricas-2026-08-30-18-26-03"
-  },
-  {
-   "ts": "31-08 12:25",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "otros",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-malloa-por-evento-masivo-2026-08-27-11-34-54"
-  },
-  {
-   "ts": "31-08 12:01",
-   "nivel": "ROJA",
-   "lugar": "Región de Biobío",
-   "tipo": "desborde",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-concepcion-por-crecida-2026-08-29-13-41-27"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
