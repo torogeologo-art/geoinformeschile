@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-02T21:42:16+00:00",
+ "generado": "2026-09-02T23:35:42+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "23-08-2026",
@@ -11,9 +11,9 @@
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 53,
-   "AMARILLA": 16,
-   "ROJA": 11
+   "AMARILLA": 17,
+   "ROJA": 11,
+   "ATP": 52
   },
   "por_tipo": [
    [
@@ -21,12 +21,12 @@
     39
    ],
    [
-    "viento",
+    "crecida de río",
     13
    ],
    [
-    "crecida de río",
-    13
+    "viento",
+    12
    ],
    [
     "aluvión",
@@ -34,7 +34,7 @@
    ],
    [
     "evento meteorológico",
-    4
+    5
    ],
    [
     "otros",
@@ -161,71 +161,6 @@
     "region_link": "atacama"
    }
   ],
-  "viento": [
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "24-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "23-08",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "24-08",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "25-08",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "25-08",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "02-09",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Magallanes y de la Antártica Chilena",
-    "region": "Magallanes y de la Antártica Chilena",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "02-09",
-    "comuna_link": "",
-    "region_link": "magallanes y de la antartica chilena"
-   }
-  ],
   "crecida de río": [
    {
     "lugar": "Región de Maule",
@@ -262,6 +197,71 @@
     "ts": "01-09",
     "comuna_link": "",
     "region_link": "aysen del general carlos ibanez del campo"
+   }
+  ],
+  "viento": [
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "24-08",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "24-08",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "24-08",
+    "comuna_link": "",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "25-08",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "25-08",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "02-09",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "02-09",
+    "comuna_link": "",
+    "region_link": "magallanes y de la antartica chilena"
    }
   ],
   "aluvión": [
@@ -358,18 +358,11 @@
  },
  "vigentes": {
   "ROJA": 0,
-  "AMARILLA": 0,
+  "AMARILLA": 1,
   "ATP": 10,
   "regiones_roja": []
  },
  "serie": [
-  {
-   "fecha": "2026-08-23",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
   {
    "fecha": "2026-08-24",
    "ROJA": 1,
@@ -436,7 +429,7 @@
   {
    "fecha": "2026-09-02",
    "ROJA": 0,
-   "AMARILLA": 0,
+   "AMARILLA": 1,
    "ATP": 4,
    "sae": 0
   }
@@ -448,11 +441,6 @@
    "sae": false,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "24-08 20:45",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "ROJA",
      "ts": "25-08 15:46",
@@ -471,6 +459,11 @@
     {
      "nivel": "ATP",
      "ts": "02-09 16:26",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "02-09 18:37",
      "estado": "VIGENTE"
     }
    ]
@@ -516,7 +509,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "23-08 18:25",
+     "ts": "24-08 17:49",
      "estado": "VIGENTE"
     },
     {
@@ -571,6 +564,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "02-09 18:37",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Antofagasta",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
+  },
   {
    "ts": "02-09 16:45",
    "nivel": "ATP",
@@ -687,15 +689,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-08-17-19-06-13"
-  },
-  {
-   "ts": "31-08 12:41",
-   "nivel": "ATP",
-   "lugar": "Región de Biobío",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-08-21-18-24-25"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
