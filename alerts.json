@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-03T01:29:52+00:00",
+ "generado": "2026-09-03T06:25:38+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 11,
+ "total_vigentes": 10,
  "alertas": [
+  {
+   "id": "3d31163a79ae",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Ríos. Alertamiento Pronóstico Aviso A464 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en cordillera de la costa, valle y precordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED Cancela la Alerta Temprana Preventiva regional",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-02T22:45:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-09-01-17-05-58",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "9ce7b479a2e8",
    "nivel": "ATP",
@@ -147,20 +161,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-01T17:21:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-clemente-y-colbun-por-crecida-2026-08-25-17-45-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "062ad2cc4b22",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Ríos. Alertamiento Pronóstico Inicio Fin Enlace Aviso A464 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en cordillera de la costa, valle y precordillera. 02-09 02-09 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED Declara Alerta Temprana Preventiva regional por tormentas eléctri",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-01T16:43:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-09-01-17-05-58",
    "origen": "senapred_web",
    "regiones_extra": []
   },
