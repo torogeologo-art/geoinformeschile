@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-03T06:27:19+00:00",
+ "generado": "2026-09-03T11:39:14+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -255,6 +255,13 @@
    "comuna": "Tierra Amarilla",
    "noticias": [
     {
+     "titulo": "MOP fortalece monitoreo de crecidas en quebrada Paipote y Río Copiapó con nuevos sensores radar - Radio Maray",
+     "medio": "Radio Maray",
+     "fecha": "2026-08-31T22:13:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR0w1cVlrMjJJelpjSkZ2bTd0R24tVFlUOUpIYlc3ekFlWWZXdk1HazAyN0QzUTJEYjhxRHFka1duSzhzMTRSbmhNOWJzbFRhaTQ5WmYzLVh3UE9KZHprSmowQnpUVEVRYm1zek9CNHJJd19wN2lLV1hVdXlWTjFKQkpNVFdZc0QtQkhtYzdZTG1ZLXhqMnN0cGRKS09mQW4xSFYteTA0SEJzYW5GX3dtM0ZWRVVOT0FxVjVaeXg3U0lmN3ZKNWpET1RwZ3lzSnpvSmYzQmZzbmR5Zw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Municipio intervino el río Copiapó para evitar un riesgo y ahora enfrenta una fiscalización - elquehaydecierto.cl",
      "medio": "elquehaydecierto.cl",
      "fecha": "2026-08-18T16:47:58+00:00",
@@ -315,13 +322,6 @@
      "medio": "atacamanoticias.cl",
      "fecha": "2026-08-13T11:52:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjhSUGxYaFNNaE9SYTdEZ05rRkJfWjZlYWhuNURGWmpZaExNRGU2R25DdG1BUUNocnNTenRtOGgwUmpjZVZtSEVrb1kzRTZSZVM1RGk3MkpIQjdWLXZZVUVFcHZSTU82ZFR4eVRlQmxmMXRLaVZHNGl0aUxXRlNERHdoOXJfTmRHZldpOVVXalp2SXowcXhmME10SmRNbjRoUzRSSEJMTUltaFdKZFRjdVNPQUtWRmQ5WXo1QQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "MOP informa medidas preventivas ante intervención de infraestructura hidráulica en Tierra Amarilla - Medio digital El Zorro Nortino",
-     "medio": "Medio digital El Zorro Nortino",
-     "fecha": "2026-08-13T04:17:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT3hQZU14cG9VdThrTlhnYU0yczZsanRCRUFQNG4xdU9rczV1QVY2S3pqem1tWnVWcEpRWmQ1Mkc0aTV5c1o5Q1p3Wi1EdnRMYTZSb1VNeXVEQXRyRkJ2RzNMaWZmUUEzTk1KSVdUcGFGLWRoamxPa2ttUXRobkNpMEhtYXJ0TnFFZWFDTm1MaFNsc3dtVjVSTXAybUxzQzctTEF0QUcxb1BQb2VwbmU1VFp3em52bF9iSkdFRGMtSzJSMU1kQmh2eExDWUR3TkE4dEUyVlhOSmQyaVBPUzI3Z3lzdw?oc=5",
      "sector": null
     }
    ]
@@ -2480,6 +2480,13 @@
      "sector": null
     },
     {
+     "titulo": "Desborde de río en Ayacucho continúa y agrava crisis en San Francisco de Ayna por lluvias - Canal N",
+     "medio": "Canal N",
+     "fecha": "2026-03-31T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZUFlMkUyQ3pONWxFcjdxSU1TRDR5Vkhxa2ZJZHF2Sy10NFhqWFRySGtMbDZJd1dtNlJ3bi1DTmc2NV9BTTE2eHNSX1hab3VOMDlzMl93aUh1Ym5IS1l1cTN1dlZzLWc2cDNuRkZUNDUzNTBpMXNacEFtQUswUG1MaVlrRmFEUzBWMEZZZlNrLTdyTlVY?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Alerta en Ica, Cañete y otras provincias ante peligro de desborde por mayor caudal de ríos - Agencia Andina",
      "medio": "Agencia Andina",
      "fecha": "2026-02-17T08:00:00+00:00",
@@ -2494,17 +2501,10 @@
      "sector": null
     },
     {
-     "titulo": "¡Ríos al límite! Ica, Cañete y más provincias en alerta por inminente riesgo de desborde tras intensas lluvias - Perú 21",
-     "medio": "Perú 21",
-     "fecha": "2026-02-16T08:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1lJbzhqTGlISmNKbmJ5UTZSZ3ZsWHlUUGFyUDRiVmkzVVE1X2k5WmxmV25GY2JQbjlTNTI5Sy1YWmZEWG5PejFRVXZ4cEpEaEtyRTRvaGVwLUt3SnpPMDJ4OGtDX0RtNExJc2I2WW5ZcFdPTlZ2TFpibVYxeDA1LVhuQlRzMXhrRE9kaFNhVHNmS3BLNnp1N251aU9ua0tQOXA3Yg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Cuatro carreteras provinciales de Jaén permanecen cortadas al tráfico por inundaciones - Andalucía Información",
-     "medio": "Andalucía Información",
-     "fecha": "2026-02-04T08:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSWlmR2VlREdjVG9OeUxCZ0hUVmNxeTR4UTFoaDFURUNEZndHU3AxdzZxTk1DMExSSGFsM0dFbWJwVGt3ZTNjQUJZY19nMkQ0NGhOWGRDQUdrRUlLd0JMRmNCOHR2YUpFalpKVk5RRC1ZWjlKZjkwaktLcWZjdUp4TkhKa29pMTcxak45dXZFZHIyMDA2azVwb3pSbmJYOTdsOVhuUzlfbTZ0aFZyWHhqbUFVRGY4WDBSbXFKUTBMS0dvRlJCWkZzME41S0F5UEdFVG16bXZFeVo5OXg3UXNmWXB6dUcxd3hZVktyU1dVUTh5T1FTem9kRF9n0gH_AUFVX3lxTE9WUkUtcWxHN0JoWDRfdVRvV1B4VllodVRhVGdjMWhIS2lUVkc5X0RGV3RYWFkxZDFQN0RzdXNTd2dzUUg1ejBwU1lOem9wcDl0bHpjSXBmcVdjQmFKNUFSbEhjSC1NZTdTRzhVU2ZlYjJpU0JUazNDaU4wYmVNTEdUY0lYRC1PUVp0T3diQXJZVERvelNNVlVJS1Q0V3pZY2pDNEdfbkkyc29uZF9ycDFTWERKVjNnbmM0dVV6YnpvdXNEc1RpVzdqV3R3c2xqLU1PNlgxUGZsbm45REFOQWZJeHkwQ2NwNEx6R3B4SDIteFFpOWhlcjZoQjV5eDB4TQ?oc=5",
+     "titulo": "Alerta por desborde de ríos en Ica, Lima, La Libertad, Arequipa y Cajamarca - lalupa.pe",
+     "medio": "lalupa.pe",
+     "fecha": "2026-02-17T08:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSWlFSEcwT0lDUWdQckl5bERtRTNiOVdLejUweDh3WWoyX1B5Wi1yMloyckRUTDZQODJuam1GS3VUTUtDeEg5Qy1IanAwM2h5OUNnanhJVjRGZnFhbm9uVTdmMmtadk04ODlyVFdBZk50RnNhSDBhMTMwenk1YllET2h2RmcwbTNOb2RETXk1dkkwT3ZVRzJzWkN0WXFfVW1IWDN3?oc=5",
      "sector": null
     }
    ]
@@ -2934,6 +2934,13 @@
      "sector": null
     },
     {
+     "titulo": "Monitorean sistema frontal en Los Lagos y seguirán las precipitaciones - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-08-05T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2UwOXJsbXdYWFUxSWdUTVdGTGY5VExHT2x6VS11Q3VmclItS24tYzJ5T0tRdThmWnZqaHRMMWh1YXo4S0xabVU3UFJhM0Z1OTBqUTRXSVdCZFJRaHRNWUJQZUhPRVR3ck1WTmtzN29NdFVUcWp3NkJUU1duSThnMzhZMks5MUE3eC1ZTllzbGJqNTlLRGlua3h0elhueG5iOE1Zdy04dXh1STg?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "San Pablo mantiene 315 personas aisladas y continúa bajo alerta roja por desborde - SoyChile.cl",
      "medio": "SoyChile.cl",
      "fecha": "2026-08-04T18:41:49+00:00",
@@ -2952,13 +2959,6 @@
      "medio": "SoyChile.cl",
      "fecha": "2026-08-04T18:39:17+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVV5dGxaWFdORFpnOVRLMXdEOVgxX2hCeF9KNnhPWC1KNVNsMko4eGRKc25CT1Y0bHhZczF5dmI2Z2hEN1NLV3FzTWpCcUFINUF4ZFdoY0RIa09XbW9RVnRYd3RlSERGOV9GWEVIZ1A0Wk1VN3owWUpDdm1mUVRuN3A0RWF1bHdVLW1CZmFXZzRheUV6RGZWMWlvTng?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Reportan más de 300 personas aisladas en Los Lagos por desborde de ríos en San Pablo - Radio Agricultura",
-     "medio": "Radio Agricultura",
-     "fecha": "2026-08-04T11:58:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNWptMFRkV29jaWszLTVKQ1pIelg1eFlRNXJ5TFlfcmlDdnZJNE9OWTZSU0pRb3NRaC13NldNYmdSQjc2OVJCS2E4VTl5ckNXbWoxaTN4bnRYRnpBS3QxdjdvNzViaFNLdGowQU9iYXNzVUllc3FkU0NoaGp0b0FleVJfT0Q4UlVPMm51N2xSUV9mOU96enNwMWtuQ2FpVlc3ZWhRcEtVVThJMmpKX3diUmRxTTl1aDktNVdGaURSYlM4bndWZmZaTVhqZ2l5NndYNjZ5eU5YemxTdWNZ?oc=5",
      "sector": null
     }
    ]
