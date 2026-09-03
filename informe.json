@@ -1,40 +1,40 @@
 {
- "generado": "2026-09-03T18:45:42+00:00",
+ "generado": "2026-09-03T21:25:37+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "24-08-2026",
   "hasta": "03-09-2026"
  },
  "totales": {
-  "alertas": 87,
+  "alertas": 82,
   "sae": 0,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "AMARILLA": 17,
-   "ROJA": 11,
-   "ATP": 59
+   "ATP": 56,
+   "AMARILLA": 16,
+   "ROJA": 10
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    42
+    41
    ],
    [
     "viento",
-    16
+    14
    ],
    [
     "crecida de río",
     13
    ],
    [
-    "aluvión",
+    "evento meteorológico",
     5
    ],
    [
-    "evento meteorológico",
-    5
+    "aluvión",
+    3
    ],
    [
     "otros",
@@ -57,7 +57,7 @@
     "region": "Antofagasta",
     "nivel": "ROJA",
     "sae": false,
-    "ts": "24-08",
+    "ts": "25-08",
     "comuna_link": "",
     "region_link": "antofagasta"
    },
@@ -154,15 +154,6 @@
   ],
   "viento": [
    {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "24-08",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
     "nivel": "AMARILLA",
@@ -172,13 +163,13 @@
     "region_link": "la araucania"
    },
    {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
     "sae": false,
-    "ts": "24-08",
+    "ts": "25-08",
     "comuna_link": "",
-    "region_link": "maule"
+    "region_link": "atacama"
    },
    {
     "lugar": "Región de Biobío",
@@ -197,6 +188,15 @@
     "ts": "25-08",
     "comuna_link": "",
     "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "25-08",
+    "comuna_link": "",
+    "region_link": "maule"
    },
    {
     "lugar": "Región de Antofagasta",
@@ -264,35 +264,6 @@
     "region_link": "aysen del general carlos ibanez del campo"
    }
   ],
-  "aluvión": [
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "24-08",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "24-08",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "24-08",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   }
-  ],
   "evento meteorológico": [
    {
     "lugar": "Región de Antofagasta",
@@ -311,6 +282,26 @@
     "ts": "26-08",
     "comuna_link": "",
     "region_link": "coquimbo"
+   }
+  ],
+  "aluvión": [
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "24-08",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "30-08",
+    "comuna_link": "",
+    "region_link": "los lagos"
    }
   ],
   "otros": [
@@ -365,9 +356,9 @@
  "serie": [
   {
    "fecha": "2026-08-24",
-   "ROJA": 1,
-   "AMARILLA": 2,
-   "ATP": 5,
+   "ROJA": 0,
+   "AMARILLA": 1,
+   "ATP": 2,
    "sae": 0
   },
   {
