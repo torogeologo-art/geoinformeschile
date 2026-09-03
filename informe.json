@@ -1,24 +1,24 @@
 {
- "generado": "2026-09-03T01:30:18+00:00",
+ "generado": "2026-09-03T06:27:20+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "24-08-2026",
   "hasta": "03-09-2026"
  },
  "totales": {
-  "alertas": 81,
+  "alertas": 82,
   "sae": 0,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
    "AMARILLA": 17,
    "ROJA": 11,
-   "ATP": 53
+   "ATP": 54
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    40
+    41
    ],
    [
     "crecida de río",
@@ -359,7 +359,7 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 1,
-  "ATP": 10,
+  "ATP": 9,
   "regiones_roja": []
  },
  "serie": [
@@ -430,7 +430,7 @@
    "fecha": "2026-09-02",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 5,
+   "ATP": 6,
    "sae": 0
   }
  ],
@@ -565,6 +565,15 @@
  ],
  "cronologia": [
   {
+   "ts": "02-09 22:45",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-09-01-17-05-58"
+  },
+  {
    "ts": "02-09 19:55",
    "nivel": "ATP",
    "lugar": "Región de Los Lagos",
@@ -680,15 +689,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33"
-  },
-  {
-   "ts": "31-08 15:05",
-   "nivel": "ATP",
-   "lugar": "Región de Los Ríos",
-   "tipo": "otros",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
