@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-03T21:25:37+00:00",
+ "generado": "2026-09-03T23:28:47+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "24-08-2026",
@@ -12,20 +12,20 @@
   "regiones": 15,
   "por_nivel": {
    "ATP": 56,
-   "AMARILLA": 16,
-   "ROJA": 10
+   "ROJA": 10,
+   "AMARILLA": 16
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    41
-   ],
-   [
-    "viento",
-    14
+    42
    ],
    [
     "crecida de río",
+    14
+   ],
+   [
+    "viento",
     13
    ],
    [
@@ -33,12 +33,12 @@
     5
    ],
    [
-    "aluvión",
+    "otros",
     3
    ],
    [
-    "otros",
-    3
+    "aluvión",
+    2
    ],
    [
     "marejadas",
@@ -152,6 +152,53 @@
     "region_link": "atacama"
    }
   ],
+  "crecida de río": [
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "27-08",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "29-08",
+    "comuna_link": "",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "26-08",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "03-09",
+    "comuna_link": "",
+    "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "01-09",
+    "comuna_link": "",
+    "region_link": "aysen del general carlos ibanez del campo"
+   }
+  ],
   "viento": [
    {
     "lugar": "Región de La Araucanía",
@@ -176,7 +223,7 @@
     "region": "Biobío",
     "nivel": "ATP",
     "sae": false,
-    "ts": "24-08",
+    "ts": "25-08",
     "comuna_link": "",
     "region_link": "biobio"
    },
@@ -226,44 +273,6 @@
     "region_link": "los rios"
    }
   ],
-  "crecida de río": [
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "27-08",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "29-08",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "26-08",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
-   {
-    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-    "region": "Aysén del General Carlos Ibáñez del Campo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "01-09",
-    "comuna_link": "",
-    "region_link": "aysen del general carlos ibanez del campo"
-   }
-  ],
   "evento meteorológico": [
    {
     "lugar": "Región de Antofagasta",
@@ -284,26 +293,6 @@
     "region_link": "coquimbo"
    }
   ],
-  "aluvión": [
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "24-08",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "30-08",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   }
-  ],
   "otros": [
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -322,6 +311,26 @@
     "ts": "31-08",
     "comuna_link": "",
     "region_link": "los rios"
+   }
+  ],
+  "aluvión": [
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "25-08",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "30-08",
+    "comuna_link": "",
+    "region_link": "los lagos"
    }
   ],
   "marejadas": [
@@ -357,8 +366,8 @@
   {
    "fecha": "2026-08-24",
    "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 2,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -427,8 +436,8 @@
   {
    "fecha": "2026-09-03",
    "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 5,
+   "AMARILLA": 2,
+   "ATP": 6,
    "sae": 0
   }
  ],
@@ -507,7 +516,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "24-08 17:49",
+     "ts": "25-08 14:30",
      "estado": "VIGENTE"
     },
     {
@@ -577,9 +586,45 @@
      "estado": "VIGENTE"
     }
    ]
+  },
+  {
+   "lugar": "Región de Los Ríos",
+   "region": "Los Ríos",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "25-08 19:56",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "03-09 18:20",
+     "estado": "CANCELADA"
+    }
+   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "03-09 18:20",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Los Ríos",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-la-union-por-crecida-2026-08-05-12-03-46"
+  },
+  {
+   "ts": "03-09 18:16",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02"
+  },
   {
    "ts": "03-09 13:56",
    "nivel": "ATP",
@@ -687,24 +732,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-09-02-16-27-21"
-  },
-  {
-   "ts": "02-09 08:33",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-san-clemente-colbun-linares-longavi-retiro-y-parral-por-viento-2026-09-02-08-35-55"
-  },
-  {
-   "ts": "01-09 19:27",
-   "nivel": "ATP",
-   "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-tortel-por-crecida-2026-09-01-20-14-35"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
