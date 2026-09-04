@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-03T23:28:44+00:00",
+ "generado": "2026-09-04T01:16:24+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -1308,48 +1308,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-05T11:41:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-ninhue-san-nicolas-portezuelo-y-trehuaco-por-crecida-2026-07-31-08-42-37",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "c32126980d3d",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para la Región del Maule por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que las estaciones de la red hidrométricas de la Región del Maule se mantienen a la baja, encontrándose en umbrales estables. En este contexto, la DGA mantendrá un monitoreo permanente de la red hidrométrica regional, efectuando un seguimiento continuo de la evolución de los caudales y niveles de los principales cursos de agua, considerando tanto el comportamiento observado como la evolución prevista de las condiciones meteorológicas. En consideración a estos antecedentes y en coordinación con la Del",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-04T18:33:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-07-26-23-32-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "c1872e8b0e0d",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Amarilla para la Región de Los Ríos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , han sido cancelados los siguientes alertamientos meteorológicos para la Región de Los Ríos, debido al debilitamiento de las condiciones que los originaron: Alertamiento Pronóstico Aviso A375-1 Viento normal a moderado en litoral, cordillera de la costa, valle y precordillera. Aviso A377 Precipitaciones normales a moderadas en el litoral, cordillera de la costa, valle, precordillera y cordillera. Aviso A378-1 Probables tormentas eléctricas en el litoral y cordillera de la costa. Aviso A381-1 Probable des",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-04T18:30:10.1010-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-viento-2026-07-21-18-46-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ef6082987dae",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se cancela Alerta Roja para la comuna de La Unión por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica \"Río Llollelhue en La Unión\" registra un nivel de 2,1 metros, valor que se encuentra por debajo del umbral de Alerta Amarilla, establecido en 3,6 metros. Asimismo, conforme a la verificación realizada en terreno por personal de SENAPRED, se constató que el Río Llollelhue presenta una tendencia sostenida al descenso de sus niveles durante las últimas horas, condición que contribuiría a disminuir el riesgo para la población y la infraestructura emplazada en las cercanías de este curso de ag",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-04T18:12:57.5757-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-la-union-por-crecida-2026-07-28-07-54-02",
    "origen": "senapred_web",
    "regiones_extra": []
   },
