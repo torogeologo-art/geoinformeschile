@@ -1,17 +1,17 @@
 {
- "generado": "2026-09-04T11:40:25+00:00",
+ "generado": "2026-09-04T15:09:06+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "25-08-2026",
   "hasta": "04-09-2026"
  },
  "totales": {
-  "alertas": 81,
+  "alertas": 82,
   "sae": 0,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 55,
+   "ATP": 56,
    "ROJA": 10,
    "AMARILLA": 16
   },
@@ -26,7 +26,7 @@
    ],
    [
     "viento",
-    12
+    13
    ],
    [
     "evento meteorológico",
@@ -359,7 +359,7 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 2,
-  "ATP": 10,
+  "ATP": 9,
   "regiones_roja": []
  },
  "serie": [
@@ -431,6 +431,13 @@
    "ROJA": 0,
    "AMARILLA": 2,
    "ATP": 6,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-09-04",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   }
  ],
@@ -601,6 +608,15 @@
  ],
  "cronologia": [
   {
+   "ts": "04-09 08:21",
+   "nivel": "ATP",
+   "lugar": "Región de Maule",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-san-clemente-colbun-linares-longavi-retiro-y-parral-por-viento-2026-09-02-08-35-55"
+  },
+  {
    "ts": "03-09 18:20",
    "nivel": "AMARILLA",
    "lugar": "Región de Los Ríos",
@@ -716,15 +732,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-evento-meteorologico-2026-09-02-16-42-55"
-  },
-  {
-   "ts": "02-09 16:26",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-09-02-16-27-21"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
