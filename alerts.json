@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-04T11:40:00+00:00",
+ "generado": "2026-09-04T15:07:25+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 12,
+ "total_vigentes": 11,
  "alertas": [
+  {
+   "id": "a7cd4ad86c33",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Teno, Romeral, Curicó, Molina, San Clemente, Colbún, Linares, Longaví, Retiro y Parral por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la Región del Maule. Alertamiento Pronóstico Aviso A463-1 Viento normal a moderado con probabilidad de ventisca en cordillera. ​ En consideración a lo anterior, la Dirección Regional del SENAPRED Maule cancela la Alerta Temprana Preventiva por viento para las comunas de Teno, Romeral, Curicó, Molina, San Clemente, Colbún, Linares, Longaví, Retiro y Parral, que se mantuvo vigente d",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-04T08:21:47.4747-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-san-clemente-colbun-linares-longavi-retiro-y-parral-por-viento-2026-09-02-08-35-55",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "bdc37908a5d4",
    "nivel": "AMARILLA",
@@ -163,20 +177,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "64a5001d04da",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Teno, Romeral, Curicó, Molina, San Clemente, Colbún, Linares, Longaví, Retiro y Parral por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región de Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A463-1 Viento normal a moderado en sector cordillerano de la región 02-09 03-09 Abrir aquí En consideración a lo anterior, la Dirección Regional del SENAPRED Maule declara Alerta Temprana Preventiva por viento para las comunas de Teno, Romeral, Curicó, Molina, San Clemente, Colbún, Linares, Longaví, Retiro y Parral, vigente desde hoy y hasta que las condiciones meteorológi",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-02T08:33:50.5050-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-san-clemente-colbun-linares-longavi-retiro-y-parral-por-viento-2026-09-02-08-35-55",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "285cfb567f16",
