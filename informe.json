@@ -1,17 +1,17 @@
 {
- "generado": "2026-09-03T23:28:47+00:00",
+ "generado": "2026-09-04T01:18:29+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "24-08-2026",
-  "hasta": "03-09-2026"
+  "desde": "25-08-2026",
+  "hasta": "04-09-2026"
  },
  "totales": {
-  "alertas": 82,
+  "alertas": 81,
   "sae": 0,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 56,
+   "ATP": 55,
    "ROJA": 10,
    "AMARILLA": 16
   },
@@ -30,7 +30,7 @@
    ],
    [
     "evento meteorológico",
-    5
+    4
    ],
    [
     "otros",
@@ -363,13 +363,6 @@
   "regiones_roja": []
  },
  "serie": [
-  {
-   "fecha": "2026-08-24",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
   {
    "fecha": "2026-08-25",
    "ROJA": 1,
