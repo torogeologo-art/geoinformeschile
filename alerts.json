@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-04T20:59:27+00:00",
+ "generado": "2026-09-04T22:58:45+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,48 @@
  },
  "total_vigentes": 13,
  "alertas": [
+  {
+   "id": "e5cd2b07517f",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Provincia del Tamarugal por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , han sido cancelados los siguientes alertamientos meteorológicos para la Región de Tarapacá, debido al debilitamiento de las condiciones que lo originaron: Alertamiento Pronóstico Alerta AA147-4 Viento moderado a fuerte con desarrollo de ventisca en cordillera. Aviso A445-3 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED cancela la",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-04T18:26:43.4343-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ff6b01e7609d",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Amarilla para la Provincia de Iquique y comuna de Huara por evento meteorológico",
+   "descripcion": "Según la información proporcionada por la Dirección Meteorológica de Chile (DMC), la Región de Tarapacá no posee alertamientos meteorológicos vigentes, lo que supone una disminución del riesgo asociado a esta variable. Cabe señalar que, producto del evento, se registró afectación en infraestructura vial, establecimientos educacionales y de salud, además de interrupciones en los servicios básicos de agua potable y suministro eléctrico. No obstante, a la fecha, dichas afectaciones se encuentran superadas, verificándose el restablecimiento de los servicios y la operatividad de la infraestructura",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-04T18:01:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "380311a4d5c4",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Monitoreo Alerta Amarilla para las comunas de Tocopilla y Taltal por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED , en el contexto del evento meteorológico que se desarrolló en la Región de Antofagasta, se reportan los siguientes antecedentes y novedades: Comuna Afectación a Personas Daño a Viviendas DAMNIFICADOS ALBERGADOS AISLADOS LESIONADOS DESAPARECIDOS FALLECIDOS DESTRUIDAS DAÑO MAYOR DAÑO MENOR EN EVALUACIÓN Antofagasta - - - - - - - - 21 - Mejillones - - - - - - - - - 36 Tocopilla 6 - - - - - 10 56 9.442 - Taltal - - - - - 1 - - - - Ollagüe - - - - - - - - 3 12 Total 6 - - - - 1 10 56 9.466 48 MONITOREO DE RUTAS Y CA",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-04T18:00:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "6a9036736da4",
    "nivel": "ATP",
@@ -187,20 +229,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-02T22:45:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-09-01-17-05-58",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ef41d0dfe97f",
-   "nivel": "AMARILLA",
-   "tipo": "evento meteorológico",
-   "titulo": "Monitoreo Alerta Amarilla para las comunas de Tocopilla y Taltal por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED, en el contexto del evento meteorológico que se desarrolló en la Región de Antofagasta, se reportan los siguientes antecedentes y novedades: Comuna Afectación a Personas Daño a Viviendas DAMNIFICADOS ALBERGADOS AISLADOS LESIONADOS DESAPARECIDOS FALLECIDOS DESTRUIDAS DAÑO MAYOR DAÑO MENOR EN EVALUACIÓN Antofagasta 0 0 0 0 0 0 0 0 21 0 Mejillones 0 0 0 0 0 0 0 0 0 36 Tocopilla 6 0 0 0 0 0 10 56 9.442 0 Taltal 0 0 0 0 0 1 0 0 0 0 Ollagüe 0 0 0 0 0 0 0 0 3 12 Total 6 0 0 0 0 1 10 56 9.466 48 &nbsp; &nbsp; MONITOREO",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-02T18:37:11.1111-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -459,20 +487,6 @@
    "regiones_extra": []
   },
   {
-   "id": "fc159331a076",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Provincia del Tamarugal por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA147-4 Viento moderado a fuerte con desarrollo de ventisca en cordillera. 30-08 30-08 Abrir aquí Aviso A445-3 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. 29-08 29-08 Abrir aquí Aviso A455 Viento normal a moderado en pampa de la región.30-08 30-08 30-08 Abrir aquí En consideración a estos antecedentes y en coordinación con la De",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-08-28T16:38:22.2222-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "13005f074ca7",
    "nivel": "ATP",
    "tipo": "evento meteorológico",
@@ -601,20 +615,6 @@
    "regiones_extra": []
   },
   {
-   "id": "0acf041b831b",
-   "nivel": "ROJA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la Provincia de Iquique y comuna de Huara por evento meteorológico",
-   "descripcion": "Según la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso A388-11 Viento normal a moderado con probabilidad de tormentas de arena en pampa, precordillera y cordillera. 19-08 19-08 Abrir aquí Aviso A433 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 19-08 19-08 Abrir Aquí Asimismo, ha sido cancelado el siguiente alertamiento meteorológico, debido al debilitamiento de las condiciones meteorológicas que",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-19T13:18:39.3939-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "63a5df538707",
    "nivel": "ATP",
    "tipo": "viento",
@@ -680,7 +680,7 @@
    "descripcion": "¡ATENCIÓN!     \nPor peligro de aluvión se solicita EVACUAR sectores ZOFRI Barrio Industrial y Marinero Desconocido en la comuna de #Iquique, Región de Tarapacá.      \nPara reforzar los procesos de evacuación #SENAPRED activó Mensajería #SAE.   \nMantén la calma y sigue las indicaciones de las autoridades y organismos en terreno. Al momento de evacuar recuerda considerar a tu mascota y sus necesidades.       \nMás información en: https://web.senapred.cl/dimension-animal/",
    "region": "Tarapacá",
    "comunas": [],
-   "estado": "CANCELADA",
+   "estado": "EXPIRADA",
    "ts": "2026-08-18T20:30:18+00:00",
    "url": "https://t.me/SenapredChile/1551",
    "origen": "telegram",
@@ -2762,7 +2762,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por incendio forestal #SENAPRED solicita evacuar calles Arturo Prat y O'Higgins (Poblado de Camiña), en la comuna de #Camiña, Región de Tarapacá.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE. \nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.\nMás información en https://web.senapred.cl/dimension-animal/",
    "region": "Tarapacá",
    "comunas": [],
-   "estado": "CANCELADA",
+   "estado": "EXPIRADA",
    "ts": "2026-07-17T19:40:26+00:00",
    "url": "https://t.me/SenapredChile/1291",
    "origen": "telegram",
