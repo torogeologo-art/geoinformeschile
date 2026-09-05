@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-05T13:00:31+00:00",
+ "generado": "2026-09-05T15:56:43+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,50 @@
  },
  "total_vigentes": 13,
  "alertas": [
+  {
+   "id": "a36ce035212f",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Torres del Paine por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por Centro Meteorológico Regional Austral , dependiente de la Dirección Meteorológica de Chile (DMC), a través de su Pronóstico Meteorológico Especial emitido durante la presente jornada, en donde indica el debilitamiento de las condiciones meteorológicas adversas para la zona del paso “John Gardner” en el Parque Nacional Torres del Paine de la Región de Magallanes y de la Antártica Chilena. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED c ancela la Alerta Tem",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-05T11:35:46.4646-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-evento-meteorologico-2026-09-02-16-42-55",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "a839ad75b219",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se modifica cobertura Alerta Temprana Preventiva para las provincias de Concepción y Arauco por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA155 Viento moderado a fuerte con dirección Este (Raco, Puelche) en valle, precordillera y cordillera. 05-09 06-09 Abrir aquí Aviso A465-2 Viento normal a moderado con dirección Este (Raco, Puelche) en litoral y cordillera de la costa. 05-09 06-09 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-05T09:45:00.000-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-viento-2026-09-03-12-00-06",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e637a9331518",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Amarilla para la Provincia del Biobío por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA155 Viento moderado a fuerte con viento de dirección Este (Raco, Puelche) en cordillera. 05-09 06-09 Abrir aquí Aviso A465-2 Viento normal a moderado con viento de dirección Este (Raco, Puelche) en precordillera. 05-09 06-09 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Region",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-05T09:39:03.033-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-viento-2026-09-05-09-41-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "f2cd9ebaa0ff",
    "nivel": "AMARILLA",
@@ -193,20 +237,6 @@
    "regiones_extra": []
   },
   {
-   "id": "0c372c650669",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Biobío por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA155 Viento moderado a fuerte con viento de dirección Este (Raco, Puelche) en valle, precordillera y cordillera. 05-09 06-09 Abrir aquí Aviso A465-2 Viento normal a moderado con viento de dirección Este (Raco, Puelche) en litoral y cordillera de la costa. 05-09 06-09 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-03T11:59:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-viento-2026-09-03-12-00-06",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "dcf1e826381f",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -233,22 +263,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-09-01-17-05-58",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "9d2a7504bc60",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la comuna de Torres del Paine por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), según su Pronóstico Meteorológico Especial emitido por Centro Meteorológico Regional Austral, se indica que desde la tarde de hoy miércoles 02 y hasta la tarde del jueves 03 de septiembre, se pronostican nevadas y viento de intensidad moderado a fuerte (hasta 120 km/h) para la zona del paso “John Gardner” en el Parque Nacional Torres del Paine de la Región de Magallanes y de la Antártica Chilena. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Magallanes, la Di",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-02T16:42:23.2323-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-evento-meteorologico-2026-09-02-16-42-55",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "285cfb567f16",
