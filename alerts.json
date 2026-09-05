@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-05T05:31:24+00:00",
+ "generado": "2026-09-05T09:16:32+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 13,
  "alertas": [
+  {
+   "id": "f2cd9ebaa0ff",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica cobertura y evento de Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A467-1 Viento normal a moderado con probabilidad de ventisca en cordillera. 05-09 08-09 Abrir aquí Adicionalmente, la DMC ha cancelado los siguientes alertamientos meteorológicos, debido al debilitamiento de la condiciones que los originaron: Alertamiento Pronóstico Aviso A466 Viento normal a moderado con probabilidad de tormentas de arena en litoral de la Provincia de H",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-05T03:07:08.088-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "d7f5a6b57dec",
    "nivel": "ATP",
@@ -133,20 +147,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-03T18:20:32.3232-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-la-union-por-crecida-2026-08-05-12-03-46",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a6e8c26091a3",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A466 Viento normal a moderado con probabilidad de tormentas de arena en litoral de la Provincia de Huasco. 04-09 04-09 Abrir aquí Aviso A467-1 Viento normal a moderado con probabilidad de ventisca en cordillera. 05-09 08-09 Abrir aquí Aviso A468 Altas temperaturas en cordillera de la costa y sectores de valles y pampa. 04-09 04-09 Abrir aquí En consideración a esto",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-03T13:56:49.4949-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34",
    "origen": "senapred_web",
    "regiones_extra": []
   },
