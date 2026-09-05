@@ -1,32 +1,32 @@
 {
- "generado": "2026-09-04T22:59:57+00:00",
+ "generado": "2026-09-05T00:52:32+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "25-08-2026",
-  "hasta": "04-09-2026"
+  "desde": "26-08-2026",
+  "hasta": "05-09-2026"
  },
  "totales": {
-  "alertas": 82,
+  "alertas": 80,
   "sae": 0,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 58,
+   "ATP": 56,
    "AMARILLA": 15,
    "ROJA": 9
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    42
-   ],
-   [
-    "viento",
-    13
+    41
    ],
    [
     "crecida de río",
     13
+   ],
+   [
+    "viento",
+    12
    ],
    [
     "evento meteorológico",
@@ -60,15 +60,6 @@
     "ts": "26-08",
     "comuna_link": "",
     "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "25-08",
-    "comuna_link": "",
-    "region_link": "los rios"
    },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -105,6 +96,15 @@
     "ts": "26-08",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "26-08",
+    "comuna_link": "",
+    "region_link": "los rios"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -152,6 +152,53 @@
     "region_link": "atacama"
    }
   ],
+  "crecida de río": [
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "27-08",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "29-08",
+    "comuna_link": "",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "26-08",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "03-09",
+    "comuna_link": "",
+    "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "01-09",
+    "comuna_link": "",
+    "region_link": "aysen del general carlos ibanez del campo"
+   }
+  ],
   "viento": [
    {
     "lugar": "Región de Atacama",
@@ -176,7 +223,7 @@
     "region": "Maule",
     "nivel": "ATP",
     "sae": false,
-    "ts": "25-08",
+    "ts": "02-09",
     "comuna_link": "",
     "region_link": "maule"
    },
@@ -233,53 +280,6 @@
     "ts": "04-09",
     "comuna_link": "",
     "region_link": "los lagos"
-   }
-  ],
-  "crecida de río": [
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "27-08",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "29-08",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "26-08",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "03-09",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
-    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-    "region": "Aysén del General Carlos Ibáñez del Campo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "01-09",
-    "comuna_link": "",
-    "region_link": "aysen del general carlos ibanez del campo"
    }
   ],
   "evento meteorológico": [
@@ -385,7 +385,7 @@
    "fecha": "2026-08-25",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 4,
+   "ATP": 2,
    "sae": 0
   },
   {
@@ -636,7 +636,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "25-08 19:56",
+     "ts": "26-08 16:52",
      "estado": "VIGENTE"
     },
     {
