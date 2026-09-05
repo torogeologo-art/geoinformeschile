@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-05T20:26:26+00:00",
+ "generado": "2026-09-05T22:13:05+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "26-08-2026",
@@ -18,11 +18,11 @@
   "por_tipo": [
    [
     "tormentas eléctricas",
-    37
+    36
    ],
    [
     "viento",
-    15
+    16
    ],
    [
     "crecida de río",
@@ -69,15 +69,6 @@
     "ts": "05-09",
     "comuna_link": "",
     "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "26-08",
-    "comuna_link": "",
-    "region_link": "los rios"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -150,6 +141,15 @@
     "ts": "29-08",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "30-08",
+    "comuna_link": "",
+    "region_link": "los rios"
    }
   ],
   "viento": [
@@ -385,7 +385,7 @@
    "fecha": "2026-08-26",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 2,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -455,7 +455,7 @@
    "fecha": "2026-09-05",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 3,
+   "ATP": 4,
    "sae": 0
   }
  ],
@@ -664,8 +664,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "26-08 16:52",
-     "estado": "VIGENTE"
+     "ts": "30-08 07:56",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "AMARILLA",
@@ -676,6 +676,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "05-09 17:28",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02"
+  },
   {
    "ts": "05-09 15:12",
    "nivel": "ATP",
@@ -792,15 +801,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-san-clemente-colbun-linares-longavi-retiro-y-parral-por-viento-2026-09-02-08-35-55"
-  },
-  {
-   "ts": "03-09 18:20",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Los Ríos",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-la-union-por-crecida-2026-08-05-12-03-46"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
