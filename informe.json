@@ -1,24 +1,24 @@
 {
- "generado": "2026-09-05T00:52:32+00:00",
+ "generado": "2026-09-05T05:31:26+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "26-08-2026",
   "hasta": "05-09-2026"
  },
  "totales": {
-  "alertas": 80,
+  "alertas": 78,
   "sae": 0,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 56,
    "AMARILLA": 15,
-   "ROJA": 9
+   "ROJA": 9,
+   "ATP": 54
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    41
+    39
    ],
    [
     "crecida de río",
@@ -62,24 +62,6 @@
     "region_link": "antofagasta"
    },
    {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "25-08",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "25-08",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
     "lugar": "Región de Metropolitana de Santiago",
     "region": "Metropolitana de Santiago",
     "nivel": "ATP",
@@ -116,6 +98,15 @@
     "region_link": "los lagos"
    },
    {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "27-08",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
     "lugar": "Región de Tarapacá",
     "region": "Tarapacá",
     "nivel": "ATP",
@@ -141,6 +132,15 @@
     "ts": "28-08",
     "comuna_link": "",
     "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "29-08",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
    },
    {
     "lugar": "Región de Atacama",
@@ -382,13 +382,6 @@
  },
  "serie": [
   {
-   "fecha": "2026-08-25",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 2,
-   "sae": 0
-  },
-  {
    "fecha": "2026-08-26",
    "ROJA": 1,
    "AMARILLA": 3,
@@ -590,7 +583,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "25-08 23:27",
+     "ts": "27-08 18:16",
      "estado": "VIGENTE"
     },
     {
