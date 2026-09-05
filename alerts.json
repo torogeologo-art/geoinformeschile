@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-04T22:59:54+00:00",
+ "generado": "2026-09-05T00:50:44+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,22 @@
  },
  "total_vigentes": 13,
  "alertas": [
+  {
+   "id": "d7f5a6b57dec",
+   "nivel": "ATP",
+   "tipo": "actividad volcánica",
+   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue, en la Región de La Araucanía y para la comuna de Panguipulli, en la Región de Los Ríos, por actividad del volcán Villarrica",
+   "descripcion": "El Observatorio Volcanológico de Los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN) , mediante su Reporte de Actividad Volcánica (REAV) emitido durante la presente jornada para el Volcán Villarrica, indica que se modifica el nivel de alerta técnica a Amarillo . En relación con el Reporte Especial de Actividad Volcánica (REAV) , se informa que el Volcán Villarrica durante agosto y los primeros días de septiembre, presentó un aumento destacado de la actividad sísmica y superficial respecto de sus niveles base. El tamaño de la señal sísmica continua (RSAM, por su",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-04T19:26:33.3333-04:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Los Ríos"
+   ]
+  },
   {
    "id": "e5cd2b07517f",
    "nivel": "ATP",
@@ -75,20 +91,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-04T15:35:16.1616-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1bef7f88617c",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Carahue, Cholchol, Freire, Galvarino, Gorbea, Lautaro, Loncoche, Nueva Imperial, Padre Las Casas, Perquenco, Pitrufquén, Puerto Saavedra, Temuco, Teodoro Schmidt, Toltén, Angol, Ercilla, Los Sauces, Lumaco, Purén, Renaico, Traiguén y Victoria por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA155 Viento moderado a fuerte con viento de dirección Este (Raco, Puelche) en cordillera. 05-09 06-09 Abrir aquí Aviso A465-2 Viento normal a moderado con viento de dirección Este (Raco, Puelche) en precordillera. 05-09 06-09 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Direcci",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-04T13:27:33.3333-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-carahue-cholchol-freire-galvarino-gorbea-lautaro-loncoche-nueva-imperial-padre-las-casas-perquenco-pitrufquen-puerto-saavedra-temuco-teodoro-schmidt-tolten-angol-ercilla-los-sauces-lumaco-puren-renaico-traiguen-y-victoria-por-viento-2026-09-04-13-28-39",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1298,62 +1300,6 @@
    "sae": true
   },
   {
-   "id": "852dfc0880c6",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , ha sido cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta, debido al debilitamiento de las condiciones que lo originaron: Alertamiento Pronóstico Aviso A379-1 Altas temperaturas en pampa. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por Altas Temperaturas para las comunas de Antofagasta, Sierra Gorda y María Elena , la cual se mantuvo vig",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-05T20:40:56.5656-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-08-03-18-40-17",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "5b6c035b20d8",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para la Provincia de Osorno por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas en la Provincia de Osorno se encuentran en umbral verde, con una tendencia sostenida a la disminución de sus caudales. De igual forma mediante observación de campo, las autoridades provinciales e integrantes del SINAPRED indican un descenso en los niveles de caudal en aquellos sectores donde no existen estaciones hidrométricas de la DGA. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED cancel",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-05T17:03:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-de-osorno-por-crecida-2026-07-31-16-48-56",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "57d610bf80a4",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para las comunas de Pinto, Coihueco y Chillán Viejo por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo de la región mantienen sus caudales por debajo del umbral de alerta. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida para las comunas de Pinto, Coihueco y Chillán Viejo, que se mantuvo vigente desde el 31 de julio de 2026.",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-05T11:45:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-quillon-por-crecida-2026-07-31-17-01-27",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "50942ff8893f",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Roja para las comunas de Yungay, Pemuco, Bulnes, Quillón, Chillán, Ránquil, Portezuelo, Coelemu, Trehuaco, Ninhue y San Nicolás por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo de la región mantienen sus caudales por debajo del umbral de alerta. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED cancela la Alerta Roja por crecida para las comunas de Yungay, Pemuco, Bulnes, Quillón, Chillán, Ránquil, Portezuelo, Coelemu, Trehuaco, Ninhue y San Nicolás , que se mantuvo vigente desde el 31 de julio de 2026.",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-05T11:41:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-ninhue-san-nicolas-portezuelo-y-trehuaco-por-crecida-2026-07-31-08-42-37",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "84d3d7b15a9a",
    "nivel": "ROJA",
    "tipo": "crecida de río",
@@ -1862,7 +1808,7 @@
    "descripcion": "¡ATENCIÓN! Por alerta de crecida del Río Perquilauquén #SENAPRED hace un llamado a evitar acercarse a la ribera de dicho río en las comunas de #SanFabián y #Ñiquén, Región de Ñuble.\nPara reforzar el alertamiento preventivo, #SENAPRED activó mensajería #SAE.",
    "region": "Ñuble",
    "comunas": [],
-   "estado": "CANCELADA",
+   "estado": "EXPIRADA",
    "ts": "2026-07-27T01:27:10+00:00",
    "url": "https://t.me/SenapredChile/1442",
    "origen": "telegram",
