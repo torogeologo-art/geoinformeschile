@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-06T16:07:36+00:00",
+ "generado": "2026-09-06T17:44:10+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 13,
+ "total_vigentes": 12,
  "alertas": [
+  {
+   "id": "40ff89224f8e",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Panguipulli, Futrono, Río Bueno y Lago Ranco por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Alerta AA155 Viento moderado a fuerte con viento de dirección Este (Raco, Puelche) en cordillera. Aviso A465-2 Viento normal a moderado con viento de dirección Este (Raco, Puelche) en precordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED Cancela Alerta Temprana Preventiva para las comunas",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-06T13:22:19.1919-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-panguipulli-futrono-rio-bueno-y-lago-ranco-por-viento-2026-09-03-13-12-27",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "0fd5776b2a73",
    "nivel": "AMARILLA",
@@ -219,20 +233,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-03T13:36:56.5656-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-lonquimay-curacautin-vilcun-cunco-collipulli-melipeuco-curarrehue-villarrica-y-pucon-por-viento-2026-09-03-13-38-02",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "abc5b11700af",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Panguipulli, Futrono, Río Bueno y Lago Ranco por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA155 Viento moderado a fuerte con viento de dirección Este (Raco, Puelche) en cordillera. 05-09 06-09 Abrir aquí Aviso A465-2 Viento normal a moderado con viento de dirección Este (Raco, Puelche) en precordillera. 05-09 06-09 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regio",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-03T13:10:36.3636-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-panguipulli-futrono-rio-bueno-y-lago-ranco-por-viento-2026-09-03-13-12-27",
    "origen": "senapred_web",
    "regiones_extra": []
   },
