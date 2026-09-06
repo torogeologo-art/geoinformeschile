@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-05T23:58:16+00:00",
+ "generado": "2026-09-06T03:55:25+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -1218,20 +1218,6 @@
    "url": "https://t.me/SenapredChile/1511",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "32e1cf9ea7be",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para las comunas de Lanco, Mariquina y Panguipulli por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , se indica que las estaciones hidrométricas “Río Leufucade en Purulón” y “Río Cruces en Rucaco” presentan una disminución en su caudal a rangos normales. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela la Alerta Amarilla para las comunas de Lanco, Mariquina y Panguipulli por crecida , que se mantuvo vigente desde el 31 de julio de 2026.",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-06T01:40:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-lanco-y-panguipulli-por-crecida-2026-07-31-04-26-55",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "43c2eab035bd",
