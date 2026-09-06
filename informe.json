@@ -1,17 +1,17 @@
 {
- "generado": "2026-09-06T18:20:37+00:00",
+ "generado": "2026-09-06T20:43:58+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "27-08-2026",
   "hasta": "06-09-2026"
  },
  "totales": {
-  "alertas": 74,
+  "alertas": 75,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 54,
+   "ATP": 55,
    "ROJA": 7,
    "AMARILLA": 13
   },
@@ -22,7 +22,7 @@
    ],
    [
     "viento",
-    19
+    20
    ],
    [
     "crecida de río",
@@ -464,7 +464,7 @@
    "fecha": "2026-09-06",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 2,
+   "ATP": 3,
    "sae": 0
   }
  ],
@@ -686,6 +686,15 @@
  ],
  "cronologia": [
   {
+   "ts": "06-09 16:41",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02"
+  },
+  {
    "ts": "06-09 15:10",
    "nivel": "ATP",
    "lugar": "Región de Antofagasta",
@@ -801,15 +810,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-heladas-2026-09-04-15-44-36"
-  },
-  {
-   "ts": "04-09 15:35",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

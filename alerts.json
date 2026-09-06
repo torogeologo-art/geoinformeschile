@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-06T19:36:26+00:00",
+ "generado": "2026-09-06T20:43:33+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 13,
  "alertas": [
+  {
+   "id": "cfbcfe482fda",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se modifica evento de Alerta Temprana Preventiva para la Región de Los Lagos a Heladas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se pronostican temperaturas mínimas entre los -2 y los 5 °C en la región entre el lunes 07 y el martes 08 de septiembre. Por otra parte, se ha Cancelado el Aviso Meteorológico A465-3 que pronosticó Viento normal a moderado con viento de dirección Este (Raco, Puelche) en precordillera y cordillera de la región, debido al debilitamiento de las condiciones meteorológicas que lo originaron. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Reg",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-06T16:41:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "d8097143c021",
    "nivel": "ATP",
@@ -63,20 +77,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-05T19:53:10.1010-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a59283583e17",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A465-3 Viento normal a moderado con viento de dirección Este (Raco, Puelche) en precordillera y cordillera. 05-09 06-09 Abrir aquí Cabe señalar que, se han cancelado los siguientes alertamientos meteorológicos para la región, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Alerta AA156 Heladas moderadas a intensas",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-05T17:28:15.1515-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02",
    "origen": "senapred_web",
    "regiones_extra": []
   },
