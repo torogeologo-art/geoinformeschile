@@ -1,28 +1,28 @@
 {
- "generado": "2026-09-06T20:43:58+00:00",
+ "generado": "2026-09-06T22:26:00+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "27-08-2026",
   "hasta": "06-09-2026"
  },
  "totales": {
-  "alertas": 75,
+  "alertas": 76,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
    "ATP": 55,
    "ROJA": 7,
-   "AMARILLA": 13
+   "AMARILLA": 14
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    35
+    34
    ],
    [
     "viento",
-    20
+    22
    ],
    [
     "crecida de río",
@@ -71,15 +71,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "27-08",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
     "lugar": "Región de Tarapacá",
     "region": "Tarapacá",
     "nivel": "ATP",
@@ -87,6 +78,15 @@
     "ts": "27-08",
     "comuna_link": "",
     "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "28-08",
+    "comuna_link": "",
+    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Ñuble",
@@ -385,8 +385,8 @@
  },
  "vigentes": {
   "ROJA": 0,
-  "AMARILLA": 5,
-  "ATP": 8,
+  "AMARILLA": 4,
+  "ATP": 7,
   "regiones_roja": []
  },
  "serie": [
@@ -394,7 +394,7 @@
    "fecha": "2026-08-27",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 3,
+   "ATP": 2,
    "sae": 0
   },
   {
@@ -463,8 +463,8 @@
   {
    "fecha": "2026-09-06",
    "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 3,
+   "AMARILLA": 2,
+   "ATP": 4,
    "sae": 0
   }
  ],
@@ -542,16 +542,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "AMARILLA",
-     "ts": "29-08 13:39",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "29-08 23:50",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "ATP",
      "ts": "31-08 12:41",
      "estado": "CANCELADA"
@@ -565,29 +555,16 @@
      "nivel": "ATP",
      "ts": "05-09 09:45",
      "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de La Araucanía",
-   "region": "La Araucanía",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "27-08 18:16",
-     "estado": "VIGENTE"
     },
     {
      "nivel": "AMARILLA",
-     "ts": "03-09 13:36",
-     "estado": "VIGENTE"
+     "ts": "06-09 18:37",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "ATP",
-     "ts": "04-09 13:27",
-     "estado": "VIGENTE"
+     "ts": "06-09 18:41",
+     "estado": "CANCELADA"
     }
    ]
   },
@@ -611,6 +588,29 @@
      "nivel": "ATP",
      "ts": "04-09 18:26",
      "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de La Araucanía",
+   "region": "La Araucanía",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "28-08 12:01",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "03-09 13:36",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "04-09 13:27",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -685,6 +685,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "06-09 18:41",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-viento-2026-09-03-12-00-06"
+  },
+  {
+   "ts": "06-09 18:37",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Biobío",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-viento-2026-09-05-09-41-04"
+  },
   {
    "ts": "06-09 16:41",
    "nivel": "ATP",
@@ -792,24 +810,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43"
-  },
-  {
-   "ts": "04-09 18:00",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Antofagasta",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
-  },
-  {
-   "ts": "04-09 15:42",
-   "nivel": "ATP",
-   "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-heladas-2026-09-04-15-44-36"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
