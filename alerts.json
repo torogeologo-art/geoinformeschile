@@ -1,13 +1,41 @@
 {
- "generado": "2026-09-06T23:16:25+00:00",
+ "generado": "2026-09-07T00:15:59+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 10,
+ "total_vigentes": 9,
  "alertas": [
+  {
+   "id": "ed4162194ac1",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se ha cancelado el siguiente alertamiento meteorológico para la Región de Ñuble, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A465-3 Viento normal a moderado con viento de dirección Este (Raco, Puelche) en precordillera y cordillera. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por evento meteorológico",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-06T20:42:02.022-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-09-04-12-07-35",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "8a9ba8c933a9",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Carahue, Cholchol, Freire, Galvarino, Gorbea, Lautaro, Loncoche, Nueva Imperial, Padre Las Casas, Perquenco, Pitrufquén, Puerto Saavedra, Temuco, Teodoro Schmidt, Toltén, Angol, Ercilla, Los Sauces, Lumaco, Purén, Renaico, Traiguén y Victoria por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se han cancelado los siguientes alertamientos meteorológicos para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Alerta AA155 Viento moderado a fuerte con viento de dirección Este (Raco, Puelche) en cordillera. Aviso A465-3 Viento normal a moderado con viento de dirección Este (Raco, Puelche) en precordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, l",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-06T20:16:51.5151-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-carahue-cholchol-freire-galvarino-gorbea-lautaro-loncoche-nueva-imperial-padre-las-casas-perquenco-pitrufquen-puerto-saavedra-temuco-teodoro-schmidt-tolten-angol-ercilla-los-sauces-lumaco-puren-renaico-traiguen-y-victoria-por-viento-2026-09-04-13-28-39",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "dd00a59e9184",
    "nivel": "AMARILLA",
@@ -207,20 +235,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-04T15:42:07.077-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-heladas-2026-09-04-15-44-36",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "cfaf8c03f4f1",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A465-2 Viento normal a moderado con de dirección Este (Raco, Puelche) en precordillera y cordillera. 05-09 06-09 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED&nbsp; declara Alerta Temprana Preventiva Regional por evento meteorológico , vigente a contar de hoy y hasta que",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-04T12:06:18.1818-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-09-04-12-07-35",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1188,20 +1202,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-08T11:11:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-crecida-2026-07-27-02-52-32",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "fc714b0d26df",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Isla de Pascua por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos para la Provincia de Isla de Pascua en la Región de Valparaíso: Alertamiento Pronóstico Alerta AA122-2 Viento moderado a fuerte en Isla de Pascua. Aviso A393 Viento normal a moderado en Isla de Pascua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED Cancela Alerta Temprana Preventiva para la provincia de Isla de Pascua por evento meteorológico , que se mantuvo v",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-07T22:52:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-07-31-17-26-47",
    "origen": "senapred_web",
    "regiones_extra": []
   },

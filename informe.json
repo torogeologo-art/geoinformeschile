@@ -1,28 +1,28 @@
 {
- "generado": "2026-09-06T22:26:00+00:00",
+ "generado": "2026-09-07T00:16:02+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "27-08-2026",
-  "hasta": "06-09-2026"
+  "desde": "28-08-2026",
+  "hasta": "07-09-2026"
  },
  "totales": {
-  "alertas": 76,
+  "alertas": 78,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 55,
+   "ATP": 56,
    "ROJA": 7,
-   "AMARILLA": 14
+   "AMARILLA": 15
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    34
+    33
    ],
    [
     "viento",
-    22
+    25
    ],
    [
     "crecida de río",
@@ -71,15 +71,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "27-08",
-    "comuna_link": "",
-    "region_link": "tarapaca"
-   },
-   {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
     "nivel": "ATP",
@@ -96,6 +87,15 @@
     "ts": "28-08",
     "comuna_link": "",
     "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "28-08",
+    "comuna_link": "",
+    "region_link": "tarapaca"
    },
    {
     "lugar": "Región de Maule",
@@ -385,8 +385,8 @@
  },
  "vigentes": {
   "ROJA": 0,
-  "AMARILLA": 4,
-  "ATP": 7,
+  "AMARILLA": 3,
+  "ATP": 6,
   "regiones_roja": []
  },
  "serie": [
@@ -394,7 +394,7 @@
    "fecha": "2026-08-27",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 2,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -463,8 +463,8 @@
   {
    "fecha": "2026-09-06",
    "ROJA": 0,
-   "AMARILLA": 2,
-   "ATP": 4,
+   "AMARILLA": 3,
+   "ATP": 6,
    "sae": 0
   }
  ],
@@ -569,29 +569,6 @@
    ]
   },
   {
-   "lugar": "Región de Tarapacá",
-   "region": "Tarapacá",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "27-08 18:52",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "04-09 18:01",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "04-09 18:26",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
    "lugar": "Región de La Araucanía",
    "region": "La Araucanía",
    "sae": false,
@@ -611,6 +588,16 @@
      "nivel": "ATP",
      "ts": "04-09 13:27",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "06-09 20:13",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "06-09 20:16",
+     "estado": "CANCELADA"
     }
    ]
   },
@@ -633,6 +620,29 @@
     {
      "nivel": "ATP",
      "ts": "30-08 16:37",
+     "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Tarapacá",
+   "region": "Tarapacá",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "28-08 16:38",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "04-09 18:01",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "04-09 18:26",
      "estado": "CANCELADA"
     }
    ]
@@ -685,6 +695,33 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "06-09 20:42",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-09-04-12-07-35"
+  },
+  {
+   "ts": "06-09 20:16",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-carahue-cholchol-freire-galvarino-gorbea-lautaro-loncoche-nueva-imperial-padre-las-casas-perquenco-pitrufquen-puerto-saavedra-temuco-teodoro-schmidt-tolten-angol-ercilla-los-sauces-lumaco-puren-renaico-traiguen-y-victoria-por-viento-2026-09-04-13-28-39"
+  },
+  {
+   "ts": "06-09 20:13",
+   "nivel": "AMARILLA",
+   "lugar": "Región de La Araucanía",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-lonquimay-curacautin-vilcun-cunco-collipulli-melipeuco-curarrehue-villarrica-y-pucon-por-viento-2026-09-03-13-38-02"
+  },
   {
    "ts": "06-09 18:41",
    "nivel": "ATP",
@@ -783,33 +820,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-viento-2026-09-05-09-41-04"
-  },
-  {
-   "ts": "05-09 03:07",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Atacama",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34"
-  },
-  {
-   "ts": "04-09 18:26",
-   "nivel": "ATP",
-   "lugar": "Región de Tarapacá",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-tarapaca-por-evento-meteorologico-2026-08-08-18-31-31"
-  },
-  {
-   "ts": "04-09 18:01",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Tarapacá",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-evento-meteorologico-2026-08-15-23-00-43"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
