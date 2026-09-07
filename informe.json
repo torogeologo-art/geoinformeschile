@@ -1,17 +1,17 @@
 {
- "generado": "2026-09-07T10:22:52+00:00",
+ "generado": "2026-09-07T16:00:23+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "28-08-2026",
   "hasta": "07-09-2026"
  },
  "totales": {
-  "alertas": 77,
+  "alertas": 78,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 55,
+   "ATP": 56,
    "ROJA": 7,
    "AMARILLA": 15
   },
@@ -30,7 +30,7 @@
    ],
    [
     "evento meteorológico",
-    6
+    7
    ],
    [
     "otros",
@@ -386,7 +386,7 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 3,
-  "ATP": 6,
+  "ATP": 5,
   "regiones_roja": []
  },
  "serie": [
@@ -458,6 +458,13 @@
    "ROJA": 0,
    "AMARILLA": 3,
    "ATP": 6,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-09-07",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   }
  ],
@@ -689,6 +696,15 @@
  ],
  "cronologia": [
   {
+   "ts": "07-09 11:58",
+   "nivel": "ATP",
+   "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-heladas-2026-09-04-15-44-36"
+  },
+  {
    "ts": "06-09 20:42",
    "nivel": "ATP",
    "lugar": "Región de Ñuble",
@@ -804,15 +820,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-viento-2026-09-03-12-00-06"
-  },
-  {
-   "ts": "05-09 09:39",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Biobío",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-viento-2026-09-05-09-41-04"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
