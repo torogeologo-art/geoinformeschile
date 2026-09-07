@@ -1,13 +1,43 @@
 {
- "generado": "2026-09-07T22:43:21+00:00",
+ "generado": "2026-09-07T23:42:26+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 8,
+ "total_vigentes": 9,
  "alertas": [
+  {
+   "id": "fa6572fd94a5",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del complejo volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarilla [ 1] . En relación con el Reporte de Actividad Volcánica (RAV), se indica que entre el 16 y el 31 de agosto, el Complejo Volcánico Nevados de Chillán, mantuvo una actividad sísmica por sobre sus niveles de base, caracterizada por una alta ocurrencia de señales asociadas a la dinámica de fluidos, junto con sismicidad volcano-tectónica superficial",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-07T20:20:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ad3091f25bcc",
+   "nivel": "ATP",
+   "tipo": "actividad volcánica",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue, en la Región de La Araucanía y para la comuna de Panguipulli, en la Región de Los Ríos por actividad del volcán Villarrica",
+   "descripcion": "D e acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS)&nbsp;del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el volcán Villarrica mantiene la alerta técnica en nivel Amarilla [1] . En relación con el&nbsp; Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, indica que, entre el 01 al 31 de agosto, se indica que dadas las características de un sistema volcánico de conducto abierto, no es posible descartar explosiones súbitas y sin precursores. De acuerdo con lo observado en períodos anteriores, el impacto de",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-07T20:16:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Los Ríos"
+   ]
+  },
   {
    "id": "23aa8716648b",
    "nivel": "AMARILLA",
@@ -206,22 +236,6 @@
    "origen": "senapred_web",
    "regiones_extra": [
     "de la Antártica Chilena"
-   ]
-  },
-  {
-   "id": "d7f5a6b57dec",
-   "nivel": "ATP",
-   "tipo": "actividad volcánica",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue, en la Región de La Araucanía y para la comuna de Panguipulli, en la Región de Los Ríos, por actividad del volcán Villarrica",
-   "descripcion": "El Observatorio Volcanológico de Los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN) , mediante su Reporte de Actividad Volcánica (REAV) emitido durante la presente jornada para el Volcán Villarrica, indica que se modifica el nivel de alerta técnica a Amarillo . En relación con el Reporte Especial de Actividad Volcánica (REAV) , se informa que el Volcán Villarrica durante agosto y los primeros días de septiembre, presentó un aumento destacado de la actividad sísmica y superficial respecto de sus niveles base. El tamaño de la señal sísmica continua (RSAM, por su",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-04T19:26:33.3333-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Los Ríos"
    ]
   },
   {
@@ -627,20 +641,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-19T19:49:45.4545-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-08-12-11-48-30",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "223ca87e0ec5",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarilla [1] . En relación con el Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, se indica que entre el 01 y el 15 de agosto, el Complejo Volcánico Nevados de Chillán presentó actividad sísmica de baja energía y reducida tasa de ocurrencia. No obstante, se registraron pulsos de tremor continuo de distinta frecuencia, sismicida",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-08-19T18:18:54.5454-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
    "origen": "senapred_web",
    "regiones_extra": []
   },
