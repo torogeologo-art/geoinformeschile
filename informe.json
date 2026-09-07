@@ -1,28 +1,28 @@
 {
- "generado": "2026-09-07T16:00:23+00:00",
+ "generado": "2026-09-07T19:53:21+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "28-08-2026",
   "hasta": "07-09-2026"
  },
  "totales": {
-  "alertas": 78,
+  "alertas": 79,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 56,
-   "ROJA": 7,
-   "AMARILLA": 15
+   "ATP": 55,
+   "AMARILLA": 17,
+   "ROJA": 7
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    33
+    32
    ],
    [
     "viento",
-    25
+    28
    ],
    [
     "crecida de río",
@@ -35,10 +35,6 @@
    [
     "otros",
     2
-   ],
-   [
-    "remoción en masa",
-    1
    ],
    [
     "aluvión",
@@ -69,15 +65,6 @@
     "ts": "05-09",
     "comuna_link": "",
     "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "28-08",
-    "comuna_link": "",
-    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Ñuble",
@@ -150,6 +137,15 @@
     "ts": "30-08",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "30-08",
+    "comuna_link": "",
+    "region_link": "la araucania"
    }
   ],
   "viento": [
@@ -349,17 +345,6 @@
     "region_link": "los rios"
    }
   ],
-  "remoción en masa": [
-   {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "28-08",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   }
-  ],
   "aluvión": [
    {
     "lugar": "Región de Los Lagos",
@@ -386,7 +371,7 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 3,
-  "ATP": 5,
+  "ATP": 4,
   "regiones_roja": []
  },
  "serie": [
@@ -394,7 +379,7 @@
    "fecha": "2026-08-28",
    "ROJA": 1,
    "AMARILLA": 1,
-   "ATP": 6,
+   "ATP": 4,
    "sae": 0
   },
   {
@@ -463,8 +448,8 @@
   {
    "fecha": "2026-09-07",
    "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
+   "AMARILLA": 2,
+   "ATP": 2,
    "sae": 0
   }
  ],
@@ -576,8 +561,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "28-08 12:01",
-     "estado": "VIGENTE"
+     "ts": "30-08 11:24",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "AMARILLA",
@@ -696,6 +681,33 @@
  ],
  "cronologia": [
   {
+   "ts": "07-09 14:35",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-09-02-16-27-21"
+  },
+  {
+   "ts": "07-09 13:18",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Atacama",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34"
+  },
+  {
+   "ts": "07-09 12:32",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Arica y Parinacota",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59"
+  },
+  {
    "ts": "07-09 11:58",
    "nivel": "ATP",
    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
@@ -793,33 +805,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02"
-  },
-  {
-   "ts": "05-09 15:12",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-09-02-16-27-21"
-  },
-  {
-   "ts": "05-09 11:35",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-evento-meteorologico-2026-09-02-16-42-55"
-  },
-  {
-   "ts": "05-09 09:45",
-   "nivel": "ATP",
-   "lugar": "Región de Biobío",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-viento-2026-09-03-12-00-06"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
