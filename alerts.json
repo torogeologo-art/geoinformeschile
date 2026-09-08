@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-07T23:42:26+00:00",
+ "generado": "2026-09-08T00:43:59+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -1188,20 +1188,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-09T13:54:03.033-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-04-17-37-43",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "cf099ba1c63c",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se cancela Alerta Roja para la Región del Biobío por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) de la región, las estaciones de la red hidrométrica registran un descenso gradual y sostenido en sus caudales, lo que supone una disminución del riesgo de anegamiento e inundación para la población aledaña a los cursos de agua. De acuerdo con el último informe hidrométrico, las estaciones Río Biobío en Ralco 1, Río Biobío en Desembocadura y Río Pichilo en Pichilo superan el umbral de Alerta Azul. No obstante, dichas estaciones presentan una tendencia al descenso y estabilización, manteniéndose el monitoreo cons",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-08T11:11:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-crecida-2026-07-27-02-52-32",
    "origen": "senapred_web",
    "regiones_extra": []
   },
