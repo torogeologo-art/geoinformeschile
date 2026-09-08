@@ -1,12 +1,12 @@
 {
- "generado": "2026-09-08T23:26:30+00:00",
+ "generado": "2026-09-08T23:41:54+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 9,
+ "total_vigentes": 8,
  "alertas": [
   {
    "id": "39649e4a2f2f",
@@ -346,7 +346,7 @@
    "descripcion": "De acuerdo con la información técnica proporcionada por la Dirección General de Aguas (DGA) , mediante su minuta técnica N°1 de hoy 01 de septiembre, se informa que la situación del Lago HPN4 localizado al sur de Campos de Hielo Norte indica lo siguiente: Monitoreo del lago : los registros de la cámara óptica remota y los datos continuos de la estación DGA confirman un proceso activo de llenado y aumento del nivel de agua en el lago glacial. Situación actual : el lago presenta niveles elevados de agua, existiendo una amenaza latente de descarga súbita. Al momento, se estima que faltan unos 11",
    "region": "Aysén del General Carlos Ibáñez del Campo",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-09-01T19:27:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-tortel-por-crecida-2026-09-01-20-14-35",
    "origen": "senapred_web",
