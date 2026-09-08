@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-08T21:43:09+00:00",
+ "generado": "2026-09-08T23:26:30+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,36 @@
  },
  "total_vigentes": 9,
  "alertas": [
+  {
+   "id": "39649e4a2f2f",
+   "nivel": "AMARILLA",
+   "tipo": "otros",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por alteración sanitaria",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED de Arica y Parinacota, en base a La Minuta de Emergencia N°49 elaborada por la SEREMI de Salud de Arica y Parinacota, del 07 de abril de 2025, se indica el hallazgo del vector Aedes Aegypti , en diversos sectores de la comuna de Arica . Dicha situación, representa una condición de vulnerabilidad sanitaria persistente debido a la presencia del mosquito Aedes aegypti (vector transmisor de Dengue, Zika, Chikungunya y Fiebre Amarilla) desde el año 2016. A esta amenaza se suma el reciente hallazgo y dispersión de Aed",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-08T19:39:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-actualiza-alerta-amarilla-para-la-region-de-arica-y-parinacota-por-alteracion-sanitaria-2026-01-27-13-44-49",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
+  {
+   "id": "1f00952b5aa9",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por Heladas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) mediante su Pronóstico Público, no se esperan temperaturas mínimas de relevancia para los próximos días. Del mismo modo, no se esperan precipitaciones ni vientos que impliquen una condición de riesgo. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por Heladas, que se mantuvo vigente desde el 01 de septiembre de 2026.",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-08T19:03:11.1111-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "0df560c58d99",
    "nivel": "ATP",
@@ -91,20 +121,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-07T18:32:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "881532d31707",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por Heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) mediante su Pronóstico Cero Grados, se esperan temperaturas mínimas entre los 1 y los 3°C en la región entre el martes 08 y miércoles 09 de septiembre. Además, se indica la probabilidad de heladas matinales en valle, precordillera, cordillera austral y patagonia austral de la región para el día 08 de septiembre. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por Helada",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-07T17:27:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02",
    "origen": "senapred_web",
    "regiones_extra": []
   },
