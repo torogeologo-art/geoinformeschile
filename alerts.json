@@ -1,13 +1,29 @@
 {
- "generado": "2026-09-09T11:58:11+00:00",
+ "generado": "2026-09-09T16:24:29+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 8,
+ "total_vigentes": 9,
  "alertas": [
+  {
+   "id": "6896961d14af",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la comuna de Torres del Paine por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), según su Pronóstico Meteorológico Especial emitido por Centro Meteorológico Regional Austral, se indica que desde la madrugada de hoy miércoles 09 y hasta la mañana del jueves 10 de septiembre, se pronostica viento de intensidad normal a moderada, nevadas, isoterma cero hasta 0 m.s.n.m, temperaturas y sensación térmica bajo cero para la zona del paso John Gardner en el Parque Nacional Torres del Paine. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Magallanes,",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-09T10:21:44.4444-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-evento-meteorologico-2026-09-09-10-22-11",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
   {
    "id": "39649e4a2f2f",
    "nivel": "AMARILLA",
