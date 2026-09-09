@@ -1,13 +1,57 @@
 {
- "generado": "2026-09-09T16:30:43+00:00",
+ "generado": "2026-09-09T19:24:42+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 9,
+ "total_vigentes": 10,
  "alertas": [
+  {
+   "id": "98cd13e52961",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A467-7 Viento normal a moderado con probabilidad de ventiscas en cordillera. 10-09 10-09 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED mantiene la Alerta Amarilla Regional por evento meteorológico ,que se encuentra vigente desde el 16 de agosto",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-09T15:31:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
+  {
+   "id": "40708cdfd1e1",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Teno, Romeral, Curicó, Molina, Río Claro, Pelarco, San Clemente, Colbún, Linares, Longaví, Retiro y Parral por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A475-1 Probables tormentas eléctricas asociadas a chubascos aislados en precordillera y cordillera. 09-09 11-09 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por tormentas eléctricas para las comunas de Teno, Romeral, Curicó, Molina",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-09T15:25:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-rio-claro-pelarco-san-clemente-colbun-linares-longavi-retiro-y-parral-por-tormentas-electricas-2026-09-09-15-38-08",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "2479e0a03e19",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen a viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA157-1 Viento moderado a fuerte con desarrollo de ventisca en cordillera. 07-09 10-09 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Aviso A472 Probables tormentas eléctricas asociadas a chubascos aislados entre Caleta El Cobre y",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-09T15:17:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "6896961d14af",
    "nivel": "ATP",
@@ -69,20 +113,6 @@
    "regiones_extra": []
   },
   {
-   "id": "06cacc3a6017",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen a evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA157-1 Viento moderado a fuerte con desarrollo de ventisca en cordillera de la región. 08-09 10-09 Abrir aquí Aviso A472 Probables tormentas eléctricas asociadas a chubascos aislados entre Caleta El Cobre y la Provincia de Chañaral. 08-09 08-09 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-08T11:39:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "fa6572fd94a5",
    "nivel": "ATP",
    "tipo": "nevadas",
@@ -139,22 +169,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "e515798a608d",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A467-5 Viento normal a moderado con probabilidad de ventiscas en cordillera. 07-09 11-09 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED mantiene la Alerta Amarilla Regional por evento meteorológico , que se encuentra vigente desde el 16 de agos",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-07T12:32:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
   },
   {
    "id": "7d367c521cc2",
