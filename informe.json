@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-09T19:24:44+00:00",
+ "generado": "2026-09-09T21:53:12+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "30-08-2026",
@@ -9,16 +9,16 @@
   "alertas": 73,
   "sae": 0,
   "comunas": 0,
-  "regiones": 13,
+  "regiones": 14,
   "por_nivel": {
-   "AMARILLA": 18,
-   "ATP": 51,
-   "ROJA": 4
+   "ATP": 52,
+   "ROJA": 4,
+   "AMARILLA": 17
   },
   "por_tipo": [
    [
     "viento",
-    31
+    32
    ],
    [
     "tormentas eléctricas",
@@ -29,12 +29,12 @@
     9
    ],
    [
-    "crecida de río",
+    "otros",
     4
    ],
    [
-    "otros",
-    4
+    "crecida de río",
+    3
    ],
    [
     "aluvión",
@@ -163,15 +163,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "30-08",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
-   {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
     "nivel": "ATP",
@@ -224,6 +215,15 @@
     "ts": "09-09",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "09-09",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    }
   ],
   "evento meteorológico": [
@@ -273,44 +273,6 @@
     "region_link": "los lagos"
    }
   ],
-  "crecida de río": [
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "01-09",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "30-08",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "03-09",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
-    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-    "region": "Aysén del General Carlos Ibáñez del Campo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "01-09",
-    "comuna_link": "",
-    "region_link": "aysen del general carlos ibanez del campo"
-   }
-  ],
   "otros": [
    {
     "lugar": "Región de Arica y Parinacota",
@@ -338,6 +300,35 @@
     "ts": "31-08",
     "comuna_link": "",
     "region_link": "los rios"
+   }
+  ],
+  "crecida de río": [
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "01-09",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "03-09",
+    "comuna_link": "",
+    "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "01-09",
+    "comuna_link": "",
+    "region_link": "aysen del general carlos ibanez del campo"
    }
   ],
   "aluvión": [
@@ -377,15 +368,15 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 4,
-  "ATP": 6,
+  "ATP": 7,
   "regiones_roja": []
  },
  "serie": [
   {
    "fecha": "2026-08-30",
    "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 3,
+   "AMARILLA": 0,
+   "ATP": 2,
    "sae": 0
   },
   {
@@ -455,7 +446,7 @@
    "fecha": "2026-09-09",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 2,
+   "ATP": 4,
    "sae": 0
   }
  ],
@@ -603,6 +594,24 @@
  ],
  "cronologia": [
   {
+   "ts": "09-09 17:03",
+   "nivel": "ATP",
+   "lugar": "Región de Coquimbo",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-09-09-17-24-10"
+  },
+  {
+   "ts": "09-09 16:33",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-09-02-16-27-21"
+  },
+  {
    "ts": "09-09 15:31",
    "nivel": "AMARILLA",
    "lugar": "Región de Arica y Parinacota",
@@ -709,24 +718,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03"
-  },
-  {
-   "ts": "07-09 17:27",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02"
-  },
-  {
-   "ts": "07-09 14:35",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-09-02-16-27-21"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
