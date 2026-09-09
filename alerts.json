@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-09T21:55:44+00:00",
+ "generado": "2026-09-09T23:59:12+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 11,
  "alertas": [
+  {
+   "id": "2e1ec6fbd24b",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva a la Región de Atacama por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA157-1 Viento moderado a fuerte con desarrollo de ventisca en cordillera. 07-09 10-09 Abrir aquí Aviso A476 Viento normal a moderado con probabilidad de tormentas de arena en el litoral de la región. 11-09 11-09 Abrir aquí En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED modifi",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-09T20:33:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "acaa3f2d4229",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Monitoreo Alerta Amarilla para las comunas de Tocopilla y Taltal por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED, en el contexto del evento meteorológico que se desarrolló en la Región de Antofagasta, se reportan los siguientes antecedentes y novedades: Comuna Afectación a Personas Daño a Viviendas DAMNIFICADOS ALBERGADOS AISLADOS LESIONADOS DESAPARECIDOS FALLECIDOS DESTRUIDAS DAÑO MAYOR DAÑO MENOR EN EVALUACIÓN Antofagasta - - - - - - - - 21 - Mejillones - - - - - - - - - 36 Tocopilla 6 - - - - - 10 56 9.442 - Taltal - - - - - 1 - - - - Ollagüe - - - - - - - - 3 12 Total 6 - - - - 1 10 56 9.466 48 &nbsp; &nbsp; &nbsp; &nb",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-09T19:25:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "9a6d4f79b350",
    "nivel": "ATP",
@@ -63,20 +91,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-09T15:25:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-rio-claro-pelarco-san-clemente-colbun-linares-longavi-retiro-y-parral-por-tormentas-electricas-2026-09-09-15-38-08",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2479e0a03e19",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen a viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA157-1 Viento moderado a fuerte con desarrollo de ventisca en cordillera. 07-09 10-09 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Aviso A472 Probables tormentas eléctricas asociadas a chubascos aislados entre Caleta El Cobre y",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-09T15:17:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -155,20 +169,6 @@
    "regiones_extra": [
     "Los Ríos"
    ]
-  },
-  {
-   "id": "23aa8716648b",
-   "nivel": "AMARILLA",
-   "tipo": "evento meteorológico",
-   "titulo": "Monitoreo Alerta Amarilla para las comunas de Tocopilla y Taltal por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED , en el contexto del evento meteorológico que se desarrolló en la Región de Antofagasta, se reportan los siguientes antecedentes y novedades: Comuna Afectación a Personas Daño a Viviendas DAMNIFICADOS ALBERGADOS AISLADOS LESIONADOS DESAPARECIDOS FALLECIDOS DESTRUIDAS DAÑO MAYOR DAÑO MENOR EN EVALUACIÓN Antofagasta - - - - - - - - 21 - Mejillones - - - - - - - - - 36 Tocopilla 6 - - - - - 10 56 9.442 - Taltal - - - - - 1 - - - - Ollagüe - - - - - - - - 3 12 Total 6 - - - - 1 10 56 9.466 48 2. &nbsp;&nbsp;&nbsp;&n",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-07T19:22:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "d1748edba9ba",
