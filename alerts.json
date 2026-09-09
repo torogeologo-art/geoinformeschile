@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-08T23:41:54+00:00",
+ "generado": "2026-09-09T01:27:34+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -1146,64 +1146,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-10T11:29:03.033-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-lagos-y-valdivia-por-crecida-2026-07-27-17-51-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "bf75af07fae2",
-   "nivel": "AMARILLA",
-   "tipo": "otros",
-   "titulo": "Se cancela Alerta Amarilla para la comuna de Castro por accidente de infraestructura",
-   "descripcion": "De acuerdo con la información proporcionada por el Ministerio de Obras Públicas (MOP), mediante la minuta técnica elaborada por la empresa R&amp;Q, asesora de la Inspección Fiscal y del proceso de terminación de la construcción del Bypass Castro, correspondiente al tramo Ruta 5, sector Llau Llao – sector Alcaldeo, comunas de Castro y Chonchi, se informa que, los trabajos realizados en la extracción de agua por parte de la empresa antes mencionada, se ejecutaron faenas de rectificación del cauce, consistentes en el perfilado y conformación de la sección hidráulica, con el objetivo de garantizar",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-09T19:03:06.066-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-castro-por-accidente-de-infraestructura-2026-08-05-22-51-15",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e5ab3594d477",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Última Esperanza por heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado el siguiente alertamiento meteorológico para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que lo originaron. Alertamiento Pronóstico Aviso A401 Heladas normales a moderadas con probabilidad de formación de escarcha en pampa patagónica norte de la región. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por heladas para la pr",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-09T18:09:01.011-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-heladas-2026-08-07-12-27-12",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
-  },
-  {
-   "id": "383f1c7e4aec",
-   "nivel": "ATP",
-   "tipo": "marejadas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Isla de Pascua por marejadas anormales",
-   "descripcion": "De acuerdo con la información proporcionada por el Centro Meteorológico Marítimo de Valparaíso, ha finalizado la vigencia del Aviso N°36-A por marejadas anormales en el sector de Isla de Pascua de la Región de Valparaíso. Lo anterior, debido al debilitamiento de las condiciones que lo originaron. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la provincia de Isla de Pascua por marejadas anormales , que se mantuvo vigente desde el 05 de agosto de 2026.",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-09T14:13:22.2222-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-08-05-14-36-47",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "69a245f6544a",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se han cancelado los siguientes alertamientos meteorológicos para la Región Metropolitana, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Alerta AA125 Viento moderado a fuerte en precordillera y cordillera. Aviso A387-1 Viento normal a moderado, en cordillera de la costa, valle, precordillera y cordillera. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED cancel",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-09T13:54:03.033-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-04-17-37-43",
    "origen": "senapred_web",
    "regiones_extra": []
   },
