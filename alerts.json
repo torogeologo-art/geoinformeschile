@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-10T13:51:22+00:00",
+ "generado": "2026-09-10T17:14:49+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,36 @@
  },
  "total_vigentes": 12,
  "alertas": [
+  {
+   "id": "5e5cf420e183",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la comuna de Torres del Paine por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), según su Pronóstico Meteorológico Especial emitido por Centro Meteorológico Regional Austral, entre el viernes 11 y el domingo 13 de septiembre se pronostican las siguientes condiciones para la zona del paso John Gardner en el Parque Nacional Torres del Paine. Nubosidad: Nubosidad parcial variando a nublado. Viento: Velocidades estimadas entre 40 y 100 km/h. Temperaturas: min. -22°C/ máx. 0°C. Isoterma 0 °C: Elevación estimada entre 50 y 1.100 m.s.n.m. En consideración a lo anterior y en coordinación con",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-10T13:39:29.2929-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-evento-meteorologico-2026-09-09-10-22-11",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "e028d253624a",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A475-3 Probables tormentas eléctricas asociadas a chubascos aislados en cordillera de la costa, valle, precordillera y cordillera. 10-09 11-09 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Temprana Preventiva a Regional por tormenta",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-10T13:22:56.5656-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-rio-claro-pelarco-san-clemente-colbun-linares-longavi-retiro-y-parral-por-tormentas-electricas-2026-09-09-15-38-08",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "8b07026851dc",
    "nivel": "ATP",
@@ -92,36 +122,6 @@
    "origen": "senapred_web",
    "regiones_extra": [
     "Parinacota"
-   ]
-  },
-  {
-   "id": "40708cdfd1e1",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Teno, Romeral, Curicó, Molina, Río Claro, Pelarco, San Clemente, Colbún, Linares, Longaví, Retiro y Parral por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A475-1 Probables tormentas eléctricas asociadas a chubascos aislados en precordillera y cordillera. 09-09 11-09 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por tormentas eléctricas para las comunas de Teno, Romeral, Curicó, Molina",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-09T15:25:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-rio-claro-pelarco-san-clemente-colbun-linares-longavi-retiro-y-parral-por-tormentas-electricas-2026-09-09-15-38-08",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "6896961d14af",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la comuna de Torres del Paine por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), según su Pronóstico Meteorológico Especial emitido por Centro Meteorológico Regional Austral, se indica que desde la madrugada de hoy miércoles 09 y hasta la mañana del jueves 10 de septiembre, se pronostica viento de intensidad normal a moderada, nevadas, isoterma cero hasta 0 m.s.n.m, temperaturas y sensación térmica bajo cero para la zona del paso John Gardner en el Parque Nacional Torres del Paine. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Magallanes,",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-09T10:21:44.4444-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-evento-meteorologico-2026-09-09-10-22-11",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
    ]
   },
   {
