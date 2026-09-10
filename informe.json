@@ -1,18 +1,18 @@
 {
- "generado": "2026-09-10T09:32:29+00:00",
+ "generado": "2026-09-10T13:51:24+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "31-08-2026",
   "hasta": "10-09-2026"
  },
  "totales": {
-  "alertas": 72,
+  "alertas": 73,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
    "ROJA": 3,
-   "ATP": 51,
+   "ATP": 52,
    "AMARILLA": 18
   },
   "por_tipo": [
@@ -22,7 +22,7 @@
    ],
    [
     "tormentas eléctricas",
-    20
+    21
    ],
    [
     "evento meteorológico",
@@ -215,6 +215,15 @@
     "ts": "09-09",
     "comuna_link": "",
     "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "10-09",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
    }
   ],
   "evento meteorológico": [
@@ -359,7 +368,7 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 3,
-  "ATP": 8,
+  "ATP": 9,
   "regiones_roja": []
  },
  "serie": [
@@ -431,6 +440,13 @@
    "ROJA": 0,
    "AMARILLA": 3,
    "ATP": 5,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-09-10",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   }
  ],
@@ -583,6 +599,15 @@
  ],
  "cronologia": [
   {
+   "ts": "10-09 10:21",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-10-10-26-56"
+  },
+  {
    "ts": "09-09 20:33",
    "nivel": "ATP",
    "lugar": "Región de Atacama",
@@ -698,15 +723,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
-  },
-  {
-   "ts": "07-09 20:16",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "actividad volcánica",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
