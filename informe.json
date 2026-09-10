@@ -1,17 +1,17 @@
 {
- "generado": "2026-09-10T04:47:42+00:00",
+ "generado": "2026-09-10T09:32:29+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "31-08-2026",
   "hasta": "10-09-2026"
  },
  "totales": {
-  "alertas": 73,
+  "alertas": 72,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ROJA": 4,
+   "ROJA": 3,
    "ATP": 51,
    "AMARILLA": 18
   },
@@ -22,7 +22,7 @@
    ],
    [
     "tormentas eléctricas",
-    21
+    20
    ],
    [
     "evento meteorológico",
@@ -144,15 +144,6 @@
    }
   ],
   "tormentas eléctricas": [
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "31-08",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
    {
     "lugar": "Región de Atacama",
     "region": "Atacama",
@@ -374,7 +365,7 @@
  "serie": [
   {
    "fecha": "2026-08-31",
-   "ROJA": 2,
+   "ROJA": 1,
    "AMARILLA": 0,
    "ATP": 5,
    "sae": 0
@@ -445,39 +436,6 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de Antofagasta",
-   "region": "Antofagasta",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "04-09 18:00",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "05-09 15:12",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "07-09 19:22",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "08-09 12:39",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "09-09 19:25",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Biobío",
    "region": "Biobío",
    "sae": false,
@@ -507,6 +465,39 @@
      "nivel": "ATP",
      "ts": "06-09 18:41",
      "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Antofagasta",
+   "region": "Antofagasta",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "04-09 18:00",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "05-09 15:12",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "07-09 19:22",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "08-09 12:39",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "09-09 19:25",
+     "estado": "VIGENTE"
     }
    ]
   },
