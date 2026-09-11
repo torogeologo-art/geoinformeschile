@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-11T17:51:03+00:00",
+ "generado": "2026-09-11T20:03:09+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "98e5ba5dffbc",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por heladas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante la actualización del Pronóstico Cero Grados, se establecen las siguientes estimaciones de temperaturas mínimas para los próximos días: Localidad Sábado 12 Domingo 13 Osorno -1 0 Puerto Montt -2 -1 Cochamó -3 -1 Ancud 1 2 Castro 0 1 Quellón -2 0 Chaitén -1 1 Futaleufú -4 -2 En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por heladas que se encuentra vigente des",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-11T15:56:30.3030-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-09-10-17-46-20",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "c3c1bfc78aea",
    "nivel": "ATP",
@@ -89,20 +103,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-10T20:21:01.011-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-10-10-26-56",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "16a1abcfaf85",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Lagos por heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante el Pronóstico Cero Grados, se establecen las siguientes estimaciones de temperaturas mínimas para los próximos días: Localidad Viernes 11 Sábado 12 Osorno 2 -2 Puerto Montt 1 -2 Cochamó 2 -3 Ancud 3 0 Castro 1 -2 Quellón 1 -2 Chaitén 2 -1 Futaleufú -2 -4 En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por heladas&nbsp; vigente a contar de hoy y hasta que la",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-10T17:45:21.2121-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-09-10-17-46-20",
    "origen": "senapred_web",
    "regiones_extra": []
   },
