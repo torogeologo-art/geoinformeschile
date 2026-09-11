@@ -1,17 +1,17 @@
 {
- "generado": "2026-09-11T14:18:08+00:00",
+ "generado": "2026-09-11T17:51:34+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "01-09-2026",
   "hasta": "11-09-2026"
  },
  "totales": {
-  "alertas": 79,
+  "alertas": 80,
   "sae": 0,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 58,
+   "ATP": 59,
    "ROJA": 2,
    "AMARILLA": 19
   },
@@ -22,7 +22,7 @@
    ],
    [
     "tormentas eléctricas",
-    25
+    26
    ],
    [
     "evento meteorológico",
@@ -431,7 +431,7 @@
    "fecha": "2026-09-11",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 4,
+   "ATP": 5,
    "sae": 0
   }
  ],
@@ -584,6 +584,15 @@
  ],
  "cronologia": [
   {
+   "ts": "11-09 13:30",
+   "nivel": "ATP",
+   "lugar": "Región de Coquimbo",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-09-09-17-24-10"
+  },
+  {
    "ts": "11-09 10:34",
    "nivel": "ATP",
    "lugar": "Región de Valparaíso",
@@ -699,15 +708,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-10-10-26-56"
-  },
-  {
-   "ts": "09-09 20:33",
-   "nivel": "ATP",
-   "lugar": "Región de Atacama",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
