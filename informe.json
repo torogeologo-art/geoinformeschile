@@ -1,18 +1,18 @@
 {
- "generado": "2026-09-11T17:51:34+00:00",
+ "generado": "2026-09-11T20:50:03+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "01-09-2026",
   "hasta": "11-09-2026"
  },
  "totales": {
-  "alertas": 80,
+  "alertas": 79,
   "sae": 0,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 59,
    "ROJA": 2,
+   "ATP": 58,
    "AMARILLA": 19
   },
   "por_tipo": [
@@ -22,11 +22,11 @@
    ],
    [
     "tormentas eléctricas",
-    26
+    24
    ],
    [
     "evento meteorológico",
-    11
+    12
    ],
    [
     "crecida de río",
@@ -150,11 +150,20 @@
     "region_link": "atacama"
    },
    {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "01-09",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
     "lugar": "Región de Los Lagos",
     "region": "Los Lagos",
     "nivel": "ATP",
     "sae": false,
-    "ts": "01-09",
+    "ts": "02-09",
     "comuna_link": "",
     "region_link": "los lagos"
    },
@@ -163,18 +172,9 @@
     "region": "Los Ríos",
     "nivel": "ATP",
     "sae": false,
-    "ts": "01-09",
+    "ts": "02-09",
     "comuna_link": "",
     "region_link": "los rios"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "01-09",
-    "comuna_link": "",
-    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Tarapacá",
@@ -361,7 +361,7 @@
    "fecha": "2026-09-01",
    "ROJA": 2,
    "AMARILLA": 0,
-   "ATP": 5,
+   "ATP": 3,
    "sae": 0
   },
   {
@@ -431,7 +431,7 @@
    "fecha": "2026-09-11",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 5,
+   "ATP": 6,
    "sae": 0
   }
  ],
@@ -536,29 +536,6 @@
    ]
   },
   {
-   "lugar": "Región de Los Ríos",
-   "region": "Los Ríos",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "01-09 16:43",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "03-09 18:20",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "06-09 13:22",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Atacama",
    "region": "Atacama",
    "sae": false,
@@ -580,9 +557,41 @@
      "estado": "VIGENTE"
     }
    ]
+  },
+  {
+   "lugar": "Región de Los Ríos",
+   "region": "Los Ríos",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "02-09 22:45",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "03-09 18:20",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "06-09 13:22",
+     "estado": "CANCELADA"
+    }
+   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "11-09 15:56",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-09-10-17-46-20"
+  },
   {
    "ts": "11-09 13:30",
    "nivel": "ATP",
@@ -699,15 +708,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-rio-claro-pelarco-san-clemente-colbun-linares-longavi-retiro-y-parral-por-tormentas-electricas-2026-09-09-15-38-08"
-  },
-  {
-   "ts": "10-09 10:21",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-10-10-26-56"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
