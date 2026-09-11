@@ -1,18 +1,17 @@
 {
- "generado": "2026-09-11T20:50:03+00:00",
+ "generado": "2026-09-11T23:08:57+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "01-09-2026",
   "hasta": "11-09-2026"
  },
  "totales": {
-  "alertas": 79,
+  "alertas": 75,
   "sae": 0,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ROJA": 2,
-   "ATP": 58,
+   "ATP": 56,
    "AMARILLA": 19
   },
   "por_tipo": [
@@ -22,15 +21,15 @@
    ],
    [
     "tormentas eléctricas",
-    24
+    22
    ],
    [
     "evento meteorológico",
-    12
+    11
    ],
    [
     "crecida de río",
-    3
+    2
    ],
    [
     "otros",
@@ -150,15 +149,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "01-09",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
     "lugar": "Región de Los Lagos",
     "region": "Los Lagos",
     "nivel": "ATP",
@@ -175,6 +165,15 @@
     "ts": "02-09",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "03-09",
+    "comuna_link": "",
+    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Tarapacá",
@@ -235,9 +234,9 @@
    {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
-    "nivel": "ROJA",
+    "nivel": "AMARILLA",
     "sae": false,
-    "ts": "01-09",
+    "ts": "02-09",
     "comuna_link": "",
     "region_link": "antofagasta"
    },
@@ -279,15 +278,6 @@
    }
   ],
   "crecida de río": [
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "01-09",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
    {
     "lugar": "Región de Los Ríos",
     "region": "Los Ríos",
@@ -359,9 +349,9 @@
  "serie": [
   {
    "fecha": "2026-09-01",
-   "ROJA": 2,
+   "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 3,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -440,7 +430,7 @@
    "lugar": "Región de Antofagasta",
    "region": "Antofagasta",
    "sae": false,
-   "max": "ROJA",
+   "max": "AMARILLA",
    "pasos": [
     {
      "nivel": "ATP",
@@ -477,8 +467,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "01-09 18:09",
-     "estado": "VIGENTE"
+     "ts": "03-09 11:47",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "AMARILLA",
@@ -543,8 +533,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "01-09 18:41",
-     "estado": "CANCELADA"
+     "ts": "02-09 16:45",
+     "estado": "VIGENTE"
     },
     {
      "nivel": "AMARILLA",
