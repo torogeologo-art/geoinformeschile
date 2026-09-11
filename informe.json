@@ -1,9 +1,9 @@
 {
- "generado": "2026-09-10T22:37:29+00:00",
+ "generado": "2026-09-11T00:35:20+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "31-08-2026",
-  "hasta": "10-09-2026"
+  "desde": "01-09-2026",
+  "hasta": "11-09-2026"
  },
  "totales": {
   "alertas": 75,
