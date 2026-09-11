@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-11T14:18:05+00:00",
+ "generado": "2026-09-11T17:39:59+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "c3c1bfc78aea",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A475-3 Probables tormentas eléctricas asociadas a chubascos aislados en precordillera y valles precordilleranos, y cordillera. 10-09 11-09 Abrir aquí Adicionalmente, debido al debilitamiento de las condiciones meteorológicas la DMC ha cancelado el siguiendo alertamiento: Alertamiento Pronóstico Alerta AA158 Tormentas eléctricas en precordillera y valles precordilleranos",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-11T13:30:17.1717-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-09-09-17-24-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "1d8253345916",
    "nivel": "ATP",
@@ -75,20 +89,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-10T20:21:01.011-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-10-10-26-56",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "22b0bcf74c37",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA158 Tormentas eléctricas en precordillera y valles precordilleranos, con probabilidad de granizos y fuertes rachas de vientos locales. 10-09 10-09 Abrir aquí Aviso A475-3 Probables tormentas eléctricas asociadas a chubascos aislados en precordillera y valles precordilleranos, y cordillera. 10-09 11-09 Abrir aquí En consideración a estos antecedentes y en coordi",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-10T18:26:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-09-09-17-24-10",
    "origen": "senapred_web",
    "regiones_extra": []
   },
