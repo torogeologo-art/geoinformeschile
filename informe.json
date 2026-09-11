@@ -1,17 +1,17 @@
 {
- "generado": "2026-09-11T09:57:51+00:00",
+ "generado": "2026-09-11T14:18:08+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "01-09-2026",
   "hasta": "11-09-2026"
  },
  "totales": {
-  "alertas": 78,
+  "alertas": 79,
   "sae": 0,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 57,
+   "ATP": 58,
    "ROJA": 2,
    "AMARILLA": 19
   },
@@ -22,7 +22,7 @@
    ],
    [
     "tormentas eléctricas",
-    24
+    25
    ],
    [
     "evento meteorológico",
@@ -353,7 +353,7 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 3,
-  "ATP": 12,
+  "ATP": 11,
   "regiones_roja": []
  },
  "serie": [
@@ -431,7 +431,7 @@
    "fecha": "2026-09-11",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 3,
+   "ATP": 4,
    "sae": 0
   }
  ],
@@ -584,6 +584,15 @@
  ],
  "cronologia": [
   {
+   "ts": "11-09 10:34",
+   "nivel": "ATP",
+   "lugar": "Región de Valparaíso",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-san-felipe-y-las-comunas-de-cabildo-y-petorca-por-tormentas-electricas-2026-09-10-18-15-42"
+  },
+  {
    "ts": "11-09 06:19",
    "nivel": "ATP",
    "lugar": "Región de Maule",
@@ -699,15 +708,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34"
-  },
-  {
-   "ts": "09-09 19:25",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Antofagasta",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
