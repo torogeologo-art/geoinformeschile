@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-12T01:09:43+00:00",
+ "generado": "2026-09-12T05:08:50+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "e617e77e6756",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A467-8 Viento normal a moderado con probabilidad de ventisca en Cordillera de la Costa, Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera. 10-09 13-09 Abrir aquí Del mismo, modo debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento para la región. Alertamiento Pronóstico Aviso A476",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-12T00:13:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-09-02-16-27-21",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "072be8c71d59",
    "nivel": "ATP",
@@ -75,20 +89,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-11T01:23:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "177ae5ddad18",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A467-8 Viento normal a moderado con probabilidad de ventisca en Cordillera de la Costa, Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera. 10-09 13-09 Abrir aquí Aviso A476 Viento normal a moderado en el litoral. 11-09 11-09 Abrir aquí Del mismo, modo debido al debilitamiento de las condiciones que lo originaron, ha sido cancela",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-11T01:15:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-09-02-16-27-21",
    "origen": "senapred_web",
    "regiones_extra": []
   },
