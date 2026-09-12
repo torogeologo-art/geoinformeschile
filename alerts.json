@@ -1,13 +1,41 @@
 {
- "generado": "2026-09-12T10:30:52+00:00",
+ "generado": "2026-09-12T13:02:32+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 14,
+ "total_vigentes": 12,
  "alertas": [
+  {
+   "id": "9ead37448ca7",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), fue cancelado el siguiente alertamiento meteorológico para la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A475-3 Probables tormentas eléctricas asociadas a chubascos aislados en precordillera, valles precordilleranos y cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por tormenta",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-12T09:05:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-09-09-17-24-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "827d0333cfa3",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Metropolitana, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Alerta AA158 Tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en precordillera. Aviso A475-3 Probables tormentas eléctricas asociadas a chubascos aislados en valle, precordillera y cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Re",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-12T07:09:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-09-10-17-39-47",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "e617e77e6756",
    "nivel": "ATP",
@@ -51,20 +79,6 @@
    "regiones_extra": []
   },
   {
-   "id": "c3c1bfc78aea",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A475-3 Probables tormentas eléctricas asociadas a chubascos aislados en precordillera y valles precordilleranos, y cordillera. 10-09 11-09 Abrir aquí Adicionalmente, debido al debilitamiento de las condiciones meteorológicas la DMC ha cancelado el siguiendo alertamiento: Alertamiento Pronóstico Alerta AA158 Tormentas eléctricas en precordillera y valles precordilleranos",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-11T13:30:17.1717-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-09-09-17-24-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "1d8253345916",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -103,20 +117,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-10T20:21:01.011-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-10-10-26-56",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "f70de8ce06c1",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA158 Tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en precordillera. 10-09 10-09 Abrir aquí Aviso A475-3 Probables tormentas eléctricas asociadas a chubascos aislados en valle, precordillera y cordillera. 10-09 11-09 Abrir aquí Por otra parte, conforme a lo indicado en su Boletín de Amenaza Meteorológica, los montos estimados para lo",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-10T17:38:42.4242-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-09-10-17-39-47",
    "origen": "senapred_web",
    "regiones_extra": []
   },
