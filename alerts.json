@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-12T00:41:24+00:00",
+ "generado": "2026-09-12T01:09:43+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "072be8c71d59",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA159-3 Tormentas eléctricas asociadas con chubascos aislados en valle, precordillera y cordillera. 11-09 12-09 Abrir aquí Aviso A475-3 Probables tormentas eléctricas asociadas a chubascos aislados en cordillera de la costa, valle, precordillera y cordillera. 10-09 11-09 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidenci",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-11T22:03:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-rio-claro-pelarco-san-clemente-colbun-linares-longavi-retiro-y-parral-por-tormentas-electricas-2026-09-09-15-38-08",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "98e5ba5dffbc",
    "nivel": "ATP",
@@ -47,20 +61,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-11T10:34:36.3636-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-san-felipe-y-las-comunas-de-cabildo-y-petorca-por-tormentas-electricas-2026-09-10-18-15-42",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "4fedce14196c",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la región de Maule por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA159-1 Tormentas eléctricas asociadas con chubascos aislados en precordillera y cordillera. 11-09 11-09 Abrir aquí Aviso A475-3 Probables tormentas eléctricas asociadas a chubascos aislados en cordillera de la costa, valle, precordillera y cordillera. 10-09 11-09 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regi",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-11T06:19:58.5858-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-rio-claro-pelarco-san-clemente-colbun-linares-longavi-retiro-y-parral-por-tormentas-electricas-2026-09-09-15-38-08",
    "origen": "senapred_web",
    "regiones_extra": []
   },

@@ -1,17 +1,17 @@
 {
- "generado": "2026-09-11T23:08:57+00:00",
+ "generado": "2026-09-12T01:10:09+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "01-09-2026",
-  "hasta": "11-09-2026"
+  "desde": "02-09-2026",
+  "hasta": "12-09-2026"
  },
  "totales": {
-  "alertas": 75,
+  "alertas": 74,
   "sae": 0,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 56,
+   "ATP": 55,
    "AMARILLA": 19
   },
   "por_tipo": [
@@ -28,12 +28,12 @@
     11
    ],
    [
-    "crecida de río",
+    "otros",
     2
    ],
    [
-    "otros",
-    2
+    "crecida de río",
+    1
    ],
    [
     "actividad volcánica",
@@ -277,26 +277,6 @@
     "region_link": "los lagos"
    }
   ],
-  "crecida de río": [
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "03-09",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
-    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-    "region": "Aysén del General Carlos Ibáñez del Campo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "01-09",
-    "comuna_link": "",
-    "region_link": "aysen del general carlos ibanez del campo"
-   }
-  ],
   "otros": [
    {
     "lugar": "Región de Arica y Parinacota",
@@ -313,6 +293,17 @@
     "nivel": "ATP",
     "sae": false,
     "ts": "07-09",
+    "comuna_link": "",
+    "region_link": "los rios"
+   }
+  ],
+  "crecida de río": [
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "03-09",
     "comuna_link": "",
     "region_link": "los rios"
    }
@@ -347,13 +338,6 @@
   "regiones_roja": []
  },
  "serie": [
-  {
-   "fecha": "2026-09-01",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
   {
    "fecha": "2026-09-02",
    "ROJA": 0,
