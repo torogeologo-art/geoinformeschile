@@ -1,17 +1,17 @@
 {
- "generado": "2026-09-13T01:08:10+00:00",
+ "generado": "2026-09-13T06:14:21+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "03-09-2026",
   "hasta": "13-09-2026"
  },
  "totales": {
-  "alertas": 76,
+  "alertas": 75,
   "sae": 0,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 57,
+   "ATP": 56,
    "AMARILLA": 19
   },
   "por_tipo": [
@@ -21,7 +21,7 @@
    ],
    [
     "tormentas eléctricas",
-    26
+    25
    ],
    [
     "evento meteorológico",
@@ -156,15 +156,6 @@
     "ts": "12-09",
     "comuna_link": "",
     "region_link": "arica y parinacota"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "02-09",
-    "comuna_link": "",
-    "region_link": "los rios"
    },
    {
     "lugar": "Región de La Araucanía",
@@ -348,13 +339,6 @@
  },
  "serie": [
   {
-   "fecha": "2026-09-02",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
-  {
    "fecha": "2026-09-03",
    "ROJA": 0,
    "AMARILLA": 2,
@@ -533,8 +517,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "02-09 22:45",
-     "estado": "CANCELADA"
+     "ts": "03-09 13:10",
+     "estado": "VIGENTE"
     },
     {
      "nivel": "AMARILLA",
