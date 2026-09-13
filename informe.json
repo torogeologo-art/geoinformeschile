@@ -1,27 +1,27 @@
 {
- "generado": "2026-09-13T12:02:23+00:00",
+ "generado": "2026-09-13T16:22:24+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "03-09-2026",
   "hasta": "13-09-2026"
  },
  "totales": {
-  "alertas": 75,
+  "alertas": 73,
   "sae": 0,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 56,
+   "ATP": 54,
    "AMARILLA": 19
   },
   "por_tipo": [
    [
     "viento",
-    34
+    33
    ],
    [
     "tormentas eléctricas",
-    25
+    24
    ],
    [
     "evento meteorológico",
@@ -48,15 +48,6 @@
  "tipos_detalle": {
   "viento": [
    {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "05-09",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
     "nivel": "AMARILLA",
@@ -64,6 +55,15 @@
     "ts": "03-09",
     "comuna_link": "",
     "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "05-09",
+    "comuna_link": "",
+    "region_link": "biobio"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -156,15 +156,6 @@
     "ts": "12-09",
     "comuna_link": "",
     "region_link": "arica y parinacota"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "03-09",
-    "comuna_link": "",
-    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -342,7 +333,7 @@
    "fecha": "2026-09-03",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 6,
+   "ATP": 4,
    "sae": 0
   },
   {
@@ -411,72 +402,6 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de La Araucanía",
-   "region": "La Araucanía",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "03-09 11:47",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "03-09 13:36",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "04-09 13:27",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "06-09 20:13",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "06-09 20:16",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Biobío",
-   "region": "Biobío",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "03-09 11:59",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "05-09 09:39",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "05-09 09:45",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "06-09 18:37",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "06-09 18:41",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Antofagasta",
    "region": "Antofagasta",
    "sae": false,
@@ -506,6 +431,62 @@
      "nivel": "ATP",
      "ts": "10-09 16:23",
      "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de La Araucanía",
+   "region": "La Araucanía",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "03-09 13:36",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "04-09 13:27",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "06-09 20:13",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "06-09 20:16",
+     "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Biobío",
+   "region": "Biobío",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "05-09 09:39",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "05-09 09:45",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "06-09 18:37",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "06-09 18:41",
+     "estado": "CANCELADA"
     }
    ]
   },
