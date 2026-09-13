@@ -1,17 +1,17 @@
 {
- "generado": "2026-09-13T18:54:06+00:00",
+ "generado": "2026-09-13T21:21:59+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "03-09-2026",
   "hasta": "13-09-2026"
  },
  "totales": {
-  "alertas": 69,
+  "alertas": 70,
   "sae": 0,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 51,
+   "ATP": 52,
    "AMARILLA": 18
   },
   "por_tipo": [
@@ -25,7 +25,7 @@
    ],
    [
     "evento meteorológico",
-    11
+    12
    ],
    [
     "otros",
@@ -398,6 +398,13 @@
    "AMARILLA": 1,
    "ATP": 7,
    "sae": 0
+  },
+  {
+   "fecha": "2026-09-13",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
+   "sae": 0
   }
  ],
  "escalamientos": [
@@ -487,6 +494,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "13-09 17:52",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-09-10-17-46-20"
+  },
   {
    "ts": "12-09 17:47",
    "nivel": "AMARILLA",
@@ -603,15 +619,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34"
-  },
-  {
-   "ts": "11-09 01:15",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-09-02-16-27-21"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
