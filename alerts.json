@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-13T18:54:04+00:00",
+ "generado": "2026-09-13T20:55:24+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 9,
  "alertas": [
+  {
+   "id": "d2cb14dc876c",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por heladas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante la actualización del Pronóstico Cero Grados, se establecen las siguientes estimaciones de temperaturas mínimas para los próximos días en la Región de Los Lagos: Sectores Lunes 14 Martes 15 Osorno 2 5 Puerto Montt 1 2 Cochamó 3 4 Ancud 2 5 Castro 0 2 Quellón 1 3 Chaitén 2 0 Futaleufú -2 0 En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por Heladas, que se encue",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-13T17:52:26.2626-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-09-10-17-46-20",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "c9fd72d4d85c",
    "nivel": "AMARILLA",
@@ -23,20 +37,6 @@
    "regiones_extra": [
     "Parinacota"
    ]
-  },
-  {
-   "id": "5cd5f2c746c5",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante la actualización del Pronóstico Cero Grados, se establecen las siguientes estimaciones de temperaturas mínimas para los próximos días en la Región de Los Lagos: Sectores Domingo 13 Lunes 14 Osorno -1 1 Puerto Montt -1 1 Cochamó -1 0 Ancud 3 2 Castro 0 1 Quellón -1 1 Chaitén 1 1 Futaleufú -2 1 En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por Heladas, que se",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-12T17:41:18.1818-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-09-10-17-46-20",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "e617e77e6756",
