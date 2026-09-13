@@ -1,18 +1,18 @@
 {
- "generado": "2026-09-13T21:21:59+00:00",
+ "generado": "2026-09-13T23:24:30+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "03-09-2026",
   "hasta": "13-09-2026"
  },
  "totales": {
-  "alertas": 70,
+  "alertas": 68,
   "sae": 0,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 52,
-   "AMARILLA": 18
+   "ATP": 51,
+   "AMARILLA": 17
   },
   "por_tipo": [
    [
@@ -21,7 +21,7 @@
    ],
    [
     "tormentas eléctricas",
-    23
+    22
    ],
    [
     "evento meteorológico",
@@ -30,10 +30,6 @@
    [
     "otros",
     2
-   ],
-   [
-    "crecida de río",
-    1
    ],
    [
     "actividad volcánica",
@@ -158,15 +154,6 @@
     "region_link": "arica y parinacota"
    },
    {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "03-09",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
     "lugar": "Región de Tarapacá",
     "region": "Tarapacá",
     "nivel": "ATP",
@@ -288,17 +275,6 @@
     "region_link": "los rios"
    }
   ],
-  "crecida de río": [
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "03-09",
-    "comuna_link": "",
-    "region_link": "los rios"
-   }
-  ],
   "actividad volcánica": [
    {
     "lugar": "Región de La Araucanía",
@@ -329,13 +305,6 @@
   "regiones_roja": []
  },
  "serie": [
-  {
-   "fecha": "2026-09-03",
-   "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 1,
-   "sae": 0
-  },
   {
    "fecha": "2026-09-04",
    "ROJA": 0,
