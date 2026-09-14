@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-14T13:54:39+00:00",
+ "generado": "2026-09-14T19:11:49+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "04-09-2026",
@@ -11,29 +11,29 @@
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 51,
-   "AMARILLA": 17
+   "ATP": 50,
+   "AMARILLA": 18
   },
   "por_tipo": [
    [
     "viento",
-    29
+    27
    ],
    [
     "tormentas eléctricas",
-    23
+    24
    ],
    [
     "evento meteorológico",
     12
    ],
    [
-    "otros",
+    "actividad volcánica",
     2
    ],
    [
-    "actividad volcánica",
-    1
+    "otros",
+    2
    ],
    [
     "nevadas",
@@ -43,15 +43,6 @@
  },
  "tipos_detalle": {
   "viento": [
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "06-09",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
    {
     "lugar": "Región de Biobío",
     "region": "Biobío",
@@ -71,6 +62,15 @@
     "region_link": "arica y parinacota"
    },
    {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "06-09",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
     "lugar": "Región de Atacama",
     "region": "Atacama",
     "nivel": "AMARILLA",
@@ -78,15 +78,6 @@
     "ts": "07-09",
     "comuna_link": "",
     "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "04-09",
-    "comuna_link": "",
-    "region_link": "nuble"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -114,6 +105,15 @@
     "ts": "06-09",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "06-09",
+    "comuna_link": "",
+    "region_link": "nuble"
    },
    {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -255,6 +255,17 @@
     "region_link": "los lagos"
    }
   ],
+  "actividad volcánica": [
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "04-09",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   }
+  ],
   "otros": [
    {
     "lugar": "Región de Arica y Parinacota",
@@ -273,17 +284,6 @@
     "ts": "07-09",
     "comuna_link": "",
     "region_link": "los rios"
-   }
-  ],
-  "actividad volcánica": [
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "07-09",
-    "comuna_link": "",
-    "region_link": "la araucania"
    }
   ],
   "nevadas": [
@@ -309,7 +309,7 @@
    "fecha": "2026-09-04",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 5,
+   "ATP": 4,
    "sae": 0
   },
   {
@@ -373,6 +373,13 @@
    "ROJA": 0,
    "AMARILLA": 0,
    "ATP": 2,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-09-14",
+   "ROJA": 0,
+   "AMARILLA": 1,
+   "ATP": 0,
    "sae": 0
   }
  ],
@@ -446,7 +453,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "04-09 13:27",
+     "ts": "04-09 19:26",
      "estado": "VIGENTE"
     },
     {
@@ -463,6 +470,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "14-09 15:57",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Arica y Parinacota",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59"
+  },
   {
    "ts": "13-09 21:48",
    "nivel": "ATP",
@@ -579,15 +595,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-san-felipe-y-las-comunas-de-cabildo-y-petorca-por-tormentas-electricas-2026-09-10-18-15-42"
-  },
-  {
-   "ts": "11-09 06:19",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-rio-claro-pelarco-san-clemente-colbun-linares-longavi-retiro-y-parral-por-tormentas-electricas-2026-09-09-15-38-08"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
