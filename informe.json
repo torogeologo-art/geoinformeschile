@@ -1,18 +1,18 @@
 {
- "generado": "2026-09-14T19:11:49+00:00",
+ "generado": "2026-09-14T22:33:12+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "04-09-2026",
   "hasta": "14-09-2026"
  },
  "totales": {
-  "alertas": 68,
+  "alertas": 67,
   "sae": 0,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
    "ATP": 50,
-   "AMARILLA": 18
+   "AMARILLA": 17
   },
   "por_tipo": [
    [
@@ -25,7 +25,7 @@
    ],
    [
     "evento meteorológico",
-    12
+    11
    ],
    [
     "actividad volcánica",
@@ -80,15 +80,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "04-09",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ATP",
@@ -96,6 +87,15 @@
     "ts": "05-09",
     "comuna_link": "",
     "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "05-09",
+    "comuna_link": "",
+    "region_link": "los lagos"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -143,15 +143,6 @@
     "ts": "12-09",
     "comuna_link": "",
     "region_link": "arica y parinacota"
-   },
-   {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "04-09",
-    "comuna_link": "",
-    "region_link": "tarapaca"
    },
    {
     "lugar": "Región de Maule",
@@ -206,6 +197,15 @@
     "ts": "13-09",
     "comuna_link": "",
     "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "14-09",
+    "comuna_link": "",
+    "region_link": "tarapaca"
    }
   ],
   "evento meteorológico": [
@@ -214,27 +214,9 @@
     "region": "Antofagasta",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "04-09",
+    "ts": "07-09",
     "comuna_link": "",
     "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "04-09",
-    "comuna_link": "",
-    "region_link": "tarapaca"
-   },
-   {
-    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-    "region": "Aysén del General Carlos Ibáñez del Campo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "04-09",
-    "comuna_link": "",
-    "region_link": "aysen del general carlos ibanez del campo"
    },
    {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -244,6 +226,15 @@
     "ts": "05-09",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
+   },
+   {
+    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "07-09",
+    "comuna_link": "",
+    "region_link": "aysen del general carlos ibanez del campo"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -301,15 +292,15 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 3,
-  "ATP": 5,
+  "ATP": 6,
   "regiones_roja": []
  },
  "serie": [
   {
    "fecha": "2026-09-04",
    "ROJA": 0,
-   "AMARILLA": 2,
-   "ATP": 4,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -378,8 +369,8 @@
   {
    "fecha": "2026-09-14",
    "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 0,
+   "AMARILLA": 2,
+   "ATP": 3,
    "sae": 0
   }
  ],
@@ -390,11 +381,6 @@
    "sae": false,
    "max": "AMARILLA",
    "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "05-09 15:12",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "AMARILLA",
      "ts": "07-09 19:22",
@@ -413,6 +399,11 @@
     {
      "nivel": "ATP",
      "ts": "10-09 16:23",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "14-09 18:02",
      "estado": "VIGENTE"
     }
    ]
@@ -470,6 +461,42 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "14-09 18:02",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Antofagasta",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
+  },
+  {
+   "ts": "14-09 17:43",
+   "nivel": "ATP",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-evento-meteorologico-2026-09-09-10-22-11"
+  },
+  {
+   "ts": "14-09 17:01",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-09-14-17-11-28"
+  },
+  {
+   "ts": "14-09 16:57",
+   "nivel": "ATP",
+   "lugar": "Región de Tarapacá",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00"
+  },
   {
    "ts": "14-09 15:57",
    "nivel": "AMARILLA",
@@ -559,42 +586,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-09-10-17-39-47"
-  },
-  {
-   "ts": "12-09 00:13",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-09-02-16-27-21"
-  },
-  {
-   "ts": "11-09 15:56",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-09-10-17-46-20"
-  },
-  {
-   "ts": "11-09 13:30",
-   "nivel": "ATP",
-   "lugar": "Región de Coquimbo",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-09-09-17-24-10"
-  },
-  {
-   "ts": "11-09 10:34",
-   "nivel": "ATP",
-   "lugar": "Región de Valparaíso",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-san-felipe-y-las-comunas-de-cabildo-y-petorca-por-tormentas-electricas-2026-09-10-18-15-42"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
