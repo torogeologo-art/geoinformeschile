@@ -1,23 +1,23 @@
 {
- "generado": "2026-09-14T06:59:00+00:00",
+ "generado": "2026-09-14T13:54:39+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "04-09-2026",
   "hasta": "14-09-2026"
  },
  "totales": {
-  "alertas": 69,
+  "alertas": 68,
   "sae": 0,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 52,
+   "ATP": 51,
    "AMARILLA": 17
   },
   "por_tipo": [
    [
     "viento",
-    30
+    29
    ],
    [
     "tormentas eléctricas",
@@ -78,15 +78,6 @@
     "ts": "07-09",
     "comuna_link": "",
     "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "04-09",
-    "comuna_link": "",
-    "region_link": "maule"
    },
    {
     "lugar": "Región de Ñuble",
@@ -318,7 +309,7 @@
    "fecha": "2026-09-04",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 6,
+   "ATP": 5,
    "sae": 0
   },
   {
