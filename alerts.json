@@ -1,12 +1,12 @@
 {
- "generado": "2026-09-15T22:15:31+00:00",
+ "generado": "2026-09-15T22:54:46+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 7,
+ "total_vigentes": 6,
  "alertas": [
   {
    "id": "b43e9b1177a4",
@@ -216,7 +216,7 @@
    "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED de Arica y Parinacota, en base a La Minuta de Emergencia N°49 elaborada por la SEREMI de Salud de Arica y Parinacota, del 07 de abril de 2025, se indica el hallazgo del vector Aedes Aegypti , en diversos sectores de la comuna de Arica . Dicha situación, representa una condición de vulnerabilidad sanitaria persistente debido a la presencia del mosquito Aedes aegypti (vector transmisor de Dengue, Zika, Chikungunya y Fiebre Amarilla) desde el año 2016. A esta amenaza se suma el reciente hallazgo y dispersión de Aed",
    "region": "Arica y Parinacota",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-09-08T19:39:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-actualiza-alerta-amarilla-para-la-region-de-arica-y-parinacota-por-alteracion-sanitaria-2026-01-27-13-44-49",
    "origen": "senapred_web",
