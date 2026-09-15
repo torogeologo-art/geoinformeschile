@@ -1,27 +1,27 @@
 {
- "generado": "2026-09-15T16:45:52+00:00",
+ "generado": "2026-09-15T20:06:05+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "05-09-2026",
   "hasta": "15-09-2026"
  },
  "totales": {
-  "alertas": 65,
+  "alertas": 66,
   "sae": 0,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
    "ATP": 49,
-   "AMARILLA": 16
+   "AMARILLA": 17
   },
   "por_tipo": [
    [
     "viento",
-    26
+    25
    ],
    [
     "tormentas eléctricas",
-    23
+    25
    ],
    [
     "evento meteorológico",
@@ -80,15 +80,6 @@
     "region_link": "la araucania"
    },
    {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "05-09",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
     "lugar": "Región de Los Lagos",
     "region": "Los Lagos",
     "nivel": "ATP",
@@ -105,6 +96,15 @@
     "ts": "06-09",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "06-09",
+    "comuna_link": "",
+    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Ñuble",
@@ -291,7 +291,7 @@
    "fecha": "2026-09-05",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 2,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -360,8 +360,8 @@
   {
    "fecha": "2026-09-15",
    "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
+   "AMARILLA": 1,
+   "ATP": 2,
    "sae": 0
   }
  ],
@@ -401,6 +401,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "15-09 16:31",
+   "nivel": "ATP",
+   "lugar": "Región de Tarapacá",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00"
+  },
+  {
+   "ts": "15-09 16:07",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Arica y Parinacota",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59"
+  },
   {
    "ts": "15-09 12:52",
    "nivel": "ATP",
@@ -508,24 +526,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-02-16-46-34"
-  },
-  {
-   "ts": "12-09 10:52",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-10-10-26-56"
-  },
-  {
-   "ts": "12-09 10:07",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-rio-claro-pelarco-san-clemente-colbun-linares-longavi-retiro-y-parral-por-tormentas-electricas-2026-09-09-15-38-08"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
