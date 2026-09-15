@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-14T22:32:51+00:00",
+ "generado": "2026-09-15T00:40:00+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 9,
+ "total_vigentes": 6,
  "alertas": [
+  {
+   "id": "8afb2d78a184",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por heladas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , la Región de Los Lagos se encuentra sin alertamiento meteorológico vigente. Asimismo, de acuerdo con lo informado en el Pronóstico Público emitido por el mismo organismo técnico (DMC), para los próximos tres días no se pronostican bajas temperaturas en la región. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por heladas, que se mantuvo vigente desde el 10 de septiemb",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-14T20:40:56.5656-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-09-10-17-46-20",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "df2a1f5ba02b",
    "nivel": "AMARILLA",
@@ -93,20 +107,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-13T21:48:27.2727-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-09-02-16-27-21",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "d2cb14dc876c",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante la actualización del Pronóstico Cero Grados, se establecen las siguientes estimaciones de temperaturas mínimas para los próximos días en la Región de Los Lagos: Sectores Lunes 14 Martes 15 Osorno 2 5 Puerto Montt 1 2 Cochamó 3 4 Ancud 2 5 Castro 0 2 Quellón 1 3 Chaitén 2 0 Futaleufú -2 0 En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por Heladas, que se encue",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-13T17:52:26.2626-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-09-10-17-46-20",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -232,7 +232,7 @@
    "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarilla [ 1] . En relación con el Reporte de Actividad Volcánica (RAV), se indica que entre el 16 y el 31 de agosto, el Complejo Volcánico Nevados de Chillán, mantuvo una actividad sísmica por sobre sus niveles de base, caracterizada por una alta ocurrencia de señales asociadas a la dinámica de fluidos, junto con sismicidad volcano-tectónica superficial",
    "region": "Ñuble",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-09-07T20:20:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
    "origen": "senapred_web",
@@ -246,7 +246,7 @@
    "descripcion": "D e acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS)&nbsp;del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el volcán Villarrica mantiene la alerta técnica en nivel Amarilla [1] . En relación con el&nbsp; Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, indica que, entre el 01 al 31 de agosto, se indica que dadas las características de un sistema volcánico de conducto abierto, no es posible descartar explosiones súbitas y sin precursores. De acuerdo con lo observado en períodos anteriores, el impacto de",
    "region": "La Araucanía",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-09-07T20:16:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53",
    "origen": "senapred_web",
@@ -1027,20 +1027,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-16T10:32:10.1010-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-08-14-13-37-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a0b8a0b6d552",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Aviso A418-2 Viento normal a moderado en litoral y cordillera de la costa. Aviso A420 Probables tormentas eléctricas en valle. n consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por evento meteorológico , que se encontraba vigente desde el 14 de agosto.",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-15T19:54:51.5151-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-08-14-11-17-27",
    "origen": "senapred_web",
    "regiones_extra": []
   },
