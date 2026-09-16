@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-16T21:58:30+00:00",
+ "generado": "2026-09-16T22:12:55+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 9,
  "alertas": [
+  {
+   "id": "5d8740c67613",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Monitoreo Alerta Amarilla para las comunas de Tocopilla y Taltal por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED, en el contexto del evento meteorológico que se desarrolló en la Región de Antofagasta , se reportan los siguientes antecedentes y novedades: Comuna Afectación a Personas Daño a Viviendas DAMNIFICADOS ALBERGADOS AISLADOS LESIONADOS DESAPARECIDOS FALLECIDOS DESTRUIDAS DAÑO MAYOR DAÑO MENOR EN EVALUACIÓN Tocopilla 6 - - - - - 10 56 9.442 - Taltal - - - - - 1 - - - - Total 6 - - - - 1 10 56 9.442 - 2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MONITOREO DE RUTAS Y CAMINOS Región de Antofagasta Com",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-16T19:03:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "0a0ca7c4d651",
+   "nivel": "ATP",
+   "tipo": "otros",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Tarapacá por evento zoosanitario",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , a través de la emisión de la orden N° 367/2026 de dicho servicio, emitida el 15 de septiembre del 2026, en relación con la situación zoosanitaria asociada a Influenza Aviar de Alta Patogenicidad (IAAP) en la Región de Tarapacá, se informa que actualmente se evidencia una escenario epidemiológico favorable, caracterizado por una disminución significativa de los casos y hallazgos asociados a Influenza Aviar. Considerando a la información técnica proporcionada por el SAG de la Región de Tarapacá, la Direcci",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-16T18:51:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-zoosanitario-2026-06-17-17-41-08",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "e7c26b923e96",
    "nivel": "ATP",
@@ -105,20 +133,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-14T20:40:56.5656-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-09-10-17-46-20",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "df2a1f5ba02b",
-   "nivel": "AMARILLA",
-   "tipo": "evento meteorológico",
-   "titulo": "Monitoreo Alerta Amarilla para las comunas de Tocopilla y Taltal por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED , en el contexto del evento meteorológico que se desarrolló en la Región de Antofagasta, se reportan los siguientes antecedentes y novedades: Comuna Afectación a Personas Daño a Viviendas DAMNIFICADOS ALBERGADOS AISLADOS LESIONADOS DESAPARECIDOS FALLECIDOS DESTRUIDAS DAÑO MAYOR DAÑO MENOR EN EVALUACIÓN Tocopilla 6 - - - - - 10 56 9.442 - Taltal - - - - - 1 - - - - Total 6 - - - - 1 10 56 9.442 - 2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MONITOREO DE RUTAS Y CAMINOS Región de Antofagasta Com",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-14T18:02:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
    "origen": "senapred_web",
    "regiones_extra": []
   },
