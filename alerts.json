@@ -1,13 +1,71 @@
 {
- "generado": "2026-09-16T22:12:55+00:00",
+ "generado": "2026-09-17T00:19:41+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 9,
+ "total_vigentes": 10,
  "alertas": [
+  {
+   "id": "17aead77104f",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica evento y cobertura de Alerta Temprana Preventiva a evento meteorológico para la Provincia de El Loa y comuna de Antofagasta",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA164 Viento moderado a fuerte con desarrollo de tormentas de arena en cordillera de la costa sector Sierra Vicuña Mackenna 17-09 17-09 Abrir Aquí Aviso A487 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera. 17-09 18-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Direcc",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-16T20:55:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "88d4d878cb34",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA163 Viento moderado a fuerte con desarrollo de tormentas de arena en litoral, cordillera de la costa y pampa. 17-09 18-09 Abrir Aquí Alerta AA160 Evento de altas temperaturas extremas en litoral. 17-08 18-09 Abrir Aquí Aviso A480 Probables tormentas eléctricas en cordillera. 17-09 18-09 Abrir Aquí Aviso A481-1 Precipitaciones normales a moderadas en precordill",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-16T20:35:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "698d66e921c2",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarilla [1] . En relación con el Reporte de Actividad Volcánica (RAV) , se indica que entre el 01 y 15 de septiembre, la actividad sísmica del Complejo Volcánico Nevados de Chillán estuvo dominada por sismos de largo período (LP) asociados a la dinámica de fluidos, acompañados por sismicidad volcano-tectónica (VT), híbrida (HB), sismos tipo tornillo (TO)",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-16T19:34:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ed1925c9dd59",
+   "nivel": "ATP",
+   "tipo": "actividad volcánica",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos, por actividad del Volcán Villarrica",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Volcán Villarrica mantiene la alerta técnica en nivel Amarilla [1] . En relación con el Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, entre el 01 y 15 de septiembre, se indica que dadas las dadas las características de un sistema volcánico de conducto abierto, no es posible descartar explosiones súbitas y sin precursores. De acuerdo con lo observado en períodos anteriores, el impacto de estas explo",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-16T19:33:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Los Ríos"
+   ]
+  },
   {
    "id": "5d8740c67613",
    "nivel": "AMARILLA",
@@ -19,34 +77,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-16T19:03:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "0a0ca7c4d651",
-   "nivel": "ATP",
-   "tipo": "otros",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Tarapacá por evento zoosanitario",
-   "descripcion": "De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , a través de la emisión de la orden N° 367/2026 de dicho servicio, emitida el 15 de septiembre del 2026, en relación con la situación zoosanitaria asociada a Influenza Aviar de Alta Patogenicidad (IAAP) en la Región de Tarapacá, se informa que actualmente se evidencia una escenario epidemiológico favorable, caracterizado por una disminución significativa de los casos y hallazgos asociados a Influenza Aviar. Considerando a la información técnica proporcionada por el SAG de la Región de Tarapacá, la Direcci",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-16T18:51:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-zoosanitario-2026-06-17-17-41-08",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e7c26b923e96",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de El Loa y las comunas de Antofagasta y Taltal por nevadas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A487 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera. 17-09 18-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por nevadas para la Provincia de El Loa y las comunas de Antofagasta y Taltal ,que se encuentra vige",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-16T17:09:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -95,20 +125,6 @@
    ]
   },
   {
-   "id": "b43e9b1177a4",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace A447 Nevadas normales a moderadas con probabilidad de ventisca en cordillera. 17-09 18-09 Abrir Aquí A478-1 Viento normal a moderado con probabilidad de tormentas de arena en litoral, cordillera de la costa y pampa. 18-09 18-09 Abrir Aquí A479 Altas temperaturas en pampa de la región. 15-09 16-09 Abrir Aquí Aviso A480 Probables tormentas eléctricas en cordillera. 17-09",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-15T16:31:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "4a6641f4a758",
    "nivel": "ATP",
    "tipo": "otros",
@@ -151,20 +167,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "683403c2b2e2",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace A479 Altas temperaturas en pampa de la región. 15-09 16-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas , que se encuentra vigente desde hoy y",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-14T17:01:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-09-14-17-11-28",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "8b64e33b8d8e",
@@ -293,36 +295,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "fa6572fd94a5",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del complejo volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarilla [ 1] . En relación con el Reporte de Actividad Volcánica (RAV), se indica que entre el 16 y el 31 de agosto, el Complejo Volcánico Nevados de Chillán, mantuvo una actividad sísmica por sobre sus niveles de base, caracterizada por una alta ocurrencia de señales asociadas a la dinámica de fluidos, junto con sismicidad volcano-tectónica superficial",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-09-07T20:20:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ad3091f25bcc",
-   "nivel": "ATP",
-   "tipo": "actividad volcánica",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue, en la Región de La Araucanía y para la comuna de Panguipulli, en la Región de Los Ríos por actividad del volcán Villarrica",
-   "descripcion": "D e acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS)&nbsp;del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el volcán Villarrica mantiene la alerta técnica en nivel Amarilla [1] . En relación con el&nbsp; Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, indica que, entre el 01 al 31 de agosto, se indica que dadas las características de un sistema volcánico de conducto abierto, no es posible descartar explosiones súbitas y sin precursores. De acuerdo con lo observado en períodos anteriores, el impacto de",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-09-07T20:16:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Los Ríos"
-   ]
   },
   {
    "id": "7d367c521cc2",
@@ -973,34 +945,6 @@
    "sae": true
   },
   {
-   "id": "72163a5a3c3c",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Isla de Pascua por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que los originaron, han sido cancelados los siguientes alertamientos para la Provincia de Isla de Pascua: Alertamiento Pronóstico Alerta AA137 Precipitaciones moderadas a fuertes en corto período de tiempo Aviso A419-1 Viento normal a moderado En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por evento meteorológico para la Prov",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-17T22:49:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-08-14-14-54-33",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "5ca156a99bcf",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) y el monitoreo efectuado por la Dirección Regional Metropolitana de SENAPRED, se confirma el debilitamiento progresivo de las condiciones meteorológicas que dieron origen a la presente alerta. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED se cancela la Alerta Temprana Preventiva Regional por evento meteorológico, que se mantenía vigente desde el 16 de agosto.",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-17T18:57:25.2525-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-13-11-33-42",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "e414880d34e0",
    "nivel": "ROJA",
    "tipo": "crecida de río",
@@ -1015,20 +959,6 @@
    "url": "https://t.me/SenapredChile/1538",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "fa9c24f6a4f6",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Amarilla para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A397-5 Viento normal a moderado en cordillera. 14-08 17-08 Abrir aquí Del mismo modo, ha sido cancelado el siguiente alertamiento debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Enlace Alerta AA135 Tormentas Eléctricas con probabilidad de granizos entre las regiones de Coquimbo y Maule. Abrir aquí Aviso A414-3 Probable",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-17T12:03:17.1717-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-08-04-15-07-37",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "0ae917b08dd1",
