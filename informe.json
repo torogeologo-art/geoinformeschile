@@ -1,18 +1,18 @@
 {
- "generado": "2026-09-16T22:13:09+00:00",
+ "generado": "2026-09-17T00:38:01+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "06-09-2026",
-  "hasta": "16-09-2026"
+  "desde": "07-09-2026",
+  "hasta": "17-09-2026"
  },
  "totales": {
-  "alertas": 64,
+  "alertas": 63,
   "sae": 0,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "AMARILLA": 16,
-   "ATP": 48
+   "ATP": 48,
+   "AMARILLA": 15
   },
   "por_tipo": [
    [
@@ -21,7 +21,7 @@
    ],
    [
     "viento",
-    19
+    16
    ],
    [
     "evento meteorológico",
@@ -33,11 +33,11 @@
    ],
    [
     "nevadas",
-    2
+    3
    ],
    [
     "actividad volcánica",
-    1
+    2
    ]
   ]
  },
@@ -127,15 +127,6 @@
   ],
   "viento": [
    {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "06-09",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
     "lugar": "Región de Arica y Parinacota",
     "region": "Arica y Parinacota",
     "nivel": "AMARILLA",
@@ -152,15 +143,6 @@
     "ts": "07-09",
     "comuna_link": "",
     "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "06-09",
-    "comuna_link": "",
-    "region_link": "nuble"
    },
    {
     "lugar": "Región de Antofagasta",
@@ -292,17 +274,10 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 2,
-  "ATP": 7,
+  "ATP": 8,
   "regiones_roja": []
  },
  "serie": [
-  {
-   "fecha": "2026-09-06",
-   "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 2,
-   "sae": 0
-  },
   {
    "fecha": "2026-09-07",
    "ROJA": 0,
@@ -370,7 +345,7 @@
    "fecha": "2026-09-16",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 4,
+   "ATP": 6,
    "sae": 0
   }
  ],
@@ -410,6 +385,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "16-09 19:34",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "nevadas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
+  },
+  {
+   "ts": "16-09 19:33",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "actividad volcánica",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53"
+  },
   {
    "ts": "16-09 19:03",
    "nivel": "AMARILLA",
@@ -517,24 +510,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-evento-meteorologico-2026-09-09-10-22-11"
-  },
-  {
-   "ts": "14-09 17:01",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-09-14-17-11-28"
-  },
-  {
-   "ts": "14-09 16:57",
-   "nivel": "ATP",
-   "lugar": "Región de Tarapacá",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
