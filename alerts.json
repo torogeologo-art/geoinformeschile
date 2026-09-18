@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-18T00:28:32+00:00",
+ "generado": "2026-09-18T05:03:57+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -9,18 +9,48 @@
  "total_vigentes": 15,
  "alertas": [
   {
-   "id": "0f616495549a",
+   "id": "88b9146e41c3",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A487 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera. 17-09 18-09 Abrir aquí Aviso A488-1 Probables tormentas eléctricas asociadas a chubascos aislados en litoral, cordillera de la costa, pampa, precordillera Occidental, precordillera Alto Loa, precordillera Salar y cordillera. 17-09 18-09 Abrir aquí Aviso A489 Viento normal a moderado con probabilid",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A483-1 Viento normal a moderado en cordillera. 19-09 20-09 Abrir Aquí Aviso A492-1 Probables tormentas eléctricas en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera. 17-09 18-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED modifi",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-17T23:26:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-09-17-18-59-54",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a79df9d3494c",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA167 Viento moderado a fuerte con desarrollo de tormentas de arena en litoral de la región. 17-09 18-09 Abrir aquí Aviso A487 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera. 17-09 18-09 Abrir aquí Aviso A488-1 Probables tormentas eléctricas asociadas a chubascos aislados en litoral, cordillera de la costa, pampa, precordillera Occidental, precordi",
    "region": "Antofagasta",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-09-17T20:09:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00",
+   "ts": "2026-09-17T22:14:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04",
    "origen": "senapred_web",
    "regiones_extra": []
+  },
+  {
+   "id": "d3f4c8ecb140",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA163 Viento moderado a fuerte con desarrollo de tormentas de arena en litoral, cordillera de la costa y pampa. 17-09 18-09 Abrir Aquí Alerta AA160 Evento de altas temperaturas extremas en litoral. 17-08 18-09 Abrir Aquí Aviso A480-2 Probables tormentas eléctricas asociadas a chubascos aislados en cordillera de la costa, pampa, precordillera y cordillera. 17-09",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-17T18:49:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Tarapacá"
+   ]
   },
   {
    "id": "5fb2ba94d2db",
@@ -37,20 +67,6 @@
    "regiones_extra": []
   },
   {
-   "id": "72b48ed79bc7",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Declara Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina, por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA165 Viento normal a moderado con desarrollo de ventisca en cordillera. 20-09 20-09 Abrir aquí Aviso A483-1 Viento normal a moderado en precordillera y cordillera. 19-09 21-09 Abrir aquí Aviso A492 Probables tormentas eléctricas en cordillera. 17-09 18-09 Abrir aquí Por otra parte, conforme a lo indicado en el Informe de Amenaza Meteorológica, los montos estimados para los",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-17T18:37:00.000-03:00",
-   "url": "https://senapred.cl/alerta/declara-alerta-temprana-preventiva-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-evento-meteorologico-2026-09-17-19-13-08",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "be1ab2bc1e02",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -61,20 +77,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-17T18:31:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-17-11-21-06",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1cda8519193f",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A483-1 Viento normal a moderado en cordillera. 19-09 20-09 Abrir Aquí Aviso A492 Probables tormentas eléctricas en cordillera. 17-09 18-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña,",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-17T18:27:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-09-17-18-59-54",
    "origen": "senapred_web",
    "regiones_extra": []
   },
