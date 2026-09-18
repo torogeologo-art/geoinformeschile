@@ -1,13 +1,55 @@
 {
- "generado": "2026-09-18T09:49:42+00:00",
+ "generado": "2026-09-18T14:15:03+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "06799985c402",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA165 Viento normal a moderado con desarrollo de ventisca en cordillera. 20-09 20-09 Abrir aquí Aviso A483-1 Viento normal a moderado en precordillera y cordillera. 19-09 21-09 Abrir aquí Aviso A492-2 Probables tormentas eléctricas en precordillera y cordillera. 18-09 18-09 Abrir aquí Por otra parte, conforme a lo indicado en el Informe de Amenaza Meteorológica, los montos e",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-18T11:10:46.4646-03:00",
+   "url": "https://senapred.cl/alerta/declara-alerta-temprana-preventiva-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-evento-meteorologico-2026-09-17-19-13-08",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "54a37fdce49e",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A483-1 Viento normal a moderado en litoral. 19-09 21-09 Abrir aquí Por otra parte, conforme a lo indicado en el boletín de Amenaza Meteorológica, los montos estimados para los próximos días en la región son los siguientes: •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Precipitaciones: entre 3 y 55 mm",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-18T10:46:40.4040-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "bb8163679374",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A487 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera. 17-09 18-09 Abrir aquí Aviso A488-1 Probables tormentas eléctricas asociadas a chubascos aislados en litoral, cordillera de la costa, pampa, precordillera Occidental, precordillera Alto Loa, precordillera Salar y cordillera. 17-09 18-09 Abrir aquí Aviso A489 Viento normal a moderado con probabilid",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-18T06:09:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "88b9146e41c3",
    "nivel": "ATP",
@@ -19,20 +61,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-17T23:26:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-09-17-18-59-54",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a79df9d3494c",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA167 Viento moderado a fuerte con desarrollo de tormentas de arena en litoral de la región. 17-09 18-09 Abrir aquí Aviso A487 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera. 17-09 18-09 Abrir aquí Aviso A488-1 Probables tormentas eléctricas asociadas a chubascos aislados en litoral, cordillera de la costa, pampa, precordillera Occidental, precordi",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-17T22:14:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -77,20 +105,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-17T18:31:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-17-11-21-06",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "22a33c636128",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A483-1 Viento normal a moderado en litoral. 19-09 21-09 Abrir aquí Por otra parte, conforme a lo indicado en el boletín de Amenaza Meteorológica, los montos estimados para los próximos días en la región son los siguientes: •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Precipitaciones: entre 5 y 55 mm",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-17T15:31:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },
