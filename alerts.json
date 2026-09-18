@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-18T22:31:42+00:00",
+ "generado": "2026-09-18T23:09:34+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "bb8163679374",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A487 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera. 17-09 18-09 Abrir aquí Aviso A488-1 Probables tormentas eléctricas asociadas a chubascos aislados en litoral, cordillera de la costa, pampa, precordillera Occidental, precordillera Alto Loa, precordillera Salar y cordillera. 17-09 18-09 Abrir aquí Aviso A489 Viento normal a moderado con probabilida",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-18T19:45:42.4242-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "f195c349bfa8",
    "nivel": "ATP",
@@ -117,20 +131,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-18T12:41:52.5252-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-16-18-51-41",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "bb8163679374",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A487 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera. 17-09 18-09 Abrir aquí Aviso A488-1 Probables tormentas eléctricas asociadas a chubascos aislados en litoral, cordillera de la costa, pampa, precordillera Occidental, precordillera Alto Loa, precordillera Salar y cordillera. 17-09 18-09 Abrir aquí Aviso A489 Viento normal a moderado con probabilid",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-18T06:09:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04",
    "origen": "senapred_web",
    "regiones_extra": []
   },
