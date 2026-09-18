@@ -1,27 +1,27 @@
 {
- "generado": "2026-09-18T09:49:44+00:00",
+ "generado": "2026-09-18T14:19:03+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "08-09-2026",
   "hasta": "18-09-2026"
  },
  "totales": {
-  "alertas": 65,
+  "alertas": 68,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
    "AMARILLA": 14,
-   "ATP": 51
+   "ATP": 54
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    30
+    32
    ],
    [
     "viento",
-    19
+    20
    ],
    [
     "evento meteorológico",
@@ -283,7 +283,7 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 1,
-  "ATP": 14,
+  "ATP": 15,
   "regiones_roja": []
  },
  "serie": [
@@ -356,6 +356,13 @@
    "AMARILLA": 2,
    "ATP": 9,
    "sae": 0
+  },
+  {
+   "fecha": "2026-09-18",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 3,
+   "sae": 0
   }
  ],
  "escalamientos": [
@@ -394,6 +401,33 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "18-09 11:10",
+   "nivel": "ATP",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/declara-alerta-temprana-preventiva-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-evento-meteorologico-2026-09-17-19-13-08"
+  },
+  {
+   "ts": "18-09 10:46",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26"
+  },
+  {
+   "ts": "18-09 06:09",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04"
+  },
   {
    "ts": "17-09 20:09",
    "nivel": "ATP",
@@ -492,33 +526,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59"
-  },
-  {
-   "ts": "16-09 19:34",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "nevadas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
-  },
-  {
-   "ts": "16-09 19:33",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "actividad volcánica",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53"
-  },
-  {
-   "ts": "16-09 19:03",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Antofagasta",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
