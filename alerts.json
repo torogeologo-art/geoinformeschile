@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-17T22:15:15+00:00",
+ "generado": "2026-09-18T00:24:01+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "0f616495549a",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A487 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera. 17-09 18-09 Abrir aquí Aviso A488-1 Probables tormentas eléctricas asociadas a chubascos aislados en litoral, cordillera de la costa, pampa, precordillera Occidental, precordillera Alto Loa, precordillera Salar y cordillera. 17-09 18-09 Abrir aquí Aviso A489 Viento normal a moderado con probabilid",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-17T20:09:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "5fb2ba94d2db",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA166 Viento moderado a fuerte en Isla de Pascua. 19-09 20-09 Abrir aquí Aviso A483-1 Viento normal a moderado en precordillera y valles precordilleranos, y cordillera. 19-09 21-09 Abrir Aquí Aviso A484 Viento normal a moderado en Isla de Pascua. 17-09 17-09 Abrir Aquí Aviso A485 Precipitaciones normales a moderadas en Isla de Pascua. 20-09 20-09 Abrir Aquí Avi",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-17T18:37:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-09-17-19-17-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "72b48ed79bc7",
    "nivel": "ATP",
@@ -137,30 +165,16 @@
    "regiones_extra": []
   },
   {
-   "id": "17aead77104f",
+   "id": "ad29a2ee345a",
    "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica evento y cobertura de Alerta Temprana Preventiva a evento meteorológico para la Provincia de El Loa y comuna de Antofagasta",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA164 Viento moderado a fuerte con desarrollo de tormentas de arena en cordillera de la costa sector Sierra Vicuña Mackenna 17-09 17-09 Abrir Aquí Aviso A487 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera. 17-09 18-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Direcc",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se ha cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico A479 Altas temperaturas en pampa de la región. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED Cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas , que se mantuvo vigente desde el 14 de septiembre del 2026.",
    "region": "Antofagasta",
    "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-16T20:55:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "88d4d878cb34",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA163 Viento moderado a fuerte con desarrollo de tormentas de arena en litoral, cordillera de la costa y pampa. 17-09 18-09 Abrir Aquí Alerta AA160 Evento de altas temperaturas extremas en litoral. 17-08 18-09 Abrir Aquí Aviso A480 Probables tormentas eléctricas en cordillera. 17-09 18-09 Abrir Aquí Aviso A481-1 Precipitaciones normales a moderadas en precordill",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-16T20:35:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00",
+   "estado": "CANCELADA",
+   "ts": "2026-09-16T20:40:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-09-14-17-11-28",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -193,6 +207,20 @@
    "regiones_extra": [
     "Los Ríos"
    ]
+  },
+  {
+   "id": "0a0ca7c4d651",
+   "nivel": "ATP",
+   "tipo": "otros",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Tarapacá por evento zoosanitario",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , a través de la emisión de la orden N° 367/2026 de dicho servicio, emitida el 15 de septiembre del 2026, en relación con la situación zoosanitaria asociada a Influenza Aviar de Alta Patogenicidad (IAAP) en la Región de Tarapacá, se informa que actualmente se evidencia una escenario epidemiológico favorable, caracterizado por una disminución significativa de los casos y hallazgos asociados a Influenza Aviar. Considerando a la información técnica proporcionada por el SAG de la Región de Tarapacá, la Direcci",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-16T18:51:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-zoosanitario-2026-06-17-17-41-08",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "2b544bbf8de9",
@@ -971,48 +999,6 @@
    "url": "https://t.me/SenapredChile/1551",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "72eb5e328eba",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Sierra Gorda y María Elena por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alarma AAA8 Precipitaciones intensas en el litoral (Tocopilla y Taltal) y cordillera de la costa (Tocopilla hasta Taltal). 18-08 18-08 Abrir Aquí Alerta AA139-1 Viento moderado a fuerte con desarrollo de ventiscas, en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 17-08 18-08 Abrir Aquí Alerta AA141-",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-18T13:18:28.2828-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-08-03-18-35-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "4f2e051b20e9",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de O’Higgins, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A397-5 Viento normal a moderado en cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por evento meteorológico , la cual se mantuvo vigente desde el 16 de agosto",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-18T08:53:18.1818-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-08-04-17-58-34",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e21957faca51",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que los originaron, han sido cancelados los siguientes alertamientos para la Región de Ñuble: Alertamiento Pronóstico Aviso A397-5 Viento normal a moderado en cordillera Aviso A412-1 Viento normal a moderado en litoral, cordillera de la costa, valle y precordillera. Aviso A414-3 Tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en la región. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-18T00:07:41.4141-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-07-12-18-52-58",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "3c09c6cd002a",
