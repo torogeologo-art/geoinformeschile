@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-18T17:49:25+00:00",
+ "generado": "2026-09-18T20:00:07+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,76 @@
  },
  "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "e63b0cc5e4e4",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA165-2 Viento normal a moderado con en cordillera. 19-09 20-09 Abrir aquí Aviso A483-3 Viento normal a moderado en precordillera y cordillera. 20-09 21-09 Abrir aquí Aviso A492-3 Probables tormentas eléctricas en precordillera y cordillera. 18-09 18-09 Abrir aquí Por otra parte, conforme a lo indicado en el Informe de Amenaza Meteorológica, los montos estimados para los pró",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-18T16:11:45.4545-03:00",
+   "url": "https://senapred.cl/alerta/declara-alerta-temprana-preventiva-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-evento-meteorologico-2026-09-17-19-13-08",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "7c1835cc3d66",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarilla [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) , emitido durante la presente jornada, y según el análisis de los sistemas de monitoreo e imágenes de cámaras instaladas en las inmediaciones del complejo volcánico Nevados de Chillán, se presenta un resumen de los principales antecedentes: Resumen Fecha del evento 18 de sept",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-18T15:58:39.3939-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "4f81aab7944f",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica evento de Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA165-2 Viento moderado a fuerte en litoral, valle y cordillera. 19-09 20-09 Abrir Aquí Aviso A483-3 Viento normal a moderado en cordillera de la costa, precordillera y cordillera. 19-09 21-09 Abrir Aquí Aviso A493 Precipitaciones normales a moderadas en el litoral, valle, precordillera y cordillera. 19-09 20-09 Abrir Aquí Aviso A494 Probables tormentas eléctricas",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-18T15:26:05.055-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "8c58167780e2",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA165-2 Viento moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 19-09 20-09 Abrir aquí Aviso A483-3 Viento normal a moderado en precordillera y cordillera. 19-09 21-09 Abrir aquí Aviso A492 Probables tormentas eléctricas en cordillera. 17-09 18-09 Abrir aquí Aviso A493 Precipitaciones normales a moderadas en el litoral, cordillera de la costa,",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-18T15:02:02.022-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-18-15-03-19",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "54a37fdce49e",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A483-3 Viento normal a moderado en Litoral, Chiloé y Litoral Interior. 19-09 21-09 Abrir aquí Por otra parte, conforme a lo indicado en el boletín de Amenaza Meteorológica, los montos estimados para los próximos días en la región son los siguientes: •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preci",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-18T14:58:14.1414-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "ea26cb024c36",
    "nivel": "ATP",
@@ -33,34 +103,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-18T12:41:52.5252-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-16-18-51-41",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "06799985c402",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA165 Viento normal a moderado con desarrollo de ventisca en cordillera. 20-09 20-09 Abrir aquí Aviso A483-1 Viento normal a moderado en precordillera y cordillera. 19-09 21-09 Abrir aquí Aviso A492-2 Probables tormentas eléctricas en precordillera y cordillera. 18-09 18-09 Abrir aquí Por otra parte, conforme a lo indicado en el Informe de Amenaza Meteorológica, los montos e",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-18T11:10:46.4646-03:00",
-   "url": "https://senapred.cl/alerta/declara-alerta-temprana-preventiva-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-evento-meteorologico-2026-09-17-19-13-08",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "54a37fdce49e",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A483-1 Viento normal a moderado en litoral. 19-09 21-09 Abrir aquí Por otra parte, conforme a lo indicado en el boletín de Amenaza Meteorológica, los montos estimados para los próximos días en la región son los siguientes: •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Precipitaciones: entre 3 y 55 mm",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-18T10:46:40.4040-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -139,20 +181,6 @@
    ]
   },
   {
-   "id": "1461cc3ed190",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA165 Viento moderado a fuerte con desarrollo de ventisca en cordillera. 20-09 20-09 Abrir Aquí Aviso A483 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 19-09 21-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-17T14:31:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "bfe7e45c8795",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -181,20 +209,6 @@
    "regiones_extra": []
   },
   {
-   "id": "e47121a9b205",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Ñuble por Evento Meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A483 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 19-09 21-09 Abrir aquí Por otra parte, conforme a lo indicado en su Boletín de Amenaza Meteorológica, los montos estimados para los próximos días en la región son los siguientes: Precipitación: Entre 10 y 25 mm. Nevadas: Entre 20 y 30 cm, en zona cordillerana. Viento: Veloc",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-17T11:03:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-09-17-11-34-15",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "ad29a2ee345a",
    "nivel": "ATP",
    "tipo": "evento meteorológico",
@@ -205,20 +219,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-16T20:40:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-09-14-17-11-28",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "698d66e921c2",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarilla [1] . En relación con el Reporte de Actividad Volcánica (RAV) , se indica que entre el 01 y 15 de septiembre, la actividad sísmica del Complejo Volcánico Nevados de Chillán estuvo dominada por sismos de largo período (LP) asociados a la dinámica de fluidos, acompañados por sismicidad volcano-tectónica (VT), híbrida (HB), sismos tipo tornillo (TO)",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-16T19:34:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
    "origen": "senapred_web",
    "regiones_extra": []
   },
