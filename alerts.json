@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-18T20:45:28+00:00",
+ "generado": "2026-09-18T22:31:42+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "f195c349bfa8",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA465-2 Viento moderado a fuerte en cordillera. 19-09 20-09 Abrir aquí Aviso A483-3 Viento normal a moderado en cordillera. 19-09 20-09 Abrir aquí Aviso A492-3 Probables tormentas eléctricas en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera. 18-09 18-09 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-18T19:14:42.4242-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-09-17-18-59-54",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "e63b0cc5e4e4",
    "nivel": "ATP",
@@ -117,20 +131,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-18T06:09:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "88b9146e41c3",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A483-1 Viento normal a moderado en cordillera. 19-09 20-09 Abrir Aquí Aviso A492-1 Probables tormentas eléctricas en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera. 17-09 18-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED modifi",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-17T23:26:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-09-17-18-59-54",
    "origen": "senapred_web",
    "regiones_extra": []
   },
