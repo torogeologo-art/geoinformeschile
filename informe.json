@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-18T14:19:03+00:00",
+ "generado": "2026-09-18T17:49:28+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "08-09-2026",
@@ -11,17 +11,17 @@
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "AMARILLA": 14,
-   "ATP": 54
+   "ATP": 55,
+   "AMARILLA": 13
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    32
+    33
    ],
    [
     "viento",
-    20
+    19
    ],
    [
     "evento meteorológico",
@@ -48,7 +48,7 @@
     "region": "Atacama",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "08-09",
+    "ts": "09-09",
     "comuna_link": "",
     "region_link": "atacama"
    },
@@ -136,15 +136,6 @@
     "region_link": "arica y parinacota"
    },
    {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "08-09",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
     "lugar": "Región de Los Lagos",
     "region": "Los Lagos",
     "nivel": "ATP",
@@ -161,6 +152,15 @@
     "ts": "09-09",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "09-09",
+    "comuna_link": "",
+    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Maule",
@@ -290,8 +290,8 @@
   {
    "fecha": "2026-09-08",
    "ROJA": 0,
-   "AMARILLA": 2,
-   "ATP": 2,
+   "AMARILLA": 1,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -361,7 +361,7 @@
    "fecha": "2026-09-18",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 3,
+   "ATP": 5,
    "sae": 0
   }
  ],
@@ -401,6 +401,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "18-09 14:37",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-17-11-21-06"
+  },
+  {
+   "ts": "18-09 12:41",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-16-18-51-41"
+  },
   {
    "ts": "18-09 11:10",
    "nivel": "ATP",
@@ -508,24 +526,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-09-17-11-34-15"
-  },
-  {
-   "ts": "17-09 10:43",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-17-11-21-06"
-  },
-  {
-   "ts": "17-09 10:05",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Arica y Parinacota",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
