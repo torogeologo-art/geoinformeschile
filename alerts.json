@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-19T19:31:55+00:00",
+ "generado": "2026-09-19T21:25:49+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "f36d20a32231",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A483-4 Viento normal a moderado en litoral, Chiloé y litoral interior. 19-09 20-09 Abrir aquí Por otra parte, conforme a lo indicado en la actualización del boletín de Amenaza Meteorológica, los montos estimados para los próximos días en la región son los siguientes: •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-19T17:23:27.2727-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "b17225a3dc4e",
    "nivel": "ATP",
@@ -161,20 +175,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-18T15:58:39.3939-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "54a37fdce49e",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A483-3 Viento normal a moderado en Litoral, Chiloé y Litoral Interior. 19-09 21-09 Abrir aquí Por otra parte, conforme a lo indicado en el boletín de Amenaza Meteorológica, los montos estimados para los próximos días en la región son los siguientes: •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preci",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-18T14:58:14.1414-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },
