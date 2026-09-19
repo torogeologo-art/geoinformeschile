@@ -1,27 +1,27 @@
 {
- "generado": "2026-09-19T14:17:48+00:00",
+ "generado": "2026-09-19T17:23:01+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "09-09-2026",
   "hasta": "19-09-2026"
  },
  "totales": {
-  "alertas": 75,
+  "alertas": 78,
   "sae": 0,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
    "AMARILLA": 14,
-   "ATP": 61
+   "ATP": 64
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    38
+    40
    ],
    [
     "viento",
-    21
+    22
    ],
    [
     "evento meteorológico",
@@ -132,6 +132,15 @@
     "ts": "18-09",
     "comuna_link": "",
     "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "19-09",
+    "comuna_link": "",
+    "region_link": "la araucania"
    }
   ],
   "viento": [
@@ -388,7 +397,7 @@
    "fecha": "2026-09-19",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 3,
+   "ATP": 6,
    "sae": 0
   }
  ],
@@ -451,6 +460,33 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "19-09 13:30",
+   "nivel": "ATP",
+   "lugar": "Región de Valparaíso",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-09-17-19-17-59"
+  },
+  {
+   "ts": "19-09 13:15",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-2026-09-18-23-43-54"
+  },
+  {
+   "ts": "19-09 13:01",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-18-15-03-19"
+  },
   {
    "ts": "19-09 07:09",
    "nivel": "AMARILLA",
@@ -549,33 +585,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-17-11-21-06"
-  },
-  {
-   "ts": "18-09 12:41",
-   "nivel": "ATP",
-   "lugar": "Región de Atacama",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-16-18-51-41"
-  },
-  {
-   "ts": "18-09 11:10",
-   "nivel": "ATP",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/declara-alerta-temprana-preventiva-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-evento-meteorologico-2026-09-17-19-13-08"
-  },
-  {
-   "ts": "18-09 10:46",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
