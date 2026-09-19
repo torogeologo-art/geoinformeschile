@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-18T23:09:34+00:00",
+ "generado": "2026-09-19T00:40:17+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -13,11 +13,11 @@
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A487 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera. 17-09 18-09 Abrir aquí Aviso A488-1 Probables tormentas eléctricas asociadas a chubascos aislados en litoral, cordillera de la costa, pampa, precordillera Occidental, precordillera Alto Loa, precordillera Salar y cordillera. 17-09 18-09 Abrir aquí Aviso A489 Viento normal a moderado con probabilida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA168 Tormentas Eléctricas (asociadas con chubascos aislados) en litoral de la comuna de Taltal. 18-09 19-09 Abrir aquí Aviso A487 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera. 17-09 18-09 Abrir aquí Aviso A488-1 Probables tormentas eléctricas asociadas a chubascos aislados en litoral, cordillera de la costa, pampa, precordillera Occidental, prec",
    "region": "Antofagasta",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-09-18T19:45:42.4242-03:00",
+   "ts": "2026-09-18T20:41:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04",
    "origen": "senapred_web",
    "regiones_extra": []
@@ -929,36 +929,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-altas-temperaturas-2026-08-19-17-52-10",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "ac0a7797922e",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para la Región de Atacama por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , las distintas estaciones fluviométricas de la región presentan una disminución de sus caudales a rangos normales, lo que supone una disminución del riesgo para la población cercana a estos cursos de agua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida Regional, la cual se mantuvo vigente desde el 12 de agosto de 2026.",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-19T19:49:45.4545-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-08-12-11-48-30",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "63a5df538707",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que lo originaron. Alertamiento Pronóstico Aviso A427-1 Viento normal a moderado en cordillera austral sur, insular central y pampa patagónica sur. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por viento para las provincia",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-19T11:10:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-rio-verde-y-punta-arenas-por-viento-2026-08-16-16-32-13",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "fd514dc5e08f",
