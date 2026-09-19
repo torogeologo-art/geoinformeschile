@@ -1,13 +1,71 @@
 {
- "generado": "2026-09-19T01:12:49+00:00",
+ "generado": "2026-09-19T05:08:51+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "3ae718aa2b3c",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA168 Tormentas Eléctricas (asociadas con chubascos aislados) en litoral de la comuna de Taltal. 18-09 19-09 Abrir aquí Aviso A487 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera. 17-09 18-09 Abrir aquí Aviso A489 Viento normal a moderado con probabilidad de ventisca en cordillera de la costa, precordillera Occidental, precordillera Alto Loa, precord",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-19T01:33:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e2fdc8b6af36",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A489 Viento normal a moderado con probabilidad de ventisca en cordillera. 18-09 20-09 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que los originaron han sido cancelados los siguientes alertamientos meteorológicos: Alertamiento Pronóstico Alerta AA160 Evento de altas temperaturas extremas en el litoral Alerta AA161 Nevadas moderadas",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-19T01:28:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
+  {
+   "id": "ac3e6229d7f3",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso A487 Nevadas normales a moderadas en cordillera. 17-09 18-09 Abrir Aquí Aviso A489 Viento normal a moderado en cordillera. 18-09 20-09 Abrir Aquí Del mismo modo, debido al debilitamiento de las condiciones que los originaron han sido cancelados los siguientes alertamientos meteorológicos: Alertamiento Pronóstico Alerta AA163 Viento moderado a fuerte con desarrollo",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-19T01:21:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "41fed6d4e058",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A483-3 Viento normal a moderado en litoral, cordillera de la costa y valle de la región. 19-09 21-09 Abrir aquí Del mismo modo, la Armada de Chile, indica aviso de temporal en área oceánica y mal tiempo en área costera desde Punta Boyeruca a Corral, desde el sábado 19 al domingo 20 de septiembre de 2026. En consideración a estos antecedentes y en coordinación con la Delegación Pre",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-18T23:38:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-2026-09-18-23-43-54",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "be996f43e7cd",
    "nivel": "ATP",
@@ -19,20 +77,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-18T21:31:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-16-18-51-41",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "bb8163679374",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA168 Tormentas Eléctricas (asociadas con chubascos aislados) en litoral de la comuna de Taltal. 18-09 19-09 Abrir aquí Aviso A487 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera. 17-09 18-09 Abrir aquí Aviso A488-1 Probables tormentas eléctricas asociadas a chubascos aislados en litoral, cordillera de la costa, pampa, precordillera Occidental, prec",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-18T20:41:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -135,22 +179,6 @@
    "regiones_extra": []
   },
   {
-   "id": "d3f4c8ecb140",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA163 Viento moderado a fuerte con desarrollo de tormentas de arena en litoral, cordillera de la costa y pampa. 17-09 18-09 Abrir Aquí Alerta AA160 Evento de altas temperaturas extremas en litoral. 17-08 18-09 Abrir Aquí Aviso A480-2 Probables tormentas eléctricas asociadas a chubascos aislados en cordillera de la costa, pampa, precordillera y cordillera. 17-09",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-17T18:49:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Tarapacá"
-   ]
-  },
-  {
    "id": "5fb2ba94d2db",
    "nivel": "ATP",
    "tipo": "viento",
@@ -163,22 +191,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-09-17-19-17-59",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "46f850f9a28a",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA160 Evento de altas temperaturas extremas en el litoral 17-09 18-09 Abrir aquí Alerta AA161 Nevadas moderadas a fuertes en cordillera. 17-09 18-09 Abrir aquí Alerta AA162 Precipitaciones moderadas a fuertes en precordillera. 17-09 18-09 Abrir aquí Alerta AA163 Viento moderado a fuerte en el litoral, cordillera de la costa y pampa. Con desarrollo de to",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-17T15:29:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
   },
   {
    "id": "bfe7e45c8795",
