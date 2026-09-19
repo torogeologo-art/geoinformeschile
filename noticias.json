@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-19T01:12:50+00:00",
+ "generado": "2026-09-19T05:59:07+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -2513,6 +2513,27 @@
    "comuna": "Santa Bárbara",
    "noticias": [
     {
+     "titulo": "Copeco eleva a alerta amarilla a dos municipios de Santa Bárbara y Cortés - oncenoticias.hn",
+     "medio": "oncenoticias.hn",
+     "fecha": "2026-09-19T01:16:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMXRzNS1nWkVXY1p3UHYyaVVhMWFBcDJvNlU4ZFMzZTF3ZzRJa2FjQXJMUHl2bWlTVzRDdFR6Rk9jeGpZN0F3ZVVMa1J1anZGYUx2a1dJVDVRWXhSNUgyYmpNYTRfT2xLd3JBRDFiaUQ3UHZlRmRuUkkxUS1MZUZRbXBualpzTENRaVZzZFJxRQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Copeco amplía Alerta Amarilla ante lluvias intensas en Santa Bárbara y Cortés - Hondudiario",
+     "medio": "Hondudiario",
+     "fecha": "2026-09-19T01:13:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVVNBZnRPVlNlRGl4NS1qSjZjdDc1aDB1UzM0LWNsdEpDTU9NWXhJal92Y3FqOW1xR0tTMXBFUUFOOWZhNHI4Vmh1OW51Q2lKcFRIQlVrTzFka2ZNeE95N284U0ZiT0Zza3h2M2NrVXhXdDhxOEx5UmItcEEyaUdpWUJLc0VuVVMycVE2ZG1wWDJvclRqclFrS2dxSUg1WWJXcVgyUkswamhQWTZQX3BUcDhyT1hOd1Bf?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Emergencia en Las Vegas, Santa Bárbara: reportan 82 viviendas afectadas - Diario Tiempo de Honduras",
+     "medio": "Diario Tiempo de Honduras",
+     "fecha": "2026-09-18T22:19:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZXgtQUxZMXFEUGtGMTMxN2dmb0tUeGM0V1YxY2o4Tm9VajVhd1ZkS1lMZlBxMDAzRXo4S0J6U004cUJBaWFwc1VfaTQtUzRqVnkxSjQtRzZmWWhIaHA4RmdBUzAtbVJrNHp6N2VRbDZxWVByNTJLaXdyejRvWHY1dXUyUnFxU3NlbVdOZE45Sm4?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Lluvias intensas provocan alerta amarilla y verde en Santa Bárbara - LaPrensa.hn",
      "medio": "LaPrensa.hn",
      "fecha": "2026-09-18T15:01:50+00:00",
@@ -2563,27 +2584,6 @@
      "medio": "El Contraste",
      "fecha": "2026-08-03T16:49:21+00:00",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYmRoWlRWLXNtRzFXNzdwdEtsajYzWDdZOGJOV05TaTRaYldKai1sYlYwTGk1YTRxVjRoMWdpTERzSlJWTUgwRXFfSS13ZTZCemhnTHY0NldRMk1TeTQyZTE4MGh1SmY3ZGl0X295ZFFLV215ZERzLXJubjlkdUVlMy1HN08ydjZ2aGRTTEdVcVBlRW5SSEE2bXhaMEdTb2pmWTc0bldHWndnU204Z1d2WUtpWUZ4eWhfWFVyU3FRTmFYTUFWT09jUmRqeXFjUlRpWFYxTlduYlZsdG1QNExlX1NEUkJWTkN5SzJxc2xKTQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "'Somos zona de sacrificio': Edil de Santa Bárbara acusa a centrales eléctricas por inundaciones en medio del sistema frontal - Meganoticias",
-     "medio": "Meganoticias",
-     "fecha": "2026-08-02T13:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ1JsNDlZLTVNVVR6RmhmMGE2V1k4RzZLZzF1azhPVGRqWTdZYWpDTEV6OUc3blp5d3lITlhHYzUzN1JSUVJRUk5kMTZLczc2T2dsY2R2bENYQ19iR2RBcm5hVzhHbW5fc3FWSDJHU3hYLXFOU3c0NUN5OS1yZjQyMnBHNDJTZGVlQjFIaG1WeFBRb0RhNDAyQWNTMTZING5Ha1l1TFE4d2RtaUtXa2JTYmJTYzFQSGRWcGRvRXN4WFNxR0pGeE9YczFfYzVGaXpGRmJJUlVSdEtrdnlQ0gHiAUFVX3lxTE5mU0MxdlRMYWxpeUxEQWh6WmtzMU5lbVJ4RGtyS2JoU0MxTUZyVVFQZmFFQ1VqRURKcUZOTUFXekxaU3VuM3dWcENPYm05bmMxV2ZlQkJSQTBESUlkSWt0dmFqVUxOT1dLRGZqVVFrajduendDaXNhVGVsMmN3MjAzYmp4WHR2TzhJVXRwZGEweUNpM2pFQkNSSHFGWVdpNXZkS1hfZnd1LUdPblY5UTM3UVdkZm41anlaNEFnR0pCY3lfelZCdmV4WnJORVZHcXF4MEhVaDFHblRtVlNtQ05BQlE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "SENAPRED activa mensajería SAE preventiva por riesgo de crecidas en Quilleco, Santa Bárbara y Nacimiento - El Contraste",
-     "medio": "El Contraste",
-     "fecha": "2026-08-02T00:58:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWHdCamR2V1VNMmpYVkFxUHhhbzVpNzV5bk43QzNBdFFQTGJnZnhnVmVZWUM4NWhzWW1OYkhaNXJaQW1hOFR3TU1ybjRMT0ZpQWZKanA0bkIyeUdwUHhicTZ0ZXBjX0hNM1ZKWVhXYllIY3VFdWV2THFVSXBQU0dZYmFLdEd0NF9JbnNiQ3otZVh0M2VFSGdzR1ZlSGRSWnZuc0RHNjk1bUNoOTN1MmFJS0RMV1MxMEE0ZnM2ZU1ieDJDaktpWWxoXzNoUmlwNENMcHNCUl9WeGdEcHpCeXc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred pide evitar riberas de los ríos Biobío, Duqueco, Quillaileo en Santa Bárbara por crecida - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-08-02T00:51:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYWpfNUg2blN2cGtydkJnMVJCd3Q1MGlmYXExOEp1WmhuTnlERW9kbFNfTF9KUWE2YUhfQlpwSFc3NFNGeXljck8xdFVSeWxnUTBuWHg0bVpoVFlBa1BxOUhVWkc0SWdMRThPTWVNNnE5UGhvbVdsdVpWVXBJZ280YjNlSDdtTG84dEgxZ21RbkJxV2pLMHhIdmktTHJkNlk4M0dzRmFLS1lQMzBOcGlKWEZKVnh4NnF5cmxYXzlYOGxPanZVNGx2dXZkMjNQTEo5TmEycDIyNTdOaWlCUERMaEF0YnN4VktrMWxBeWZzcXRadmkwVms2Q0dVNA?oc=5",
      "sector": null
     }
    ]
