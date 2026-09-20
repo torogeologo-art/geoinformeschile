@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-20T19:29:14+00:00",
+ "generado": "2026-09-20T21:20:20+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "dbdab2ba9ff7",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A483-4 Viento normal a moderado en litoral, Chiloé y litoral interior. 19-09 20-09 Abrir aquí Aviso A497 Precipitaciones normales a moderadas con isoterma cero alta en litoral, cordillera de la costa, valle, precordillera y cordillera. 23-09 24-09 Abrir aquí Por otra parte, conforme a lo indicado en el boletín de Amenaza Meteorológica, los montos estimados para los próximos",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-20T17:01:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1dbc1d21e958",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A483-4 Viento normal a moderado en litoral, cordillera de la costa y valle. 19-09 20-09 Abrir aquí Aviso A497 Precipitaciones normales a moderadas con isoterma cero alta en litoral, cordillera de la costa, valle, precordillera y cordillera. 23-09 24-09 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que lo originaron ha sido cancelado el siguiente aler",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-20T17:00:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-2026-09-18-23-43-54",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "3d4747ba9745",
    "nivel": "ATP",
@@ -53,20 +81,6 @@
    "regiones_extra": []
   },
   {
-   "id": "f36d20a32231",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A483-4 Viento normal a moderado en litoral, Chiloé y litoral interior. 19-09 20-09 Abrir aquí Por otra parte, conforme a lo indicado en la actualización del boletín de Amenaza Meteorológica, los montos estimados para los próximos días en la región son los siguientes: •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-19T17:23:27.2727-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "b17225a3dc4e",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -91,20 +105,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-19T13:30:58.5858-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-09-17-19-17-59",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "f6fed81ac580",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica evento de Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A496 Probables tormentas eléctricas en litoral y cordillera de la costa. 19-09 20-09 Abrir aquí Aviso A483-3 Viento normal a moderado en litoral, cordillera de la costa y valle. 19-09 20-09 Abrir aquí Asimismo, el Centro Meteorológico Marítimo de Talcahuano emitió un Aviso Especial por la probable ocurrencia de nubes convectivas en el sector oceánico y costero entre las regio",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-19T13:15:54.5454-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-2026-09-18-23-43-54",
    "origen": "senapred_web",
    "regiones_extra": []
   },
