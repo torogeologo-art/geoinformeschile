@@ -1,13 +1,29 @@
 {
- "generado": "2026-09-20T17:02:52+00:00",
+ "generado": "2026-09-20T18:50:25+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 18,
+ "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "3d4747ba9745",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Torres del Paine por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), según su Pronóstico Meteorológico Especial emitido por Centro Meteorológico Regional Austral, se indica el debilitamiento de las condiciones meteorológicas adversas para el paso “John Gardner” en el Parque Nacional Torres del Paine. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la comuna de Torres del Paine por evento meteorológico , que se mantuvo vigente desde el",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-20T15:08:04.044-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-evento-meteorologico-2026-09-09-10-22-11",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
   {
    "id": "240623f14218",
    "nivel": "AMARILLA",
@@ -305,22 +321,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-09-10-17-46-20",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "1c29307632c1",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la comuna de Torres del Paine por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , según su Pronóstico Meteorológico Especial emitido por Centro Meteorológico Regional Austral, entre el martes 15 y el jueves 17 de septiembre se pronostican las siguientes condiciones para la zona del paso John Gardner en el Parque Nacional Torres del Paine. Condición de tiempo: Nublado variando a cubierto y nevadas. Viento: Velocidades estimadas entre 40 y 100 km/h. Temperaturas: min. -21°C/ máx. 1°C. Isoterma 0 °C: Elevación estimada entre 0 y 1.100 m.s.n.m. En consideración a lo anterior y en coordin",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-14T17:43:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-evento-meteorologico-2026-09-09-10-22-11",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "8b64e33b8d8e",
