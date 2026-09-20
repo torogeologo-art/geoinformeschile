@@ -1,17 +1,17 @@
 {
- "generado": "2026-09-20T00:01:19+00:00",
+ "generado": "2026-09-20T04:57:27+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "10-09-2026",
   "hasta": "20-09-2026"
  },
  "totales": {
-  "alertas": 73,
+  "alertas": 74,
   "sae": 0,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 62,
+   "ATP": 63,
    "AMARILLA": 11
   },
   "por_tipo": [
@@ -21,7 +21,7 @@
    ],
    [
     "viento",
-    21
+    22
    ],
    [
     "evento meteorológico",
@@ -242,6 +242,15 @@
     "ts": "19-09",
     "comuna_link": "",
     "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "19-09",
+    "comuna_link": "",
+    "region_link": "los rios"
    }
   ],
   "evento meteorológico": [
@@ -319,7 +328,7 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 2,
-  "ATP": 15,
+  "ATP": 16,
   "regiones_roja": []
  },
  "serie": [
@@ -390,7 +399,7 @@
    "fecha": "2026-09-19",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 8,
+   "ATP": 9,
    "sae": 0
   }
  ],
@@ -448,6 +457,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "19-09 21:13",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-09-19-21-21-44"
+  },
   {
    "ts": "19-09 17:23",
    "nivel": "ATP",
@@ -564,15 +582,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
-  },
-  {
-   "ts": "18-09 15:26",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
