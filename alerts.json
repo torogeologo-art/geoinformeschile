@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-20T00:01:16+00:00",
+ "generado": "2026-09-20T01:29:24+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "004d11f7ac0a",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Ríos. Alertamiento Pronóstico Inicio Fin Enlace Aviso A483-4 Viento normal a moderado en el litoral. 19-09 20-09 Abrir aquí Asimismo, el Centro Meteorológico Marítimo de Talcahuano emitió un Aviso Especial por la probable ocurrencia de nubes convectivas&nbsp; factibles de generar trombas marinas en el sector oceánico y costero de la región. En consideración a estos antecedentes y en coordinación con la Delegación Presidenc",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-19T21:13:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-09-19-21-21-44",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "f36d20a32231",
    "nivel": "ATP",
