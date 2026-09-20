@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-20T09:43:26+00:00",
+ "generado": "2026-09-20T12:09:32+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "240623f14218",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Se modifica Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A489 Viento normal a moderado con probabilidad de ventisca en cordillera. 19-09 20-09 Abrir Aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED modifica el evento de la Alerta Temprana Preventiva a viento para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-20T07:55:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-16-18-51-41",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "004d11f7ac0a",
    "nivel": "ATP",
@@ -103,20 +117,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-19T07:14:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2289ae36d9e9",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las comuna de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A487 Nevadas normales a moderadas con probabilidad de ventisca para cordillera. 17-09 19-09 Abrir Aquí Aviso A489 Viento normal a moderado con probabilidad de ventisca en cordillera. 19-09 20-09 Abrir Aquí Del mismo modo, debido al debilitamiento de las condiciones que los originaron han sido cancelados los siguientes alertamientos meteorológicos: Alertamiento Pro",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-19T07:09:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-16-18-51-41",
    "origen": "senapred_web",
    "regiones_extra": []
   },
