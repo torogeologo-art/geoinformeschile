@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-20T21:47:06+00:00",
+ "generado": "2026-09-20T23:23:32+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "9cfa5008bcda",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Maule , se reportan desprendimientos de techumbres, caída de árboles y afectación al tendido eléctrico en sector La Tercera en la comuna de Longaví, producto de fuertes vientos en el lugar. Cabe mencionar que, personal municipal se dirige al lugar para realizar un levantamiento de la información y evaluación de daños. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por event",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-20T19:53:03.033-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "dbdab2ba9ff7",
    "nivel": "ATP",
@@ -77,20 +91,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-19T21:13:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-09-19-21-21-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "b17225a3dc4e",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA165-2 Viento moderado a fuerte en litoral, valle y cordillera. 19-09 20-09 Abrir aquí Aviso A483-4 Viento normal a moderado en cordillera de la costa, precordillera y cordillera. 19-09 21-09 Abrir aquí Aviso A493-1 Precipitaciones normales a moderadas en el litoral, valle, precordillera y cordillera. 19-09 19-09 Abrir aquí Aviso A494-1 Probables tormentas eléctri",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-19T16:27:59.5959-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },
