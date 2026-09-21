@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-21T01:27:11+00:00",
+ "generado": "2026-09-21T05:01:18+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "d9d325bf6d43",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las comuna de Combarbalá, Illapel, La Higuera, Monte Patria, Paihuano, Río Hurtado, Salamanca y Vicuña por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Coquimbo, debido al debilitamiento de las condiciones que lo originaron. Alertamiento Pronóstico Alerta AA465-2 Viento moderado a fuerte en cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para las comunas de Combarbalá, Illapel, La Higuera, Monte Patria, Paihuano, Río Hurtado, Salamanca",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-21T01:43:33.3333-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-09-17-18-59-54",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "6e5f43833799",
    "nivel": "AMARILLA",
@@ -133,20 +147,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-19T13:01:36.3636-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-18-15-03-19",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7b257595ec0a",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica la cobertura y evento de la Alerta Temprana Preventiva para las comuna de Combarbalá, Illapel, La Higuera, Monte Patria, Paihuano, Río Hurtado, Salamanca y Vicuña por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA465-2 Viento moderado a fuerte en cordillera. 19-09 20-09 Abrir Aquí Del mismo modo, debido al debilitamiento de las condiciones que lo originaron, han sido cancelados los siguientes alertamientos en la región: Alertamiento Pronóstico Aviso A483-3 Viento normal a moderado en cordillera. Aviso A492-3 Probables tormentas eléctricas en litoral, cordillera de la costa, precordiller",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-19T03:19:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-09-17-18-59-54",
    "origen": "senapred_web",
    "regiones_extra": []
   },

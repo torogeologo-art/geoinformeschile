@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-21T00:03:46+00:00",
+ "generado": "2026-09-21T05:01:24+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "11-09-2026",
@@ -17,11 +17,11 @@
   "por_tipo": [
    [
     "tormentas eléctricas",
-    32
+    31
    ],
    [
     "viento",
-    23
+    24
    ],
    [
     "evento meteorológico",
@@ -51,15 +51,6 @@
     "ts": "12-09",
     "comuna_link": "",
     "region_link": "arica y parinacota"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "11-09",
-    "comuna_link": "",
-    "region_link": "atacama"
    },
    {
     "lugar": "Región de Maule",
@@ -105,6 +96,15 @@
     "ts": "12-09",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "12-09",
+    "comuna_link": "",
+    "region_link": "atacama"
    },
    {
     "lugar": "Región de Antofagasta",
@@ -167,7 +167,7 @@
     "region": "Antofagasta",
     "nivel": "ATP",
     "sae": false,
-    "ts": "11-09",
+    "ts": "12-09",
     "comuna_link": "",
     "region_link": "antofagasta"
    },
@@ -251,6 +251,15 @@
     "ts": "19-09",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "21-09",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    }
   ],
   "evento meteorológico": [
@@ -336,8 +345,8 @@
  },
  "vigentes": {
   "ROJA": 0,
-  "AMARILLA": 2,
-  "ATP": 15,
+  "AMARILLA": 1,
+  "ATP": 13,
   "regiones_roja": []
  },
  "serie": [
@@ -345,7 +354,7 @@
    "fecha": "2026-09-11",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 6,
+   "ATP": 4,
    "sae": 0
   },
   {
@@ -408,7 +417,14 @@
    "fecha": "2026-09-20",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 4,
+   "ATP": 5,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-09-21",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   }
  ],
@@ -421,7 +437,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "11-09 01:15",
+     "ts": "12-09 00:13",
      "estado": "VIGENTE"
     },
     {
@@ -454,8 +470,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "11-09 01:23",
-     "estado": "VIGENTE"
+     "ts": "12-09 11:00",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "AMARILLA",
@@ -466,6 +482,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "21-09 01:43",
+   "nivel": "ATP",
+   "lugar": "Región de Coquimbo",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-09-17-18-59-54"
+  },
+  {
+   "ts": "20-09 21:18",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04"
+  },
   {
    "ts": "20-09 19:53",
    "nivel": "ATP",
@@ -573,24 +607,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-16-18-51-41"
-  },
-  {
-   "ts": "19-09 03:19",
-   "nivel": "ATP",
-   "lugar": "Región de Coquimbo",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-09-17-18-59-54"
-  },
-  {
-   "ts": "19-09 01:33",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
