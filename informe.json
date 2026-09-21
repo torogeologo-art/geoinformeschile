@@ -1,17 +1,17 @@
 {
- "generado": "2026-09-21T16:56:33+00:00",
+ "generado": "2026-09-21T20:57:50+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "11-09-2026",
   "hasta": "21-09-2026"
  },
  "totales": {
-  "alertas": 71,
+  "alertas": 70,
   "sae": 0,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 59,
+   "ATP": 58,
    "AMARILLA": 12
   },
   "por_tipo": [
@@ -25,7 +25,7 @@
    ],
    [
     "evento meteorológico",
-    9
+    8
    ],
    [
     "nevadas",
@@ -277,7 +277,7 @@
     "region": "Los Lagos",
     "nivel": "ATP",
     "sae": false,
-    "ts": "11-09",
+    "ts": "12-09",
     "comuna_link": "",
     "region_link": "los lagos"
    },
@@ -354,7 +354,7 @@
    "fecha": "2026-09-11",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 2,
+   "ATP": 1,
    "sae": 0
   },
   {
