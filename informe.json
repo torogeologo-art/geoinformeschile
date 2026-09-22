@@ -1,27 +1,27 @@
 {
- "generado": "2026-09-22T10:01:00+00:00",
+ "generado": "2026-09-22T14:58:10+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "12-09-2026",
   "hasta": "22-09-2026"
  },
  "totales": {
-  "alertas": 76,
+  "alertas": 73,
   "sae": 0,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 63,
+   "ATP": 60,
    "AMARILLA": 13
   },
   "por_tipo": [
    [
     "viento",
-    31
+    32
    ],
    [
     "tormentas eléctricas",
-    28
+    24
    ],
    [
     "evento meteorológico",
@@ -181,51 +181,6 @@
     "region_link": "arica y parinacota"
    },
    {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "12-09",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "12-09",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "12-09",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "12-09",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "12-09",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ATP",
@@ -244,6 +199,42 @@
     "region_link": "tarapaca"
    },
    {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "16-09",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "17-09",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "17-09",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "18-09",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
+   },
+   {
     "lugar": "Región de Biobío",
     "region": "Biobío",
     "nivel": "ATP",
@@ -251,6 +242,15 @@
     "ts": "18-09",
     "comuna_link": "",
     "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "18-09",
+    "comuna_link": "",
+    "region_link": "maule"
    },
    {
     "lugar": "Región de La Araucanía",
@@ -355,7 +355,7 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 1,
-  "ATP": 15,
+  "ATP": 14,
   "regiones_roja": []
  },
  "serie": [
@@ -363,7 +363,7 @@
    "fecha": "2026-09-12",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 6,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -428,6 +428,13 @@
    "AMARILLA": 2,
    "ATP": 10,
    "sae": 0
+  },
+  {
+   "fecha": "2026-09-22",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 2,
+   "sae": 0
   }
  ],
  "escalamientos": [
@@ -472,8 +479,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "12-09 11:00",
-     "estado": "CANCELADA"
+     "ts": "16-09 16:53",
+     "estado": "VIGENTE"
     },
     {
      "nivel": "AMARILLA",
@@ -484,6 +491,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "22-09 10:19",
+   "nivel": "ATP",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/declara-alerta-temprana-preventiva-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-evento-meteorologico-2026-09-17-19-13-08"
+  },
+  {
+   "ts": "22-09 09:13",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-18-15-03-19"
+  },
   {
    "ts": "21-09 22:45",
    "nivel": "ATP",
@@ -591,24 +616,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-09-17-18-59-54"
-  },
-  {
-   "ts": "20-09 21:18",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04"
-  },
-  {
-   "ts": "20-09 19:53",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

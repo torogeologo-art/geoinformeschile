@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-22T12:29:31+00:00",
+ "generado": "2026-09-22T14:58:08+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "e20d4e4b9e54",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la región, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Alerta AA165-2 Viento normal a moderado con en cordillera. Aviso A483-3 Viento normal a moderado en precordillera y cordillera. Aviso A492-3 Probables tormentas eléctricas en precordillera y cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección R",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-22T10:19:00.000-03:00",
+   "url": "https://senapred.cl/alerta/declara-alerta-temprana-preventiva-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-evento-meteorologico-2026-09-17-19-13-08",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "decfa5a4c49c",
    "nivel": "ATP",
@@ -249,20 +263,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-19T01:21:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e63b0cc5e4e4",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA165-2 Viento normal a moderado con en cordillera. 19-09 20-09 Abrir aquí Aviso A483-3 Viento normal a moderado en precordillera y cordillera. 20-09 21-09 Abrir aquí Aviso A492-3 Probables tormentas eléctricas en precordillera y cordillera. 18-09 18-09 Abrir aquí Por otra parte, conforme a lo indicado en el Informe de Amenaza Meteorológica, los montos estimados para los pró",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-18T16:11:45.4545-03:00",
-   "url": "https://senapred.cl/alerta/declara-alerta-temprana-preventiva-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-evento-meteorologico-2026-09-17-19-13-08",
    "origen": "senapred_web",
    "regiones_extra": []
   },
