@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-22T01:31:06+00:00",
+ "generado": "2026-09-22T05:02:01+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,36 @@
  },
  "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "f3aa82adafd7",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de Última Esperanza por precipitaciones",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A500 Precipitaciones normales a moderadas en cordillera austral norte, insular norte y pampa patagónica norte. 22-09 23-09 Abrir aquí Cabe señalar, que mediante el pronóstico especial emitido por el Centro Meteorológico Regional Austral, se indican los siguientes montos de precipitaciones (mm/ cm) e isoterma 0°C (m.s.n.m): Sector Comuna Precipitaciones Altura Isoterma 0°C Insular N",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-21T23:09:08.088-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-precipitaciones-2026-09-21-19-54-41",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "58ced2ccb381",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA169 Precipitaciones moderadas a fuertes en litoral, precordillera y cordillera. 24-09 24-09 Abrir aquí Aviso A497-1 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la costa, valle y cordillera. 23-09 24-09 Abrir aquí Aviso A498 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 23-09 25-09 Abrir aquí",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-21T22:45:35.3535-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "33a0e1e80a91",
    "nivel": "ATP",
@@ -77,22 +107,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "31325b485f53",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Última Esperanza por precipitaciones",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Aviso A500 Precipitaciones normales a moderadas en Cordillera Austral Norte, Insular Norte y Pampa Patagónica Norte. 22-09 23-09 Cabe señalar, que mediante el pronóstico especial emitido por el Centro Meteorológico Regional Austral, se indican los siguientes montos de precipitaciones (mm/ cm) e isoterma 0°C (m.s.n.m): Sector Comuna Precipitaciones Altura Isoterma 0°C Insular Norte Natales 30 –",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-21T18:00:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-precipitaciones-2026-09-21-19-54-41",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "68ae80536a96",
@@ -191,20 +205,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-20T21:18:10.1010-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "9cfa5008bcda",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Maule , se reportan desprendimientos de techumbres, caída de árboles y afectación al tendido eléctrico en sector La Tercera en la comuna de Longaví, producto de fuertes vientos en el lugar. Cabe mencionar que, personal municipal se dirige al lugar para realizar un levantamiento de la información y evaluación de daños. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por event",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-20T19:53:03.033-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },

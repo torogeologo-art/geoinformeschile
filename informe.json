@@ -1,17 +1,17 @@
 {
- "generado": "2026-09-22T00:01:27+00:00",
+ "generado": "2026-09-22T05:02:04+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "12-09-2026",
   "hasta": "22-09-2026"
  },
  "totales": {
-  "alertas": 77,
+  "alertas": 76,
   "sae": 0,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 64,
+   "ATP": 63,
    "AMARILLA": 13
   },
   "por_tipo": [
@@ -21,7 +21,7 @@
    ],
    [
     "tormentas eléctricas",
-    29
+    28
    ],
    [
     "evento meteorológico",
@@ -60,15 +60,6 @@
     "ts": "19-09",
     "comuna_link": "",
     "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "12-09",
-    "comuna_link": "",
-    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -152,6 +143,15 @@
     "region_link": "los rios"
    },
    {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "20-09",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
     "nivel": "ATP",
@@ -181,15 +181,6 @@
     "region_link": "arica y parinacota"
    },
    {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "11-09",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
     "lugar": "Región de Metropolitana de Santiago",
     "region": "Metropolitana de Santiago",
     "nivel": "ATP",
@@ -206,6 +197,15 @@
     "ts": "12-09",
     "comuna_link": "",
     "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "12-09",
+    "comuna_link": "",
+    "region_link": "maule"
    },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -360,17 +360,10 @@
  },
  "serie": [
   {
-   "fecha": "2026-09-11",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
-  {
    "fecha": "2026-09-12",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 7,
+   "ATP": 6,
    "sae": 0
   },
   {
@@ -433,7 +426,7 @@
    "fecha": "2026-09-21",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 9,
+   "ATP": 10,
    "sae": 0
   }
  ],
@@ -446,8 +439,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "12-09 00:13",
-     "estado": "VIGENTE"
+     "ts": "13-09 21:48",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "AMARILLA",
@@ -491,6 +484,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "21-09 22:45",
+   "nivel": "ATP",
+   "lugar": "Región de Maule",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26"
+  },
   {
    "ts": "21-09 19:57",
    "nivel": "ATP",
@@ -607,15 +609,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26"
-  },
-  {
-   "ts": "20-09 17:01",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
