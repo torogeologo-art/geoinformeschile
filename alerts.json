@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-22T20:13:42+00:00",
+ "generado": "2026-09-22T21:56:12+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 11,
  "alertas": [
+  {
+   "id": "73329fd7fd82",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por Evento Meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA169-2 Precipitaciones moderadas a fuertes con isoterma cero alta en litoral, valle, precordillera y cordillera 24-09 24-09 Abrir aquí Aviso A497-2 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la costa, precordillera y cordillera. 23-09 24-09 Abrir aquí Aviso A498 Viento normal a moderado en litoral, cordillera de la costa, valle, pr",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-22T17:41:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-09-17-11-34-15",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "810fc26d53d6",
    "nivel": "ATP",
@@ -175,20 +189,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-21T17:00:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-altas-temperaturas-2026-09-21-19-49-58",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "6fe38f799c4e",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA169 Precipitaciones moderadas a fuertes con isoterma cero alta en litoral, valle, precordillera y cordillera 24-09 24-09 Abrir aquí Aviso A483-4 Viento normal a moderado en litoral, cordillera de la costa, precordillera y cordillera. 19-09 21-09 Abrir aquí Aviso A497-1 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la costa, precordi",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-21T16:36:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-09-17-11-34-15",
    "origen": "senapred_web",
    "regiones_extra": []
   },
