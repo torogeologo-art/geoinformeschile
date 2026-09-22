@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-22T14:58:08+00:00",
+ "generado": "2026-09-22T17:13:27+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 13,
  "alertas": [
+  {
+   "id": "5dcc04614756",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva y declara alerta Amarilla para la Región de La Araucanía por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA169-1 Precipitaciones moderadas a fuertes con isoterma cero alta en litoral, cordillera de la costa y valle. 23-09 23-09 Abrir aquí Aviso A497-2 Precipitaciones normales a moderadas con isoterma cero alta en litoral, cordillera de la costa, valle, precordillera y cordillera. 22-09 24-09 Abrir aquí Aviso A499 Viento normal a moderado en litoral, cordillera de la costa y va",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-22T11:49:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-2026-09-18-23-43-54",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "e20d4e4b9e54",
    "nivel": "ATP",
@@ -133,20 +147,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-21T17:00:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-altas-temperaturas-2026-09-21-19-49-58",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a7f414e945e5",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DM C), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA169 Precipitaciones moderadas a fuertes con isoterma cero alta en litoral, valle, precordillera y cordillera 24-09 24-09 Abrir aquí Aviso A483-4 Viento normal a moderado en litoral, cordillera de la costa, precordillera y cordillera. 19-09 21-09 Abrir aquí Aviso A497-1 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la costa, precordillera y c",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-21T16:40:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-2026-09-18-23-43-54",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -360,7 +360,7 @@
    "descripcion": "En atención a los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , se encuentran vigentes las siguientes Resoluciones Exentas en la Región de Los Ríos: Resolución Exenta N° 1833 de 2026 Declaración de Emergencia Sanitaria, por la presencia del virus aviar de alta patogenicidad H5N1 (IAPP). Resolución Exenta N° 585 de 2026 Confirmación de presencia de virus aviar de alta patogenicidad H5N1 (IAPP) en la Región de Los Ríos. Activación de protocolos de vigilancia junto con formación del Centro de Operación Regional. De acuerdo con el avance de la Emergencia en la región y pr",
    "region": "Los Ríos",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-09-15T12:52:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
    "origen": "senapred_web",
