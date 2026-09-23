@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-23T15:03:07+00:00",
+ "generado": "2026-09-23T17:23:52+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "fab9bc2476ea",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA169-3 Precipitaciones moderadas a fuertes con isoterma cero alta en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. 23-09 24-09 Abrir aquí Alerta AA170 Viento moderado a fuerte en litoral, cordillera de l costa, valle y precordillera de la región. 24-09 24-09 Abrir aquí Aviso A497-2 Precipitaciones normales a moderadas con isoterma cero al",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-23T13:42:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-18-15-03-19",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "2a880425291c",
    "nivel": "AMARILLA",
@@ -147,20 +161,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-22T10:19:00.000-03:00",
    "url": "https://senapred.cl/alerta/declara-alerta-temprana-preventiva-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-evento-meteorologico-2026-09-17-19-13-08",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "decfa5a4c49c",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA169 Precipitaciones moderadas a fuertes con isoterma cero alta en litoral, cordillera de la costa, valle, precordillera y cordillera 22-09 24-09 Abrir aquí Aviso A497-1 Precipitaciones normales a moderadas con isoterma cero alta en litoral, cordillera de la costa, valle y cordillera 22-09 24-09 Abrir Aquí Aviso A498 Viento normal a moderado en litoral, cordillera de la cos",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-22T09:13:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-18-15-03-19",
    "origen": "senapred_web",
    "regiones_extra": []
   },
