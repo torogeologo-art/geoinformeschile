@@ -1,17 +1,17 @@
 {
- "generado": "2026-09-22T21:56:15+00:00",
+ "generado": "2026-09-23T00:16:23+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "12-09-2026",
-  "hasta": "22-09-2026"
+  "desde": "13-09-2026",
+  "hasta": "23-09-2026"
  },
  "totales": {
-  "alertas": 77,
+  "alertas": 79,
   "sae": 0,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 62,
+   "ATP": 64,
    "AMARILLA": 15
   },
   "por_tipo": [
@@ -21,11 +21,11 @@
    ],
    [
     "tormentas eléctricas",
-    23
+    24
    ],
    [
     "evento meteorológico",
-    10
+    11
    ],
    [
     "nevadas",
@@ -354,7 +354,7 @@
  },
  "vigentes": {
   "ROJA": 0,
-  "AMARILLA": 1,
+  "AMARILLA": 2,
   "ATP": 10,
   "regiones_roja": []
  },
@@ -426,7 +426,7 @@
    "fecha": "2026-09-22",
    "ROJA": 0,
    "AMARILLA": 3,
-   "ATP": 5,
+   "ATP": 7,
    "sae": 0
   }
  ],
@@ -539,6 +539,24 @@
  ],
  "cronologia": [
   {
+   "ts": "22-09 18:49",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-17-11-21-06"
+  },
+  {
+   "ts": "22-09 18:11",
+   "nivel": "ATP",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-precipitaciones-2026-09-21-19-54-41"
+  },
+  {
    "ts": "22-09 17:41",
    "nivel": "ATP",
    "lugar": "Región de Ñuble",
@@ -645,24 +663,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-17-11-21-06"
-  },
-  {
-   "ts": "21-09 18:00",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-precipitaciones-2026-09-21-19-54-41"
-  },
-  {
-   "ts": "21-09 17:00",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-altas-temperaturas-2026-09-21-19-49-58"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
