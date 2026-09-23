@@ -1,31 +1,31 @@
 {
- "generado": "2026-09-23T19:04:55+00:00",
+ "generado": "2026-09-23T22:19:44+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "13-09-2026",
   "hasta": "23-09-2026"
  },
  "totales": {
-  "alertas": 84,
+  "alertas": 88,
   "sae": 0,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 66,
+   "ATP": 70,
    "AMARILLA": 18
   },
   "por_tipo": [
    [
     "viento",
-    41
+    43
    ],
    [
     "tormentas eléctricas",
-    24
+    25
    ],
    [
     "evento meteorológico",
-    12
+    13
    ],
    [
     "nevadas",
@@ -295,7 +295,7 @@
     "region": "Los Lagos",
     "nivel": "ATP",
     "sae": false,
-    "ts": "13-09",
+    "ts": "14-09",
     "comuna_link": "",
     "region_link": "los lagos"
    },
@@ -364,7 +364,7 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 4,
-  "ATP": 10,
+  "ATP": 9,
   "regiones_roja": []
  },
  "serie": [
@@ -372,7 +372,7 @@
    "fecha": "2026-09-13",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 2,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -442,7 +442,7 @@
    "fecha": "2026-09-23",
    "ROJA": 0,
    "AMARILLA": 3,
-   "ATP": 2,
+   "ATP": 7,
    "sae": 0
   }
  ],
@@ -488,8 +488,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "13-09 17:52",
-     "estado": "VIGENTE"
+     "ts": "14-09 20:40",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "AMARILLA",
@@ -554,6 +554,51 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "23-09 18:55",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-17-11-21-06"
+  },
+  {
+   "ts": "23-09 18:25",
+   "nivel": "ATP",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-precipitaciones-2026-09-21-19-54-41"
+  },
+  {
+   "ts": "23-09 17:27",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-altas-temperaturas-2026-09-21-19-49-58"
+  },
+  {
+   "ts": "23-09 15:23",
+   "nivel": "ATP",
+   "lugar": "Región de Tarapacá",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00"
+  },
+  {
+   "ts": "23-09 15:08",
+   "nivel": "ATP",
+   "lugar": "Región de Maule",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26"
+  },
   {
    "ts": "23-09 13:42",
    "nivel": "ATP",
@@ -634,51 +679,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-09-17-19-17-59"
-  },
-  {
-   "ts": "22-09 14:46",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Los Ríos",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-la-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-09-21-20-35-05"
-  },
-  {
-   "ts": "22-09 13:38",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26"
-  },
-  {
-   "ts": "22-09 13:32",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Los Lagos",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26"
-  },
-  {
-   "ts": "22-09 11:49",
-   "nivel": "AMARILLA",
-   "lugar": "Región de La Araucanía",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-2026-09-18-23-43-54"
-  },
-  {
-   "ts": "22-09 10:19",
-   "nivel": "ATP",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/declara-alerta-temprana-preventiva-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-evento-meteorologico-2026-09-17-19-13-08"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-23T20:37:50+00:00",
+ "generado": "2026-09-23T22:19:38+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,50 @@
  },
  "total_vigentes": 13,
  "alertas": [
+  {
+   "id": "320137b74623",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A497-4 Precipitaciones normales a moderadas con isoterma cero alta en cordillera. 23-09 24-09 Abrir Aquí Aviso A498-1 Viento normal a moderado en cordillera. 23-09 25-09 Abrir Aquí Aviso A503-2 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y cordillera. 23-09 25-09 Abrir aquí Por otra par",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-23T18:55:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-17-11-21-06",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "4fe96ebe1e2c",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se modifica Alerta Temprana Preventiva para la Provincia de Última Esperanza a Heladas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A504 Haladas normales a moderadas con probabilidad de formación de escarcha en cordillera austral norte y pampa patagónica norte. 24-09 25-09 Abrir Aquí Del mismo modo, debido al debilitamiento de las condiciones que lo originaron ha sido cancelado el siguiente alertamiento meteorológico: Alertamiento Pronóstico Aviso A500 Precipitaciones normales a moderadas en cordillera austral",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-23T18:25:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-precipitaciones-2026-09-21-19-54-41",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "a70a1348a6be",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se modifica la cobertura de la Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace A501-1 Altas temperaturas en pampa y precordillera salar de la región. 24-09 26-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atac",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-23T17:27:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-altas-temperaturas-2026-09-21-19-49-58",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "48595c3d5b2d",
    "nivel": "AMARILLA",
@@ -107,36 +151,6 @@
    "regiones_extra": []
   },
   {
-   "id": "ad0c3b4d3304",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A497-2 Precipitaciones normales a moderadas con isoterma cero alta en cordillera. 24-09 24-09 Abrir Aquí Aviso A498 Viento normal a moderado en cordillera. 24-09 25-09 Abrir Aquí Aviso A503 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y cordillera. 24-09 25-09 Abrir aquí Mientras que, s",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-22T18:49:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-17-11-21-06",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "82bf30591126",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se modifica Alerta Temprana Preventiva para la Provincia de Última Esperanza a evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A500 Precipitaciones normales a moderadas en cordillera austral norte, insular norte y pampa patagónica norte. 22-09 23-09 Abrir Aquí Aviso A504 Haladas normales a moderadas con probabilidad de formación de escarcha en cordillera austral norte y pampa patagónica norte. 24-09 25-09 Abrir Aquí Asimismo, el pronóstico especial emitido durante la presente jornada por el Centro Meteorol",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-22T18:11:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-precipitaciones-2026-09-21-19-54-41",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
-  },
-  {
    "id": "73329fd7fd82",
    "nivel": "ATP",
    "tipo": "viento",
@@ -203,20 +217,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-21T19:00:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "68ae80536a96",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por altas temperaturas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace A501 Altas temperaturas en precordillera salar de la región. 25-09 26-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por altas temperaturas , que se encuentra vigente des",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-21T17:00:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-altas-temperaturas-2026-09-21-19-49-58",
    "origen": "senapred_web",
    "regiones_extra": []
   },
