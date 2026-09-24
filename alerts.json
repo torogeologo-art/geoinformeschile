@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-24T00:47:38+00:00",
+ "generado": "2026-09-24T01:27:46+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 12,
+ "total_vigentes": 11,
  "alertas": [
+  {
+   "id": "b5ccd4107569",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA170 Viento moderado a fuerte en litoral y cordillera de la costa. 24-09 24-09 Abrir aquí Alerta AA169-3 Precipitaciones moderadas a fuertes con isoterma cero alta en litoral, valle, precordillera y cordillera 24-09 24-09 Abrir aquí Aviso A497-4 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la costa, precordillera y cordillera. 23-09",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-23T21:51:25.2525-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-09-17-11-34-15",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "320137b74623",
    "nivel": "ATP",
@@ -133,34 +147,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-23T08:06:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "680c2a395bf7",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarilla [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido a las 07:25 horas de hoy miércoles 23 de septiembre, se informa que a las 07:05 horas de hoy, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán registraron un sismo de largo periodo (LP) asociado a movimiento de fluidos",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-23T07:51:51.5151-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "73329fd7fd82",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por Evento Meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA169-2 Precipitaciones moderadas a fuertes con isoterma cero alta en litoral, valle, precordillera y cordillera 24-09 24-09 Abrir aquí Aviso A497-2 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la costa, precordillera y cordillera. 23-09 24-09 Abrir aquí Aviso A498 Viento normal a moderado en litoral, cordillera de la costa, valle, pr",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-22T17:41:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-09-17-11-34-15",
    "origen": "senapred_web",
    "regiones_extra": []
   },
