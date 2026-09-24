@@ -1,8 +1,77 @@
 {
- "generado": "2026-09-24T17:28:58+00:00",
- "desde": "2026-09-22T17:28:52Z",
+ "generado": "2026-09-24T19:57:02+00:00",
+ "desde": "2026-09-22T19:56:56Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "cho6v7Z0wd0",
+     "url": "https://www.youtube.com/watch?v=cho6v7Z0wd0",
+     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-09-24T17:16:15Z",
+     "live": true,
+     "score": 9.78,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "ychwSHu0kN0",
+     "url": "https://www.youtube.com/watch?v=ychwSHu0kN0",
+     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-09-24T16:45:04Z",
+     "live": true,
+     "score": 9.73,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "pAGWwa725HY",
+     "url": "https://www.youtube.com/watch?v=pAGWwa725HY",
+     "titulo": "🌧️ EN DIRECTO | Precipitaciones en San Pedro de la Paz y Gran Concepción",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-09-24T03:44:13Z",
+     "live": true,
+     "score": 8.65,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "AEJ1pS_7ufk",
+     "url": "https://www.youtube.com/watch?v=AEJ1pS_7ufk",
+     "titulo": "CURANILAHUE VIBRÓ CON EL RALLY MUNDIAL",
+     "canal": "Curanilahue Televisión",
+     "publicado": "2026-09-23T21:09:14Z",
+     "live": false,
+     "score": -0.9,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "la araucania": {
+   "comuna": "La Araucanía",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "AyyTZNiBkeI",
+     "url": "https://www.youtube.com/watch?v=AyyTZNiBkeI",
+     "titulo": "Emergencia en Trovolhue por inundaciones por desborde de ríos: Al menos 70 viviendas afectadas",
+     "canal": "CHV Noticias",
+     "publicado": "2026-09-24T18:45:12Z",
+     "live": false,
+     "score": 5.9,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "panguipulli": {
    "comuna": "Panguipulli",
    "region": "Los Ríos",
@@ -15,7 +84,7 @@
      "canal": "Somos Noticias",
      "publicado": "2026-09-24T16:24:45Z",
      "live": false,
-     "score": 5.91,
+     "score": 5.71,
      "verificado": false,
      "embeddable": true
     }
@@ -33,105 +102,7 @@
      "canal": "MeteoPangui Noticias",
      "publicado": "2026-09-24T16:44:18Z",
      "live": false,
-     "score": 5.94,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "arauco": {
-   "comuna": "Arauco",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "tvrrl0E66II",
-     "url": "https://www.youtube.com/watch?v=tvrrl0E66II",
-     "titulo": "Alerta Roja en Arauco por aumento del nivel del Río Pichilo: Ordenan evacuar",
-     "canal": "Bio Bio",
-     "publicado": "2026-09-24T16:23:20Z",
-     "live": false,
-     "score": 5.91,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "axWKYwLVVP4",
-     "url": "https://www.youtube.com/watch?v=axWKYwLVVP4",
-     "titulo": "Alerta roja por crecida de ríos en Biobío: “El agua está a centímetros de entrar a las casas”",
-     "canal": "MegaTiempo",
-     "publicado": "2026-09-24T14:21:29Z",
-     "live": false,
-     "score": 5.74,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "curanilahue": {
-   "comuna": "Curanilahue",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "kV6SjiJUYXQ",
-     "url": "https://www.youtube.com/watch?v=kV6SjiJUYXQ",
-     "titulo": "Alerta por crecida de río Curanilahue",
-     "canal": "Teletrece",
-     "publicado": "2026-09-24T16:28:58Z",
-     "live": false,
-     "score": 5.92,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "cho6v7Z0wd0",
-     "url": "https://www.youtube.com/watch?v=cho6v7Z0wd0",
-     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
-     "canal": "Canal 9 BiobioTV",
-     "publicado": "2026-09-24T17:16:15Z",
-     "live": true,
-     "score": 9.98,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "ychwSHu0kN0",
-     "url": "https://www.youtube.com/watch?v=ychwSHu0kN0",
-     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
-     "canal": "Canal 9 BiobioTV",
-     "publicado": "2026-09-24T16:45:04Z",
-     "live": true,
-     "score": 9.94,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "pAGWwa725HY",
-     "url": "https://www.youtube.com/watch?v=pAGWwa725HY",
-     "titulo": "🌧️ EN DIRECTO | Precipitaciones en San Pedro de la Paz y Gran Concepción",
-     "canal": "San Pedro de la Paz en Vivo",
-     "publicado": "2026-09-24T03:44:13Z",
-     "live": true,
-     "score": 8.85,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "AEJ1pS_7ufk",
-     "url": "https://www.youtube.com/watch?v=AEJ1pS_7ufk",
-     "titulo": "CURANILAHUE VIBRÓ CON EL RALLY MUNDIAL",
-     "canal": "Curanilahue Televisión",
-     "publicado": "2026-09-23T21:09:14Z",
-     "live": false,
-     "score": -0.69,
+     "score": 5.73,
      "verificado": false,
      "embeddable": true
     }
@@ -143,24 +114,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "YCpUssHdnhw",
-     "url": "https://www.youtube.com/watch?v=YCpUssHdnhw",
-     "titulo": "15 Ríos Chilenos con Nombre Mapuche sin que lo Imagines",
-     "canal": "Apellidos Ocultos",
-     "publicado": "2026-09-22T19:13:35Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "o00EBiKUhOA",
-     "url": "https://www.youtube.com/watch?v=o00EBiKUhOA",
-     "titulo": "15 Ríos Chilenos con Nombre Mapuche sin que lo Imagines",
-     "canal": "Sangre Oculta",
-     "publicado": "2026-09-22T19:14:55Z",
-     "live": false,
-     "score": 3.0,
+     "id": "Vr3cKmXhdoY",
+     "url": "https://www.youtube.com/watch?v=Vr3cKmXhdoY",
+     "titulo": "ArgenData: Julieta Tarrés y Malena de los Ríos",
+     "canal": "Neura Media",
+     "publicado": "2026-09-24T02:21:33Z",
+     "live": true,
+     "score": 6.53,
      "verificado": false,
      "embeddable": true
     },

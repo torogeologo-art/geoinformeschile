@@ -226,5 +226,25 @@
 "rio leufucade|los rios": {
 "lat": -39.49642,
 "lon": -72.64524
+},
+"sector el cajon|arauco": null,
+"sectores localidad de lastarria|gorbea": null,
+"sectores la isla|quilaco": null,
+"sectores centro|curanilahue": null,
+"rio curanilahue|biobio": {
+"lat": -37.46592,
+"lon": -73.40537
+},
+"rio pichilo|biobio": {
+"lat": -37.30311,
+"lon": -73.17435
+},
+"rio biobio|biobio": {
+"lat": -37.68965,
+"lon": -71.97214
+},
+"rio lia|biobio": {
+"lat": -37.25015,
+"lon": -73.30453
 }
 }

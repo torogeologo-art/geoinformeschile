@@ -1,86 +1,78 @@
 {
- "generado": "2026-09-24T15:56:09+00:00",
+ "generado": "2026-09-24T19:56:55+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
    "comuna": "Arauco",
    "noticias": [
     {
-     "titulo": "Arauco activa el Sistema de Alerta de Emergencia por desborde del río Pichilo - urgente.cl",
-     "medio": "urgente.cl",
-     "fecha": "2026-08-06T00:03:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX3JyT1ZQWjJVZVIzbUtsUlhBanpGdG54VGRLckIyNUx0eWlRZHVia3N2UzJVNEdTM1ZFWW4zajMxOEsyeDlmYlVMMVNWQTIwZS15RzNscXZBNmU2ZmxKVmp2VG9QY0g5bXU5WXlhbGttSEkwSTBPRTltbDdvbjlIbHN1N0NaaHMydllhbU1aZ3VUbi1FSDVsRGNhX1A2bVN1elpLcThxRQ?oc=5",
+     "titulo": "Sistema frontal: declaran Alerta Roja en Arauco y provincia de Valdivia por crecida y desborde de ríos - G5noticias",
+     "medio": "G5noticias",
+     "fecha": "2026-09-24T19:42:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUE1xTm1ueXB1cnpxbWsyREZqUnlzWWJHWHBnb1hwTjY3ZTR2MW80SmcwTU1MeUM5cllIVGtid0dISGNjLVdFYWN5RXQ1QWp6b21yRmF3cmkwU3lwZzZJbDJFUHlHZ0tqY0l3UGZ3b2VjZi1oZFlNRVVmYkVFd2F5YUxoaWdKejZ4Q1hIZ09NN1IyMXozYlF3akhnUUVMUG5tN0pnZzdJcnJqckJPd19sSkZZMV9xcVA5X285c1IxRmd1SmgyQ0VpLUYzRnZvdWNv?oc=5",
      "sector": null
     },
     {
-     "titulo": "Arauco: activan mensajería SAE por desborde del río Pichilo - Diario Concepción",
-     "medio": "Diario Concepción",
-     "fecha": "2026-08-05T23:48:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZHJudVRqMzhyZUIwQ0U1QXYyRmQwV0hSVjhZcG1CZGRzSnNOQlljaXl6QVNpZ3MyeHN6RVNhS2FrTUozcDJ4TTNldC1mNXpQb3R3MVFyMXpuaHNDVm42NnBFc1JqSlVqWnV0WXRLMjljTXUzMm1VNks3eFFCQnJIa21xcUVPei10bnJmd0lhb9IBlwFBVV95cUxOLUJSTDdUSllVdS1NZXZ3S3JUMmM4SDNOWjh0OGF3d2NOTUZRR2VyX3VsOGFONmV2MElNaGlJSXVmWDIxMGpKSEIzOTJ1c0E2YWxmSG9seW80Q0FsWjZ5cy1UYTlFTVhNWVlabGp2S1pQaEh2SGZtN2JzRG5tS1NBdl9BWW44dVA5bEFYaVlkZ0NNcjZBRkQ0?oc=5",
+     "titulo": "Senapred ordena evacuar Puente Los Cuervos en Arauco por desborde del Río Carampangue - vlnradio.cl",
+     "medio": "vlnradio.cl",
+     "fecha": "2026-09-24T18:15:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTV9TT2E5TVBZUmhGa051THVkcXlNLW81aWhxZGJhN0VXOTFLUkhUX3gzYk5SYVhQS3dCVHlKMUlSR0YtdGdEMWRnT3VzcUFwNUVocW1oRHdTaURKdjlHYWpSR2pMOG9mUjdfQThDcXpwR0Z1eHhwT192WWRKRXl0SDBFLVJxUTZySjVUbUhEb3ZaaGdYS0tpYUh3TFdVdGFFdHJtcU9vSTl0dEZkSFJUV3ZhQy1Lcm5LVTI2TGgyNE1YMFI0WjFjSWZFLVpWb0FHVTlDeXByYU1NQnN3MVMwcFljMXYySUg0N2Qyb0lR?oc=5",
      "sector": null
     },
     {
-     "titulo": "Ordenan evacuar sectores Pichilo y La Faja en Arauco por desborde del río Pichilo - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-08-05T22:36:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeFoyVDFvenJfd21JRTVnWUYwek5kYTRaV19hODdBX1B4Z1lUcjBOS1NSQjlYb3dVWl8zX3QtbkpsWTRFQnVqQTV5QmRqSzV2aV9jclkxQ1BMckVRcWVnUldCSHg0aS1KZG1ONV8xc3BXTm5FaGhuRVFsZVVIQURFa0lNVlVGX3FaQ2lMQmZrR3lqSTlwY3BxSWNtOE9ySmg1Rm4xVE5PdGppR1hOSUpjUUhCZV9HeDBLdjAtSE9CQ2s5Mm9RcEtDVTZ4T1VGdzRZMEphS1JidjlJWjBPVUJ1bjJGcjRHZ0Mt?oc=5",
+     "titulo": "Declaran Alerta Roja en Arauco por desborde del río Pichilo - sabes.cl",
+     "medio": "sabes.cl",
+     "fecha": "2026-09-24T18:05:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOckZBUGY2MWdHVkM4Zm54am9nLVBOdllJLVIzUWEzUnVJQ3Q3dlNDQld2ejg5cXJXa1U0TmxYZEUtTWZPMHoxbzhEYmE3Njl2U1VrcVR5Yk1QaWk2eV9KR29ib1JsZlVXeFRJS2JfQ1NrMFdPQzlrZU9veFNsYWtIZU5PVU9XdzJCNm5aMUo4SnA3TDZH?oc=5",
      "sector": null
     },
     {
-     "titulo": "Alerta Roja por desborde de río en Arauco: Viviendas resultan inundadas tras intensas lluvias - Meganoticias",
-     "medio": "Meganoticias",
-     "fecha": "2026-08-02T01:49:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd2hsR3dmZm9aOHZiUTRUX3JuOENXYlZJV2ExWHJPTUVOLXRVWHhXZFJUNlRPdUF4WWlyMGNReGpnakFJNFViV2VRWjlIR05aMDA5Wk15ajZFYThiVkJ3MUkyUVNIUVZuZVdVcTVoVHh4Xzl6RmRUWmozQmItSHNKV0d5ajVqeTBkMk1obFBTd3QtNGNtLVEzWE5jQWNTXzZQaF9zV3piUlVOWmJOXzl2LXhEQ3I0OVhQNFN4Q2o4LU04VHIyR21MNFh30gHPAUFVX3lxTE9XcEZaek9PWXRwd2ZycEtEVUFIMnROaU1lYnVhVWFwNUxIZ0FkeTRDcUN6SElkN3pVZ21oX2VjVm9zeDY5WWtadERGd1JkTU43Qm1FVnRWcjdveUp3RWduU2pGUTJ1YmptRjZTOFNvX2Y2NGxyYS1vcHhKMEhDUWN5NUZPTkFpMGUyQjc2UlBVcVFHY05hWTY5Q0FMb0NQS2Nhc2ZtQmZ0eHVvYVpDUzFuckFvZjM1R3RZUV9uNEY5ZS04VW1hYVVwZGZ2d2ZuNA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred ordena evacuar sector Los Guzmanes en Arauco por desborde del Río Lía - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-08-01T22:11:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVmduNGJzTk5DVlQ4U0Y2T1IzWFY2TkFaMm0wYThiUkk1bUJuV19rV2hMelB1ZTFScUtWYlE3N0p3amxSS0hmZTBnRUtiMmN0R2pZT1llMEdDV3ZxUXpLRXBiT1dpRjdkcUdkYjEweWZ6UERweXJLalRuLUdKVjFzYnNQQ3dSdmk3eDZ3OFFXdWxqY3hORUNaaUhHcDlEN3pVV1FvZ1dETk1RMW10b3hHNm1YTmVvTmdpcHJOVlRTc21WTlVwUHdqNFAxN1NEbFMwb3F2ZkdxeDVVd3dyWmhDZEdQUjk?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred ordena evacuar Pichilo, La Faja y El Yepo en Arauco por desborde de Río Pichilo - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-08-01T22:08:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcnk3OGFYTXlLMFRnYUtvMnVvYlYwNGdINERIcmtrNG91dHhfN2VTX1ZwTFZTQXJWTkhhVDRWQzcwVGlQOVdpUjBlQl9rQ3dRYW1NdHdkd2VEXzBaaGotTHBtUlNiYk52YmtNU2RwSjE5ck1zdTdmV3FZUGRZUHg0MmZFU3JoVlg2TjFHc1BaZjdWUlJ3bWdwZHdZeE52NUFnM3IzblYzRE5TUkx1Q19MZVVSbWdGZXBMSnlNM0hpZ1h6dlBPTnNDMlI0ZnY0Q3ppdTIyMUZOMlUwZFlPZk4xdXBadTh5YVhRLVNnSGhFclU?oc=5",
-     "sector": {
-      "nombre": "río Pichilo",
-      "lat": -37.30311,
-      "lon": -73.17435
-     }
-    },
-    {
-     "titulo": "Arauco: activan alerta SAE preventiva por crecida de ríos Pichilo y Lía - Diario Concepción",
-     "medio": "Diario Concepción",
-     "fecha": "2026-08-01T21:58:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmhJU2lwUGJrSXEwQnNlV2xCSUhfSnZHN3FhblNLZWRhWG5jY256OWp4U0dCcVhwYUZuaGhrbG92QU5pMW1wQ2pTcjdfWmc5RWxad0NTZnQtb09ZZXpoRUNSbXBNR3ZpVy0yaGFlaTJ6NEprYXFrY2ppa1VYWldyMG1QZi1kb0dtd2Z3Wm03d2R0akM0aDVTWDk3WEtiZ1HSAacBQVVfeXFMTW9oNEozeldqMWVvU2pNRjMxdVYwWFZFZ3d3QTRITi1ibWdwR0dQaUJXM0RUbGZTMHp4Rk5ucUtzam9KTUhCUWQ1dnFMVTRuVU9DeHh4VmxpMWJGa3U1elB6VmNrbXZfMEFNLUFqajREYVJ1N1h1N2tONEp6anNlWE53YmVoNUpUQklpVHV1UDZhRHpaZ2lCbFdCM0hxSjctWHdCNVlsdU0?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Declaran Alerta Roja en Hualqui por desborde ante alza del caudal del estero del mismo nombre - Canal 9 Bío Bío Televisión",
+     "titulo": "Alerta roja en Arauco: desborde del río Pichilo deja viviendas anegadas y suspensión de clases - Canal 9 Bío Bío Televisión",
      "medio": "Canal 9 Bío Bío Televisión",
-     "fecha": "2026-07-28T12:30:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV1lyZEFubXJNRDlMdjZfcF9xWWVQTVdJcU5taU5mM0Uwb0JlSTU1bC1vZnpTYUZFR3FZWUdwT1lZTkx4d2JqZVNxUVdQZkRPWXUzYzhiNV90X2ltODZOWGwyQnpTSXltMnItRlFFendOR3Y0cVIydnJEbkFPcVl2TjNCaU9HMTVmLVN2ZzNySTVhbnZOcmR6aWZXa3BpWUNhclZlcEdBRWpoQ3AtSF9XanlRWHBPNzlkTm1nVzZfTzNxMTRselRGaA?oc=5",
+     "fecha": "2026-09-24T15:52:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQXBDWWJVNF9wMWZXVTF6ZTdCODVxaTgtVlFqckxJUEpnWThRRG02aFNJSGI3Q0FLZkRGZFZ5TVQ2cDN5ZHYtRlNLTzY5U1prOHpWa0JGWGQ1c2ZWQWZTQkJ6Z1l6VG1PSWJvTXlLeXVFd3I4cjI3TEdtT1UyRlctZk9ISllsWkVQdVA5T0FpZTFMZmluY1A4Tk1Tckl1TUFoTEExRG1zWFc1UkpFbkVtS3ZLSTB5aVYyel9pSzJGMXI1bG9aWE04XzVhRlIwaEZLZmc?oc=5",
      "sector": null
     },
     {
-     "titulo": "Arauco en Alerta Roja por desborde del río Pichilo - Epicentro Chile",
-     "medio": "Epicentro Chile",
-     "fecha": "2026-07-28T12:18:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2l5d3Z3UW9ZZmpNV0RVcEw2aXVwSndoN0hrencySVBvcm5DVTV6UnlkWi1teVFGbFpISlFSTFpNcVd5OGJ4a0lJSFJ0blRmcUpvb1dOeUl5SHNjc0NkZXpEbzFNNDI5R1dLUS1EMmJpRlUxOHdDbS1jbDNVVS1nbWtxc3Q5UzlBdTFsSng3MHFXWFlOWE1HZw?oc=5",
-     "sector": {
-      "nombre": "río Pichilo",
-      "lat": -37.30311,
-      "lon": -73.17435
-     }
+     "titulo": "Declaran Alerta Roja para Arauco por desborde de Río Pichilo - El Contraste",
+     "medio": "El Contraste",
+     "fecha": "2026-09-24T13:01:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQkNBSEZ2RnA0SkZVUTliS2Jqc0YwaktPRG5CSGl2X1VaSjFXTTRTcHNQaFdvRUtjbTlJekNKVnkxYWRocWVoMlBXZXVGT0tQTFhKN0ZsX2R0QkYwSmNIdmdVQ2hFY1d0RnYteHZzWkEzZG55bzF2eW1NanZQQWs5WTFQcE52Z25YRlFVbGJtMWpQZ0RrQlFTRHgxTVpwWmtCcWNYTGlMY3pyLWFLWXZSX2ZEbXhsZw?oc=5",
+     "sector": null
     },
     {
-     "titulo": "Senapred declara Alerta Roja en dos comunas del Biobío por desbordes - Meganoticias",
-     "medio": "Meganoticias",
-     "fecha": "2026-07-28T12:18:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSHFMejlJWFJ5RnNxVmwwTndfWHVyc25YdDZkTXVNQTJiTlFVTjhEbVQwM1lLeW1oMm5iOEtwWjh2WDJBUU93VXJLY01SM1JEQ1ZSTG9kX1lPc3lGV1hvMkNGa2NjRzViUVl5WjljUVZtc1k5VURiYTdaS3ltcG9IeWdBOE5hUGhxcE5OTnhJaXJVUVluWVB4bjU2Vk9LRUJYLXlkTkItRDR4bER3N2ZGZE9TSnNod9IBuwFBVV95cUxNVFhGNkczRU5YaVVRUG0ydDB5R2oteDhJRTk1NFpTaE41QUJKRXk3ZFo5UjJNaTUtNTFoNEYtU0pZczZYSFRPRDRVMVJXWjVzbkg2WUR2Qk5SdkFLUFRnZ1JPZDJUakFhVWlMQ29PWnQzZUdFMjc2ZEJhMzhxZzhIYzZoRVZCaGlPdjFpTF9YOTVoTTkwa0N1TUhCSTVDZlZfQ05xV1IxUWc3VzVBV3VsVDM3cC1zSzZVa3ZZ?oc=5",
+     "titulo": "Declaran Alerta Roja en Arauco por desborde del río Pichilo: revisa los detalles - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-09-24T12:45:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ0xBZktpR2Z3a1ZnX2FpVk5tUWJJWGU2RFhNTm11TDN6LXNTOE9DSzZrcnF6dWpFVW1CTXkxbWQ4SnBJSjFGUV9wTmpaeElQMW9TTWZzemJSRWNDMEFiNktMREpMNHhyYUxGMlF3V1JrY2pPakQ4a2RPRGdJSVd4elZ6cHhpTXFqakQxWUNmV3N5Wm5lQXN6dG5SeGtzbi1HbWYtV2JYa1RoU2tMUTA4WmRkNVNULWcxQjlqWDlzeWZyZ25xZHN4TFBFLVZwREFjWnBpUlFB?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Arauco declara Alerta Roja por crecida del río Pichilo y alista recursos ante riesgo de desborde - Canal 9 Bío Bío Televisión",
+     "medio": "Canal 9 Bío Bío Televisión",
+     "fecha": "2026-09-24T12:36:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSmxIRHF5S3NHRlZhTGxGTVZrRlJKcThYOXZPRnprWFhBa3VpOGE1MjJ3cy1zcjFsSE1PYVAtWUpwRlFaa21USEs0bjU4QWVzcmlwSENrczVtQlR5X3R3ZjJRYVZoMWFVX3dZN0QzWXpwdFd6N3RJZkJBVmN3ZVhPZEZBRmlLMHR4aGliWjZZTXpLdVkxY05ZWnFmR1MwbmhUNXIxeFc1V3g4VU9CY3BuanpjV3REZnROTXkyQ2NYcnMxMDRWMXVnNXViRTlaMFlqNHc2SFFRelk2a3M?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Declaran Alerta Roja en Arauco por crecida de Río Pichilo - Diario Concepción",
+     "medio": "Diario Concepción",
+     "fecha": "2026-09-24T12:35:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0NLV19ScTdHN3JpVDQ3OTZ1WUFkT0RQNU8wZG1tY09waGlScVRZaXlqMERIcjZjVzlDbmJoVTJQekkwZXJpc3IyRk53MXlDUFU4NTZ5dGhaejVKTlBBUmJCZjJOOTlKQllxV3I4YWx3VUIwSFAxSTA0bFg4Ulpad25DcHRpTENlZElHYkFSZENOUk9TQmk0ZUl3?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred declara Alerta Roja para la comuna de Arauco por desbordes de ríos y esteros - vlnradio.cl",
+     "medio": "vlnradio.cl",
+     "fecha": "2026-09-24T12:23:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONFFaV05DcERtMzR6ZGEtYVlfQ3dsYV85a0VQNHVOd09BRkZSMDlBcmZ0SnZWeFd1dmNDXzVuZG55WmZQZjJoQTdzazE0MVgwTlZNQ0hzVWFwUzN4aW9ObHFUQXhCNFhaaGNvZ2k5b1hrWGlOam5hRjRZY3dod2VoVkJUZ0xGY3otUmtFaF9fZUV1eElHTFFrZmNiSnN4TmRaY1VocVl5cUR0dFE4bl9RT0FRTUhiS1BPOHY5QmtZZGUwSDE1X01XOTRPWWpUOHZxMmdNY0JzRFFpX3pFQ18xMkpBM2JjWWJjemtRMWln?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta Roja en Arauco por aumento del caudal del río Pichilo: preparan recursos ante posible desborde - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2026-09-24T12:18:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPY3hrRk9NSVFiZGlyV0F5MzdiMndWOU9VeDFQS1N4YndHa2FuV1NlUENfTlc1d2tjR0lNZlFqQUpVTlNQc3VYRFJZbmdPNEw5SUppRWFPSzRlZVlWVWw2dlp1MlZ1cW81bVl3Wm1KcHR5WFlMTG9PQXNZSC11dnN1OUFTeG5TWDJBa1ZGbFNBaENGVW9xeWsyR2FMQVZzSjlTMVl0SFBQRFZ6bXBlWUJ1NDlTV3U4X0lfNW1kczJoZlMwMFdWcUZyZG4tLU0xTl9aODVfcHY4MnhNUzl2Ul9Ednk4bEFJSWktUWxLeWJha3pzcUpQUFN3c3E5RXJENExaVURHczZ6bmJIMVA0RWc?oc=5",
      "sector": null
     }
    ]
@@ -2742,6 +2734,13 @@
    "comuna": "Curanilahue",
    "noticias": [
     {
+     "titulo": "Ordenan evacuar sectores de Curanilahue por desborde de ríos Rana y Curanilahue - vlnradio.cl",
+     "medio": "vlnradio.cl",
+     "fecha": "2026-09-24T17:40:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQLXJmSWZqQ2pKUV9iX3BOeXRnZkRFMUpHcEtxd1dLamVfQUhKZ0w1ejROamJ4aENENlpnOTZaYXNJQTFmV0dJYUFyRW8yQjVJTWpITk1fTl9EME41UDNDT3A2OU9nZUpZelZxYmRxdnR3U3pDR0tYMEFvd3hibUlsek5EREoySngwTEhjT1otdFQyNkU1eWlPUUJLenNpS0JQR21RTjExN0Fudlo5SUVsakhfTkpUOXZJQzA4ZG5MeFZfRHBVeVItR0JvOWQwOU51VGJBZ1BhNjE0MUFkcHhpT1hvdk5odw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred pide evitar la ribera de los Ríos Rana, Curanilahue y Estero Plegarias por crecida - VLN Radio",
      "medio": "VLN Radio",
      "fecha": "2026-09-24T15:47:10+00:00",
@@ -2784,31 +2783,24 @@
      "sector": null
     },
     {
+     "titulo": "Desbordes e inundaciones obligan evacuaciones en Penco y Curanilahue: viviendas también resultaron afectadas en Dichato - sabes.cl",
+     "medio": "sabes.cl",
+     "fecha": "2026-08-02T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMXI1bWRSOTNGWUFDeGVSVHZfMVg5X1FsQmFHR2tIeXZ6LTlmTU1kUkh2UlhiSUdyd1AxUEZTLVZMakpoMklFd3RvNWlJRGdzejhaeFMyUFl5S0tiS0g0ZjlHY1NiNEdmdG9xN0g5NVZXeE5ycmZzWTR1OUE1eXdqdEFyc1RjdDRsQzRaWnROMGhMejNrVXFlQXctM0xhNGdNZ0pyRUFBVk91a3VVZE4yUDJjQjVuR1FOc1o2eHFMWV9JU1p3TEc2Y1RmOUEwT1pxQUNIQ3FTRmdiOHVsZ0d3UQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Declaran Alerta Roja tras desbordes de ríos en el Maule: vecinos con el agua a la cintura - lahora.cl",
+     "medio": "lahora.cl",
+     "fecha": "2026-08-02T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2h0dTJtVnVzQk1rUHI1X2pIN2JESFlsN1RUeUc0MjNSVXQ5QnM2azVJZlprQlU0MlVqLWJZVmJpYS0yNUkxaDhTeGRHQXpjd09YUE0wdkREMHREeTd3alc0MDNGUEV4bWRfdmltcE5Fejg0VC1RT2xFN1FPQTFwTzRTLXQ3VEFCUG9obDlES2wwNXo3MEFxQjRpNzZoaEZuanpQVUk3ajhKZ1lzcDVKcDdvQmlLSkFwME52MlhPN1plc1BF?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Desborde del río Curanilahue provoca anegamiento de viviendas y evacuaciones - Epicentro Chile",
      "medio": "Epicentro Chile",
      "fecha": "2026-08-02T03:41:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdWR2cHZGcG9lNmIxMmlTMGxGMk52Tm5rQzJ1T2Y3S1ZZMXVKTWM4NzU3Sm9uVFFuZ1VZUjdxUDYzVnJrcUR4OVdPS3RYUklXX2tBOXhpandUOTV0Mk52bnZVV2xZM3ZWS3lqWGRlQUVtQ0pTVWxfMGRVU05aa3A3a1hWQVFqWnI2ZWNLZDNMNl9wMVB2U3ZYYnVRdTg0SHNfYlhFUFBxaXZXcTNJRkN5R05SeDVndllRcm1v?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Desborde del río Curanilahue provoca inundación de diversos sectores de la comuna - ADN Radio",
-     "medio": "ADN Radio",
-     "fecha": "2026-08-02T03:32:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUU3cDlJVlcxTVowcXFSVXVmaUswLXA2SnVzakJZZjFXeEFfbmYtVFJ0QTdkUUp1U2VITC0wbjZVTExKVFk0VExqVVoyWGpiQTdmcTJsLUlYOGRKWjdVZUc3V093NkRWdkxMbEktRDlSRVlrT2xUZkVXMWtXbThuOFZPODZHdl9VUloyOGRDRTFEaU1NWm9vNzN3cnlpRVp3Vk4xSWY1amYtcENrUjIxbW5HeC1oR0hx0gHMAUFVX3lxTE4ydkdyWEtlNW5hUGkxdDI5X1NvU09OSUJINW5EeVZKWWh1bkJkcUtaNlNLTjZEUzU0cm9vU0RhYWprazRaWlJOaDNkc0xVY1FqT3Z1Z1lKWHFIcE9nY1htMXBiMEZYUDVRb1lhQUlIOUxaUVNkT083bmVPNGFQOGhsY01RT2gwWDg1WERmQTdzVm1oLUJMOXlud2pLMWR1VFdWWk1HOXpuSk11cVZYaVRNU1NwVExyLTFjUDFmakFWaUVxN2l2d3Z5X2xqSA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Sistema frontal eleva el riesgo en los ríos de Biobío: monitorean seis cauces y dos podrían pasar a Alerta Roja - latribuna.cl",
-     "medio": "latribuna.cl",
-     "fecha": "2026-08-02T00:53:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOG1YVE9ZMVJ4TkRvbFh3aEVIT1ZyUVpnMDN4VkZTVm45YzlCZ1J5bkhOeHpNWlctWkVzZGNkVG0wdUdlMldRb0VPMzcxYmstMFhHeThiNVhNbk9PNG40QzM1aVBIZUdNZHJMelFHVXc2dmppNmc3eDlVU0lOU0ZjdlQ5YXJOWW1sdklpOWhFVzA1VnZVMGt2NHl3bkJ4b2JUZmdOc2NqUXl6N1czMW1UaEtWOUtqd2tQa2hkX0xBXzVKeXUyeXplT1ptYmRCVjdZc09Td2ExM1lURWZBM1Y4UGdzM0xPMWhjZkpXVlkwdGZIU2F1aG9IbmZn0gGCAkFVX3lxTE9MMkVsYm1SQjd4QTFNNEloZDdPUGpGV0pVeE5nTUxiTlZwYlJhSXZXMzNlY0Q4SFAtcTR4UzBKZllraUVlbWlrLVQwckZ3Vy0zWTYtbzZwOE5WOW5UZTRIMGlibDluSUktQ1BXYWJORXNqR1FJN09VS2F1ZkF1WkRHMnJ2NkxuQTZPYVNXalV5MXRSME10VzNXN01odjJSSTFqbUdxcWMtOXJnemRtYWYtUm45VlJDVXRNV0hRUnptbUNONHZLYmVlRUpLUUlNY3hRWVlIcjNsRXZoY3VxSVVzT1NWOFlMYlppaFFzRVFGTlRjQkZNQVpqSFdTMUxkSlIwQQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred pide evitar riberas de ríos y estero en Curanilahue por crecida - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-08-01T23:58:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaUxQLTJXTnpyeVY5X2pqY1pKZnFKZFJGM0xjbGdiUTNGeFdJQ0EzcGtPNTA0U2kwUjZ0Y0xuem5TQzNraWlxX2d3Qm56U2RDRHpUY1lvaFNZLWNlRVJwNXhDbHFoTVl1Yk9CUktJTndvNHhVbzZzVFJoRG5jMUxhZjBGbTl4UlN6VGc5NGwwOFBxclpwb2NSUmVfaGRMYzJSYmFjOVFhTjhnZUdfSXMyNE9henptUU1xVEJ2emdSOUg2MS1LTlpxemdBSGEza3NfZ00zbW9nTWlQMzJL?oc=5",
      "sector": null
     }
    ]
@@ -3608,6 +3600,436 @@
       "lat": -36.24792,
       "lon": -71.79315
      }
+    }
+   ]
+  },
+  "cunco": {
+   "comuna": "Cunco",
+   "noticias": [
+    {
+     "titulo": "Senapred ordena evacuar sectores de La Araucanía por desborde y crecida de ríos: Conoce las zonas afectadas - CNN Chile",
+     "medio": "CNN Chile",
+     "fecha": "2026-09-24T19:42:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVFpkcXNIWWV5TEdaOUpoWEZfMVluZmlmYlJ6MnJycXItdjkzYWt2cDltQ1dLUkswdXgzeTlWS05jSGFvYVRRb1E5YW8tckViVmRsdTQ1bDRKRm1PUmkxTmNxQjRtZVRkak15cVQ5ZDdlaFRqdTNfMkQ1RE1ObU54T1VaMWRxbkl5dHNaR2JQV1Q0RE1KV01ES05nSE5CbkJGXzQyZnJsVGVLRm83d3VkTTQyWmZPSnZmOWFnU3QzTksweTVQT2NGQzJIcnV4RmpmZ25r?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred ordena evacuar Río Negro y Villa García en Cunco por desborde de Río Allipén - vlnradio.cl",
+     "medio": "vlnradio.cl",
+     "fecha": "2026-09-24T19:24:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVmNRV3JwQkV4Q0tCSXVYRVhYM1VuMUt5azV3Y0hzSFdjOGJEb2lvTlZlNTE2bDU3ZGpfUVdPRzBSRGs4dUN5SHRWdFBFcDMzXzRvQ0FZcHk0MWU0ZG44WHpyREJtTEtVZGZBLWtWYXIteERfY3duX3FpMENnalgwQzUyRVVRMUhSVWdDa3RGWW4wV2VSRG82aXdOV3V6X19jYTczN0swSzdqZFZmUVVsVjY3VGpKWGdScGo5RER4SHpKWGF3dktxc3ZBbGUzTlhIOFJINXhBOGZHLTZtTVBITWxKNFRzaW0wRVRDNHRLaU9ReTYx?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Lluvias en La Araucanía: 50 mm de agua caída en promedio, desborde de canal y masivo corte de luz - Canal 9 Bío Bío Televisión",
+     "medio": "Canal 9 Bío Bío Televisión",
+     "fecha": "2026-03-15T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSkFEWGJSUkxyTnRtSkRXSmwxaW5WX3NOVnhBU1NIbE9BalhYclh2ZFh4NFFZNm5Wc08xMDhsM0tnT0FaSEw0MlFfZjJCbV9zUWU2dkxFMmRXc3lNbmJtVGVTdkp6VHd5Xy1UTUo3NnZTNmtnYV95UVB6NTQyN0xVNklocHM0QlZTeFJ5bkR5a3dQZGFRN1g1NjJWbVZRMzRGektNVzBzX3VEVThMcmdSRkRVYm5RSGNNdTEzUUZhYUVQSzJoWi03THVybTZBZXpCWmgydA?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Familia afectada por el aumento del caudal del río Curacalco es rescatada por la Institución - Ejército de Chile",
+     "medio": "Ejército de Chile",
+     "fecha": "2021-06-04T00:45:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWm1Wa1BQQmZzRFdnRVlCay01d3hBUTlGbTZvY29MQnFJWHczTHNXcGUxTi1Za3hkMGJ2dEtzaHJWLTFPYUtTOGdqcEMwT0RiWWFfT29uZzZIaG9uNDYxdHRlRmhiTGI4T0FEWHIxXzFOYk50X2QwRnZ3cEZvOWh5bGl2TUFBMXBLWFZFYmVfWnVnbnVtUEhEMFl4SmdRTVg2bHNlaUlrVVZvX01DR2haTnNzempIOVhKTUYtcmJQcVJWWnR4VE1nRg?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Onemi declaró Alerta Amarilla para Cunco y Melipeuco por desborde de ríos - clave9.cl",
+     "medio": "clave9.cl",
+     "fecha": "2021-06-01T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFZ1ZFp3NnIzMGM1TWRXU0I3a0pDQXFjTjRtS0ljNEF2d2dMdlhXTURKaHpGUWh0dnViM01fNnBtUEdzanVlVUFTNEQ5Vmk1ZEdrbEc4NVBZVl9YOUpKRmdTOU1Lbmw0WkdtU2ZReU5Jd0FWX1NlZkJLTUFKMGNlUm9BYjd6TndwNVB5VUM0R2ctcVpQQVNkQWRmbFJzZl8waTljVjRQaXZZTWM?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Aluviones y cortes de caminos deja temporal en La Araucanía-Biobío - La Tercera",
+     "medio": "La Tercera",
+     "fecha": "2018-06-27T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNE1LaEJocEZERG9wel9RMkl0TWZMNTdXMDVJM2dYRUwxZ1FaUjBSVlA2QzFmb0MyanJMOW9KUnZ4UnRIRjJSUGo2SE85aXdJa3lVVndUOFVXM2N3NjNRanBJTFJPT29ESzRWakNFanZjdU0zVTgyTm5UWGF3dHdwNjZCYTBvVXZsb0xVeFBkTjI3QmhSZ2dsaXdHYXpGYlJabVRVczVsZ0laMGxZRVHSAc8BQVVfeXFMTktQVmpERy1oNWd5bFhxV0F4aU5DcDJqTjRwcU5tdTR0TDJHWkVzWHJlQ0JKeVR0V1g1ZHhLY0NtR3ZwejNwODZmeUJ5TzJsSDNTbnJxZ0VoMi1SR1czOWFsVDhuRUV3azlkSVhaNVJxbzRJcFZpX3dES00tV0dvOHc1N3NuTzB3cEJrTXY0VE02a09IeVM2SXpDQ0tfbGNySVQyYkY5U2pLMHNUSlFDLXRLNnNVbUtNNFhCaWdOTXZpeFFLYXU4bW1zbjNvMTJN?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Onemi declara alerta roja en dos comunas de La Araucanía por crecida de río - Cooperativa",
+     "medio": "Cooperativa",
+     "fecha": "2018-06-27T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTWxKLWg1Smdja0NiMXZCeE16MFdQVWNNWDctNEgtNTQ4QzBoeWxjeTBaLU9tYnluU3dLaG1rb2JidkFvZzRRR2pTQVh2a3kzRWhEMnhxMGphaU5Pc0c3bVM1X1BfdHpvN3VEY3hseDZ5eWhxbC1XRzdZNVMyQk8zZHZ1TW9SZU9kZFBnYnhKR3Nib0s1Z3RreG14cHNrY1JseWlMc3hrWTBFMm0xRHpFT3V5VXpaakFpVWxDSUVLVVQyOFJXdGMzRnlpRzlXSUFkbUVnbUliRnRxMlZyNmRORkNDUThDTVhoY0VVVndoNNIBjAFBVV95cUxNakEzWjNlRkNhWF9tMXJiNFZkdHZaNXRsYkNrR0l6dU12OFhYTlZBRjk3S0J0Vk9yNW8wWDJkdHRXWVBMR0NteWIyQjNXdFdVcEI2TG1WMVVNVzBfNTlQd1MxOHdJcnlrR3U2NkhLU3k3eGFBcmVqVjJSd0NvMnVkdVdaaTlibC1CQ01GTQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta Roja para Cunco y Freire: las imágenes que dejó el sistema frontal en La Araucanía - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2018-06-27T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVWdzZEg1bHZqVWIwREI0bnAtZjFFV1k5c2ZkcXpzdzJXdFpzY3pxQnNRdEl1dXBaRkF6RzBNMmNrX19GUnpXM0dPS1RrVlktSG5HZTYxMU8zR2p0VlVQYmdRdVo0MUxiYVdwdUdaS2xVd1JaNkl3N1IzNEVaMjFhd0QxaUR2QkF2SVFGRW1MM01ZclY1MUsyQUZLUEFIdlFqcnpmTS1OWHdXVU11bUd5UnItakNid0tBeFl0TGRpUzE3UjZyMktNcTZZWUk5M09nYTBvZGJwMzhhOHhzZnBGNWFyc3M3bm90SVAxMDJja0Qwc2pMYTRRTkVCc0xZMzllMTZr?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Onemi declaró Alerta Roja para Cunco y Freire por crecida del río Allipén - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2018-06-27T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUzNjRVRHZjV4QVpKT1FJUDhrUmR1RFBkZ2U4SnMyMlFfbkY5emVqdWlxUzg0NGVrWFJ0NElUS2hJOHd5V2RoZC0wZEI3aThUWV9VQUlyRXF5NXZSVlh4RnQ0cTEtN3BoT0xpMGhTYk90R0ZjS3pRaFNITDdpejZBRFg0UEVENEt4YTdBWDhySzlrZjdzMnBlOTF3ejRzUEh2NTlodURzSTdXWllaVFpzb2w0d2tsU3NnS3ZDa2tNVWhDTDdRcENBeVpuTTdBUWhHaGMw?oc=5",
+     "sector": null
+    }
+   ]
+  },
+  "gorbea": {
+   "comuna": "Gorbea",
+   "noticias": [
+    {
+     "titulo": "Senapred ordena evacuar Localidad de Lastarria en Gorbea por desborde de río Puyehue - vlnradio.cl",
+     "medio": "vlnradio.cl",
+     "fecha": "2026-09-24T19:06:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ1pMV2R3VHNmNDlqdHRmQ2RMZVNoejhOdC1Xb0cxN01IZGhrd2FVQU5LeXdkaHZ5TjFNYTZrLUxlbzRvUmZ1UWJqT0FTalNhdmF4TmpJSDJoYkFCMDB1LTAzSGNmdkRKRFR6VV95NzZaeWhWWW9KVXEwckNpS2JvUFBPWHZrckhFdWRvTHBZcFNOSDh6NDRaYjJtLWxPVUhpekVqLW5SRVF1SFY3QTZxMzhXejVnWTg5UFdaeS1famFyZXUtMFdRUGJjWWduNDlxZHpxWXd5ejRYeElBR1ktZWlzbUVYR003Q2QtMXJsbFlDcDA?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta por desborde de ríos en Purén, Carahue, Imperial, Gorbea, Pucón y Loncoche - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-09-24T19:01:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLThKbnl0VXFnSUpVekRVNjNxajNoOFVodVptMS1YRll4UlJzazI5a3lBZVdvT2d2bjdxS29LT2dGTC1YYXhhdVcxX1RrdzM2R3NTMk1kbWJka1JTNnE5TENxRTdzeVlpR2JDT2ZHbFRuS1ppLWJZU3pxRHlBMV9CUlRoQVBiMlVaSGVmLVl3YTc1ejFB?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Fuertes lluvias provocan desbordes, anegamientos y solicitudes de evacuación en zona sur - Cooperativa",
+     "medio": "Cooperativa",
+     "fecha": "2026-09-24T17:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0F0M2Fnc0VHVE02TkV0dUowTkV5am9LOXEzZFdvaTNjbXRCclgyTEpfV09iMndXT0JILVVlRmJ0d204WXpta3QxeElYVGlEbWs4Um9ucDJCaFNzX3UzQXhZSnlETUhaWW43VXhtYTBRaW9XaDI4WFZQRmNHbnJfUnFfaFJTc1h6NzVjemtKdDE0bndrcy1ENjZZZVVmbWJtMm1oVTJRUDJWdGpIZFdjNVVscWtGMGpZcHNyRmpsT3RoQWc2OUJnWHF4YkVUVzk0?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Sistema frontal provoca desbordes en La Araucanía: Senapred ordena evacuaciones en Curarrehue y Pucón - Universidad de Chile",
+     "medio": "Universidad de Chile",
+     "fecha": "2026-09-24T14:44:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTVlpOS1IQVVkRGFNN0hFbjRrcE82R2pDaWRSZ1RVVUlSWWpyUEFldHE0V0JGSDJERVUzZGtnX2lma0VZZGhyVHVXMnhRa09wc2N4RDVWMmZGbUU1anQzdndVZWJHN2taNG5IOExTTlZLZEo1M1EwUXVYWG1OeUY0djZtZmF5Vy1UUkVXLXVXbHd6VHVmR2ttenFjMDlja2tKTWhMQU5rbFd6MWFNc180WFljbU1KMDZlRjdQMldQUXNwWTVzR0VnOGRlMXBOYm9YRmc?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "CHL: Otros - 07-2026 - Evento Hidrometeorológico (2026-07-09) - ReliefWeb",
+     "medio": "ReliefWeb",
+     "fecha": "2026-07-09T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEtpTzJSSVhHLTYwWVZJVkdqdVpYVVk4QTU3SlkwY1loMU5fS0N0V3ZLUlFhOTZHV0lKR2lCMjhVbTNZV2FIMF8wbUQ5QVcxcXNUUEdsMVBFNExkOF8yaTdET2tXOXV2Y1JXMmJ6SVRiSk9UanFScmZWWnVHb21qVVhZWUIzSmZicFhaTncxajRHeXc?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Decretan Alerta Roja para comunas de La Araucanía por amenaza de desborde de ríos - Meganoticias",
+     "medio": "Meganoticias",
+     "fecha": "2024-06-28T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY19yenNjZEFNVmEtUXJzWmZGcnBSTXIwMTJaSWlhOFN0Zk16YXllQ2lLYzlWU0cxUGdyc2U5NTdhUWFsU2kxLW9fZmlHWTRYcmR2ZWRMWEgxRnd4eWNySGhlQTU1bHNKb09kVzJIQ0lFVDJNVUtkV2FGRFVZNldhYW5JVDFISVNIdGVFYXF5SnZ6RjFLM2V3MjhFM09EWTRTNVRCaGJoUER0cXhsMnBVbDVYOUpLZmw3cWdNTHZFZmhETlNJ0gHKAUFVX3lxTE01bFhSdVNXb1BkNERqSlpuNUpBVmRpa0Q0M3phaXdicEJETjNzU3hLclRKNjhvRElEX1BjUVdOMGI3TDQtaTdnSjVqU2dGR2JiVFZoMEQ3ckF6Nm8wNWo5UWZaWFpxSzNadjhlR1o4OWdsUmtXblRId2d3MzFoRGIyQThwb0YtRl9oQzN5bkpxUTVtRThJekxxSzNLYlREUV8xZUZVM0x0NzNnOXVyYjRSbWt5bjlXRDltRzk2cmJjZVZ0eGhvZkhFM0E?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Más de 300 familias aisladas: declaran Alerta Roja para Toltén por desborde de tres ríos - 24horas",
+     "medio": "24horas",
+     "fecha": "2024-06-28T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR3NsUDJvSGoyODNCbk41X3FhenV3SHJzM0o3ajVrdzNkM0FXSzVvRDNUUnAxdVNkR3ZHVXA3akh1VzZmVDZQSFdwQzkxQ2luYnVEb0NqTklYekVrSVp1R1JLeUZLRDNXOGttRU9BOXVSM2QyYVRtSHAyOWxRZ2FSYU5fU3NHWjZHRm5uSklUb1JGZ1ZXc0x0d21pTkNrYXg3R3NpWkFkQUx1YkVVa0HSAbMBQVVfeXFMTkwzUkVOTXkwcUVsTFZ6NU9YRlhBckxDcE5OUm5IT1p0ZzJRY0k2bVUzSDBweWhHYzlnUFNWUy1qRUJyVWpwb0d5N1RtYmxuOHJXX0UySG1wX3hVRHZfNG8yYzFrQnZNc3RNclQ1T2xqTkduRkFhVTFvOTJEU1JlUjdyeWNPVkt6MlRrU0kwVjd0VXpLdlBKU3hKdG9SOE5wbmRmcS1qRElyd3BQOXgtX2YyQW8?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Se declara Alerta Roja para la comuna de Gorbea por desborde de ríos - 24horas",
+     "medio": "24horas",
+     "fecha": "2024-06-27T20:41:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeXV5dHZnQWpXbmVzaXFrWmlOOGNyY0o5YzBiVXR6Z3Y0WnNsMldaMFY3TDZ5czZoRFRwUENFbmt2WnNySkdiaHVnVlJTNEk5am16V3hhZWJTVUktVjlHMkR1VnRScklVQ0Y0aUVRSmk4VlRSMUZnMEx1aWR1VndHbG9ZeW9DbHd6MFlGT1RSTzVGMlJWaFhFUE5GY0hMZlFGZ2ZNZmprRDNRbXYxaHVHZ1VQWWFUT0FkcDdn0gHAAUFVX3lxTFBkNGF2NlNhZGRxX0VGQldORTRsazhqZEhKX05ydzVhblJEWFBabWhmOWR4WE40U2VLRXJyMUNwcG10cUxwWFpFV00zSXlPTm54Y0RheWVWYUhVcXBwSEF5em5CWFMxank3QzJFVFhkUm54dVladFRTVFY1YjBWTXR5WThlWEduMy1vT0V3U3I5TWlVOE4zLWh6S3MxdFRDSjNsZ0I5R3lCLS1PUUZGdWRBcUpYdDVCZDN2TV94c09XSQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Fotos de las inundaciones en la Rochapea - diariodenavarra.es",
+     "medio": "diariodenavarra.es",
+     "fecha": "2021-12-10T08:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlJHU1EwRWcyQTlRbDZFRGFUZXJveE9CZ2VvQ2h4eUhFSENwNDV3MWtTOGoxRUMzYUVGVS13WU9ST0pmQUVhMmtSaEtkem5yVnB3VlVGNXV3YzV2NlFrWE5aSXBLMENHcklUU2JYNXBwSGlaVjh5SVRwaHZhQzdBS1gtUTBaWlc2M3BhZFhKWVNfQnB0bEo3SnN2Sm9rUEZocHI4SmU0bUh5M2ZfWGREXzdmd1FWa3pnS05qQ0FTQXd6MnRMTlVV?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Frente de mal tiempo deja a vecinos con el agua hasta los tobillos en sus casas - Araucanía Diario",
+     "medio": "Araucanía Diario",
+     "fecha": "2019-10-05T19:57:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTzRFSk5lYkFQdTF4Ym5wTmlkSVVjMFlRWVpOeGx3dy1QWkVqUGdyYklmd0RERG1LOHhETHhYeGk3SVdPbmxLQWFGREpKNlhzU0tNdXB5M3dkbHFQVEw2RWEzR0hKMExxSk5wR2dib1IyOXpnOURkcmIxX0YyNjBmazJLczhiOW4wTVlkdFBCSHlqY1p2YjgtUWxuUmlfVXpkbXNSa2tFMi1NZWowLUN2SGI0YXlWSzZjeFBnRm1R0gG2AUFVX3lxTE1tR2l6alFvQlhlZDRoZHIxYklIOGdhN3hxTVNCQk9SY2JfOVJQelR4UzhwazNaQUVKWHBDMGZMRFU3bXhtQXVkNE43N3NnQ2ZsaWlMSlNLUnlxeVdWVnVIN2JBMXBXWk5SdnJ1NWFmVFNWaEV6dWVLUFRCR1pTZ2lJXy1UaHdFaDBUb012Sng4QXV1bGdRalJuQjd5TVZPWjBuWkoxMlkzQ0g2TkV3OU1TUDlGNzFR?oc=5",
+     "sector": null
+    }
+   ]
+  },
+  "quilaco": {
+   "comuna": "Quilaco",
+   "noticias": [
+    {
+     "titulo": "Senapred pide evitar riberas de ríos Lirquén y Biobío en Quilaco por crecida - vlnradio.cl",
+     "medio": "vlnradio.cl",
+     "fecha": "2026-09-24T17:49:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSjNJNG13U0cyZkVURnNZZm16YXhseThSME5VS09sQTZ1bTF2UlR1WUZkcDRxdWlYMWJaUkNZVEM2SWp3a2Fqd3I2dGlsbnd5UnVKTGhhYjBLQl8wTVFkOTlYVXI4Y1E4QXN1RDNWQ2t4YU9iMFpLMndTX2NJQ0MyQlk5amUwaUZfb2xxX01nS1VrUTFuNm1aRWZ0elFDZV9hX3F0THJnWU5lcmFhSm9SSnBBNGY0VVFEdjRWdzlMVWpuRlVzTnljdjZYUWVHeGFDQzloWFp5QkRQQXd6dmlGYW53?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Sistema frontal en Chile deja 25 personas aisladas y 19 viviendas con daños - ADN Radio",
+     "medio": "ADN Radio",
+     "fecha": "2026-08-26T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNnpMNlJOSFltQTdOY3pEdXk2THZQVXFBeWdNSkppbUVoNzBNT1lkN09xZElKVUJrczlPRzZXMHJLQ3BLSkhRcEloMi1yMW5VU2tOaFNObzBfTzAyaHhCWFdrTHp6T1QzanlZWWJDUERHMFFWZUd6cWpOVWxUdmNXbW5nY1lyUkhOYW9HSGxhRWV2WWY4UWZhaGRwS0NLbW5GUnZFS0NBQVBEZklONDAxYdIBxAFBVV95cUxQM1ZfcGFOVjNBUTVaMktfTTJxUmpucUVpUFRUXzR4VVcxOEF5ejhfT2xrVWxKTFJsSmh2Q29FTUdZcGdoMmMwbms3SHBGZVMxczFNOWRSYmNWWUhlMmg5WlpFOXdVUkx3a1VuY3dnNFNVWjBJa3BtdjA2cGJDX1V2OC14bHhvNG1EajhFZ1JZeS1kNjRKWnJxYkhGNGpjdWNVOF9xNFZsSzR3bWNFWENGa04zSlcwNXhQUVp0Z3UwMnlTUXdQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Más de mil clientes siguen sin electricidad en la comuna de Quilaco - Diario Concepción",
+     "medio": "Diario Concepción",
+     "fecha": "2026-08-01T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWTJibGs1MzlSMTFrQnF6TGJMMlhhR0E5VVQ1M3ItOVdOMnMyMU11aWxxSmhtelNpcjZNY0tCeDN4QkR4dlR6VjBGZ2djeXhKSEVfZFpacnhWX0ZDQ3VSOVRyd3ZudE1tTGlyeEdhbHhVUjdSTjd2S05uMHlxN0E4TTNvTHRYY2NnOEtKWmc1dHkxTXc2UFJB0gGfAUFVX3lxTE9Oc2Ztd2xuZWptLUFKOFUwU084bnN1QjVORFhUTE1rcWFXTnlsZ3NmNWp4aXF2OFAyU1R1aXRqaEpQSkU0TEI4X3FUcmhObnpSUVpkTHNVbTN0S29KZmVkODZ2NEpQV1hNcUY5Um4wUkNtUEo5cUVfLUtxWGVvYlUzaVJaeGZqbmZPSTZnQmJtXzFHaGJ0amhXZ3ZEdUt4WQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Más de 61 milímetros de lluvia en 24 horas: sistema frontal golpeó con fuerza a la provincia de Biobío - latribuna.cl",
+     "medio": "latribuna.cl",
+     "fecha": "2026-08-01T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeFZTdkY0ZWJ3Wlcxd3FFZUJqc1VPTHZBTHRLNTBwVlZ5REU5bmgzTkNQYnNvYl9rUVJkTjNhNHcwWG95OXFuRGZoeDlXSjRlUW4wV0VMM3M1ZGxEb3pNZFdnS1RiMlA3NV9xZEFFemhfRjRlS19hanFKRDBWM2hKU2E2TzlOTVhBYzRGNVVxS0pUQl9GdUlzUVJ4emhGdHV4dnhzbDVLZVpfZzZQS0tvYjJ5U3UxVlBIcV9GTS1ZT216Zk9UdU1vWDZoN1dwaTR4RFVwZmkzS2JTNTdQa1VVdWV0cDJub3dKYl9sR19R0gH2AUFVX3lxTFBsUkI1b3dDNlIxN1AwWVd2REdpUE5scXJFNXYyc0VBa1BOeUg1TXl6WnZIeW5PYUtMRzVqZU5qWEFjTVhOb1AyZGx2Y0t6Z3g5eVZSSndxNVYzZ2JQUk1wcWFuakkxZlhYNjRDcXMzNjJTdklCb1BRZ0QzdVlBOXFpV1o0Tlk0OGRhOVgzOVNmaGlKdTVoWnYwbWhwOEY0QzBzbkFBamNRWU1XZFpOWGVVUGZqRjVLelhLY0JIY3QyWWtMZnZUUlYxMWxIYlRNeXctVFdNTWVRUjdXM0h0d2NsN2N4VVJkQmNTOUhmd1JXTVRGWFlYQQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Llueve y se sale el río: Vecino reclama por constantes inundaciones en camino del sector Las Obras de Yumbel - latribuna.cl",
+     "medio": "latribuna.cl",
+     "fecha": "2024-08-06T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPLTNDVmFDaTFIT0pnSjVSWEhYQXNScUxfYWhoYjh0bHVLU05RUDRzamdNQnVKckM4bDlvUm4wQjRDNUo1aWNvR0RPRy1JSV93OUxDOE9IMjJiMmN5WVZpaHJ6QkF4RndIX0E1WUdLOGRzMnd4dnBQbmRUYTZLVHZFQXg1Q0pGS1dwZFpYb0c1QlBWX0NpeVJtN2I4SmlmSEthV1JwRk1XaDY3ZkJTellEZ0RIdlgtTThYOXlEdXM0bm9DTy1OMTdWWFhfTVBERXdZQVhuQjg3ZE1WLXlqMkFPclZNWUxLQ2ZKMDJkaXh5RVJ6NF9mMDVNSUZ30gGCAkFVX3lxTE9LUEhjNGoyNjVSQjVScks5aE41S0xkNFJheEpWaTZWYklKQTBKNHJiTXBaNi1OOVlPdEhqTk1Xdkt6b25DUWw2ZUJDdW11RnVzTTBoMFRsamRMWGFQM2U3aUMtRkdEbXVKTi1RaUNXQU8wTzRVMTVMSjA5b0l3SFNSckF0TmM5bHJIT2VuQTJ6Q3ByOXpRa04wRFhpVnc5US1CVUNjUkoyM0UtbU9nWmNsVGtQd2NIZEFLTTZxUEw5eGh3STlJMml6S012Tnp4Wk5lenQwclNkTjJsMTR5S29DNUtfVnd6TnBlUG9RaWZsRHFNd3RycXV2cy1zN1dxdWtoZw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Matrimonio de Tucapel pide ayuda: \"En cualquier momento se puede salir el río\" - latribuna.cl",
+     "medio": "latribuna.cl",
+     "fecha": "2024-06-06T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNzA5eDhMYXdfMFNaaWppT0xkY2hXdUhETnVia1Jtd3lGMWhzbDF5VmE3ek9pUDlfa3VUOE1ub1ViaTBJNmM4OWZRcUNRcDlkR283TFd2TmdLTmUxRGF0a0VSZVdCWHp0Z2pTbHdDdVBldk96SUVBaDd2dExxSndUSVh6UXRQemFJWG1aX2JRZlZQY1FCcHFLVUZGR3U3ZklBOENfeS1YRHg2Nm5aWWRnQ0VKQ2VhNnZnbDFlNFhlVGxOVU1hNlJFbGJUVTl4QlXSAdcBQVVfeXFMTTQ0QmE2T2RxWHF1S0hhM296X2EwVS1qUFJHUEVMSEVPU3FwTXJITS1lZWJJenhfb3BtQmpjZzFKUnUwd3RBcTc1UkNHS2VkWXVOb1pxSkI2LU52VkVKQW9DVEplbUxNZmNJLTN4ZzljTWRCN3FhVlF5MjFSNDkwRjg1NndURXJYYThjWUFJNG9oZmQzTDhVZEEwNW50ZVhQa2hqdWprWUhwYlVveVBmWVBhT3ZidVNaUzk2NGl1UUtrbWlndWlLSXYyOEpfYUI0ejNrbXppYnc?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "A 10 años de la crecida del río Bío Bío aún no hay un sistema de alerta temprana - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2016-04-22T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMzljWjZtNHlabXAtNkRuZGJwRmg1b0MybENJeC1rQ3E1VmlPS2l5NHFVb2V6ZTBnVmI2MmJrS3Y4cFY4bTdqbHBRYzZGbWRJcWdzRkJsTGtBUXFicGFqWTFFSGV1UGdCc0Fwb0ZmOUlNLXRIdU45N3ZCY21tcUpkVkZjU0dzWFZPTlRqLU0wTkF5WW03ZEhKWjhId2VpeVBYaTAtdVc5NVhyVm8tVmttZUQzMVpZQ2xNTDh0TnJnZ3A1YXZKVEVMdWtSbEtMUQ?oc=5",
+     "sector": null
+    }
+   ]
+  },
+  "panguipulli": {
+   "comuna": "Panguipulli",
+   "noticias": [
+    {
+     "titulo": "Evacúan sector de Liquiñe por desborde de río en Panguipulli - RioenLinea",
+     "medio": "RioenLinea",
+     "fecha": "2026-09-24T19:17:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaERQZGdsM2szTUxpaHlCRWZqUi1qZ3JDZnE5eTByWmNHTl8xbjF0aGVvN3ZEbi1FVjN3eWFLMWF2Mk1LTVEya1hUemhJLXpTd3ZzNWpzZ1VYOUE1QW5QRUZSOW9YTnlCdnZqdWF5T3hsYURqcGlpc3BSOU8xREJQQ0Y3aVVUTi1SWXM3aGxVeTI?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Emergencia en Los Ríos: activan evacuaciones por desbordes de ríos en Panguipulli y Lanco - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-09-24T17:02:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX2RWNHhYZ2RtejlkT0IzUmJ0ZGVMRV8yUXgxU3ZWLWRPLWw4UHJCLTUtODB3RVVORDAtM2w4Z0U5c2ltaGpjR3dhZ3NYSjNFVU55VlF3bFFCVjQ0M21vd1lmZVA5bl9hLUF5ZGtUcHBSOTE3cVdGYnNkUms0VEFEOTFKZHpuM21KdERyckVWMEF0cU81V2NubG1wNUJGSkFWQlYwcWYtODY2NXdHWG9iTVhob1pWblFTT0V2OUNwc1RuZHFVbVlmZTlGVFNlaDBycHZlY2NubzM0cW5ONnZzU0tn?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Ordenan evacuar sectores de Panguipulli por desborde de los ríos Leufucade y Zahuil - vlnradio.cl",
+     "medio": "vlnradio.cl",
+     "fecha": "2026-09-24T16:56:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd014OGZSeFFVbXdwZXlEVDVtUXdjU0x0SmhWLUFIc1pfN05hSUs0RUdyT05MRkRPek02QlRBZlpYdmlqMGcxckd3UWxnMjdIbnN3MWdZUjNtM0FmYXkzWDd4bUNPM0ROdFc5LVowd2k0czMzYkl0LWJrTHdCZjNMZWt3ZXZlZW9UaFJIcXdMTmlmSjZTUWwzMXdrUG9MV0tQV24wNGlNOVpwTFZWczA5enZEUXBJdm9kRk9ETHJ5RHg2WUVNUERiT0VNQzMzUE9yLWJZMG5Rb21DT2lzS3hnZ2tEQ2lRZmNPVERIQQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Temporal azota gran parte del Sur de Chile: 2 muertos en Panguipulli por caída de árbol - Infogate.cl",
+     "medio": "Infogate.cl",
+     "fecha": "2026-08-01T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTnpzcTZhVGxPZjVqbzV6bXB6WVFtTENjZ21NSUlrbTRmOVg1Yl9vekRoVVN4bG5BQ3pYM05xM2R2ZnAyNEo3YjU5REhxREZxUFdCRE1qY1RLWjR6YUprOFpTbzZlaDFiblVoWGhnWndBcXZIcmc5d1RWWnpHSVR5WHppSU82WFpjZnNOSDJVZ2ZiMHVUUDFBZ0xIRGJlWlRxMkVQdWJWQmY3TmVYRTZpcVdYbw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Declaran Alerta Roja para Valdivia y Los Lagos por riesgo de desborde del río Calle-Calle - diariodepanguipulli.cl",
+     "medio": "diariodepanguipulli.cl",
+     "fecha": "2026-07-31T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX0d4SDhVa3ZVNFhNTjliTFMwelBlTkhyQVdsN1hBQ3VTbDk2R1RWUVZVc1hGY3NCaXMxVC1RajhnV1lhNDkwaEtOZ3QzNzBKRWkwbnZUWTJzWFhqM1hKLUVkY1VsZWhRTjdBMl9zU0tCN1k2SUo0LUxZTTBhSTZhMkZLMmRYWEROY1Nkekc0TzlORVZVOTFybVRta01nRWZPbVZvQ2lGTUpqX1pXbHlMemstY01neVZHSFZzUWNGVDBaMVJLUzBhQWpVR3ZSUVh1ZGliLVBxVjRyNmZXb2ZCYkFIUnRnUQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Panguipulli y Futrono concentran los puntos más riesgosos durante el invierno - Diario de Valdivia",
+     "medio": "Diario de Valdivia",
+     "fecha": "2025-05-10T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUVJsa2VaQ0ctTENzUFVTdnhJRXdQQjEzTHg1OGpQakFEYlpkWWJjazNDdTQxSlZUZmlTQkpNdEpkVE5zMTdFbXFwMElYN1o5YlY2NlFJNWQ3MFFaWHVwZzFBM09NS1J4QWltMUdpajBuTXFVR0lPTnRqd2NqejE1UlZDSkFnOVhnN1F3NF9TVkllQmNZUS0za2pKWWlrVlJkcXBkMWFNQnVuUEdnbXdmNFhHYTczTGZNNkpxa2xGdXIxUExSVVpfbDRjNzdibjRHUW5r?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Mantienen Alerta Roja por desborde de río para la comuna de Lanco - Diario de Valdivia",
+     "medio": "Diario de Valdivia",
+     "fecha": "2024-06-29T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2JwcXJPTF92T1Z6NjBvMVFjYVcyYUlKUEhzVVZwWEFQWjBFVGR5ZjdlcE10MHItQWpBcW51cGJWeU5lWnhNS21QVUNHS2pnU2FnbHZ1SDRHWGFQYmdUdmJ3dGRqb1RrSEZpT0c0eXk0QUFfZWN4VzNRSk1WOC12WHFLX0UyM0YzSGJRODg3OU1jN3pKTkk0Tks1MHdXV1E2UmhXSkFOc3ZZeVF1c1VQcjdYR2NzQ2g3U0pMbllGSkVJUQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Declaran Alerta Roja para Valdivia, Lanco, Panguipulli y Mariquina por desborde - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2024-06-27T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTkUtNjQ1MWtaVG5IOW1ieHJ1Tk9vTDgzRjlJUkJfWE81bnNoQnRIUV9rOVN2Q3NqY2tpbEZWM3BfakVDUEdXV0s0cEkxQ2VFYW5XMkpvUm9VbG53cVo0VkZpZmp3WGp1ZUtNamtYYTJSRjRVdWpONE5iZGY0c1lpTWpNeWduT0hiX0FxYkFZUWNxdTZ6cUNGUy11MWVnTDlJUDBn?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Sistema frontal en Los Ríos mantiene Alerta Roja por desbordes de río. Hay 300 personas aisladas en Futrono - Radio Sago",
+     "medio": "Radio Sago",
+     "fecha": "2024-06-27T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXQ1Nk1MR05OVDdPLWphUEJlVjJfUkFFcG1SSGRGd0pOV053QVY1RDNsZ0NnSndzQjlxV0tCMmRMdTFQV3I4T0hkenNnckxHa2x6MUN0NURYbjl0TFFpQmtScS1xcUFSUThQTGk1UmNyOEdhN0hBaWZQUTNkRnNNdjBnaWM0Y3FJRk9SYUNUZUJUUHFPOFNDUTVuQWdQOGp1dUxDZU9GdHNRenJUbllnSnRQdjBnWGgzU3pqUWl5NjNDREF6eS14NjFESko?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Declaran Alerta Roja para las comunas de Lanco, Panguipulli, Mariquina y Valdivia por amenaza de desborde - RioenLinea",
+     "medio": "RioenLinea",
+     "fecha": "2024-06-27T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTHNzbEZQNEFhbVlfSTJNMngxRExfYmkyZW9OMnVkcDg4YzhVSkNpUnNHUlg4UWg5M2NNZGltcEkwcGkzOTV2eTc4YjkwWDJJSzRER2NrelFnS0RVQkJrNnBLam1vSVpVRVI5cXBHc21Bb1RCUDhpR1JMdkVKbDF0Tkg1TFdZc2YwUkxiS2tac3VNV3ZzRDE0WXlBNTRLaG5hamxHZFA5NXNYNUt2c3hnY0pfbF81TUJYelNmTFhTaEdkSkxXTUVYa19B?oc=5",
+     "sector": null
+    }
+   ]
+  },
+  "lanco": {
+   "comuna": "Lanco",
+   "noticias": [
+    {
+     "titulo": "Desplegarán botes para evacuar a familias aisladas tras desborde del río Leufucade en Lanco - RioenLinea",
+     "medio": "RioenLinea",
+     "fecha": "2026-09-24T19:01:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWl9Ud2liWmgtZ0RNakJ0V2duQkF6YWFraTUwcnlXb2xVcm1QcUpEOWt3THZ0bXM2UE9sMTVOSHlwZTh2c0w5V3J3cTFiY3phZWZDbEdVSmNXaFZSejJRMWJIUjJ4WFM3SUlCLXpzQ0FacTY3YXEycTd2Rm9aemxaTVFzZjkzMGc1cTdnSmxGRWthRWZKdTBSbnJULVc0bkVXaFE3QTRzOThaQV9VdWdrMzJRaUZxVDdoeWc?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Emergencia en Lanco: cerca de 30 personas aisladas y evacuaciones por desborde del río Leufucade - noticiaslosrios.cl",
+     "medio": "noticiaslosrios.cl",
+     "fecha": "2026-09-24T17:41:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRk1tVWxXYk9kTEk5ZlRuZXBZY0l5clFQeGhld01HRmNYbFZrYVk5VlpqU3Y1RjZjRXU1Yk1NeE5YaG55NTJjb0Y4ZzdXdVF0M2xMcHFmU1BxTlVqU3hkV1kxaXNINm93RnhhcDNsa2ZLQk9oRVNNc2wzZm4xWlZ3SFBUOFgyRlJibHM0bWo5M2pqWHN3Z0RON0g2Z2l0N25VU2xUUnpSWFFjUzIzYjJ4ZWo5SGF6STdEMW9oUlRQSGJ0U2JUOHZtRG8tcWJpc2Z5d01UYw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred ordena evacuar Balneario de Malalhue en Lanco por desborde del Río Leufucade - vlnradio.cl",
+     "medio": "vlnradio.cl",
+     "fecha": "2026-09-24T16:28:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbXl6amNBSW5DTnFzRnplYk92bFVCeTd6WHJfUzNCckxPRThzVjNfTkNaZ3hiaUs0VlUxYkJHUTJ5czZKNExtdFB5cnlhanVZZkVXbTNaSEJOM0FKMG91NkJaZ1R3S21Kam11UUV3NGVCb2k2Rk9xUzFVcjdsRGtzcmpLem9UaFlVTktDenJoVExGelNVV0Q5Z3hPaEozRDY1QkpRZk92VC1WT3VqUE5mOXJqNy1WT3pVTi1RUzd5T2RSUWZKOThUOGxBUjNlTmZTZEtoUUQ0SGI5NW5fM0xfMVFnTzg5MGdxd3pMekdRYw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Unos 30 aislados por desborde de río en Lanco; decretan Alerta Roja para la provincia de Valdivia - Canal 9 Bío Bío Televisión",
+     "medio": "Canal 9 Bío Bío Televisión",
+     "fecha": "2026-09-24T16:23:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdTRwcFN1TUdlVDIyTTg1Unk5LUFXdV9DVVgzSlBabUdrTUliX1AxUmtETlJvdE1jbWZmUUFsLXNDWjhlS2dDQ0dRaGE0NE9uTjBULTcyRTdKV1FaUG9EbVg0UXFDVm4yNmljdlFKT2lNdDQ5WTZyN0pxZXdLOGFYOHdHeURlcExQc0ZtRnZITjFoV1dKUUtoT1dYX21uVDJQUkN2cU11RU90cWM3QkZMX3Bkek9vNGh4Tzg4RVpteW5xaVlHa3E0Wjk1UTNhUnNIcXJFaTA0RUE?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Cerca de 30 personas están aisladas por desborde de río en Lanco: Alerta Roja para prov. de Valdivia - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2026-09-24T16:01:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZWtqTGZpOU1fMnRyYXd2UnRHeW1xcWU4NV9aNWM3dUlibTdBLVNyci1ZcVZPVzh2MWUtVEZ0OXItMjdneDlZV3BzV2RYMWtPWmZqWXdwZ0lPeXBHeFVIaW5zWlJVMGVRUGxrN1Y0UUNsUzRfMm1zRHpkZXFKcFdQNnZuZUlUUVhXMjJqMlpNb3ZjQl94dGdGT1p3Z1dZVm83XzJSemdpdVVLSk5ZQS1OV2FFbXVuRWhmQjNybFRHSW1VQnhhTDN4cm5uLW02endnbE9Pa0k0MVJGNkVCVjNLOXFKdzdXdGI5YzJ0U3c2UFV4b0RqcFhUc1drN1dIZzVwOWJ4alVoeWlfSjA?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Mantienen Alerta Roja por desborde de río para la comuna de Lanco - Diario Futrono",
+     "medio": "Diario Futrono",
+     "fecha": "2024-06-29T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTE1DSzlUTnFRNTN6X0NfTktncndUd0RQckpIc0M4V3dvRFhCMjJRVS15R2Z0X2k0TFNSMkhjR3VtY2tBYU9GejZKcWlEQjRCQ0tsa0RRUGdmM0lncHhwc2xTdTRKMGRSTWduUU9zZkVoczVTOUw1UUVQNFlQSkVGN0ExNS1ocFR1bGFjaFRmYlM2Ykd1QVBjTXFBVVNzdG9taTFNYUptempVRUFDdkNrWTBSXzBNUzhYUmxOd09R?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Reducen cobertura de Alerta Roja sólo a Lanco por amenaza de desborde del río Cruces - RioenLinea",
+     "medio": "RioenLinea",
+     "fecha": "2024-06-29T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHNNU0J6Qjk0SWlfX1d1QXNIaV9xeVduTDV0U0FCaUZ1UUNuR3NDeHB3TjRGQWVpQ0JGRkFCcDQzWXVHOHducDZuZVVvMHRaMG1tYkd3X3RVcUdZVVBtQ05QalM3MnpKQ1ZDb0RMVFQzTmd6eTFrZTFIN0c4YmR5ZEFSMXZwdDBmVGw5QWNpX0s4TlVyclM5XzcyS0VOTGpQWF9zamFxRHpnNkIyZUZmRQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Balance tras sistema frontal en Los Ríos: Lanco es la comuna más afectada - Diario de Valdivia",
+     "medio": "Diario de Valdivia",
+     "fecha": "2024-06-27T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ3RxOWd4akNOMXlBdm1GQlN5cTZMRG1Rd1lXdEwwZ3gxMm1OY3VXaEt5R0dxdVl6amtxMExaX3dZQnRCV3dSUVBpSm0yTE1FQ3BBSlN5LTdCRFNRaGZ4Q3ZhRzA1aTc2TU5rZXpVMzM5QjM4X21wRGRXYmNxNUtZcjJyRW52MmtnTHNUS0p3Z3MxaFB0UjFJM29hN3RaUFVKU19nbTA3Sm9MWkRNVjlpT1lKNU94SXlGRjh0dkotcFdPbmdIbjVoV0ZTWQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Emiten alerta SAE para evacuar un sector de la comuna de Lanco por desborde del río Cruces - RioenLinea",
+     "medio": "RioenLinea",
+     "fecha": "2024-06-27T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQakpmRWx5dTNrRVc0UG5QR2U4SGpNelFsOUpWWXFKd1ZITmhrNWNObE9maXhqdGVPSGNIWXpIb2J6aUxjc0NPMEx5TVNBanMxUVFoT1AtbHQtMjN3RTc1ODNGVzZBeGhjblU0bEdhbEZZZmR2OVE5MmtKRE5mVUNRb294VENkTXVHdmF0NjFoZUZQd2txVHVyMWVLSnNzcG5XMG1qMmxTUlk0OUplTGxmdHZNcDNHT3cy?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Valdivia, Mariquina y Lanco en alerta amarilla por amenaza de desborde del río Cruces - RioenLinea",
+     "medio": "RioenLinea",
+     "fecha": "2024-06-22T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFk4aWpTdHlMOV8tSjlxUzFKRDB4WEhUX3JmU0J2d09pY3ZuMS1TQVNxUXlOLTN6WTc1LVRBMExkbXlEZ0FnNXpWcGxTRFFPMWZ6R25nQ0pqUHhtNlpZbjlJSnhFV1JYNjEyX09NSEthQ2xsRnptRUg1UHRtOUpzQWdMdWxUNFZTdHZ3bjFuczl5U3ZEWkV1NFQ3S040SFdJM2NYX0V5YUp2cjRjNU9HYQ?oc=5",
+     "sector": null
+    }
+   ]
+  },
+  "biobio": {
+   "comuna": "Biobío",
+   "noticias": [
+    {
+     "titulo": "Estado de los ríos en el Biobío: revisa los cauces con riesgo de desborde tras el último reporte de la DGA - Diario Concepción",
+     "medio": "Diario Concepción",
+     "fecha": "2026-09-24T18:57:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGFiMS0xeGdGNUQ1YzZTcUdUdVV5aVhBNjJOQkJmSXIyMDZrMWRSOGp4ZnlubWhjU0hSNVprcWw0aGVHd2EwcF80THVfak9VbElURFZBRGpsb3dMMG8yUTZpb3FlQ0kyS0pZN0VuSHdDVnZuMlYxQzBsZXRvYkZab1VDZ3dESmw5X2E2NkFoREc4UjdwMGktX3NkdHZ5TmPSAacBQVVfeXFMUGh5NVZSWVhvZDhjczNuOGdVRVNoVG1UN2k1d21mV2JUeHB3a0E1MVloenNoNV85NVl6QmpUMGNwLXpRbDZ0cUl6a18xbkVqbUh0d0hRd2ZVWWM5c2J3em1xS0dhUVlEdFl5ZVZ3OUFibnRvUjZieWpMajNOYkpyQUduZG5QMjFTX0JlNmJhQU1HbXdrcV9yc25EUGIzWmVvWng3Z2c0UG8?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "¿Qué rutas están cortadas en el Biobío? Revisa el estado de las vías por el sistema frontal - Diario Concepción",
+     "medio": "Diario Concepción",
+     "fecha": "2026-09-24T18:17:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTE51UVIxYTdqSnAwQ2NxSWdYVFdnQmZFSzFGNk96dzZ6bEJrZGpaNVRQaDJHbGlSNXhXWThRXzN5bmJDODBDbXl2OHNqRmc0ZWlYNmZYSjczNVJ6SjNPeGR0MlBPQ1lDYkZGNlZlNjdEanp4OGVHSmplMjJONTVzc0dsNHNTRXpreHl5NVB1cWFLUkF0Z0pz0gGfAUFVX3lxTE5BR2Q4TkdtZnNjbTl6UHFZdm1ZWWE1c3d4WmotdVJtR1VnbVRhR3gwSEFhUWdrR0NES1hxQ1d2bnJadkJ3dmg1MDVaUi1vV2ZFUlJJUk9VMk9ULU0tLS1MVkcyaGV0TUZxM0x1Z1NRWmI0VHNCU3VKT21DYlJxN05PMUJkOEVZQm0wU2Nzbk85aUVCQkxqU29ueFktVVRYdw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "ALERTA ROJA EN EL BIOBÍO: Desborde de ríos, ráfagas de 60 km/h y más de 100 mm de agua activan emergencias comunales - elconcecuente.cl",
+     "medio": "elconcecuente.cl",
+     "fecha": "2026-09-24T17:46:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdEl3bW9KVDMySXA1Z2RWcklZMFRoRGhKejFKSGJGcVZEOFBHbDRSYlNGa1BWcFVVLUJwQjdyZV8wdzMwYTE0Yi1aSFlINFBYQ2haanNXRkpLWHVobFZTZU91ZmxsV2IyRXkzeDFxS2xIeEZzWUdYTklqWTBXNS1RcGlCajEzQ1ZhWFBJS0ctYzZZU3oxcFo5Wkg1S0NKeFZ2WEI0djhTYUFMMjVVRld3UTgyTXZ5cDNZc1V5a2VnSUprN182c3YxQQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Activan Alerta Roja en toda la región del Biobío por desborde de cuatro ríos: Enel abre compuertas de sus embalses - sabes.cl",
+     "medio": "sabes.cl",
+     "fecha": "2026-09-24T17:28:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSHNURUtVcm9BenVKNktleWQ3LWszQ3pLVm41MWlUZ3Zhek1heFlmSVp1WWVKbzVuTEtHZlNYaHJFTFpYQ1o0SWdhdl9oZDk5eEpBdHR3QzdzSnNsOUVLa0ZQdndCNFFHSXJyaldXSVRVdmZ2Tk9VbFB4NU4yZmdkX2lvSVhSS19TaUk5YlQ1S3MtTko5bjhuZlI5UFRPYmhhaEE2bXUxRVVzVl9kbjQzMUZaNDdrWm5PR21McmhseldvZTFnRFBudjhXSk1qUDkwUTBxX1NNVmNTQQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Biobío: declaran Alerta Roja Regional por Desborde - Diario Concepción",
+     "medio": "Diario Concepción",
+     "fecha": "2026-09-24T17:21:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWkxDRUt1MS15U1NHb1FDNWE0TEdVLUh4LTRlcTNfX3FTSXRWZnhOZUFKTWN4ZWdWY1Jfb1pYY0NiRXdCd3JFU1hfZGJJbjlsNE5NUVY4X0daYkZsai1qUjdwVlJRUmdpMG15OHp1MFdaR0EzcVNJVnktYlpaU2E5UjFQQTVJNTRrZ1E?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Declaran Alerta Roja regional en el Biobío por riesgo de desborde de ríos - El Contraste",
+     "medio": "El Contraste",
+     "fecha": "2026-09-24T17:21:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVzc3azUteTZJY0lSV0tYS3RlaTNEbXZROUFGanpFQzk0amRYWjRDc3hZTGdvdEI2S1lFX3A0VlZrcmxRT25qUXYyaDRObElvSVY0MnZDQV9SVlZ1alZjb1RLc0FDQ3JqQk4waDFTSFVQX1lkZDRkLW9lSEVVbjZyWHVvWEpSdXMzRGNJV1pzajhZb3JEVGtMOU82SGJKLVhOSnBuXzg5WXBEQTVBVS15UjNRcXdvdw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "VIDEO| Parque Museo Pedro del Río Zañartu concreta mejoras en el camino hacia la desembocadura del río Biobío - elconcecuente.cl",
+     "medio": "elconcecuente.cl",
+     "fecha": "2026-09-23T17:45:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOEVPdEd2Qkl3UDBYZlYyODVpOUFNNEEwS0NfVGRiVXpjU09ucFI2dC16T29JczlYOXlibUVUWjdsd3hxdVFXaUpvYmE2S193dGs3eVUxSDFSbzNoaDl4ampObXJQNmw2OFM0VWV1TjJXZTNDcFVqVHVHSW1lSzdBUDRvU18xMDhGTDIxemFaTTk0a3l4Q2g3eFhZSW1VSnBjVlFlY2Z3XzFua2ZIMi04akVzZklCQ0tNTkhLclJBc1BlQ3BfdWFVMQ?oc=5",
+     "sector": {
+      "nombre": "río Biobío",
+      "lat": -37.68965,
+      "lon": -71.97214
+     }
+    },
+    {
+     "titulo": "Estudiantes de Biobío y La Araucanía representarán a Chile en NTT DATA - ccpradio.cl",
+     "medio": "ccpradio.cl",
+     "fecha": "2026-09-23T02:03:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjcyZ2xCeGd0RmlUWFNtdDcwcDlaTm9yLS1SaGRzU1F2MjZveG9PYVkzX1oyTGg0aDlPaFZ4bUNxdW9uZ2NtcndZcWk4b2xrVk9rSnd0TFZRRVlwOUtpMktLN3I1NlBEVTZiODNNYkI3amY3SzBNWl9KWEJGUWh6bFNNT0s2YXktczRSbktYejhGdnA0dnRzV2Vkay1RMVl5dEczdw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "VIDEO | Mejoran ruta hacia la desembocadura del río Biobío - Diario Concepción",
+     "medio": "Diario Concepción",
+     "fecha": "2026-09-22T22:30:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVzZ5OVBSUTFtX1dnX3IxaTNRVEJWQTVvSFZ5QlJ4eHFlMTJrV0JnakdMLW5yUllHWjhGTnRuVlItWUdOc1RIZmVUQnlnbTdBRE40bHAydElPWVV6OXYzTEk2ZlVvSUxjV3c3TkhyYWhJNWJtTU5hR3pkWkpmLU9YaXZrZTk4S05NUDdOeG14djhnMWNwOGNicEpzdnV3b3A5NTRn0gGrAUFVX3lxTE1aODd5dHNFODJqb2lFUFVMVmpOci1jRnpwSTY1VkJZa3JRUFBveEh0WE9kTTJ0T0R2TWVhWXdkUEdJSWltU09XWi1PWUhTdWU4QWtaT1RWNmlLeUhkNTE0aHlaaDAzQm8tNkU5eDNIUDFxUkZxYTNwWnRGSG95blVybTg3OVQ2LS1GeTFDdnRtTG04dEVJNWcyNHZDcjZPV1dlWnFta2NkSTlwRQ?oc=5",
+     "sector": {
+      "nombre": "río Biobío",
+      "lat": -37.68965,
+      "lon": -71.97214
+     }
+    },
+    {
+     "titulo": "Tribunal Ambiental analiza anulación de declaratoria de interés nacional de Central Rucalhue en Biobío - Reporte Minero",
+     "medio": "Reporte Minero",
+     "fecha": "2026-09-21T12:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc0Y5VGg5OHlubkxyNzYyZ013YnJ3X2dfX09qWXY5NkNTRUIwU3R5SExsRUtiWk1RZC1UOXAtbWVuTE9nTnBvSXh3UUpya1RXSjV2YjllNTZ6TE5UT3Y5VTBhalBLel9GSTBjTS1vTTE5X196VnVmVnhzSmRwZ1JaSy0xZnZBeHQ5UGVLZXpURDdjN0ZCRVdRNVJPM2tWNUpDQ3E1ZmI1Z2NSdkt5b3FnQVpkMGo?oc=5",
+     "sector": null
     }
    ]
   }
