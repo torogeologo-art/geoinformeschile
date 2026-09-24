@@ -1,9 +1,9 @@
 {
- "generado": "2026-09-23T22:19:44+00:00",
+ "generado": "2026-09-24T00:47:41+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "13-09-2026",
-  "hasta": "23-09-2026"
+  "desde": "14-09-2026",
+  "hasta": "24-09-2026"
  },
  "totales": {
   "alertas": 88,
@@ -364,7 +364,7 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 4,
-  "ATP": 9,
+  "ATP": 8,
   "regiones_roja": []
  },
  "serie": [
