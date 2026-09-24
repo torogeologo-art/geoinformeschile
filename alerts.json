@@ -1,13 +1,76 @@
 {
- "generado": "2026-09-24T15:55:57+00:00",
+ "generado": "2026-09-24T17:28:51+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 19,
  "alertas": [
+  {
+   "id": "6f8f51b2f9d7",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Se declara Alerta Roja por desborde para la Provincia de Cautín",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estaciones hidrométricas “Río Trancura en Curarrehue” en la comuna Curarrehue y “Río Trancura antes de Río Llafenco” y “Río Liucura en Liucura” en la comuna de Pucón, han alcanzado el UMBRAL DE ALERTA ROJA y en otros puntos de la región un nivel AMARILLO, además el SINAPRED informa de desbordes de ríos y esteros en las comunas de la provincia de Cautín con tendencia al alza, pudiendo afectar a personas y viviendas. Cabe señalar, el umbral rojo establecido por la DGA señala un caudal que puede llegar a producir",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-24T08:26:31.3131-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-por-desborde-para-la-provincia-de-cautin-2026-09-24-08-28-26",
+   "origen": "senapred_web",
+   "regiones_extra": [],
+   "sae": true
+  },
+  {
+   "id": "bb12cce2005b",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "¡ATENCIÓN! EVACÚE Sector Quilmio de Liquiñe por desborde del Río Cuacua, en la comuna de Panguipulli, Región de Los Ríos.",
+   "descripcion": "¡ATENCIÓN! EVACÚE Sector Quilmio de Liquiñe por desborde del Río Cuacua, en la comuna de Panguipulli, Región de Los Ríos.  \n\nSENAPRED activó mensajería #SAE. Mantente informado a través de canales oficiales.",
+   "region": "Los Ríos",
+   "comunas": [
+    "Panguipulli"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-09-24T16:57:55+00:00",
+   "url": "https://t.me/SenapredChile/1593",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "020e1de1fc05",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "¡ATENCIÓN! EVACÚE Sector Balneario de Malalhue por desborde del Río Leufucade, en la comuna de Lanco, Región de Los Ríos.",
+   "descripcion": "¡ATENCIÓN! EVACÚE Sector Balneario de Malalhue por desborde del Río Leufucade, en la comuna de Lanco, Región de Los Ríos.\n\nSENAPRED activó mensajería #SAE. Mantente informado a través de canales oficiales.",
+   "region": "Los Ríos",
+   "comunas": [
+    "Lanco"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-09-24T16:27:03+00:00",
+   "url": "https://t.me/SenapredChile/1591",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "ad67e89ae500",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "¡ATENCIÓN! EVITE ribera del Río Laraquete y Estero El Molino por alerta de crecida, en la comuna de Arauco, Región del Biobío.",
+   "descripcion": "¡ATENCIÓN! EVITE ribera del Río Laraquete y Estero El Molino por alerta de crecida, en la comuna de Arauco, Región del Biobío.  \n\nSENAPRED activó mensajería #SAE preventivo. Mantente informado a través de canales oficiales.",
+   "region": "Biobío",
+   "comunas": [
+    "Arauco"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-09-24T16:19:40+00:00",
+   "url": "https://t.me/SenapredChile/1590",
+   "origen": "telegram",
+   "sae": true
+  },
   {
    "id": "dee8b97a2ef4",
    "nivel": "ROJA",
@@ -41,6 +104,34 @@
    "sae": true
   },
   {
+   "id": "64964dd27803",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Se modifica cobertura de Alerta Roja para la Región de Biobío por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , las estaciones de la red hidrométrica ubicadas en “río Curanilahue en Curanilahue” , “río Pichilo en Pichilo” , “río Biobío en Puente Piulo” y “río Lía en Las Corrientes” , de la región indican un incremento gradual y sostenido en sus caudales, lo que supone un aumento del riesgo para la población cercana a estos cursos de agua. A su vez, de acuerdo con las intensas precipitaciones registradas y pronóstico para las próximas horas, se prevé la superación de umbrales de alerta roja en los distintos cursos de agua",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-24T14:10:22.2222-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "55ec7ba65bad",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A498-1 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 23-09 25-09 Abrir Aquí Aviso A503-2 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y cordillera. 23-09 25-09 Abrir Aquí Por otra parte, debido al debilitamiento de las condiciones que los originaron,",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-24T13:27:39.3939-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
    "id": "01004dd9373d",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -51,34 +142,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-24T09:34:58.5858-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mariquina-y-lanco-por-crecida-2026-09-24-04-11-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "39ce4447019a",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se declara Alerta Roja para la comuna de Arauco por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica del “Río Pichilo en Pichilo”, ubicada en la comuna de Arauco, indica un incremento en su caudal, alcanzando el umbral de ALERTA TÉCNICA ROJO . Cabe señalar, el umbral rojo establecido por la DGA señala un caudal que puede llegar a producir daños a sectores poblados e infraestructura, pudiendo según el caso, requerir acciones tales como evacuación, defensas, disponibilidad, y recursos humanos, maquinarias y equipos. En consideración a este antecedente y en coordinación con la Delegación Pr",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-24T09:24:58.5858-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "6f8f51b2f9d7",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se declara Alerta Roja por desborde para la Provincia de Cautín",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estaciones hidrométricas “Río Trancura en Curarrehue” en la comuna Curarrehue y “Río Trancura antes de Río Llafenco” y “Río Liucura en Liucura” en la comuna de Pucón, han alcanzado el UMBRAL DE ALERTA ROJA y en otros puntos de la región un nivel AMARILLO, además el SINAPRED informa de desbordes de ríos y esteros en las comunas de la provincia de Cautín con tendencia al alza, pudiendo afectar a personas y viviendas. Cabe señalar, el umbral rojo establecido por la DGA señala un caudal que puede llegar a producir",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-24T08:26:31.3131-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-por-desborde-para-la-provincia-de-cautin-2026-09-24-08-28-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -179,20 +242,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-23T15:23:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "6ba4ef91360e",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA169-3 Precipitaciones moderadas a fuertes con isoterma cero alta en litoral, precordillera y cordillera. 23-09 24-09 Abrir Aquí Aviso A497-2 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la costa, valle y cordillera. 22-09 24-09 Abrir Aquí Aviso A498-1 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordil",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-23T15:08:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -376,7 +425,7 @@
    "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A487 Nevadas normales a moderadas con probabilidad de ventisca para cordillera. 17-09 19-09 Abrir Aquí Aviso A488-1 Probables tormentas eléctricas para litoral, cordillera de la costa y sectores de valles, pampa, precordillera y cordillera. 17-09 18-09 Abrir Aquí Aviso A489 Viento normal a moderado con probabilidad de ventisca en cordillera. 19-09 20-09 Abrir Aquí",
    "region": "Atacama",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-09-17T13:21:00.000-03:00",
    "url": "https://senapred.cl/alerta/monitoreo-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-17-18-33-35",
    "origen": "senapred_web",
