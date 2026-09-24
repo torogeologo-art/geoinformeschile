@@ -1,6 +1,98 @@
 {
- "generado": "2026-09-24T12:16:37+00:00",
- "desde": "2026-09-22T12:16:37Z",
+ "generado": "2026-09-24T15:56:13+00:00",
+ "desde": "2026-09-22T15:56:10Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "los rios": {
+   "comuna": "Los Ríos",
+   "region": "Los Ríos",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "1TLz5ljtpbs",
+     "url": "https://www.youtube.com/watch?v=1TLz5ljtpbs",
+     "titulo": "FINALMENTE feat. Jean Mary, Arturo de los Rios y Luis Carreño | #EnVivo",
+     "canal": "Connector House",
+     "publicado": "2026-09-23T18:50:06Z",
+     "live": true,
+     "score": 6.24,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "YCpUssHdnhw",
+     "url": "https://www.youtube.com/watch?v=YCpUssHdnhw",
+     "titulo": "15 Ríos Chilenos con Nombre Mapuche sin que lo Imagines",
+     "canal": "Apellidos Ocultos",
+     "publicado": "2026-09-22T19:13:35Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "o00EBiKUhOA",
+     "url": "https://www.youtube.com/watch?v=o00EBiKUhOA",
+     "titulo": "15 Ríos Chilenos con Nombre Mapuche sin que lo Imagines",
+     "canal": "Sangre Oculta",
+     "publicado": "2026-09-22T19:14:55Z",
+     "live": false,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "twsvHWWsJ6U",
+     "url": "https://www.youtube.com/watch?v=twsvHWWsJ6U",
+     "titulo": "RIO CALLE CALLE VALDIVIA REGIÓN DE LOD RIOS CHILE",
+     "canal": "Marisol Millar",
+     "publicado": "2026-09-23T02:04:05Z",
+     "live": false,
+     "score": 0.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "pAGWwa725HY",
+     "url": "https://www.youtube.com/watch?v=pAGWwa725HY",
+     "titulo": "🌧️ EN DIRECTO | Precipitaciones en San Pedro de la Paz y Gran Concepción",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-09-24T03:44:13Z",
+     "live": true,
+     "score": 6.98,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "UttJQczqQvw",
+     "url": "https://www.youtube.com/watch?v=UttJQczqQvw",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-09-24T05:29:26Z",
+     "live": true,
+     "score": -2.87,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "iZDVgEi4PgU",
+     "url": "https://www.youtube.com/watch?v=iZDVgEi4PgU",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-09-24T05:29:26Z",
+     "live": true,
+     "score": -2.87,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }

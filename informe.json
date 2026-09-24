@@ -1,19 +1,19 @@
 {
- "generado": "2026-09-24T11:37:28+00:00",
+ "generado": "2026-09-24T15:56:13+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "14-09-2026",
   "hasta": "24-09-2026"
  },
  "totales": {
-  "alertas": 91,
-  "sae": 0,
-  "comunas": 0,
+  "alertas": 95,
+  "sae": 2,
+  "comunas": 2,
   "regiones": 15,
   "por_nivel": {
    "AMARILLA": 20,
    "ATP": 70,
-   "ROJA": 1
+   "ROJA": 5
   },
   "por_tipo": [
    [
@@ -33,19 +33,19 @@
     5
    ],
    [
+    "desborde",
+    4
+   ],
+   [
+    "crecida de río",
+    3
+   ],
+   [
     "otros",
     2
    ],
    [
-    "crecida de río",
-    2
-   ],
-   [
     "actividad volcánica",
-    1
-   ],
-   [
-    "desborde",
     1
    ]
   ]
@@ -338,6 +338,73 @@
     "region_link": "nuble"
    }
   ],
+  "desborde": [
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "24-09",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "24-09",
+    "comuna_link": "",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "24-09",
+    "comuna_link": "",
+    "region_link": "los rios"
+   },
+   {
+    "lugar": "Purén",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "24-09",
+    "comuna_link": "puren",
+    "region_link": "la araucania"
+   }
+  ],
+  "crecida de río": [
+   {
+    "lugar": "Curanilahue",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "24-09",
+    "comuna_link": "curanilahue",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "24-09",
+    "comuna_link": "",
+    "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "24-09",
+    "comuna_link": "",
+    "region_link": "biobio"
+   }
+  ],
   "otros": [
    {
     "lugar": "Región de Los Ríos",
@@ -358,26 +425,6 @@
     "region_link": "tarapaca"
    }
   ],
-  "crecida de río": [
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "24-09",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "24-09",
-    "comuna_link": "",
-    "region_link": "biobio"
-   }
-  ],
   "actividad volcánica": [
    {
     "lugar": "Región de La Araucanía",
@@ -388,25 +435,16 @@
     "comuna_link": "",
     "region_link": "la araucania"
    }
-  ],
-  "desborde": [
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "24-09",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   }
   ]
  },
  "vigentes": {
-  "ROJA": 1,
-  "AMARILLA": 6,
+  "ROJA": 5,
+  "AMARILLA": 4,
   "ATP": 8,
   "regiones_roja": [
-   "La Araucanía"
+   "Biobío",
+   "La Araucanía",
+   "Los Ríos"
   ]
  },
  "serie": [
@@ -482,13 +520,36 @@
   },
   {
    "fecha": "2026-09-24",
-   "ROJA": 1,
+   "ROJA": 5,
    "AMARILLA": 2,
    "ATP": 1,
-   "sae": 0
+   "sae": 2
   }
  ],
  "escalamientos": [
+  {
+   "lugar": "Región de Los Ríos",
+   "region": "Los Ríos",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "15-09 12:52",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "22-09 14:46",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "24-09 09:34",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
   {
    "lugar": "Región de La Araucanía",
    "region": "La Araucanía",
@@ -508,6 +569,29 @@
     {
      "nivel": "ROJA",
      "ts": "24-09 08:26",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Biobío",
+   "region": "Biobío",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "18-09 15:02",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "24-09 06:28",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "24-09 09:24",
      "estado": "VIGENTE"
     }
    ]
@@ -564,24 +648,6 @@
    ]
   },
   {
-   "lugar": "Región de Los Ríos",
-   "region": "Los Ríos",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "15-09 12:52",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "22-09 14:46",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Atacama",
    "region": "Atacama",
    "sae": false,
@@ -598,27 +664,45 @@
      "estado": "VIGENTE"
     }
    ]
-  },
-  {
-   "lugar": "Región de Biobío",
-   "region": "Biobío",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "18-09 15:02",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "24-09 06:28",
-     "estado": "VIGENTE"
-    }
-   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "24-09 15:45",
+   "nivel": "ROJA",
+   "lugar": "Curanilahue",
+   "tipo": "crecida de río",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1589"
+  },
+  {
+   "ts": "24-09 15:40",
+   "nivel": "ROJA",
+   "lugar": "Purén",
+   "tipo": "desborde",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1588"
+  },
+  {
+   "ts": "24-09 09:34",
+   "nivel": "ROJA",
+   "lugar": "Región de Los Ríos",
+   "tipo": "desborde",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mariquina-y-lanco-por-crecida-2026-09-24-04-11-40"
+  },
+  {
+   "ts": "24-09 09:24",
+   "nivel": "ROJA",
+   "lugar": "Región de Biobío",
+   "tipo": "desborde",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57"
+  },
   {
    "ts": "24-09 08:26",
    "nivel": "ROJA",
@@ -708,42 +792,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-18-15-03-19"
-  },
-  {
-   "ts": "23-09 10:24",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Los Ríos",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-la-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-09-21-20-35-05"
-  },
-  {
-   "ts": "23-09 09:42",
-   "nivel": "AMARILLA",
-   "lugar": "Región de La Araucanía",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-2026-09-18-23-43-54"
-  },
-  {
-   "ts": "23-09 08:06",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Los Lagos",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26"
-  },
-  {
-   "ts": "23-09 07:51",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "nevadas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

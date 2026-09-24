@@ -1,5 +1,28 @@
 {
- "generado": "2026-09-24T11:37:25+00:00",
+ "generado": "2026-09-24T15:56:00+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
- "sectores": []
+ "sectores": [
+  {
+   "nombre": "río Calle Calle",
+   "lat": -39.79203,
+   "lon": -72.97324,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": false,
+   "lugar": "Los Ríos",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mariquina-y-lanco-por-crecida-2026-09-24-04-11-40",
+   "ts": "2026-09-24T09:34"
+  },
+  {
+   "nombre": "rio Leufucade",
+   "lat": -39.49642,
+   "lon": -72.64524,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": false,
+   "lugar": "Los Ríos",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mariquina-y-lanco-por-crecida-2026-09-24-04-11-40",
+   "ts": "2026-09-24T09:34"
+  }
+ ]
 }

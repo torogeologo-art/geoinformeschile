@@ -218,5 +218,13 @@
 },
 "rio loncomi|maule": null,
 "estero coyanco|nuble": null,
-"puente coyanco pfc|nuble": null
+"puente coyanco pfc|nuble": null,
+"rio calle calle|los rios": {
+"lat": -39.79203,
+"lon": -72.97324
+},
+"rio leufucade|los rios": {
+"lat": -39.49642,
+"lon": -72.64524
+}
 }
