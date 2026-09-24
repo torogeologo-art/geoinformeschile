@@ -1,8 +1,48 @@
 {
- "generado": "2026-09-24T20:43:00+00:00",
- "desde": "2026-09-22T20:42:54Z",
+ "generado": "2026-09-24T23:09:57+00:00",
+ "desde": "2026-09-22T23:09:50Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "concepcion": {
+   "comuna": "Concepción",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "pAGWwa725HY",
+     "url": "https://www.youtube.com/watch?v=pAGWwa725HY",
+     "titulo": "🌧️ EN DIRECTO | Precipitaciones en San Pedro de la Paz y Gran Concepción",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-09-24T03:44:13Z",
+     "live": true,
+     "score": 6.38,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "cho6v7Z0wd0",
+     "url": "https://www.youtube.com/watch?v=cho6v7Z0wd0",
+     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-09-24T17:16:15Z",
+     "live": true,
+     "score": 4.51,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "ychwSHu0kN0",
+     "url": "https://www.youtube.com/watch?v=ychwSHu0kN0",
+     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-09-24T16:45:04Z",
+     "live": true,
+     "score": 4.47,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "biobio": {
    "comuna": "Biobío",
    "region": "Biobío",
@@ -15,7 +55,7 @@
      "canal": "Canal 9 BiobioTV",
      "publicado": "2026-09-24T17:16:15Z",
      "live": true,
-     "score": 9.71,
+     "score": 9.51,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +66,7 @@
      "canal": "Canal 9 BiobioTV",
      "publicado": "2026-09-24T16:45:04Z",
      "live": true,
-     "score": 9.67,
+     "score": 9.47,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +77,7 @@
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-09-24T03:44:13Z",
      "live": true,
-     "score": 8.59,
+     "score": 8.38,
      "verificado": false,
      "embeddable": true
     },
@@ -48,7 +88,7 @@
      "canal": "Curanilahue Televisión",
      "publicado": "2026-09-23T21:09:14Z",
      "live": false,
-     "score": -0.96,
+     "score": -1.17,
      "verificado": false,
      "embeddable": true
     }
@@ -66,7 +106,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-09-24T18:45:12Z",
      "live": false,
-     "score": 5.84,
+     "score": 5.63,
      "verificado": false,
      "embeddable": true
     }
@@ -84,7 +124,7 @@
      "canal": "Somos Noticias",
      "publicado": "2026-09-24T16:24:45Z",
      "live": false,
-     "score": 5.64,
+     "score": 5.44,
      "verificado": false,
      "embeddable": true
     }
@@ -102,7 +142,7 @@
      "canal": "MeteoPangui Noticias",
      "publicado": "2026-09-24T16:44:18Z",
      "live": false,
-     "score": 5.67,
+     "score": 5.46,
      "verificado": false,
      "embeddable": true
     }
@@ -114,24 +154,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "Vr3cKmXhdoY",
-     "url": "https://www.youtube.com/watch?v=Vr3cKmXhdoY",
-     "titulo": "ArgenData: Julieta Tarrés y Malena de los Ríos",
-     "canal": "Neura Media",
-     "publicado": "2026-09-24T02:21:33Z",
+     "id": "whg9o4tPpaw",
+     "url": "https://www.youtube.com/watch?v=whg9o4tPpaw",
+     "titulo": "Infobae con Gonzalo Aziz, Diego Iglesias, Matías Barbería y Malena de los Rios",
+     "canal": "Infobae",
+     "publicado": "2026-09-24T17:10:43Z",
      "live": true,
-     "score": 6.47,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "twsvHWWsJ6U",
-     "url": "https://www.youtube.com/watch?v=twsvHWWsJ6U",
-     "titulo": "RIO CALLE CALLE VALDIVIA REGIÓN DE LOD RIOS CHILE",
-     "canal": "Marisol Millar",
-     "publicado": "2026-09-23T02:04:05Z",
-     "live": false,
-     "score": 0.0,
+     "score": 7.5,
      "verificado": false,
      "embeddable": true
     }

@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-24T19:57:03+00:00",
+ "generado": "2026-09-24T23:09:58+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "14-09-2026",
@@ -7,13 +7,13 @@
  },
  "totales": {
   "alertas": 101,
-  "sae": 8,
-  "comunas": 8,
+  "sae": 9,
+  "comunas": 9,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 70,
+   "ATP": 69,
    "AMARILLA": 20,
-   "ROJA": 11
+   "ROJA": 12
   },
   "por_tipo": [
    [
@@ -22,22 +22,22 @@
    ],
    [
     "tormentas eléctricas",
-    24
+    25
    ],
    [
     "evento meteorológico",
-    13
+    11
    ],
    [
     "desborde",
     8
    ],
    [
-    "nevadas",
-    5
+    "crecida de río",
+    6
    ],
    [
-    "crecida de río",
+    "nevadas",
     5
    ],
    [
@@ -96,15 +96,6 @@
     "ts": "22-09",
     "comuna_link": "",
     "region_link": "los rios"
-   },
-   {
-    "lugar": "Región de Magallanes y de la Antártica Chilena",
-    "region": "Magallanes y de la Antártica Chilena",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "14-09",
-    "comuna_link": "",
-    "region_link": "magallanes y de la antartica chilena"
    },
    {
     "lugar": "Región de Maule",
@@ -199,6 +190,15 @@
     "region_link": "la araucania"
    },
    {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "24-09",
+    "comuna_link": "",
+    "region_link": "los lagos"
+   },
+   {
     "lugar": "Región de Tarapacá",
     "region": "Tarapacá",
     "nivel": "ATP",
@@ -277,7 +277,7 @@
     "region": "Antofagasta",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "14-09",
+    "ts": "16-09",
     "comuna_link": "",
     "region_link": "antofagasta"
    },
@@ -392,26 +392,6 @@
     "region_link": "la araucania"
    }
   ],
-  "nevadas": [
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "16-09",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "16-09",
-    "comuna_link": "",
-    "region_link": "nuble"
-   }
-  ],
   "crecida de río": [
    {
     "lugar": "Curanilahue",
@@ -441,6 +421,15 @@
     "region_link": "biobio"
    },
    {
+    "lugar": "Concepción",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "24-09",
+    "comuna_link": "concepcion",
+    "region_link": "biobio"
+   },
+   {
     "lugar": "Región de Los Ríos",
     "region": "Los Ríos",
     "nivel": "AMARILLA",
@@ -457,6 +446,26 @@
     "ts": "24-09",
     "comuna_link": "",
     "region_link": "biobio"
+   }
+  ],
+  "nevadas": [
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "16-09",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "16-09",
+    "comuna_link": "",
+    "region_link": "nuble"
    }
   ],
   "otros": [
@@ -492,8 +501,8 @@
   ]
  },
  "vigentes": {
-  "ROJA": 11,
-  "AMARILLA": 4,
+  "ROJA": 12,
+  "AMARILLA": 3,
   "ATP": 7,
   "regiones_roja": [
    "Biobío",
@@ -505,8 +514,8 @@
   {
    "fecha": "2026-09-14",
    "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 3,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -574,10 +583,10 @@
   },
   {
    "fecha": "2026-09-24",
-   "ROJA": 11,
-   "AMARILLA": 3,
-   "ATP": 2,
-   "sae": 8
+   "ROJA": 12,
+   "AMARILLA": 4,
+   "ATP": 3,
+   "sae": 9
   }
  ],
  "escalamientos": [
@@ -610,6 +619,34 @@
    ]
   },
   {
+   "lugar": "Región de Biobío",
+   "region": "Biobío",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "18-09 15:02",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "24-09 06:28",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "24-09 09:24",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "24-09 18:52",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Los Ríos",
    "region": "Los Ríos",
    "sae": false,
@@ -633,44 +670,11 @@
    ]
   },
   {
-   "lugar": "Región de Biobío",
-   "region": "Biobío",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "18-09 15:02",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "24-09 06:28",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "24-09 09:24",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Antofagasta",
    "region": "Antofagasta",
    "sae": false,
    "max": "AMARILLA",
    "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "14-09 17:01",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "14-09 18:02",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "ATP",
      "ts": "16-09 17:09",
@@ -726,6 +730,33 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "24-09 22:29",
+   "nivel": "ROJA",
+   "lugar": "Concepción",
+   "tipo": "crecida de río",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1603"
+  },
+  {
+   "ts": "24-09 19:05",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Los Lagos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26"
+  },
+  {
+   "ts": "24-09 18:52",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-18-15-03-19"
+  },
   {
    "ts": "24-09 16:47",
    "nivel": "AMARILLA",
@@ -824,33 +855,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mariquina-y-lanco-por-crecida-2026-09-24-04-11-40"
-  },
-  {
-   "ts": "24-09 09:24",
-   "nivel": "ROJA",
-   "lugar": "Región de Biobío",
-   "tipo": "desborde",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57"
-  },
-  {
-   "ts": "24-09 08:26",
-   "nivel": "ROJA",
-   "lugar": "Región de La Araucanía",
-   "tipo": "desborde",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-por-desborde-para-la-provincia-de-cautin-2026-09-24-08-28-26"
-  },
-  {
-   "ts": "24-09 06:33",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "nevadas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

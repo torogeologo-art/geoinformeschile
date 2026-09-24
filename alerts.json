@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-24T20:42:54+00:00",
+ "generado": "2026-09-24T23:09:39+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,22 @@
  },
  "total_vigentes": 22,
  "alertas": [
+  {
+   "id": "52184fd9723f",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "¡ATENCIÓN! Por alerta de crecida EVITE ribera de Estero Nonguén, comuna de Concepción, Región del Biobío.",
+   "descripcion": "¡ATENCIÓN! Por alerta de crecida EVITE ribera de Estero Nonguén, comuna de Concepción, Región del Biobío.\n\nSENAPRED activó mensajería #SAE preventivo. Mantente informado a través de canales oficiales.",
+   "region": "Biobío",
+   "comunas": [
+    "Concepción"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-09-24T22:29:55+00:00",
+   "url": "https://t.me/SenapredChile/1603",
+   "origen": "telegram",
+   "sae": true
+  },
   {
    "id": "a22f7d39a345",
    "nivel": "ROJA",
@@ -41,6 +57,34 @@
    "sae": true
   },
   {
+   "id": "8b34d4f082ae",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para la comuna de Alto Biobío por crecida de Embalse Ralco",
+   "descripcion": "En consideración al boletín de recomendación de Alerta de Crecida por parte de la Dirección General de Aguas, el cual establece el actual nivel del embalse Ralco correspondiente a 724.79 m.s.n.m, un volumen de regulación disponible de 25.1 Hm³ y que el hidrograma pronosticado alcanza un caudal máximo de 1030 m³/s, con un volumen estimado de crecida de 151.81 Hm³, por lo que se prevé la necesidad de efectuar vertimientos controlados mediante la apertura de las compuertas del Embalse Ralco. De acuerdo con la información proporcionada y en consideración con los organismos técnicos involucrados y,",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-24T19:25:16.1616-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-alto-biobio-por-crecida-de-embalse-ralco-2026-09-24-19-31-44",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "08669aee5022",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A505-1 Probables Tormentas eléctricas en litoral, cordillera de la costa, valle y precordillera de la región. 24-09 25-09 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que los originaron han sido cancelados los siguientes alertamientos meteorológicos: Alertamiento Pronóstico Alarma AAA9-1 Precipitaciones intensas con isoterma cero alta en cordillera de la c",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-24T19:05:47.4747-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
    "id": "6950b6da61b8",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -55,6 +99,34 @@
    "url": "https://t.me/SenapredChile/1599",
    "origen": "telegram",
    "sae": true
+  },
+  {
+   "id": "b97a8417cad6",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA169-4 Precipitaciones moderadas a fuertes con isoterma cero alta en valle, precordillera y cordillera de la región. 24-09 24-09 Abrir aquí Aviso A497-5 Precipitaciones normales a moderadas con isoterma cero alta en litoral y cordillera de la costa de la región. 24-09 24-09 Abrir Aquí Aviso A498-1 Viento normal a moderado en litoral, cordillera de la costa, valle, precordi",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-24T18:52:15.1515-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-18-15-03-19",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e20792a826b4",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A505-1 Probables tormentas eléctricas en litoral, cordillera de la costa, valle y precordillera. 24-09 25-09 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que los originaron han sido cancelados los siguientes alertamientos meteorológicos: Alertamiento Pronóstico Alarma AAA9-1 Precipitaciones intensas con isoterma cero alta en litoral, cordillera",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-24T18:27:31.3131-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-la-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-09-21-20-35-05",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "c9044fbf65f7",
@@ -291,48 +363,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-23T15:23:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "fab9bc2476ea",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA169-3 Precipitaciones moderadas a fuertes con isoterma cero alta en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. 23-09 24-09 Abrir aquí Alerta AA170 Viento moderado a fuerte en litoral, cordillera de l costa, valle y precordillera de la región. 24-09 24-09 Abrir aquí Aviso A497-2 Precipitaciones normales a moderadas con isoterma cero al",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-23T13:42:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-18-15-03-19",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2a880425291c",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Los Ríos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alarma AAA9-1 Precipitaciones intensas con isoterma cero alta en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. 23-09 24-09 Abrir aquí Alerta AA169-2 Precipitaciones moderadas a fuertes con isoterma cero alta en litoral y cordillera de la costa de la región. 23-09 23-09 Abrir aquí Aviso A499 Viento normal a moderado en litoral de la región. 23-09",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-23T10:24:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-la-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-09-21-20-35-05",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "26d34144974b",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alarma AAA9-1 Precipitaciones intensas con isoterma cero alta en cordillera de la costa, precordillera y cordillera austral. 23-09 24-09 Abrir aquí Alerta AA169-2 Precipitaciones moderadas a fuertes con isoterma cero alta en litoral, cordillera y litoral interior. 23-09 23-09 Abrir aquí Aviso A499 Viento normal a moderado en litoral. 23-09 23-09 Abrir aquí Aviso A500 Probables torm",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-23T08:06:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },

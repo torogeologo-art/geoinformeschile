@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-24T19:56:55+00:00",
+ "generado": "2026-09-24T23:09:50+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -2043,6 +2043,20 @@
    "comuna": "Purén",
    "noticias": [
     {
+     "titulo": "Senapred ordena evacuaciones por intensas lluvias en el sur - La Nación",
+     "medio": "La Nación",
+     "fecha": "2026-09-24T20:23:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFFweGdDelFtVnZ0S29jNXM1cXZyVXdiMWwtSlF4RnowSG9ucTlrd1ZvWWxTaURKbzNrTVZpMHpLVTlPd2NQVHdjS010LUg5TVhhVDhtSDNtang0WUlXOEluSmNxYng1V25jdjdzdlgyc0d1eWVsbHFENjgwQ0xUMW85M0FBV0ZMVGlXSg?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred ordena evacuar sectores de La Araucanía y Los Ríos: fuertes lluvias provocan desbordes e inundaciones - El Desconcierto",
+     "medio": "El Desconcierto",
+     "fecha": "2026-09-24T15:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRFhBbktpelhmUXJ2YlVETmJqVlBRVG9LazFaYWpxdUw2UFFsV2Npd1pMeVpnZzdncFZNb2trUjFucEEySmZ1alItZUlMeUF6ZlZLMVdqODBBbUl2UkxZSzZxTWEwaVNmSU1KOUZ3U25kLXVxdE45eE5uWnRJSjI2M1gxcjJ2MW4zam9XaG9lWGVuSF9MWUNKaHlaZXFyNXFXQWx5cTJjend0WkQtV092aXJRLUVGMzFmNVZJVHlVcWVFMlJlUnh6Slp6U0ROZWJWbmtCdnBiUUFNUWRnUDRjWTl3ZkVyS0k?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred ordena evacuar sectores de Purén, La Araucanía, por desborde de ríos - VLN Radio",
      "medio": "VLN Radio",
      "fecha": "2026-09-24T15:36:20+00:00",
@@ -2105,26 +2119,26 @@
      "fecha": "2026-08-02T14:51:27+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTHQxbmJTaTR0WVliTW8wME8tVnE2NzhuREVpVUZ5blp5LXhlTTJjY2p1bTBNbkRFekpGWmVuZTlJNEt2dUZ6MHBhTnhjc2M4cEZXOU5zX1BQYkk0TVdUMEdYcHF0aWp4a2E5LWdFc3B2QU50amtZVWVXb2Rxal91aFpfbTlyMlZucUdaUw?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "[Minuto a Minuto] Sistema frontal: más de 1.100 damnificados y resguardo militar para viviendas evacuadas - Radar BioBio",
-     "medio": "Radar BioBio",
-     "fecha": "2026-08-02T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeDB4bm1IN0NkMUlsYXdmMHk4VUNleGpuTGVZdC1zaHAxM3lYbTdhWW9NRnlmVXZEQ01ONU9ka0xrYU92RXdrR0dZX21NME5tc01LbzloRUY3T0RMMXJQZ000REpwMDN4bTRoVkhBWjdwSUliMkd5V3FWVHYwSTRYYlBvOHItejRScTRsQ1puajNOeDRGdUtjYmlDLUhUTGxwNTlQd1U4SktPNXdwTzVKaGE0ZC1ObnZTS0hOR20wUk10UkdtRGJmdkNpTnZJbW1FUjFVWmlYODBmQ3BSYTZj?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Frente de mal tiempo deja 2.000 afectados en La Araucanía; vigilan Lumaco y Purén por crecida de ríos - Canal 9 Bío Bío Televisión",
-     "medio": "Canal 9 Bío Bío Televisión",
-     "fecha": "2026-08-02T05:10:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaGJSWDh4cURJckgyTUoyZUE1US1qNEZ5MC1Vc1kycl94bHRWaWUySjItbktIRVVvVS1FUHo4UDVDTzhJWFFoZVRjSHdna1JxQkw4Q3IxRVVvQTVGZVdfUjRjT3p1eEZRUjhTOERrQzdMb0t5OFpJRnBMdFM5R2hsZnBlRWRGWVBCYzYtYWUzNHRzSWdNNjVYMmxWcXJ6eWVuMV9qd0dGZ2JXelV4QlB1Z1gwLVlnMVZpMWFUdTFzbnVvbVVpSW5QV1Q0d1pKellMa2NfT1RPWHoxQy1j?oc=5",
-     "sector": null
     }
    ]
   },
   "concepcion": {
    "comuna": "Concepción",
    "noticias": [
+    {
+     "titulo": "Concepción del Uruguay se prepara para una posible crecida del río: advierten que podría no haber playa este verano - La Pirámide",
+     "medio": "La Pirámide",
+     "fecha": "2026-09-07T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUjcxbzRkNEN6VTJKWTY1bmZpbXJnN3hqSGY2NlM1YUU3Slo0Rmp2OEY2VDF3Y041TkcyNXRrdTdjaGt5aldTYjVhYlN4YXdMMklLVXA3eVprYTFuTERUSVRRUHFEdC1NaXhGaURaRUYzbFJ4bVlYa19UQ3ItSWJoal9BYjVTZVFWcTlTSlc2SVo0RTJxUXhiVDlIdS1UT0RpZGo4Y2lPNlpNOVRLUmtrX0FIOFlJMlJnOE1JeGpqUXVSN0laSWt4azNkeXlsX25OQjhjT0FEdDZFWlYxVlE5dGFaOTN4alVSMEdWWEkwZmNfcjdsQUYwLW91aHjSAYICQVVfeXFMTlNNbTdleERkU3YyWVJrOHQxT0FUVXdJTU9vMFVxZHNGNHl6Y3FpZi1UMXdfaU5jNXF5encwUGRVSGh5bEtCUTROUDE1Nmp2UUZETmJLdXRobmxMcDF5VFRnLVBLVksyZUdWSTRYbEdya2RSLWRGNmp0VUgyamtGTG9wbHFDMVdoakZldDBCVF9KbmZHLVdSeXhoOXZpcVZBQVc3Q1lKaGlCMHNmM2h0ZmlPcGZ0bU1QLWtacktXMXNYYW9wYWhESENTOXlIWURLeXpwMjc3MUMwSXNSeWkxT25jSVk3eFkyUlltZXFXWWRqaG5FM0xneXFvejRzTzNZUFZB?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Posible crecida del río dejaría a Concepción del Uruguay sin playas durante el verano - elonce.com",
+     "medio": "elonce.com",
+     "fecha": "2026-09-07T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa21UVWJ2MWUwYlRPMEdvM3RId1Z4Sm1XX0dWdmlnRHVoSWZsZmhTZS1iS2FnamdqY09Bc3FnRTRqREZaZDJ4TjBfclZKckZjcmE3YU91YzBiS08tTnh5RUpRT1lRWktXekdVa1hqMHpZMkhmMDdXYTJKZzY2NXVhZUdGUVJPTklUTHljdFZab3ptSlctSlNGWDVXNNIBlAFBVV95cUxOaTBvUFY2LVFrT091cXl0cm52OXNrLTNKdW0xMTVURWM5cUs0cFRvd0FEYnhTdWxBV2EwekZTR2VYUUZfbzRsOVFweHNwZk1NbmRkUi1HalJmTkZDT2dQQVd2UFV0ZE5OLWVWR2Q5eHh1dGIydGxKUkNOVk9aNkRlSVdzSDBpN0VKZ3dkZng5Z0xSdDll?oc=5",
+     "sector": null
+    },
     {
      "titulo": "Cancelan alerta roja en Concepción por desborde de río Andalién - diarioconcepcion.cl",
      "medio": "diarioconcepcion.cl",
@@ -2179,20 +2193,6 @@
      "medio": "24horas",
      "fecha": "2026-08-30T04:05:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmZzLUVILUZKME84U2w2TE9LWjRQLS14ZjdseU9SSWRBRzFXOHA5ZFVuZm1YQXBFMFBrd3pTeW5DRXI2a28tZnpYSnZFZ21QYkpkR05iMzRaMmhtbzBaTjdUamc4bWlEWFhGQ1laM0oya2l4aVM3RXJnR3JvbV85MDRlSjMyVlItNE0tZHBqWldjb0lSV2dBc2ctVmtUdGIySHZjSkRmWEkwX3p0YW5WX3lMSFpiRVnSAbwBQVVfeXFMTU1vdjhRY1otZC1RM2dsM2VGYm0takNBU1ZPVTNzellLN2M4b1N0TE1JMlJmQVhKUHRmYVh2T1hHWTJLVkNEYWNUU09EWGIxSWdQMU1WTkNpZ1VfMGFmd01yOVNpdUE0dFpuTHh5N2d1V19pelNRZDhNdGdxcHA3a2t0VlVVQ2RkZGxCOUctZkRNWXFHVkdFMEdBLUEzUE40NXhhREZteWRpV3owaTFmdUdTOVh6TThNUmVtYXo?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred declara Alerta Roja para la comuna de Concepción por desborde y cancela Alerta Amarilla por crecida - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-08-30T03:53:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM0Z6Y1RLWGFPRmhHMVNEci11S2UxOWNDY2hxSUEyWXRhelpVZ1NsZk11UGlvbFU2UnZzcGk5RUI0a0pITV9STTNrOC05QzZLN3dTcEs1UlZlZUpVUWJHOUlzQ01FeUJIaTd0WFJSNmhraGxva0p4bVBqX1RrZlFDWHA4ZTBMMDVPY1R4VHh4ODVYUkJXekFuZTBKVC0zQThzaldqVDU4T0ZzeXAtNlVSN09pdXBfSVl2UTVUd25YbVoxVUlBRWk1SnNPQXlVRXFvOXRlRndpcUhla2E5Q1gyR0piRTk2anBmZVFXemNEVXk0UDZXSUpmRlo3U0tFX1ZsLUdHdTVqaERQOGVi?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred solicita la evacuación del sector Santa Rita de Concepción debido a un nuevo desborde del río Andalién - urgente.cl",
-     "medio": "urgente.cl",
-     "fecha": "2026-08-04T06:59:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOXRVY0xTSW8yaVpPUkVSclhsSzB4X2l4QU0zcDEzOGltRkRsZjlzN0JmOHJtQnFGakw5eE1qcFBjYXdFdWVYeHhDS252NVBaMjFJQ0JaRDFaZEQ3OW1XSFpYVTJvbEdyMTk4WHBoYlRZb2I4Vkl5U1J0TXRBaGRKY1ZnRTlPS2NFWjNKbjZsN3FPc2FlcWpWVURfSW9TMWMtTXlYMU9YdGhEdUxMX0phRHZCRG9Bd21QQTM0bmdTU0Vla0drb1ZJSVQ4Znd2RzFVYzkyNg?oc=5",
      "sector": null
     }
    ]
@@ -3109,10 +3109,42 @@
    "comuna": "Los Ríos",
    "noticias": [
     {
+     "titulo": "Cerca de 30 personas permanecen aisladas en Lanco por desborde del río Leufucade - Loncoche Informado",
+     "medio": "Loncoche Informado",
+     "fecha": "2026-09-24T17:30:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTm9rS24zVXZ4di1uQjZIM3JjSU9md1dHSlRnTTFMc2U2T3E1MXR3NlFCNHdzVGhPSTRoby14a2JWQ0hNMldjbHg5NXNUOEZZeXh0aXFmMTZsN2oxNXFJcHl1SjBMTmtxUjhlc3BLOGRCN3ZHMFhJRGNxaDV5OUZqbXhIX3ZmanZybjJDUm1tLWVDVUllZDJXOURpWElZMmdDLWJWRnJFQ28yVTFsZ0xoWmtxSl9zN0VVWDktbThn0gG-AUFVX3lxTE1Ob2tLbjNVdnh2LW5CNkgzcmNJT2Z3V0dKVGdNMUxzZTZPcTUxdHc2UUI0d3NUaE9JNGhvLXhrYlZDSE0yV2NseDk1c1Q4Rll5eHRpcWYxNmw3ajE1cUlweXVKMExOa3FSOGVzcEs4ZEI3dkcwWElEY3FoNXk5RmpteEhfdmZqdnJuMkNSbW0tZUNVSWVkMlc5RGlYSVkyZ0MtYlZGckVDbzJVMWxnTGhaa3FKX3M3RVVYOS1tOGc?oc=5",
+     "sector": {
+      "nombre": "rio Leufucade",
+      "lat": -39.49642,
+      "lon": -72.64524
+     }
+    },
+    {
+     "titulo": "Sistema frontal en el sur del país: Senapred informa alertas rojas y solicita evacuar sectores por desbordes de ríos - t13.cl",
+     "medio": "t13.cl",
+     "fecha": "2026-09-24T16:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcEdkOUZiM3d3b3o5Q1pNTFpSbFppaVhBWjlQdGdPaWJBWkM4RnZLRmk1THduajFvUnM4dWh6b3BUWnJ3dTE1TW51bGd3VE9VdVJqd1lsd25JRUtVNUJ6bjdTX0hlMEU5MTI3OGlzLXhpX092QkxibDhDbG9LZWRQUG03Wng5VXZXZ2RwSkkwSG5iUUZ1Y29qWnNlQkpZTEdMaGVuUTRBREhZbzdqUVZIYmgzd1F0bTZYTEdia21GclFNaFVq0gHEAUFVX3lxTE1wR2Q5RmIzd3dvejlDWk1MWlJsWmlpWEFaOVB0Z09pYkFaQzhGdktGaTVMd25qMW9Sczh1aHpvcFRacnd1MTVNbnVsZ3dUT1V1Ump3WWx3bklFS1U1QnpuN1NfSGUwRTkxMjc4aXMteGlfT3ZCTGJsOENsb0tlZFBQbTdaeDlVdldnZHBKSTBIbmJRRnVjb2pac2VCSllMR0xoZW5RNEFESFlvN2pRVkhiaDN3UXRtNlhMR2JrbUZyUU1oVWo?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Declaran Alerta Roja en Valdivia por riesgo de desborde de ríos - RioenLinea",
+     "medio": "RioenLinea",
+     "fecha": "2026-09-24T16:11:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNmRXWk9mSy1NdVdjMVgtTU5TTkNJZTdIc0RKeUtlSkZ3THBOSEhubDd1NHAtSGFBOTFBTFByalFDQllWdEIzQmtHSl9IbXF5aHJxaHNFUC1kYk5obXlvdkNjQkE2bkVzdHliOUFXeW04ZEJoU29fOVpJeUhVdmJic082aUJtUTh3UU1Hb09NVEtwV2hT?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Declaran Alerta Roja en la provincia de Valdivia por desborde de ríos - Radio Agricultura",
      "medio": "Radio Agricultura",
      "fecha": "2026-09-24T14:12:29+00:00",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNalJXdlhLUDl5U01VaE9UR3lwZ0ZkNWpGNUpuMjZ1TFI0MmQtYTZ2eTd1YUM0UHd6cUVrdkgzdld2MTdRYWZZU0xmemMtck4zQ3MxUjBVNjF0clp4b0pweUphLXdjRXUycE80bGVVZ1g3bldic0NYcnM1TE5rZlYyX0NBU3Rxc3dYMnpsVHpfeFZkd0lFckIyelRCUW02T3MtaWhrQndJMy0wZ0JUVjkweTBJR0MyVWJDd25RY0h0bjM3OXZ0QlhMSQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred declara Alerta Roja para la provincia de Valdivia por desbordes de ríos y esteros - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-09-24T13:59:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcEc1U0ZVcWwtMFhGaXJfMjgzZy1BcndSai1yZ01HcFp1V2c5a1FmNmthQ0NQNnJXb0hOeGhfX3JvOFlqYm5SWldyU1dJRENkV1ZLWjFDRVBPdmlQY1Rqdjh0WjR6N0ZGQVVXa1VsRGVTd1BxZTV2dk5FTzN2T3VZRS1jR1doMUpQTUlWUVJnQUhYMzMxVlpjaU8zYURCR0JkeEUwN2tHRE5EWDNXR29RVGxvRy1PM09oNGhOMHJIbGc1VkJFWk9xX2prYmhkbnRVUDU0a3E0YkQ3RkJ5aGZPVUVjNUkwOVBzdm5ZREJZNHkxZjNGQkE?oc=5",
      "sector": null
     },
     {
@@ -3152,38 +3184,6 @@
      "medio": "RioenLinea",
      "fecha": "2026-08-06T16:23:54+00:00",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONnIzNWh4X3lURVZmNEQ4QVQ3M21IY213d2ZQZmlLaGQxRW1XZmFQN1hyT1pITV9YcHRHSXQwZW93cmhsamVvRU1xN3RRSmFSak9vaFhLSTRMMF9mWWhkV0FXaHA2SGl6dV9RanB6UVpDYzVBTGxieWI0ckg3aGwtMDA4alU1anpkTUt0cFYybk0wVVFlR2c1TVZuQ0VWVWY0OGtMWU9vVFpBN2ZVYnNydw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Declaran Alerta Amarilla tras crecida de río por “riesgo para la población cercana” en La Unión - radioagricultura.cl",
-     "medio": "radioagricultura.cl",
-     "fecha": "2026-08-05T15:49:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORGVIQjA1elFYTUE2YzU3REpib2kwN0YtdFFjODl2NzgzZ2ZMVWpPZF9WRG9lTnlqckhzSmFramszajFBXzNuelg3ODdZRjM0UE9PYWJFYURFb3Q5MEVHSFlJbVN1VVFJMWJ6S3hnREV6dFVSSW9zV2pFSWRKQUZhcXQzeWoySmhMa1Z4T3ZLOEtCOGFlS2kwWWgtMkdWNXhZZVN2SzExeEVWcmpaMWduR1p0czRmM1Z0b3pXY0loV1RzaDZHNi1YOTJtTFZ4RGFEMTI4V0cxR0ZUanRh?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred declara Alerta Amarilla para la comuna de La Unión por crecida - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-08-05T15:22:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbmZ1ZEprZ0J4YW5faVFieXZDMzZma2tsVmRyY3VJZ0VFUUhrR1ZpX00tTWROcnpDZ0syVU9zd2gzNGNfYWxEM2FzWGRYQlRZNzlJRF9LMEVWLTRPTjRGZ3BseHVPb29EeGFINjVseHJhalpVT0ZBYUhsVGhIbmIzVTNBWDRPQURkb0xwLTI3a0FEYmFVeVIyQXRpZjVZalpEY2lteFBDLXBfdXM5WnlSdlQ3X0RCcWVOVHF6QVc3UWtPa1doOHlGbk14S1FoV09aSnhSRThuTUZTNGlBWjdV?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "río Llollelhue - radioagricultura.cl",
-     "medio": "radioagricultura.cl",
-     "fecha": "2026-08-01T02:26:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xMWZ0NVI3VlZVRjltNFJDRVl6SjF3QkdJR0k2SDlmamQ1S21DUlZnVF9YTE1ubDM2bVZRQ1ZRcjNmM19DdndwcXlaWWRmSzdkUHpQTi1TS0hKQXhUc0Jfaw?oc=5",
-     "sector": {
-      "nombre": "río Llollelhue",
-      "lat": -40.26227,
-      "lon": -73.02752
-     }
-    },
-    {
-     "titulo": "Declaran Alerta Roja para Valdivia y Los Lagos por riesgo de desborde del río Calle-Calle - Diario de Valdivia",
-     "medio": "Diario de Valdivia",
-     "fecha": "2026-07-31T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPXzJkS0JzdGZuMS1yYzNURXBVTXFvdUE5NG1rdl9Qc3ZJWU40ZzV5Nmp0cFlkalBqZ0dfdFBlamgzRDVyTnVPM3VYRHlsTTlpWlJfZ0toaUc1X213TkQ0ZTJYeVNxRWp4VlNvZ2Nqc3BtT25BeF9sdFZZM2o5ZHQ2d3VuelJ1Qll6MlRjUlpueFU4ZC1OSG5VWl9tSWdkbDhXVjlyaTF5UXpiekUtalR4Sm5LZHhWNjdyd0Fld0djMkJOelgyei1CT05aaGVNbHNNeXllUHZnZjlpRzJ5aXlCcDN3?oc=5",
      "sector": null
     }
    ]
