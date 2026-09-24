@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-24T11:37:24+00:00",
+ "generado": "2026-09-24T12:16:36+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -23,6 +23,20 @@
    "regiones_extra": []
   },
   {
+   "id": "ad7da2c56815",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se modifica cobertura de Alerta Amarilla para la región del Biobío por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación de la red fluviométrica del&nbsp; “Río Pichilo en Pichilo” ubicada en la comuna de Arauco y la “Río Curanilahue” en la comuna del mismo nombre, indican un incremento en sus caudales, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a estos cursos de agua. Por otra parte, de acuerdo con lo informado por la Dirección Meteorológica de Chile (DMC), a través de su Alerta y Aviso meteorológico vigente, se prevé continúen las precipitaciones moderadas a fue",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-24T08:10:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
    "id": "562f5f6fa8bd",
    "nivel": "ATP",
    "tipo": "nevadas",
@@ -33,20 +47,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-24T06:33:22.2222-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "33a2a2f94671",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para la comuna de Arauco por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación de la red fluviométrica del&nbsp; “Río Pichilo en Pichilo” ubicada en la comuna de Arauco, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Arauco, vigente a contar de hoy y hasta que las condiciones as",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-24T06:28:42.4242-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57",
    "origen": "senapred_web",
    "regiones_extra": []
   },
