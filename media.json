@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-24T19:57:02+00:00",
- "desde": "2026-09-22T19:56:56Z",
+ "generado": "2026-09-24T20:43:00+00:00",
+ "desde": "2026-09-22T20:42:54Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -15,7 +15,7 @@
      "canal": "Canal 9 BiobioTV",
      "publicado": "2026-09-24T17:16:15Z",
      "live": true,
-     "score": 9.78,
+     "score": 9.71,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "Canal 9 BiobioTV",
      "publicado": "2026-09-24T16:45:04Z",
      "live": true,
-     "score": 9.73,
+     "score": 9.67,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +37,7 @@
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-09-24T03:44:13Z",
      "live": true,
-     "score": 8.65,
+     "score": 8.59,
      "verificado": false,
      "embeddable": true
     },
@@ -48,7 +48,7 @@
      "canal": "Curanilahue Televisión",
      "publicado": "2026-09-23T21:09:14Z",
      "live": false,
-     "score": -0.9,
+     "score": -0.96,
      "verificado": false,
      "embeddable": true
     }
@@ -66,7 +66,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-09-24T18:45:12Z",
      "live": false,
-     "score": 5.9,
+     "score": 5.84,
      "verificado": false,
      "embeddable": true
     }
@@ -84,7 +84,7 @@
      "canal": "Somos Noticias",
      "publicado": "2026-09-24T16:24:45Z",
      "live": false,
-     "score": 5.71,
+     "score": 5.64,
      "verificado": false,
      "embeddable": true
     }
@@ -102,7 +102,7 @@
      "canal": "MeteoPangui Noticias",
      "publicado": "2026-09-24T16:44:18Z",
      "live": false,
-     "score": 5.73,
+     "score": 5.67,
      "verificado": false,
      "embeddable": true
     }
@@ -120,7 +120,7 @@
      "canal": "Neura Media",
      "publicado": "2026-09-24T02:21:33Z",
      "live": true,
-     "score": 6.53,
+     "score": 6.47,
      "verificado": false,
      "embeddable": true
     },
