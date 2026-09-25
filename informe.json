@@ -1,18 +1,18 @@
 {
- "generado": "2026-09-25T20:43:01+00:00",
+ "generado": "2026-09-25T23:37:38+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "15-09-2026",
   "hasta": "25-09-2026"
  },
  "totales": {
-  "alertas": 107,
+  "alertas": 108,
   "sae": 16,
   "comunas": 16,
   "regiones": 15,
   "por_nivel": {
    "AMARILLA": 19,
-   "ATP": 69,
+   "ATP": 70,
    "ROJA": 19
   },
   "por_tipo": [
@@ -22,7 +22,7 @@
    ],
    [
     "tormentas eléctricas",
-    23
+    24
    ],
    [
     "desborde",
@@ -530,7 +530,7 @@
  "vigentes": {
   "ROJA": 19,
   "AMARILLA": 3,
-  "ATP": 7,
+  "ATP": 6,
   "regiones_roja": [
    "Biobío",
    "La Araucanía",
@@ -605,7 +605,7 @@
    "fecha": "2026-09-25",
    "ROJA": 7,
    "AMARILLA": 0,
-   "ATP": 3,
+   "ATP": 4,
    "sae": 7
   }
  ],
@@ -756,6 +756,15 @@
  ],
  "cronologia": [
   {
+   "ts": "25-09 19:51",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-17-11-21-06"
+  },
+  {
    "ts": "25-09 17:04",
    "nivel": "ROJA",
    "lugar": "Nueva Imperial",
@@ -871,15 +880,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-18-15-03-19"
-  },
-  {
-   "ts": "24-09 16:47",
-   "nivel": "AMARILLA",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-2026-09-18-23-43-54"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
