@@ -1,13 +1,29 @@
 {
- "generado": "2026-09-25T01:56:12+00:00",
+ "generado": "2026-09-25T06:40:41+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 22,
+ "total_vigentes": 23,
  "alertas": [
+  {
+   "id": "4b58554e971c",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "🔴 #SENAPREDInforma ¡ATENCIÓN!",
+   "descripcion": "🔴 #SENAPREDInforma ¡ATENCIÓN!\n\nPor desborde del Río Biobío, se solicita evacuar sector Los Boldos, comuna de Santa Bárbara, Región del Biobío.\n\n#SENAPRED activó mensajería #SAE. \n\nActúa con calma y acata las indicaciones de la autoridad.\n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información: https://web.senapred.cl/dimension-animal/",
+   "region": "Biobío",
+   "comunas": [
+    "Santa Bárbara"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-09-25T02:06:59+00:00",
+   "url": "https://t.me/SenapredChile/1604",
+   "origen": "telegram",
+   "sae": true
+  },
   {
    "id": "52184fd9723f",
    "nivel": "ROJA",

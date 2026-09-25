@@ -1,19 +1,19 @@
 {
- "generado": "2026-09-25T01:33:31+00:00",
+ "generado": "2026-09-25T06:41:08+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "15-09-2026",
   "hasta": "25-09-2026"
  },
  "totales": {
-  "alertas": 100,
-  "sae": 9,
-  "comunas": 9,
+  "alertas": 101,
+  "sae": 10,
+  "comunas": 10,
   "regiones": 15,
   "por_nivel": {
    "ATP": 68,
    "AMARILLA": 20,
-   "ROJA": 12
+   "ROJA": 13
   },
   "por_tipo": [
    [
@@ -30,7 +30,7 @@
    ],
    [
     "desborde",
-    8
+    9
    ],
    [
     "crecida de río",
@@ -381,6 +381,15 @@
     "ts": "24-09",
     "comuna_link": "cunco",
     "region_link": "la araucania"
+   },
+   {
+    "lugar": "Santa Bárbara",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "25-09",
+    "comuna_link": "santa barbara",
+    "region_link": "biobio"
    }
   ],
   "crecida de río": [
@@ -492,7 +501,7 @@
   ]
  },
  "vigentes": {
-  "ROJA": 12,
+  "ROJA": 13,
   "AMARILLA": 3,
   "ATP": 7,
   "regiones_roja": [
@@ -571,6 +580,13 @@
    "AMARILLA": 4,
    "ATP": 3,
    "sae": 9
+  },
+  {
+   "fecha": "2026-09-25",
+   "ROJA": 1,
+   "AMARILLA": 0,
+   "ATP": 0,
+   "sae": 1
   }
  ],
  "escalamientos": [
@@ -715,6 +731,15 @@
  ],
  "cronologia": [
   {
+   "ts": "25-09 02:06",
+   "nivel": "ROJA",
+   "lugar": "Santa Bárbara",
+   "tipo": "desborde",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1604"
+  },
+  {
    "ts": "24-09 22:29",
    "nivel": "ROJA",
    "lugar": "Concepción",
@@ -830,15 +855,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1588"
-  },
-  {
-   "ts": "24-09 09:34",
-   "nivel": "ROJA",
-   "lugar": "Región de Los Ríos",
-   "tipo": "desborde",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mariquina-y-lanco-por-crecida-2026-09-24-04-11-40"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
