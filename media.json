@@ -1,6 +1,119 @@
 {
- "generado": "2026-09-25T06:41:08+00:00",
- "desde": "2026-09-23T06:41:04Z",
+ "generado": "2026-09-25T07:35:19+00:00",
+ "desde": "2026-09-23T07:35:14Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "concepcion": {
+   "comuna": "Concepción",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "pAGWwa725HY",
+     "url": "https://www.youtube.com/watch?v=pAGWwa725HY",
+     "titulo": "🌧️ EN DIRECTO | Precipitaciones en San Pedro de la Paz y Gran Concepción",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-09-24T03:44:13Z",
+     "live": true,
+     "score": 5.68,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "pAGWwa725HY",
+     "url": "https://www.youtube.com/watch?v=pAGWwa725HY",
+     "titulo": "🌧️ EN DIRECTO | Precipitaciones en San Pedro de la Paz y Gran Concepción",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-09-24T03:44:13Z",
+     "live": true,
+     "score": 7.68,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "UttJQczqQvw",
+     "url": "https://www.youtube.com/watch?v=UttJQczqQvw",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-09-24T05:29:26Z",
+     "live": true,
+     "score": -4.17,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "AEJ1pS_7ufk",
+     "url": "https://www.youtube.com/watch?v=AEJ1pS_7ufk",
+     "titulo": "CURANILAHUE VIBRÓ CON EL RALLY MUNDIAL",
+     "canal": "Curanilahue Televisión",
+     "publicado": "2026-09-23T21:09:14Z",
+     "live": false,
+     "score": -1.87,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "la araucania": {
+   "comuna": "La Araucanía",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "AyyTZNiBkeI",
+     "url": "https://www.youtube.com/watch?v=AyyTZNiBkeI",
+     "titulo": "Emergencia en Trovolhue por inundaciones por desborde de ríos: Al menos 70 viviendas afectadas",
+     "canal": "CHV Noticias",
+     "publicado": "2026-09-24T18:45:12Z",
+     "live": false,
+     "score": 4.93,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "panguipulli": {
+   "comuna": "Panguipulli",
+   "region": "Los Ríos",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "4oRpET2cFRw",
+     "url": "https://www.youtube.com/watch?v=4oRpET2cFRw",
+     "titulo": "Panguipulli | Urgente: Situación crítica en el sector Cayumapu Bajo tras el desborde del Río Zahuil",
+     "canal": "Somos Noticias",
+     "publicado": "2026-09-24T16:24:45Z",
+     "live": false,
+     "score": 4.74,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "lanco": {
+   "comuna": "Lanco",
+   "region": "Los Ríos",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "uxzWWLkIySk",
+     "url": "https://www.youtube.com/watch?v=uxzWWLkIySk",
+     "titulo": "🔴🌧️ Frente de mal tiempo: Desborde de Río Leufucade provoca anegamiento en el sector rural de Lanco.",
+     "canal": "MeteoPangui Noticias",
+     "publicado": "2026-09-24T16:44:18Z",
+     "live": false,
+     "score": 4.76,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
