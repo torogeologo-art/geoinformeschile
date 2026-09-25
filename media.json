@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-25T12:59:53+00:00",
- "desde": "2026-09-23T12:59:46Z",
+ "generado": "2026-09-25T17:29:28+00:00",
+ "desde": "2026-09-23T17:29:19Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "angol": {
@@ -9,13 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "fBC1-P7S34o",
-     "url": "https://www.youtube.com/watch?v=fBC1-P7S34o",
-     "titulo": "🔴 EN VIVO | TU MAÑANA ARAUCANÍA | 25 DE SEPTIEMBRE 2026",
+     "id": "OuR_Bjeo6rQ",
+     "url": "https://www.youtube.com/watch?v=OuR_Bjeo6rQ",
+     "titulo": "🔴 EN VIVO | UFRODEPORTES | 25 DE SEPTIEMBRE 2026",
      "canal": "UfroMedios",
-     "publicado": "2026-09-25T11:58:41Z",
+     "publicado": "2026-09-25T16:59:26Z",
      "live": true,
-     "score": 7.92,
+     "score": 7.96,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "Los Confines",
      "publicado": "2026-09-24T18:38:06Z",
      "live": false,
-     "score": 4.47,
+     "score": 4.1,
      "verificado": false,
      "embeddable": true
     }
@@ -44,7 +44,7 @@
      "canal": "Webcam DANTA",
      "publicado": "2026-09-25T07:17:15Z",
      "live": true,
-     "score": 7.52,
+     "score": 7.15,
      "verificado": false,
      "embeddable": true
     }
@@ -56,13 +56,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "1pPgW1rs0jA",
-     "url": "https://www.youtube.com/watch?v=1pPgW1rs0jA",
-     "titulo": "EN PRIMERA PERSONA | Viernes en Concepción del Uruguay",
-     "canal": "Mavi Streaming",
-     "publicado": "2026-09-24T20:44:56Z",
+     "id": "wWUfvNmb9vs",
+     "url": "https://www.youtube.com/watch?v=wWUfvNmb9vs",
+     "titulo": "Cosas Nuestras Noticias / En vivo desde la Expo Rural C. del Uruguay",
+     "canal": "TRº MEDIOS ",
+     "publicado": "2026-09-25T14:41:22Z",
      "live": true,
-     "score": 6.65,
+     "score": 7.77,
      "verificado": false,
      "embeddable": true
     },
@@ -72,133 +72,50 @@
      "titulo": "🌧️ EN DIRECTO | Precipitaciones en San Pedro de la Paz y Gran Concepción",
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-09-24T03:44:13Z",
-     "live": true,
-     "score": 5.23,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "RAvn4cxIAWM",
-     "url": "https://www.youtube.com/watch?v=RAvn4cxIAWM",
-     "titulo": "Transmisión en vivo de Buen Día Concepción",
-     "canal": "Buen Día Concepción",
-     "publicado": "2026-09-23T15:47:33Z",
      "live": true,
      "score": 5.0,
      "verificado": false,
      "embeddable": true
-    }
-   ]
-  },
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "pAGWwa725HY",
-     "url": "https://www.youtube.com/watch?v=pAGWwa725HY",
-     "titulo": "🌧️ EN DIRECTO | Precipitaciones en San Pedro de la Paz y Gran Concepción",
-     "canal": "San Pedro de la Paz en Vivo",
-     "publicado": "2026-09-24T03:44:13Z",
-     "live": true,
-     "score": 7.23,
-     "verificado": false,
-     "embeddable": true
     },
     {
-     "id": "UttJQczqQvw",
-     "url": "https://www.youtube.com/watch?v=UttJQczqQvw",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-09-24T05:29:26Z",
+     "id": "ScILgeTlglw",
+     "url": "https://www.youtube.com/watch?v=ScILgeTlglw",
+     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-09-25T16:44:17Z",
      "live": true,
-     "score": -4.63,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "AEJ1pS_7ufk",
-     "url": "https://www.youtube.com/watch?v=AEJ1pS_7ufk",
-     "titulo": "CURANILAHUE VIBRÓ CON EL RALLY MUNDIAL",
-     "canal": "Curanilahue Televisión",
-     "publicado": "2026-09-23T21:09:14Z",
-     "live": false,
-     "score": -2.0,
+     "score": 4.94,
      "verificado": false,
      "embeddable": true
     }
    ]
   },
-  "la araucania": {
-   "comuna": "La Araucanía",
+  "gorbea": {
+   "comuna": "Gorbea",
    "region": "La Araucanía",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "AyyTZNiBkeI",
-     "url": "https://www.youtube.com/watch?v=AyyTZNiBkeI",
-     "titulo": "Emergencia en Trovolhue por inundaciones por desborde de ríos: Al menos 70 viviendas afectadas",
-     "canal": "CHV Noticias",
-     "publicado": "2026-09-24T18:45:12Z",
+     "id": "94-fUpUq1f8",
+     "url": "https://www.youtube.com/watch?v=94-fUpUq1f8",
+     "titulo": "Gorbea bajo el agua: desborde de río inunda más de cien casas en La Araucanía | 24 Horas TVN Chile",
+     "canal": "24 Horas - TVN Chile",
+     "publicado": "2026-09-25T15:14:49Z",
      "live": false,
-     "score": 4.48,
+     "score": 5.81,
      "verificado": false,
      "embeddable": true
-    }
-   ]
-  },
-  "panguipulli": {
-   "comuna": "Panguipulli",
-   "region": "Los Ríos",
-   "alerta": "ROJA",
-   "videos": [
+    },
     {
-     "id": "4oRpET2cFRw",
-     "url": "https://www.youtube.com/watch?v=4oRpET2cFRw",
-     "titulo": "Panguipulli | Urgente: Situación crítica en el sector Cayumapu Bajo tras el desborde del Río Zahuil",
-     "canal": "Somos Noticias",
-     "publicado": "2026-09-24T16:24:45Z",
+     "id": "oLHdfaw5mlI",
+     "url": "https://www.youtube.com/watch?v=oLHdfaw5mlI",
+     "titulo": "Alerta en la Araucanía: Colapsa puente en Lautaro y desborde de río deja 130 casas bajo el agua",
+     "canal": "24 Horas - TVN Chile",
+     "publicado": "2026-09-25T16:09:43Z",
      "live": false,
-     "score": 4.28,
+     "score": -1.11,
      "verificado": false,
      "embeddable": true
-    }
-   ]
-  },
-  "lanco": {
-   "comuna": "Lanco",
-   "region": "Los Ríos",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "uxzWWLkIySk",
-     "url": "https://www.youtube.com/watch?v=uxzWWLkIySk",
-     "titulo": "🔴🌧️ Frente de mal tiempo: Desborde de Río Leufucade provoca anegamiento en el sector rural de Lanco.",
-     "canal": "MeteoPangui Noticias",
-     "publicado": "2026-09-24T16:44:18Z",
-     "live": false,
-     "score": 4.31,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "los rios": {
-   "comuna": "Los Ríos",
-   "region": "Los Ríos",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "wp1B2fs7R3I",
-     "url": "https://www.youtube.com/watch?v=wp1B2fs7R3I",
-     "titulo": "Tema: Salmo 137: Junto a los ríos de babilonia, allí nos sentábamos y llorábamos : 25-09-2,026.",
-     "canal": "Una Fuente En El Desierto | Gilberto Fajardo",
-     "publicado": "2026-09-25T11:49:57Z",
-     "live": true,
-     "score": 7.9,
-     "verificado": false,
-     "embeddable": false
     }
    ]
   }

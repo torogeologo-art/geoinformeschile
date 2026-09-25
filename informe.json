@@ -1,19 +1,19 @@
 {
- "generado": "2026-09-25T12:19:04+00:00",
+ "generado": "2026-09-25T17:29:29+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "15-09-2026",
   "hasta": "25-09-2026"
  },
  "totales": {
-  "alertas": 103,
-  "sae": 12,
-  "comunas": 12,
+  "alertas": 109,
+  "sae": 16,
+  "comunas": 16,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 68,
    "AMARILLA": 20,
-   "ROJA": 15
+   "ATP": 70,
+   "ROJA": 19
   },
   "por_tipo": [
    [
@@ -25,24 +25,24 @@
     25
    ],
    [
-    "evento meteorológico",
-    10
+    "desborde",
+    12
    ],
    [
-    "desborde",
-    10
+    "evento meteorológico",
+    11
    ],
    [
     "crecida de río",
-    7
+    9
    ],
    [
     "nevadas",
-    5
+    6
    ],
    [
     "otros",
-    2
+    1
    ],
    [
     "actividad volcánica",
@@ -271,44 +271,6 @@
     "region_link": "maule"
    }
   ],
-  "evento meteorológico": [
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "16-09",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "21-09",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "23-09",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Magallanes y de la Antártica Chilena",
-    "region": "Magallanes y de la Antártica Chilena",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "20-09",
-    "comuna_link": "",
-    "region_link": "magallanes y de la antartica chilena"
-   }
-  ],
   "desborde": [
    {
     "lugar": "Región de La Araucanía",
@@ -399,6 +361,62 @@
     "ts": "25-09",
     "comuna_link": "angol",
     "region_link": "la araucania"
+   },
+   {
+    "lugar": "Mariquina",
+    "region": "Los Ríos",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "25-09",
+    "comuna_link": "mariquina",
+    "region_link": "los rios"
+   },
+   {
+    "lugar": "Nueva Imperial",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "25-09",
+    "comuna_link": "nueva imperial",
+    "region_link": "la araucania"
+   }
+  ],
+  "evento meteorológico": [
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "16-09",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "21-09",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "23-09",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "20-09",
+    "comuna_link": "",
+    "region_link": "magallanes y de la antartica chilena"
    }
   ],
   "crecida de río": [
@@ -448,6 +466,24 @@
     "region_link": "la araucania"
    },
    {
+    "lugar": "Nacimiento",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "25-09",
+    "comuna_link": "nacimiento",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Toltén",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "25-09",
+    "comuna_link": "tolten",
+    "region_link": "la araucania"
+   },
+   {
     "lugar": "Región de Los Ríos",
     "region": "Los Ríos",
     "nivel": "AMARILLA",
@@ -488,15 +524,6 @@
   ],
   "otros": [
    {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "15-09",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
     "lugar": "Región de Tarapacá",
     "region": "Tarapacá",
     "nivel": "ATP",
@@ -519,7 +546,7 @@
   ]
  },
  "vigentes": {
-  "ROJA": 15,
+  "ROJA": 19,
   "AMARILLA": 3,
   "ATP": 7,
   "regiones_roja": [
@@ -533,7 +560,7 @@
    "fecha": "2026-09-15",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 2,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -601,10 +628,10 @@
   },
   {
    "fecha": "2026-09-25",
-   "ROJA": 3,
+   "ROJA": 7,
    "AMARILLA": 0,
-   "ATP": 0,
-   "sae": 3
+   "ATP": 3,
+   "sae": 7
   }
  ],
  "escalamientos": [
@@ -672,7 +699,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "15-09 12:52",
+     "ts": "19-09 21:13",
      "estado": "VIGENTE"
     },
     {
@@ -711,6 +738,29 @@
    ]
   },
   {
+   "lugar": "Región de Los Lagos",
+   "region": "Los Lagos",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "17-09 11:09",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "22-09 13:32",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "25-09 13:17",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Atacama",
    "region": "Atacama",
    "sae": false,
@@ -727,27 +777,72 @@
      "estado": "VIGENTE"
     }
    ]
-  },
-  {
-   "lugar": "Región de Los Lagos",
-   "region": "Los Lagos",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "17-09 11:09",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "22-09 13:32",
-     "estado": "CANCELADA"
-    }
-   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "25-09 17:04",
+   "nivel": "ROJA",
+   "lugar": "Nueva Imperial",
+   "tipo": "desborde",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1611"
+  },
+  {
+   "ts": "25-09 13:17",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "aluvión",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26"
+  },
+  {
+   "ts": "25-09 13:12",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "nevadas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
+  },
+  {
+   "ts": "25-09 13:07",
+   "nivel": "ATP",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-precipitaciones-2026-09-21-19-54-41"
+  },
+  {
+   "ts": "25-09 13:53",
+   "nivel": "ROJA",
+   "lugar": "Toltén",
+   "tipo": "crecida de río",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1610"
+  },
+  {
+   "ts": "25-09 13:37",
+   "nivel": "ROJA",
+   "lugar": "Mariquina",
+   "tipo": "desborde",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1609"
+  },
+  {
+   "ts": "25-09 13:12",
+   "nivel": "ROJA",
+   "lugar": "Nacimiento",
+   "tipo": "crecida de río",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1608"
+  },
   {
    "ts": "25-09 11:17",
    "nivel": "ROJA",
@@ -810,69 +905,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-2026-09-18-23-43-54"
-  },
-  {
-   "ts": "24-09 19:31",
-   "nivel": "ROJA",
-   "lugar": "Cunco",
-   "tipo": "desborde",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1601"
-  },
-  {
-   "ts": "24-09 19:05",
-   "nivel": "ROJA",
-   "lugar": "Gorbea",
-   "tipo": "desborde",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1599"
-  },
-  {
-   "ts": "24-09 17:48",
-   "nivel": "ROJA",
-   "lugar": "Quilaco",
-   "tipo": "crecida de río",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1597"
-  },
-  {
-   "ts": "24-09 16:57",
-   "nivel": "ROJA",
-   "lugar": "Panguipulli",
-   "tipo": "desborde",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1593"
-  },
-  {
-   "ts": "24-09 13:27",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26"
-  },
-  {
-   "ts": "24-09 16:27",
-   "nivel": "ROJA",
-   "lugar": "Lanco",
-   "tipo": "desborde",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1591"
-  },
-  {
-   "ts": "24-09 16:19",
-   "nivel": "ROJA",
-   "lugar": "Arauco",
-   "tipo": "crecida de río",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1590"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

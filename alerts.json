@@ -1,13 +1,121 @@
 {
- "generado": "2026-09-25T12:59:45+00:00",
+ "generado": "2026-09-25T17:28:50+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 25,
+ "total_vigentes": 29,
  "alertas": [
+  {
+   "id": "6ab96b8f6021",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "¡ATENCIÓN! EVACÚE sector \"Entre Ríos\" por desborde de Río Cautín y Río Quepe, comuna de Nueva Imperial, Región de La Araucanía.",
+   "descripcion": "¡ATENCIÓN! EVACÚE sector \"Entre Ríos\" por desborde de Río Cautín y Río Quepe, comuna de Nueva Imperial, Región de La Araucanía.\n\nSENAPRED activó mensajería #SAE. Mantente informado a través de canales oficiales.",
+   "region": "La Araucanía",
+   "comunas": [
+    "Nueva Imperial"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-09-25T17:04:03+00:00",
+   "url": "https://t.me/SenapredChile/1611",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "772342f63228",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "¡ATENCIÓN! Por alerta de crecida EVITE ribera de Río Toltén en sectores Pocoyán, Fintucúe, Toltén Viejo, Trome, Quihuafilo y Frutillar, en la comuna de Toltén,",
+   "descripcion": "¡ATENCIÓN! Por alerta de crecida EVITE ribera de Río Toltén en sectores Pocoyán, Fintucúe, Toltén Viejo, Trome, Quihuafilo y Frutillar, en la comuna de Toltén, Región de La Araucanía.\n\nSENAPRED activó mensajería #SAE preventivo. Mantente informado a través de canales oficiales.",
+   "region": "La Araucanía",
+   "comunas": [
+    "Toltén"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-09-25T13:53:05+00:00",
+   "url": "https://t.me/SenapredChile/1610",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "92317b0b86a7",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "¡ATENCIÓN! EVACÚE sectores Raluya, Calel y Huatro por desborde de Río Cruces, comuna de Mariquina,  Región de Los Ríos.",
+   "descripcion": "¡ATENCIÓN! EVACÚE sectores Raluya, Calel y Huatro por desborde de Río Cruces, comuna de Mariquina,  Región de Los Ríos.\n\nSENAPRED activó mensajería #SAE. Mantente informado a través de canales oficiales.",
+   "region": "Los Ríos",
+   "comunas": [
+    "Mariquina"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-09-25T13:37:25+00:00",
+   "url": "https://t.me/SenapredChile/1609",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "b899251251f5",
+   "nivel": "ATP",
+   "tipo": "aluvión",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A505-2 Probables Tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera, Chiloé y litoral interior. 25-09 26-09 Abrir aquí Asimismo, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Actualización de Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (desliz",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-25T13:17:05.055-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "90ab2418a98a",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "¡ATENCIÓN! Por alerta de crecida EVITE riberas de ríos y esteros de la comuna de Nacimiento, Región del Biobío.",
+   "descripcion": "¡ATENCIÓN! Por alerta de crecida EVITE riberas de ríos y esteros de la comuna de Nacimiento, Región del Biobío.\n\nSENAPRED activó mensajería #SAE preventivo. Mantente informado a través de canales oficiales.",
+   "region": "Biobío",
+   "comunas": [
+    "Nacimiento"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-09-25T13:12:47+00:00",
+   "url": "https://t.me/SenapredChile/1608",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "e20ebcd086bf",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy viernes 25 de septiembre, se informa que las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán registraron un sismo de largo periodo (LP) asociado a movimiento de fluidos al interior del sistema volcánico. &nbsp; Las car",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-25T13:12:13.1313-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "2ae43f1d0074",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Última Esperanza por heladas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes. Alertamiento Pronóstico Aviso A504 Heladas normales a moderadas con probabilidad de formación de escarcha en zonas de la región. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la Provincia de Última Esperanza por hel",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-25T13:07:37.3737-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-precipitaciones-2026-09-21-19-54-41",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
   {
    "id": "92fc114bd84c",
    "nivel": "ROJA",
@@ -115,20 +223,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-24T19:25:16.1616-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-alto-biobio-por-crecida-de-embalse-ralco-2026-09-24-19-31-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "08669aee5022",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A505-1 Probables Tormentas eléctricas en litoral, cordillera de la costa, valle y precordillera de la región. 24-09 25-09 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que los originaron han sido cancelados los siguientes alertamientos meteorológicos: Alertamiento Pronóstico Alarma AAA9-1 Precipitaciones intensas con isoterma cero alta en cordillera de la c",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-24T19:05:47.4747-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -329,20 +423,6 @@
    "regiones_extra": []
   },
   {
-   "id": "562f5f6fa8bd",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarilla [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido a las 05:59 horas de hoy jueves 24 de septiembre, se informa que, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán registraron un sismo de largo periodo (LP) asociado a movimiento de fluidos al interior del sistema volc",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-24T06:33:22.2222-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "b5ccd4107569",
    "nivel": "ATP",
    "tipo": "viento",
@@ -369,22 +449,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-17-11-21-06",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "4fe96ebe1e2c",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se modifica Alerta Temprana Preventiva para la Provincia de Última Esperanza a Heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A504 Haladas normales a moderadas con probabilidad de formación de escarcha en cordillera austral norte y pampa patagónica norte. 24-09 25-09 Abrir Aquí Del mismo modo, debido al debilitamiento de las condiciones que lo originaron ha sido cancelado el siguiente alertamiento meteorológico: Alertamiento Pronóstico Aviso A500 Precipitaciones normales a moderadas en cordillera austral",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-23T18:25:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-precipitaciones-2026-09-21-19-54-41",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "a70a1348a6be",
