@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-25T12:19:03+00:00",
- "desde": "2026-09-23T12:18:55Z",
+ "generado": "2026-09-25T12:59:53+00:00",
+ "desde": "2026-09-23T12:59:46Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "angol": {
@@ -15,7 +15,7 @@
      "canal": "UfroMedios",
      "publicado": "2026-09-25T11:58:41Z",
      "live": true,
-     "score": 7.97,
+     "score": 7.92,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,25 @@
      "canal": "Los Confines",
      "publicado": "2026-09-24T18:38:06Z",
      "live": false,
-     "score": 4.53,
+     "score": 4.47,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "santa barbara": {
+   "comuna": "Santa Bárbara",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "xwlv78OjOZk",
+     "url": "https://www.youtube.com/watch?v=xwlv78OjOZk",
+     "titulo": "Live streaming di Webcam DANTA di Cadore - Dolomiti",
+     "canal": "Webcam DANTA",
+     "publicado": "2026-09-25T07:17:15Z",
+     "live": true,
+     "score": 7.52,
      "verificado": false,
      "embeddable": true
     }
@@ -44,7 +62,7 @@
      "canal": "Mavi Streaming",
      "publicado": "2026-09-24T20:44:56Z",
      "live": true,
-     "score": 6.7,
+     "score": 6.65,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +73,7 @@
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-09-24T03:44:13Z",
      "live": true,
-     "score": 5.29,
+     "score": 5.23,
      "verificado": false,
      "embeddable": true
     },
@@ -84,7 +102,7 @@
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-09-24T03:44:13Z",
      "live": true,
-     "score": 7.29,
+     "score": 7.23,
      "verificado": false,
      "embeddable": true
     },
@@ -95,7 +113,7 @@
      "canal": "SRGenial",
      "publicado": "2026-09-24T05:29:26Z",
      "live": true,
-     "score": -4.57,
+     "score": -4.63,
      "verificado": false,
      "embeddable": true
     },
@@ -124,7 +142,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-09-24T18:45:12Z",
      "live": false,
-     "score": 4.54,
+     "score": 4.48,
      "verificado": false,
      "embeddable": true
     }
@@ -142,7 +160,7 @@
      "canal": "Somos Noticias",
      "publicado": "2026-09-24T16:24:45Z",
      "live": false,
-     "score": 4.34,
+     "score": 4.28,
      "verificado": false,
      "embeddable": true
     }
@@ -160,9 +178,27 @@
      "canal": "MeteoPangui Noticias",
      "publicado": "2026-09-24T16:44:18Z",
      "live": false,
-     "score": 4.37,
+     "score": 4.31,
      "verificado": false,
      "embeddable": true
+    }
+   ]
+  },
+  "los rios": {
+   "comuna": "Los Ríos",
+   "region": "Los Ríos",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "wp1B2fs7R3I",
+     "url": "https://www.youtube.com/watch?v=wp1B2fs7R3I",
+     "titulo": "Tema: Salmo 137: Junto a los ríos de babilonia, allí nos sentábamos y llorábamos : 25-09-2,026.",
+     "canal": "Una Fuente En El Desierto | Gilberto Fajardo",
+     "publicado": "2026-09-25T11:49:57Z",
+     "live": true,
+     "score": 7.9,
+     "verificado": false,
+     "embeddable": false
     }
    ]
   }

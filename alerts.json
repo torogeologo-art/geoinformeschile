@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-25T12:18:48+00:00",
+ "generado": "2026-09-25T12:59:45+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -9,18 +9,18 @@
  "total_vigentes": 25,
  "alertas": [
   {
-   "id": "d6a27d2a3f0f",
+   "id": "92fc114bd84c",
    "nivel": "ROJA",
    "tipo": "crecida de río",
-   "titulo": "¡ATENCIÓN! Por alerta de crecida EVITE ribera de Río Mahuidanche en sectores Nueva Etruria, comuna de Pitrufquén, Región de La Araucanía.",
-   "descripcion": "¡ATENCIÓN! Por alerta de crecida EVITE ribera de Río Mahuidanche en sectores Nueva Etruria, comuna de Pitrufquén, Región de La Araucanía.\n\nSENAPRED activó mensajería #SAE preventivo. Mantente informado a través de canales oficiales.",
+   "titulo": "¡ATENCIÓN! Por alerta de crecida EVITE ribera de Río Toltén en sectores desde Bajada de Piedra hasta Comuy, comuna de Pitrufquén, Región de La Araucanía.",
+   "descripcion": "¡ATENCIÓN! Por alerta de crecida EVITE ribera de Río Toltén en sectores desde Bajada de Piedra hasta Comuy, comuna de Pitrufquén, Región de La Araucanía.\n\nSENAPRED activó mensajería #SAE preventivo. Mantente informado a través de canales oficiales.",
    "region": "La Araucanía",
    "comunas": [
     "Pitrufquén"
    ],
    "estado": "VIGENTE",
-   "ts": "2026-09-25T11:17:14+00:00",
-   "url": "https://t.me/SenapredChile/1606",
+   "ts": "2026-09-25T12:35:32+00:00",
+   "url": "https://t.me/SenapredChile/1607",
    "origen": "telegram",
    "sae": true
   },
