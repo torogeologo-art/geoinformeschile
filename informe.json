@@ -1,19 +1,19 @@
 {
- "generado": "2026-09-25T06:41:08+00:00",
+ "generado": "2026-09-25T12:19:04+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "15-09-2026",
   "hasta": "25-09-2026"
  },
  "totales": {
-  "alertas": 101,
-  "sae": 10,
-  "comunas": 10,
+  "alertas": 103,
+  "sae": 12,
+  "comunas": 12,
   "regiones": 15,
   "por_nivel": {
    "ATP": 68,
    "AMARILLA": 20,
-   "ROJA": 13
+   "ROJA": 15
   },
   "por_tipo": [
    [
@@ -30,11 +30,11 @@
    ],
    [
     "desborde",
-    9
+    10
    ],
    [
     "crecida de río",
-    6
+    7
    ],
    [
     "nevadas",
@@ -390,6 +390,15 @@
     "ts": "25-09",
     "comuna_link": "santa barbara",
     "region_link": "biobio"
+   },
+   {
+    "lugar": "Angol",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "25-09",
+    "comuna_link": "angol",
+    "region_link": "la araucania"
    }
   ],
   "crecida de río": [
@@ -428,6 +437,15 @@
     "ts": "24-09",
     "comuna_link": "concepcion",
     "region_link": "biobio"
+   },
+   {
+    "lugar": "Pitrufquén",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "25-09",
+    "comuna_link": "pitrufquen",
+    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -501,7 +519,7 @@
   ]
  },
  "vigentes": {
-  "ROJA": 13,
+  "ROJA": 15,
   "AMARILLA": 3,
   "ATP": 7,
   "regiones_roja": [
@@ -583,10 +601,10 @@
   },
   {
    "fecha": "2026-09-25",
-   "ROJA": 1,
+   "ROJA": 3,
    "AMARILLA": 0,
    "ATP": 0,
-   "sae": 1
+   "sae": 3
   }
  ],
  "escalamientos": [
@@ -731,6 +749,24 @@
  ],
  "cronologia": [
   {
+   "ts": "25-09 11:17",
+   "nivel": "ROJA",
+   "lugar": "Pitrufquén",
+   "tipo": "crecida de río",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1606"
+  },
+  {
+   "ts": "25-09 10:36",
+   "nivel": "ROJA",
+   "lugar": "Angol",
+   "tipo": "desborde",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1605"
+  },
+  {
    "ts": "25-09 02:06",
    "nivel": "ROJA",
    "lugar": "Santa Bárbara",
@@ -837,24 +873,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1590"
-  },
-  {
-   "ts": "24-09 15:45",
-   "nivel": "ROJA",
-   "lugar": "Curanilahue",
-   "tipo": "crecida de río",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1589"
-  },
-  {
-   "ts": "24-09 15:40",
-   "nivel": "ROJA",
-   "lugar": "Purén",
-   "tipo": "desborde",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1588"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
