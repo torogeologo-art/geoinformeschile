@@ -1,39 +1,72 @@
 {
- "generado": "2026-09-24T23:32:33+00:00",
- "desde": "2026-09-22T23:32:29Z",
+ "generado": "2026-09-25T01:33:31+00:00",
+ "desde": "2026-09-23T01:33:27Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "panguipulli": {
-   "comuna": "Panguipulli",
-   "region": "Los Ríos",
+  "concepcion": {
+   "comuna": "Concepción",
+   "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "4oRpET2cFRw",
-     "url": "https://www.youtube.com/watch?v=4oRpET2cFRw",
-     "titulo": "Panguipulli | Urgente: Situación crítica en el sector Cayumapu Bajo tras el desborde del Río Zahuil",
-     "canal": "Somos Noticias",
-     "publicado": "2026-09-24T16:24:45Z",
-     "live": false,
-     "score": 5.41,
+     "id": "pAGWwa725HY",
+     "url": "https://www.youtube.com/watch?v=pAGWwa725HY",
+     "titulo": "🌧️ EN DIRECTO | Precipitaciones en San Pedro de la Paz y Gran Concepción",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-09-24T03:44:13Z",
+     "live": true,
+     "score": 6.18,
      "verificado": false,
      "embeddable": true
     }
    ]
   },
-  "los rios": {
-   "comuna": "Los Ríos",
-   "region": "Los Ríos",
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "twsvHWWsJ6U",
-     "url": "https://www.youtube.com/watch?v=twsvHWWsJ6U",
-     "titulo": "RIO CALLE CALLE VALDIVIA REGIÓN DE LOD RIOS CHILE",
-     "canal": "Marisol Millar",
-     "publicado": "2026-09-23T02:04:05Z",
+     "id": "AwBk3Aqpkqw",
+     "url": "https://www.youtube.com/watch?v=AwBk3Aqpkqw",
+     "titulo": "🖥️📱 EN VIVO | 24 Central Red Biobío 24 de septiembre 2026 🖥️📱",
+     "canal": "tvnredbiobio",
+     "publicado": "2026-09-25T00:56:05Z",
+     "live": true,
+     "score": 9.95,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "pAGWwa725HY",
+     "url": "https://www.youtube.com/watch?v=pAGWwa725HY",
+     "titulo": "🌧️ EN DIRECTO | Precipitaciones en San Pedro de la Paz y Gran Concepción",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-09-24T03:44:13Z",
+     "live": true,
+     "score": 8.18,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "UttJQczqQvw",
+     "url": "https://www.youtube.com/watch?v=UttJQczqQvw",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-09-24T05:29:26Z",
+     "live": true,
+     "score": -3.67,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "AEJ1pS_7ufk",
+     "url": "https://www.youtube.com/watch?v=AEJ1pS_7ufk",
+     "titulo": "CURANILAHUE VIBRÓ CON EL RALLY MUNDIAL",
+     "canal": "Curanilahue Televisión",
+     "publicado": "2026-09-23T21:09:14Z",
      "live": false,
-     "score": 0.0,
+     "score": -1.37,
      "verificado": false,
      "embeddable": true
     }
