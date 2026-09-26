@@ -1,18 +1,18 @@
 {
- "generado": "2026-09-25T23:37:38+00:00",
+ "generado": "2026-09-26T02:03:00+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "15-09-2026",
-  "hasta": "25-09-2026"
+  "desde": "16-09-2026",
+  "hasta": "26-09-2026"
  },
  "totales": {
-  "alertas": 108,
+  "alertas": 110,
   "sae": 16,
   "comunas": 16,
   "regiones": 15,
   "por_nivel": {
-   "AMARILLA": 19,
-   "ATP": 70,
+   "AMARILLA": 20,
+   "ATP": 71,
    "ROJA": 19
   },
   "por_tipo": [
@@ -25,12 +25,12 @@
     24
    ],
    [
-    "desborde",
-    12
+    "evento meteorológico",
+    13
    ],
    [
-    "evento meteorológico",
-    11
+    "desborde",
+    12
    ],
    [
     "crecida de río",
@@ -253,6 +253,44 @@
     "region_link": "maule"
    }
   ],
+  "evento meteorológico": [
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "16-09",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "21-09",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "23-09",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "20-09",
+    "comuna_link": "",
+    "region_link": "magallanes y de la antartica chilena"
+   }
+  ],
   "desborde": [
    {
     "lugar": "Región de La Araucanía",
@@ -361,44 +399,6 @@
     "ts": "25-09",
     "comuna_link": "nueva imperial",
     "region_link": "la araucania"
-   }
-  ],
-  "evento meteorológico": [
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "16-09",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "21-09",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "23-09",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Magallanes y de la Antártica Chilena",
-    "region": "Magallanes y de la Antártica Chilena",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "20-09",
-    "comuna_link": "",
-    "region_link": "magallanes y de la antartica chilena"
    }
   ],
   "crecida de río": [
@@ -530,7 +530,7 @@
  "vigentes": {
   "ROJA": 19,
   "AMARILLA": 3,
-  "ATP": 6,
+  "ATP": 4,
   "regiones_roja": [
    "Biobío",
    "La Araucanía",
@@ -604,8 +604,8 @@
   {
    "fecha": "2026-09-25",
    "ROJA": 7,
-   "AMARILLA": 0,
-   "ATP": 4,
+   "AMARILLA": 1,
+   "ATP": 5,
    "sae": 7
   }
  ],
@@ -756,6 +756,24 @@
  ],
  "cronologia": [
   {
+   "ts": "25-09 20:35",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Atacama",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
+  },
+  {
+   "ts": "25-09 20:29",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-altas-temperaturas-2026-09-21-19-49-58"
+  },
+  {
    "ts": "25-09 19:51",
    "nivel": "ATP",
    "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -862,24 +880,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1603"
-  },
-  {
-   "ts": "24-09 19:05",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Los Lagos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26"
-  },
-  {
-   "ts": "24-09 18:52",
-   "nivel": "ATP",
-   "lugar": "Región de Biobío",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-18-15-03-19"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

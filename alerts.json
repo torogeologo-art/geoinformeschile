@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-26T00:03:51+00:00",
+ "generado": "2026-09-26T02:02:54+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 28,
+ "total_vigentes": 26,
  "alertas": [
+  {
+   "id": "4bf5c4dddc87",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por Evento Meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , debido al debilitamiento de las condiciones que los originaron, han sido cancelados los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Alerta AA169-3 Precipitaciones moderadas a fuertes con isoterma cero alta en litoral, valle, precordillera y cordillera Alerta AA170 Viento moderado a fuerte en litoral y cordillera de la costa. Aviso A497-4 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la costa, precordillera y cordillera. Aviso A498-1 Vien",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-25T21:32:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-09-17-11-34-15",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "b7ae2a35f965",
    "nivel": "AMARILLA",
@@ -65,20 +79,6 @@
    "url": "https://t.me/SenapredChile/1611",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "e20ebcd086bf",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy viernes 25 de septiembre, se informa que el sistema volcánico ha tenido un incremento sostenido de su actividad, evidenciado tanto en los parámetros sísmicos asociados a la dinámica de fluidos como en las observaciones superficiales . En particular, se registró un aum",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-25T15:47:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "772342f63228",
@@ -461,20 +461,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-24T09:34:58.5858-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mariquina-y-lanco-por-crecida-2026-09-24-04-11-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "b5ccd4107569",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA170 Viento moderado a fuerte en litoral y cordillera de la costa. 24-09 24-09 Abrir aquí Alerta AA169-3 Precipitaciones moderadas a fuertes con isoterma cero alta en litoral, valle, precordillera y cordillera 24-09 24-09 Abrir aquí Aviso A497-4 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la costa, precordillera y cordillera. 23-09",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-23T21:51:25.2525-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-09-17-11-34-15",
    "origen": "senapred_web",
    "regiones_extra": []
   },
