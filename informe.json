@@ -1,19 +1,19 @@
 {
- "generado": "2026-09-26T02:03:00+00:00",
+ "generado": "2026-09-26T07:47:03+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "16-09-2026",
   "hasta": "26-09-2026"
  },
  "totales": {
-  "alertas": 110,
-  "sae": 16,
+  "alertas": 114,
+  "sae": 17,
   "comunas": 16,
   "regiones": 15,
   "por_nivel": {
    "AMARILLA": 20,
-   "ATP": 71,
-   "ROJA": 19
+   "ATP": 74,
+   "ROJA": 20
   },
   "por_tipo": [
    [
@@ -22,7 +22,7 @@
    ],
    [
     "tormentas eléctricas",
-    24
+    25
    ],
    [
     "evento meteorológico",
@@ -30,15 +30,15 @@
    ],
    [
     "desborde",
-    12
+    13
    ],
    [
     "crecida de río",
-    9
+    10
    ],
    [
     "nevadas",
-    6
+    7
    ],
    [
     "otros",
@@ -482,6 +482,15 @@
     "ts": "24-09",
     "comuna_link": "",
     "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "26-09",
+    "comuna_link": "",
+    "region_link": "atacama"
    }
   ],
   "nevadas": [
@@ -528,9 +537,9 @@
   ]
  },
  "vigentes": {
-  "ROJA": 19,
+  "ROJA": 20,
   "AMARILLA": 3,
-  "ATP": 4,
+  "ATP": 5,
   "regiones_roja": [
    "Biobío",
    "La Araucanía",
@@ -605,8 +614,15 @@
    "fecha": "2026-09-25",
    "ROJA": 7,
    "AMARILLA": 1,
-   "ATP": 5,
+   "ATP": 6,
    "sae": 7
+  },
+  {
+   "fecha": "2026-09-26",
+   "ROJA": 1,
+   "AMARILLA": 0,
+   "ATP": 2,
+   "sae": 1
   }
  ],
  "escalamientos": [
@@ -690,6 +706,29 @@
    ]
   },
   {
+   "lugar": "Región de Atacama",
+   "region": "Atacama",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "16-09 16:53",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "19-09 07:09",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "26-09 02:09",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Antofagasta",
    "region": "Antofagasta",
    "sae": false,
@@ -734,27 +773,45 @@
      "estado": "VIGENTE"
     }
    ]
-  },
-  {
-   "lugar": "Región de Atacama",
-   "region": "Atacama",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "16-09 16:53",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "19-09 07:09",
-     "estado": "VIGENTE"
-    }
-   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "26-09 02:09",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03"
+  },
+  {
+   "ts": "26-09 01:52",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "nevadas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
+  },
+  {
+   "ts": "26-09 02:08",
+   "nivel": "ROJA",
+   "lugar": "Angol",
+   "tipo": "desborde",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1612"
+  },
+  {
+   "ts": "25-09 23:02",
+   "nivel": "ATP",
+   "lugar": "Región de Maule",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26"
+  },
   {
    "ts": "25-09 20:35",
    "nivel": "AMARILLA",
@@ -844,42 +901,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1608"
-  },
-  {
-   "ts": "25-09 11:17",
-   "nivel": "ROJA",
-   "lugar": "Pitrufquén",
-   "tipo": "crecida de río",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1606"
-  },
-  {
-   "ts": "25-09 10:36",
-   "nivel": "ROJA",
-   "lugar": "Angol",
-   "tipo": "desborde",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1605"
-  },
-  {
-   "ts": "25-09 02:06",
-   "nivel": "ROJA",
-   "lugar": "Santa Bárbara",
-   "tipo": "desborde",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1604"
-  },
-  {
-   "ts": "24-09 22:29",
-   "nivel": "ROJA",
-   "lugar": "Concepción",
-   "tipo": "crecida de río",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1603"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
