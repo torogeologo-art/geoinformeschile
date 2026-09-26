@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-26T22:37:08+00:00",
+ "generado": "2026-09-26T23:26:57+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 30,
  "alertas": [
+  {
+   "id": "2193634d1af4",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Los Lagos y la Dirección Meteorológica de Chile, durante la presente jornada se registraron precipitaciones intensas en un corto periodo de tiempo en la comuna de Calbuco, dejando calles y viviendas anegadas. Conforme al análisis técnico, el fenómeno se debió al paso de una nube de gran desarrollo vertical asociada a fuertes chubascos y tormentas eléctricas, la cual se generó al norte de la ciudad y se desplazó al Mar de Reloncaví. Cabe señalar que la Dirección Meteorológica de Chile (DMC) mantiene vigente el sig",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-26T19:43:03.033-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "5b5cdc143f5e",
    "nivel": "ATP",
@@ -213,20 +227,6 @@
    "url": "https://t.me/SenapredChile/1609",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "b899251251f5",
-   "nivel": "ATP",
-   "tipo": "aluvión",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A505-2 Probables Tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera, Chiloé y litoral interior. 25-09 26-09 Abrir aquí Asimismo, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Actualización de Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (desliz",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-25T13:17:05.055-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "90ab2418a98a",
