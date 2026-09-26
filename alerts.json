@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-26T20:52:50+00:00",
+ "generado": "2026-09-26T22:37:08+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 30,
  "alertas": [
+  {
+   "id": "5b5cdc143f5e",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy sábado 26 de septiembre, se informa que las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán registraron un sismo de largo periodo (LP) asociado a movimiento de fluidos al interior del sistema volcánico .&nbsp; Las cara",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-26T18:24:53.5353-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "0769f52fb3dc",
    "nivel": "ATP",
@@ -81,20 +95,6 @@
    "url": "https://t.me/SenapredChile/1612",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "5b5cdc143f5e",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy sábado 26 de septiembre, se informa que a las 23:20 horas, las estaciones de monitoreo instaladas en las inmediaciones del complejo volcánico Nevados de Chillán han registrado una explosión asociada al centro de emisión 3 (CE3), caracterizada por la emisión de materia",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-26T01:52:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "5521ac2ab6a8",
