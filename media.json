@@ -1,213 +1,21 @@
 {
- "generado": "2026-09-26T12:55:44+00:00",
- "desde": "2026-09-24T12:55:36Z",
+ "generado": "2026-09-26T14:15:49+00:00",
+ "desde": "2026-09-24T14:15:45Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "angol": {
-   "comuna": "Angol",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "peHZdlwILaE",
-     "url": "https://www.youtube.com/watch?v=peHZdlwILaE",
-     "titulo": "ALERTA PREVENTIVA EN ANGOL: ACTIVAN MENSAJE SAE POR DESBORDE DE ESTEROS Y CANALES",
-     "canal": "Los Confines",
-     "publicado": "2026-09-24T18:38:06Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "pitrufquen": {
-   "comuna": "Pitrufquén",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "fsbqVaf79Vw",
-     "url": "https://www.youtube.com/watch?v=fsbqVaf79Vw",
-     "titulo": "CDSC Fénix de Pitrufquén está en vivo",
-     "canal": "CDSC Fénix de Pitrufquén",
-     "publicado": "2026-09-26T12:40:45Z",
-     "live": true,
-     "score": 7.98,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "santa barbara": {
-   "comuna": "Santa Bárbara",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "xwlv78OjOZk",
-     "url": "https://www.youtube.com/watch?v=xwlv78OjOZk",
-     "titulo": "Live streaming di Webcam DANTA di Cadore - Dolomiti",
-     "canal": "Webcam DANTA",
-     "publicado": "2026-09-25T07:17:15Z",
-     "live": true,
-     "score": 5.53,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "gtP7T-K5Uww",
-     "url": "https://www.youtube.com/watch?v=gtP7T-K5Uww",
-     "titulo": "Río Biobío se desbordó en Santa Bárbara",
-     "canal": "tvnredbiobio",
-     "publicado": "2026-09-26T00:47:04Z",
-     "live": false,
-     "score": 6.99,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "concepcion": {
    "comuna": "Concepción",
    "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "7xPvA6BPxBs",
-     "url": "https://www.youtube.com/watch?v=7xPvA6BPxBs",
-     "titulo": "Club Concepción BB está en vivo",
-     "canal": "Club Concepción BB",
-     "publicado": "2026-09-26T12:11:00Z",
-     "live": true,
-     "score": 7.94,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "Y37RxpmExnc",
      "url": "https://www.youtube.com/watch?v=Y37RxpmExnc",
      "titulo": "EN DIRECTO | San Pedro de la Paz",
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-09-25T22:53:34Z",
      "live": true,
-     "score": -4.17,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "gorbea": {
-   "comuna": "Gorbea",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "94-fUpUq1f8",
-     "url": "https://www.youtube.com/watch?v=94-fUpUq1f8",
-     "titulo": "Gorbea bajo el agua: desborde de río inunda más de cien casas en La Araucanía | 24 Horas TVN Chile",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-09-25T15:14:49Z",
-     "live": false,
-     "score": 4.19,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "oLHdfaw5mlI",
-     "url": "https://www.youtube.com/watch?v=oLHdfaw5mlI",
-     "titulo": "Alerta en la Araucanía: Colapsa puente en Lautaro y desborde de río deja 130 casas bajo el agua",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-09-25T16:09:43Z",
-     "live": false,
-     "score": -2.73,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "Y37RxpmExnc",
-     "url": "https://www.youtube.com/watch?v=Y37RxpmExnc",
-     "titulo": "EN DIRECTO | San Pedro de la Paz",
-     "canal": "San Pedro de la Paz en Vivo",
-     "publicado": "2026-09-25T22:53:34Z",
-     "live": true,
-     "score": 8.83,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "oT05fnZWLP4",
-     "url": "https://www.youtube.com/watch?v=oT05fnZWLP4",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-09-25T23:51:14Z",
-     "live": true,
-     "score": -3.09,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "oLgfmfNEF1o",
-     "url": "https://www.youtube.com/watch?v=oLgfmfNEF1o",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-09-25T23:51:14Z",
-     "live": true,
-     "score": -3.09,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "la araucania": {
-   "comuna": "La Araucanía",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "oLHdfaw5mlI",
-     "url": "https://www.youtube.com/watch?v=oLHdfaw5mlI",
-     "titulo": "Alerta en la Araucanía: Colapsa puente en Lautaro y desborde de río deja 130 casas bajo el agua",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-09-25T16:09:43Z",
-     "live": false,
-     "score": 4.27,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "AyyTZNiBkeI",
-     "url": "https://www.youtube.com/watch?v=AyyTZNiBkeI",
-     "titulo": "Emergencia en Trovolhue por inundaciones por desborde de ríos: Al menos 70 viviendas afectadas",
-     "canal": "CHV Noticias",
-     "publicado": "2026-09-24T18:45:12Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "lanco": {
-   "comuna": "Lanco",
-   "region": "Los Ríos",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "uxzWWLkIySk",
-     "url": "https://www.youtube.com/watch?v=uxzWWLkIySk",
-     "titulo": "🔴🌧️ Frente de mal tiempo: Desborde de Río Leufucade provoca anegamiento en el sector rural de Lanco.",
-     "canal": "MeteoPangui Noticias",
-     "publicado": "2026-09-24T16:44:18Z",
-     "live": false,
-     "score": 3.0,
+     "score": -4.28,
      "verificado": false,
      "embeddable": true
     }
