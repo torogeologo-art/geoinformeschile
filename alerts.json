@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-26T09:54:12+00:00",
+ "generado": "2026-09-26T12:55:33+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 28,
+ "total_vigentes": 29,
  "alertas": [
+  {
+   "id": "c889c52d718e",
+   "nivel": "ATP",
+   "tipo": "otros",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario",
+   "descripcion": "En atención a los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , se encuentran vigentes las siguientes Resoluciones Exentas en la Región de Los Ríos: Resolución Exenta N° 1833 de 2026 Declaración de Emergencia Sanitaria, por la presencia del virus aviar de alta patogenicidad H5N1 (IAPP). Resolución Exenta N° 585 de 2026 Confirmación de presencia de virus aviar de alta patogenicidad H5N1 (IAPP) en la Región de Los Ríos. Activación de protocolos de vigilancia junto con formación del Centro de Operación Regional. Resolución Exenta N° 1404 de 2026 Dispone la despoblación,",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-26T09:24:54.5454-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "5724e479e783",
    "nivel": "ATP",
@@ -707,20 +721,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-16T18:51:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-zoosanitario-2026-06-17-17-41-08",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "4a6641f4a758",
-   "nivel": "ATP",
-   "tipo": "otros",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario",
-   "descripcion": "En atención a los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , se encuentran vigentes las siguientes Resoluciones Exentas en la Región de Los Ríos: Resolución Exenta N° 1833 de 2026 Declaración de Emergencia Sanitaria, por la presencia del virus aviar de alta patogenicidad H5N1 (IAPP). Resolución Exenta N° 585 de 2026 Confirmación de presencia de virus aviar de alta patogenicidad H5N1 (IAPP) en la Región de Los Ríos. Activación de protocolos de vigilancia junto con formación del Centro de Operación Regional. De acuerdo con el avance de la Emergencia en la región y pr",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-09-15T12:52:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
    "origen": "senapred_web",
    "regiones_extra": []
   },

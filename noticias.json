@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-26T07:46:53+00:00",
+ "generado": "2026-09-26T12:55:35+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -3112,6 +3112,17 @@
      "sector": null
     },
     {
+     "titulo": "Gobierno coordina apoyo en Lanco ante desborde del río Leufucade - diariosanjose.cl",
+     "medio": "diariosanjose.cl",
+     "fecha": "2026-09-25T18:44:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZE51Ull2QVkxR0JyakdfR00wRmR1cE5GbmV3Q29DM2REMVNTQlZHaV9HZnZPaTJvRUNHeWx0dkRiUE95SUk3REpzQWpsWmJIa2F2RUFMOFJ3QzM5eUdqMFp2cGdOYjlveFNPQXc3NDM1QUc5amNFMFhaY2FoMEt4UlctTktUQXg2bVdtaEdRdHdYUVY1dlRaeTdtNlBoaVRrWkpBN0dTMXBJSUdfZEhUMmRlT1hTeTZJTHc0aQ?oc=5",
+     "sector": {
+      "nombre": "rio Leufucade",
+      "lat": -39.49642,
+      "lon": -72.64524
+     }
+    },
+    {
      "titulo": "Cerca de 30 personas permanecen aisladas en Lanco por desborde del río Leufucade - Loncoche Informado",
      "medio": "Loncoche Informado",
      "fecha": "2026-09-24T17:30:49+00:00",
@@ -3173,13 +3184,6 @@
      "medio": "El Desconcierto",
      "fecha": "2026-09-23T08:17:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEc3NEZBcjE4VmJZS2NkMktvaXlxNHBwS1ZrRWk5dVpVRkNsMTBCX0ZheWJsWkJhNUdYSWxudVQxTWRUWlk2OTdMcHJEVEFXT0lMZW84Vk1hT1NYXzduSFU2UC13TDhuZDY0Zno4OG1YNFNTZ2FDRmR0NllNQnVuZFJ4VzhoQlFRNEgwRy01U1RxX1NYSHRzbkg4cXFjNjlFXzV2Rmh0cElzS21CU3YwQ21RbnV2NlZXT2FIWll5VEhFQVFqTjlXa3VkZFM5dw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Más de 300 deportistas darán vida a la tercera edición de la Regata Eberhard Kossmann en el río Calle-Calle de Valdivia - noticiaslosrios.cl",
-     "medio": "noticiaslosrios.cl",
-     "fecha": "2026-09-03T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVzdKR0dUcUdRWFdETVM1QTRVYzZDNjZsOHZxZlZUZ25ESUVzMU9RM0hYN1RTbEU3U1UtTk44dXBWSmxWNzhnOFZ2LVEtcDNBaW5YSzMzNUFvRldGcHB3anl5RExWVEdfcE1seUJqc0hPY2hSX2lVLWtTWlRfSWFHUGpwNEktR0gzazhURk5FZ25Nb08tR3p2N0hBVHdqOFp5X3l1a1AxRUp4bVlCTEN5R1IwckczUGh6UTNyNjJmUndMZEphaGhIRWVqRHdRaDVXdy1YWXc2OFJZLTV6TGQ5NF9FUEtjLW9sM2xlRElyX3hRZmhBXzFjNU04N2I?oc=5",
      "sector": null
     }
    ]

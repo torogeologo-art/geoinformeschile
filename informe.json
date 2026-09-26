@@ -1,18 +1,18 @@
 {
- "generado": "2026-09-26T07:47:03+00:00",
+ "generado": "2026-09-26T12:55:44+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "16-09-2026",
   "hasta": "26-09-2026"
  },
  "totales": {
-  "alertas": 114,
+  "alertas": 115,
   "sae": 17,
   "comunas": 16,
   "regiones": 15,
   "por_nivel": {
    "AMARILLA": 20,
-   "ATP": 74,
+   "ATP": 75,
    "ROJA": 20
   },
   "por_tipo": [
@@ -42,7 +42,7 @@
    ],
    [
     "otros",
-    1
+    2
    ],
    [
     "actividad volcánica",
@@ -522,6 +522,15 @@
     "ts": "16-09",
     "comuna_link": "",
     "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "26-09",
+    "comuna_link": "",
+    "region_link": "los rios"
    }
   ],
   "actividad volcánica": [
@@ -539,7 +548,7 @@
  "vigentes": {
   "ROJA": 20,
   "AMARILLA": 3,
-  "ATP": 5,
+  "ATP": 6,
   "regiones_roja": [
    "Biobío",
    "La Araucanía",
@@ -621,7 +630,7 @@
    "fecha": "2026-09-26",
    "ROJA": 1,
    "AMARILLA": 0,
-   "ATP": 2,
+   "ATP": 3,
    "sae": 1
   }
  ],
@@ -702,6 +711,11 @@
      "nivel": "ROJA",
      "ts": "24-09 09:34",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "26-09 09:24",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -776,6 +790,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "26-09 09:24",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "otros",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03"
+  },
   {
    "ts": "26-09 02:09",
    "nivel": "ATP",
@@ -892,15 +915,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1609"
-  },
-  {
-   "ts": "25-09 13:12",
-   "nivel": "ROJA",
-   "lugar": "Nacimiento",
-   "tipo": "crecida de río",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1608"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
