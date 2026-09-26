@@ -1,13 +1,29 @@
 {
- "generado": "2026-09-26T19:53:34+00:00",
+ "generado": "2026-09-26T20:52:50+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 29,
+ "total_vigentes": 30,
  "alertas": [
+  {
+   "id": "0769f52fb3dc",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A506 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. 29-09 30-09 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por viento para la provincia de Parinacota y la comuna de Camarones",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-26T17:00:40.4040-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-09-26-17-01-44",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
   {
    "id": "5c6e1484b5c8",
    "nivel": "ROJA",
