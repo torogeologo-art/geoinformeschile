@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-26T14:15:44+00:00",
+ "generado": "2026-09-26T17:01:45+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 29,
  "alertas": [
+  {
+   "id": "5c6e1484b5c8",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Se cancela Alerta Roja para la Región de Biobío por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones de la red hidrométrica ubicadas en “río Curanilahue en Curanilahue” , “río Pichilo en Pichilo” , “río Biobío en Puente Piulo” y “río Lía en Las Corrientes” , mantienen una tendencia al descenso en su caudal, y adicionalmente no se prevén precipitaciones de mayor intensidad durante los próximos días en la región. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED cancela la Alerta Roja Regional por desborde ,",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-26T13:23:35.3535-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "c889c52d718e",
    "nivel": "ATP",
@@ -417,18 +431,17 @@
    "sae": true
   },
   {
-   "id": "64964dd27803",
+   "id": "e8c83e613401",
    "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se modifica cobertura de Alerta Roja para la Región de Biobío por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , las estaciones de la red hidrométrica ubicadas en “río Curanilahue en Curanilahue” , “río Pichilo en Pichilo” , “río Biobío en Puente Piulo” y “río Lía en Las Corrientes” , de la región indican un incremento gradual y sostenido en sus caudales, lo que supone un aumento del riesgo para la población cercana a estos cursos de agua. A su vez, de acuerdo con las intensas precipitaciones registradas y pronóstico para las próximas horas, se prevé la superación de umbrales de alerta roja en los distintos cursos de agua",
+   "tipo": "crecida de río",
+   "titulo": "¡ATENCIÓN! EVITE ribera del Río Lebu por alerta de crecida en Comuna de Lebu, Región de Biobío.",
+   "descripcion": "¡ATENCIÓN! EVITE ribera del Río Lebu por alerta de crecida en Comuna de Lebu, Región de Biobío.\n\nSENAPRED activó mensajería #SAE preventivo. Mantente informado a través de canales oficiales.",
    "region": "Biobío",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-09-24T14:10:22.2222-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57",
-   "origen": "senapred_web",
-   "regiones_extra": [],
+   "ts": "2026-09-24T17:30:46+00:00",
+   "url": "https://t.me/SenapredChile/1595",
+   "origen": "telegram",
    "sae": true
   },
   {

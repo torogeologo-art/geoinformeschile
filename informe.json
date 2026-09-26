@@ -1,19 +1,19 @@
 {
- "generado": "2026-09-26T12:55:44+00:00",
+ "generado": "2026-09-26T17:02:17+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "16-09-2026",
   "hasta": "26-09-2026"
  },
  "totales": {
-  "alertas": 115,
-  "sae": 17,
+  "alertas": 116,
+  "sae": 18,
   "comunas": 16,
   "regiones": 15,
   "por_nivel": {
    "AMARILLA": 20,
    "ATP": 75,
-   "ROJA": 20
+   "ROJA": 21
   },
   "por_tipo": [
    [
@@ -25,11 +25,11 @@
     25
    ],
    [
-    "evento meteorológico",
-    13
+    "desborde",
+    14
    ],
    [
-    "desborde",
+    "evento meteorológico",
     13
    ],
    [
@@ -253,44 +253,6 @@
     "region_link": "maule"
    }
   ],
-  "evento meteorológico": [
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "16-09",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "21-09",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "23-09",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Magallanes y de la Antártica Chilena",
-    "region": "Magallanes y de la Antártica Chilena",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "20-09",
-    "comuna_link": "",
-    "region_link": "magallanes y de la antartica chilena"
-   }
-  ],
   "desborde": [
    {
     "lugar": "Región de La Araucanía",
@@ -305,7 +267,7 @@
     "lugar": "Región de Biobío",
     "region": "Biobío",
     "nivel": "ROJA",
-    "sae": false,
+    "sae": true,
     "ts": "24-09",
     "comuna_link": "",
     "region_link": "biobio"
@@ -399,6 +361,44 @@
     "ts": "25-09",
     "comuna_link": "nueva imperial",
     "region_link": "la araucania"
+   }
+  ],
+  "evento meteorológico": [
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "16-09",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "21-09",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "23-09",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "20-09",
+    "comuna_link": "",
+    "region_link": "magallanes y de la antartica chilena"
    }
   ],
   "crecida de río": [
@@ -617,7 +617,7 @@
    "ROJA": 12,
    "AMARILLA": 4,
    "ATP": 3,
-   "sae": 9
+   "sae": 10
   },
   {
    "fecha": "2026-09-25",
@@ -628,13 +628,46 @@
   },
   {
    "fecha": "2026-09-26",
-   "ROJA": 1,
+   "ROJA": 2,
    "AMARILLA": 0,
    "ATP": 3,
    "sae": 1
   }
  ],
  "escalamientos": [
+  {
+   "lugar": "Región de Biobío",
+   "region": "Biobío",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "18-09 15:02",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "24-09 06:28",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "24-09 09:24",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "24-09 18:52",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "26-09 13:23",
+     "estado": "CANCELADA"
+    }
+   ]
+  },
   {
    "lugar": "Región de La Araucanía",
    "region": "La Araucanía",
@@ -659,34 +692,6 @@
     {
      "nivel": "AMARILLA",
      "ts": "24-09 16:47",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Biobío",
-   "region": "Biobío",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "18-09 15:02",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "24-09 06:28",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "24-09 09:24",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "24-09 18:52",
      "estado": "VIGENTE"
     }
    ]
@@ -790,6 +795,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "26-09 13:23",
+   "nivel": "ROJA",
+   "lugar": "Región de Biobío",
+   "tipo": "desborde",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57"
+  },
   {
    "ts": "26-09 09:24",
    "nivel": "ATP",
@@ -906,15 +920,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1610"
-  },
-  {
-   "ts": "25-09 13:37",
-   "nivel": "ROJA",
-   "lugar": "Mariquina",
-   "tipo": "desborde",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1609"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

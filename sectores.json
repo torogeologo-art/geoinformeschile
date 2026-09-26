@@ -1,51 +1,7 @@
 {
- "generado": "2026-09-26T12:55:33+00:00",
+ "generado": "2026-09-26T17:01:45+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
-  {
-   "nombre": "río Curanilahue",
-   "lat": -37.46592,
-   "lon": -73.40537,
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "sae": true,
-   "lugar": "Biobío",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57",
-   "ts": "2026-09-24T14:10"
-  },
-  {
-   "nombre": "río Pichilo",
-   "lat": -37.30311,
-   "lon": -73.17435,
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "sae": true,
-   "lugar": "Biobío",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57",
-   "ts": "2026-09-24T14:10"
-  },
-  {
-   "nombre": "río Biobío",
-   "lat": -37.68965,
-   "lon": -71.97214,
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "sae": true,
-   "lugar": "Biobío",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57",
-   "ts": "2026-09-24T14:10"
-  },
-  {
-   "nombre": "río Lía",
-   "lat": -37.25015,
-   "lon": -73.30453,
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "sae": true,
-   "lugar": "Biobío",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57",
-   "ts": "2026-09-24T14:10"
-  },
   {
    "nombre": "río Calle Calle",
    "lat": -39.79203,

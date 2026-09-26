@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-26T12:55:35+00:00",
+ "generado": "2026-09-26T17:02:13+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -2655,6 +2655,13 @@
    "comuna": "Nacimiento",
    "noticias": [
     {
+     "titulo": "Crecida de los ríos inunda una veintena de viviendas en sector San Gregorio de Nacimiento - Radar BioBio",
+     "medio": "Radar BioBio",
+     "fecha": "2026-09-26T16:03:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM2FSdmR1SWFVd1NuRW42Q1BMQjJfQS1kQVdibmxLb3ltWllPYjJkaU5FZHpaZHh5bFFLWE1DT3hyb2hvMmR0Q0tocVpNZm5tMHlmVXBhTVBhTXVCa2M3Q0ZhcXpITDBQWkhzQ0kxb29ibUFBS2ZDcUR3RGtvYThEWlZVM1U3MV9iZHhiOC1WTk1YZXZfM1BMTUhHOGYxMm42Zl85Mnp3bW0tMFdWWmRnb3dFRlVKZldXUURMaTVqUzBXLWllTXQzaTE1MzV5dw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred pide evitar riberas de ríos y esteros en Nacimiento por alerta de crecida - latribuna.cl",
      "medio": "latribuna.cl",
      "fecha": "2026-09-25T18:22:06+00:00",
@@ -2715,13 +2722,6 @@
      "medio": "latribuna.cl",
      "fecha": "2026-08-03T15:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLVJBR2FJcm5kSDlWbFZMV2FKQ2huN19RbnR0OGpYT1FNOE10VnljU3hKUkdzMThjOFNQd0hBUmxKS001SnY4RnMtdnhhLWhvcURGd2JlcW8xTXJ2bWFLZE1hLWk1M0tJTl85TUhzdUFkYjBwU01CbzFRNUJOU19vWVJOdnB3Z1FOV2tYUV9CdzFJVndxd2lVcFE1eXlORkJHMkFUR0hJeV9JaEd6RkM3Y2MtZks0UENhNzFZb2FBak82NHZzZUxBaUtHVW0xV1ZBOTNrMtIB1AFBVV95cUxPLVJBR2FJcm5kSDlWbFZMV2FKQ2huN19RbnR0OGpYT1FNOE10VnljU3hKUkdzMThjOFNQd0hBUmxKS001SnY4RnMtdnhhLWhvcURGd2JlcW8xTXJ2bWFLZE1hLWk1M0tJTl85TUhzdUFkYjBwU01CbzFRNUJOU19vWVJOdnB3Z1FOV2tYUV9CdzFJVndxd2lVcFE1eXlORkJHMkFUR0hJeV9JaEd6RkM3Y2MtZks0UENhNzFZb2FBak82NHZzZUxBaUtHVW0xV1ZBOTNrMg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Más de 250 personas permanecen aisladas tras el sistema frontal en Biobío - latribuna.cl",
-     "medio": "latribuna.cl",
-     "fecha": "2026-08-03T15:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRHdnMnZfbWdqNGtuZFB0NUpVU3gxNHNuZUNqN0JIWnRQZ21zYXg3MFZpcHRnb2JLa2dKQlN2NXAxcGtMWWYzRW1GSm9tSGtMZHBNNWpuZlhSdWI3Y3N2ZW9xa1lZQ0NVTnRybnZES0FQQ3EtRFM4VnVwRFctZlpkazE4bVNoSW1VWDd1dk5ZWWVqY1U0TnpPVkswQkZ3Z3BnV1hPNmFuei14ZnljWklJZW1yWlhMbk1mcGIxdVdWSEFLNUJTS0NHbnZvSkXSAdQBQVVfeXFMTy1SQUdhSXJuZEg5VmxWTFdhSkNobjdfUW50dDhqWE9RTThNdFZ5Y1N4SlJHczE4YzhTUHdIQVJsSktNNUp2OEZzLXZ4YS1ob3FERndiZXFvMU1ydm1hS2RNYS1pNTNLSU5fOU1Ic3VBZGIwcFNNQm8xUTVCTlNfb1lSTnZwd2dRTldrWFFfQncxSVZ3cXdpVXBRNXl5TkZCRzJBVEdISXlfSWhHekZDN2NjLWZLNFBDYTcxWW9hQWpPNjR2c2VMQWlLR1VtMVdWQTkzazI?oc=5",
      "sector": null
     }
    ]
@@ -3806,6 +3806,13 @@
      "sector": null
     },
     {
+     "titulo": "Alerta Amarilla en cinco comunas del Biobío: revisa las zonas afectadas por el sistema frontal - latribuna.cl",
+     "medio": "latribuna.cl",
+     "fecha": "2026-07-02T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVmtNSTk3UlNfM2NORDJoNExjeDJ1b01OLTdGUndhWG5iOGNnZWpJVmVteGtmRkFlSXp2QXpna2ZGNlpzZF9GMGRsVWRJdEd5cXlEQU1IaTRUc3ItUzJKMms1T3pQZkZnYkdLaFJZc29qTTdZSVRXSkZ6eGlNLWRRQW5DLXVnODNXbjNnM2tSMEtTbF9oVXNrME5NMUFxSWNJN2Z0Mk9tUjRpY1FLVTZBZXlFQ3c2Q1p4Z04xU2tEdzNIWTBPQjlOYjF6SGoyQ2pPV2RZVmhySFJaMGFyTmRucDFPby0tLXg2enBhOXp3?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Quilaco suspende todas las actividades deportivas en espacios públicos por fuertes vientos - latribuna.cl",
      "medio": "latribuna.cl",
      "fecha": "2026-07-01T07:00:00+00:00",
@@ -3817,13 +3824,6 @@
      "medio": "latribuna.cl",
      "fecha": "2024-08-06T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPLTNDVmFDaTFIT0pnSjVSWEhYQXNScUxfYWhoYjh0bHVLU05RUDRzamdNQnVKckM4bDlvUm4wQjRDNUo1aWNvR0RPRy1JSV93OUxDOE9IMjJiMmN5WVZpaHJ6QkF4RndIX0E1WUdLOGRzMnd4dnBQbmRUYTZLVHZFQXg1Q0pGS1dwZFpYb0c1QlBWX0NpeVJtN2I4SmlmSEthV1JwRk1XaDY3ZkJTellEZ0RIdlgtTThYOXlEdXM0bm9DTy1OMTdWWFhfTVBERXdZQVhuQjg3ZE1WLXlqMkFPclZNWUxLQ2ZKMDJkaXh5RVJ6NF9mMDVNSUZ30gGCAkFVX3lxTE9LUEhjNGoyNjVSQjVScks5aE41S0xkNFJheEpWaTZWYklKQTBKNHJiTXBaNi1OOVlPdEhqTk1Xdkt6b25DUWw2ZUJDdW11RnVzTTBoMFRsamRMWGFQM2U3aUMtRkdEbXVKTi1RaUNXQU8wTzRVMTVMSjA5b0l3SFNSckF0TmM5bHJIT2VuQTJ6Q3ByOXpRa04wRFhpVnc5US1CVUNjUkoyM0UtbU9nWmNsVGtQd2NIZEFLTTZxUEw5eGh3STlJMml6S012Tnp4Wk5lenQwclNkTjJsMTR5S29DNUtfVnd6TnBlUG9RaWZsRHFNd3RycXV2cy1zN1dxdWtoZw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Matrimonio de Tucapel pide ayuda: \"En cualquier momento se puede salir el río\" - latribuna.cl",
-     "medio": "latribuna.cl",
-     "fecha": "2024-06-06T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNzA5eDhMYXdfMFNaaWppT0xkY2hXdUhETnVia1Jtd3lGMWhzbDF5VmE3ek9pUDlfa3VUOE1ub1ViaTBJNmM4OWZRcUNRcDlkR283TFd2TmdLTmUxRGF0a0VSZVdCWHp0Z2pTbHdDdVBldk96SUVBaDd2dExxSndUSVh6UXRQemFJWG1aX2JRZlZQY1FCcHFLVUZGR3U3ZklBOENfeS1YRHg2Nm5aWWRnQ0VKQ2VhNnZnbDFlNFhlVGxOVU1hNlJFbGJUVTl4QlXSAdcBQVVfeXFMTTQ0QmE2T2RxWHF1S0hhM296X2EwVS1qUFJHUEVMSEVPU3FwTXJITS1lZWJJenhfb3BtQmpjZzFKUnUwd3RBcTc1UkNHS2VkWXVOb1pxSkI2LU52VkVKQW9DVEplbUxNZmNJLTN4ZzljTWRCN3FhVlF5MjFSNDkwRjg1NndURXJYYThjWUFJNG9oZmQzTDhVZEEwNW50ZVhQa2hqdWprWUhwYlVveVBmWVBhT3ZidVNaUzk2NGl1UUtrbWlndWlLSXYyOEpfYUI0ejNrbXppYnc?oc=5",
      "sector": null
     }
    ]
@@ -4119,6 +4119,13 @@
      "sector": null
     },
     {
+     "titulo": "MOP aborda solución en socavón de Ruta Pitrufquén – Toltén - mop.gob.cl",
+     "medio": "mop.gob.cl",
+     "fecha": "2026-08-03T20:28:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2VuNDZWWjg2dUlMNjl5QjNXclpLYVFCd2piN2E3OE5VUDJUU21qNFd3cmxhTWFhb0RWQWRBVVhTV2p6QnFmWjhwUDlYWFlqdTBYYjlSaEJvN2JQYlpGUnE4SWN6MEFQdUxsOUxIbmQzR0k2QTY5cXhlWnBQNkttWHNxbUdodzg?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "MOP trabaja a toda máquina en obras de emergencia en ruta S-70 que une Pitrufquén y Toltén - araucanianoticias.cl",
      "medio": "araucanianoticias.cl",
      "fecha": "2026-04-22T07:00:00+00:00",
@@ -4255,6 +4262,13 @@
      "sector": null
     },
     {
+     "titulo": "Más de 200 casas con daños por inundaciones en 4 comunas con Alerta Roja en Los Ríos - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2024-06-28T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa05aNl90dEZBV3BPLU1VT2FKaElHMUhaSjl0TkxEVDdHeEZDeXlyb3NyTlFkSlpPZk9HOTR2Nzd2c3dNdW04VGF3bVo4dFpRRno3LUJNSTdleFk3TE1fQ0l4X2xxdGE3MXFCbUNNX0d6VG82SFAxMFUwSEZXUjU3TDh6N2pqTURQMUlLbVY2OGkwMWU0US0yS2VTX3l1TGFhcTUxS1Q5bGducldWSjludmdiQjZFc3IyS3JBLUV2QjV5RVlJMHlKVGtqWjBoSHBxTjFFX0VfcVJmWF9DMzg0LUM3Vjd4RGw5RTZPQWhLb2hZelF6cEUxc9IB_gFBVV95cUxQNWdOakpZRDhCTzJQakxJU2hTelVTeFFVQWJkTmdYVVBWVGxXNk9yZlZXR2VFeDd4MVU5Ml9PdXVlVUxIeHlHWERZb2RDQWhjcEx4VE9yZkE2alM5aDBkQXBJQmZpLTYyTmd1Y2ZiNGozNXF4YklyaExzQTlrOC1IN3k2UWVWVTgtZHRQektXMkRNa1dVSDdnN1daQlI5MUhkdlB1cy1TR0QzZmhxcUlKLVBkWlZXOTRKSWVJUDI1S2l2SExEOXNmM2wyUGZxak5kc2Ftc1U2OFlRaXVrTXN0V2dfbkFpYmp2XzFIRnQ1ZTM2aGhzUXB5QnVPVzEwUQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Declaran Alerta Roja para Valdivia, Lanco, Panguipulli y Mariquina por desborde - SoyChile.cl",
      "medio": "SoyChile.cl",
      "fecha": "2024-06-27T07:00:00+00:00",
@@ -4273,13 +4287,6 @@
      "medio": "diariosanjose.cl",
      "fecha": "2024-06-22T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSml2TUxxLTRlNDhvNzM1VjJHSVNjRndOdW5LR2xZX3pGMlY3bEVLbXBWNVozS3g0b1A3alRGTV9seDBLWVNsVGEtdlpQR2tEQk1STGowVW5ncl94VWhCSktUUEJhN1p1enM3M1VhMi1XOVVuU3ZkMUFjMDFWRHVHVV80OFdHSzlOYUYyZ2lzampiQ3l3c3FJZEZjRElfWW9Ga0l6XzNSSTIxYXFaSUFHM1JXbnlUWU5HbE5jR1lyOWRBUDQ1eklZc3lVVTFzTDJfa2Rn?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Nuevo balance de sistema frontal en Los Ríos arroja más de 60 damnificados - Diario de Valdivia",
-     "medio": "Diario de Valdivia",
-     "fecha": "2024-06-22T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU3FjdzNldlRzTVA3bU1hTFItTHlKYm5wNU1keFlQVEQyVzVsWWlLeFhuTGhDMkpkWmlDWnJRTVFNMkVwRDJKSVR3MG5xUklWTC02MUpXdHlheTMwX2VsUGZWM2I2SlZQNUktRVdzbUZ3Q0hyejRkRmJCYVZBcGdSbDl1SmlfQlRUXzhybzNBLXpfQmJYWFNHbGhzS0xycHFRN1NGdEJlVTJWT2dmbXZfRWVmZWJaVzNqVnNrb09ZcW5BTXhmRXlQVng3RUppdw?oc=5",
      "sector": null
     }
    ]
