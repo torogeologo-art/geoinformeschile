@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-25T23:37:07+00:00",
+ "generado": "2026-09-26T00:03:51+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 28,
  "alertas": [
+  {
+   "id": "b7ae2a35f965",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por altas temperaturas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace A501-2 Altas temperaturas en precordillera de la región. 25-09 27-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por altas temper",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-25T20:35:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "f61269681fb3",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas , que se encuentra vigente desde el 21 de septiembre y hasta que las condiciones así lo ameriten. Esta alerta se constituye co",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-25T20:29:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-altas-temperaturas-2026-09-21-19-49-58",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "2dea682155c6",
    "nivel": "ATP",
@@ -451,20 +479,6 @@
    "regiones_extra": []
   },
   {
-   "id": "a70a1348a6be",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se modifica la cobertura de la Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace A501-1 Altas temperaturas en pampa y precordillera salar de la región. 24-09 26-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atac",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-23T17:27:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-altas-temperaturas-2026-09-21-19-49-58",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "8c7b99a196b4",
    "nivel": "ATP",
    "tipo": "viento",
@@ -517,20 +531,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-21T19:57:54.5454-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-09-19-21-21-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "af8c4bd14e9f",
-   "nivel": "AMARILLA",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por altas temperaturas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (D MC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace A501 Altas temperaturas en precordillera de la región. 24-09 26-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por altas temperatura",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-21T19:00:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1283,34 +1283,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-27T10:44:34.3434-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-pinto-coihueco-chillan-y-chillan-viejo-por-crecida-2026-08-26-05-35-12",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "9cea9c0411dd",
-   "nivel": "ATP",
-   "tipo": "marejadas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Isla de Pascua por marejadas anormales",
-   "descripcion": "De acuerdo con la información proporcionada por el Centro Meteorológico Marítimo de Valparaíso, ha finalizado la vigencia del Aviso N°39 por marejadas anormales en el sector de Isla de Pascua de la Región de Valparaíso. Lo anterior, debido al debilitamiento de las condiciones que lo originaron. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la Provincia de Isla de Pascua por marejadas anormales, que se mantuvo vigente desde el 22 de agosto de 2026.",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-26T20:25:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-08-22-17-35-24",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "c9e774e593e0",
-   "nivel": "AMARILLA",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección Meteorológica de Chile y por los distintos organismos técnicos competentes, que indican una disminución de las condiciones de amenaza y por cuanto no se mantienen avisos, alertas o pronósticos que indíquenla inminencia de un fenómeno meteorológico de intensidad tal que requiera sostener una condición reforzada de alistamiento y movilización regional de recursos. Del mismo modo, las situaciones de afectación de viviendas, interrupciones de conectividad y otras consecuencias derivadas del evento, se encuentran identificadas, atendidas o e",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-26T12:47:24.2424-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },

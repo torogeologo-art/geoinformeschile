@@ -1,6 +1,25 @@
 {
- "generado": "2026-09-25T23:37:38+00:00",
- "desde": "2026-09-23T23:37:33Z",
+ "generado": "2026-09-26T00:03:56+00:00",
+ "desde": "2026-09-24T00:03:52Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "lanco": {
+   "comuna": "Lanco",
+   "region": "Los Ríos",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "uxzWWLkIySk",
+     "url": "https://www.youtube.com/watch?v=uxzWWLkIySk",
+     "titulo": "🔴🌧️ Frente de mal tiempo: Desborde de Río Leufucade provoca anegamiento en el sector rural de Lanco.",
+     "canal": "MeteoPangui Noticias",
+     "publicado": "2026-09-24T16:44:18Z",
+     "live": false,
+     "score": 3.39,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
