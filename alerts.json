@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-27T20:12:12+00:00",
+ "generado": "2026-09-27T21:09:03+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -9,15 +9,15 @@
  "total_vigentes": 32,
  "alertas": [
   {
-   "id": "7febef4ac76a",
+   "id": "2b280f5384ac",
    "nivel": "AMARILLA",
    "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por evento meteorológico",
-   "descripcion": "​ De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A501-2 Altas temperaturas en precordillera. 25-09 27-09 Abrir Aquí Aviso A509 Viento normal a moderado en el litoral de la Provincia de Huasco, con probabilidad de tormentas de arena. 28-09 30-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED modifica el eve",
+   "titulo": "Se modifica cobertura y Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar, Alto del Carmen, Huasco y Freirina por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A501-2 Altas temperaturas en precordillera. 25-09 27-09 Abrir Aquí Aviso A509 Viento normal a moderado en el litoral de la Provincia de Huasco, con probabilidad de tormentas de arena. 28-09 30-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED modifica el even",
    "region": "Atacama",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-09-27T17:02:26.2626-03:00",
+   "ts": "2026-09-27T17:11:04.044-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
    "origen": "senapred_web",
    "regiones_extra": []
