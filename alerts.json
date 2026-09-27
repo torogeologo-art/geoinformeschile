@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-26T23:26:57+00:00",
+ "generado": "2026-09-27T00:56:02+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -1314,34 +1314,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-29T17:39:45.4545-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-08-21-15-28-01",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "13005f074ca7",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta, debido al debilitamiento de las condiciones que lo originaron. Alertamiento Pronóstico Enlace Aviso A449 Altas temperaturas en pampa. Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por altas temperaturas para las comunas de Antofagasta, Sierra Gorda y María Elena, que se",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-27T21:31:51.5151-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-08-24-20-55-53",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "23a2108522d4",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para las comunas de Pinto, Coihueco, Chillán y Chillán Viejo por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “Río Chillán en Esperanza N°2” indica una disminución del caudal, alcanzando valores de umbral azul , lo que supone una disminución del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida para las comunas de Pinto, Coihueco, Chillán y Chillán Viejo, que se mantuvo vigente desde el 26 de agosto de 2026.",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-27T10:44:34.3434-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-pinto-coihueco-chillan-y-chillan-viejo-por-crecida-2026-08-26-05-35-12",
    "origen": "senapred_web",
    "regiones_extra": []
   },
