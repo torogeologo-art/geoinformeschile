@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-27T17:12:30+00:00",
- "desde": "2026-09-25T17:12:26Z",
+ "generado": "2026-09-27T17:46:26+00:00",
+ "desde": "2026-09-25T17:46:21Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "angol": {
@@ -15,38 +15,9 @@
      "canal": "Mewlen Angol",
      "publicado": "2026-09-27T17:01:32Z",
      "live": true,
-     "score": 7.98,
+     "score": 7.94,
      "verificado": false,
      "embeddable": true
-    }
-   ]
-  },
-  "santa barbara": {
-   "comuna": "Santa Bárbara",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "OJGiGvev-lY",
-     "url": "https://www.youtube.com/watch?v=OJGiGvev-lY",
-     "titulo": "UC Santa Barbara Gauchos Vs. CSU Bakersfield LiveStreaming Volleyball 🔴 𝙉-𝘾-𝘼-𝘼 26-Sep",
-     "canal": "XABSportSpectraLive 63",
-     "publicado": "2026-09-26T17:40:46Z",
-     "live": true,
-     "score": 6.04,
-     "verificado": false,
-     "embeddable": false
-    },
-    {
-     "id": "9hbCT-OhxXs",
-     "url": "https://www.youtube.com/watch?v=9hbCT-OhxXs",
-     "titulo": "UC Santa Barbara Gauchos Vs. Sacramento State Hornets Live Soccer 🔴 𝙉-𝘾-𝘼-𝘼 26-Sep",
-     "canal": "BPBTheSportSpotlight 86",
-     "publicado": "2026-09-26T17:16:21Z",
-     "live": true,
-     "score": 6.01,
-     "verificado": false,
-     "embeddable": false
     }
    ]
   }
