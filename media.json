@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-27T13:04:48+00:00",
- "desde": "2026-09-25T13:04:42Z",
+ "generado": "2026-09-27T17:12:30+00:00",
+ "desde": "2026-09-25T17:12:26Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "angol": {
@@ -9,11 +9,11 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "o4lv7Q0RCxQ",
-     "url": "https://www.youtube.com/watch?v=o4lv7Q0RCxQ",
+     "id": "dDt1FX2x9Sc",
+     "url": "https://www.youtube.com/watch?v=dDt1FX2x9Sc",
      "titulo": "Mewlen Angol está en vivo",
      "canal": "Mewlen Angol",
-     "publicado": "2026-09-27T12:51:52Z",
+     "publicado": "2026-09-27T17:01:32Z",
      "live": true,
      "score": 7.98,
      "verificado": false,
@@ -27,44 +27,26 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "gtP7T-K5Uww",
-     "url": "https://www.youtube.com/watch?v=gtP7T-K5Uww",
-     "titulo": "Río Biobío se desbordó en Santa Bárbara",
-     "canal": "tvnredbiobio",
-     "publicado": "2026-09-26T00:47:04Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "oT05fnZWLP4",
-     "url": "https://www.youtube.com/watch?v=oT05fnZWLP4",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-09-25T23:51:14Z",
+     "id": "OJGiGvev-lY",
+     "url": "https://www.youtube.com/watch?v=OJGiGvev-lY",
+     "titulo": "UC Santa Barbara Gauchos Vs. CSU Bakersfield LiveStreaming Volleyball 🔴 𝙉-𝘾-𝘼-𝘼 26-Sep",
+     "canal": "XABSportSpectraLive 63",
+     "publicado": "2026-09-26T17:40:46Z",
      "live": true,
-     "score": -5.0,
+     "score": 6.04,
      "verificado": false,
-     "embeddable": true
+     "embeddable": false
     },
     {
-     "id": "oLgfmfNEF1o",
-     "url": "https://www.youtube.com/watch?v=oLgfmfNEF1o",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-09-25T23:51:14Z",
+     "id": "9hbCT-OhxXs",
+     "url": "https://www.youtube.com/watch?v=9hbCT-OhxXs",
+     "titulo": "UC Santa Barbara Gauchos Vs. Sacramento State Hornets Live Soccer 🔴 𝙉-𝘾-𝘼-𝘼 26-Sep",
+     "canal": "BPBTheSportSpotlight 86",
+     "publicado": "2026-09-26T17:16:21Z",
      "live": true,
-     "score": -5.0,
+     "score": 6.01,
      "verificado": false,
-     "embeddable": true
+     "embeddable": false
     }
    ]
   }
