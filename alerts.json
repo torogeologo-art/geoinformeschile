@@ -1,24 +1,52 @@
 {
- "generado": "2026-09-27T21:09:03+00:00",
+ "generado": "2026-09-27T23:07:04+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 32,
+ "total_vigentes": 30,
  "alertas": [
   {
-   "id": "2b280f5384ac",
-   "nivel": "AMARILLA",
+   "id": "f74fcd61f4ee",
+   "nivel": "ATP",
    "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura y Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar, Alto del Carmen, Huasco y Freirina por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A501-2 Altas temperaturas en precordillera. 25-09 27-09 Abrir Aquí Aviso A509 Viento normal a moderado en el litoral de la Provincia de Huasco, con probabilidad de tormentas de arena. 28-09 30-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED modifica el even",
+   "titulo": "Se modifica cobertura y evento de Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A509 Viento normal a moderado en el litoral de la Provincia de Huasco, con probabilidad de tormentas de arena. 28-09 30-09 Abrir Aquí Por otra parte, debido al debilitamiento de las condiciones que lo originaron ha sido cancelado el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Enlace Aviso A501-2 Altas temperaturas en precordillera. Abrir",
    "region": "Atacama",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-09-27T17:11:04.044-03:00",
+   "ts": "2026-09-27T19:13:37.3737-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "3994088d9bb1",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A507 Probables tormentas eléctricas en valle, precordillera, Chiloé y litoral interior 27-09 27-09 Abrir aquí Aviso A510 Probables tormentas eléctricas en valle, precordillera, Chiloé, Litoral Interior y Cordillera Austral. 28-09 28-09 Abrir aquí Por otra parte, conforme a lo indicado en el Informe de Amenaza Meteorológica emitido el día de hoy, los montos estima",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-27T19:07:53.5353-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "531c63fe29b8",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta, debido al debilitamiento de las condiciones meteorológicas que lo originaron. Alertamiento Pronóstico Enlace A501-2 Altas temperaturas en pampa y precordillera salar. Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elen",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-27T19:00:28.2828-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-altas-temperaturas-2026-09-21-19-49-58",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -55,20 +83,6 @@
    ]
   },
   {
-   "id": "63cfd33a2996",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A506-1 Viento normal a moderado en precordillera salar, con probabilidad de tormentas de arena. 28-09 30-09 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por viento para las comunas de Antofagasta y San Pedro de Atacama ,",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-27T16:17:53.5353-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-viento-2026-09-27-16-18-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "c9070b67abc8",
    "nivel": "ATP",
    "tipo": "nevadas",
@@ -79,20 +93,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-27T06:42:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2193634d1af4",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Los Lagos y la Dirección Meteorológica de Chile , durante la presente jornada se registraron precipitaciones intensas en un corto periodo de tiempo en la comuna de Calbuco, dejando calles y viviendas anegadas. Conforme al análisis técnico, el fenómeno se debió al paso de una nube de gran desarrollo vertical asociada a fuertes chubascos y tormentas eléctricas, la cual se generó al norte de la ciudad y se desplazó al Mar de Reloncaví. Cabe señalar que la Dirección Meteorológica de Chile (DMC) mantiene vigente los s",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-26T22:02:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -179,20 +179,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-25T21:32:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-09-17-11-34-15",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "f61269681fb3",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas , que se encuentra vigente desde el 21 de septiembre y hasta que las condiciones así lo ameriten. Esta alerta se constituye co",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-25T20:29:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-altas-temperaturas-2026-09-21-19-49-58",
    "origen": "senapred_web",
    "regiones_extra": []
   },
