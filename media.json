@@ -1,25 +1,6 @@
 {
- "generado": "2026-09-27T17:46:26+00:00",
- "desde": "2026-09-25T17:46:21Z",
+ "generado": "2026-09-27T20:12:36+00:00",
+ "desde": "2026-09-25T20:12:32Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "angol": {
-   "comuna": "Angol",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "dDt1FX2x9Sc",
-     "url": "https://www.youtube.com/watch?v=dDt1FX2x9Sc",
-     "titulo": "Mewlen Angol está en vivo",
-     "canal": "Mewlen Angol",
-     "publicado": "2026-09-27T17:01:32Z",
-     "live": true,
-     "score": 7.94,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
