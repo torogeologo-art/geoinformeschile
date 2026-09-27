@@ -1,35 +1,31 @@
 {
- "generado": "2026-09-27T12:24:03+00:00",
- "desde": "2026-09-25T12:23:54Z",
+ "generado": "2026-09-27T13:04:48+00:00",
+ "desde": "2026-09-25T13:04:42Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "angol": {
+   "comuna": "Angol",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "o4lv7Q0RCxQ",
+     "url": "https://www.youtube.com/watch?v=o4lv7Q0RCxQ",
+     "titulo": "Mewlen Angol está en vivo",
+     "canal": "Mewlen Angol",
+     "publicado": "2026-09-27T12:51:52Z",
+     "live": true,
+     "score": 7.98,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "santa barbara": {
    "comuna": "Santa Bárbara",
    "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
-    {
-     "id": "OJGiGvev-lY",
-     "url": "https://www.youtube.com/watch?v=OJGiGvev-lY",
-     "titulo": "UC Santa Barbara Gauchos Vs. CSU Bakersfield LiveStreaming Volleyball 🔴 𝙉-𝘾-𝘼-𝘼 26-Sep",
-     "canal": "XABSportSpectraLive 63",
-     "publicado": "2026-09-26T17:40:46Z",
-     "live": true,
-     "score": 6.44,
-     "verificado": false,
-     "embeddable": false
-    },
-    {
-     "id": "9hbCT-OhxXs",
-     "url": "https://www.youtube.com/watch?v=9hbCT-OhxXs",
-     "titulo": "UC Santa Barbara Gauchos Vs. Sacramento State Hornets Live Soccer 🔴 𝙉-𝘾-𝘼-𝘼 26-Sep",
-     "canal": "BPBTheSportSpotlight 86",
-     "publicado": "2026-09-26T17:16:21Z",
-     "live": true,
-     "score": 6.41,
-     "verificado": false,
-     "embeddable": false
-    },
     {
      "id": "gtP7T-K5Uww",
      "url": "https://www.youtube.com/watch?v=gtP7T-K5Uww",
@@ -37,54 +33,7 @@
      "canal": "tvnredbiobio",
      "publicado": "2026-09-26T00:47:04Z",
      "live": false,
-     "score": 5.03,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "concepcion": {
-   "comuna": "Concepción",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "q6lQJZiW70o",
-     "url": "https://www.youtube.com/watch?v=q6lQJZiW70o",
-     "titulo": "EN DIRECTO | San Pedro de la Paz",
-     "canal": "San Pedro de la Paz en Vivo",
-     "publicado": "2026-09-27T06:19:30Z",
-     "live": true,
-     "score": -3.51,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "gorbea": {
-   "comuna": "Gorbea",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "94-fUpUq1f8",
-     "url": "https://www.youtube.com/watch?v=94-fUpUq1f8",
-     "titulo": "Gorbea bajo el agua: desborde de río inunda más de cien casas en La Araucanía | 24 Horas TVN Chile",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-09-25T15:14:49Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "oLHdfaw5mlI",
-     "url": "https://www.youtube.com/watch?v=oLHdfaw5mlI",
-     "titulo": "Alerta en la Araucanía: Colapsa puente en Lautaro y desborde de río deja 130 casas bajo el agua",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-09-25T16:09:43Z",
-     "live": false,
-     "score": -4.0,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     }
@@ -95,17 +44,6 @@
    "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
-    {
-     "id": "q6lQJZiW70o",
-     "url": "https://www.youtube.com/watch?v=q6lQJZiW70o",
-     "titulo": "EN DIRECTO | San Pedro de la Paz",
-     "canal": "San Pedro de la Paz en Vivo",
-     "publicado": "2026-09-27T06:19:30Z",
-     "live": true,
-     "score": 7.49,
-     "verificado": false,
-     "embeddable": true
-    },
     {
      "id": "oT05fnZWLP4",
      "url": "https://www.youtube.com/watch?v=oT05fnZWLP4",
@@ -125,57 +63,6 @@
      "publicado": "2026-09-25T23:51:14Z",
      "live": true,
      "score": -5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "JkCsCoOBQqw",
-     "url": "https://www.youtube.com/watch?v=JkCsCoOBQqw",
-     "titulo": "Talcahuano Streets | Desembocadura del Biobío · Parque Pedro del Río, Hualpén",
-     "canal": "Talcahuano Streets",
-     "publicado": "2026-09-27T00:47:29Z",
-     "live": false,
-     "score": 5.03,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "Pf6XgkvGnfg",
-     "url": "https://www.youtube.com/watch?v=Pf6XgkvGnfg",
-     "titulo": "¡Chile Bajo el Agua! Colapso en el Centro-Sur ⛈️",
-     "canal": "Noticias LAT | AHORA",
-     "publicado": "2026-09-26T18:33:44Z",
-     "live": false,
-     "score": 1.51,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "la araucania": {
-   "comuna": "La Araucanía",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "gxIvnIeoJRU",
-     "url": "https://www.youtube.com/watch?v=gxIvnIeoJRU",
-     "titulo": "“No esperaban una lluvia en primavera”: Desborde de río deja familias aisladas en La Araucanía",
-     "canal": "MegaTiempo",
-     "publicado": "2026-09-26T19:47:46Z",
-     "live": false,
-     "score": 4.62,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "oLHdfaw5mlI",
-     "url": "https://www.youtube.com/watch?v=oLHdfaw5mlI",
-     "titulo": "Alerta en la Araucanía: Colapsa puente en Lautaro y desborde de río deja 130 casas bajo el agua",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-09-25T16:09:43Z",
-     "live": false,
-     "score": 3.0,
      "verificado": false,
      "embeddable": true
     }
