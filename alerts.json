@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-27T23:49:22+00:00",
+ "generado": "2026-09-28T01:42:09+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 30,
+ "total_vigentes": 29,
  "alertas": [
+  {
+   "id": "b94338c3122c",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Roja y declara Alerta Temprana Preventiva para la provincia de Valdivia por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica del “ ríoLeufucade en Purulón” indica una disminución en su caudal, alcanzando valores normales, lo que supone una disminución del riesgo para la población cercana a este curso de agua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela la Alerta Roja por desborde y declara Alerta Temprana Preventiva para la provincia de Valdivia por crecida, vigente a contar de hoy y hasta que las condici",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-27T22:00:40.4040-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mariquina-y-lanco-por-crecida-2026-09-24-04-11-40",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "f74fcd61f4ee",
    "nivel": "ATP",
@@ -538,20 +552,6 @@
    "url": "https://t.me/SenapredChile/1588",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "01004dd9373d",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se declara alerta roja para la provincia de Valdivia por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica del “río Calle Calle en Pupunahue” ubicada en la comuna de Máfil, indica un incremento en su caudal, alcanzando el umbral de ALERTA TÉCNICA AMARILLO . Por otra parte, la cuenca del “rio Leufucade en Purulón” indica un incremento en su caudal, alcanzando valores de umbral de ALERTA TÉCNICA ROJO. Cabe mencionar, que el rio Leufucade atraviesa las comunas de Lanco y Mariquina, así como la cuenca del rio Calle Calle las comunas de Los Lagos y Valdivia. Por otra parte, el umbral rojo estableci",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-24T09:34:58.5858-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mariquina-y-lanco-por-crecida-2026-09-24-04-11-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "8c7b99a196b4",
