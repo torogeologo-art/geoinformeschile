@@ -1,13 +1,41 @@
 {
- "generado": "2026-09-28T18:42:29+00:00",
+ "generado": "2026-09-28T22:04:42+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 29,
+ "total_vigentes": 30,
  "alertas": [
+  {
+   "id": "593bdd087085",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica cobertura Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A509 Viento normal a moderado en el litoral de la Provincia de Huasco, con probabilidad de tormentas de arena. 28-09 30-09 Abrir Aquí Aviso A513 Altas temperaturas en cordillera de la costa y sectores de valles, pampa y precordillera. 01-10 01-10 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, l",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-28T18:26:37.3737-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1f2c44780840",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A513 Altas temperaturas en pampa de la región. 30-09 01-10 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas , que se encuentra vigente desde",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-28T17:00:11.1111-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-09-28-17-02-06",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "8c306b39f7f3",
    "nivel": "ATP",
@@ -131,20 +159,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-27T22:00:40.4040-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mariquina-y-lanco-por-crecida-2026-09-24-04-11-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "f74fcd61f4ee",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura y evento de Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A509 Viento normal a moderado en el litoral de la Provincia de Huasco, con probabilidad de tormentas de arena. 28-09 30-09 Abrir Aquí Por otra parte, debido al debilitamiento de las condiciones que lo originaron ha sido cancelado el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Enlace Aviso A501-2 Altas temperaturas en precordillera. Abrir",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-27T19:13:37.3737-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
    "origen": "senapred_web",
    "regiones_extra": []
   },
