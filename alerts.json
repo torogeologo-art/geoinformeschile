@@ -1,13 +1,69 @@
 {
- "generado": "2026-09-28T11:16:11+00:00",
+ "generado": "2026-09-28T16:04:25+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 29,
+ "total_vigentes": 28,
  "alertas": [
+  {
+   "id": "2d2fcc440ab6",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A510 Probables tormentas eléctricas en valle y precordillera. 28-09 28-09 Abrir aquí Asimismo, el Centro Meteorológico Marítimo de Talcahuano emitió un Aviso Especial por la probable ocurrencia de nubes convectivas en el sector oceánico y costero en las regiones de La Araucanía y Los Ríos, durante la jornada de hoy lunes 28 de septiembre. En consideración a estos a",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-28T12:47:54.5454-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-09-28-12-49-42",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "f6b1376cc184",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Amarilla para la Región de La Araucanía por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , han sido cancelados los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Aviso A497-5 Precipitaciones normales a moderadas con isoterma cero alta en precordillera. Aviso A505-2 Probables tormentas eléctricas en zonas de litoral, cordillera de la costa, valle y precordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED cancela la Alerta Amarilla Regional por evento meteor",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-28T11:11:43.4343-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-2026-09-18-23-43-54",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "2c133e91340e",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy lunes 28 de septiembre, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán han registrado la ocurrencia de emisiones de material piroclástico, producto de una explosión ocurrida a las 09:42 horas de hoy, cuya colu",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-28T11:03:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "2070d46f0f2b",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Alerta AA169-4 Precipitaciones moderadas a fuertes con isoterma cero alta en valle, precordillera y cordillera. Aviso A497-5 Precipitaciones normales a moderadas con isoterma cero alta en litoral y cordillera de la costa. Aviso A498-1 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. Aviso A503-2 Probables tormentas eléctricas con probabilidad de precipitac",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-28T09:45:04.044-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-18-15-03-19",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "cdc2d660c3ca",
    "nivel": "ATP",
@@ -95,20 +151,6 @@
    "regiones_extra": [
     "Parinacota"
    ]
-  },
-  {
-   "id": "c9070b67abc8",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy domingo 27 de septiembre, las estaciones de monitoreo instaladas en las inmediaciones del complejo volcánico Nevados de Chillán han registrado una explosión en la zona del cráter, caracterizada por la incandescencia y emisión de material piroclástico con proyección ba",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-27T06:42:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "5c6e1484b5c8",
@@ -417,20 +459,6 @@
    "sae": true
   },
   {
-   "id": "b97a8417cad6",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA169-4 Precipitaciones moderadas a fuertes con isoterma cero alta en valle, precordillera y cordillera de la región. 24-09 24-09 Abrir aquí Aviso A497-5 Precipitaciones normales a moderadas con isoterma cero alta en litoral y cordillera de la costa de la región. 24-09 24-09 Abrir Aquí Aviso A498-1 Viento normal a moderado en litoral, cordillera de la costa, valle, precordi",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-24T18:52:15.1515-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-18-15-03-19",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "c9044fbf65f7",
    "nivel": "ROJA",
    "tipo": "crecida de río",
@@ -506,20 +534,6 @@
    "url": "https://t.me/SenapredChile/1593",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "1a757a9512f6",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de La Araucanía por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A497-5 Precipitaciones normales a moderadas con isoterma cero alta en precordillera. 24-09 24-09 Abrir aquí Aviso A505-1 Probables tormentas eléctricas en zonas de Litoral, Cordillera de la Costa, Valle y Precordillera. 24-09 25-09 Abrir aquí Por otra parte, debido al debilitamiento de las condiciones que lo originaron han sido cancelados los siguientes alertamientos meteorol",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-24T16:47:13.1313-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-2026-09-18-23-43-54",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "020e1de1fc05",
