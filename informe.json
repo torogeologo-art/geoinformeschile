@@ -1,17 +1,17 @@
 {
- "generado": "2026-09-28T01:42:15+00:00",
+ "generado": "2026-09-28T07:44:04+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "18-09-2026",
   "hasta": "28-09-2026"
  },
  "totales": {
-  "alertas": 108,
+  "alertas": 107,
   "sae": 18,
   "comunas": 17,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 69,
+   "ATP": 68,
    "AMARILLA": 17,
    "ROJA": 22
   },
@@ -22,7 +22,7 @@
    ],
    [
     "tormentas eléctricas",
-    29
+    28
    ],
    [
     "desborde",
@@ -199,15 +199,6 @@
     "region_link": "los lagos"
    },
    {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "17-09",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ATP",
@@ -251,6 +242,15 @@
     "ts": "18-09",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "18-09",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -565,13 +565,6 @@
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-09-17",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
   {
    "fecha": "2026-09-18",
    "ROJA": 0,

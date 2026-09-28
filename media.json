@@ -1,6 +1,112 @@
 {
- "generado": "2026-09-28T04:43:32+00:00",
- "desde": "2026-09-26T04:43:27Z",
+ "generado": "2026-09-28T07:44:03+00:00",
+ "desde": "2026-09-26T07:43:53Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "santa barbara": {
+   "comuna": "Santa Bárbara",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "OJGiGvev-lY",
+     "url": "https://www.youtube.com/watch?v=OJGiGvev-lY",
+     "titulo": "UC Santa Barbara Gauchos Vs. CSU Bakersfield LiveStreaming Volleyball 🔴 𝙉-𝘾-𝘼-𝘼 26-Sep",
+     "canal": "XABSportSpectraLive 63",
+     "publicado": "2026-09-26T17:40:46Z",
+     "live": true,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": false
+    },
+    {
+     "id": "9hbCT-OhxXs",
+     "url": "https://www.youtube.com/watch?v=9hbCT-OhxXs",
+     "titulo": "UC Santa Barbara Gauchos Vs. Sacramento State Hornets Live Soccer 🔴 𝙉-𝘾-𝘼-𝘼 26-Sep",
+     "canal": "BPBTheSportSpotlight 86",
+     "publicado": "2026-09-26T17:16:21Z",
+     "live": true,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": false
+    }
+   ]
+  },
+  "concepcion": {
+   "comuna": "Concepción",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "9ECio3nptmc",
+     "url": "https://www.youtube.com/watch?v=9ECio3nptmc",
+     "titulo": "EN DIRECTO | San Pedro de la Paz",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-09-28T04:01:12Z",
+     "live": true,
+     "score": -3.31,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "9ECio3nptmc",
+     "url": "https://www.youtube.com/watch?v=9ECio3nptmc",
+     "titulo": "EN DIRECTO | San Pedro de la Paz",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-09-28T04:01:12Z",
+     "live": true,
+     "score": 7.69,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "JkCsCoOBQqw",
+     "url": "https://www.youtube.com/watch?v=JkCsCoOBQqw",
+     "titulo": "Talcahuano Streets | Desembocadura del Biobío · Parque Pedro del Río, Hualpén",
+     "canal": "Talcahuano Streets",
+     "publicado": "2026-09-27T00:47:29Z",
+     "live": false,
+     "score": 3.42,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Pf6XgkvGnfg",
+     "url": "https://www.youtube.com/watch?v=Pf6XgkvGnfg",
+     "titulo": "¡Chile Bajo el Agua! Colapso en el Centro-Sur ⛈️",
+     "canal": "Noticias LAT | AHORA",
+     "publicado": "2026-09-26T18:33:44Z",
+     "live": false,
+     "score": 0.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "la araucania": {
+   "comuna": "La Araucanía",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "gxIvnIeoJRU",
+     "url": "https://www.youtube.com/watch?v=gxIvnIeoJRU",
+     "titulo": "“No esperaban una lluvia en primavera”: Desborde de río deja familias aisladas en La Araucanía",
+     "canal": "MegaTiempo",
+     "publicado": "2026-09-26T19:47:46Z",
+     "live": false,
+     "score": 3.01,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
