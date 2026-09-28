@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-28T07:43:34+00:00",
+ "generado": "2026-09-28T11:16:11+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 29,
  "alertas": [
+  {
+   "id": "cdc2d660c3ca",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A510 Probables tormentas eléctricas en valle, precordillera, Chiloé, Litoral Interior y Cordillera Austral. 28-09 28-09 Abrir aquí Por otra parte, conforme a lo indicado en el Informe de Amenaza Meteorológica emitido el día de hoy, los montos estimados para los próximos días en la región son los siguientes: •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-28T07:56:15.1515-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "b94338c3122c",
    "nivel": "ROJA",
@@ -33,20 +47,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-27T19:13:37.3737-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "3994088d9bb1",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A507 Probables tormentas eléctricas en valle, precordillera, Chiloé y litoral interior 27-09 27-09 Abrir aquí Aviso A510 Probables tormentas eléctricas en valle, precordillera, Chiloé, Litoral Interior y Cordillera Austral. 28-09 28-09 Abrir aquí Por otra parte, conforme a lo indicado en el Informe de Amenaza Meteorológica emitido el día de hoy, los montos estima",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-27T19:07:53.5353-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },
