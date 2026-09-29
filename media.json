@@ -1,43 +1,6 @@
 {
- "generado": "2026-09-29T20:01:03+00:00",
- "desde": "2026-09-27T20:00:49Z",
+ "generado": "2026-09-29T20:50:03+00:00",
+ "desde": "2026-09-27T20:49:59Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "angol": {
-   "comuna": "Angol",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "zPU6-kw4A50",
-     "url": "https://www.youtube.com/watch?v=zPU6-kw4A50",
-     "titulo": "🔴 EN VIVO | CONEXIÓN CIUDADANA | 29 DE SEPTIEMBRE 2026",
-     "canal": "UfroMedios",
-     "publicado": "2026-09-29T17:59:54Z",
-     "live": true,
-     "score": 7.83,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "santa barbara": {
-   "comuna": "Santa Bárbara",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "MfrBjOSUOFg",
-     "url": "https://www.youtube.com/watch?v=MfrBjOSUOFg",
-     "titulo": "Capilla del Santísimo en vivo Parroquia de Santa Bárbara",
-     "canal": "Santa Barbara Catholic Parish",
-     "publicado": "2026-09-29T12:43:11Z",
-     "live": true,
-     "score": 7.39,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
