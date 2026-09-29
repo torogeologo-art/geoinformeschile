@@ -1,6 +1,65 @@
 {
- "generado": "2026-09-29T02:45:56+00:00",
- "desde": "2026-09-27T02:45:53Z",
+ "generado": "2026-09-29T08:36:13+00:00",
+ "desde": "2026-09-27T08:36:04Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "concepcion": {
+   "comuna": "Concepción",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "v1HQpAI_iXY",
+     "url": "https://www.youtube.com/watch?v=v1HQpAI_iXY",
+     "titulo": "EN DIRECTO | San Pedro de la Paz",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-09-28T21:24:04Z",
+     "live": true,
+     "score": -3.93,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "v1HQpAI_iXY",
+     "url": "https://www.youtube.com/watch?v=v1HQpAI_iXY",
+     "titulo": "EN DIRECTO | San Pedro de la Paz",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-09-28T21:24:04Z",
+     "live": true,
+     "score": 7.07,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "nEYHu9eSL9I",
+     "url": "https://www.youtube.com/watch?v=nEYHu9eSL9I",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-09-28T19:55:21Z",
+     "live": true,
+     "score": -3.06,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "wMMef-x1UC0",
+     "url": "https://www.youtube.com/watch?v=wMMef-x1UC0",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-09-28T19:55:20Z",
+     "live": true,
+     "score": -3.06,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
