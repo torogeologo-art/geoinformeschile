@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-28T23:32:50+00:00",
+ "generado": "2026-09-29T02:00:43+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 29,
+ "total_vigentes": 28,
  "alertas": [
+  {
+   "id": "37cbe1f96403",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Ríos: Alertamiento Pronóstico Enlace Aviso A510 Probables Tormentas Eléctricas en cordillera de la costa, valle y precordillera. Abrir aquí. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por tormentas eléctricas , que se",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-28T20:52:10.1010-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-la-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-09-21-20-35-05",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "a4854931fcaa",
    "nivel": "ATP",
@@ -173,20 +187,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-27T19:00:28.2828-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-altas-temperaturas-2026-09-21-19-49-58",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "c10c2967c63e",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica Alerta Temprana Preventiva para la Región de Los Ríos a viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguiente alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A507 Probables tormentas eléctricas en cordillera de la costa, valle y precordillera. 27-09 27-09 Abrir aquí Aviso A510 Probables tormentas eléctricas en cordillera de la costa, valle y precordillera. 28-09 28-09 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-27T16:50:17.1717-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-la-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-09-21-20-35-05",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1343,34 +1343,6 @@
    "estado": "CANCELADA",
    "ts": "2026-08-30T07:56:36.3636-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-08-23-12-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "d1f9b62248cf",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelado los siguientes alertamientos meteorológicos para la Región Metropolitana, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Alerta AA149 Tormentas eléctricas en cordillera costa y valle. Aviso A437-3 Viento normal a moderado en valle, precordillera y cordillera. Asimismo, mediante la actualización del siguiente Aviso Meteorológico, se dan por finalizadas las condiciones que originaron el alertamiento en la región. Alertamiento Pronós",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-29T20:30:46.4646-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-26-15-19-11",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "778f0306ed5f",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , han sido cancelado los siguientes alertamientos meteorológicos para la Región de O´Higgins, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A437-3 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. Aviso A450-6 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regi",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-08-29T17:39:45.4545-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-08-21-15-28-01",
    "origen": "senapred_web",
    "regiones_extra": []
   },

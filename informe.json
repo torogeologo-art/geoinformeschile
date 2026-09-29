@@ -1,9 +1,9 @@
 {
- "generado": "2026-09-28T22:05:05+00:00",
+ "generado": "2026-09-29T02:00:51+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "18-09-2026",
-  "hasta": "28-09-2026"
+  "desde": "19-09-2026",
+  "hasta": "29-09-2026"
  },
  "totales": {
   "alertas": 109,
@@ -199,15 +199,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "18-09",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ATP",
@@ -215,6 +206,15 @@
     "ts": "19-09",
     "comuna_link": "",
     "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "19-09",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Biobío",
@@ -557,7 +557,7 @@
  "vigentes": {
   "ROJA": 18,
   "AMARILLA": 1,
-  "ATP": 11,
+  "ATP": 9,
   "regiones_roja": [
    "Biobío",
    "La Araucanía",
@@ -569,7 +569,7 @@
    "fecha": "2026-09-18",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 2,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -639,7 +639,7 @@
    "fecha": "2026-09-28",
    "ROJA": 1,
    "AMARILLA": 1,
-   "ATP": 8,
+   "ATP": 9,
    "sae": 0
   }
  ],
@@ -717,11 +717,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "ATP",
-     "ts": "19-09 21:13",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "AMARILLA",
      "ts": "22-09 14:46",
      "estado": "CANCELADA"
@@ -739,6 +734,11 @@
     {
      "nivel": "ROJA",
      "ts": "27-09 22:00",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "28-09 20:52",
      "estado": "CANCELADA"
     }
    ]
@@ -796,6 +796,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "28-09 20:52",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-la-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-09-21-20-35-05"
+  },
   {
    "ts": "28-09 18:26",
    "nivel": "ATP",
@@ -912,15 +921,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26"
-  },
-  {
-   "ts": "27-09 17:02",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Atacama",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
