@@ -1,43 +1,6 @@
 {
- "generado": "2026-09-29T15:07:44+00:00",
- "desde": "2026-09-27T15:07:33Z",
+ "generado": "2026-09-29T16:08:27+00:00",
+ "desde": "2026-09-27T16:08:24Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "nacimiento": {
-   "comuna": "Nacimiento",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "1XL33Gkqq_w",
-     "url": "https://www.youtube.com/watch?v=1XL33Gkqq_w",
-     "titulo": "Transmisión en vivo de Municipalidad Nacimiento 29.09.2026",
-     "canal": "Municipalidad Nacimiento",
-     "publicado": "2026-09-29T12:11:48Z",
-     "live": true,
-     "score": 7.76,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "concepcion": {
-   "comuna": "Concepción",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "ozTccuMbGUg",
-     "url": "https://www.youtube.com/watch?v=ozTccuMbGUg",
-     "titulo": "EN DIRECTO | San Pedro de la Paz",
-     "canal": "San Pedro de la Paz en Vivo",
-     "publicado": "2026-09-29T13:01:44Z",
-     "live": true,
-     "score": -3.17,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
