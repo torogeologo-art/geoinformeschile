@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-29T20:01:04+00:00",
+ "generado": "2026-09-29T23:45:31+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "19-09-2026",
@@ -18,11 +18,11 @@
   "por_tipo": [
    [
     "viento",
-    29
+    28
    ],
    [
     "tormentas eléctricas",
-    27
+    28
    ],
    [
     "desborde",
@@ -53,15 +53,6 @@
  "tipos_detalle": {
   "viento": [
    {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "22-09",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
     "lugar": "Región de Los Ríos",
     "region": "Los Ríos",
     "nivel": "AMARILLA",
@@ -87,6 +78,15 @@
     "ts": "22-09",
     "comuna_link": "",
     "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "22-09",
+    "comuna_link": "",
+    "region_link": "los lagos"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -548,7 +548,7 @@
  "vigentes": {
   "ROJA": 18,
   "AMARILLA": 1,
-  "ATP": 8,
+  "ATP": 10,
   "regiones_roja": [
    "Biobío",
    "La Araucanía",
@@ -560,7 +560,7 @@
    "fecha": "2026-09-19",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 2,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -630,7 +630,7 @@
    "fecha": "2026-09-29",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 5,
+   "ATP": 6,
    "sae": 0
   }
  ],
@@ -770,7 +770,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "19-09 17:23",
+     "ts": "20-09 17:01",
      "estado": "VIGENTE"
     },
     {
@@ -787,6 +787,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "29-09 18:43",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
+  },
   {
    "ts": "29-09 11:50",
    "nivel": "ATP",
@@ -903,15 +912,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-2026-09-18-23-43-54"
-  },
-  {
-   "ts": "28-09 11:03",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "nevadas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
