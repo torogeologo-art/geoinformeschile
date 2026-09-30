@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-30T15:51:37+00:00",
- "desde": "2026-09-28T15:51:27Z",
+ "generado": "2026-09-30T16:57:06+00:00",
+ "desde": "2026-09-28T16:57:01Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "concepcion": {
@@ -15,18 +15,18 @@
      "canal": "En pos de la Verdad",
      "publicado": "2026-09-30T12:32:40Z",
      "live": true,
-     "score": 7.72,
+     "score": 7.63,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "TdP0jBoRcW8",
-     "url": "https://www.youtube.com/watch?v=TdP0jBoRcW8",
-     "titulo": "Transmisión en vivo de Buen Día Concepción",
-     "canal": "Buen Día Concepción",
-     "publicado": "2026-09-30T12:20:59Z",
+     "id": "6elr4zK-izo",
+     "url": "https://www.youtube.com/watch?v=6elr4zK-izo",
+     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-09-30T16:44:34Z",
      "live": true,
-     "score": 7.71,
+     "score": 4.98,
      "verificado": false,
      "embeddable": true
     },
@@ -37,25 +37,7 @@
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-09-30T02:16:23Z",
      "live": true,
-     "score": -4.13,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "EUsNJPT9NRQ",
-     "url": "https://www.youtube.com/watch?v=EUsNJPT9NRQ",
-     "titulo": "Talcahuano Streets | Las otras bocas del Biobío: Rocuant, Lenga y la crecida de 2006",
-     "canal": "Talcahuano Streets",
-     "publicado": "2026-09-29T21:44:55Z",
-     "live": false,
-     "score": 4.49,
+     "score": -4.22,
      "verificado": false,
      "embeddable": true
     }
