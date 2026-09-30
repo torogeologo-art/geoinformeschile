@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-30T02:28:05+00:00",
+ "generado": "2026-09-30T08:58:14+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -2043,6 +2043,13 @@
    "comuna": "Purén",
    "noticias": [
     {
+     "titulo": "SENAPRED refuerza llamados a evacuar y evitar riberas de ríos por crecidas en el sur del país - Insular FM",
+     "medio": "Insular FM",
+     "fecha": "2026-09-25T08:27:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1JwSWxyZ3FfU3o5NS1LOXNieFRpQkN1ZHBmSjRSNkdsUm1NODZ0d0p6QXNrN2dTajFXQ2lNMXFoSEF3NWdsVExELVdwbUd0THN1NUxsT2xKdTFOMWF4QWl3SnVuRlhrMkJfN3hmVXl0RHo0dE1BYWNVWXl5WDM2akNQTTdtUVpJTXlzVks3dDd1eDc2aW9zZFR2OU92bnEzbENFSDhHTXM3U0tuUDFBTFNHSEk2VDlMOXRV?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred ordena evacuaciones por intensas lluvias en el sur - La Nación",
      "medio": "La Nación",
      "fecha": "2026-09-24T20:23:57+00:00",
@@ -2111,13 +2118,6 @@
      "medio": "TemucoDiario.cl",
      "fecha": "2026-08-03T03:58:39+00:00",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1lSdzRnZ1YwTzdPNWhIakJtZ25lUmhrRWNHcU1vcUNQT1NhNlJVck1CUWFqYnNwYVA2dnctXzJoVHB4WGJJZ0hRY3hITzFNSXpMYjBDU3JNR2RwX0tJR1NwRlo5MDRNd1FMaWRyazJ2Sy1TRjJJN3EzRnNybjM2VjhLRld1TWcxR2t3SGx2YzlxTlkzRkltclhXWW1LMHZ4bTVoVHZBejBBcnhVRmc2cG0ySzc1UlRVRWJqc1Q3TVZxVnBfRHlmZS1R?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Cierre de Pino Hachado agrava congestión: cerca de 200 camiones permanecen varados en Liucura - Alerta Noticias Temuco.cl",
-     "medio": "Alerta Noticias Temuco.cl",
-     "fecha": "2026-08-02T14:54:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTXNHRk1KQ0NqeFc2VUNVQlFLb2MySFVFc2trSnd3SHhQMmV5UmZXanRCbUlOSjVPUngzZ2xOU096LTIxYmluMHA0SmlBUi1yOHNBVjdNUWxCdnNzaWdodVI5Y2V4N3dld19QMkxXMVFHQVNONWxKcENTQ0FJS2lHM0Q0WnRkMmMyYWZpLW1B?oc=5",
      "sector": null
     }
    ]

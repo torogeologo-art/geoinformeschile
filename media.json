@@ -1,6 +1,76 @@
 {
- "generado": "2026-09-30T05:40:21+00:00",
- "desde": "2026-09-28T05:40:17Z",
+ "generado": "2026-09-30T08:58:22+00:00",
+ "desde": "2026-09-28T08:58:15Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "concepcion": {
+   "comuna": "Concepción",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "Drj9kIzaGgc",
+     "url": "https://www.youtube.com/watch?v=Drj9kIzaGgc",
+     "titulo": "EN DIRECTO | San Pedro de la Paz",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-09-30T02:16:23Z",
+     "live": true,
+     "score": -3.56,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "Drj9kIzaGgc",
+     "url": "https://www.youtube.com/watch?v=Drj9kIzaGgc",
+     "titulo": "EN DIRECTO | San Pedro de la Paz",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-09-30T02:16:23Z",
+     "live": true,
+     "score": 7.44,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "nEYHu9eSL9I",
+     "url": "https://www.youtube.com/watch?v=nEYHu9eSL9I",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-09-28T19:55:21Z",
+     "live": true,
+     "score": -5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "wMMef-x1UC0",
+     "url": "https://www.youtube.com/watch?v=wMMef-x1UC0",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-09-28T19:55:20Z",
+     "live": true,
+     "score": -5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "EUsNJPT9NRQ",
+     "url": "https://www.youtube.com/watch?v=EUsNJPT9NRQ",
+     "titulo": "Talcahuano Streets | Las otras bocas del Biobío: Rocuant, Lenga y la crecida de 2006",
+     "canal": "Talcahuano Streets",
+     "publicado": "2026-09-29T21:44:55Z",
+     "live": false,
+     "score": 5.06,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
