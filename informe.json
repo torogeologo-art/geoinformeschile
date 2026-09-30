@@ -1,28 +1,28 @@
 {
- "generado": "2026-09-29T23:45:31+00:00",
+ "generado": "2026-09-30T02:28:10+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "19-09-2026",
-  "hasta": "29-09-2026"
+  "desde": "20-09-2026",
+  "hasta": "30-09-2026"
  },
  "totales": {
-  "alertas": 104,
+  "alertas": 103,
   "sae": 19,
   "comunas": 17,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 65,
    "AMARILLA": 16,
+   "ATP": 64,
    "ROJA": 23
   },
   "por_tipo": [
    [
-    "viento",
+    "tormentas eléctricas",
     28
    ],
    [
-    "tormentas eléctricas",
-    28
+    "viento",
+    27
    ],
    [
     "desborde",
@@ -51,125 +51,6 @@
   ]
  },
  "tipos_detalle": {
-  "viento": [
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "22-09",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "20-09",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "22-09",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "22-09",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "21-09",
-    "comuna_link": "",
-    "region_link": "arica y parinacota"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "20-09",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "20-09",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "21-09",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "21-09",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "21-09",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "21-09",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "22-09",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "23-09",
-    "comuna_link": "",
-    "region_link": "tarapaca"
-   }
-  ],
   "tormentas eléctricas": [
    {
     "lugar": "Región de La Araucanía",
@@ -269,6 +150,125 @@
     "ts": "28-09",
     "comuna_link": "",
     "region_link": "biobio"
+   }
+  ],
+  "viento": [
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "20-09",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "22-09",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "22-09",
+    "comuna_link": "",
+    "region_link": "los lagos"
+   },
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "21-09",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "22-09",
+    "comuna_link": "",
+    "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "20-09",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "20-09",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "21-09",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "21-09",
+    "comuna_link": "",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "21-09",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "21-09",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "22-09",
+    "comuna_link": "",
+    "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "23-09",
+    "comuna_link": "",
+    "region_link": "tarapaca"
    }
   ],
   "desborde": [
@@ -557,13 +557,6 @@
  },
  "serie": [
   {
-   "fecha": "2026-09-19",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
-  {
    "fecha": "2026-09-20",
    "ROJA": 0,
    "AMARILLA": 1,
@@ -636,39 +629,6 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de Los Ríos",
-   "region": "Los Ríos",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "22-09 14:46",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "24-09 09:34",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "26-09 09:24",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "27-09 22:00",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "28-09 20:52",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
    "lugar": "Región de La Araucanía",
    "region": "La Araucanía",
    "sae": true,
@@ -730,6 +690,39 @@
     {
      "nivel": "ATP",
      "ts": "28-09 09:45",
+     "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Los Ríos",
+   "region": "Los Ríos",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "22-09 14:46",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "24-09 09:34",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "26-09 09:24",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "27-09 22:00",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "28-09 20:52",
      "estado": "CANCELADA"
     }
    ]
