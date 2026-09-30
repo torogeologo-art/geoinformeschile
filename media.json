@@ -1,13 +1,53 @@
 {
- "generado": "2026-09-30T08:58:22+00:00",
- "desde": "2026-09-28T08:58:15Z",
+ "generado": "2026-09-30T11:23:15+00:00",
+ "desde": "2026-09-28T11:23:07Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "angol": {
+   "comuna": "Angol",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "-gLCcCANIKc",
+     "url": "https://www.youtube.com/watch?v=-gLCcCANIKc",
+     "titulo": "🔴 EN VIVO | CONEXIÓN CIUDADANA | 29 DE SEPTIEMBRE 2026",
+     "canal": "UfroMedios",
+     "publicado": "2026-09-30T11:13:59Z",
+     "live": true,
+     "score": 7.99,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "concepcion": {
    "comuna": "Concepción",
    "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
+    {
+     "id": "KdndrrhwwQU",
+     "url": "https://www.youtube.com/watch?v=KdndrrhwwQU",
+     "titulo": "🚨 TUCUMÁN VIOLENTO: Secuestro por &quot;broma&quot; en Concepción + m4ltrat0 animal en Tafí Viejo  | VIVO",
+     "canal": "Enterate Play 90.5",
+     "publicado": "2026-09-30T09:43:16Z",
+     "live": true,
+     "score": 7.86,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "wlYQuRUzsBg",
+     "url": "https://www.youtube.com/watch?v=wlYQuRUzsBg",
+     "titulo": "EN PRIMERA PERSONA | Miércoles en Concepción del Uruguay",
+     "canal": "Mavi Streaming",
+     "publicado": "2026-09-28T19:54:40Z",
+     "live": true,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
     {
      "id": "Drj9kIzaGgc",
      "url": "https://www.youtube.com/watch?v=Drj9kIzaGgc",
@@ -15,7 +55,7 @@
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-09-30T02:16:23Z",
      "live": true,
-     "score": -3.56,
+     "score": -3.76,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +73,18 @@
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-09-30T02:16:23Z",
      "live": true,
-     "score": 7.44,
+     "score": 7.24,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "EaGTom78kZY",
+     "url": "https://www.youtube.com/watch?v=EaGTom78kZY",
+     "titulo": "¡38% se ARREPIENTE de haber VOTADO por KAST según NODO XXI! ¿BOLSONARO con pr0stitut4s? | #TurnoAM",
+     "canal": "Turno",
+     "publicado": "2026-09-29T16:11:23Z",
+     "live": true,
+     "score": 3.4,
      "verificado": false,
      "embeddable": true
     },
@@ -49,24 +100,13 @@
      "embeddable": true
     },
     {
-     "id": "wMMef-x1UC0",
-     "url": "https://www.youtube.com/watch?v=wMMef-x1UC0",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-09-28T19:55:20Z",
-     "live": true,
-     "score": -5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "EUsNJPT9NRQ",
      "url": "https://www.youtube.com/watch?v=EUsNJPT9NRQ",
      "titulo": "Talcahuano Streets | Las otras bocas del Biobío: Rocuant, Lenga y la crecida de 2006",
      "canal": "Talcahuano Streets",
      "publicado": "2026-09-29T21:44:55Z",
      "live": false,
-     "score": 5.06,
+     "score": 4.86,
      "verificado": false,
      "embeddable": true
     }
