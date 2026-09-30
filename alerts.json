@@ -1,13 +1,27 @@
 {
- "generado": "2026-09-30T11:23:06+00:00",
+ "generado": "2026-09-30T15:51:05+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 29,
+ "total_vigentes": 30,
  "alertas": [
+  {
+   "id": "b1d9798c9555",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A518 Viento normal a moderado en precordillera y cordillera. 02-10 03-10 Abrir aquí Por otra parte, según lo señalado en el Informe de Amenaza Meteorológica, se pronostican los siguientes montos de precipitaciones, viento e isoterma 0°C en la región : Precipitaciones: entre 2 y 35 mm. Nevadas: entre 10 y 40 cm. Viento: 25 – 70 km/h . Isoterma 0: &nbsp; entre 1.700 – 3.50",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-09-30T11:30:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-09-30-11-40-54",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "661e66f59fa5",
    "nivel": "ATP",
