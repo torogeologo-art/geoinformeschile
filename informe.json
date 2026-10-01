@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-01T00:12:11+00:00",
+ "generado": "2026-10-01T06:04:41+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "21-09-2026",
@@ -9,20 +9,20 @@
   "alertas": 104,
   "sae": 19,
   "comunas": 17,
-  "regiones": 15,
+  "regiones": 14,
   "por_nivel": {
-   "ATP": 65,
-   "AMARILLA": 16,
+   "ATP": 66,
+   "AMARILLA": 15,
    "ROJA": 23
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    31
+    34
    ],
    [
     "viento",
-    25
+    22
    ],
    [
     "desborde",
@@ -154,15 +154,6 @@
   ],
   "viento": [
    {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "20-09",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
     "lugar": "Región de Arica y Parinacota",
     "region": "Arica y Parinacota",
     "nivel": "AMARILLA",
@@ -197,24 +188,6 @@
     "ts": "22-09",
     "comuna_link": "",
     "region_link": "los rios"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "20-09",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "21-09",
-    "comuna_link": "",
-    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Biobío",
@@ -548,7 +521,7 @@
  "vigentes": {
   "ROJA": 17,
   "AMARILLA": 1,
-  "ATP": 13,
+  "ATP": 12,
   "regiones_roja": [
    "Biobío",
    "La Araucanía",
@@ -557,17 +530,10 @@
  },
  "serie": [
   {
-   "fecha": "2026-09-20",
-   "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 1,
-   "sae": 0
-  },
-  {
    "fecha": "2026-09-21",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 10,
+   "ATP": 9,
    "sae": 0
   },
   {
@@ -630,7 +596,7 @@
    "fecha": "2026-09-30",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 5,
+   "ATP": 8,
    "sae": 0
   }
  ],
@@ -742,8 +708,8 @@
    "pasos": [
     {
      "nivel": "AMARILLA",
-     "ts": "20-09 22:17",
-     "estado": "CANCELADA"
+     "ts": "21-09 19:00",
+     "estado": "VIGENTE"
     },
     {
      "nivel": "ATP",
@@ -787,6 +753,33 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "30-09 22:21",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-cancela-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-viento-2026-09-30-22-22-18"
+  },
+  {
+   "ts": "30-09 22:11",
+   "nivel": "ATP",
+   "lugar": "Región de Arica y Parinacota",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-09-26-17-01-44"
+  },
+  {
+   "ts": "30-09 21:15",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-09-29-16-32-14"
+  },
   {
    "ts": "30-09 18:57",
    "nivel": "ATP",
@@ -885,33 +878,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
-  },
-  {
-   "ts": "28-09 20:52",
-   "nivel": "ATP",
-   "lugar": "Región de Los Ríos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-la-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-09-21-20-35-05"
-  },
-  {
-   "ts": "28-09 18:26",
-   "nivel": "ATP",
-   "lugar": "Región de Atacama",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
-  },
-  {
-   "ts": "28-09 17:00",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-09-28-17-02-06"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

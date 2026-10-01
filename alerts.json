@@ -1,13 +1,43 @@
 {
- "generado": "2026-10-01T00:45:34+00:00",
+ "generado": "2026-10-01T06:04:36+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 31,
+ "total_vigentes": 30,
  "alertas": [
+  {
+   "id": "07a112633265",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Aviso A506-1 Viento normal a moderado con probabilidad de tormentas de arena en precordillera salar. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por viento para las comunas de Antofagasta y San Pedro de Atacama , que se mantuvo vigente desde el 27 de septie",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-30T22:21:09.099-03:00",
+   "url": "https://senapred.cl/alerta/se-cancela-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-viento-2026-09-30-22-22-18",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "5f583462b037",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Parinacota y comuna de Camarones  por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se ha cancelado el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Aviso A506-1 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por viento para la provincia de Parinacota y la comuna de Camarones , que se mantuvo vigente desde el 26 de",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-09-30T22:11:21.2121-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-09-26-17-01-44",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
   {
    "id": "b5bf153d14f1",
    "nivel": "ATP",
@@ -275,24 +305,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-altas-temperaturas-2026-09-21-19-49-58",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "abe6e12ae7ad",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A506-1 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. 28-09 30-09 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva por viento para la provincia de Parinacota y la comuna de Cama",
-   "region": "Arica y Parinacota",
-   "comunas": [
-    "Camarones"
-   ],
-   "estado": "VIGENTE",
-   "ts": "2026-09-27T16:29:21.2121-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-09-26-17-01-44",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
   },
   {
    "id": "5c6e1484b5c8",
