@@ -1,6 +1,54 @@
 {
- "generado": "2026-10-01T07:02:09+00:00",
- "desde": "2026-09-29T07:02:02Z",
+ "generado": "2026-10-01T13:23:31+00:00",
+ "desde": "2026-09-29T13:23:23Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "angol": {
+   "comuna": "Angol",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "e3zLG3kql9o",
+     "url": "https://www.youtube.com/watch?v=e3zLG3kql9o",
+     "titulo": "🔴 EN VIVO | TU MAÑANA ARAUCANÍA | 01 DE OCTUBRE 2026",
+     "canal": "UfroMedios",
+     "publicado": "2026-10-01T11:47:08Z",
+     "live": true,
+     "score": 7.87,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "concepcion": {
+   "comuna": "Concepción",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "v8zWuJzyOis",
+     "url": "https://www.youtube.com/watch?v=v8zWuJzyOis",
+     "titulo": "Transmisión en vivo de Buen Día Concepción",
+     "canal": "Buen Día Concepción",
+     "publicado": "2026-10-01T12:18:15Z",
+     "live": true,
+     "score": 7.91,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "r9T8R9uTAq8",
+     "url": "https://www.youtube.com/watch?v=r9T8R9uTAq8",
+     "titulo": "EN DIRECTO | San Pedro de la Paz",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-10-01T09:29:16Z",
+     "live": true,
+     "score": -3.33,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
