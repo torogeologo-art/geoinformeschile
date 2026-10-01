@@ -1,25 +1,6 @@
 {
- "generado": "2026-10-01T18:59:31+00:00",
- "desde": "2026-09-29T18:59:26Z",
+ "generado": "2026-10-01T19:46:28+00:00",
+ "desde": "2026-09-29T19:46:26Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "concepcion": {
-   "comuna": "Concepción",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "r9T8R9uTAq8",
-     "url": "https://www.youtube.com/watch?v=r9T8R9uTAq8",
-     "titulo": "EN DIRECTO | San Pedro de la Paz",
-     "canal": "San Pedro de la Paz en Vivo",
-     "publicado": "2026-10-01T09:29:16Z",
-     "live": true,
-     "score": -3.79,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
