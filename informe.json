@@ -1,9 +1,9 @@
 {
- "generado": "2026-09-30T20:42:44+00:00",
+ "generado": "2026-10-01T00:12:11+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "20-09-2026",
-  "hasta": "30-09-2026"
+  "desde": "21-09-2026",
+  "hasta": "01-10-2026"
  },
  "totales": {
   "alertas": 104,
@@ -18,11 +18,11 @@
   "por_tipo": [
    [
     "tormentas eléctricas",
-    30
+    31
    ],
    [
     "viento",
-    26
+    25
    ],
    [
     "desborde",
@@ -199,15 +199,6 @@
     "region_link": "los rios"
    },
    {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "20-09",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ATP",
@@ -251,6 +242,15 @@
     "ts": "21-09",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "21-09",
+    "comuna_link": "",
+    "region_link": "maule"
    },
    {
     "lugar": "Región de Valparaíso",
@@ -546,7 +546,7 @@
   ]
  },
  "vigentes": {
-  "ROJA": 18,
+  "ROJA": 17,
   "AMARILLA": 1,
   "ATP": 13,
   "regiones_roja": [
@@ -560,7 +560,7 @@
    "fecha": "2026-09-20",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 2,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -630,7 +630,7 @@
    "fecha": "2026-09-30",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 4,
+   "ATP": 5,
    "sae": 0
   }
  ],
@@ -788,6 +788,15 @@
  ],
  "cronologia": [
   {
+   "ts": "30-09 18:57",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15"
+  },
+  {
    "ts": "30-09 17:09",
    "nivel": "ATP",
    "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -903,15 +912,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-09-28-17-02-06"
-  },
-  {
-   "ts": "28-09 14:26",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-09-28-14-28-42"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
