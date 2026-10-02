@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-02T16:39:02+00:00",
+ "generado": "2026-10-02T20:09:29+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -9,15 +9,43 @@
  "total_vigentes": 16,
  "alertas": [
   {
+   "id": "1cf33455939d",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Paihuano y Vicuña por crecida",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección General de Aguas (DGA) de Coquimbo, indica que las estaciones hidrométricas “ Estero Derecho en Alcohuaz” y “ Río Cochiguaz en el Peñón” , en las comunas de Paihuano y Vicuña; y la estación hidrométrica “ Río Elqui en Algarrobal” en la comuna de Vicuña han mantenido el umbral de alerta azul. Por otra parte, existe la probabilidad de que continúen registrándose incrementos de caudal y desbordes puntuales, por lo que, se hace necesario reforzar el monitoreo preventivo de los cauces, riberas, sectores habitados e infraestructura empl",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-02T16:41:04.044-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1c86df06e2b2",
+   "nivel": "ATP",
+   "tipo": "otros",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario",
+   "descripcion": "En atención a los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , se encuentran vigentes las siguientes Resoluciones Exentas en la Región de Los Ríos: Resolución Exenta N° 1833 de 2026 Declaración de Emergencia Sanitaria, por la presencia del virus aviar de alta patogenicidad H5N1 (IAPP). Resolución Exenta N° 585 de 2026 Confirmación de presencia de virus aviar de alta patogenicidad H5N1 (IAPP) en la Región de Los Ríos. Activación de protocolos de vigilancia junto con formación del Centro de Operación Regional. Resolución Exenta N° 1404 de 2026 Dispone la despoblación,",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-02T16:24:31.3131-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
    "id": "fdc82b1d94b5",
    "nivel": "ATP",
    "tipo": "viento",
    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A524-1 Viento normal a moderado con probabilidad de ventisca en cordillera de la costa, precordillera salar y cordillera de la región. 02-10 05-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva regional por viento, que",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA172 Viento moderado a fuerte (con desarrollo de ventiscas) en la Puna de Atacama Sector Oriente de la Comuna de San Pedro de Atacama 04-10 04-10 Abrir aquí Aviso A524-1 Viento normal a moderado con probabilidad de ventisca en cordillera de la costa, precordillera salar y cordillera de la región. 02-10 05-10 Abrir aquí En consideración a estos antecedentes y en coo",
    "region": "Antofagasta",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-10-02T13:08:52.5252-03:00",
+   "ts": "2026-10-02T15:42:48.4848-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
    "origen": "senapred_web",
    "regiones_extra": []
@@ -377,20 +405,6 @@
    "regiones_extra": []
   },
   {
-   "id": "c889c52d718e",
-   "nivel": "ATP",
-   "tipo": "otros",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario",
-   "descripcion": "En atención a los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , se encuentran vigentes las siguientes Resoluciones Exentas en la Región de Los Ríos: Resolución Exenta N° 1833 de 2026 Declaración de Emergencia Sanitaria, por la presencia del virus aviar de alta patogenicidad H5N1 (IAPP). Resolución Exenta N° 585 de 2026 Confirmación de presencia de virus aviar de alta patogenicidad H5N1 (IAPP) en la Región de Los Ríos. Activación de protocolos de vigilancia junto con formación del Centro de Operación Regional. Resolución Exenta N° 1404 de 2026 Dispone la despoblación,",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-26T09:24:54.5454-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "40c744b43b1b",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -458,7 +472,7 @@
    "comunas": [
     "Nueva Imperial"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-09-25T17:04:03+00:00",
    "url": "https://t.me/SenapredChile/1611",
    "origen": "telegram",

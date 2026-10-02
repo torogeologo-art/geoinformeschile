@@ -1,25 +1,6 @@
 {
- "generado": "2026-10-02T16:39:04+00:00",
- "desde": "2026-09-30T16:39:03Z",
+ "generado": "2026-10-02T20:09:31+00:00",
+ "desde": "2026-09-30T20:09:31Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "angol": {
-   "comuna": "Angol",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "_tQlQif_GME",
-     "url": "https://www.youtube.com/watch?v=_tQlQif_GME",
-     "titulo": "🔴 EN VIVO | TU MAÑANA ARAUCANÍA | 02 DE OCTUBRE 2026",
-     "canal": "UfroMedios",
-     "publicado": "2026-10-02T12:01:11Z",
-     "live": true,
-     "score": 7.61,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
