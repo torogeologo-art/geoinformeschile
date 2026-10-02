@@ -1,13 +1,27 @@
 {
- "generado": "2026-10-01T23:47:52+00:00",
+ "generado": "2026-10-02T02:18:04+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 20,
+ "total_vigentes": 19,
  "alertas": [
+  {
+   "id": "59a5bda04e61",
+   "nivel": "ATP",
+   "tipo": "remoción en masa",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A518-2 Viento normal a moderado en precordillera y cordillera. 02-10 03-10 Abrir aquí Aviso A520-3 Probables tormenta eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en valle, precordillera y cordillera. 01-10 03-10 Abrir aquí Asimismo, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante informe técnico por peligro de remoci",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-01T20:50:01.011-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "c0ff17c0120a",
    "nivel": "ATP",
@@ -75,20 +89,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-01T19:06:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-29-14-13-42",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ee52ba3343d7",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A518-2 Viento normal a moderado en precordillera y cordillera. 02-10 03-10 Abrir aquí Aviso A520-2 Probables tormenta eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en valle, precordillera y cordillera. 02-10 03-10 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que lo originaron fue cancelado el siguiente alertamie",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-01T17:15:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -542,7 +542,7 @@
    "comunas": [
     "Santa Bárbara"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-09-25T02:06:59+00:00",
    "url": "https://t.me/SenapredChile/1604",
    "origen": "telegram",
@@ -1277,48 +1277,6 @@
    "regiones_extra": []
   },
   {
-   "id": "285cfb567f16",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Temprana Preventiva para la comuna de Tortel por crecida",
-   "descripcion": "De acuerdo con la información técnica proporcionada por la Dirección General de Aguas (DGA) , mediante su minuta técnica N°1 de hoy 01 de septiembre, se informa que la situación del Lago HPN4 localizado al sur de Campos de Hielo Norte indica lo siguiente: Monitoreo del lago : los registros de la cámara óptica remota y los datos continuos de la estación DGA confirman un proceso activo de llenado y aumento del nivel de agua en el lago glacial. Situación actual : el lago presenta niveles elevados de agua, existiendo una amenaza latente de descarga súbita. Al momento, se estima que faltan unos 11",
-   "region": "Aysén del General Carlos Ibáñez del Campo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-01T19:27:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-tortel-por-crecida-2026-09-01-20-14-35",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "22f7866a57ad",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , han sido cancelados los siguientes alertamientos meteorológicos para la Región de Atacama, debido al debilitamiento de las condiciones que los originaron: Alertamiento Pronóstico Aviso A461-2 Viento normal a moderado con probabilidad de tormentas de arena en el litoral. Aviso A460 Altas temperaturas en litoral, cordillera de la costa y sectores de valles y pampa. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED cancel",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-01T18:41:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-08-23-17-36-33",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "8500753a1527",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Roja para las comunas de San Clemente y Colbún por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), a través de su boletín técnico de fecha 01 de septiembre de 2026 para el Embalse Colbún, elaborado a partir de los pronósticos meteorológicos proporcionado por la Dirección Meteorológica de Chile y del análisis efectuado mediante el modero Precipitación-Escorrentía, evaluó que las condiciones hidrometeorológicas que dieron origen a las alertas decretadas el 25 y 27 de agosto ya no se encuentran presentes. En consecuencia, la DGA concluye declarar el término de los estados de alertas de crecidas en sus distinto",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-01T17:21:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-clemente-y-colbun-por-crecida-2026-08-25-17-45-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "fd514dc5e08f",
    "nivel": "ROJA",
    "tipo": "activación de quebradas",
@@ -2042,7 +2000,7 @@
    "descripcion": "🔴 #SenapredInforma \n¡ATENCIÓN! Por desborde del Río Mataquito, #SENAPRED solicita evacuar sector Placilla en la comuna de #Licantén, Región del Maule.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, se activó mensajería #SAE 📱.\nActúa con calma y acata las indicaciones de la autoridad. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades. \nMás información: https://web.senapred.cl/dimension-animal",
    "region": "Maule",
    "comunas": [],
-   "estado": "CANCELADA",
+   "estado": "EXPIRADA",
    "ts": "2026-07-28T11:45:02+00:00",
    "url": "https://t.me/SenapredChile/1447",
    "origen": "telegram",
