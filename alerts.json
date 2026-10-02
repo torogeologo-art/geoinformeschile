@@ -1,13 +1,57 @@
 {
- "generado": "2026-10-02T11:01:15+00:00",
+ "generado": "2026-10-02T15:38:57+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 18,
+ "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "143466f6ca1b",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica cobertura y evento de Alerta Temprana Preventiva para las Provincias de Magallanes, Tierra del Fuego y Última Esperanza a evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A522 Precipitaciones normales a moderadas en Cordillera Austral Sur y Pampa Patagónica Sur. 02-10 03-10 Abrir aquí Aviso A526 Probables tormentas eléctricas en Cordillera Austral Norte e Insular norte de la región. 02-10 02-10 Abrir aquí Cabe señalar, que mediante el pronóstico especial emitido por el Centro Meteorológico Regional Austral, se indican los siguientes montos de precip",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-02T10:48:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-tierra-del-fuego-y-comuna-de-torres-del-paine-por-precipitaciones-2026-09-30-19-08-53",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "e44ca381b508",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía. Alertamiento Pronóstico Inicio Fin Enlace Aviso A520-4 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo en litoral, cordillera de la costa y valle. 02-10 03-10 Abrir aquí Por otra parte, debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico. Alertamiento Pronóstico Aviso A515 Probables tormentas",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-02T10:38:19.1919-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-09-29-18-52-18",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "af215ea1031b",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A518-2 Viento normal a moderado en precordillera y cordillera de la región. 02-10 03-10 Abrir aquí Aviso A520-4 Probable tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo en valle, precordillera y cordillera. 02-10 03-10 Abrir aquí Finalmente, el Servicio Nacional de Geología y Minería (SERNAGEOMIN) señala que la probab",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-02T09:39:32.3232-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "59a5bda04e61",
    "nivel": "ATP",
@@ -161,36 +205,6 @@
    "estado": "VIGENTE",
    "ts": "2026-09-30T21:15:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-09-29-16-32-14",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7413d07e37e8",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Temprana Preventiva para las Provincias de Magallanes, Tierra del Fuego y comuna de Torres del Paine por precipitaciones",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A522 Precipitaciones normales a moderadas en Cordillera Austral Sur y Pampa Patagónica Sur. 02-10 03-10 Abrir aquí Cabe señalar, que mediante el pronóstico especial emitido por el Centro Meteorológico Regional Austral, se indican los siguientes montos de precipitaciones (mm/ cm) e isoterma 0°C (m.s.n.m): Sector Comuna Precipitaciones Altura Isoterma 0°C Cordillera Austral Sur Río V",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-30T19:05:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-tierra-del-fuego-y-comuna-de-torres-del-paine-por-precipitaciones-2026-09-30-19-08-53",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
-  },
-  {
-   "id": "0148048c52ad",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía. Alertamiento Pronóstico Inicio Fin Enlace Aviso A515 Probables tormentas eléctricas en cordillera de la costa y valle 30-09 30-09 Abrir aquí Aviso A520-1 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo en litoral, cordillera de la costa y valle. 02-10 03-10 Abrir aquí Asimismo, el Centro Meteorológico Marítimo de la Armada emitió un Aviso Especial por l",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-30T12:38:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-09-29-18-52-18",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -446,7 +460,7 @@
    "comunas": [
     "Toltén"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-09-25T13:53:05+00:00",
    "url": "https://t.me/SenapredChile/1610",
    "origen": "telegram",
@@ -462,7 +476,7 @@
    "comunas": [
     "Mariquina"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-09-25T13:37:25+00:00",
    "url": "https://t.me/SenapredChile/1609",
    "origen": "telegram",
@@ -478,7 +492,7 @@
    "comunas": [
     "Nacimiento"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-09-25T13:12:47+00:00",
    "url": "https://t.me/SenapredChile/1608",
    "origen": "telegram",
@@ -510,7 +524,7 @@
    "comunas": [
     "Pitrufquén"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-09-25T12:35:32+00:00",
    "url": "https://t.me/SenapredChile/1607",
    "origen": "telegram",

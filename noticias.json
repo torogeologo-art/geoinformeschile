@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-02T08:53:11+00:00",
+ "generado": "2026-10-02T15:39:14+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -2505,6 +2505,13 @@
    "comuna": "Santa Bárbara",
    "noticias": [
     {
+     "titulo": "Las lluvias inundan calles de Santa Bàrbara (Tarragona) tras el desborde de un barranco - ABC",
+     "medio": "ABC",
+     "fecha": "2026-10-02T08:46:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORHdxZmxBN2ExeGxwNlpwODYtVzkxZnJoWXRzYkxobmVxSzhMeng3RUtJTWNSZXJBTUNCbk1QaHZRajVvckhObVFPUGYtZmY0amJ3X0d0QVdBak01VC1BRTkyZ1lyaXJRZWpyWlBwWVVZdjZiTXk5akVDOG1NRW1HYUp3NUNLT3g5ZV9wM0hnZ2s1MzA4STNOOVFHTzNORlpHQ2c?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Desborde del Biobío deja aisladas a familias en Los Boldos y complica acceso a velorio - latribuna.cl",
      "medio": "latribuna.cl",
      "fecha": "2026-09-25T16:35:00+00:00",
@@ -2565,13 +2572,6 @@
      "medio": "latribuna.cl",
      "fecha": "2026-09-25T03:04:40+00:00",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeENxQVJsMVVGR0dMbXQ0WnZVamNOUWdHUWNyNXZBTXoybFdPNERZUzdVWTRyM3hwVy1wV0todUpPSlVleVNQSldjOXhISm9LN2xGOV9Ma3dDQTNvZ3VLTTdYSTZSQTVLWHNna3RNTE1JeUN2SHE3SHVjRE1pZVp5UGltNEc5elJ2TXlYYWJSU0tKd01HZ0FDeTRtYU9MdlRvX2IxNUFEcWh3RVFJTEZHSG9xbkpQVl9qYzdOMVFXQW1xdGRPZXZMYmdGa3g0VnFYSnI5dmt5a9IB1wFBVV95cUxOeENxQVJsMVVGR0dMbXQ0WnZVamNOUWdHUWNyNXZBTXoybFdPNERZUzdVWTRyM3hwVy1wV0todUpPSlVleVNQSldjOXhISm9LN2xGOV9Ma3dDQTNvZ3VLTTdYSTZSQTVLWHNna3RNTE1JeUN2SHE3SHVjRE1pZVp5UGltNEc5elJ2TXlYYWJSU0tKd01HZ0FDeTRtYU9MdlRvX2IxNUFEcWh3RVFJTEZHSG9xbkpQVl9qYzdOMVFXQW1xdGRPZXZMYmdGa3g0VnFYSnI5dmt5aw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Ordenan evacuar sector de Santa Bárbara por desborde del río Bío Bío - diariosurnoticias.com",
-     "medio": "diariosurnoticias.com",
-     "fecha": "2026-09-25T03:02:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmJucFlUNzkzMWZLZTJMLUxTaWhEYXdGNW1ucm1MTmVQdjhsT1YyWklCTG8xcFRHdzltWDZKQkhOd3FQRkFHY0c4NjlEcHd1T0Y2WlpPYmVQZF9rMDg2dTdJY29mUmoycU5aakRSZHZyM1JPQjZ1cVFiVDMtaURkUDdoUnVYRzBuLVMxMk5Qa0RLSDEzNFBJNnJCY3pET2JoQXlNZFFZS2JKNHF0NHFRbk5lSEh5aS00Ykl1SFln?oc=5",
      "sector": null
     }
    ]
@@ -3935,6 +3935,13 @@
      "sector": null
     },
     {
+     "titulo": "Balance regional por lluvias: Lanco y Panguipulli concentran los mayores daños e inundaciones - diariosanjose.cl",
+     "medio": "diariosanjose.cl",
+     "fecha": "2026-09-25T14:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUVkxendjaDhsUzI3U0czQmtpdHBLclJ5aWoyelJVVnF6S3o1a1VUN1BTVlh6ZTlNaUhFNGt6R25BeVB5UFVGb0lsc0tzTFdWT1VuWlk4UFVBQkc2TGhpU0E0WjBqWHZsUl9sVHZpc3RxUEp4S1UtQy1TcHlwTEhPWFFMQ3FZME1uM3RIa1ZVajRxT0xObDRCTlB2U0drQ2F2cjlXYV9idDNqLVoxZDZBNUdZYXZDaGRUaVNEajVCTC10UkozMG9xU2ZkWEdIMHc4LU5id0FUaGt3MW42dDA4X01R?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Diputado Kunstmann pide despliegue de Delegación en Lanco por desbordes y familias aisladas tras sistema frontal - G5noticias",
      "medio": "G5noticias",
      "fecha": "2026-09-25T12:48:08+00:00",
@@ -3967,13 +3974,6 @@
      "medio": "Loncoche Informado",
      "fecha": "2026-09-24T17:30:49+00:00",
      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQdGxPd2hWSzlfWUlod0V0WjJ6aTlDcXhZSEx2d3VQdjZneUc5Q1VEZUI5aXY1VFVsOGhhZ0pTUG1SS3VwMW9RUnZ3STY5QUdjdTF0QlN3NWpTU3dyeHBJYlR0aVdPallXdEU4a1BLbXBkdXhMMW9RSnRuZl85MFA3QUlSUXo0WjI2aTQyczBCZDlSWkhqTXA5TnF0V2VBSlYtVWV4alEteXg4czdfRTFvVWo3X2E4Y2VqZURpTnF1SEpvMjlHdGdCYnlSTXByUl9obW5CWG5MRmJQQUtDc1RWM0hPNER3Ny1Rem1BOGRxY1IwbTcyR2I5ZENHVDk5b0p1S3k1b0szaE1RbDBQb2ZpYkc1WGltWGx2N1lsMUJtZkNUb3VrM0hkZDZQMmU5UkYxenZJQkt3ZXM3VTdIRUVnLTlxdDAtSEUyWkI1a3prN0wwY2JPb0F2a3dSOEt6TGg5aG5EM21wSXJHSGIyR3RsWkR6Y01wTEx5VFVOdWpIdjR5NlVPU3ZnZ1hNS0NNd0VCOHcxTtIBlANBVV95cUxQdGxPd2hWSzlfWUlod0V0WjJ6aTlDcXhZSEx2d3VQdjZneUc5Q1VEZUI5aXY1VFVsOGhhZ0pTUG1SS3VwMW9RUnZ3STY5QUdjdTF0QlN3NWpTU3dyeHBJYlR0aVdPallXdEU4a1BLbXBkdXhMMW9RSnRuZl85MFA3QUlSUXo0WjI2aTQyczBCZDlSWkhqTXA5TnF0V2VBSlYtVWV4alEteXg4czdfRTFvVWo3X2E4Y2VqZURpTnF1SEpvMjlHdGdCYnlSTXByUl9obW5CWG5MRmJQQUtDc1RWM0hPNER3Ny1Rem1BOGRxY1IwbTcyR2I5ZENHVDk5b0p1S3k1b0szaE1RbDBQb2ZpYkc1WGltWGx2N1lsMUJtZkNUb3VrM0hkZDZQMmU5UkYxenZJQkt3ZXM3VTdIRUVnLTlxdDAtSEUyWkI1a3prN0wwY2JPb0F2a3dSOEt6TGg5aG5EM21wSXJHSGIyR3RsWkR6Y01wTEx5VFVOdWpIdjR5NlVPU3ZnZ1hNS0NNd0VCOHcxTg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred ordena evacuar Balneario de Malalhue en Lanco por desborde del Río Leufucade - vlnradio.cl",
-     "medio": "vlnradio.cl",
-     "fecha": "2026-09-24T16:28:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbXl6amNBSW5DTnFzRnplYk92bFVCeTd6WHJfUzNCckxPRThzVjNfTkNaZ3hiaUs0VlUxYkJHUTJ5czZKNExtdFB5cnlhanVZZkVXbTNaSEJOM0FKMG91NkJaZ1R3S21Kam11UUV3NGVCb2k2Rk9xUzFVcjdsRGtzcmpLem9UaFlVTktDenJoVExGelNVV0Q5Z3hPaEozRDY1QkpRZk92VC1WT3VqUE5mOXJqNy1WT3pVTi1RUzd5T2RSUWZKOThUOGxBUjNlTmZTZEtoUUQ0SGI5NW5fM0xfMVFnTzg5MGdxd3pMekdRYw?oc=5",
      "sector": null
     }
    ]
