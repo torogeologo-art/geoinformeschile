@@ -1,12 +1,12 @@
 {
- "generado": "2026-10-02T08:52:54+00:00",
+ "generado": "2026-10-02T11:01:15+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 19,
+ "total_vigentes": 18,
  "alertas": [
   {
    "id": "59a5bda04e61",
@@ -526,7 +526,7 @@
    "comunas": [
     "Angol"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-09-25T10:36:21+00:00",
    "url": "https://t.me/SenapredChile/1605",
    "origen": "telegram",
