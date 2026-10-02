@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-02T20:09:32+00:00",
+ "generado": "2026-10-02T23:50:12+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "22-09-2026",
   "hasta": "02-10-2026"
  },
  "totales": {
-  "alertas": 101,
+  "alertas": 98,
   "sae": 19,
   "comunas": 17,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 66,
-   "AMARILLA": 12,
+   "ATP": 64,
+   "AMARILLA": 11,
    "ROJA": 23
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    41
+    40
    ],
    [
     "desborde",
@@ -30,14 +30,14 @@
    ],
    [
     "viento",
-    11
-   ],
-   [
-    "evento meteorológico",
     10
    ],
    [
     "nevadas",
+    9
+   ],
+   [
+    "evento meteorológico",
     8
    ],
    [
@@ -84,7 +84,7 @@
     "region": "Libertador General Bernardo O'Higgins",
     "nivel": "ATP",
     "sae": false,
-    "ts": "22-09",
+    "ts": "23-09",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
    },
@@ -410,15 +410,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "22-09",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
-   {
     "lugar": "Región de Biobío",
     "region": "Biobío",
     "nivel": "ATP",
@@ -455,13 +446,24 @@
     "region_link": "antofagasta"
    }
   ],
+  "nevadas": [
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "22-09",
+    "comuna_link": "",
+    "region_link": "nuble"
+   }
+  ],
   "evento meteorológico": [
    {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "22-09",
+    "ts": "23-09",
     "comuna_link": "",
     "region_link": "la araucania"
    },
@@ -475,15 +477,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Magallanes y de la Antártica Chilena",
-    "region": "Magallanes y de la Antártica Chilena",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "22-09",
-    "comuna_link": "",
-    "region_link": "magallanes y de la antartica chilena"
-   },
-   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ATP",
@@ -491,17 +484,15 @@
     "ts": "23-09",
     "comuna_link": "",
     "region_link": "antofagasta"
-   }
-  ],
-  "nevadas": [
+   },
    {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
     "nivel": "ATP",
     "sae": false,
     "ts": "23-09",
     "comuna_link": "",
-    "region_link": "nuble"
+    "region_link": "magallanes y de la antartica chilena"
    }
   ],
   "otros": [
@@ -539,8 +530,8 @@
   {
    "fecha": "2026-09-22",
    "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 3,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   },
   {
