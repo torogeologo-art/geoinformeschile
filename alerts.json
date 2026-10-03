@@ -1,13 +1,71 @@
 {
- "generado": "2026-10-02T23:49:52+00:00",
+ "generado": "2026-10-03T00:31:26+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "1e6ecc2fb604",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para las Provincias de Los Andes, San Felipe, Quillota, Marga Marga y las comunas de Casablanca, Cabildo y Petorca por Tormentas Eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA173 Tormentas eléctricas con probabilidad de granizos en cordillera costa, precordillera y valles precordilleranos y cordillera. 02-10 02-10 Abrir aquí Aviso A520-5 Probable tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo en cordillera costa, precordillera y valles precordilleranos y cordillera. 02-10 03-10 Abrir a",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-02T21:00:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-san-felipe-quillota-marga-marga-y-las-comunas-de-casablanca-cabildo-y-petorca-por-tormentas-electricas-2026-10-02-21-20-57",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "0331ca7252d0",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA173 Tormentas eléctricas con probabilidad de granizos en cordillera de la costa, valle, precordillera y cordillera. 02-10 02-10 Abrir aquí Aviso A520-5 Probable tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo en valle, precordillera y cordillera. 02-10 03-10 Abrir aquí Aviso A518-2 Viento normal a moderado en precor",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-02T20:49:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "215798e39ab3",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Se declara Alerta Roja para la comuna de Punta Arenas por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica del “río Las Minas en Bt. Sendos”, ubicada en la comuna de Punta Arenas, indica un incremento en su caudal, alcanzando el umbral de Alerta Técnica Roja,&nbsp; lo que supone un aumento del riesgo para la población cercana a este curso de agua. Cabe señalar, el umbral rojo establecido por la DGA señala un caudal que puede llegar a producir daños a sectores poblados e infraestructura, pudiendo según el caso, requerir acciones tales como evacuación, defensas, disponibilidad, y recursos humano",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-02T20:34:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-punta-arenas-por-desborde-2026-10-02-21-05-44",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "6cc547eb4839",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Se modifica Alerta Temprana Preventiva para la comuna de Alto del Carmen y Vallenar por crecida",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección Regional del SENAPRED Atacama , debido a la crecida de los Río Huasco y El Carmen, producto de la intensificación de deshielos en los sectores cordilleranos. Asimismo, la Dirección General de Aguas informa que el embalse Santa Juana ha comenzado el vertimiento registrando caudales superiores a los 20m 3 por segundo. Cabe señalar que, en el sector de los Perales Viejos, pertenecientes a la comuna de Vallenar, se ha generado el desborde del Río Huasco afectando a 05 viviendas y al camino principal del sector, registrándose además 12",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-02T20:26:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "1cf33455939d",
    "nivel": "ATP",
@@ -77,20 +135,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-02T10:38:19.1919-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-09-29-18-52-18",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "af215ea1031b",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A518-2 Viento normal a moderado en precordillera y cordillera de la región. 02-10 03-10 Abrir aquí Aviso A520-4 Probable tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo en valle, precordillera y cordillera. 02-10 03-10 Abrir aquí Finalmente, el Servicio Nacional de Geología y Minería (SERNAGEOMIN) señala que la probab",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-02T09:39:32.3232-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -317,20 +361,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-28T20:52:10.1010-03:00",
    "url": "https://senapred.cl/alerta/se-declara-la-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-09-21-20-35-05",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a4854931fcaa",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida",
-   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección Regional del SENAPRED Atacama &nbsp;respecto a la crecida del río El Carmen, se han registrado desbordes de agua a predios agrícolas en los sectores de Las Breas, Retamo, El Berraco y La Rinconada, producto de deshielos registrados en la zona cordillerana y precordillerana. Por otro lado, producto de activación de la quebrada Las Marías, se registra interrupción de conectividad terrestre a la altura del kilómetro 48,5 en la Ruta C – 489, sector El Berraco. Producto de lo anterior 277 personas se encuentran aisladas en las localida",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-09-28T19:51:26.2626-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1301,20 +1331,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-03T11:47:00.000-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-09-01-18-29-21",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "3d31163a79ae",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Ríos. Alertamiento Pronóstico Aviso A464 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en cordillera de la costa, valle y precordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED Cancela la Alerta Temprana Preventiva regional",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-02T22:45:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-09-01-17-05-58",
    "origen": "senapred_web",
    "regiones_extra": []
   },
