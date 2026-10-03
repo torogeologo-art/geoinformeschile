@@ -1,19 +1,19 @@
 {
- "generado": "2026-10-03T10:20:37+00:00",
+ "generado": "2026-10-03T14:50:08+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "23-09-2026",
   "hasta": "03-10-2026"
  },
  "totales": {
-  "alertas": 101,
+  "alertas": 99,
   "sae": 19,
   "comunas": 17,
   "regiones": 15,
   "por_nivel": {
    "ATP": 66,
-   "AMARILLA": 11,
-   "ROJA": 24
+   "AMARILLA": 8,
+   "ROJA": 25
   },
   "por_tipo": [
    [
@@ -22,7 +22,7 @@
    ],
    [
     "desborde",
-    16
+    17
    ],
    [
     "crecida de río",
@@ -30,15 +30,15 @@
    ],
    [
     "viento",
-    10
-   ],
-   [
-    "nevadas",
-    8
+    9
    ],
    [
     "evento meteorológico",
-    8
+    7
+   ],
+   [
+    "nevadas",
+    7
    ],
    [
     "otros",
@@ -401,24 +401,6 @@
   ],
   "viento": [
    {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "23-09",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "23-09",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
     "lugar": "Región de Atacama",
     "region": "Atacama",
     "nivel": "AMARILLA",
@@ -455,6 +437,15 @@
     "region_link": "tarapaca"
    },
    {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "23-09",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ATP",
@@ -464,27 +455,7 @@
     "region_link": "antofagasta"
    }
   ],
-  "nevadas": [
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "23-09",
-    "comuna_link": "",
-    "region_link": "nuble"
-   }
-  ],
   "evento meteorológico": [
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "23-09",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
    {
     "lugar": "Región de Atacama",
     "region": "Atacama",
@@ -511,6 +482,17 @@
     "ts": "23-09",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
+   }
+  ],
+  "nevadas": [
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "24-09",
+    "comuna_link": "",
+    "region_link": "nuble"
    }
   ],
   "otros": [
@@ -548,7 +530,7 @@
   {
    "fecha": "2026-09-23",
    "ROJA": 0,
-   "AMARILLA": 3,
+   "AMARILLA": 0,
    "ATP": 7,
    "sae": 0
   },
@@ -614,75 +596,16 @@
    "AMARILLA": 0,
    "ATP": 9,
    "sae": 0
+  },
+  {
+   "fecha": "2026-10-03",
+   "ROJA": 1,
+   "AMARILLA": 0,
+   "ATP": 0,
+   "sae": 0
   }
  ],
  "escalamientos": [
-  {
-   "lugar": "Región de La Araucanía",
-   "region": "La Araucanía",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "24-09 08:26",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "24-09 16:47",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "28-09 12:47",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "28-09 13:41",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "29-09 11:50",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Los Ríos",
-   "region": "Los Ríos",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "23-09 10:24",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "24-09 09:34",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "26-09 09:24",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "27-09 22:00",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "28-09 20:52",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
   {
    "lugar": "Región de Biobío",
    "region": "Biobío",
@@ -712,6 +635,72 @@
     {
      "nivel": "ATP",
      "ts": "28-09 09:45",
+     "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Los Ríos",
+   "region": "Los Ríos",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "24-09 04:09",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "24-09 09:34",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "26-09 09:24",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "27-09 22:00",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "28-09 20:52",
+     "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de La Araucanía",
+   "region": "La Araucanía",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ROJA",
+     "ts": "24-09 08:26",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "24-09 16:47",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "28-09 12:47",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "28-09 13:41",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "29-09 11:50",
      "estado": "CANCELADA"
     }
    ]
@@ -769,6 +758,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "03-10 08:46",
+   "nivel": "ROJA",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "desborde",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-punta-arenas-por-desborde-2026-10-02-21-05-44"
+  },
   {
    "ts": "02-10 22:02",
    "nivel": "ATP",
@@ -885,15 +883,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15"
-  },
-  {
-   "ts": "01-10 16:44",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

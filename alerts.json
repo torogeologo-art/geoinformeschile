@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-03T11:23:37+00:00",
+ "generado": "2026-10-03T14:50:04+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,22 @@
  },
  "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "27172ae4a213",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Monitoreo Alerta Roja para la comuna de Punta Arenas por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , las estaciones hidrométricas en la comuna de Punta Arenas mantienen el siguiente registro en sus caudales: Estación Hidrométrica Umbral Tendencia Río San Juan en Desembocadura Rojo Subiendo Río Las Minas en BT Sendos Amarillo Bajando Río Las Minas en Punta Arenas Azul Bajando Río Las Minas en Fortuna - Estable Estero Llau-Llau en confluencia D’Agostini - Bajando Producto de un aumento de caudal del Estero Llau-Llau y el registro de daños en 1 vivienda, 3 personas fueron evacuadas, sin lesiones, desde su hogar ha",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-03T08:46:06.066-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-punta-arenas-por-desborde-2026-10-02-21-05-44",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
   {
    "id": "a27a92db2028",
    "nivel": "ATP",
@@ -63,22 +79,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "215798e39ab3",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se declara Alerta Roja para la comuna de Punta Arenas por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica del “río Las Minas en Bt. Sendos”, ubicada en la comuna de Punta Arenas, indica un incremento en su caudal, alcanzando el umbral de Alerta Técnica Roja,&nbsp; lo que supone un aumento del riesgo para la población cercana a este curso de agua. Cabe señalar, el umbral rojo establecido por la DGA señala un caudal que puede llegar a producir daños a sectores poblados e infraestructura, pudiendo según el caso, requerir acciones tales como evacuación, defensas, disponibilidad, y recursos humano",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-02T20:34:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-punta-arenas-por-desborde-2026-10-02-21-05-44",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "1cf33455939d",
