@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-03T18:37:59+00:00",
+ "generado": "2026-10-03T21:49:47+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "23-09-2026",
   "hasta": "03-10-2026"
  },
  "totales": {
-  "alertas": 97,
+  "alertas": 99,
   "sae": 19,
   "comunas": 17,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 64,
-   "AMARILLA": 8,
+   "ATP": 65,
+   "AMARILLA": 9,
    "ROJA": 25
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    42
+    43
    ],
    [
     "desborde",
@@ -29,16 +29,16 @@
     14
    ],
    [
-    "evento meteorológico",
-    7
-   ],
-   [
     "viento",
-    7
+    10
    ],
    [
     "nevadas",
     7
+   ],
+   [
+    "evento meteorológico",
+    5
    ],
    [
     "otros",
@@ -399,35 +399,6 @@
     "region_link": "coquimbo"
    }
   ],
-  "evento meteorológico": [
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "25-09",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "23-09",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Magallanes y de la Antártica Chilena",
-    "region": "Magallanes y de la Antártica Chilena",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "23-09",
-    "comuna_link": "",
-    "region_link": "magallanes y de la antartica chilena"
-   }
-  ],
   "viento": [
    {
     "lugar": "Región de Atacama",
@@ -473,6 +444,24 @@
     "ts": "01-10",
     "comuna_link": "",
     "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "03-10",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "03-10",
+    "comuna_link": "",
+    "region_link": "valparaiso"
    }
   ],
   "nevadas": [
@@ -484,6 +473,35 @@
     "ts": "24-09",
     "comuna_link": "",
     "region_link": "nuble"
+   }
+  ],
+  "evento meteorológico": [
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "25-09",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "25-09",
+    "comuna_link": "",
+    "region_link": "magallanes y de la antartica chilena"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "25-09",
+    "comuna_link": "",
+    "region_link": "antofagasta"
    }
   ],
   "otros": [
@@ -512,7 +530,7 @@
  "vigentes": {
   "ROJA": 1,
   "AMARILLA": 1,
-  "ATP": 15,
+  "ATP": 16,
   "regiones_roja": [
    "Magallanes y de la Antártica Chilena"
   ]
@@ -522,7 +540,7 @@
    "fecha": "2026-09-23",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 4,
+   "ATP": 2,
    "sae": 0
   },
   {
@@ -591,8 +609,8 @@
   {
    "fecha": "2026-10-03",
    "ROJA": 1,
-   "AMARILLA": 0,
-   "ATP": 1,
+   "AMARILLA": 1,
+   "ATP": 4,
    "sae": 0
   }
  ],
@@ -704,8 +722,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "23-09 18:25",
-     "estado": "VIGENTE"
+     "ts": "25-09 13:07",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "ROJA",
@@ -720,11 +738,6 @@
    "sae": false,
    "max": "AMARILLA",
    "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "26-09 02:09",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "AMARILLA",
      "ts": "27-09 17:02",
@@ -744,11 +757,52 @@
      "nivel": "ATP",
      "ts": "02-10 20:26",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "03-10 17:36",
+     "estado": "VIGENTE"
     }
    ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "03-10 18:36",
+   "nivel": "ATP",
+   "lugar": "Región de Valparaíso",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-juan-fernandez-por-evento-meteorologico-2026-10-03-18-37-07"
+  },
+  {
+   "ts": "03-10 18:06",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15"
+  },
+  {
+   "ts": "03-10 17:36",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Atacama",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
+  },
+  {
+   "ts": "03-10 16:20",
+   "nivel": "ATP",
+   "lugar": "Región de Coquimbo",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12"
+  },
   {
    "ts": "03-10 12:59",
    "nivel": "ATP",
@@ -838,42 +892,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-tierra-del-fuego-y-comuna-de-torres-del-paine-por-precipitaciones-2026-09-30-19-08-53"
-  },
-  {
-   "ts": "02-10 10:38",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-09-29-18-52-18"
-  },
-  {
-   "ts": "02-10 09:39",
-   "nivel": "ATP",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28"
-  },
-  {
-   "ts": "01-10 19:36",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Atacama",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
-  },
-  {
-   "ts": "01-10 19:06",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-29-14-13-42"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
