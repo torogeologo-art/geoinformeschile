@@ -1,5 +1,17 @@
 {
- "generado": "2026-10-02T23:49:52+00:00",
+ "generado": "2026-10-03T04:56:45+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
- "sectores": []
+ "sectores": [
+  {
+   "nombre": "río Las Minas",
+   "lat": -53.15782,
+   "lon": -70.90825,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": false,
+   "lugar": "Magallanes y de la Antártica Chilena",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-punta-arenas-por-desborde-2026-10-02-21-05-44",
+   "ts": "2026-10-02T20:34"
+  }
+ ]
 }
