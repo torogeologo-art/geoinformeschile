@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-03T04:56:47+00:00",
+ "generado": "2026-10-03T10:20:35+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -2655,6 +2655,13 @@
    "comuna": "Nacimiento",
    "noticias": [
     {
+     "titulo": "Los impactantes vídeos del río Nacimiento a su paso por Abla: «Impresiona» - Ideal",
+     "medio": "Ideal",
+     "fecha": "2026-10-03T09:45:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcDRGQmhFdmJlb0NTUVJZRDVqdFV5dzF3R1Ruejd6NXctWWhoZkFzRDVFUi1qRlpUQ1lOUHNTaTJwMmxMTWpDZmF1R01ZNDU5dGN2LTdDdlRPUXpqbVNRYmJFdTJwXzVPVnV4VVo5U2draU1QMllFMWxlMG5td0Etd0Q2NjFjNkNkWXpleEUzSFhOSExuVW9JOUM1SnBhaDRTWFpyMmRXLUNMRkt2c0JLSTh4RXfSAboBQVVfeXFMT2hfejRndEZFYS1DVWhuTUwtS3h3akNyT2g3SDN3ZlgxcnU1a2lyOUlZQ09UZGdrTW10RXk4cWNzZmhrOTJJbXZETFBoUTlHZVdvT05OdlhBUC1oZ1gxcFVBZWZhT1QweHVseGdnVTlTUjdPSnFZWHdGSmh6NXMzTW1aUEs1UXNTN0QzV05zVUp6dVpPOG90eWd3aG1DaXNMbG9BeTVJUkZHZ0I2YTg4Y0VxV0VGLTRsUUN3?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Crecida de los ríos inunda una veintena de viviendas en sector San Gregorio de Nacimiento - Radar BioBio",
      "medio": "Radar BioBio",
      "fecha": "2026-09-26T16:03:39+00:00",
@@ -2715,13 +2722,6 @@
      "medio": "VLN Radio",
      "fecha": "2026-08-06T02:11:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVjhhZDJFRmxMaW1xLUNRV0VXMmNodnhHZTJMbldBMS05ZjhrRlR4Z2gzbklMb3JoVVFzbTFvbEhJRHFBazRDTFBYU1d4c2NpdlZremJkd2wyYzBjQ0F6bW1IQUwyY2FwbnNibng0MW9WczVNRG4yOXk3RkU1b3puQXNkdmtDR29PNTh4a3VWZl8yVGJjUmdOaUs1YXhsbTFCX01CU1Rzc25PX2VndTRVUU5wZkhLTGJ5YkNBZzN3bFc4a0tMOFVDMUl3R1ZPYTJwMDBDWmkydng?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Más de 250 personas siguen aisladas en Biobío: Alto Biobío concentra la emergencia tras el temporal - elconcecuente.cl",
-     "medio": "elconcecuente.cl",
-     "fecha": "2026-08-03T18:51:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM3J3d05zRWxMSUlCV3RHRmJqOFFIcW00Z2dWYzdfeF96VThyM2EzQXJJanRFcmlUZUVXQW53emhta1MydU9PYUs4cGdIMnh3OEJ4R0E3M3VsVkRkLUZ0TmFTczlTVnM4a3ZiQWNLT1BGa2VpUVQ4UnBkSEdaYUxvYUxfV1hOTEZNTlM0cVBnOXYwWDNCaGtvWDZESEwzM1RlVlUtZkZoUVl4cjRnaHpzVG1fNEk1UllsbzRTRTV2RkZER01VTktTbg?oc=5",
      "sector": null
     }
    ]
@@ -3030,6 +3030,13 @@
    "comuna": "Nueva Imperial",
    "noticias": [
     {
+     "titulo": "Provincia de Cautín sigue bajo alerta roja tras nuevos desbordes - soychile.cl",
+     "medio": "soychile.cl",
+     "fecha": "2026-09-25T20:19:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEhEbldEc1hZTGVWNndtMUdGV1pZS3hQNkNpRHBpR1lEbXFsYV9DMGZ4SWgzMWJmdEJXZktqUUl5dzBkWXNUb0s1V3M1THJ5NzVOczVhUGpScWotNUxDN3IwLWlZUzMxODVDZG9TbmtwQnhxdzhGVlVKTXNvMjV2S0ZtcDRiT0Z4eEZUbw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Provincia de Cautín sigue bajo alerta roja tras nuevos desbordes - SoyChile.cl",
      "medio": "SoyChile.cl",
      "fecha": "2026-09-25T20:18:33+00:00",
@@ -3090,13 +3097,6 @@
      "medio": "Araucanía Diario",
      "fecha": "2026-08-06T13:15:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3lWWE1KOWVwMzc5Sndtd1gtOTdpeExGa3ltQUtVUjNGbFpncGVSWVI3QjZoRnhSeURJaEcyMnF5cUlHZkdZYkVoeHJ0WExhc2xhMlRsSGdINjBieEFGNUd4NmF5TFdGaEVGejVkZVdVTTFnR0Q0NnBXRTRfWFlNRTZzTTZPOTI0QzlsbGhKcEFrVHU1NkpnSFpQcUhFZ0pocXdzYm5TaFJUUF9CaEItNkxEOVI0SHhy0gG4AUFVX3lxTE5feVZYTUo5ZXAzNzlKd213WC05N2l4TEZreW1BS1VSM0ZsWmdwZVJZUjdCNmhGeFJ5REloRzIycXlxSUdmR1liRWh4cnRYTGFzbGEyVGxIZ0g2MGJ4QUY1R3g2YXlMV0ZoRUZ6NWRlV1VNMWdHRDQ2cFdFNF9YWU1FNnNNNk85MjRDOWxsaEpwQWtUdTU2SmdIWlBxSEVnSmhxd3NiblNoUlRQX0JoQi02TEQ5UjRIeHI?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Huenchumilla y fórmula del Gobierno para compensar a los municipios: “Esperaba del Gobierno un poco más de pudor” - Araucanía Diario",
-     "medio": "Araucanía Diario",
-     "fecha": "2026-08-06T12:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjdlZTBINEpmcjdkN2djbFVlNHo4RnN3cXVtV1lnOHkyV0FXdWtKN21EU1F6U2xBak5hTWZvNURkYk15Y3MxanA0Nnpnb0tlU3RGZ2dVSkplNGIya2NlVVNvcjlUMjJFeUMtZFRPOHZ0WW0tNmNPd3RXSFNHaXU1U3kwNWY2N1lCMjh5OFR2a0lRd2Fucm4xY2Q0X2dSeUtNWklGSGNYUkdUYmVQZTVoMFJzaW9XOWQ10gG4AUFVX3lxTE5CN2VlMEg0SmZyN2Q3Z2NsVWU0ejhGc3dxdW1XWWc4eTJXQVd1a0o3bURTUXpTbEFqTmFNZm81RGRiTXljczFqcDQ2emdvS2VTdEZnZ1VKSmU0YjJrY2VVU29yOVQyMkV5Qy1kVE84dnRZbS02Y093dFdIU0dpdTVTeTA1ZjY3WUIyOHk4VHZrSVF3YW5ybjFjZDRfZ1J5S01aSUZIY1hSR1RiZVBlNWgwUnNpb1c5ZDU?oc=5",
      "sector": null
     }
    ]
@@ -4234,6 +4234,13 @@
      "sector": null
     },
     {
+     "titulo": "Gobierno mantiene despliegue en terreno ante sistema frontal en Los Ríos y refuerza atención en comunas más afectadas - soychile.cl",
+     "medio": "soychile.cl",
+     "fecha": "2026-10-01T22:33:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbDRMOGktbURoeXpNTEdRQUxKZGZxNGlkOF9xVXUzZjZrRTFfN3N2RV9rS3VLT2tlX0JzVnZFRG00ZnJ4WEZ2MF9LOVNwN001VTl4bm94eVBFZy1tZnRlVlVGM0R4Wk5BclRrakhFRXFjT0EwWGNNMExuQm9kdTd2WUhpM2tzTUlxdU5KLUZjdUtZYzA?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred emite alerta para evacuar zonas de Los Ríos y La Araucanía por desbordes de ríos - Chilevisión",
      "medio": "Chilevisión",
      "fecha": "2026-09-25T14:18:23+00:00",
@@ -4287,13 +4294,6 @@
      "medio": "SoyChile.cl",
      "fecha": "2024-06-27T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3VyR0R0TjNpOWRfRkNOc25fczgwSmhQUGtVdzRkRzY0eEg4ZVZxS2VMNHRheThBVnBCd3RFajBDVXRXZUtLWkZad1Y2c09FUmFjWFNQYmdaSnp5RnFlcVZ0NlczN2FzTllyZXZnYk43UDBDbjhna3hBd2tZVXBSNmpUQVRlT2dEeFlXR1BtOXkydEpQWXljWGpiYi1PenYxTTU4?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Cancela Alerta Amarilla para tres comunas de Los Ríos - diariodevaldivia.cl",
-     "medio": "diariodevaldivia.cl",
-     "fecha": "2024-06-24T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFlseW5aYmU4RHRVeDU1ME15MGpkdHNQV1g0em9DbkwwSlF6VDBlMlBTeDB3M0N3b25KTWFFWllWRm1GajBUbHhBRWVWQVJOZ0lGY0ptWnJFYVhJcUxjUVR2OWhZZEZJY2s2dWh0R1BDVkNkanBhY0ttdm0yU3hZaWl5LWlfckJUUS1LMF8xRTB6OG1iY3FudV9KZVNDTF9yWnVLM1BKVEJBb1hSZmg5Zi13?oc=5",
      "sector": null
     }
    ]
