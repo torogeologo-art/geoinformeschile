@@ -1,9 +1,9 @@
 {
- "generado": "2026-10-03T21:49:47+00:00",
+ "generado": "2026-10-04T00:27:57+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "23-09-2026",
-  "hasta": "03-10-2026"
+  "desde": "24-09-2026",
+  "hasta": "04-10-2026"
  },
  "totales": {
   "alertas": 99,
@@ -80,15 +80,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "23-09",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
     "lugar": "Región de Maule",
     "region": "Maule",
     "nivel": "ATP",
@@ -96,6 +87,15 @@
     "ts": "24-09",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "25-09",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -540,7 +540,7 @@
    "fecha": "2026-09-23",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 2,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -610,7 +610,7 @@
    "fecha": "2026-10-03",
    "ROJA": 1,
    "AMARILLA": 1,
-   "ATP": 4,
+   "ATP": 5,
    "sae": 0
   }
  ],
@@ -768,6 +768,15 @@
  ],
  "cronologia": [
   {
+   "ts": "03-10 20:58",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-29-14-13-42"
+  },
+  {
    "ts": "03-10 18:36",
    "nivel": "ATP",
    "lugar": "Región de Valparaíso",
@@ -883,15 +892,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
-  },
-  {
-   "ts": "02-10 10:48",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-tierra-del-fuego-y-comuna-de-torres-del-paine-por-precipitaciones-2026-09-30-19-08-53"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
