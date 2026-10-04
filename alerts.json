@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-03T21:49:45+00:00",
+ "generado": "2026-10-04T00:24:57+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "09cf2674c854",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A520-2 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo en litoral, cordillera de la costa, valle, Chiloé y litoral interior de la región. 02-10 03-10 Abrir aquí Aviso A525-1 Nevadas normales a moderadas en cordillera austral de la región. 03-10 04-10 Abrir aquí Del mismo modo, debido al debilitamiento de las",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-03T20:58:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-29-14-13-42",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "0e554abb5aed",
    "nivel": "ATP",
@@ -233,20 +247,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-01T19:52:56.5656-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-01-19-53-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "5ab30593f7fc",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica evento de Alerta Temprana Preventiva para la región de los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A514 Viento normal a moderado en litoral, Chiloé y litoral interior. 01-10 01-10 Abrir aquí Aviso A519 Probables desarrollo de nubes convectivas con características tornádicas en cordillera de la costa, valle y litoral interior. 02-10 03-10 Abrir aquí Aviso A520-2 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiem",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-01T19:06:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-29-14-13-42",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1317,34 +1317,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-04T08:21:47.4747-04:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-san-clemente-colbun-linares-longavi-retiro-y-parral-por-viento-2026-09-02-08-35-55",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "bdc37908a5d4",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para la comuna de La Unión por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Llollelhue en La Unión” , indica una disminución en su caudal, alcanzando valores normales, lo que supone una disminución del riesgo para la población cercana a este curso de agua. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida para la comuna de La Unión, que se mantuvo vigente desde el 05 de agosto de 2026.",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-03T18:20:32.3232-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-la-union-por-crecida-2026-08-05-12-03-46",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "dcf1e826381f",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la región de La Araucanía por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la Región de La Araucanía: Alertamiento Pronóstico Aviso A464 Probable desarrollo de tormentas eléctricas en litoral, cordillera de la costa y valle. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por tormentas eléctricas que se mantuvo",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-03T11:47:00.000-04:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-09-01-18-29-21",
    "origen": "senapred_web",
    "regiones_extra": []
   },
