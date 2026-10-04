@@ -1,35 +1,35 @@
 {
- "generado": "2026-10-04T17:03:56+00:00",
+ "generado": "2026-10-04T20:12:40+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "24-09-2026",
   "hasta": "04-10-2026"
  },
  "totales": {
-  "alertas": 96,
-  "sae": 16,
-  "comunas": 14,
+  "alertas": 88,
+  "sae": 9,
+  "comunas": 9,
   "regiones": 14,
   "por_nivel": {
-   "ROJA": 21,
-   "AMARILLA": 9,
-   "ATP": 66
+   "AMARILLA": 8,
+   "ATP": 66,
+   "ROJA": 14
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    47
-   ],
-   [
-    "desborde",
-    14
+    46
    ],
    [
     "crecida de río",
-    12
+    10
    ],
    [
     "viento",
+    9
+   ],
+   [
+    "desborde",
     9
    ],
    [
@@ -52,15 +52,6 @@
  },
  "tipos_detalle": {
   "tormentas eléctricas": [
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "24-09",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
    {
     "lugar": "Región de Los Ríos",
     "region": "Los Ríos",
@@ -87,6 +78,15 @@
     "ts": "27-09",
     "comuna_link": "",
     "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "28-09",
+    "comuna_link": "",
+    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -179,126 +179,7 @@
     "region_link": "valparaiso"
    }
   ],
-  "desborde": [
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "24-09",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Curanilahue",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "24-09",
-    "comuna_link": "curanilahue",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Gorbea",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "24-09",
-    "comuna_link": "gorbea",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Cunco",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "24-09",
-    "comuna_link": "cunco",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Arauco",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "24-09",
-    "comuna_link": "arauco",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Santa Bárbara",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "25-09",
-    "comuna_link": "santa barbara",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Angol",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "25-09",
-    "comuna_link": "angol",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Mariquina",
-    "region": "Los Ríos",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "25-09",
-    "comuna_link": "mariquina",
-    "region_link": "los rios"
-   },
-   {
-    "lugar": "Nueva Imperial",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "25-09",
-    "comuna_link": "nueva imperial",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "28-09",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Magallanes y de la Antártica Chilena",
-    "region": "Magallanes y de la Antártica Chilena",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "02-10",
-    "comuna_link": "",
-    "region_link": "magallanes y de la antartica chilena"
-   }
-  ],
   "crecida de río": [
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "24-09",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Quilaco",
-    "region": "Biobío",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "24-09",
-    "comuna_link": "quilaco",
-    "region_link": "biobio"
-   },
    {
     "lugar": "Concepción",
     "region": "Biobío",
@@ -428,6 +309,71 @@
     "region_link": "valparaiso"
    }
   ],
+  "desborde": [
+   {
+    "lugar": "Santa Bárbara",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "25-09",
+    "comuna_link": "santa barbara",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Angol",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "25-09",
+    "comuna_link": "angol",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Mariquina",
+    "region": "Los Ríos",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "25-09",
+    "comuna_link": "mariquina",
+    "region_link": "los rios"
+   },
+   {
+    "lugar": "Nueva Imperial",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "25-09",
+    "comuna_link": "nueva imperial",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "26-09",
+    "comuna_link": "",
+    "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "28-09",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "02-10",
+    "comuna_link": "",
+    "region_link": "magallanes y de la antartica chilena"
+   }
+  ],
   "nevadas": [
    {
     "lugar": "Región de Ñuble",
@@ -502,10 +448,10 @@
  "serie": [
   {
    "fecha": "2026-09-24",
-   "ROJA": 8,
-   "AMARILLA": 4,
+   "ROJA": 1,
+   "AMARILLA": 3,
    "ATP": 1,
-   "sae": 8
+   "sae": 1
   },
   {
    "fecha": "2026-09-25",
@@ -580,72 +526,6 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de La Araucanía",
-   "region": "La Araucanía",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "24-09 17:07",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "24-09 16:47",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "28-09 12:47",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "28-09 13:41",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "29-09 11:50",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Biobío",
-   "region": "Biobío",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "24-09 14:10",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "24-09 18:52",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "24-09 19:25",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "26-09 13:23",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "28-09 09:45",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Los Ríos",
    "region": "Los Ríos",
    "sae": false,
@@ -669,6 +549,62 @@
     {
      "nivel": "ATP",
      "ts": "28-09 20:52",
+     "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Biobío",
+   "region": "Biobío",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "24-09 18:52",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "24-09 19:25",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "26-09 13:23",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "28-09 09:45",
+     "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de La Araucanía",
+   "region": "La Araucanía",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "28-09 11:11",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "28-09 12:47",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "28-09 13:41",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "29-09 11:50",
      "estado": "CANCELADA"
     }
    ]
