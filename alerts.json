@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-04T12:33:02+00:00",
+ "generado": "2026-10-04T16:57:50+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "4ef22f6db27e",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A518-3 Viento normal a moderado en cordillera. 03-10 04-10 Abrir aquí Aviso A531 Viento normal a moderado en litoral, cordillera de la costa valle y precordillera. 05-10 07-10 Abrir aquí Aviso A533 Probables tormentas eléctricas en cordillera. 04-10 04-10 Abrir aquí Aviso A534-1 Precipitaciones normales a moderadas en el litoral, cordillera de la costa, valle, pr",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-04T13:46:58.5858-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "66588fa2e0ee",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A518-3 Viento normal a moderado en cordillera. 03-10 04-10 Abrir aquí Aviso A533 Probables tormentas eléctricas en precordillera y cordillera. 04-10 04-10 Abrir aquí Aviso A534-1 Precipitaciones normales a moderadas en cordillera de la costa, valle, precordillera y cordillera. 06-10 07-10 Abrir aquí Aviso A535 Probables tormentas eléctricas en cordillera de la c",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-04T13:35:39.3939-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "74ece8ad9ad8",
    "nivel": "ATP",
@@ -61,20 +89,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-03T20:58:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-29-14-13-42",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "b04382eac9ad",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A518-3 Viento normal a moderado en cordillera. 03-10 04-10 Abrir aquí Aviso A530 Precipitaciones normales a moderadas en corto periodo de tiempo en precordillera y cordillera. 06-10 07-10 Abrir aquí Aviso A531 Viento normal a moderado en litoral, cordillera de la costa valle y precordillera. 05-10 07-10 Abrir aquí Adicionalmente, el Centro Meteorológico de la Arm",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-03T18:06:56.5656-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -133,20 +147,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-02T23:38:55.5555-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "0331ca7252d0",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA173 Tormentas eléctricas con probabilidad de granizos en cordillera de la costa, valle, precordillera y cordillera. 02-10 02-10 Abrir aquí Aviso A520-5 Probable tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo en valle, precordillera y cordillera. 02-10 03-10 Abrir aquí Aviso A518-2 Viento normal a moderado en precor",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-02T20:49:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28",
    "origen": "senapred_web",
    "regiones_extra": []
   },
