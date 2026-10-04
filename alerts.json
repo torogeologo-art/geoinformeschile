@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-04T17:03:51+00:00",
+ "generado": "2026-10-04T20:03:25+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "892e92fc091e",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A531-1 Viento normal a moderado en litoral, cordillera de la costa y cordillera. 05-10 07-10 Abrir aquí Aviso A533 Probables tormentas eléctricas en cordillera. 04-10 04-10 Abrir aquí Aviso A534-1 Precipitaciones normales a moderadas en el litoral, cordillera de la costa, precordillera y valles precordilleranos, y cordillera. 06-10 07-10 Abrir aquí Aviso A535 Prob",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-04T16:39:40.4040-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "4ef22f6db27e",
    "nivel": "ATP",
@@ -47,20 +61,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-04T08:24:31.3131-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-09-29-18-52-18",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "4228b822b616",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A531 Viento normal a moderado en litoral, cordillera de la costa y cordillera. 05-10 07-10 Abrir aquí Aviso A533 Probables tormentas eléctricas en cordillera. 04-10 04-10 Abrir aquí Asimismo, debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguientes alertamiento meteorológico para la región: Alertamiento Pronósti",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-04T08:19:05.055-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12",
    "origen": "senapred_web",
    "regiones_extra": []
   },
