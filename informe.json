@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-05T02:18:33+00:00",
+ "generado": "2026-10-05T09:32:41+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "25-09-2026",
   "hasta": "05-10-2026"
  },
  "totales": {
-  "alertas": 87,
+  "alertas": 89,
   "sae": 7,
   "comunas": 7,
   "regiones": 14,
   "por_nivel": {
    "ROJA": 13,
-   "ATP": 69,
+   "ATP": 71,
    "AMARILLA": 5
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    46
+    47
    ],
    [
     "desborde",
@@ -34,7 +34,7 @@
    ],
    [
     "nevadas",
-    7
+    8
    ],
    [
     "evento meteorológico",
@@ -479,6 +479,13 @@
    "AMARILLA": 0,
    "ATP": 8,
    "sae": 0
+  },
+  {
+   "fecha": "2026-10-05",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 2,
+   "sae": 0
   }
  ],
  "escalamientos": [
@@ -587,6 +594,24 @@
  ],
  "cronologia": [
   {
+   "ts": "05-10 04:33",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "nevadas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
+  },
+  {
+   "ts": "05-10 01:05",
+   "nivel": "ATP",
+   "lugar": "Región de Maule",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-05-01-09-19"
+  },
+  {
    "ts": "04-10 22:42",
    "nivel": "ROJA",
    "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -693,24 +718,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15"
-  },
-  {
-   "ts": "03-10 17:36",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Atacama",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
-  },
-  {
-   "ts": "03-10 16:20",
-   "nivel": "ATP",
-   "lugar": "Región de Coquimbo",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
