@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-05T18:30:06+00:00",
+ "generado": "2026-10-05T18:51:17+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 13,
  "alertas": [
+  {
+   "id": "84e974eff6b3",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA174 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa, valle y precordillera. 06-10 07-10 Abrir aquí Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa valle, precordillera y cordillera. 05-10 08-10 Abrir aquí Aviso A534-2 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle, precordillera y",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-05T15:38:45.4545-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "5ab951418f05",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo de Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 05-10 06-10 Abrir aquí Aviso A534-2 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle, precordillera y cordillera. 05-10 06-10 Abrir aquí Aviso A535 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-05T15:20:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-05-01-09-19",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "f85a3dc08711",
    "nivel": "ATP",
@@ -111,20 +139,6 @@
    "regiones_extra": []
   },
   {
-   "id": "a8d6194d7678",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A531-1 Viento normal a moderado en litoral, cordillera costa, valle y precordillera. 05-10 07-10 Abrir aquí Aviso A534-1 Precipitaciones normales a moderadas en precordillera y cordillera. 06-10 07-10 Abrir aquí Aviso A535 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo litoral, cordillera costa, valle, precor",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-05T01:05:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-05-01-09-19",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "688671020a1d",
    "nivel": "ATP",
    "tipo": "viento",
@@ -135,20 +149,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-04T21:09:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "4924225821cd",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A518-3 Viento normal a moderado en cordillera. 03-10 04-10 Abrir aquí Aviso A531-1 Viento normal a moderado en litoral, cordillera de la costa valle y precordillera. 05-10 07-10 Abrir aquí Aviso A533 Probables tormentas eléctricas en cordillera. 04-10 04-10 Abrir aquí Aviso A534-1 Precipitaciones normales a moderadas en el litoral, cordillera de la costa, valle,",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-04T21:03:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15",
    "origen": "senapred_web",
    "regiones_extra": []
   },
