@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-05T02:18:15+00:00",
+ "generado": "2026-10-05T09:07:51+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "46a421c24a11",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy lunes 05 de octubre, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán posterior al registro del último sismo de largo periodo del 04 de octubre, y durante las últimas 4 horas, se ha observado un aumento en la activi",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-05T04:33:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a8d6194d7678",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A531-1 Viento normal a moderado en litoral, cordillera costa, valle y precordillera. 05-10 07-10 Abrir aquí Aviso A534-1 Precipitaciones normales a moderadas en precordillera y cordillera. 06-10 07-10 Abrir aquí Aviso A535 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo litoral, cordillera costa, valle, precor",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-05T01:05:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-05-01-09-19",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "604549a60422",
    "nivel": "ROJA",
@@ -23,20 +51,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "926695fe5f4d",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy domingo 04 de octubre, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán registraron un sismo asociado a la dinámica interna de fluidos. Las características del sismo luego de su análisis son las siguientes: Tiempo d",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-04T22:23:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "688671020a1d",
@@ -235,20 +249,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "c0ff17c0120a",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A518-2 Viento normal a moderado en precordillera y cordillera. 02-10 03-10 Abrir aquí Aviso A520-3 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo litoral, cordillera costa, valle, precordillera y cordillera. 01-10 03-10 Abrir aquí Aviso A523-1 Precipitaciones normales a moderadas en precordillera. 02-10 03-10",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-01T20:12:20.2020-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-09-30-11-40-54",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "0b836066aca3",
