@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-06T19:06:42+00:00",
+ "generado": "2026-10-06T19:34:37+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "68dedff6df14",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 05-10 06-10 Abrir aquí Aviso A534-2 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle, precordillera y cordillera. 05-10 06-10 Abrir aquí Aviso A535-1 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un cor",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-06T16:08:52.5252-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-05-01-09-19",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "6ca4735abaaf",
    "nivel": "ATP",
@@ -191,20 +205,6 @@
    "regiones_extra": []
   },
   {
-   "id": "5ab951418f05",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo de Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 05-10 06-10 Abrir aquí Aviso A534-2 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle, precordillera y cordillera. 05-10 06-10 Abrir aquí Aviso A535 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-05T15:20:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-05-01-09-19",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "5e8a06c97412",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -247,6 +247,20 @@
    "estado": "CANCELADA",
    "ts": "2026-10-05T12:01:08.088-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-29-14-13-42",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "3235664922ea",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , debido al debilitamiento de las condiciones que lo originaron, han sido cancelados los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Aviso A518-2 Viento normal a moderado en precordillera y cordillera. Aviso A520-3 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo litoral, cordillera costa, valle, precordillera y cordillera. Aviso A523-1 Precipitaciones normales a moderadas en precordillera. En consideraci",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-05T00:36:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-09-30-11-40-54",
    "origen": "senapred_web",
    "regiones_extra": []
   },
