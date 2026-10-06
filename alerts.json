@@ -1,13 +1,55 @@
 {
- "generado": "2026-10-06T06:54:09+00:00",
+ "generado": "2026-10-06T13:40:30+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 13,
+ "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "008353cd8131",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED , en el contexto del evento meteorológico que se desarrolla en la Región Metropolitana, se reportan los siguientes antecedentes y novedades: COMUNA NOVEDADES COLINA Por crecida del Río Colina, tránsito vehicular interrumpido en el sector de badén Santa Filomena. Por crecida del Río Colina, tránsito vehicular interrumpido en el sector de badén Las Guacas. LAMPA Por crecida del Estero Colina, tránsito vehicular y ferroviario alterado en cercanía de la intersección de la calle Cacique Colin y la línea férrea. SAN J",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-06T09:22:04.044-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "9b7c7025ee21",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Se modifica Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A524-3 Viento normal a moderado con probabilidad de ventisca en cordillera. 06-10 09-10 Abrir Aquí Asimismo, debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Aviso A532 Nevadas normales a moderadas con probabilidad de ventisca en cordillera. En",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-06T08:41:05.055-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ba84878692b9",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para la comuna de Lo Barnechea por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Molina antes junta San Francisco” ubicada en la comuna de Lo Barnechea, ha alcanzado valores de umbral amarillo&nbsp;y presenta una tendencia al alza en las próximas horas. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Lo Barnechea, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con la declaración de la Alerta Am",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-06T08:21:20.2020-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-lo-barnechea-por-crecida-2026-10-06-08-22-42",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "8bd8d0d3a4db",
    "nivel": "ATP",
@@ -103,20 +145,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-05T15:10:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "f6deca742c20",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA174 Precipitaciones moderadas a fuertes en cordillera de la costa, valle y precordillera. 06-10 07-10 Abrir aquí Aviso A531-3 Viento normal a moderado en cordillera. 05-10 08-10 Abrir aquí Aviso A534-2 Precipitaciones normales a moderadas en precordillera y cordillera. 05-10 06-10 Abrir aquí Aviso A535 Probables tormentas eléctricas con probabilidad de graniz",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-05T14:50:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -219,20 +247,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-03T23:33:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-san-felipe-quillota-marga-marga-y-las-comunas-de-casablanca-cabildo-y-petorca-por-tormentas-electricas-2026-10-02-21-20-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7144406f5088",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se modifica Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A524-2 Viento normal a moderado con probabilidad de ventisca en cordillera. 03-10 08-10 Abrir Aquí Aviso A532 Nevadas normales a moderadas en cordillera. 04-10 06-10 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED modifica el evento de Alerta Temprana Preventiva a ev",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-03T17:36:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
    "origen": "senapred_web",
    "regiones_extra": []
   },
