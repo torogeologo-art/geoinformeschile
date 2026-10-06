@@ -1,28 +1,28 @@
 {
- "generado": "2026-10-06T19:34:40+00:00",
+ "generado": "2026-10-06T23:19:17+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "26-09-2026",
   "hasta": "06-10-2026"
  },
  "totales": {
-  "alertas": 92,
+  "alertas": 93,
   "sae": 0,
   "comunas": 1,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 79,
+   "ATP": 80,
    "AMARILLA": 7,
    "ROJA": 6
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    55
+    54
    ],
    [
     "viento",
-    16
+    18
    ],
    [
     "crecida de río",
@@ -67,24 +67,6 @@
     "region_link": "la araucania"
    },
    {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "26-09",
-    "comuna_link": "",
-    "region_link": "arica y parinacota"
-   },
-   {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "26-09",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
     "lugar": "Región de Los Ríos",
     "region": "Los Ríos",
     "nivel": "ATP",
@@ -112,6 +94,15 @@
     "region_link": "arica y parinacota"
    },
    {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "27-09",
+    "comuna_link": "",
+    "region_link": "los lagos"
+   },
+   {
     "lugar": "Región de Biobío",
     "region": "Biobío",
     "nivel": "ATP",
@@ -137,6 +128,15 @@
     "ts": "28-09",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "30-09",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
    },
    {
     "lugar": "Región de Coquimbo",
@@ -173,6 +173,15 @@
     "ts": "02-10",
     "comuna_link": "",
     "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "06-10",
+    "comuna_link": "",
+    "region_link": "nuble"
    }
   ],
   "viento": [
@@ -344,17 +353,10 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 3,
-  "ATP": 14,
+  "ATP": 15,
   "regiones_roja": []
  },
  "serie": [
-  {
-   "fecha": "2026-09-26",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 2,
-   "sae": 0
-  },
   {
    "fecha": "2026-09-27",
    "ROJA": 1,
@@ -422,7 +424,7 @@
    "fecha": "2026-10-06",
    "ROJA": 0,
    "AMARILLA": 3,
-   "ATP": 8,
+   "ATP": 11,
    "sae": 0
   }
  ],
@@ -588,6 +590,33 @@
  ],
  "cronologia": [
   {
+   "ts": "06-10 19:21",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15"
+  },
+  {
+   "ts": "06-10 18:28",
+   "nivel": "ATP",
+   "lugar": "Región de Valparaíso",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-04-17-51-31"
+  },
+  {
+   "ts": "06-10 18:24",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-01-19-53-31"
+  },
+  {
    "ts": "06-10 16:08",
    "nivel": "ATP",
    "lugar": "Región de Maule",
@@ -685,33 +714,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-lo-barnechea-por-crecida-2026-10-06-08-22-42"
-  },
-  {
-   "ts": "05-10 19:01",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-05-19-03-06"
-  },
-  {
-   "ts": "05-10 18:43",
-   "nivel": "ATP",
-   "lugar": "Región de Valparaíso",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-04-17-51-31"
-  },
-  {
-   "ts": "05-10 16:58",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
