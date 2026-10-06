@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-06T00:42:48+00:00",
+ "generado": "2026-10-06T06:54:28+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "26-09-2026",
   "hasta": "06-10-2026"
  },
  "totales": {
-  "alertas": 87,
-  "sae": 1,
-  "comunas": 2,
+  "alertas": 83,
+  "sae": 0,
+  "comunas": 1,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 75,
-   "ROJA": 8,
+   "ATP": 72,
+   "ROJA": 7,
    "AMARILLA": 4
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    51
+    50
    ],
    [
     "viento",
@@ -26,15 +26,15 @@
    ],
    [
     "desborde",
-    7
+    6
    ],
    [
     "nevadas",
-    7
+    6
    ],
    [
     "crecida de río",
-    5
+    4
    ],
    [
     "otros",
@@ -65,15 +65,6 @@
     "ts": "28-09",
     "comuna_link": "",
     "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "25-09",
-    "comuna_link": "",
-    "region_link": "maule"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -137,6 +128,15 @@
     "ts": "28-09",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "28-09",
+    "comuna_link": "",
+    "region_link": "maule"
    },
    {
     "lugar": "Región de Coquimbo",
@@ -233,15 +233,6 @@
   ],
   "desborde": [
    {
-    "lugar": "Angol",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "26-09",
-    "comuna_link": "angol",
-    "region_link": "la araucania"
-   },
-   {
     "lugar": "Región de Biobío",
     "region": "Biobío",
     "nivel": "ROJA",
@@ -275,7 +266,7 @@
     "region": "Ñuble",
     "nivel": "ATP",
     "sae": false,
-    "ts": "26-09",
+    "ts": "27-09",
     "comuna_link": "",
     "region_link": "nuble"
    }
@@ -291,15 +282,6 @@
     "region_link": "los rios"
    },
    {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "26-09",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
     "nivel": "ATP",
@@ -307,6 +289,15 @@
     "ts": "02-10",
     "comuna_link": "",
     "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "02-10",
+    "comuna_link": "",
+    "region_link": "atacama"
    }
   ],
   "otros": [
@@ -349,18 +340,11 @@
  },
  "serie": [
   {
-   "fecha": "2026-09-25",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
-  {
    "fecha": "2026-09-26",
-   "ROJA": 2,
+   "ROJA": 1,
    "AMARILLA": 0,
-   "ATP": 5,
-   "sae": 1
+   "ATP": 3,
+   "sae": 0
   },
   {
    "fecha": "2026-09-27",
