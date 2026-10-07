@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-07T16:50:18+00:00",
+ "generado": "2026-10-07T21:37:05+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,48 @@
  },
  "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "0de034198049",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A539 Probables desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en valle. 06-10 07-10 Abrir aquí Aviso A540-1 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en litoral, cordillera de la costa, valle y precordillera. 07-10 08-",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-07T17:08:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-05-19-03-06",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "110e2a040616",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa y cordillera. 05-10 08-10 Abrir aquí Aviso A535-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, precordillera y valles precordilleranos y cordillera. 07-10 09-10 Abrir aquí Asimismo, se han cancelado los siguientes aler",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-07T16:54:10.1010-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-04-17-51-31",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "259b365f9b45",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A539 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en litoral, cordillera de la costa, valle y precordillera. 07-10 07-10 Abrir aquí Aviso A540-1 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la costa, valle, pr",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-07T14:10:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-06-15-15-18",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "9220d02a3425",
    "nivel": "ATP",
@@ -51,20 +93,6 @@
    "regiones_extra": []
   },
   {
-   "id": "43c688a45bfe",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Juan Fernández por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Enlace Aviso A528 Precipitaciones normales a moderadas en el Archipiélago Juan Fernández. Abrir aquí Aviso A529 Viento normal a moderado en el Archipiélago Juan Fernández. Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-07T00:53:49.4949-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-juan-fernandez-por-evento-meteorologico-2026-10-03-18-37-07",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "c47d19240526",
    "nivel": "AMARILLA",
    "tipo": "remoción en masa",
@@ -89,20 +117,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-06T19:21:03.033-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "cd011a36b2dc",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA174-1 Precipitaciones moderadas a fuertes en litoral, cordillera de la costa, precordillera y valles precordilleranos. 06-10 07-10 Abrir aquí Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa y cordillera. 05-10 08-10 Abrir aquí Aviso A534-2 Precipitaciones normales a moderadas en cordillera. 06-10 06-10 Abrir aquí Aviso A535-1 Probabl",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-06T18:28:58.5858-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-04-17-51-31",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -145,34 +159,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-06T15:55:52.5252-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-10-06-14-44-08",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "689258cbba6e",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A538 Probables tormentas eléctricas en cordillera de la costa y valle 06-10 06-10 Abrir aquí Aviso A539 Probables desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en valle. 06-10 07-10 Abrir aquí Aviso A540 Probables tormentas eléctricas en litoral, cordillera de la costa, valle",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-06T15:46:48.4848-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-05-19-03-06",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "91d4246521dd",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "D e acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A539 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en litoral, cordillera de la costa, valle y precordillera. 07-10 07-10 Abrir aquí Aviso A540 Probables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera, Chiloé, litoral interior y cordillera austral. 07",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-06T15:12:09.099-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-06-15-15-18",
    "origen": "senapred_web",
    "regiones_extra": []
   },
