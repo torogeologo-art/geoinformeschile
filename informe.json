@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-07T02:39:00+00:00",
+ "generado": "2026-10-07T09:20:56+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "27-09-2026",
@@ -22,7 +22,7 @@
    ],
    [
     "viento",
-    18
+    19
    ],
    [
     "crecida de río",
@@ -30,7 +30,7 @@
    ],
    [
     "nevadas",
-    6
+    5
    ],
    [
     "desborde",
@@ -67,15 +67,6 @@
     "region_link": "la araucania"
    },
    {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "27-09",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ATP",
@@ -92,6 +83,15 @@
     "ts": "27-09",
     "comuna_link": "camarones",
     "region_link": "arica y parinacota"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "27-09",
+    "comuna_link": "",
+    "region_link": "los rios"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -293,7 +293,7 @@
     "region": "Ñuble",
     "nivel": "ATP",
     "sae": false,
-    "ts": "27-09",
+    "ts": "28-09",
     "comuna_link": "",
     "region_link": "nuble"
    }
@@ -361,7 +361,7 @@
    "fecha": "2026-09-27",
    "ROJA": 1,
    "AMARILLA": 1,
-   "ATP": 6,
+   "ATP": 5,
    "sae": 0
   },
   {
@@ -425,6 +425,13 @@
    "ROJA": 0,
    "AMARILLA": 3,
    "ATP": 11,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-10-07",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   }
  ],
@@ -493,7 +500,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "27-09 00:04",
+     "ts": "27-09 16:50",
      "estado": "VIGENTE"
     },
     {
@@ -589,6 +596,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "07-10 00:53",
+   "nivel": "ATP",
+   "lugar": "Región de Valparaíso",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-juan-fernandez-por-evento-meteorologico-2026-10-03-18-37-07"
+  },
   {
    "ts": "06-10 19:21",
    "nivel": "ATP",
@@ -705,15 +721,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
-  },
-  {
-   "ts": "06-10 08:21",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-lo-barnechea-por-crecida-2026-10-06-08-22-42"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
