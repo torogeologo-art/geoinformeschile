@@ -1,13 +1,55 @@
 {
- "generado": "2026-10-07T09:20:39+00:00",
+ "generado": "2026-10-07T16:32:05+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "9220d02a3425",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA175 Viento moderado a fuerte con desarrollo de tormentas de arena en cordillera de la costa y precordillera salar. 07-10 08-10 Abrir aquí Aviso A524-5 Viento normal a moderado con probabilidad de ventisca en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa y cordillera. 07-10 09-10 Abrir aquí En consideración a este antecedente y en",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-07T13:18:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e9ad884a99d3",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para las comunas de Licantén y Curepto por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “Río Mataquito en Licantén”, ubicada en pasarela peatonal, ex puente Escalones en la comuna de Licantén, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para las comunas de Licantén y Curepto, vigente a c",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-07T09:11:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-licanten-y-curepto-por-crecida-2026-10-07-10-34-41",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "29d7361a756c",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA174-1 Precipitaciones moderadas a fuertes en litoral y cordillera de la costa. 06-10 07-10 Abrir aquí Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa y cordillera. 05-10 08-10 Abrir aquí Aviso A535-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, precordillera",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-07T08:40:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "43c688a45bfe",
    "nivel": "ATP",
@@ -117,34 +159,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-06T15:46:48.4848-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-05-19-03-06",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "8307cb06e8fa",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A524-4 Viento normal a moderado con probabilidad de ventisca en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 06-10 09-10 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED mantiene la Alerta Temprana",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-06T15:37:56.5656-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "c35aa5c8652b",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA174 Precipitaciones moderadas a fuertes en litoral y cordillera de la costa. 06-10 07-10 Abrir aquí Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa y cordillera. 05-10 08-10 Abrir aquí Aviso A534-2 Precipitaciones normales a moderadas en precordillera y valles precordilleranos y cordillera. 05-10 06-10 Abrir aquí Aviso A535-1 Probables",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-06T15:18:31.3131-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12",
    "origen": "senapred_web",
    "regiones_extra": []
   },
