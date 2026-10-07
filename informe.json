@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-07T09:20:56+00:00",
+ "generado": "2026-10-07T16:50:38+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "27-09-2026",
   "hasta": "07-10-2026"
  },
  "totales": {
-  "alertas": 93,
+  "alertas": 96,
   "sae": 0,
   "comunas": 1,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 80,
-   "AMARILLA": 7,
+   "ATP": 82,
+   "AMARILLA": 8,
    "ROJA": 6
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    54
+    56
    ],
    [
     "viento",
@@ -26,7 +26,7 @@
    ],
    [
     "crecida de río",
-    7
+    8
    ],
    [
     "nevadas",
@@ -352,7 +352,7 @@
  },
  "vigentes": {
   "ROJA": 0,
-  "AMARILLA": 2,
+  "AMARILLA": 3,
   "ATP": 14,
   "regiones_roja": []
  },
@@ -430,8 +430,8 @@
   {
    "fecha": "2026-10-07",
    "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
+   "AMARILLA": 1,
+   "ATP": 3,
    "sae": 0
   }
  ],
@@ -568,6 +568,11 @@
      "nivel": "ATP",
      "ts": "06-10 16:08",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "07-10 09:11",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -596,6 +601,33 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "07-10 13:18",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
+  },
+  {
+   "ts": "07-10 09:11",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Maule",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-licanten-y-curepto-por-crecida-2026-10-07-10-34-41"
+  },
+  {
+   "ts": "07-10 08:40",
+   "nivel": "ATP",
+   "lugar": "Región de Coquimbo",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12"
+  },
   {
    "ts": "07-10 00:53",
    "nivel": "ATP",
@@ -694,33 +726,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-molina-y-curico-por-crecida-2026-10-06-13-43-10"
-  },
-  {
-   "ts": "06-10 13:35",
-   "nivel": "ATP",
-   "lugar": "Región de Biobío",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-30-15-03-26"
-  },
-  {
-   "ts": "06-10 09:22",
-   "nivel": "ATP",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28"
-  },
-  {
-   "ts": "06-10 08:41",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Atacama",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

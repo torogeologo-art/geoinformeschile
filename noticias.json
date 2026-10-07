@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-07T09:20:55+00:00",
+ "generado": "2026-10-07T16:50:37+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -3520,6 +3520,27 @@
    "comuna": "Maule",
    "noticias": [
     {
+     "titulo": "Declaran Alerta Amarilla en Licantén y Curepto por crecida del río Mataquito - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-10-07T13:59:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTlpZZGREcmQ2YktkcDJzZ3VrSms1Y3hBNnZELTV0Zzkzd2hNUWIwR05oTi00SHQzcnRaUFFENHlWbUdudG9EWnVUYndoUzBmdGpNNnQ3amdpUHdfNDBpX3hhVHJsNHZyUXQxTkpUNFVNa3B6aEV2enRVNDEySDRYWlFhTVR3ZWxOZU54RzRmQzBkbE1KUVdGTk0zaDEyQzQ1Y2dFVE9OTTRQcGdQcEtaNzRWY19jVlNoQzk5cndXZmpFNnlEYTVQaHBYREFsSVVRLXc?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred declara Alerta Amarilla para las comunas de Licantén y Curepto por crecidas de ríos y esteros - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-10-07T13:36:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWWljaWNVZnNnc1YyLWs5MzdKY19pUFpUcW43ZUdBb3NDZGZ2MmF0QnR2c1hDaW9ZNzdFbXUwQ3FBWkh0ZUI4QlRDUUw5SWd5ZUNTQWhoLWRBcFB1Um1QQ2RQTGxXWXRJYmFlaXl6bWd4djUzT1hxODFmY1h5MER1djB3TUFiSVdSWTBMWUFuV3Fqc3REa0F3YzMxRVQ1aVZ0UnJtSUtWQnNhazNaZmxfWTZLUWlzblVzdFV4cTJkRE1oZUY5VXVHbFpSemx6WGlUZXdhZENQVFdpLUJ4Q0tsZUpfa1dDSzJVaWt5MzBnc0tCR0ZWZzJmMlhTc3FQSTczNmVZ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Decretan Alerta Amarilla para Licantén por crecida del río Mataquito - musicaynoticias.cl",
+     "medio": "musicaynoticias.cl",
+     "fecha": "2026-09-15T14:32:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSFd3SU9fSGdpYUdRQTFNdFNYME8xSHpUZ3NNVnhDMmUxZVlEOC04STJnQU5yaTBVOTZqdE1haXBwZzNGY1lYNXNiY3dHMUx1S3dSOG5yMG52SmFQN2dKMk9lU1JpWDNFMkEyWlNXSlhmQlh5ZFFGaHBNbjBGSVBEa3lVWnJWcjVrbmVMbFlxWDl0WjFWVWdsQkxHWnVoZzl4YVptTkZKOE9kcUZDYTJ4QW9kVzVka3ZiZHpreFA4M3JjdjJDWDZyekxUWXlQWTZZa1NRa2NvYWZsdw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred mantiene Alerta Amarilla por crecida de ríos en la Región del Maule - Radio Agricultura",
      "medio": "Radio Agricultura",
      "fecha": "2026-08-27T12:10:31+00:00",
@@ -3571,35 +3592,6 @@
      "fecha": "2026-07-26T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUzloMmtwTWRFR1dPTncxd0RFeWZxbGpuUll3QkZCRGEwb3A3VXIxN1NDWmlqWGhadGNGclNJMzBSejdVWHAwR3RldWM4MTlzaW95eHR6OUhBeG9WT3VxMXhiOHp0YmhvOWxaWmtMbFRhTGhEeTNJU1Q2bS1GZWM5ZEFCcE1kUm9SeE12UTFTS2hJeC01bmRKNEZJVzB2QmZwWnlQVmZYU0pqbVdfNFBzRHl6a1VDa2tlMG44SXptczJiZ2k4OC02ZXJMVVF2VkVidXBJVHFuOUluRkEzQklacw?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "Senapred eleva a alerta roja la emergencia por crecida de ríos en seis comunas de Ñuble, cuatro del Maule y una de Biobío - La Tercera",
-     "medio": "La Tercera",
-     "fecha": "2026-07-26T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbncyZ2tkMFBUWXhSazc2VmxPT1ktR1VlRGxfUU5vclpEZUc5SHNSWnNOaW9GUVpUTk43cVZobXV3a1FhdE51QlpWRlhYVnVHcXpUZjh5UzZPTEE4X2VmTzl6UUktZDBoNGU0WFU4Mm1VZGhTV0xVdzl6alMwTWU1dk5Fa25qS2VEc21xQUtINFBYeGtlR1dydUJfVU4xY0V1VjExbnFPVjBNSTctQmZleTA5WklXX0l1T2x6eHV4OFhfN0ZsWGtsOUZwM1FYaUJSdThjajVyVUxUeU0yX25xYtIBggJBVV95cUxNYU5oeFJEcGI1ZTZlNlR2dXBKaGRIb1hRUDdyZndOYm50YjY4MGlEaU5DcnltXzJxdEREVnRyOFM1dk5Oa25aLWFndnF5TnZjQlJwWEpqZTA0b0FXaEY2WEx3LWNJT3pYYVNnZXJVaGFRcWV2Y21OOUJPT2o0U3htT1ZRNloxeld5TWJfX21kdHhrSkdiMllUYW1RSHlxY0FjT2V5SmUtUjlpNjBlNEl1UVBPdGFSam5TWDQ3TVNfNGJtQ1dMTkRhczdtZTc3eXhfZG1wQllSTGRKd2pfMEVScjl4dmp0YndVYUo0a3IwQlQ5bnAtZU9jZTBRd0Q1Vm05cnc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Declaran Alerta Amarilla para Parral por aumento del caudal del río Perquilauquén - musicaynoticias.cl",
-     "medio": "musicaynoticias.cl",
-     "fecha": "2026-07-26T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRjM5aG1xR2h0aEFDUTJCZGlpUnZxMUVibjhGMHJycHVoUU12aDNvV3RSblhzRzhKWWxNcW9SNlh4WkdaRENxSTFQWjBIVzEyem43VlJNM0oybWRNZ3Qwa08zTUFhLWpUaXBGTG1qbnZXMEJldHJZNmVYSmtySmQtVnhlU3c5QURXV2hia1hnQ0JZZUVJUFBOellmWUpWQTFrV0RzMXVxTmRlUmZqODlNdHA4Y05kWC1yajh0MkdiOVRwb0tZVUJzS0txNjNPcmNMTzZfR3c2OW1xVDNPZE9LMjYwaWltOXNWbGJiOEZRVQ?oc=5",
-     "sector": {
-      "nombre": "río Perquilauquén",
-      "lat": -36.24792,
-      "lon": -71.79315
-     }
-    },
-    {
-     "titulo": "Autoridades monitorean Río Perquilauquén tras declaración de Alerta Roja por riesgo de desborde en Cauquenes y Parral – MauleHoy - Maule Hoy",
-     "medio": "Maule Hoy",
-     "fecha": "2026-07-21T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc1BfRDdvUTduY1FtaU1fa252eFZwLU0xc1JxMlBjN04yeWI4TWJ5RGNXLXhTT2RGQjBxZEJYZlBpRnlVM0JKY0t3NHR2OEVUZmtDb2p1a2Rma3VUcHBZSzJjc0NFa2FubVpjTFNIZGdqclZWMy1IbEt2akMzRHFwQ3Rtc0FjVWhFZGw0NDNqeXI1T0dWa29nZ1dyYjVHV3FPT1cwdjRKMncxV3l6dDFUcmRpZGFEMFcwYjh0U0xNX3VtZFdna0lmeTdwNlBjaTVBX3pCVEdkYXlPUXl1eEJZbXpWdw?oc=5",
-     "sector": {
-      "nombre": "río Perquilauquén",
-      "lat": -36.24792,
-      "lon": -71.79315
-     }
     }
    ]
   },
