@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-07T02:38:57+00:00",
+ "generado": "2026-10-07T09:07:29+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "43c688a45bfe",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Juan Fernández por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Enlace Aviso A528 Precipitaciones normales a moderadas en el Archipiélago Juan Fernández. Abrir aquí Aviso A529 Viento normal a moderado en el Archipiélago Juan Fernández. Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-07T00:53:49.4949-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-juan-fernandez-por-evento-meteorologico-2026-10-03-18-37-07",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "c47d19240526",
    "nivel": "AMARILLA",
