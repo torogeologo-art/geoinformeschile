@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-07T21:53:23+00:00",
+ "generado": "2026-10-08T01:20:35+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "29d7361a756c",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa y cordillera. 05-10 08-10 Abrir aquí Aviso A535-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, precordillera y valles precordilleranos y cordillera. 07-10 09-10 Abrir aquí Asimismo, debido al debilitamiento de las condici",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-07T20:32:50.5050-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "0de034198049",
    "nivel": "ATP",
@@ -75,20 +89,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-07T09:11:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-licanten-y-curepto-por-crecida-2026-10-07-10-34-41",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "29d7361a756c",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA174-1 Precipitaciones moderadas a fuertes en litoral y cordillera de la costa. 06-10 07-10 Abrir aquí Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa y cordillera. 05-10 08-10 Abrir aquí Aviso A535-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, precordillera",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-07T08:40:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1259,20 +1259,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-08T19:03:11.1111-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7d367c521cc2",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Aysén por heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , debido al debilitamiento de las condiciones que lo originaron, han sido cancelados los siguientes alertamientos meteorológico para la Región de Aysén. Alertamiento Pronóstico Alerta AA156 Heladas moderadas a intensas con formación de escarcha en Patagonia Subandina Norte. Aviso A469 Heladas normales a moderadas en Patagonia Subandina Norte y Patagonia Subandina Sur. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Aysén, la Dirección Regional del SENAPRE",
-   "region": "Aysén del General Carlos Ibáñez del Campo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-07T11:58:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-heladas-2026-09-04-15-44-36",
    "origen": "senapred_web",
    "regiones_extra": []
   },
