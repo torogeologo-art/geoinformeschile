@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-08T08:02:12+00:00",
+ "generado": "2026-10-08T15:40:22+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "28-09-2026",
   "hasta": "08-10-2026"
  },
  "totales": {
-  "alertas": 91,
+  "alertas": 88,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 79,
-   "AMARILLA": 7,
-   "ROJA": 5
+   "ATP": 77,
+   "ROJA": 5,
+   "AMARILLA": 6
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    52
+    49
    ],
    [
     "viento",
@@ -29,11 +29,11 @@
     7
    ],
    [
-    "nevadas",
+    "desborde",
     5
    ],
    [
-    "desborde",
+    "nevadas",
     5
    ],
    [
@@ -51,29 +51,11 @@
    {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
-    "nivel": "AMARILLA",
+    "nivel": "ATP",
     "sae": false,
     "ts": "28-09",
     "comuna_link": "",
     "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "28-09",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "28-09",
-    "comuna_link": "",
-    "region_link": "biobio"
    },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -110,6 +92,24 @@
     "ts": "28-09",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "29-09",
+    "comuna_link": "",
+    "region_link": "los lagos"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "30-09",
+    "comuna_link": "",
+    "region_link": "biobio"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -278,17 +278,6 @@
     "region_link": "atacama"
    }
   ],
-  "nevadas": [
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "28-09",
-    "comuna_link": "",
-    "region_link": "nuble"
-   }
-  ],
   "desborde": [
    {
     "lugar": "Región de La Araucanía",
@@ -307,6 +296,17 @@
     "ts": "02-10",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
+   }
+  ],
+  "nevadas": [
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "29-09",
+    "comuna_link": "",
+    "region_link": "nuble"
    }
   ],
   "evento meteorológico": [
@@ -351,8 +351,8 @@
   {
    "fecha": "2026-09-28",
    "ROJA": 1,
-   "AMARILLA": 1,
-   "ATP": 9,
+   "AMARILLA": 0,
+   "ATP": 6,
    "sae": 0
   },
   {
@@ -417,37 +417,16 @@
    "AMARILLA": 1,
    "ATP": 5,
    "sae": 0
+  },
+  {
+   "fecha": "2026-10-08",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
+   "sae": 0
   }
  ],
  "escalamientos": [
-  {
-   "lugar": "Región de La Araucanía",
-   "region": "La Araucanía",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "28-09 11:11",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "28-09 12:47",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "28-09 13:41",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "29-09 11:50",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
   {
    "lugar": "Región de Magallanes y de la Antártica Chilena",
    "region": "Magallanes y de la Antártica Chilena",
@@ -472,6 +451,29 @@
     {
      "nivel": "ROJA",
      "ts": "05-10 13:28",
+     "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de La Araucanía",
+   "region": "La Araucanía",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "28-09 12:47",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "28-09 13:41",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "29-09 11:50",
      "estado": "CANCELADA"
     }
    ]
@@ -557,6 +559,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "08-10 10:45",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "nevadas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
+  },
   {
    "ts": "07-10 17:08",
    "nivel": "ATP",
@@ -673,15 +684,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
-  },
-  {
-   "ts": "06-10 15:18",
-   "nivel": "ATP",
-   "lugar": "Región de Coquimbo",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
