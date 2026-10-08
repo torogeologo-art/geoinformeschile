@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-07T21:53:25+00:00",
+ "generado": "2026-10-08T01:43:36+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "27-09-2026",
-  "hasta": "07-10-2026"
+  "desde": "28-09-2026",
+  "hasta": "08-10-2026"
  },
  "totales": {
-  "alertas": 95,
+  "alertas": 91,
   "sae": 0,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 82,
-   "ROJA": 6,
-   "AMARILLA": 7
+   "ATP": 79,
+   "AMARILLA": 7,
+   "ROJA": 5
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    54
+    52
    ],
    [
     "viento",
@@ -26,7 +26,7 @@
    ],
    [
     "crecida de río",
-    8
+    7
    ],
    [
     "nevadas",
@@ -38,7 +38,7 @@
    ],
    [
     "evento meteorológico",
-    3
+    2
    ],
    [
     "otros",
@@ -62,18 +62,9 @@
     "region": "Los Lagos",
     "nivel": "ATP",
     "sae": false,
-    "ts": "27-09",
+    "ts": "28-09",
     "comuna_link": "",
     "region_link": "los lagos"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "27-09",
-    "comuna_link": "",
-    "region_link": "atacama"
    },
    {
     "lugar": "Región de Biobío",
@@ -101,6 +92,15 @@
     "ts": "28-09",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "28-09",
+    "comuna_link": "",
+    "region_link": "atacama"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -233,15 +233,6 @@
   ],
   "crecida de río": [
    {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "27-09",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
     "lugar": "Región de Metropolitana de Santiago",
     "region": "Metropolitana de Santiago",
     "nivel": "AMARILLA",
@@ -258,6 +249,15 @@
     "ts": "06-10",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "29-09",
+    "comuna_link": "",
+    "region_link": "los rios"
    },
    {
     "lugar": "Región de Coquimbo",
@@ -315,7 +315,7 @@
     "region": "Antofagasta",
     "nivel": "ATP",
     "sae": false,
-    "ts": "27-09",
+    "ts": "28-09",
     "comuna_link": "",
     "region_link": "antofagasta"
    },
@@ -348,13 +348,6 @@
   "regiones_roja": []
  },
  "serie": [
-  {
-   "fecha": "2026-09-27",
-   "ROJA": 1,
-   "AMARILLA": 0,
-   "ATP": 3,
-   "sae": 0
-  },
   {
    "fecha": "2026-09-28",
    "ROJA": 1,
@@ -484,34 +477,6 @@
    ]
   },
   {
-   "lugar": "Región de Atacama",
-   "region": "Atacama",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "27-09 19:13",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "01-10 19:36",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "02-10 20:26",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "03-10 17:36",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Maule",
    "region": "Maule",
    "sae": false,
@@ -535,6 +500,34 @@
     {
      "nivel": "AMARILLA",
      "ts": "07-10 09:11",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Atacama",
+   "region": "Atacama",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "28-09 18:26",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "01-10 19:36",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "02-10 20:26",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "03-10 17:36",
      "estado": "VIGENTE"
     }
    ]
