@@ -1,13 +1,57 @@
 {
- "generado": "2026-10-09T01:07:15+00:00",
+ "generado": "2026-10-09T07:25:04+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 21,
+ "total_vigentes": 23,
  "alertas": [
+  {
+   "id": "a368937acd56",
+   "nivel": "ROJA",
+   "tipo": "aluvión",
+   "titulo": "Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional Metropolitana , respecto al aluvión que afecta a Camino El Alba al Norte Quebrada Honda Sur, General Blanche, Vital Apoquindo poniente hasta el oriente por interfaz cordillera en la comuna de Las Condes, se reportan al momento 6 personas lesionadas, los que fueron trasladados a diversos centros asistenciales. Cabe destacar que, producto del ingreso de agua y barro se registran las siguientes novedades: Comuna de Las Condes -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clínica Universidad de Los Andes: ingreso de agua, sin daño",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-09T02:25:56.5656-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ff820c6e4552",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para las comunas de Maipú, Padre Hurtado, Talagante, Peñaflor, El Monte y Melipilla por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “ Río Mapocho en Pte. Rinconada de Maipú”, ubicada en la comuna de Maipú, indica un incremento en su caudal, alcanzando valores de umbral amarillo y presenta una tendencia al alza en las próximas horas, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para las comunas de Mai",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-09T02:00:55.5555-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-maipu-padre-hurtado-talagante-penaflor-el-monte-y-melipilla-por-crecida-2026-10-09-02-02-34",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "087723804d74",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "ATENCIÓN! Reiteramos!",
+   "descripcion": "ATENCIÓN! Reiteramos!\nPor desborde del Río Mapocho, se solicita evacuar sector Campamento Ribera del Río, comuna de Talagante, Región Metropolitana.\n\n#SENAPRED activó mensajería #SAE. \n\nActúa con calma y acata las indicaciones de la autoridad.\n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información: web.senapred.cl/dimension-anim…",
+   "region": "Metropolitana de Santiago",
+   "comunas": [
+    "Talagante"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-10-09T01:46:47+00:00",
+   "url": "https://t.me/SenapredChile/1620",
+   "origen": "telegram",
+   "sae": true
+  },
   {
    "id": "246d785a9406",
    "nivel": "ROJA",
@@ -35,20 +79,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-08T21:58:38.3838-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "63841cb6028c",
-   "nivel": "ROJA",
-   "tipo": "aluvión",
-   "titulo": "Monitoreo Alerta Roja para las comuna de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional Metropolitana, respecto al aluvión que afecta a Camino El Alba al Norte Quebrada Honda Sur, General Blanche, Vital Apoquindo poniente hasta el oriente por interfaz cordillera en la comuna de Las Condes, se reportan al momento 6 personas lesionadas , los que fueron trasladados a diversos centros asistenciales. Mientras que, producto del ingreso de agua y barro se registran las siguientes novedades en la comuna de Las Condes: -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clínica Universidad de Los Andes: ingreso de agua, sin dañ",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-08T20:21:16.1616-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22",
    "origen": "senapred_web",
    "regiones_extra": []
   },
