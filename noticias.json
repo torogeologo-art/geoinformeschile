@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-08T20:51:17+00:00",
+ "generado": "2026-10-09T01:07:35+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -4423,6 +4423,81 @@
      "medio": "armada.cl",
      "fecha": "2012-03-14T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX2xmZXYzWVZZUG1NVXRJUncxdTJhN01GOENLb19jU1NqdVV6YTBMYWQ4VjVyNmlZcUx0YV96ZldCOGVMOW5tVnpQcmZPRmVQRllYSnJYcWFfTWkzUWZkeTJEdGFnWmM0QXp5V1JrTFlUYmxNYzlDSm1USlFqNUlxSlNnNkFXd1A4Mjl4NVJ4UE1SaHI5VmdBVTdNblFwVW1lMHhUQjNFb2JBX28?oc=5",
+     "sector": null
+    }
+   ]
+  },
+  "talagante": {
+   "comuna": "Talagante",
+   "noticias": [
+    {
+     "titulo": "Aluvión en Santiago: alerta roja en 10 comunas, evacuación en Talagante y esto es lo último que se sabe - DSN Noticias",
+     "medio": "DSN Noticias",
+     "fecha": "2026-10-09T00:17:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOFBtTXQ1RXNxMm1idTNtalRsbjhvYVU1VThmS1pjLUx3anlNaE00ejBxa29EN29ZWldEQ1dUUFlpbXhfeFdZd1UxSnBycGFIRk1DdG40cURBUm5XOGgyNlM4TjA5cDFjU0Judjh6QkpDSE5mRVNSOEFHV1J2NnJ1RzFha1VieVBnT0l0M1ZncXRkOUtBUjBfYlcycHNxSV9OWEtTdGV4V3BKWWlQdTNRUFo5aXc0emxo?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Talagante evacúa Campamento Ribera del Río \"con uso de fuerza, si es necesario\" - Cooperativa",
+     "medio": "Cooperativa",
+     "fecha": "2026-10-08T23:38:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZEJIdmd5M1JzU2F5QXp3M25YYmtoOHBEc29IV3R1SENhbU5sdk1OOUlNZ011ZmZ6LWlDdk5jUEZscGhUYzYwRnIzUnl2Y01udURvMlc4eWJGa09hcWtKd2pzOEthcUUzVVBDdUlrSW8xZUlPU0FsSjJ0SG9RSE9WazN0Q3prR1RfNGo4WUU0Szk2eGwwMmhPdXl4X0V6aVJOWW51QWw0TXR6eGV3eEZiNGNPQ0k3OVlLZllrY0NMdXNwOFh1YXRDclNrUWZXSUl4b0poajR6S3pGZTdVQm5JcTFFbGhLY2NmN3Vrcy00R3lVd2kzVGfSAYwBQVVfeXFMT29aUnhfUHdieDVXQ08wZXg1aGxMbGFVYmZ5enA0SlZHdWNlaW5JcmNpaHpfakw3c0FLLXc4TEdyUEZRYWNmVGM2MUJ0aURNYUoyanRlOWM5aFFSbzZ0ZHZxM1M1cENEMHdqNjZjTlowS2VodU5nVXA1Nzc2UEpveDh0NW9sQWNleDRmRjY?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred declara Alerta Roja en 10 comunas de la RM por aluvión y solicita evacuar sector de Talagante por desborde del Río Mapocho - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-10-08T22:51:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWJBczVVVjR2N1RvZjA2OXVMZ3RMOER3cThmMl90Q0dkWGxMSG5NVTJmTkxrQVRBWnVjWmYycDlFN2t0SGFxeVFrOTJXMTU5dUk0Rll6aXVmb216ZVloTDZ3ZkY2aVRHeWRFbXRaUGUxSzU0N29lcW1DellOdEZ6M2RIa0JLVU1PV2VRa3NFdFREaXF2MGJfcmN2dmI?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Se activó alerta SAE: desborde del río Mapocho obliga a evacuar sector Campamento Rivera en Talagante - ADN Radio",
+     "medio": "ADN Radio",
+     "fecha": "2026-10-08T22:45:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRlMyelNvXzZIRGpwVDlyT0VLbFJTdmNIUWI0YWM0SXBtWnZUSDFjRUFQdC12SEhTTFhrVm1vNG1WalpUS05fN0o4UV9oR0k4Ti1BTS1ZOEQ1U1ZkX195d1F2WjBPLUJRbnZ4a2V2NEdDemRCRC1VR0daemxTQ29iNDJFZTZteHJZckQxbmRsUjIwdll2Y2pSQm9ZNGFxUmJjVmRsRWJuWUliU1NsTngxcHhHQ2hGWkNIbFR6dnNOeERsb2pQYUg4a2tpenA1UjZtZ3fSAeYBQVVfeXFMTkJFbmVWZmw1STRUdDhZU1d2WWdhTDdSZG5mYjdxanllaW54VExhSm5BQmEydVladi03ak1GYzkyZ3Vtbks5TEVuSUpvdWpETkI0cjIzZ3IxdE10VE5HRG1IaHJOQnJfVlBVYWZ6emk1RTBUcl9fWV95bFFXajBBX3g0c2p3WHk2aGxudzhDUU8zaWthNmV2RTl4QlgtakJXTi1rVDZBMVJDR3NoYkRTZVFGbHNNMnlCbkEzaTZvQ0laRjNaa0g0Xzhqb1JQZGRVWGdvYjBJcW5lOS1tejBYekluemdLSUE?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta SAE en Talagante por desborde del Mapocho; Senapred ordena evacuar campamento - Canal 9 Bío Bío Televisión",
+     "medio": "Canal 9 Bío Bío Televisión",
+     "fecha": "2026-10-08T22:34:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOGNnXzRwamdES2syQ09jRmJnUUhtNUl0a2FTV055dTQ0NGtaVzE4SncyUGhaMmI2Vk5od1BqNDlGdjA3eHphNnFGYnFsdFlLQmFrWUpGU3ctYVBhV0NoZnY2OFZmejVFNnhiWVNTelp1VlByMnl6dDE0eXV4bjN0d0dmeFBTVEF6aDlXM3FNQllqa1dpUjgwdDFGcVdpZ3FGVVZDUDRCdDQ3ZnZPVHNzVzlYYWZQMnpGMThlbjgtazRXU3NuaWxzaHVBeHF2djY0bFZaT21R?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Activan alerta SAE en Talagante por desborde del río Mapocho: Senapred llamó a evacuar campamento - cedarnews.net",
+     "medio": "cedarnews.net",
+     "fecha": "2026-10-08T22:28:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1QtTlU1Y3MxNGtwemFMamZtZUdkR0pnZ0Fjbjd6YW5sZ2tZRWY2YXRoWFMyWjVyTE9tbG5pMjExamdMMDlZck1yeHM4WFEtZHNRWkVEWnNnd3ktdDRGM0FtX2Fwek0xZ2N1MG9BWWoxcEZqQVJpamVPejRaNzVLQ2I3VVBsbzJtcUZla1k0cURCbFc0WU1v?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred pide evacuar sector en Talagante por desborde del Río Mapocho - Infogate.cl",
+     "medio": "Infogate.cl",
+     "fecha": "2026-10-08T22:26:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQmhycVBEd3Z5MHZLU2hhcWhOTmZrc2pSb2V6Vk5NYTZKVFVtODVMYzRFV3ZpS0p1Y1QyY1d3bzhoVTN0OGJja3J3U1RlcUgzY1A3QklnLTh6Q0JLc3QyTl9EQU1maDRJbEdtZjFfRTNMT0s2UG5mS1FUdHliWGtFZWN2d3JBR096aUZHT2JHaWRVckZOQVBMaDZGb0lzSk5n?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Desborde del río Mapocho provoca evacuación en Talagante: Activan alerta SAE - Chilevisión",
+     "medio": "Chilevisión",
+     "fecha": "2026-10-08T22:12:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQamdMOUNTWUNSUGoyLUZ1SHFvM25ZWjF5cmVrbVhxOHJGem1pNUx3TGFiMDNEdUFhSWdZcHZKSFByQjhXcmRHRDBXRWk3RU1UeFRKSEFhQXVYdXdPSFM4Q18yejVBSTJBdFBxbjN6QkdjaTR4NUluTldZSlBFOXlSdWljNXJDX0xmYWlKWXp4NVJ1V0RGeWxnMHFrUGhUMHl2VmR0YkJydG83eFl6RDAtQzZVZzRpVmM1N0pMNDBB?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Por desborde del río Mapocho: Senapred ordena evacuar sector de Talagante - CNN Chile",
+     "medio": "CNN Chile",
+     "fecha": "2026-10-08T22:11:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUUxVTE2ejMyMkk4bzhPTnZ6V2JSTkZsVm83enJZbFptVFN6N3RLY1E2d09GcHdHcGhJYlRZb3I0OVBHSEVDblNic290YUFsdXdFME03RTJ6a2R1WTYyaFlhZkVEVmlzLXhkV2psdU9uTjJnTVFWMFlDazRqYUZpem0zYnJFTUI3OXg2UjRZbGg0cXltelRLdU9pSWpuRU1lS25QTXpR?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Desborde del río Mapocho obliga a evacuar sector de Talagante: SENAPRED activa SAE - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-10-08T22:11:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVmtwY3F4ZEhDRHdKT2dNZ296RlMtd1o2Ty1XblNidTJLQWlBU1RMN053ckp0QmVGOVBNQkVJbmxucUpMM2xaX3ZwdHZudW5hSGNKY0pBYnN4d25ZeWVlZ2ZzWTdBVVE3b1dCZXd2OEpERHdCYkYxdEZ1MGFrOXJPOGVRRjRPeWd2eElRQ05PTjBjNzdYWGVUdk1vRDY5ZEhIM1NockpOTUVWSGppZ0EtWmFBckVoQ1V6NDN2ZGxHV2d2SDhpNmtjbERFQmhaOGJoNWZ6MnE3Q0Q?oc=5",
      "sector": null
     }
    ]
