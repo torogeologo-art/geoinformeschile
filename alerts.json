@@ -1,12 +1,12 @@
 {
- "generado": "2026-10-09T14:34:45+00:00",
+ "generado": "2026-10-09T19:49:04+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 23,
+ "total_vigentes": 21,
  "alertas": [
   {
    "id": "a368937acd56",
@@ -432,7 +432,7 @@
    "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección General de Aguas (DGA) de Coquimbo, indica que las estaciones hidrométricas “ Estero Derecho en Alcohuaz” y “ Río Cochiguaz en el Peñón” , en las comunas de Paihuano y Vicuña; y la estación hidrométrica “ Río Elqui en Algarrobal” en la comuna de Vicuña han mantenido el umbral de alerta azul. Por otra parte, existe la probabilidad de que continúen registrándose incrementos de caudal y desbordes puntuales, por lo que, se hace necesario reforzar el monitoreo preventivo de los cauces, riberas, sectores habitados e infraestructura empl",
    "region": "Coquimbo",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-10-02T16:41:04.044-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21",
    "origen": "senapred_web",
@@ -446,7 +446,7 @@
    "descripcion": "En atención a los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , se encuentran vigentes las siguientes Resoluciones Exentas en la Región de Los Ríos: Resolución Exenta N° 1833 de 2026 Declaración de Emergencia Sanitaria, por la presencia del virus aviar de alta patogenicidad H5N1 (IAPP). Resolución Exenta N° 585 de 2026 Confirmación de presencia de virus aviar de alta patogenicidad H5N1 (IAPP) en la Región de Los Ríos. Activación de protocolos de vigilancia junto con formación del Centro de Operación Regional. Resolución Exenta N° 1404 de 2026 Dispone la despoblación,",
    "region": "Los Ríos",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-10-02T16:24:31.3131-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
    "origen": "senapred_web",

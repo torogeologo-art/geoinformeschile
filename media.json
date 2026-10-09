@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-09T14:35:06+00:00",
- "desde": "2026-10-07T14:35:04Z",
+ "generado": "2026-10-09T19:49:06+00:00",
+ "desde": "2026-10-07T19:49:05Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -9,24 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "IB4S6wIgNxQ",
-     "url": "https://www.youtube.com/watch?v=IB4S6wIgNxQ",
-     "titulo": "ALUVIÓN EN CHILE EN VIVO: EMERGENCIA EN LAS CONDES POR INTENSAS LLUVIAS",
-     "canal": "Latina Noticias",
-     "publicado": "2026-10-09T11:31:09Z",
-     "live": true,
-     "score": 0.74,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "ff2thMxeVdw",
      "url": "https://www.youtube.com/watch?v=ff2thMxeVdw",
      "titulo": "Impactantes imágenes del aluvión en Chile: autos arrastrados y universidad afectada El Comercio",
      "canal": "EL COMERCIO",
      "publicado": "2026-10-08T22:32:57Z",
      "live": false,
-     "score": -2.34,
+     "score": -2.77,
      "verificado": false,
      "embeddable": true
     }
@@ -38,46 +27,46 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "jwnMMtC5OG8",
+     "url": "https://www.youtube.com/watch?v=jwnMMtC5OG8",
+     "titulo": "&quot;Ningún ministro ha llegado&quot;: alcalde de Talagante tras inundación de campamento",
+     "canal": "En Medio Talca",
+     "publicado": "2026-10-09T18:41:58Z",
+     "live": false,
+     "score": 7.91,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "VCfx91KZhYQ",
+     "url": "https://www.youtube.com/watch?v=VCfx91KZhYQ",
+     "titulo": "Talagante: llaman a evacuar sector Campamento Ribera del Río por riesgo de desborde del Río Mapocho",
+     "canal": "24 Horas - TVN Chile",
+     "publicado": "2026-10-09T16:58:14Z",
+     "live": false,
+     "score": 7.76,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "ey14V2oL7mk",
+     "url": "https://www.youtube.com/watch?v=ey14V2oL7mk",
+     "titulo": "Emergencia en Talagante: más de 100 personas albergadas tras crecida del río Mapocho | 24 Horas TVN",
+     "canal": "24 Horas - TVN Chile",
+     "publicado": "2026-10-09T16:37:11Z",
+     "live": false,
+     "score": 7.73,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "nh2U9akdvAY",
      "url": "https://www.youtube.com/watch?v=nh2U9akdvAY",
      "titulo": "Emiten alerta SAE para la comuna de Talagante: Ordenan evacuar el Campamento Ribera del Río",
      "canal": "Bio Bio",
      "publicado": "2026-10-08T22:10:10Z",
      "live": false,
-     "score": 6.63,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "8dAsQBryL0c",
-     "url": "https://www.youtube.com/watch?v=8dAsQBryL0c",
-     "titulo": "AYUDÓ HELICÓPTERO: El rescate de personas aisladas por inundación en Talagante -Contigo en la Mañana",
-     "canal": "Chilevisión",
-     "publicado": "2026-10-07T18:28:33Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "6w1t6DM-Iu0",
-     "url": "https://www.youtube.com/watch?v=6w1t6DM-Iu0",
-     "titulo": "Situación crítica en Talagante por inundaciones en campamento a orillas del río Mapocho",
-     "canal": "Meganoticias",
-     "publicado": "2026-10-07T18:17:05Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "wnmKxBYm8rM",
-     "url": "https://www.youtube.com/watch?v=wnmKxBYm8rM",
-     "titulo": "Río Mapocho se desborda en Talagante y El Monte tras intensas lluvias en la RM",
-     "canal": "Ladera Sur",
-     "publicado": "2026-10-07T17:16:45Z",
-     "live": false,
-     "score": 3.0,
+     "score": 6.2,
      "verificado": false,
      "embeddable": true
     }
