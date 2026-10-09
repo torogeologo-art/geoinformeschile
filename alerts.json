@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-09T07:26:15+00:00",
+ "generado": "2026-10-09T14:33:02+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -13,12 +13,26 @@
    "nivel": "ROJA",
    "tipo": "aluvión",
    "titulo": "Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional Metropolitana , respecto al aluvión que afecta a Camino El Alba al Norte Quebrada Honda Sur, General Blanche, Vital Apoquindo poniente hasta el oriente por interfaz cordillera en la comuna de Las Condes, se reportan al momento 6 personas lesionadas, los que fueron trasladados a diversos centros asistenciales. Cabe destacar que, producto del ingreso de agua y barro se registran las siguientes novedades: Comuna de Las Condes -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clínica Universidad de Los Andes: ingreso de agua, sin daño",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional Metropolitana , respecto al aluvión que afecta a Camino El Alba al Norte Quebrada Honda Sur, General Blanche, Vital Apoquindo poniente hasta el oriente por interfaz cordillera en la comuna de Las Condes, se reportan al momento 6 personas lesionadas , los que fueron trasladados a diversos centros asistenciales. Cabe destacar que, producto del ingreso de agua y barro se registran las siguientes novedades: Comuna de Las Condes -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Se evacuaron preventivamente 1.000 personas, siendo rescat",
    "region": "Metropolitana de Santiago",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-10-09T02:25:56.5656-03:00",
+   "ts": "2026-10-09T10:21:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "95e1e350d49b",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A531-4 Viento normal a moderado en cordillera. 09-10 09-10 Abrir aquí Aviso A535-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, precordillera y valles precordilleranos y cordillera. 07-10 09-10 Abrir aquí Por otra parte, debido al debilitamiento de las condiciones que lo originaron ha",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-09T08:34:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-04-17-51-31",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -211,20 +225,6 @@
    "regiones_extra": []
   },
   {
-   "id": "110e2a040616",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa y cordillera. 05-10 08-10 Abrir aquí Aviso A535-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, precordillera y valles precordilleranos y cordillera. 07-10 09-10 Abrir aquí Asimismo, se han cancelado los siguientes aler",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-07T16:54:10.1010-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-04-17-51-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "e9ad884a99d3",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
@@ -235,6 +235,20 @@
    "estado": "VIGENTE",
    "ts": "2026-10-07T09:11:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-licanten-y-curepto-por-crecida-2026-10-07-10-34-41",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "43c688a45bfe",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Juan Fernández por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Enlace Aviso A528 Precipitaciones normales a moderadas en el Archipiélago Juan Fernández. Abrir aquí Aviso A529 Viento normal a moderado en el Archipiélago Juan Fernández. Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-07T00:53:49.4949-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-juan-fernandez-por-evento-meteorologico-2026-10-03-18-37-07",
    "origen": "senapred_web",
    "regiones_extra": []
   },

@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-09T07:26:35+00:00",
- "desde": "2026-10-07T07:26:34Z",
+ "generado": "2026-10-09T14:33:04+00:00",
+ "desde": "2026-10-07T14:33:03Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -9,13 +9,35 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "Z8ElU6scZqU",
+     "url": "https://www.youtube.com/watch?v=Z8ElU6scZqU",
+     "titulo": "EMERGENCIA POR ALUVIÓN EN CHILE: ZONA DE CATASTROFE Y GESTIÓN DE LA CRISIS | LA MAÑANA DEL MISES",
+     "canal": "MISESTV",
+     "publicado": "2026-10-09T12:09:52Z",
+     "live": true,
+     "score": 4.8,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "IB4S6wIgNxQ",
+     "url": "https://www.youtube.com/watch?v=IB4S6wIgNxQ",
+     "titulo": "ALUVIÓN EN CHILE EN VIVO: EMERGENCIA EN LAS CONDES POR INTENSAS LLUVIAS",
+     "canal": "Latina Noticias",
+     "publicado": "2026-10-09T11:31:09Z",
+     "live": true,
+     "score": 0.75,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "ff2thMxeVdw",
      "url": "https://www.youtube.com/watch?v=ff2thMxeVdw",
      "titulo": "Impactantes imágenes del aluvión en Chile: autos arrastrados y universidad afectada El Comercio",
      "canal": "EL COMERCIO",
      "publicado": "2026-10-08T22:32:57Z",
      "live": false,
-     "score": -1.74,
+     "score": -2.33,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +55,7 @@
      "canal": "Bio Bio",
      "publicado": "2026-10-08T22:10:10Z",
      "live": false,
-     "score": 7.23,
+     "score": 6.63,
      "verificado": false,
      "embeddable": true
     },
@@ -65,17 +87,6 @@
      "titulo": "Río Mapocho se desborda en Talagante y El Monte tras intensas lluvias en la RM",
      "canal": "Ladera Sur",
      "publicado": "2026-10-07T17:16:45Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "lqNdfx401m4",
-     "url": "https://www.youtube.com/watch?v=lqNdfx401m4",
-     "titulo": "Talagante: Río Mapocho se desborda e inunda campamento",
-     "canal": "El Mostrador",
-     "publicado": "2026-10-07T13:59:27Z",
      "live": false,
      "score": 3.0,
      "verificado": false,
