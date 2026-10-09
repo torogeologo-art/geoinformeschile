@@ -1,13 +1,87 @@
 {
- "generado": "2026-10-09T19:50:01+00:00",
+ "generado": "2026-10-09T23:54:14+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 21,
+ "total_vigentes": 23,
  "alertas": [
+  {
+   "id": "526bea15b062",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543 Viento normal a moderado (Probabilidad de tormentas de arena) en Cordillera. 11-10 14-10 Abrir aquí Asimismo, debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Aviso A524-6 Viento normal a moderado con probabilidad de ventisca en cordillera",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-09T18:58:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a6ae707f77d7",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543 Viento normal a moderado (Probabilidad de tormentas de arena) Cordillera Costa, Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera. 11-10 14-10 Abrir aquí Asimismo, debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la región: Alertamiento Pr",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-09T18:47:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "95ce83b5d13d",
+   "nivel": "AMARILLA",
+   "tipo": "incendio forestal",
+   "titulo": "Se declara Alerta Amarilla para la Comuna de Cochrane por incendio forestal",
+   "descripcion": "De acuerdo con la información&nbsp;técnica proporcionada por CONAF y el SINAPRED,&nbsp; respecto al incendio forestal en la&nbsp; comuna de Cochrane, se informa el siguiente detalle: Nombre del incendio Rio Nef Estado Bajo observación Superficie 5 (ha) De acuerdo con la información proporcionada por CONAF, se registra un incendio forestal con proyección hacia el Parque Nacional Laguna San Rafael, con frente de avance a 500 metros del límite del área protegida y una superficie de 5 hectáreas al momento. En consideración a estos antecedentes y en base a la información técnica proporcionada por C",
+   "region": "Aysén del General Carlos Ibáñez del Campo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-09T18:12:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-cochrane-por-incendio-forestal-2026-10-09-18-45-43",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "78b796e9379f",
+   "nivel": "AMARILLA",
+   "tipo": "otros",
+   "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Arica y Parinacota por Alteración Sanitaria",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED de Arica y Parinacota, en base a La Minuta de Emergencia N°2024155 elaborada por la SEREMI de Salud de Arica y Parinacota, del 07 de septiembre, no se han reportado nuevos perifocos asociados al evento provocado por el vector Aedes Aegypti en la comuna de Arica. Sin embargo, la Seremi de Salud mantiene vigente la alerta sanitaria mediante decreto MINSAL número 58, vigente hasta el 31 de julio de 2027. Además de la toma de otras acciones de vigilancia y monitoreo del vector, así como la implementación de medidas",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-09T17:56:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-actualiza-alerta-amarilla-para-la-region-de-arica-y-parinacota-por-alteracion-sanitaria-2026-01-27-13-44-49",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
+  {
+   "id": "e8e5403a77e5",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la región. 11-10 14-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED declara la Alerta Temprana Preventiva por viento para la Provincia de Parinacota y la comuna de Camarones, vi",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-09T16:18:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-09-17-56-03",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
   {
    "id": "a368937acd56",
    "nivel": "ROJA",
@@ -83,20 +157,6 @@
    "sae": true
   },
   {
-   "id": "fde19c29115b",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A524-6 Viento normal a moderado con probabilidad de ventisca en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa y cordillera. 08-10 09-10 Abrir aquí Asimismo, debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico A",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-08T21:58:38.3838-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "a6713a75eb89",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -107,20 +167,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-08T19:44:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-06-15-15-18",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7abf2769a53b",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A524-6 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 06-10 09-10 Abrir Aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED mantiene Alerta Temprana Preventiva por viento para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-08T19:15:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
    "origen": "senapred_web",
    "regiones_extra": []
   },
