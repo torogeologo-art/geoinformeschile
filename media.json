@@ -1,6 +1,87 @@
 {
- "generado": "2026-10-08T20:51:18+00:00",
- "desde": "2026-10-06T20:51:18Z",
+ "generado": "2026-10-09T01:04:46+00:00",
+ "desde": "2026-10-07T01:04:45Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "talagante": {
+   "comuna": "Talagante",
+   "region": "Metropolitana de Santiago",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "nh2U9akdvAY",
+     "url": "https://www.youtube.com/watch?v=nh2U9akdvAY",
+     "titulo": "Emiten alerta SAE para la comuna de Talagante: Ordenan evacuar el Campamento Ribera del Río",
+     "canal": "Bio Bio",
+     "publicado": "2026-10-08T22:10:10Z",
+     "live": false,
+     "score": 7.76,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "8dAsQBryL0c",
+     "url": "https://www.youtube.com/watch?v=8dAsQBryL0c",
+     "titulo": "AYUDÓ HELICÓPTERO: El rescate de personas aisladas por inundación en Talagante -Contigo en la Mañana",
+     "canal": "Chilevisión",
+     "publicado": "2026-10-07T18:28:33Z",
+     "live": false,
+     "score": 5.45,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "6w1t6DM-Iu0",
+     "url": "https://www.youtube.com/watch?v=6w1t6DM-Iu0",
+     "titulo": "Situación crítica en Talagante por inundaciones en campamento a orillas del río Mapocho",
+     "canal": "Meganoticias",
+     "publicado": "2026-10-07T18:17:05Z",
+     "live": false,
+     "score": 3.43,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "wnmKxBYm8rM",
+     "url": "https://www.youtube.com/watch?v=wnmKxBYm8rM",
+     "titulo": "Río Mapocho se desborda en Talagante y El Monte tras intensas lluvias en la RM",
+     "canal": "Ladera Sur",
+     "publicado": "2026-10-07T17:16:45Z",
+     "live": false,
+     "score": 3.35,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "lqNdfx401m4",
+     "url": "https://www.youtube.com/watch?v=lqNdfx401m4",
+     "titulo": "Talagante: Río Mapocho se desborda e inunda campamento",
+     "canal": "El Mostrador",
+     "publicado": "2026-10-07T13:59:27Z",
+     "live": false,
+     "score": 3.08,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "metropolitana de santiago": {
+   "comuna": "Metropolitana de Santiago",
+   "region": "Metropolitana de Santiago",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "ff2thMxeVdw",
+     "url": "https://www.youtube.com/watch?v=ff2thMxeVdw",
+     "titulo": "Impactantes imágenes del aluvión en Chile: autos arrastrados y universidad afectada El Comercio",
+     "canal": "EL COMERCIO",
+     "publicado": "2026-10-08T22:32:57Z",
+     "live": false,
+     "score": -1.21,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }

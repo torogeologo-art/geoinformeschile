@@ -1,13 +1,115 @@
 {
- "generado": "2026-10-08T20:51:16+00:00",
+ "generado": "2026-10-09T01:04:44+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 19,
+ "total_vigentes": 21,
  "alertas": [
+  {
+   "id": "246d785a9406",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n\n¡ATENCIÓN!\nPor desborde del Río Mapocho, se solicita evacuar sector Campamento Ribera del Río, comuna de Talagante, Región Metropolitana.\n\n#SENAPRED activó mensajería #SAE. \n\nActúa con calma y acata las indicaciones de la autoridad.\n\nDurante la evacuación, no olvides considerar a tu mascota y sus necesidades. Más información: https://web.senapred.cl/dimension-animal/",
+   "region": "Metropolitana de Santiago",
+   "comunas": [
+    "Talagante"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-10-08T21:59:58+00:00",
+   "url": "https://t.me/SenapredChile/1618",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "fde19c29115b",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A524-6 Viento normal a moderado con probabilidad de ventisca en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa y cordillera. 08-10 09-10 Abrir aquí Asimismo, debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico A",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-08T21:58:38.3838-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "63841cb6028c",
+   "nivel": "ROJA",
+   "tipo": "aluvión",
+   "titulo": "Monitoreo Alerta Roja para las comuna de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional Metropolitana, respecto al aluvión que afecta a Camino El Alba al Norte Quebrada Honda Sur, General Blanche, Vital Apoquindo poniente hasta el oriente por interfaz cordillera en la comuna de Las Condes, se reportan al momento 6 personas lesionadas , los que fueron trasladados a diversos centros asistenciales. Mientras que, producto del ingreso de agua y barro se registran las siguientes novedades en la comuna de Las Condes: -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clínica Universidad de Los Andes: ingreso de agua, sin dañ",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-08T20:21:16.1616-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a6713a75eb89",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A540-2 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la costa, valle, precordillera. 08-10 09-10 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por evento m",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-08T19:44:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-06-15-15-18",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "7abf2769a53b",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A524-6 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 06-10 09-10 Abrir Aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED mantiene Alerta Temprana Preventiva por viento para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-08T19:15:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1ea699508dac",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, entre el 16 y 30 de septiembre, el Complejo Volcánico Nevados de Chillán presentó un aumento progresivo de la actividad sísmica, caracterizado por la ocurrencia recurrente de eventos de largo período (LP) y tremor (TR), incluyendo señales armónicas y",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-08T18:42:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a35585b1390b",
+   "nivel": "ATP",
+   "tipo": "actividad volcánica",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del Volcán Villarrica",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Volcán Villarrica mantiene la alerta técnica en nivel Amarilla [1] . En relación con el Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, entre el 16 y 30 de septiembre, se indica que dadas las dadas las características de un sistema volcánico de conducto abierto, no es posible descartar explosiones súbitas y sin precursores. De acuerdo con lo observado en períodos anteriores, el impacto de estas explo",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-08T18:30:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "La Araucanía"
+   ]
+  },
   {
    "id": "de2ed0e2df65",
    "nivel": "ATP",
@@ -65,34 +167,6 @@
    "regiones_extra": []
   },
   {
-   "id": "380ca6ef2f03",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy jueves 08 de octubre, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán, registraron un sismo asociado a la dinámica interna de fluidos. Las características del sismo luego de su análisis son las siguientes: Tiempo d",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-08T12:45:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1979d98a8741",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A540-1 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en litoral, cordillera de la costa, valle y precordillera de la región. 07-10 08-10 Abrir aquí Aviso A542 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en litoral, cordillera",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-08T12:40:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-10-06-14-44-08",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "29d7361a756c",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -117,34 +191,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-07T16:54:10.1010-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-04-17-51-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "259b365f9b45",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A539 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en litoral, cordillera de la costa, valle y precordillera. 07-10 07-10 Abrir aquí Aviso A540-1 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la costa, valle, pr",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-07T14:10:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-06-15-15-18",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "9220d02a3425",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA175 Viento moderado a fuerte con desarrollo de tormentas de arena en cordillera de la costa y precordillera salar. 07-10 08-10 Abrir aquí Aviso A524-5 Viento normal a moderado con probabilidad de ventisca en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa y cordillera. 07-10 09-10 Abrir aquí En consideración a este antecedente y en",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-07T13:18:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -201,20 +247,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-06T13:35:29.2929-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-30-15-03-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "9b7c7025ee21",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se modifica Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A524-3 Viento normal a moderado con probabilidad de ventisca en cordillera. 06-10 09-10 Abrir Aquí Asimismo, debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Aviso A532 Nevadas normales a moderadas con probabilidad de ventisca en cordillera. En",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-06T08:41:05.055-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1105,22 +1137,6 @@
    "regiones_extra": []
   },
   {
-   "id": "ed1925c9dd59",
-   "nivel": "ATP",
-   "tipo": "actividad volcánica",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos, por actividad del Volcán Villarrica",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Volcán Villarrica mantiene la alerta técnica en nivel Amarilla [1] . En relación con el Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, entre el 01 y 15 de septiembre, se indica que dadas las dadas las características de un sistema volcánico de conducto abierto, no es posible descartar explosiones súbitas y sin precursores. De acuerdo con lo observado en períodos anteriores, el impacto de estas explo",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-16T19:33:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Los Ríos"
-   ]
-  },
-  {
    "id": "0a0ca7c4d651",
    "nivel": "ATP",
    "tipo": "otros",
@@ -1243,36 +1259,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-11T10:34:36.3636-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-san-felipe-y-las-comunas-de-cabildo-y-petorca-por-tormentas-electricas-2026-09-10-18-15-42",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "39649e4a2f2f",
-   "nivel": "AMARILLA",
-   "tipo": "otros",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por alteración sanitaria",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED de Arica y Parinacota, en base a La Minuta de Emergencia N°49 elaborada por la SEREMI de Salud de Arica y Parinacota, del 07 de abril de 2025, se indica el hallazgo del vector Aedes Aegypti , en diversos sectores de la comuna de Arica . Dicha situación, representa una condición de vulnerabilidad sanitaria persistente debido a la presencia del mosquito Aedes aegypti (vector transmisor de Dengue, Zika, Chikungunya y Fiebre Amarilla) desde el año 2016. A esta amenaza se suma el reciente hallazgo y dispersión de Aed",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-08T19:39:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-actualiza-alerta-amarilla-para-la-region-de-arica-y-parinacota-por-alteracion-sanitaria-2026-01-27-13-44-49",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
-  },
-  {
-   "id": "1f00952b5aa9",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por Heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) mediante su Pronóstico Público, no se esperan temperaturas mínimas de relevancia para los próximos días. Del mismo modo, no se esperan precipitaciones ni vientos que impliquen una condición de riesgo. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por Heladas, que se mantuvo vigente desde el 01 de septiembre de 2026.",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-08T19:03:11.1111-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02",
    "origen": "senapred_web",
    "regiones_extra": []
   },
