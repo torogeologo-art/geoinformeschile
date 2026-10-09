@@ -1,19 +1,19 @@
 {
- "generado": "2026-10-09T01:07:37+00:00",
+ "generado": "2026-10-09T07:26:36+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "29-09-2026",
   "hasta": "09-10-2026"
  },
  "totales": {
-  "alertas": 91,
-  "sae": 1,
+  "alertas": 94,
+  "sae": 2,
   "comunas": 1,
   "regiones": 14,
   "por_nivel": {
    "ATP": 77,
-   "AMARILLA": 8,
-   "ROJA": 6
+   "AMARILLA": 9,
+   "ROJA": 8
   },
   "por_tipo": [
    [
@@ -26,15 +26,19 @@
    ],
    [
     "crecida de río",
-    7
+    8
+   ],
+   [
+    "desborde",
+    6
    ],
    [
     "nevadas",
     5
    ],
    [
-    "desborde",
-    5
+    "aluvión",
+    2
    ],
    [
     "evento meteorológico",
@@ -42,10 +46,6 @@
    ],
    [
     "otros",
-    1
-   ],
-   [
-    "aluvión",
     1
    ]
   ]
@@ -282,17 +282,6 @@
     "region_link": "atacama"
    }
   ],
-  "nevadas": [
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "29-09",
-    "comuna_link": "",
-    "region_link": "nuble"
-   }
-  ],
   "desborde": [
    {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -310,6 +299,28 @@
     "sae": true,
     "ts": "08-10",
     "comuna_link": "talagante",
+    "region_link": "metropolitana de santiago"
+   }
+  ],
+  "nevadas": [
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "29-09",
+    "comuna_link": "",
+    "region_link": "nuble"
+   }
+  ],
+  "aluvión": [
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "08-10",
+    "comuna_link": "",
     "region_link": "metropolitana de santiago"
    }
   ],
@@ -334,22 +345,11 @@
     "comuna_link": "",
     "region_link": "los rios"
    }
-  ],
-  "aluvión": [
-   {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "08-10",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
-   }
   ]
  },
  "vigentes": {
-  "ROJA": 2,
-  "AMARILLA": 5,
+  "ROJA": 3,
+  "AMARILLA": 6,
   "ATP": 14,
   "regiones_roja": [
    "Metropolitana de Santiago"
@@ -425,6 +425,13 @@
    "AMARILLA": 2,
    "ATP": 7,
    "sae": 1
+  },
+  {
+   "fecha": "2026-10-09",
+   "ROJA": 2,
+   "AMARILLA": 1,
+   "ATP": 0,
+   "sae": 1
   }
  ],
  "escalamientos": [
@@ -434,16 +441,6 @@
    "sae": false,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "02-10 09:39",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "06-10 08:21",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "ATP",
      "ts": "06-10 09:22",
@@ -457,6 +454,16 @@
     {
      "nivel": "ROJA",
      "ts": "08-10 20:21",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "09-10 02:00",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "09-10 02:25",
      "estado": "VIGENTE"
     }
    ]
@@ -552,6 +559,33 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "09-10 02:25",
+   "nivel": "ROJA",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "aluvión",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22"
+  },
+  {
+   "ts": "09-10 02:00",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-maipu-padre-hurtado-talagante-penaflor-el-monte-y-melipilla-por-crecida-2026-10-09-02-02-34"
+  },
+  {
+   "ts": "09-10 01:46",
+   "nivel": "ROJA",
+   "lugar": "Talagante",
+   "tipo": "desborde",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1620"
+  },
   {
    "ts": "08-10 21:58",
    "nivel": "ATP",
@@ -650,33 +684,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
-  },
-  {
-   "ts": "07-10 17:08",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-05-19-03-06"
-  },
-  {
-   "ts": "07-10 14:10",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-06-15-15-18"
-  },
-  {
-   "ts": "07-10 13:18",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
