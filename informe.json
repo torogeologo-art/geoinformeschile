@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-09T07:26:36+00:00",
+ "generado": "2026-10-09T14:35:06+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "29-09-2026",
   "hasta": "09-10-2026"
  },
  "totales": {
-  "alertas": 94,
+  "alertas": 93,
   "sae": 2,
   "comunas": 1,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 77,
+   "ATP": 76,
    "AMARILLA": 9,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    50
+    51
    ],
    [
     "viento",
@@ -26,7 +26,7 @@
    ],
    [
     "crecida de río",
-    8
+    7
    ],
    [
     "desborde",
@@ -34,7 +34,7 @@
    ],
    [
     "nevadas",
-    5
+    4
    ],
    [
     "aluvión",
@@ -62,13 +62,13 @@
     "region_link": "metropolitana de santiago"
    },
    {
-    "lugar": "Región de Maule",
-    "region": "Maule",
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
     "nivel": "ATP",
     "sae": false,
     "ts": "29-09",
     "comuna_link": "",
-    "region_link": "maule"
+    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -80,13 +80,13 @@
     "region_link": "los lagos"
    },
    {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
     "nivel": "ATP",
     "sae": false,
     "ts": "29-09",
     "comuna_link": "",
-    "region_link": "la araucania"
+    "region_link": "los rios"
    },
    {
     "lugar": "Región de Atacama",
@@ -116,15 +116,6 @@
     "region_link": "libertador general bernardo o'higgins"
    },
    {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "30-09",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
     "lugar": "Región de Arica y Parinacota",
     "region": "Arica y Parinacota",
     "nivel": "ATP",
@@ -141,6 +132,15 @@
     "ts": "30-09",
     "comuna_link": "",
     "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "01-10",
+    "comuna_link": "",
+    "region_link": "maule"
    },
    {
     "lugar": "Región de Coquimbo",
@@ -255,15 +255,6 @@
     "region_link": "maule"
    },
    {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "29-09",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
     "nivel": "ATP",
@@ -308,7 +299,7 @@
     "region": "Ñuble",
     "nivel": "ATP",
     "sae": false,
-    "ts": "29-09",
+    "ts": "01-10",
     "comuna_link": "",
     "region_link": "nuble"
    }
@@ -360,7 +351,7 @@
    "fecha": "2026-09-29",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 6,
+   "ATP": 4,
    "sae": 0
   },
   {
@@ -430,7 +421,7 @@
    "fecha": "2026-10-09",
    "ROJA": 2,
    "AMARILLA": 1,
-   "ATP": 0,
+   "ATP": 1,
    "sae": 1
   }
  ],
@@ -504,8 +495,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "29-09 08:57",
-     "estado": "CANCELADA"
+     "ts": "30-09 11:30",
+     "estado": "VIGENTE"
     },
     {
      "nivel": "AMARILLA",
@@ -559,6 +550,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "09-10 08:34",
+   "nivel": "ATP",
+   "lugar": "Región de Valparaíso",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-04-17-51-31"
+  },
   {
    "ts": "09-10 02:25",
    "nivel": "ROJA",
@@ -675,15 +675,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-10-06-14-44-08"
-  },
-  {
-   "ts": "08-10 10:45",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "nevadas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

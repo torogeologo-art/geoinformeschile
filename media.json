@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-09T14:33:04+00:00",
- "desde": "2026-10-07T14:33:03Z",
+ "generado": "2026-10-09T14:35:06+00:00",
+ "desde": "2026-10-07T14:35:04Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -9,24 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "Z8ElU6scZqU",
-     "url": "https://www.youtube.com/watch?v=Z8ElU6scZqU",
-     "titulo": "EMERGENCIA POR ALUVIÓN EN CHILE: ZONA DE CATASTROFE Y GESTIÓN DE LA CRISIS | LA MAÑANA DEL MISES",
-     "canal": "MISESTV",
-     "publicado": "2026-10-09T12:09:52Z",
-     "live": true,
-     "score": 4.8,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "IB4S6wIgNxQ",
      "url": "https://www.youtube.com/watch?v=IB4S6wIgNxQ",
      "titulo": "ALUVIÓN EN CHILE EN VIVO: EMERGENCIA EN LAS CONDES POR INTENSAS LLUVIAS",
      "canal": "Latina Noticias",
      "publicado": "2026-10-09T11:31:09Z",
      "live": true,
-     "score": 0.75,
+     "score": 0.74,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +26,7 @@
      "canal": "EL COMERCIO",
      "publicado": "2026-10-08T22:32:57Z",
      "live": false,
-     "score": -2.33,
+     "score": -2.34,
      "verificado": false,
      "embeddable": true
     }
