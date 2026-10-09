@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-09T19:50:03+00:00",
+ "generado": "2026-10-09T23:56:37+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -2126,6 +2126,13 @@
    "comuna": "Concepción",
    "noticias": [
     {
+     "titulo": "Unas 150 familias quedan afectadas por las lluvias en Concepción - Última Hora",
+     "medio": "Última Hora",
+     "fecha": "2026-10-09T22:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNalFPLVYyVHRPY04wU0xiRGtReURPbFlQcktfNHdVYUN5SFZ2TlVnNXNNZmZ0b3RTWk1lMGZSc3QyM1oyX2xYTTRLa29pa2E5clFkZzFDSDFOZEo4NW9vOFFCSzVOWG0wN1pBZng5MTRYNThBZnNJN0F6dmtBVGxOUngtNU5oOTlRSHdFVlhKZEZtLXRUQ2fSAaMBQVVfeXFMT0UxQUd2SUpINXQ3YVlNVFpGWm50QUlRV1JjUFRBNUFpU2VzNHBoczZmQTF5Q1BjOVBzTWhQWnl6US1raTJUMEpYTUs1dmNuYjMtUUwzU2R5c1JDSEh3QUlJRkUxSDQ0bXRGM2lBZElzX2haaTVEUm5aUG9VcW50M2lxMTI1am5IaXFUMy1LZGQwc1J0TFR0UjZ5YnVNbHhJNEpBbw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Concepción del Uruguay se prepara para una posible crecida del río: advierten que podría no haber playa este verano - La Pirámide",
      "medio": "La Pirámide",
      "fecha": "2026-09-07T07:00:00+00:00",
@@ -2186,13 +2193,6 @@
      "medio": "sabes.cl",
      "fecha": "2026-08-30T04:15:37+00:00",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcGF0aGo0UzVBejcxNUNzVHNqa1lUUmlJbzBrenJmdlFlOFRSRGRTNzFDWmQ4MUlkOFZCQm5RZmJzM0xkTU5uckc2eldoVjdab1VCOTFRaG9CUVVmdFg3ZVlSeUJPajEwM3AxUVUwVTJEZ1cxSDFPRjk5TFA0MzVNNFE1UXdGdVRLMElGakZPZzF6UTBGY1A5OVJmd21XbXdGcXc0V0lR?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred declara Alerta Roja en Concepción por aumento de caudal - 24horas",
-     "medio": "24horas",
-     "fecha": "2026-08-30T04:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmZzLUVILUZKME84U2w2TE9LWjRQLS14ZjdseU9SSWRBRzFXOHA5ZFVuZm1YQXBFMFBrd3pTeW5DRXI2a28tZnpYSnZFZ21QYkpkR05iMzRaMmhtbzBaTjdUamc4bWlEWFhGQ1laM0oya2l4aVM3RXJnR3JvbV85MDRlSjMyVlItNE0tZHBqWldjb0lSV2dBc2ctVmtUdGIySHZjSkRmWEkwX3p0YW5WX3lMSFpiRVnSAbwBQVVfeXFMTU1vdjhRY1otZC1RM2dsM2VGYm0takNBU1ZPVTNzellLN2M4b1N0TE1JMlJmQVhKUHRmYVh2T1hHWTJLVkNEYWNUU09EWGIxSWdQMU1WTkNpZ1VfMGFmd01yOVNpdUE0dFpuTHh5N2d1V19pelNRZDhNdGdxcHA3a2t0VlVVQ2RkZGxCOUctZkRNWXFHVkdFMEdBLUEzUE40NXhhREZteWRpV3owaTFmdUdTOVh6TThNUmVtYXo?oc=5",
      "sector": null
     }
    ]
@@ -4431,6 +4431,34 @@
    "comuna": "Talagante",
    "noticias": [
     {
+     "titulo": "“Esto es una bomba de tiempo”: alcalde de Talagante exige a gobierno solución para campamento inundado por desborde del Mapocho - Teletrece",
+     "medio": "Teletrece",
+     "fecha": "2026-10-09T23:51:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTzROSnpKNGxPc0Q1NmRfTGZWLXFqQ0NPMURHY2NIZTBPU2pwTHBqUE5Fajd2X0VoazczTVdlTnVPQWJCYWhJTjk2X0pqVTRTem95c09ZUE9RdFlvMUpra3kxZ2xWVy1YY0hYaW83czl0eUVRbXpNWWswTWc2NUd0NjlNMUZyaXFjZS00b0JkQXBwTEY4cUd4U29kY0hFa3lHV21QUURjUlpNM1E2Ul8wbHI3aGFtSDBGV21ReEJhanZ4ZzQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alcalde de Talagante exige intervención tras desborde del Mapocho - El Periscopio",
+     "medio": "El Periscopio",
+     "fecha": "2026-10-09T20:55:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1NmRzdVd2dyWF9rWDlYQlYwTlA1RjBtZUJTVTFkb2RKMVE5bF9yTlBMYkpLUm5mdVA1QUFRdGItZ21kUV9pdmlSTGNTLWx3cVU1aGZ1YUZGNm1yeXU3MGhwNjhkOU5ocDJnZHkxRnNOZW5SWXVNR09ycDc1LXNNSHQ4ZEtKSUF4aXlzTkVreUlmelMweFRCYk1NVGcybHNLOFpiako5QnpsQQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "“No he visto a ningún ministro”: alcalde de Talagante reclama presencia del Gobierno por inundación en campamento tras desborde del Mapocho - ADN Radio",
+     "medio": "ADN Radio",
+     "fecha": "2026-10-09T19:48:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQnhkbU9BTlVWVHYwdWl1WEp4TExWRzE1WG5ocXVaV2ExelN6VXd3QVVROWdGZUZDczdvVVM0d1BHMHJTRG9OOEh0Wm1UeVpqZW9fWl8tZ3ppbmRtMGY1V0lFNXBvSkRYblVXX2NhbUZXWTU5c3Z6OGpXS3hCU2tycHEzZjdQTnBFSzhxSFdpOHJyN3ZjWWxZa3ozLU9SbkFlWFctWFUwUDhHZjRrZXBuOTBINnJZNWpfMmNkWURQRXhCZDROVlB3aURSTC10czg5cUFncjAzeklFWmtoRmIyeVhYdXJmMm9ObUUzTVc2MldiaDNBdWdkYjMzS05YRmotUnfSAZYCQVVfeXFMUGpYX2RiMzZrWDd0TzV0QjQ1RVRuZExndW1uRVZZalc3eDMxY3FhR2kycnFwME9XeHVMcld2VmxfbGVoSXQ1a21jODhWa2NhN2hzSEpvakk1NUliWk9DekJ2N0lQdEhJcXFCUDRwNXVPMnFFMURQRDlYVHhRNmpfeUdOXzZGVHZFZnVmbFIzVVQzVFFkemU5TGlFMHJiSmpHeGtKNzNHdUI5b2JjRFdLeDlIZmZIYTJQZDY2M0VyZlBZWk12QnhJZ0RtNllaOVUwZUdSc01VTVlqbl9jM05lX1ptd1RMTGVyR2tIb2wteGpZZXotQWJXZXpvaXhMUS14ZV9xbkh0Z25WQno4Qko4UzJ5a0FvZmc?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "\"No he visto a ningún ministro\": Alcalde de Talagante emplaza al Gobierno por daños en campamento tras desborde del Río Mapocho - Teletrece",
+     "medio": "Teletrece",
+     "fecha": "2026-10-09T17:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmV2cHZGVDM3b1poY0JWZmlTalEzLWZRWTNKczVtSDJha1B6TXVnWTF3Y0F0VmotRlJEWmR5QldvQnB0Q184LWRMVnBiRnp1R0dHY1NGTG9YODhkMHpKUG1aQkZEOFpPMEg1MWY2eFl5X0h5Xzlxd3JGZVBOQTBnQXBwTmF6VE1CMFQ2Zm5mZ0dXWklFVVA0ZWszbnlBTHpVbHpmNnBxQm0xTWlFLWRWWA?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Alcalde de Talagante advierte que familias de campamento en lecho del río Mapocho se niegan a evacuar tras crecida - Meganoticias",
      "medio": "Meganoticias",
      "fecha": "2026-10-09T03:50:00+00:00",
@@ -4470,34 +4498,6 @@
      "medio": "Universidad de Chile",
      "fecha": "2026-10-08T23:11:12+00:00",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQjA5UTN6N2hMU2hGWTZvVzdGNDgwMGx0T1k1OHRPQVl3VDhqX1Q1MnFJaG1xcEFJS1lId3JTRVV3ajBDODdYQWxCWGlOQV9hWVdvMjZTMnMtQmN5M0FtSjJvekM1eG1zLW1oVjdTTnJ1ZTliUFlPYTQxRmlaWkxCdFFUUXVYQURYTk56S2hRZFhJR1ItRGdxRjhDRU1kSUg5SURGcVlWYmluSUYyTkY3bmJ5SQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred declara Alerta Roja en 10 comunas de la RM por aluvión y solicita evacuar sector de Talagante por desborde del Río Mapocho - SoyChile.cl",
-     "medio": "SoyChile.cl",
-     "fecha": "2026-10-08T22:52:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHp6MVBBbjMtbUhIUnhtb1dPQU1oNHlHRGZlcy1Cb3FWQlVzd2RTZmdpc01wNUZ3WXk1Rjc5dXphTzhPZEFCNERxUFVtQjR4MEhPRjZDWG54SEt2S0QyVlVlWnRlVW15TEtWNHUzMF8xbC00NlVqYmg0N3BZZTdLTXhLYmdEMmdxVllRR3h6MTZpaXpjTlVROWV2ek0?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred declara Alerta Roja en 10 comunas de la RM por aluvión y solicita evacuar sector de Talagante por desborde del Río Mapocho - SoyChile.cl",
-     "medio": "SoyChile.cl",
-     "fecha": "2026-10-08T22:51:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWJBczVVVjR2N1RvZjA2OXVMZ3RMOER3cThmMl90Q0dkWGxMSG5NVTJmTkxrQVRBWnVjWmYycDlFN2t0SGFxeVFrOTJXMTU5dUk0Rll6aXVmb216ZVloTDZ3ZkY2aVRHeWRFbXRaUGUxSzU0N29lcW1DellOdEZ6M2RIa0JLVU1PV2VRa3NFdFREaXF2MGJfcmN2dmI?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Se activó alerta SAE: desborde del río Mapocho obliga a evacuar sector Campamento Rivera en Talagante - ADN Radio",
-     "medio": "ADN Radio",
-     "fecha": "2026-10-08T22:45:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRlMyelNvXzZIRGpwVDlyT0VLbFJTdmNIUWI0YWM0SXBtWnZUSDFjRUFQdC12SEhTTFhrVm1vNG1WalpUS05fN0o4UV9oR0k4Ti1BTS1ZOEQ1U1ZkX195d1F2WjBPLUJRbnZ4a2V2NEdDemRCRC1VR0daemxTQ29iNDJFZTZteHJZckQxbmRsUjIwdll2Y2pSQm9ZNGFxUmJjVmRsRWJuWUliU1NsTngxcHhHQ2hGWkNIbFR6dnNOeERsb2pQYUg4a2tpenA1UjZtZ3fSAeYBQVVfeXFMTkJFbmVWZmw1STRUdDhZU1d2WWdhTDdSZG5mYjdxanllaW54VExhSm5BQmEydVladi03ak1GYzkyZ3Vtbks5TEVuSUpvdWpETkI0cjIzZ3IxdE10VE5HRG1IaHJOQnJfVlBVYWZ6emk1RTBUcl9fWV95bFFXajBBX3g0c2p3WHk2aGxudzhDUU8zaWthNmV2RTl4QlgtakJXTi1rVDZBMVJDR3NoYkRTZVFGbHNNMnlCbkEzaTZvQ0laRjNaa0g0Xzhqb1JQZGRVWGdvYjBJcW5lOS1tejBYekluemdLSUE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alerta SAE en Talagante por desborde del Mapocho; Senapred ordena evacuar campamento - Canal 9 Bío Bío Televisión",
-     "medio": "Canal 9 Bío Bío Televisión",
-     "fecha": "2026-10-08T22:34:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOGNnXzRwamdES2syQ09jRmJnUUhtNUl0a2FTV055dTQ0NGtaVzE4SncyUGhaMmI2Vk5od1BqNDlGdjA3eHphNnFGYnFsdFlLQmFrWUpGU3ctYVBhV0NoZnY2OFZmejVFNnhiWVNTelp1VlByMnl6dDE0eXV4bjN0d0dmeFBTVEF6aDlXM3FNQllqa1dpUjgwdDFGcVdpZ3FGVVZDUDRCdDQ3ZnZPVHNzVzlYYWZQMnpGMThlbjgtazRXU3NuaWxzaHVBeHF2djY0bFZaT21R?oc=5",
      "sector": null
     }
    ]

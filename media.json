@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-09T23:54:16+00:00",
- "desde": "2026-10-07T23:54:15Z",
+ "generado": "2026-10-09T23:56:39+00:00",
+ "desde": "2026-10-07T23:56:38Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -15,7 +15,18 @@
      "canal": "Agricultura TV",
      "publicado": "2026-10-09T20:43:47Z",
      "live": false,
-     "score": -1.26,
+     "score": -1.27,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "ZIDGtf6DWm0",
+     "url": "https://www.youtube.com/watch?v=ZIDGtf6DWm0",
+     "titulo": "Aluvión en Chile deja 2.000 viviendas dañadas y seis heridos en Santiago | Gestión Mundo",
+     "canal": "Gestión Mundo",
+     "publicado": "2026-10-09T16:29:23Z",
+     "live": false,
+     "score": -1.62,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +37,7 @@
      "canal": "EL COMERCIO",
      "publicado": "2026-10-08T22:32:57Z",
      "live": false,
-     "score": -3.11,
+     "score": -3.12,
      "verificado": false,
      "embeddable": true
     }
@@ -55,18 +66,7 @@
      "canal": "En Medio Talca",
      "publicado": "2026-10-09T18:41:58Z",
      "live": false,
-     "score": 7.57,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "VCfx91KZhYQ",
-     "url": "https://www.youtube.com/watch?v=VCfx91KZhYQ",
-     "titulo": "Talagante: llaman a evacuar sector Campamento Ribera del Río por riesgo de desborde del Río Mapocho",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-10-09T16:58:14Z",
-     "live": false,
-     "score": 7.42,
+     "score": 7.56,
      "verificado": false,
      "embeddable": true
     },
@@ -88,7 +88,7 @@
      "canal": "Bio Bio",
      "publicado": "2026-10-08T22:10:10Z",
      "live": false,
-     "score": 5.86,
+     "score": 5.85,
      "verificado": false,
      "embeddable": true
     }

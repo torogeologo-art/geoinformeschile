@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-09T19:50:05+00:00",
+ "generado": "2026-10-09T23:56:39+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "29-09-2026",
   "hasta": "09-10-2026"
  },
  "totales": {
-  "alertas": 91,
+  "alertas": 94,
   "sae": 2,
   "comunas": 1,
-  "regiones": 14,
+  "regiones": 15,
   "por_nivel": {
    "ATP": 74,
-   "AMARILLA": 9,
+   "AMARILLA": 12,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    49
+    50
    ],
    [
     "viento",
@@ -37,15 +37,15 @@
     4
    ],
    [
+    "otros",
+    2
+   ],
+   [
     "aluvión",
     2
    ],
    [
     "evento meteorológico",
-    1
-   ],
-   [
-    "otros",
     1
    ]
   ]
@@ -64,9 +64,9 @@
    {
     "lugar": "Región de Atacama",
     "region": "Atacama",
-    "nivel": "ATP",
+    "nivel": "AMARILLA",
     "sae": false,
-    "ts": "29-09",
+    "ts": "09-10",
     "comuna_link": "",
     "region_link": "atacama"
    },
@@ -75,7 +75,7 @@
     "region": "La Araucanía",
     "nivel": "ATP",
     "sae": false,
-    "ts": "29-09",
+    "ts": "30-09",
     "comuna_link": "",
     "region_link": "la araucania"
    },
@@ -304,6 +304,26 @@
     "region_link": "nuble"
    }
   ],
+  "otros": [
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "09-10",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "02-10",
+    "comuna_link": "",
+    "region_link": "los rios"
+   }
+  ],
   "aluvión": [
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -325,35 +345,17 @@
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
    }
-  ],
-  "otros": [
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "02-10",
-    "comuna_link": "",
-    "region_link": "los rios"
-   }
   ]
  },
  "vigentes": {
   "ROJA": 3,
-  "AMARILLA": 6,
-  "ATP": 12,
+  "AMARILLA": 7,
+  "ATP": 13,
   "regiones_roja": [
    "Metropolitana de Santiago"
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-09-29",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 2,
-   "sae": 0
-  },
   {
    "fecha": "2026-09-30",
    "ROJA": 0,
@@ -420,8 +422,8 @@
   {
    "fecha": "2026-10-09",
    "ROJA": 2,
-   "AMARILLA": 1,
-   "ATP": 1,
+   "AMARILLA": 4,
+   "ATP": 3,
    "sae": 1
   }
  ],
@@ -527,11 +529,6 @@
    "max": "AMARILLA",
    "pasos": [
     {
-     "nivel": "ATP",
-     "ts": "29-09 18:43",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "AMARILLA",
      "ts": "01-10 19:36",
      "estado": "VIGENTE"
@@ -547,9 +544,72 @@
      "estado": "VIGENTE"
     }
    ]
+  },
+  {
+   "lugar": "Región de Arica y Parinacota",
+   "region": "Arica y Parinacota",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "30-09 22:11",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "09-10 17:56",
+     "estado": "CANCELADA"
+    }
+   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "09-10 18:58",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
+  },
+  {
+   "ts": "09-10 18:47",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
+  },
+  {
+   "ts": "09-10 18:12",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
+   "tipo": "incendio forestal",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-cochrane-por-incendio-forestal-2026-10-09-18-45-43"
+  },
+  {
+   "ts": "09-10 17:56",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Arica y Parinacota",
+   "tipo": "otros",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-actualiza-alerta-amarilla-para-la-region-de-arica-y-parinacota-por-alteracion-sanitaria-2026-01-27-13-44-49"
+  },
+  {
+   "ts": "09-10 16:18",
+   "nivel": "ATP",
+   "lugar": "Región de Arica y Parinacota",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-09-17-56-03"
+  },
   {
    "ts": "09-10 08:34",
    "nivel": "ATP",
@@ -630,51 +690,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1618"
-  },
-  {
-   "ts": "08-10 16:02",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15"
-  },
-  {
-   "ts": "08-10 15:53",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-05-01-09-19"
-  },
-  {
-   "ts": "08-10 15:16",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-05-19-03-06"
-  },
-  {
-   "ts": "08-10 13:15",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28"
-  },
-  {
-   "ts": "08-10 12:40",
-   "nivel": "ATP",
-   "lugar": "Región de Los Ríos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-10-06-14-44-08"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
