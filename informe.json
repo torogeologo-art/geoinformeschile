@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-09T23:56:39+00:00",
+ "generado": "2026-10-10T05:37:26+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "29-09-2026",
-  "hasta": "09-10-2026"
+  "desde": "30-09-2026",
+  "hasta": "10-10-2026"
  },
  "totales": {
-  "alertas": 94,
+  "alertas": 99,
   "sae": 2,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 74,
+   "ATP": 79,
    "AMARILLA": 12,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    50
+    55
    ],
    [
     "viento",
@@ -349,8 +349,8 @@
  },
  "vigentes": {
   "ROJA": 3,
-  "AMARILLA": 7,
-  "ATP": 13,
+  "AMARILLA": 6,
+  "ATP": 8,
   "regiones_roja": [
    "Metropolitana de Santiago"
   ]
@@ -425,6 +425,13 @@
    "AMARILLA": 4,
    "ATP": 3,
    "sae": 1
+  },
+  {
+   "fecha": "2026-10-10",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 5,
+   "sae": 0
   }
  ],
  "escalamientos": [
@@ -566,6 +573,51 @@
  ],
  "cronologia": [
   {
+   "ts": "10-10 01:16",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-06-15-15-18"
+  },
+  {
+   "ts": "10-10 00:45",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-10-06-14-44-08"
+  },
+  {
+   "ts": "10-10 00:29",
+   "nivel": "ATP",
+   "lugar": "Región de Maule",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-05-01-09-19"
+  },
+  {
+   "ts": "10-10 00:20",
+   "nivel": "ATP",
+   "lugar": "Región de Valparaíso",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-04-17-51-31"
+  },
+  {
+   "ts": "10-10 00:17",
+   "nivel": "ATP",
+   "lugar": "Región de Coquimbo",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12"
+  },
+  {
    "ts": "09-10 18:58",
    "nivel": "AMARILLA",
    "lugar": "Región de Atacama",
@@ -645,51 +697,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1620"
-  },
-  {
-   "ts": "08-10 21:58",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
-  },
-  {
-   "ts": "08-10 20:21",
-   "nivel": "ROJA",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "aluvión",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22"
-  },
-  {
-   "ts": "08-10 19:44",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-06-15-15-18"
-  },
-  {
-   "ts": "08-10 19:15",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Atacama",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
-  },
-  {
-   "ts": "08-10 21:59",
-   "nivel": "ROJA",
-   "lugar": "Talagante",
-   "tipo": "desborde",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1618"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
