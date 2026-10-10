@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-10T20:14:58+00:00",
- "desde": "2026-10-08T20:14:56Z",
+ "generado": "2026-10-10T20:16:30+00:00",
+ "desde": "2026-10-08T20:16:29Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -15,7 +15,7 @@
      "canal": "Gloriapostreraoficial ",
      "publicado": "2026-10-10T13:28:11Z",
      "live": true,
-     "score": 0.44,
+     "score": 0.43,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +37,7 @@
      "canal": "Gestión Mundo",
      "publicado": "2026-10-09T16:29:23Z",
      "live": false,
-     "score": -3.31,
+     "score": -3.32,
      "verificado": false,
      "embeddable": true
     },
@@ -66,7 +66,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-09T21:09:02Z",
      "live": false,
-     "score": 6.08,
+     "score": 6.07,
      "verificado": false,
      "embeddable": true
     },
@@ -88,7 +88,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-09T16:58:14Z",
      "live": false,
-     "score": 5.73,
+     "score": 5.72,
      "verificado": false,
      "embeddable": true
     },
