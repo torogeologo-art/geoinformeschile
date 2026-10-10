@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-10T05:37:26+00:00",
+ "generado": "2026-10-10T11:24:10+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "30-09-2026",
   "hasta": "10-10-2026"
  },
  "totales": {
-  "alertas": 99,
+  "alertas": 101,
   "sae": 2,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 79,
-   "AMARILLA": 12,
+   "ATP": 80,
+   "AMARILLA": 13,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    55
+    56
    ],
    [
     "viento",
@@ -26,7 +26,7 @@
    ],
    [
     "crecida de río",
-    7
+    8
    ],
    [
     "desborde",
@@ -349,8 +349,8 @@
  },
  "vigentes": {
   "ROJA": 3,
-  "AMARILLA": 6,
-  "ATP": 8,
+  "AMARILLA": 4,
+  "ATP": 7,
   "regiones_roja": [
    "Metropolitana de Santiago"
   ]
@@ -429,8 +429,8 @@
   {
    "fecha": "2026-10-10",
    "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 5,
+   "AMARILLA": 1,
+   "ATP": 6,
    "sae": 0
   }
  ],
@@ -503,11 +503,6 @@
    "max": "AMARILLA",
    "pasos": [
     {
-     "nivel": "ATP",
-     "ts": "30-09 11:30",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "AMARILLA",
      "ts": "06-10 13:41",
      "estado": "VIGENTE"
@@ -526,6 +521,11 @@
      "nivel": "ATP",
      "ts": "08-10 15:53",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "10-10 04:00",
+     "estado": "CANCELADA"
     }
    ]
   },
@@ -572,6 +572,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "10-10 08:02",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-30-15-03-26"
+  },
+  {
+   "ts": "10-10 04:00",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Maule",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-molina-y-curico-por-crecida-2026-10-06-13-43-10"
+  },
   {
    "ts": "10-10 01:16",
    "nivel": "ATP",
@@ -679,24 +697,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22"
-  },
-  {
-   "ts": "09-10 02:00",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-maipu-padre-hurtado-talagante-penaflor-el-monte-y-melipilla-por-crecida-2026-10-09-02-02-34"
-  },
-  {
-   "ts": "09-10 01:46",
-   "nivel": "ROJA",
-   "lugar": "Talagante",
-   "tipo": "desborde",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1620"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
