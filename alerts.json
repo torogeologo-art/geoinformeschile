@@ -1,13 +1,97 @@
 {
- "generado": "2026-10-10T16:20:46+00:00",
+ "generado": "2026-10-10T20:14:55+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 11,
+ "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "c3a64fc60c5c",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales, en Litoral, Cordillera de la Costa, Valle, Precordillera y Cordillera. 11-10 13-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED declara la Alerta Temprana Preventiva regiona",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-10T15:45:47.4747-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-10-15-46-43",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "8dbc5ab698f5",
+   "nivel": "ROJA",
+   "tipo": "aluvión",
+   "titulo": "Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
+   "descripcion": "​ De acuerdo con la información proporcionada por la Dirección Regional Metropolitana, respecto al aluvión que afectó a Camino El Alba al Norte Quebrada Honda Sur, General Blanche, Vital Apoquindo poniente hasta el oriente por interfaz cordillera en la comuna de Las Condes, tras las últimas evaluaciones y producto del ingreso de agua y barro se registran las siguientes novedades: COMUNA AFECTACIÓN A PERSONAS DAÑO A VIVIENDAS DAMNIFICADOS EVACUADOS AISLADOS LESIONADOS DESAPARECIDOS FALLECIDOS DESTRUIDAS DAÑO MAYOR DAÑO MENOR EN EVALUACIÓN Las Condes *384 1.000 - 6 - - 56 40 1.960 - Total *384 1",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-10T15:00:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "31751c6dd48a",
+   "nivel": "ATP",
+   "tipo": "remoción en masa",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544 Probables tormentas eléctricas en Litoral, Cordillera de la costa, Valle, Precordillera y Cordillera. 11-10 13-10 Abrir aquí Aviso A545 Precipitaciones normales a moderadas en corto periodo de tiempo en Valle y Precordillera. 12-10 12-10 Abrir aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por peligro de remoción",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-10T14:40:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-10-15-12-44",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "4e1b69ff2ca6",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica cobertura y evento de Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543 Viento normal a moderado (Probabilidad de tormentas de arena) en cordillera. 11-10 14-10 Abrir aquí Aviso A544 Probables tormentas eléctricas con la probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valles, pampa, precordillera y cordillera. 11-10 13-10 Abrir aquí En consideración a este antecedente y en coordinación co",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-10T14:02:32.3232-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "41049dc75aef",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544 Probables Tormentas Eléctricas en Precordillera, Valles Precordilleranos y Cordillera de la región. 11-10 13-10 Abrir aquí Aviso A545 Precipitaciones Normales a Moderadas en corto periodo de tiempo en Precordillera y Valles Precordilleranos de la región. 12-10 12-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Co",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-10T13:33:35.3535-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-10-10-13-34-47",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e5b35e0d61c7",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544 Probables Tormentas Eléctricas en Litoral, Cordillera Costa, Precordillera y Valles Precordilleranos y Cordillera de la región. 11-10 13-10 Abrir aquí Aviso A545 Precipitaciones Normales a Moderadas en corto periodo de tiempo en Precordillera y Valles Precordilleranos de la región. 12-10 12-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-10T13:20:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-10-13-30-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "1b1d38bfcb2f",
    "nivel": "AMARILLA",
@@ -79,20 +163,6 @@
    "regiones_extra": []
   },
   {
-   "id": "88a11087db37",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , han sido cancelados los siguientes alertamientos meteorológicos para la Región del Biobío, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa, valle y precordillera. Aviso A535-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. Aviso A539 Probable desarrollo de nub",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-10T08:02:27.2727-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-30-15-03-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "7463ce012890",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -121,48 +191,6 @@
    "regiones_extra": []
   },
   {
-   "id": "ceede8c897a6",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelados los siguientes alertamientos meteorológicos para la Región del Maule, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Alerta AA176 Por tormentas eléctricas con probabilidad granizos y fuertes rachas de vientos locales en valle y precordillera de la región. Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. Aviso A535-2 Probables tormentas eléctricas con probabil",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-10T00:29:27.2727-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-05-01-09-19",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "3382b1675449",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la Región de Valparaíso, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A531-4 Viento normal a moderado en cordillera. Aviso A535-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, precordillera y valles precordilleranos y cordillera. En consideración a estos antecedentes y en coordinación con la Delegaci",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-10T00:20:36.3636-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-04-17-51-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "39d04cb852c9",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa y cordillera. Aviso A535-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, precordillera y valles precordilleranos y cordillera. En consideración a estos antecedentes y",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-10T00:17:56.5656-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "1e73c346287c",
    "nivel": "AMARILLA",
    "tipo": "incendio forestal",
@@ -173,20 +201,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-09T22:50:46.4646-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-cochrane-por-incendio-forestal-2026-10-09-18-45-43",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "526bea15b062",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543 Viento normal a moderado (Probabilidad de tormentas de arena) en Cordillera. 11-10 14-10 Abrir aquí Asimismo, debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Aviso A524-6 Viento normal a moderado con probabilidad de ventisca en cordillera",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-09T18:58:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -235,20 +249,6 @@
    "regiones_extra": [
     "Parinacota"
    ]
-  },
-  {
-   "id": "a368937acd56",
-   "nivel": "ROJA",
-   "tipo": "aluvión",
-   "titulo": "Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional Metropolitana , respecto al aluvión que afecta a Camino El Alba al Norte Quebrada Honda Sur, General Blanche, Vital Apoquindo poniente hasta el oriente por interfaz cordillera en la comuna de Las Condes, se reportan al momento 6 personas lesionadas , los que fueron trasladados a diversos centros asistenciales. Cabe destacar que, producto del ingreso de agua y barro se registran las siguientes novedades: Comuna de Las Condes -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Se evacuaron preventivamente 1.000 personas, siendo rescat",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-09T10:21:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "ff820c6e4552",
