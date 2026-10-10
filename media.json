@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-10T11:24:09+00:00",
- "desde": "2026-10-08T11:24:08Z",
+ "generado": "2026-10-10T16:16:00+00:00",
+ "desde": "2026-10-08T16:15:58Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -9,13 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "MCByXk7r3aE",
+     "url": "https://www.youtube.com/watch?v=MCByXk7r3aE",
+     "titulo": "EN VIVO !! 🔴 Culto Sábado 10 de Octubre 2026",
+     "canal": "Gloriapostreraoficial ",
+     "publicado": "2026-10-10T13:28:11Z",
+     "live": true,
+     "score": 0.77,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "TMIJyWbgOVw",
      "url": "https://www.youtube.com/watch?v=TMIJyWbgOVw",
      "titulo": "🔵#HoyxHoyChileEs | Director del Centro en Sustentabilidad UDD tras aluvión en Las Condes",
      "canal": "Agricultura TV",
      "publicado": "2026-10-09T20:43:47Z",
      "live": false,
-     "score": -2.22,
+     "score": -2.63,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +37,7 @@
      "canal": "Gestión Mundo",
      "publicado": "2026-10-09T16:29:23Z",
      "live": false,
-     "score": -2.58,
+     "score": -2.98,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +66,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-09T21:09:02Z",
      "live": false,
-     "score": 6.81,
+     "score": 6.41,
      "verificado": false,
      "embeddable": true
     },
@@ -66,7 +77,7 @@
      "canal": "En Medio Talca",
      "publicado": "2026-10-09T18:41:58Z",
      "live": false,
-     "score": 6.61,
+     "score": 6.2,
      "verificado": false,
      "embeddable": true
     },
@@ -77,7 +88,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-09T16:58:14Z",
      "live": false,
-     "score": 6.46,
+     "score": 6.06,
      "verificado": false,
      "embeddable": true
     },
@@ -88,7 +99,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-09T16:37:11Z",
      "live": false,
-     "score": 6.43,
+     "score": 6.03,
      "verificado": false,
      "embeddable": true
     },
