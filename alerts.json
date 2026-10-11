@@ -1,13 +1,43 @@
 {
- "generado": "2026-10-11T16:47:13+00:00",
+ "generado": "2026-10-11T19:45:05+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 18,
+ "total_vigentes": 19,
  "alertas": [
+  {
+   "id": "693ed51a0688",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en Litoral, Cordillera de la costa, Valle, Precordillera y Cordillera. 11-10 14-10 Abrir aquí Aviso A545-1 Precipitaciones normales a moderadas en corto periodo de tiempo en Valle y Precordillera. 12-10 12-10 Abrir aquí Por otra parte, el Servicio Nacional de Geolo",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-11T16:02:04.044-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-10-15-12-44",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e4ad4581b102",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva por evento meteorológico para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Aviso A547 Probables tormentas eléctricas en zona frontera de la comuna de Torres del Paine a la comuna de Primavera. 11-10 11-10 Aviso A548 Precipitaciones normales a moderadas en corto periodo de tiempo en Cordillera Austral Norte, Cordillera Austral Sur, Pampa Patagónica Norte y Pampa Patagónica Sur. 12-10 12-10 Cabe señalar, que mediante el pronóstico especial emitido po",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-11T14:54:15.1515-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-por-evento-meteorologico-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-evento-meteorologico-2026-10-11-14-59-33",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
   {
    "id": "6a242b6491c1",
    "nivel": "ATP",
@@ -103,20 +133,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-10T15:00:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "31751c6dd48a",
-   "nivel": "ATP",
-   "tipo": "remoción en masa",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544 Probables tormentas eléctricas en Litoral, Cordillera de la costa, Valle, Precordillera y Cordillera. 11-10 13-10 Abrir aquí Aviso A545 Precipitaciones normales a moderadas en corto periodo de tiempo en Valle y Precordillera. 12-10 12-10 Abrir aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por peligro de remoción",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-10T14:40:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-10-15-12-44",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -229,6 +245,20 @@
    "estado": "CANCELADA",
    "ts": "2026-10-10T00:45:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-10-06-14-44-08",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ceede8c897a6",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelados los siguientes alertamientos meteorológicos para la Región del Maule, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Alerta AA176 Por tormentas eléctricas con probabilidad granizos y fuertes rachas de vientos locales en valle y precordillera de la región. Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. Aviso A535-2 Probables tormentas eléctricas con probabil",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-10T00:29:27.2727-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-05-01-09-19",
    "origen": "senapred_web",
    "regiones_extra": []
   },

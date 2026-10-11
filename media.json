@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-11T16:47:17+00:00",
- "desde": "2026-10-09T16:47:15Z",
+ "generado": "2026-10-11T19:45:07+00:00",
+ "desde": "2026-10-09T19:45:06Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -8,17 +8,6 @@
    "region": "Metropolitana de Santiago",
    "alerta": "ROJA",
    "videos": [
-    {
-     "id": "lmm6dogFoqY",
-     "url": "https://www.youtube.com/watch?v=lmm6dogFoqY",
-     "titulo": "Culto General | GEJ Puente Alto  11-10-2026",
-     "canal": "Generación Encendida",
-     "publicado": "2026-10-11T13:41:54Z",
-     "live": true,
-     "score": 0.74,
-     "verificado": false,
-     "embeddable": true
-    },
     {
      "id": "TMIJyWbgOVw",
      "url": "https://www.youtube.com/watch?v=TMIJyWbgOVw",
@@ -44,7 +33,7 @@
      "canal": "CRISTÓBAL VALDEBENITO_12",
      "publicado": "2026-10-11T02:47:17Z",
      "live": false,
-     "score": 6.83,
+     "score": 6.59,
      "verificado": false,
      "embeddable": true
     },
@@ -54,28 +43,6 @@
      "titulo": "Río Mapocho desborda campamento en Talagante: Familias pierden todo por lluvias | 24 Horas TVN Chile",
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-09T21:09:02Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "jwnMMtC5OG8",
-     "url": "https://www.youtube.com/watch?v=jwnMMtC5OG8",
-     "titulo": "&quot;Ningún ministro ha llegado&quot;: alcalde de Talagante tras inundación de campamento",
-     "canal": "En Medio Talca",
-     "publicado": "2026-10-09T18:41:58Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "VCfx91KZhYQ",
-     "url": "https://www.youtube.com/watch?v=VCfx91KZhYQ",
-     "titulo": "Talagante: llaman a evacuar sector Campamento Ribera del Río por riesgo de desborde del Río Mapocho",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-10-09T16:58:14Z",
      "live": false,
      "score": 5.0,
      "verificado": false,
