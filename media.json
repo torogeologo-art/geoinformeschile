@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-11T11:33:34+00:00",
- "desde": "2026-10-09T11:33:32Z",
+ "generado": "2026-10-11T15:43:57+00:00",
+ "desde": "2026-10-09T15:43:56Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -8,6 +8,28 @@
    "region": "Metropolitana de Santiago",
    "alerta": "ROJA",
    "videos": [
+    {
+     "id": "lmm6dogFoqY",
+     "url": "https://www.youtube.com/watch?v=lmm6dogFoqY",
+     "titulo": "Culto General | GEJ Puente Alto  11-10-2026",
+     "canal": "Generación Encendida",
+     "publicado": "2026-10-11T13:41:54Z",
+     "live": true,
+     "score": 0.83,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "qA4EyGke9Xc",
+     "url": "https://www.youtube.com/watch?v=qA4EyGke9Xc",
+     "titulo": "🇨🇱 Temporal histórico en Santiago: aluvión deja más de 2.000 viviendas afectadas | DNews",
+     "canal": "DNews",
+     "publicado": "2026-10-09T16:41:12Z",
+     "live": false,
+     "score": 0.0,
+     "verificado": false,
+     "embeddable": true
+    },
     {
      "id": "TMIJyWbgOVw",
      "url": "https://www.youtube.com/watch?v=TMIJyWbgOVw",
@@ -38,13 +60,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "aHs6Hnj9R3U",
+     "url": "https://www.youtube.com/watch?v=aHs6Hnj9R3U",
+     "titulo": "EN VIVO 🔴 ICTUE Talagante | Domingo 11/10",
+     "canal": "Iglesia CTUE Talagante",
+     "publicado": "2026-10-09T23:55:33Z",
+     "live": true,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "MhQRZbL6b58",
      "url": "https://www.youtube.com/watch?v=MhQRZbL6b58",
      "titulo": "Evacuar Rio Mapocho De Campamento Ribera del  Río. Por desborde de Rio Mapocho, Comuna Talagante.",
      "canal": "CRISTÓBAL VALDEBENITO_12",
      "publicado": "2026-10-11T02:47:17Z",
      "live": false,
-     "score": 7.27,
+     "score": 6.92,
      "verificado": false,
      "embeddable": true
     },
