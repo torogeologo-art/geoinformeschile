@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-11T09:01:25+00:00",
- "desde": "2026-10-09T09:01:24Z",
+ "generado": "2026-10-11T11:33:34+00:00",
+ "desde": "2026-10-09T11:33:32Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -44,7 +44,7 @@
      "canal": "CRISTÓBAL VALDEBENITO_12",
      "publicado": "2026-10-11T02:47:17Z",
      "live": false,
-     "score": 7.48,
+     "score": 7.27,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +55,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-09T21:09:02Z",
      "live": false,
-     "score": 5.01,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     },
