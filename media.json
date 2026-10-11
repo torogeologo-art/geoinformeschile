@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-11T15:43:57+00:00",
- "desde": "2026-10-09T15:43:56Z",
+ "generado": "2026-10-11T16:47:17+00:00",
+ "desde": "2026-10-09T16:47:15Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -15,18 +15,7 @@
      "canal": "Generación Encendida",
      "publicado": "2026-10-11T13:41:54Z",
      "live": true,
-     "score": 0.83,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "qA4EyGke9Xc",
-     "url": "https://www.youtube.com/watch?v=qA4EyGke9Xc",
-     "titulo": "🇨🇱 Temporal histórico en Santiago: aluvión deja más de 2.000 viviendas afectadas | DNews",
-     "canal": "DNews",
-     "publicado": "2026-10-09T16:41:12Z",
-     "live": false,
-     "score": 0.0,
+     "score": 0.74,
      "verificado": false,
      "embeddable": true
     },
@@ -40,17 +29,6 @@
      "score": -4.0,
      "verificado": false,
      "embeddable": true
-    },
-    {
-     "id": "ZIDGtf6DWm0",
-     "url": "https://www.youtube.com/watch?v=ZIDGtf6DWm0",
-     "titulo": "Aluvión en Chile deja 2.000 viviendas dañadas y seis heridos en Santiago | Gestión Mundo",
-     "canal": "Gestión Mundo",
-     "publicado": "2026-10-09T16:29:23Z",
-     "live": false,
-     "score": -4.0,
-     "verificado": false,
-     "embeddable": true
     }
    ]
   },
@@ -60,24 +38,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "aHs6Hnj9R3U",
-     "url": "https://www.youtube.com/watch?v=aHs6Hnj9R3U",
-     "titulo": "EN VIVO 🔴 ICTUE Talagante | Domingo 11/10",
-     "canal": "Iglesia CTUE Talagante",
-     "publicado": "2026-10-09T23:55:33Z",
-     "live": true,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "MhQRZbL6b58",
      "url": "https://www.youtube.com/watch?v=MhQRZbL6b58",
      "titulo": "Evacuar Rio Mapocho De Campamento Ribera del  Río. Por desborde de Rio Mapocho, Comuna Talagante.",
      "canal": "CRISTÓBAL VALDEBENITO_12",
      "publicado": "2026-10-11T02:47:17Z",
      "live": false,
-     "score": 6.92,
+     "score": 6.83,
      "verificado": false,
      "embeddable": true
     },
@@ -109,17 +76,6 @@
      "titulo": "Talagante: llaman a evacuar sector Campamento Ribera del Río por riesgo de desborde del Río Mapocho",
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-09T16:58:14Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "ey14V2oL7mk",
-     "url": "https://www.youtube.com/watch?v=ey14V2oL7mk",
-     "titulo": "Emergencia en Talagante: más de 100 personas albergadas tras crecida del río Mapocho | 24 Horas TVN",
-     "canal": "24 Horas - TVN Chile",
-     "publicado": "2026-10-09T16:37:11Z",
      "live": false,
      "score": 5.0,
      "verificado": false,

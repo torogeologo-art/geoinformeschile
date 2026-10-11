@@ -1,13 +1,27 @@
 {
- "generado": "2026-10-11T15:43:55+00:00",
+ "generado": "2026-10-11T16:47:13+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "6a242b6491c1",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A549 Probables tormentas eléctricas preferentemente durante la tarde noche con precipitaciones aisladas en la región. 12-10 13-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva regional por tormentas eléctricas , vigente",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-11T13:35:31.3131-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "6d4c2f521622",
    "nivel": "ATP",

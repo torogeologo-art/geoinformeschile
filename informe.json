@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-11T11:33:34+00:00",
+ "generado": "2026-10-11T16:47:17+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "01-10-2026",
   "hasta": "11-10-2026"
  },
  "totales": {
-  "alertas": 100,
+  "alertas": 103,
   "sae": 2,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 77,
+   "ATP": 80,
    "AMARILLA": 14,
    "ROJA": 9
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    56
+    60
    ],
    [
     "viento",
@@ -34,7 +34,7 @@
    ],
    [
     "nevadas",
-    4
+    3
    ],
    [
     "aluvión",
@@ -69,15 +69,6 @@
     "ts": "09-10",
     "comuna_link": "",
     "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "01-10",
-    "comuna_link": "",
-    "region_link": "maule"
    },
    {
     "lugar": "Región de Coquimbo",
@@ -116,6 +107,15 @@
     "region_link": "los lagos"
    },
    {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "01-10",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
     "nivel": "ATP",
@@ -152,13 +152,13 @@
     "region_link": "los rios"
    },
    {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
+    "lugar": "Región de Maule",
+    "region": "Maule",
     "nivel": "ATP",
     "sae": false,
-    "ts": "06-10",
+    "ts": "05-10",
     "comuna_link": "",
-    "region_link": "nuble"
+    "region_link": "maule"
    },
    {
     "lugar": "Región de Antofagasta",
@@ -290,7 +290,7 @@
     "region": "Ñuble",
     "nivel": "ATP",
     "sae": false,
-    "ts": "01-10",
+    "ts": "04-10",
     "comuna_link": "",
     "region_link": "nuble"
    }
@@ -341,7 +341,7 @@
  "vigentes": {
   "ROJA": 3,
   "AMARILLA": 3,
-  "ATP": 10,
+  "ATP": 12,
   "regiones_roja": [
    "Metropolitana de Santiago"
   ]
@@ -351,7 +351,7 @@
    "fecha": "2026-10-01",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 7,
+   "ATP": 6,
    "sae": 0
   },
   {
@@ -415,6 +415,13 @@
    "ROJA": 1,
    "AMARILLA": 2,
    "ATP": 11,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-10-11",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 4,
    "sae": 0
   }
  ],
@@ -562,6 +569,42 @@
  ],
  "cronologia": [
   {
+   "ts": "11-10 13:35",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38"
+  },
+  {
+   "ts": "11-10 12:41",
+   "nivel": "ATP",
+   "lugar": "Región de Coquimbo",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-10-10-13-34-47"
+  },
+  {
+   "ts": "11-10 12:25",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
+  },
+  {
+   "ts": "11-10 11:01",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-11-11-02-05"
+  },
+  {
    "ts": "10-10 18:00",
    "nivel": "ATP",
    "lugar": "Región de Antofagasta",
@@ -650,42 +693,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-06-15-15-18"
-  },
-  {
-   "ts": "10-10 00:45",
-   "nivel": "ATP",
-   "lugar": "Región de Los Ríos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-10-06-14-44-08"
-  },
-  {
-   "ts": "10-10 00:29",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-05-01-09-19"
-  },
-  {
-   "ts": "10-10 00:20",
-   "nivel": "ATP",
-   "lugar": "Región de Valparaíso",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-04-17-51-31"
-  },
-  {
-   "ts": "10-10 00:17",
-   "nivel": "ATP",
-   "lugar": "Región de Coquimbo",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
