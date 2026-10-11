@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-11T19:45:05+00:00",
+ "generado": "2026-10-11T20:52:07+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 19,
  "alertas": [
+  {
+   "id": "aacbc1cfefaa",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera costa, precordillera, valles precordilleranos y cordillera. 11-10 14-10 Abrir aquí Aviso A545-1 Precipitaciones normales a moderadas en corto periodo de tiempo en Precordillera y valles precordilleranos. 12-10 12-10 Abrir aquí Por otra parte, el Servic",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-11T16:45:01.011-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-10-13-30-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "693ed51a0688",
    "nivel": "ATP",
@@ -151,20 +165,6 @@
    "regiones_extra": []
   },
   {
-   "id": "e5b35e0d61c7",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544 Probables Tormentas Eléctricas en Litoral, Cordillera Costa, Precordillera y Valles Precordilleranos y Cordillera de la región. 11-10 13-10 Abrir aquí Aviso A545 Precipitaciones Normales a Moderadas en corto periodo de tiempo en Precordillera y Valles Precordilleranos de la región. 12-10 12-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-10T13:20:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-10-13-30-11",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "1b1d38bfcb2f",
    "nivel": "AMARILLA",
    "tipo": "tormentas eléctricas",
@@ -259,6 +259,20 @@
    "estado": "CANCELADA",
    "ts": "2026-10-10T00:29:27.2727-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-05-01-09-19",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "3382b1675449",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la Región de Valparaíso, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A531-4 Viento normal a moderado en cordillera. Aviso A535-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, precordillera y valles precordilleranos y cordillera. En consideración a estos antecedentes y en coordinación con la Delegaci",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-10T00:20:36.3636-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-04-17-51-31",
    "origen": "senapred_web",
    "regiones_extra": []
   },

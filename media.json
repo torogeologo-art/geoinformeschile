@@ -1,26 +1,8 @@
 {
- "generado": "2026-10-11T19:45:07+00:00",
- "desde": "2026-10-09T19:45:06Z",
+ "generado": "2026-10-11T20:52:27+00:00",
+ "desde": "2026-10-09T20:52:25Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "metropolitana de santiago": {
-   "comuna": "Metropolitana de Santiago",
-   "region": "Metropolitana de Santiago",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "TMIJyWbgOVw",
-     "url": "https://www.youtube.com/watch?v=TMIJyWbgOVw",
-     "titulo": "🔵#HoyxHoyChileEs | Director del Centro en Sustentabilidad UDD tras aluvión en Las Condes",
-     "canal": "Agricultura TV",
-     "publicado": "2026-10-09T20:43:47Z",
-     "live": false,
-     "score": -4.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "talagante": {
    "comuna": "Talagante",
    "region": "Metropolitana de Santiago",
@@ -33,7 +15,7 @@
      "canal": "CRISTÓBAL VALDEBENITO_12",
      "publicado": "2026-10-11T02:47:17Z",
      "live": false,
-     "score": 6.59,
+     "score": 6.49,
      "verificado": false,
      "embeddable": true
     },
