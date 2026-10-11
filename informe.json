@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-10T23:46:06+00:00",
+ "generado": "2026-10-11T05:22:32+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "30-09-2026",
-  "hasta": "10-10-2026"
+  "desde": "01-10-2026",
+  "hasta": "11-10-2026"
  },
  "totales": {
-  "alertas": 103,
+  "alertas": 100,
   "sae": 2,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 80,
+   "ATP": 77,
    "AMARILLA": 14,
    "ROJA": 9
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    59
+    56
    ],
    [
     "viento",
@@ -69,33 +69,6 @@
     "ts": "09-10",
     "comuna_link": "",
     "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "30-09",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "30-09",
-    "comuna_link": "",
-    "region_link": "arica y parinacota"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "30-09",
-    "comuna_link": "",
-    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Maule",
@@ -170,6 +143,15 @@
     "region_link": "valparaiso"
    },
    {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "04-10",
+    "comuna_link": "",
+    "region_link": "los rios"
+   },
+   {
     "lugar": "Región de Ñuble",
     "region": "Ñuble",
     "nivel": "ATP",
@@ -177,6 +159,24 @@
     "ts": "06-10",
     "comuna_link": "",
     "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "07-10",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "09-10",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
    }
   ],
   "viento": [
@@ -341,19 +341,12 @@
  "vigentes": {
   "ROJA": 3,
   "AMARILLA": 3,
-  "ATP": 9,
+  "ATP": 10,
   "regiones_roja": [
    "Metropolitana de Santiago"
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-09-30",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 3,
-   "sae": 0
-  },
   {
    "fecha": "2026-10-01",
    "ROJA": 0,
@@ -556,8 +549,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "30-09 22:11",
-     "estado": "CANCELADA"
+     "ts": "09-10 16:18",
+     "estado": "VIGENTE"
     },
     {
      "nivel": "AMARILLA",
