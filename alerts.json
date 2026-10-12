@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-12T19:22:21+00:00",
+ "generado": "2026-10-12T22:52:34+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 20,
  "alertas": [
+  {
+   "id": "30d5f99ff4b5",
+   "nivel": "ATP",
+   "tipo": "desborde",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A549 Probables tormentas eléctricas preferentemente durante la tarde noche con precipitaciones aisladas en la región. 12-10 13-10 Abrir aquí Cabe señalar que en la comuna de Curacautín, se registran preliminarmente alrededor de 15 viviendas anegadas , producto del desbordes de los esteros Loncocapira y el Manzano, y otros esteros urbanos aledaños, debido a chubascos",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-12T18:50:33.3333-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "0c808c64d277",
+   "nivel": "ROJA",
+   "tipo": "aluvión",
+   "titulo": "Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional Metropolitana de SENAPRED, respecto al aluvión que afectó a la comuna de Las Condes, tras las últimas evaluaciones y producto del ingreso de agua y barro se registran las siguientes novedades: COMUNA AFECTACIÓN A PERSONAS DAÑO A VIVIENDAS DAMNIFICADOS EVACUADOS AISLADOS LESIONADOS DESAPARECIDOS FALLECIDOS DESTRUIDAS DAÑO MAYOR DAÑO MENOR EN EVALUACIÓN Las Condes *384 - - - - - - 56 1.960 - Total *384 - - - - - - 56 1.960 - Fuente: Dirección Metropolitana de SENAPRED * estimación preliminar en base a viviendas con daño mayor",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-12T18:07:42.4242-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "08c13747747f",
    "nivel": "ATP",
@@ -137,20 +165,6 @@
    "regiones_extra": []
   },
   {
-   "id": "6a242b6491c1",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A549 Probables tormentas eléctricas preferentemente durante la tarde noche con precipitaciones aisladas en la región. 12-10 13-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva regional por tormentas eléctricas , vigente",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-11T13:35:31.3131-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "6d4c2f521622",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -189,20 +203,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-10T15:45:47.4747-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-10-15-46-43",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "8dbc5ab698f5",
-   "nivel": "ROJA",
-   "tipo": "aluvión",
-   "titulo": "Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
-   "descripcion": "​ De acuerdo con la información proporcionada por la Dirección Regional Metropolitana, respecto al aluvión que afectó a Camino El Alba al Norte Quebrada Honda Sur, General Blanche, Vital Apoquindo poniente hasta el oriente por interfaz cordillera en la comuna de Las Condes, tras las últimas evaluaciones y producto del ingreso de agua y barro se registran las siguientes novedades: COMUNA AFECTACIÓN A PERSONAS DAÑO A VIVIENDAS DAMNIFICADOS EVACUADOS AISLADOS LESIONADOS DESAPARECIDOS FALLECIDOS DESTRUIDAS DAÑO MAYOR DAÑO MENOR EN EVALUACIÓN Las Condes *384 1.000 - 6 - - 56 40 1.960 - Total *384 1",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-10T15:00:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22",
    "origen": "senapred_web",
    "regiones_extra": []
   },

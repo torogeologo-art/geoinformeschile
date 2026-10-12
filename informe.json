@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-12T15:58:02+00:00",
+ "generado": "2026-10-12T22:52:55+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "02-10-2026",
@@ -11,8 +11,8 @@
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 80,
-   "ROJA": 9,
+   "ATP": 79,
+   "ROJA": 10,
    "AMARILLA": 15
   },
   "por_tipo": [
@@ -22,15 +22,15 @@
    ],
    [
     "viento",
-    18
+    17
    ],
    [
     "crecida de río",
-    8
+    7
    ],
    [
     "desborde",
-    6
+    7
    ],
    [
     "nevadas",
@@ -38,11 +38,11 @@
    ],
    [
     "aluvión",
-    3
+    4
    ],
    [
     "otros",
-    2
+    1
    ],
    [
     "incendio forestal",
@@ -194,7 +194,7 @@
     "region": "Antofagasta",
     "nivel": "ATP",
     "sae": false,
-    "ts": "02-10",
+    "ts": "03-10",
     "comuna_link": "",
     "region_link": "antofagasta"
    },
@@ -246,15 +246,6 @@
     "region_link": "maule"
    },
    {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "02-10",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
     "lugar": "Región de Atacama",
     "region": "Atacama",
     "nivel": "ATP",
@@ -282,6 +273,15 @@
     "ts": "08-10",
     "comuna_link": "talagante",
     "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "12-10",
+    "comuna_link": "",
+    "region_link": "la araucania"
    }
   ],
   "nevadas": [
@@ -315,15 +315,6 @@
     "ts": "09-10",
     "comuna_link": "",
     "region_link": "arica y parinacota"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "02-10",
-    "comuna_link": "",
-    "region_link": "los rios"
    }
   ],
   "incendio forestal": [
@@ -351,7 +342,7 @@
    "fecha": "2026-10-02",
    "ROJA": 1,
    "AMARILLA": 0,
-   "ATP": 7,
+   "ATP": 4,
    "sae": 0
   },
   {
@@ -419,9 +410,9 @@
   },
   {
    "fecha": "2026-10-12",
-   "ROJA": 0,
+   "ROJA": 1,
    "AMARILLA": 1,
-   "ATP": 3,
+   "ATP": 5,
    "sae": 0
   }
  ],
@@ -432,11 +423,6 @@
    "sae": false,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "09-10 02:00",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "ROJA",
      "ts": "09-10 02:25",
@@ -455,6 +441,11 @@
     {
      "nivel": "AMARILLA",
      "ts": "11-10 18:57",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "12-10 18:07",
      "estado": "VIGENTE"
     }
    ]
@@ -569,6 +560,33 @@
  ],
  "cronologia": [
   {
+   "ts": "12-10 18:50",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "desborde",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38"
+  },
+  {
+   "ts": "12-10 18:07",
+   "nivel": "ROJA",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "aluvión",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22"
+  },
+  {
+   "ts": "12-10 15:50",
+   "nivel": "ATP",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-por-evento-meteorologico-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-evento-meteorologico-2026-10-11-14-59-33"
+  },
+  {
    "ts": "12-10 12:03",
    "nivel": "ATP",
    "lugar": "Región de Antofagasta",
@@ -666,33 +684,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38"
-  },
-  {
-   "ts": "11-10 12:41",
-   "nivel": "ATP",
-   "lugar": "Región de Coquimbo",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-10-10-13-34-47"
-  },
-  {
-   "ts": "11-10 12:25",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
-  },
-  {
-   "ts": "11-10 11:01",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-11-11-02-05"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
