@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-12T15:57:40+00:00",
+ "generado": "2026-10-12T19:22:21+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,22 @@
  },
  "total_vigentes": 20,
  "alertas": [
+  {
+   "id": "08c13747747f",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se modifica evento de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por precipitaciones",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A548 Precipitaciones normales a moderadas en corto periodo de tiempo en Cordillera Austral Norte, Cordillera Austral Sur, Pampa Patagónica Norte y Pampa Patagónica Sur. 12-10 12-10 Abrir aquí Asimismo, debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento: Alertamiento Pronóstico Enlace Aviso A547 Pro",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-12T15:50:45.4545-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-por-evento-meteorologico-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-evento-meteorologico-2026-10-11-14-59-33",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
   {
    "id": "6bfe921be7d3",
    "nivel": "ATP",
@@ -119,22 +135,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-10-15-12-44",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "e4ad4581b102",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva por evento meteorológico para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Aviso A547 Probables tormentas eléctricas en zona frontera de la comuna de Torres del Paine a la comuna de Primavera. 11-10 11-10 Aviso A548 Precipitaciones normales a moderadas en corto periodo de tiempo en Cordillera Austral Norte, Cordillera Austral Sur, Pampa Patagónica Norte y Pampa Patagónica Sur. 12-10 12-10 Cabe señalar, que mediante el pronóstico especial emitido po",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-11T14:54:15.1515-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-por-evento-meteorologico-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-evento-meteorologico-2026-10-11-14-59-33",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "6a242b6491c1",
