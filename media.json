@@ -1,8 +1,26 @@
 {
- "generado": "2026-10-11T23:13:28+00:00",
- "desde": "2026-10-09T23:13:27Z",
+ "generado": "2026-10-12T00:23:43+00:00",
+ "desde": "2026-10-10T00:23:42Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "metropolitana de santiago": {
+   "comuna": "Metropolitana de Santiago",
+   "region": "Metropolitana de Santiago",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "IxbVWbeBDSY",
+     "url": "https://www.youtube.com/watch?v=IxbVWbeBDSY",
+     "titulo": "🔴🎥 🌎  TRANSMISION EN VIVO 2  🟢🎶🔥11- 10 - 2026",
+     "canal": "Iglesia Catedral de la florida",
+     "publicado": "2026-10-11T23:07:05Z",
+     "live": true,
+     "score": -3.11,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "talagante": {
    "comuna": "Talagante",
    "region": "Metropolitana de Santiago",
@@ -15,7 +33,7 @@
      "canal": "CRISTÓBAL VALDEBENITO_12",
      "publicado": "2026-10-11T02:47:17Z",
      "live": false,
-     "score": 6.3,
+     "score": 6.2,
      "verificado": false,
      "embeddable": true
     }
