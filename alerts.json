@@ -1,13 +1,99 @@
 {
- "generado": "2026-10-13T10:59:21+00:00",
+ "generado": "2026-10-13T16:22:40+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 20,
+ "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "76b5282e862d",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy martes 13 de octubre, las estaciones de monitoreo instaladas en las inmediaciones del complejo volcánico Nevados de Chillán registraron un sismo asociado a la dinámica interna de fluidos con emisión de material piroclástico Las características del sismo luego de su an",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-13T13:06:41.4141-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "eeb66f9e4093",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Amarilla para la comuna de Lo Barnechea por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante el Pronóstico Meteorológico Público y con los antecedentes entregados por la Dirección General de Aguas (DGA) de la Región Metropolitana, la estación hidrométrica mantiene condiciones de normalidad, registrando umbral de alerta técnica verde en la estación “ Río Molina antes junta San Francisco ” en la comuna de Lo Barnechea. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED cancela la Alerta Amarilla p",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-13T12:47:58.5858-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-lo-barnechea-por-crecida-2026-10-06-08-22-42",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ab1d6a99604a",
+   "nivel": "ROJA",
+   "tipo": "aluvión",
+   "titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, valle, precordillera y cordillera. 13-10 14-10 Abrir aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluvio",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-13T12:21:34.3434-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "b89de6820466",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por precipitaciones",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento para la región: Alertamiento Pronóstico Aviso A548 Precipitaciones normales a moderadas en corto periodo de tiempo en zonas de la Región de Magallanes. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por precipitaciones para las provincias de Magallan",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-13T12:17:57.5757-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-por-evento-meteorologico-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-evento-meteorologico-2026-10-11-14-59-33",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "58e48bd6b3e6",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en Litoral, Cordillera Costa, Precordillera, Valles Precordilleranos y Cordillera. 13-10 14-10 Abrir aquí Adicionalmente, se han cancelado los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Aviso A545-1 Precipitaciones normales a moderadas en corto",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-13T11:25:24.2424-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-10-13-30-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "29bdd1dd8d51",
+   "nivel": "ATP",
+   "tipo": "remoción en masa",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en Litoral, Cordillera de la Costa, Precordillera, Valles Precordilleranos y Cordillera. 13-10 14-10 Abrir aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por peligro de remoción en masa, indica que la posibilid",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-13T10:43:22.2222-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-10-10-13-34-47",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "9b71966db534",
    "nivel": "ATP",
@@ -19,34 +105,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-13T05:47:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "29bdd1dd8d51",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en Precordillera, Valles Precordilleranos y Cordillera. 11-10 14-10 Abrir aquí Por otra parte, debido al debilitamiento de las condiciones que lo originaron ha sido cancelado el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Aviso A545-1",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-13T04:11:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-10-10-13-34-47",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "76b5282e862d",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy martes 13 de octubre, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán, registraron un sismo asociado a la dinámica interna de fluidos. Las características del sismo luego de su análisis son las siguientes: Tiempo d",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-13T02:09:29.2929-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -65,36 +123,6 @@
    "regiones_extra": []
   },
   {
-   "id": "0c808c64d277",
-   "nivel": "ROJA",
-   "tipo": "aluvión",
-   "titulo": "Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional Metropolitana de SENAPRED, respecto al aluvión que afectó a la comuna de Las Condes, tras las últimas evaluaciones y producto del ingreso de agua y barro se registran las siguientes novedades: COMUNA AFECTACIÓN A PERSONAS DAÑO A VIVIENDAS DAMNIFICADOS EVACUADOS AISLADOS LESIONADOS DESAPARECIDOS FALLECIDOS DESTRUIDAS DAÑO MAYOR DAÑO MENOR EN EVALUACIÓN Las Condes *384 - - - - - - 56 1.960 - Total *384 - - - - - - 56 1.960 - Fuente: Dirección Metropolitana de SENAPRED * estimación preliminar en base a viviendas con daño mayor",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-12T18:07:42.4242-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "08c13747747f",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se modifica evento de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por precipitaciones",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A548 Precipitaciones normales a moderadas en corto periodo de tiempo en Cordillera Austral Norte, Cordillera Austral Sur, Pampa Patagónica Norte y Pampa Patagónica Sur. 12-10 12-10 Abrir aquí Asimismo, debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento: Alertamiento Pronóstico Enlace Aviso A547 Pro",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-12T15:50:45.4545-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-por-evento-meteorologico-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-evento-meteorologico-2026-10-11-14-59-33",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
-  },
-  {
    "id": "6bfe921be7d3",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -105,20 +133,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-12T12:03:48.4848-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7bd3b95a55f6",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en Litoral, Cordillera Costa, Precordillera, Valles Precordilleranos y Cordillera. 11-10 14-10 Abrir aquí Aviso A545-1 Precipitaciones normales a moderadas en corto periodo de tiempo en Precordillera y Valles Precordilleranos. 12-10 12-10 Abrir aquí Aviso 550 Precipitaciones",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-12T10:59:52.5252-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-10-13-30-11",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -161,20 +175,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-11T19:19:53.5353-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-11-19-21-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7c46de45617c",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en Cordillera de la Costa, Valle, Precordillera y Cordillera. 11-10 14-10 Abrir aquí Aviso A545-1 Precipitaciones normales a moderadas en corto periodo de tiempo en Valle y Precordillera. 12-10 12-10 Abrir aquí Por otra parte, el Servicio Nacional de Geología y Mine",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-11T18:57:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -379,20 +379,6 @@
    ]
   },
   {
-   "id": "ff820c6e4552",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para las comunas de Maipú, Padre Hurtado, Talagante, Peñaflor, El Monte y Melipilla por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “ Río Mapocho en Pte. Rinconada de Maipú”, ubicada en la comuna de Maipú, indica un incremento en su caudal, alcanzando valores de umbral amarillo y presenta una tendencia al alza en las próximas horas, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para las comunas de Mai",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-09T02:00:55.5555-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-maipu-padre-hurtado-talagante-penaflor-el-monte-y-melipilla-por-crecida-2026-10-09-02-02-34",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "087723804d74",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -451,20 +437,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-07T00:53:49.4949-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-juan-fernandez-por-evento-meteorologico-2026-10-03-18-37-07",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ba84878692b9",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para la comuna de Lo Barnechea por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Molina antes junta San Francisco” ubicada en la comuna de Lo Barnechea, ha alcanzado valores de umbral amarillo&nbsp;y presenta una tendencia al alza en las próximas horas. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Lo Barnechea, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Con la declaración de la Alerta Am",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-06T08:21:20.2020-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-lo-barnechea-por-crecida-2026-10-06-08-22-42",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -3048,7 +3020,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por crecida del Río Mapocho #SENAPRED solicita evacuar sector Campamento Ribera del Río en la comuna de #Talagante, Región Metropolitana.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.  \nMás información en https://web.senapred.cl/dimension-animal/",
    "region": "Metropolitana de Santiago",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-07-17T17:12:34+00:00",
    "url": "https://t.me/SenapredChile/1290",
    "origen": "telegram",
