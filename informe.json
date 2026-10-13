@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-13T03:27:32+00:00",
+ "generado": "2026-10-13T10:59:41+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "03-10-2026",
   "hasta": "13-10-2026"
  },
  "totales": {
-  "alertas": 99,
+  "alertas": 102,
   "sae": 2,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
    "ROJA": 9,
-   "ATP": 75,
+   "ATP": 78,
    "AMARILLA": 15
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    59
+    60
    ],
    [
     "viento",
@@ -26,7 +26,7 @@
    ],
    [
     "desborde",
-    6
+    7
    ],
    [
     "crecida de río",
@@ -34,7 +34,7 @@
    ],
    [
     "nevadas",
-    4
+    5
    ],
    [
     "aluvión",
@@ -323,7 +323,7 @@
  "vigentes": {
   "ROJA": 3,
   "AMARILLA": 4,
-  "ATP": 12,
+  "ATP": 13,
   "regiones_roja": [
    "Metropolitana de Santiago"
   ]
@@ -397,6 +397,13 @@
    "ROJA": 1,
    "AMARILLA": 1,
    "ATP": 5,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-10-13",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 3,
    "sae": 0
   }
  ],
@@ -539,6 +546,33 @@
  ],
  "cronologia": [
   {
+   "ts": "13-10 05:47",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "desborde",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38"
+  },
+  {
+   "ts": "13-10 04:11",
+   "nivel": "ATP",
+   "lugar": "Región de Coquimbo",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-10-10-13-34-47"
+  },
+  {
+   "ts": "13-10 02:09",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "nevadas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
+  },
+  {
    "ts": "12-10 18:50",
    "nivel": "ATP",
    "lugar": "Región de La Araucanía",
@@ -636,33 +670,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-10-13-30-11"
-  },
-  {
-   "ts": "11-10 16:02",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-10-15-12-44"
-  },
-  {
-   "ts": "11-10 14:54",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-por-evento-meteorologico-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-evento-meteorologico-2026-10-11-14-59-33"
-  },
-  {
-   "ts": "11-10 13:35",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

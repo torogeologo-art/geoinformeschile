@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-13T08:30:00+00:00",
+ "generado": "2026-10-13T10:59:21+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 20,
  "alertas": [
+  {
+   "id": "9b71966db534",
+   "nivel": "ATP",
+   "tipo": "desborde",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A549 Probables tormentas eléctricas preferentemente durante la tarde noche con precipitaciones aisladas en la región. 12-10 13-10 Abrir aquí Cabe señalar, que producto del desborde de los esteros Loncocapira, el Manzano, y otros urbanos aledaños, debido a los chubascos y granizos intensos registrados en corto periodo de tiempo en la zona, se reportan 25 viviendas con",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-13T05:47:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "29bdd1dd8d51",
    "nivel": "ATP",
@@ -47,20 +61,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-12T21:55:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-11-11-02-05",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "30d5f99ff4b5",
-   "nivel": "ATP",
-   "tipo": "desborde",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A549 Probables tormentas eléctricas preferentemente durante la tarde noche con precipitaciones aisladas en la región. 12-10 13-10 Abrir aquí Cabe señalar que en la comuna de Curacautín, se registran preliminarmente alrededor de 15 viviendas anegadas , producto del desbordes de los esteros Loncocapira y el Manzano, y otros esteros urbanos aledaños, debido a chubascos",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-12T18:50:33.3333-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38",
    "origen": "senapred_web",
    "regiones_extra": []
   },
