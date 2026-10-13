@@ -1,6 +1,36 @@
 {
- "generado": "2026-10-13T18:10:01+00:00",
- "desde": "2026-10-11T18:10:00Z",
+ "generado": "2026-10-13T21:27:45+00:00",
+ "desde": "2026-10-11T21:27:44Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "talagante": {
+   "comuna": "Talagante",
+   "region": "Metropolitana de Santiago",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "BF7NCaj5Kqk",
+     "url": "https://www.youtube.com/watch?v=BF7NCaj5Kqk",
+     "titulo": "FUERTE LLUVIA EN SANTIAGO 🔴 EN VIVO - CHV Noticias. Martes 13 de octubre de 2026",
+     "canal": "CHV Noticias",
+     "publicado": "2026-10-13T19:48:57Z",
+     "live": true,
+     "score": 0.86,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "4jtbYJaJook",
+     "url": "https://www.youtube.com/watch?v=4jtbYJaJook",
+     "titulo": "Desborde del río Mapocho en Talagante: Familias albergadas y daño en campamento | 24 Horas TVN Chile",
+     "canal": "24 Horas - TVN Chile",
+     "publicado": "2026-10-13T18:17:43Z",
+     "live": false,
+     "score": 7.74,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
