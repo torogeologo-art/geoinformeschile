@@ -1,25 +1,6 @@
 {
- "generado": "2026-10-13T01:34:12+00:00",
- "desde": "2026-10-11T01:34:10Z",
+ "generado": "2026-10-13T03:27:32+00:00",
+ "desde": "2026-10-11T03:27:30Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "talagante": {
-   "comuna": "Talagante",
-   "region": "Metropolitana de Santiago",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "MhQRZbL6b58",
-     "url": "https://www.youtube.com/watch?v=MhQRZbL6b58",
-     "titulo": "Evacuar Rio Mapocho De Campamento Ribera del  Río. Por desborde de Rio Mapocho, Comuna Talagante.",
-     "canal": "CRISTÓBAL VALDEBENITO_12",
-     "publicado": "2026-10-11T02:47:17Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }

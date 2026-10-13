@@ -1,36 +1,36 @@
 {
- "generado": "2026-10-12T22:52:55+00:00",
+ "generado": "2026-10-13T03:27:32+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "02-10-2026",
-  "hasta": "12-10-2026"
+  "desde": "03-10-2026",
+  "hasta": "13-10-2026"
  },
  "totales": {
-  "alertas": 104,
+  "alertas": 99,
   "sae": 2,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 79,
-   "ROJA": 10,
+   "ROJA": 9,
+   "ATP": 75,
    "AMARILLA": 15
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    62
+    59
    ],
    [
     "viento",
     17
    ],
    [
-    "crecida de río",
-    7
+    "desborde",
+    6
    ],
    [
-    "desborde",
-    7
+    "crecida de río",
+    6
    ],
    [
     "nevadas",
@@ -71,24 +71,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "02-10",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "02-10",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
     "nivel": "ATP",
@@ -114,6 +96,24 @@
     "ts": "04-10",
     "comuna_link": "",
     "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "04-10",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "04-10",
+    "comuna_link": "",
+    "region_link": "valparaiso"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -226,42 +226,13 @@
     "region_link": "coquimbo"
    }
   ],
-  "crecida de río": [
-   {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "06-10",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "06-10",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "02-10",
-    "comuna_link": "",
-    "region_link": "atacama"
-   }
-  ],
   "desborde": [
    {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
     "region": "Magallanes y de la Antártica Chilena",
     "nivel": "ROJA",
     "sae": false,
-    "ts": "02-10",
+    "ts": "03-10",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
    },
@@ -282,6 +253,26 @@
     "ts": "12-10",
     "comuna_link": "",
     "region_link": "la araucania"
+   }
+  ],
+  "crecida de río": [
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "06-10",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "06-10",
+    "comuna_link": "",
+    "region_link": "maule"
    }
   ],
   "nevadas": [
@@ -332,19 +323,12 @@
  "vigentes": {
   "ROJA": 3,
   "AMARILLA": 4,
-  "ATP": 13,
+  "ATP": 12,
   "regiones_roja": [
    "Metropolitana de Santiago"
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-10-02",
-   "ROJA": 1,
-   "AMARILLA": 0,
-   "ATP": 4,
-   "sae": 0
-  },
   {
    "fecha": "2026-10-03",
    "ROJA": 1,
@@ -458,7 +442,7 @@
    "pasos": [
     {
      "nivel": "ROJA",
-     "ts": "02-10 20:34",
+     "ts": "03-10 08:46",
      "estado": "VIGENTE"
     },
     {
@@ -517,11 +501,6 @@
    "sae": false,
    "max": "AMARILLA",
    "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "02-10 20:26",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "AMARILLA",
      "ts": "03-10 17:36",
