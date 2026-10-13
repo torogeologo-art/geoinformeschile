@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-13T21:27:43+00:00",
+ "generado": "2026-10-13T22:48:26+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,35 @@
  },
  "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "720fe0ea9ee6",
+   "nivel": "ROJA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Roja para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA178 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en cordillera de la costa, valle y precordillera. 13-10 13-10 Abrir aquí Aviso A544-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, valle, precordillera y cordillera. 13-10 14-10 Abrir",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-13T19:20:37.3737-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28",
+   "origen": "senapred_web",
+   "regiones_extra": [],
+   "sae": true
+  },
+  {
+   "id": "3aa112e9138f",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), actualiza el siguiente alertamiento meteorológico para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA178 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en Litoral, Precordillera de la Costa, Valle y Precordillera. 13-10 13-10 Abrir aquí Aviso A544-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en Litoral, Cordillera de la Costa, Valle, Precordillera y Cordillera. 13-10 14-10 Abrir aq",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-13T18:26:35.3535-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-11-11-02-05",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "dd343e534c50",
    "nivel": "ATP",
@@ -83,20 +112,6 @@
    ]
   },
   {
-   "id": "c8cd661ccaba",
-   "nivel": "ROJA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva y declara Alerta Roja para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA178 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en cordillera de la costa, valle y precordillera. 13-10 13-10 Abrir aquí Aviso A544-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, valle, precordillera y cordillera. 13-10 14-10 Abrir",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-13T17:15:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "4ee7f34f1ec1",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -107,20 +122,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-13T16:42:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-10-15-12-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "76b5282e862d",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido Hoy martes 13 de octubre a las 15:48 hora local, las estaciones de monitoreo instaladas en las inmediaciones del complejo volcánico Nevados de Chillán registraron un sismo asociado a la dinámica interna de fluidos. Las características del sismo luego de su análisis son la",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-13T16:37:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -219,20 +220,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-13T10:43:22.2222-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-10-10-13-34-47",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "fdc7405af5a5",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 12-10 14-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-12T21:55:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-11-11-02-05",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -3048,7 +3035,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por crecida del Río Mapocho #SENAPRED solicita evacuar sector Campamento Ribera del Río en la comuna de #Talagante, Región Metropolitana.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos, #SENAPRED activó mensajería #SAE.  \nRECUERDA actuar con calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.  \nMás información en https://web.senapred.cl/dimension-animal/",
    "region": "Metropolitana de Santiago",
    "comunas": [],
-   "estado": "CANCELADA",
+   "estado": "EXPIRADA",
    "ts": "2026-07-17T17:12:34+00:00",
    "url": "https://t.me/SenapredChile/1290",
    "origen": "telegram",

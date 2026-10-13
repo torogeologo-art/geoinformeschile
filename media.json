@@ -1,21 +1,72 @@
 {
- "generado": "2026-10-13T21:27:45+00:00",
- "desde": "2026-10-11T21:27:44Z",
+ "generado": "2026-10-13T22:48:29+00:00",
+ "desde": "2026-10-11T22:48:28Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "metropolitana de santiago": {
+   "comuna": "Metropolitana de Santiago",
+   "region": "Metropolitana de Santiago",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "ZylnxOKn0YA",
+     "url": "https://www.youtube.com/watch?v=ZylnxOKn0YA",
+     "titulo": "Sistema Frontal #Chile fuertes tormentas eléctricas, truenos, lluvia y granizadas #13Octubre 2026",
+     "canal": "Edigre Carreño Rivas",
+     "publicado": "2026-10-13T20:39:43Z",
+     "live": false,
+     "score": 2.82,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "xmF0mJya9G0",
+     "url": "https://www.youtube.com/watch?v=xmF0mJya9G0",
+     "titulo": "Impactante granizo, tormenta eléctrica y fuertes vientos golpean Santiago de Chile | El Comercio",
+     "canal": "EL COMERCIO",
+     "publicado": "2026-10-13T22:30:15Z",
+     "live": false,
+     "score": -1.03,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "GymtrM4iwfs",
+     "url": "https://www.youtube.com/watch?v=GymtrM4iwfs",
+     "titulo": "¡QUEDÓ TODO BLANCO! Impactante granizada y tormenta eléctrica hoy en Santiago 🇨🇱⛈️",
+     "canal": "Alejandro Viajero",
+     "publicado": "2026-10-13T21:44:30Z",
+     "live": false,
+     "score": -1.09,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "6B_jm2L_-nk",
+     "url": "https://www.youtube.com/watch?v=6B_jm2L_-nk",
+     "titulo": "Tormenta eléctrica e inundaciones en Santiago - BBCL en 5 - Martes 13 de octubre de 2026",
+     "canal": "Bio Bio",
+     "publicado": "2026-10-13T21:28:14Z",
+     "live": false,
+     "score": -1.11,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "talagante": {
    "comuna": "Talagante",
    "region": "Metropolitana de Santiago",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "BF7NCaj5Kqk",
-     "url": "https://www.youtube.com/watch?v=BF7NCaj5Kqk",
-     "titulo": "FUERTE LLUVIA EN SANTIAGO 🔴 EN VIVO - CHV Noticias. Martes 13 de octubre de 2026",
-     "canal": "CHV Noticias",
-     "publicado": "2026-10-13T19:48:57Z",
+     "id": "FopnxFPYsgg",
+     "url": "https://www.youtube.com/watch?v=FopnxFPYsgg",
+     "titulo": "EN VIVO 🔴 ICTUE Talagante | Martes 13/10",
+     "canal": "Iglesia CTUE Talagante",
+     "publicado": "2026-10-13T22:15:08Z",
      "live": true,
-     "score": 0.86,
+     "score": 7.95,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +77,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-13T18:17:43Z",
      "live": false,
-     "score": 7.74,
+     "score": 7.62,
      "verificado": false,
      "embeddable": true
     }
