@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-14T00:33:13+00:00",
- "desde": "2026-10-12T00:33:12Z",
+ "generado": "2026-10-14T01:45:43+00:00",
+ "desde": "2026-10-12T01:45:41Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -15,7 +15,7 @@
      "canal": "Edigre Carreño Rivas",
      "publicado": "2026-10-13T20:39:43Z",
      "live": false,
-     "score": 2.68,
+     "score": 2.58,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "Gestión Mundo",
      "publicado": "2026-10-13T23:21:46Z",
      "live": false,
-     "score": -1.1,
+     "score": -1.2,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +37,7 @@
      "canal": "EL COMERCIO",
      "publicado": "2026-10-13T22:30:15Z",
      "live": false,
-     "score": -1.17,
+     "score": -1.27,
      "verificado": false,
      "embeddable": true
     },
@@ -48,7 +48,7 @@
      "canal": "Alejandro Viajero",
      "publicado": "2026-10-13T21:44:30Z",
      "live": false,
-     "score": -1.23,
+     "score": -1.34,
      "verificado": false,
      "embeddable": true
     },
@@ -59,7 +59,7 @@
      "canal": "Bio Bio",
      "publicado": "2026-10-13T21:28:14Z",
      "live": false,
-     "score": -1.26,
+     "score": -1.36,
      "verificado": false,
      "embeddable": true
     }
@@ -77,7 +77,18 @@
      "canal": "Iglesia CTUE Talagante",
      "publicado": "2026-10-13T22:15:08Z",
      "live": true,
-     "score": 7.81,
+     "score": 7.71,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "P0Vol9EBVxM",
+     "url": "https://www.youtube.com/watch?v=P0Vol9EBVxM",
+     "titulo": "Llaman a evacuar Ribera del Río en Talagante por crecida del Río Mapocho",
+     "canal": "Meganoticias",
+     "publicado": "2026-10-14T01:20:58Z",
+     "live": false,
+     "score": 7.97,
      "verificado": false,
      "embeddable": true
     },
@@ -88,7 +99,18 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-13T18:17:43Z",
      "live": false,
-     "score": 7.48,
+     "score": 7.38,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "-MM78dprHho",
+     "url": "https://www.youtube.com/watch?v=-MM78dprHho",
+     "titulo": "Desborde de río Mapocho en Talagante: Evacuación de campamento en la ribera",
+     "canal": "Meganoticias",
+     "publicado": "2026-10-14T01:14:02Z",
+     "live": false,
+     "score": 5.96,
      "verificado": false,
      "embeddable": true
     }

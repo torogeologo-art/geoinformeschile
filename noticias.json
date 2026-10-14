@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-13T22:48:27+00:00",
+ "generado": "2026-10-14T01:45:40+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -3030,6 +3030,13 @@
    "comuna": "Nueva Imperial",
    "noticias": [
     {
+     "titulo": "Carabinero de franco se defiende de robo y deja un delincuente abatido en Nueva Imperial - Araucanía Diario",
+     "medio": "Araucanía Diario",
+     "fecha": "2026-10-13T12:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0tjMGl6bHZLM2FzSnRrV094eDJqWVFYc0dWSEVFVTFXd1pGYXo1OHgycHdCczNHa3B2MFpPdGR1YTFaX0hUVGV5WmRmQTNJUEl0YjdIYlhnbXdCaDkwMWNyY2JrLXQ1dnNWU0YzQUlnZF9idlR5TTZ4Y2dfWnl4RGppTGt1OU53TEpVOUlUUTZXZGNDYXZlY0ZNZk9CS01abDk1VVB1VVJEYl9sdlVkZlczRUxVbzTSAbcBQVVfeXFMT09LYzBpemx2SzNhc0p0a1dPeHgyallRWHNHVkhFRVUxV3daRmF6NTh4MnB3QnMzR2twdjBaT3RkdWExWl9IVFRleVpkZkEzSVBJdGI3SGJYZ213Qmg5MDFjcmNiay10NXZzVlNGM0FJZ2RfYnZUeU02eGNnX1p5eERqaUxrdTlOd0xKVTlJVFE2V2RjQ2F2ZWNGTWZPQktNWmw5NVVQdVVSRGJfbHZVZGZXM0VMVW80?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Desborde de canales deja 16 casas inundadas y vehículos bajo el agua en Curacautin - Araucanía Diario",
      "medio": "Araucanía Diario",
      "fecha": "2026-10-13T11:53:00+00:00",
@@ -3058,6 +3065,13 @@
      "sector": null
     },
     {
+     "titulo": "Sistema frontal deja a más de 9 mil personas aisladas y 2.500 viviendas afectadas en el sur de Chile - ADN Radio",
+     "medio": "ADN Radio",
+     "fecha": "2026-09-25T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWUJxS2tuR0JjRnlCZGdNUnhMM0JPcWdxTzhSQWExLVlRMU1JRkRHV19veGtZVmFaZGJ0M1lFcS1OOGx5MU9zZUpqTGhXbDVRZEdhbXg5SWp0aGUxc1hicWN4X3dzZmQyNVdUSVJlRnRvMGlRTmZZZzNtNUtiNnZENnFSTnU3ZGJlVXoxR3Zsdld4TFlyR3V4MWpadXdFNDNtSExMbzZyR3BKYlZwQTlhbXVBYVNHX1BpcURMRm95N2hPS0p4alY5TnhNRDF2OXhW0gHkAUFVX3lxTFB2OEJsMDlCY1A0X3lQTGtsVzViZ1hod0pVd3F5dThCYWthdnhKNnBPQ0Y5N0dpMnFyLXRlbTFSNktGaHZFbFZ3bWx3R3JUdzFuejlaSnNWTDdfSVpzVWZFeHZTLWQtNjBubXBDN1NLWEhxckJUSTF0eUExWVBka25zdGV0TDM5azZfdTJhN0VYdDJEUlhLYkpkbEo2Mk5HXzk1bGxNa1BKY1RFZFlHa01YUlZYdzB4SjZZWUJFb1dWQUJuMlYwTkZia1F5NFNvNXhDRTUwcDRrWHktQWZ4WmhFcUd3aw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Temporal golpea la zona lacustre: Evacúan sectores rurales de Pucón y Curarrehue por desborde de ríos y socavones - laopinon.cl",
      "medio": "laopinon.cl",
      "fecha": "2026-09-24T21:07:57+00:00",
@@ -3083,20 +3097,6 @@
      "medio": "Loncoche Informado",
      "fecha": "2026-09-24T17:14:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLWd0dG4zMXRqUEo0MmxWRnA5eVJkOWkyRDBOLXY2bllGdENXV0c3SzhLWG1scWZhWUxmMm9EZW1aQm96Y2h6Q0RvLUo0ZTFvV2dNVEtueG1tUjJ6V0F1N0MxaW80MGQzeG91Zm1Ya2dOdllDb2xVdjRjVGM2cGt6UnBvNzlEMXpaMmRsZHJ6amY3S0xJWUJxU0Jwdlh6QndGTEtUMGxxRjVZaUNhd1BfdWJwbUR2b2Y4VkVETWlfM1hFTmhiVzV4Q2ZsMUdURlZkOU53RWpSTlJVOTJqQXZVUnJmTUhnRm9OWWMwV0R30gHuAUFVX3lxTE0tZ3R0bjMxdGpQSjQybFZGcDl5UmQ5aTJEME4tdjZuWUZ0Q1dXRzdLOEtYbWxxZmFZTGYyb0RlbVpCb3pjaHpDRG8tSjRlMW9XZ01US254bW1SMnpXQXU3QzFpbzQwZDN4b3VmbVhrZ052WUNvbFV2NGNUYzZwa3pScG83OUQxeloyZGxkcnpqZjdLTElZQnFTQnB2WHpCd0ZMS1QwbHFGNVlpQ2F3UF91YnBtRHZvZjhWRURNaV8zWEVOaGJXNXhDZmwxR1RGVmQ5TndFalJOUlU5MmpBdlVScmZNSGdGb05ZYzBXRHc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Sistema frontal golpea La Araucanía: Trovolhue concentra daños y desbordes mantienen bajo vigilancia a Loncoche - loncocheinformado.cl",
-     "medio": "loncocheinformado.cl",
-     "fecha": "2026-09-24T17:14:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNekZGMENFeklwVUZCcE00aDgzajdzQjIweHFzUTcwMjVpWndjNnFLWDhJS2VIakFnYkVjVVU3YWdKNEVKWC0xMGwwWlQxMzIyZ200UFE3Rjc5YWdURGxWMEFwSllQdl9wOUxDUmplTlFlWHp3a256bDIzWjczUzJCanhIM1VEZ0lUa3YtejJEYlkwMzRUeTNXdjlRWmU1bC1SNDJTMjdwY0dwNjYwRUxKLTZUU1VzMU42dTgwb3JRT1VJaW9xdXlEY0FIc2xRLS03WnVnTHBWTUl3cm05VU1FTnFOa3VPQdIB5gFBVV95cUxNekZGMENFeklwVUZCcE00aDgzajdzQjIweHFzUTcwMjVpWndjNnFLWDhJS2VIakFnYkVjVVU3YWdKNEVKWC0xMGwwWlQxMzIyZ200UFE3Rjc5YWdURGxWMEFwSllQdl9wOUxDUmplTlFlWHp3a256bDIzWjczUzJCanhIM1VEZ0lUa3YtejJEYlkwMzRUeTNXdjlRWmU1bC1SNDJTMjdwY0dwNjYwRUxKLTZUU1VzMU42dTgwb3JRT1VJaW9xdXlEY0FIc2xRLS03WnVnTHBWTUl3cm05VU1FTnFOa3VPQQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Lluvias en el sur activan 15 alertas SAE y obligan a evacuar sectores por desbordes de ríos - La Tercera",
-     "medio": "La Tercera",
-     "fecha": "2026-09-24T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNklVTnpvc3MtV1c1dk1wNGRDaUFPZWFMRHVLbzRRM3BDNl85V3BxSC1yN1NPY1JIUWNSTDZRRm1IcmJzMnhjSlhlSGcwTWo5WGw2eE90VkF4bGctY0tHeVc1YjZxY3VpdFVld2xnTEZMdUtuSFdjSE1zbXNrSGV6OEFwS2JrTndfVFZLd3R4R0JXWUlvY1ZPbmZxNTJaekxzbmwyQU1NZjhkUi02bWpZRnFWdTU0MF9ZeFAzbFVQSVdDZmVicXczbWh4c2lfYkRE?oc=5",
      "sector": null
     }
    ]
@@ -4431,73 +4431,73 @@
    "comuna": "Talagante",
    "noticias": [
     {
-     "titulo": "Desborde del río Mapocho en Talagante: rescatan en helicóptero a personas aisladas - Canal 13",
-     "medio": "Canal 13",
-     "fecha": "2026-10-12T13:35:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWURfemU0cS1tTlRmQzkwa0Y2TU5BTkUwcWM0WEhKRzl3a2hsazdITWxUb1ZmOHJYUXlaRU1XeW9MRmo4YXlZb3VSMTkxelhnREhZVWJISjVRX2FnaGU1WV9pLWNNcjhoSl85aDNsWDlBVnJXMU9Bb1hOX0szVHN0LTRZSVp0UWJ2MGhlT1BkZ1Q4eTVnYVNxRVlGWjZFMzhJRUVCSHhSZGExYXRUT0FONHdUTFhaZVlyWGtYVnJ5bEpoSzRR0gHEAUFVX3lxTE5ZRF96ZTRxLW1OVGZDOTBrRjZNTkFORTBxYzRYSEpHOXdraGxrN0hNbFRvVmY4clhReVpFTVd5b0xGajhheVlvdVIxOTF6WGdESFlVYkhKNVFfYWdoZTVZX2ktY01yOGhKXzloM2xYOUFWclcxT0FvWE5fSzNUc3QtNFlJWnRRYnYwaGVPUGRnVDh5NWdhU3FFWUZaNkUzOElFRUJIeFJkYTFhdFRPQU40d1RMWFplWXJYa1hWcnlsSmhLNFE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "“Esta mañana”: Ministras de Educación y Desarrollo Social visitan albergue en Talagante para coordinar apoyo a familias damnificadas - ADN Radio",
+     "titulo": "Senapred activa alerta SAE para evacuar campamento Ribera del Río por desborde del Mapocho en Talagante - ADN Radio",
      "medio": "ADN Radio",
-     "fecha": "2026-10-10T00:26:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeFk2cnRuOGp6eG1VQWNrTXBuajdpbEh4ay15SGY2ZVFwa2RkUWpaektWX0NmRDJxenEwYWswV21weGdHaHlZVEZUV3N2QmNBVXFfM3VkNV90MkVMVDVVY3RhNS1HSEhWa2RFVlJFUTNyOHF2V296UU56X1RoNk00VVVHSnFtNmVtb2JzcWNQa0Z4ZmNoT0gtcGMwSTBhZXdNSWhpYmdqOW1tZEZkcmhmTjZ1M0xuUlAxVGE1c1BIMm00MGNITzV5ZTdGQndHRUxyYThDQkxpTXVqNko5THVfcklWSFlhWGVhZ3k4SngyS3llcHBHZWJjR9IBjAJBVV95cUxNN3dVd3AtTG1pVUtVSXBGUm1MQl96UnVzbzBuY2VHSGxUNE9NcGJvd1hCOU9wWU9lTERSTmdtem1DQk1Dcy1OZ09xN3cwbFRRdFJERVByVU53b3llNTJDRzBQbENiVm1Ia2s0ckp2ZW5VSWFyTW0wcFAxMmdEYTlMT2o2a1dTVll1ekNaZE1seUFIUHlJakdqa280UGROSFpHaFFtT0tIRVJhVW43ZXVXcC1kajFDNVdRa1lUR0ZwOHBoWTR0YXl3eDAwMzJacUJDWVhZQ3RWaDl4WEFJUmg0bDBoX1FGWlZJdW5vaDN1eXV2RmloRnBNOXNWOHdibkJqNVJna0dmcGQ2Yklo?oc=5",
+     "fecha": "2026-10-13T23:31:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLTA4Yk03R19wVWtGRm5DN01KMGFsaUVfSXpWbEVxYVRxOTE4Z1pYM29FNm9iMGFhU256TDhXTW05UGtRX2o4Sk5LcnlfS1AxbnZ0RU11WjRnUjFBbVBXVVI2c2hKcktXbUQ3R0F6Y3RsRzAwbTF4aWEwamswTHV2N2FKOEZKV3d5dzdILW9LMERfaXVTWExFT1V3VkJQLUt4ZHZtaVZrR25fLXRvMWphU29EQ25aQTNvWkY5NzdJNkc3R00xTWhuNEg1RUxhbkQtWVF1TmRB0gHqAUFVX3lxTFBFcG5Ma1JfM01DN1NKZ2RocXJqdndMVTZ1ZWRWNi0ydDRpelBrX1NVOU9uNEN1UHNKaVJ4bE9QQlpZMVdZUnVILUI1b08ycEt5Nml1azZsR2daYTVRWExqcGFBbnRINHdBVV9aci1odDdvTHFFeUdzU28wWnJVWXI2UUFoc3JENnYwTXc2ZWV6LWNUU3ZCaGFxems1TzNSanpkWlNNc0dYSXNveG1vR0pjbFNTR1lCSkc3bE0xZWdpd3JDbHI3YllvSVVVVHFieGo0dXNWUkRFQjdTSlVPdXRodEJyX1liN1B2Zw?oc=5",
      "sector": null
     },
     {
-     "titulo": "“Esto es una bomba de tiempo”: alcalde de Talagante exige a gobierno solución para campamento inundado por desborde del Mapocho - Teletrece",
-     "medio": "Teletrece",
-     "fecha": "2026-10-09T23:51:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTzROSnpKNGxPc0Q1NmRfTGZWLXFqQ0NPMURHY2NIZTBPU2pwTHBqUE5Fajd2X0VoazczTVdlTnVPQWJCYWhJTjk2X0pqVTRTem95c09ZUE9RdFlvMUpra3kxZ2xWVy1YY0hYaW83czl0eUVRbXpNWWswTWc2NUd0NjlNMUZyaXFjZS00b0JkQXBwTEY4cUd4U29kY0hFa3lHV21QUURjUlpNM1E2Ul8wbHI3aGFtSDBGV21ReEJhanZ4ZzQ?oc=5",
+     "titulo": "Solicitan evacuar campamento Ribera del Río en Talagante por desborde del río Mapocho - Puranoticia.cl",
+     "medio": "Puranoticia.cl",
+     "fecha": "2026-10-13T23:09:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1JFdjd0TV9OUlhBR0ktRWowT01qSXFXa3I1c1VreTZJZDNLNWpkTDQ0M1JjRFNCb2paSDgtUWctWTR6VExfcHVCNktTVmR2amN5M2ZFVUI5dDZtYy1LZ2tWYzhiaWcySVkxd2gwOVhaZlZjNWhUVDhZdDJ2WktSblBSem1Wb1RiNkF1WGh0cTZnTTFWQWtKUk5mQUYycnJhb2EwY3RIVC1DWTJ5WDE0?oc=5",
      "sector": null
     },
     {
-     "titulo": "“Esto es una bomba de tiempo”: alcalde de Talagante exige a gobierno solución para campamento inundado por desborde del Mapocho - Teletrece",
-     "medio": "Teletrece",
-     "fecha": "2026-10-09T23:51:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcTdyOGVQejlaeC1weEtDTFU3WnN6YzZKSDN1VVlvci1mNUVUTkVOVFUyaVZMenJBSVF3OU1pdHRvc002Mk43UDM4TVRTZExOY0hVV2RRR2FkZGZUVWNCd2pqUmc1MmRoUi04OFQxNHJpcXV6WTNleWtQTnI5Q3FCaTFabmdid05vYVk4Uk9rbjlQUnRiSW40TlljVWVSWTdIZEV3aHFXdm5xZXRDT1JlWGw4aGNHTG81eF9SOGhXYno3TThnclBXb9IByAFBVV95cUxNcTdyOGVQejlaeC1weEtDTFU3WnN6YzZKSDN1VVlvci1mNUVUTkVOVFUyaVZMenJBSVF3OU1pdHRvc002Mk43UDM4TVRTZExOY0hVV2RRR2FkZGZUVWNCd2pqUmc1MmRoUi04OFQxNHJpcXV6WTNleWtQTnI5Q3FCaTFabmdid05vYVk4Uk9rbjlQUnRiSW40TlljVWVSWTdIZEV3aHFXdm5xZXRDT1JlWGw4aGNHTG81eF9SOGhXYno3TThnclBXbw?oc=5",
+     "titulo": "Talagante: Senapred solicita evacuar campamento por desborde del Mapocho - Radio Pauta 100.5",
+     "medio": "Radio Pauta 100.5",
+     "fecha": "2026-10-13T22:47:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdXk3cW5JblZ0b2dEc0ctN2toZTNpbThGM2lKb1NqODdJeHQxdkNkaktCWlZ4N09EY3oyUWE5eXZGM01QaGJvQ0oxSWgxUmoxeG14WEpyeEZYRk82RjNOXzAwTE13V0x4LWVrWGtnZGp5b09nc1J4djBGeXlYYWJGYUVVWWw2MjNjTzFIbDVxR284N0E0WEwyb09RTmxrZUl6SGczUlI1NEU4TDl5UHpieTBiU3RKOTRMb3l6eFU3LWpRQzVvT2ItTmliQnRMUWFG?oc=5",
      "sector": null
     },
     {
-     "titulo": "Alcalde de Talagante exige intervención urgente del Ejecutivo tras desborde del río Mapocho: “Lo tengo inundado completamente” - Radio La Señal",
-     "medio": "Radio La Señal",
-     "fecha": "2026-10-09T22:44:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcFQ5VUhuMG5kUDJXZmZobFhiQzdGWWJjck96SldaVDFkaVJsWFQwRGFvMlBQaHlaa2N2LVh6YTY3cTRNN2w0ZVRoUmhPR2hFSVZURlgxUGl1RHRmWHJxSUNwVGZ5QjE4TFh2NUtoY19oemdxUm8yOWxPWWJWM1l6RVVwNGt2TlFhb1VsZ1cyYmZLaXhVbUl3ZnpYVl9Wb0xYZzZfTTNMTHFyU3RiMmZTbWFVTnZWZ01tTXZYd21MMlpYRENfYTFKMVBCTjZITnVNY0V5bDZDcFhSazNmd2xIeUR3?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alcalde de Talagante exige intervención tras desborde del Mapocho - El Periscopio",
-     "medio": "El Periscopio",
-     "fecha": "2026-10-09T20:55:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1NmRzdVd2dyWF9rWDlYQlYwTlA1RjBtZUJTVTFkb2RKMVE5bF9yTlBMYkpLUm5mdVA1QUFRdGItZ21kUV9pdmlSTGNTLWx3cVU1aGZ1YUZGNm1yeXU3MGhwNjhkOU5ocDJnZHkxRnNOZW5SWXVNR09ycDc1LXNNSHQ4ZEtKSUF4aXlzTkVreUlmelMweFRCYk1NVGcybHNLOFpiako5QnpsQQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "“No he visto a ningún ministro”: alcalde de Talagante reclama presencia del Gobierno por inundación en campamento tras desborde del Mapocho - ADN Radio",
-     "medio": "ADN Radio",
-     "fecha": "2026-10-09T19:48:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQnhkbU9BTlVWVHYwdWl1WEp4TExWRzE1WG5ocXVaV2ExelN6VXd3QVVROWdGZUZDczdvVVM0d1BHMHJTRG9OOEh0Wm1UeVpqZW9fWl8tZ3ppbmRtMGY1V0lFNXBvSkRYblVXX2NhbUZXWTU5c3Z6OGpXS3hCU2tycHEzZjdQTnBFSzhxSFdpOHJyN3ZjWWxZa3ozLU9SbkFlWFctWFUwUDhHZjRrZXBuOTBINnJZNWpfMmNkWURQRXhCZDROVlB3aURSTC10czg5cUFncjAzeklFWmtoRmIyeVhYdXJmMm9ObUUzTVc2MldiaDNBdWdkYjMzS05YRmotUnfSAZYCQVVfeXFMUGpYX2RiMzZrWDd0TzV0QjQ1RVRuZExndW1uRVZZalc3eDMxY3FhR2kycnFwME9XeHVMcld2VmxfbGVoSXQ1a21jODhWa2NhN2hzSEpvakk1NUliWk9DekJ2N0lQdEhJcXFCUDRwNXVPMnFFMURQRDlYVHhRNmpfeUdOXzZGVHZFZnVmbFIzVVQzVFFkemU5TGlFMHJiSmpHeGtKNzNHdUI5b2JjRFdLeDlIZmZIYTJQZDY2M0VyZlBZWk12QnhJZ0RtNllaOVUwZUdSc01VTVlqbl9jM05lX1ptd1RMTGVyR2tIb2wteGpZZXotQWJXZXpvaXhMUS14ZV9xbkh0Z25WQno4Qko4UzJ5a0FvZmc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "\"No he visto a ningún ministro\": Alcalde de Talagante emplaza al Gobierno por daños en campamento tras desborde del Río Mapocho - Teletrece",
-     "medio": "Teletrece",
-     "fecha": "2026-10-09T17:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmV2cHZGVDM3b1poY0JWZmlTalEzLWZRWTNKczVtSDJha1B6TXVnWTF3Y0F0VmotRlJEWmR5QldvQnB0Q184LWRMVnBiRnp1R0dHY1NGTG9YODhkMHpKUG1aQkZEOFpPMEg1MWY2eFl5X0h5Xzlxd3JGZVBOQTBnQXBwTmF6VE1CMFQ2Zm5mZ0dXWklFVVA0ZWszbnlBTHpVbHpmNnBxQm0xTWlFLWRWWA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred declara alerta amarilla en seis comunas de la RM por crecida del río Mapocho - Epicentro Chile",
+     "titulo": "Activan alerta SAE en Talagante por desborde del río Mapocho: piden evacuar campamento - Epicentro Chile",
      "medio": "Epicentro Chile",
-     "fecha": "2026-10-09T13:36:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcURFc2haN0xFZFdlR25SOWFUTDRORVZPbEhUNzZTcnRBSGcyTWFSU1RVWlNYRFc1VkgtOHZIbEtLeXNsZlB3emJjS0lJTkU2eVQ2LXRhbkRQQ3FicXRoaGpjc0k0Mk5qam5TTVBWLXlLd3VhemdZd1hvbjRQeFlJTk9iV3JSR19oUjN1eWI4bE4yY1dPOTFzSWdlMHdKaktVX3dYeG1B?oc=5",
+     "fecha": "2026-10-13T22:38:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSHE5X29kR3d4R3dDN1d1MDlzbFNHMldlT1k2MEltb3ZjalBCdVF1M1lzNUpWOEFkWGNvbDdpQzRQRkJmT2hjMm9lSXlNMVo4UDI5V3ZCcXVEaElZeVN0ZEhNZlM2TVlQWHFscE5DYkx3Vm84aVlnRjJ3ZnhDNTRiSE5FVkd6aHUtVVlISzBXNV9MSi1LQW16U3dvTEozRXJ1ZjlaOUd5VXBnVkNDSFJjU2s5MUxkMENpSTNpODRtcTRoYnE2bU1B?oc=5",
      "sector": null
     },
     {
-     "titulo": "Alcalde de Talagante advierte que familias de campamento en lecho del río Mapocho se niegan a evacuar tras crecida - Meganoticias",
-     "medio": "Meganoticias",
-     "fecha": "2026-10-09T03:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT0NLVkRDbFB5TEVIN1RIWFQtR1JGNzctWng3ck0xN2xiWWljUVdJdk9URng5MDNaQW9oODFGcW80V0Y4U0E3OWJ1ZzUxLUYxVE9BbGdzTjd5bEdqT09vdm5WRksxRGlGblV3M0hDN2ZfbkFWc29zY2dQSzI2QWVKR0VaN2p3STZsaE1VQy1ka3JINWtldnVnM21nSlcxZzI0a1hFNTN6NzYydzl5cS1oSDBWQmhjcmJzTEcyZmpBNUZRNkUxVnd6StIBzgFBVV95cUxQZDRnYm9ZamR1OGxJeGZkR09wOVVEU0hCanhpQ3BqMmdtbEVzWHJHd0hCYkg2T0R2TTFlVjRIN0duX3FFdGUyZVd4RndkTWgwWEpRWW5rb1ZsRDI1RHJON2FDdTFpNmVVRVJnYWpkZVhCc2tTSmk5bGdGSkRpQXJ4MEdBZU1Oem56bm55RkRiYjc5blVleVY2ck5zZDNxRDd6X2lWa2ZpQ3NSTGp2Z3RFRG45bjd0R3hqZVFJenVwVHFiYUR1U25OSXkwVUJpdw?oc=5",
+     "titulo": "Autoridades piden evacuar campamento en Talagante por desborde del río Mapocho - Cooperativa",
+     "medio": "Cooperativa",
+     "fecha": "2026-10-13T22:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUy1GbklrOXNRYnp1dTdOQUpDaVYzQnA3TUtGRE53TFRFczExVWpSa2Q0cGwyRlRXbllQY3FBeFRNSXdVQWQ1TmhyeGZ3UFREWF96Nmk2T282OEpYWTRKdUFrUjBWYUhLTzhDbXlZVnZXTFl5YnJWSjVtTGF6UVBYODlzWHFLc1FUSDV0VnBNeVhfYTkxa3NwOC1rWnRmWHVrQmZXNkNZQVBmYzNBUmpaYlo2X25EZ2xDMjhmQ01nY2lkemhNU2xhekhxb3BQTmRPUDdBeWpBMVjSAYwBQVVfeXFMTzRFV0FKT3JReHZwalRkekxxNWFiWGtUeEhkVWhxNDVBWDRTUzJ5NW9veFE3UkF4SWVncWZmWW1xTmRxNmFZX1FiNGtORXJVd3dUNDVHTWtaR1gtNm83YjRONVZMWWpLVkVnU3FCRG9GT1d2aEdweHRUN1VLaHVTVUZDUjRoUE5rd1phT2k?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta SAE en Talagante por desborde del Mapocho: evacúan campamento Ribera del Río - Canal 9 Bío Bío Televisión",
+     "medio": "Canal 9 Bío Bío Televisión",
+     "fecha": "2026-10-13T22:11:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYWUyZWJ6bnVocFdQaGlBMzk3a1IyTktTVndVbEtzSnFKWnJkU1BOeEZrNzhlb3VoeE9lREJNVTJhTnQwWklTcms2UE1Kek9nNnhGcThJV0ctN01fX2h3a3J5a2tIaWN0b2tZSlk4ZDFiRjFxYWsxYXR5ZGN6WEFIeXFEVjRnNmJIR29WYnc1ZzYyMThNdFdaVmthWm5HV3dEdjJXcVZjLTNtRjVWck8xZ05HNlNoR1J4SExDbVNROWdKMW5JSGt4WWxzMkFYQ0QxNGRqRmxDMnUzeEU?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred activa alerta SAE y solicita evacuar campamento Ribera del Río por desborde del Mapocho en Talagante - La Tercera",
+     "medio": "La Tercera",
+     "fecha": "2026-10-13T22:07:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZnpXSm5tTTVVMGN5YVNTUEo5MnUtOVBUbDdmZm5ETG5oaG8wc3RIVDlwWWN5ZUgwOWd0ZVplLUl0QTUxTjAzbm1CUmpRWmx3Uy1lWlQ5QURtQlNZQVYwZzd6dWhHVlJTUVhwNnV1WUNGbk0wVVp0YnhGdElWNm5tOUVxZ2xDRW5sWmFST1lZVzZFNm84Z3Rabm5zQTU5OG5mU081VmFJNmwzcnBPVW91Z3VzMm85VDYxMDNiNE5xU3FYb3FfRWdnbG1nS1JKd1V5VkU2WWloZ2ZoVWlDdDVYVmxqNHNiT3E50gGKAkFVX3lxTE5nRGljNmliMmdhSnU1cEFoelhhWmRhajNRMWVsLWxMR1N2Z09hRnBEQUpxMHRZR2U4VThkbVV2blRKWHpjZVFEZndtVlFhSFN5LUw5dmp5dTJmd3E4WDdSLXBEM0JFaE12dGx1c3l0WDJvaE42b3dCYUpxTGFJS2M2aHVDMHN5b2lIS1VyaGJiZ1BRRlJMSVRjMk5MVWFmekIwU2hCVm9vTF9oYTYyMU5udGZwNVRFeElsTXl5Qmd4VVpJcFpkU3dOdGkzaXl5MGdSblZUeG8wUVI3c2JSaVgwSmlocnJJQjNHSFlSd0dmYmpVNXhxTjc4VGFCWEpWTkVDN3NETGhhdjln?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred pide evacuar campamento Ribera del Río en Talagante por desborde del Mapocho - Infogate.cl",
+     "medio": "Infogate.cl",
+     "fecha": "2026-10-13T22:06:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX1BsaDRRN0VTZlhoSUZ6OHlvSWdmVEM1ODU4cHN3OHlRLXB0T3hYYnRMYWdvSHJ6bFJpeXNlcHdfQnFnUTJHNlNkQlBRZ0FGUlEtZG9XRm1sOHBLRHRleE9YTjlONGc3UVZ5QVpVeGpmbzU5bE1qdGVnb3BJWTJtT3NzdVVHS2VWdGhCMXBUVkl0Y0M5WEhEYmVUMmMyTHMwdkd2R3EwWUlTWjd6MlplbmJ2TlQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Activan alerta SAE en Talagante por desborde del río Mapocho: piden evacuar campamento Ribera del Río - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2026-10-13T22:05:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPXy12X0l0akIxY2k4c1B5M1U4VmpyeUJVLTNTYm5xcjlJd01BWGhjYzZmdWxOMHdIcm9iZXZFN2pxT2ZzSGREZUhXazFQYjhfbU5ScThvOEluaVYzT3VqSFdYME10dHRNVzFHd1FlUDBCd2VUbUFNZVJjT2FVMjJSTHk3SWxqRE9MSWw4N0lCdVlqVks4VnBXdXFQQklMQmxMbnl5bWNLQVlSY2ozVmlLNnJ0YXJRTFo3YkJXOVZBclJRVGNnRm9EbGdaUGZISUIyUkFzbjBqQWxNVnlNbGVLTGQ2RkRKQzRnbEF6N2t1YXQxSHU3N0hoN3pLRURyUXNRZ3R4X3JUbTJNRkNwemdHZw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta SAE en Talagante: solicitan evacuar campamento Ribera del Río por desborde del Mapocho - 24horas",
+     "medio": "24horas",
+     "fecha": "2026-10-13T22:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUEwWDZXREhtVFRhZ1lhdUhsREdsYng4ZTBHMmZMUVJvc1hvUW5vNGJ1OF95bUNWZHc0M1B6ekpPQ3UtTGUtMmU5bFRpS0VmeEdmWWtqdG53N3o4TjBXZFlIbVNlSGRnVjZQN2NJZVAwbzh1T2txLVdWVlR0c1I3Tmljc1hZeXNMcDFMbHRLUldVd1d1REJtTG5NeTF1bkZiYzNFend1ZUVpeWlIY0ZTOUdRX1hCckVrRVHSAb8BQVVfeXFMUF9VSFI1SGJqa0xHTTkxdGYwdmFZcUpRUEg5VlRpeXFiSUUxaDhQQ2xzNFBOWmJ2cjBuVG9ORThyaFVMM3dtUEZYVzFuX3N3RmdpUTI3WkQydm9hSnRWbDNVVGgyeTRwU1JTQTNId1IzemJ5ZzhTT2xMa3BMVmdTVnl2STJlNE9RVWh0d251UHFCOFhDT1o2VkFZMXlJVFktSXZkSHJVR3hlWmhlVjctdWNMT1puaWMxYzNOWGtacWM?oc=5",
      "sector": null
     }
    ]
