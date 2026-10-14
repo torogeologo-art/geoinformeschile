@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-14T01:45:43+00:00",
- "desde": "2026-10-12T01:45:41Z",
+ "generado": "2026-10-14T05:27:09+00:00",
+ "desde": "2026-10-12T05:27:08Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -9,57 +9,46 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "ZylnxOKn0YA",
-     "url": "https://www.youtube.com/watch?v=ZylnxOKn0YA",
-     "titulo": "Sistema Frontal #Chile fuertes tormentas eléctricas, truenos, lluvia y granizadas #13Octubre 2026",
-     "canal": "Edigre Carreño Rivas",
-     "publicado": "2026-10-13T20:39:43Z",
-     "live": false,
-     "score": 2.58,
+     "id": "lLfvdBNsJUM",
+     "url": "https://www.youtube.com/watch?v=lLfvdBNsJUM",
+     "titulo": "🔴 URGENTE TRIPLE TERREMOTO PREPÁRENSE | TORNADO INUSUAL EN CHILE TORMENTA EXTREMA AHORA",
+     "canal": "KL videos",
+     "publicado": "2026-10-14T01:44:38Z",
+     "live": true,
+     "score": 4.69,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "Hs6ysyTlM5A",
-     "url": "https://www.youtube.com/watch?v=Hs6ysyTlM5A",
-     "titulo": "Granizo en Chile: Intensa tormenta desata inundaciones y alerta roja en Santiago | Gestión Mundo",
-     "canal": "Gestión Mundo",
-     "publicado": "2026-10-13T23:21:46Z",
-     "live": false,
-     "score": -1.2,
+     "id": "MHrIToDSxA4",
+     "url": "https://www.youtube.com/watch?v=MHrIToDSxA4",
+     "titulo": "🔴 EN VIVO | GRANIZADA EN CHILE: SANTIAGO BAJO EL AGUA Y FUERTES TORMENTAS",
+     "canal": "Tropical Huracán",
+     "publicado": "2026-10-14T01:49:43Z",
+     "live": true,
+     "score": 0.7,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "xmF0mJya9G0",
-     "url": "https://www.youtube.com/watch?v=xmF0mJya9G0",
-     "titulo": "Impactante granizo, tormenta eléctrica y fuertes vientos golpean Santiago de Chile | El Comercio",
-     "canal": "EL COMERCIO",
-     "publicado": "2026-10-13T22:30:15Z",
-     "live": false,
-     "score": -1.27,
+     "id": "tUahxackI2I",
+     "url": "https://www.youtube.com/watch?v=tUahxackI2I",
+     "titulo": "¡CAOS EN CHILE! UN POSIBLE TORNADO ARRANCA TECHOS Y UNA TORMENTA INUNDA SANTIAGO",
+     "canal": "Crisis Global TV",
+     "publicado": "2026-10-14T00:45:48Z",
+     "live": true,
+     "score": 0.61,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "GymtrM4iwfs",
-     "url": "https://www.youtube.com/watch?v=GymtrM4iwfs",
-     "titulo": "¡QUEDÓ TODO BLANCO! Impactante granizada y tormenta eléctrica hoy en Santiago 🇨🇱⛈️",
-     "canal": "Alejandro Viajero",
-     "publicado": "2026-10-13T21:44:30Z",
+     "id": "RMFVNkp_3F8",
+     "url": "https://www.youtube.com/watch?v=RMFVNkp_3F8",
+     "titulo": "Meteoróloga explica el evento meteorológico que afectó a la región Metropolitana",
+     "canal": "CNN Chile",
+     "publicado": "2026-10-14T01:28:42Z",
      "live": false,
-     "score": -1.34,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "6B_jm2L_-nk",
-     "url": "https://www.youtube.com/watch?v=6B_jm2L_-nk",
-     "titulo": "Tormenta eléctrica e inundaciones en Santiago - BBCL en 5 - Martes 13 de octubre de 2026",
-     "canal": "Bio Bio",
-     "publicado": "2026-10-13T21:28:14Z",
-     "live": false,
-     "score": -1.36,
+     "score": 2.67,
      "verificado": false,
      "embeddable": true
     }
@@ -77,7 +66,18 @@
      "canal": "Iglesia CTUE Talagante",
      "publicado": "2026-10-13T22:15:08Z",
      "live": true,
-     "score": 7.71,
+     "score": 7.4,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "MHrIToDSxA4",
+     "url": "https://www.youtube.com/watch?v=MHrIToDSxA4",
+     "titulo": "🔴 EN VIVO | GRANIZADA EN CHILE: SANTIAGO BAJO EL AGUA Y FUERTES TORMENTAS",
+     "canal": "Tropical Huracán",
+     "publicado": "2026-10-14T01:49:43Z",
+     "live": true,
+     "score": 0.7,
      "verificado": false,
      "embeddable": true
     },
@@ -88,7 +88,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-10-14T01:20:58Z",
      "live": false,
-     "score": 7.97,
+     "score": 7.66,
      "verificado": false,
      "embeddable": true
     },
@@ -99,7 +99,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-13T18:17:43Z",
      "live": false,
-     "score": 7.38,
+     "score": 7.07,
      "verificado": false,
      "embeddable": true
     },
@@ -110,7 +110,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-10-14T01:14:02Z",
      "live": false,
-     "score": 5.96,
+     "score": 5.65,
      "verificado": false,
      "embeddable": true
     }
