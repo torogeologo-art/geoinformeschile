@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-13T22:48:29+00:00",
- "desde": "2026-10-11T22:48:28Z",
+ "generado": "2026-10-14T00:33:13+00:00",
+ "desde": "2026-10-12T00:33:12Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -15,7 +15,18 @@
      "canal": "Edigre Carreño Rivas",
      "publicado": "2026-10-13T20:39:43Z",
      "live": false,
-     "score": 2.82,
+     "score": 2.68,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Hs6ysyTlM5A",
+     "url": "https://www.youtube.com/watch?v=Hs6ysyTlM5A",
+     "titulo": "Granizo en Chile: Intensa tormenta desata inundaciones y alerta roja en Santiago | Gestión Mundo",
+     "canal": "Gestión Mundo",
+     "publicado": "2026-10-13T23:21:46Z",
+     "live": false,
+     "score": -1.1,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +37,7 @@
      "canal": "EL COMERCIO",
      "publicado": "2026-10-13T22:30:15Z",
      "live": false,
-     "score": -1.03,
+     "score": -1.17,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +48,7 @@
      "canal": "Alejandro Viajero",
      "publicado": "2026-10-13T21:44:30Z",
      "live": false,
-     "score": -1.09,
+     "score": -1.23,
      "verificado": false,
      "embeddable": true
     },
@@ -48,7 +59,7 @@
      "canal": "Bio Bio",
      "publicado": "2026-10-13T21:28:14Z",
      "live": false,
-     "score": -1.11,
+     "score": -1.26,
      "verificado": false,
      "embeddable": true
     }
@@ -66,7 +77,7 @@
      "canal": "Iglesia CTUE Talagante",
      "publicado": "2026-10-13T22:15:08Z",
      "live": true,
-     "score": 7.95,
+     "score": 7.81,
      "verificado": false,
      "embeddable": true
     },
@@ -77,7 +88,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-13T18:17:43Z",
      "live": false,
-     "score": 7.62,
+     "score": 7.48,
      "verificado": false,
      "embeddable": true
     }

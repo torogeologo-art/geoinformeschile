@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-13T22:48:26+00:00",
+ "generado": "2026-10-14T00:33:11+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -22,6 +22,20 @@
    "origen": "senapred_web",
    "regiones_extra": [],
    "sae": true
+  },
+  {
+   "id": "07e00fe512c0",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA178 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en cordillera de la costa, valle y precordillera. 13-10 13-10 Abrir aquí Aviso A544-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 13-10 14-1",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-13T20:14:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "3aa112e9138f",
@@ -78,20 +92,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-13T17:59:54.5454-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "07e00fe512c0",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA178 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en cordillera de la costa, valle y precordillera. 13-10 13-10 Abrir aquí Aviso A544-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 13-10 14-1",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-13T17:55:45.4545-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1352,20 +1352,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-14T20:40:56.5656-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-09-10-17-46-20",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "8b64e33b8d8e",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Antofagasta por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A467-9 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-13T21:48:27.2727-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento-2026-09-02-16-27-21",
    "origen": "senapred_web",
    "regiones_extra": []
   },
