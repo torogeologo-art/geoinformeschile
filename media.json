@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-14T05:27:09+00:00",
- "desde": "2026-10-12T05:27:08Z",
+ "generado": "2026-10-14T06:46:18+00:00",
+ "desde": "2026-10-12T06:46:17Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -9,35 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "lLfvdBNsJUM",
-     "url": "https://www.youtube.com/watch?v=lLfvdBNsJUM",
-     "titulo": "🔴 URGENTE TRIPLE TERREMOTO PREPÁRENSE | TORNADO INUSUAL EN CHILE TORMENTA EXTREMA AHORA",
-     "canal": "KL videos",
-     "publicado": "2026-10-14T01:44:38Z",
-     "live": true,
-     "score": 4.69,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "MHrIToDSxA4",
      "url": "https://www.youtube.com/watch?v=MHrIToDSxA4",
      "titulo": "🔴 EN VIVO | GRANIZADA EN CHILE: SANTIAGO BAJO EL AGUA Y FUERTES TORMENTAS",
      "canal": "Tropical Huracán",
      "publicado": "2026-10-14T01:49:43Z",
      "live": true,
-     "score": 0.7,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "tUahxackI2I",
-     "url": "https://www.youtube.com/watch?v=tUahxackI2I",
-     "titulo": "¡CAOS EN CHILE! UN POSIBLE TORNADO ARRANCA TECHOS Y UNA TORMENTA INUNDA SANTIAGO",
-     "canal": "Crisis Global TV",
-     "publicado": "2026-10-14T00:45:48Z",
-     "live": true,
-     "score": 0.61,
+     "score": 0.59,
      "verificado": false,
      "embeddable": true
     },
@@ -48,7 +26,7 @@
      "canal": "CNN Chile",
      "publicado": "2026-10-14T01:28:42Z",
      "live": false,
-     "score": 2.67,
+     "score": 2.56,
      "verificado": false,
      "embeddable": true
     }
@@ -66,7 +44,7 @@
      "canal": "Iglesia CTUE Talagante",
      "publicado": "2026-10-13T22:15:08Z",
      "live": true,
-     "score": 7.4,
+     "score": 7.29,
      "verificado": false,
      "embeddable": true
     },
@@ -77,7 +55,7 @@
      "canal": "Tropical Huracán",
      "publicado": "2026-10-14T01:49:43Z",
      "live": true,
-     "score": 0.7,
+     "score": 0.59,
      "verificado": false,
      "embeddable": true
     },
@@ -88,7 +66,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-10-14T01:20:58Z",
      "live": false,
-     "score": 7.66,
+     "score": 7.55,
      "verificado": false,
      "embeddable": true
     },
@@ -99,7 +77,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-13T18:17:43Z",
      "live": false,
-     "score": 7.07,
+     "score": 6.96,
      "verificado": false,
      "embeddable": true
     },
@@ -110,7 +88,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-10-14T01:14:02Z",
      "live": false,
-     "score": 5.65,
+     "score": 5.54,
      "verificado": false,
      "embeddable": true
     }

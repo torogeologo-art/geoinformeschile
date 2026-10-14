@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-14T01:45:43+00:00",
+ "generado": "2026-10-14T06:46:19+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "04-10-2026",
@@ -11,14 +11,14 @@
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 84,
-   "ROJA": 9,
+   "ATP": 83,
+   "ROJA": 10,
    "AMARILLA": 16
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    69
+    68
    ],
    [
     "viento",
@@ -42,7 +42,7 @@
    ],
    [
     "evento meteorológico",
-    2
+    3
    ],
    [
     "otros",
@@ -80,15 +80,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "03-10",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
     "nivel": "ATP",
@@ -114,6 +105,15 @@
     "ts": "04-10",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "04-10",
+    "comuna_link": "",
+    "region_link": "valparaiso"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -299,6 +299,15 @@
   ],
   "evento meteorológico": [
    {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "14-10",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
+   },
+   {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
     "region": "Magallanes y de la Antártica Chilena",
     "nivel": "ATP",
@@ -329,13 +338,6 @@
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-10-03",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
   {
    "fecha": "2026-10-04",
    "ROJA": 1,
@@ -405,6 +407,13 @@
    "AMARILLA": 2,
    "ATP": 13,
    "sae": 1
+  },
+  {
+   "fecha": "2026-10-14",
+   "ROJA": 1,
+   "AMARILLA": 0,
+   "ATP": 0,
+   "sae": 0
   }
  ],
  "escalamientos": [
@@ -414,11 +423,6 @@
    "sae": true,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "10-10 12:09",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "ROJA",
      "ts": "10-10 15:00",
@@ -438,6 +442,11 @@
      "nivel": "AMARILLA",
      "ts": "13-10 12:47",
      "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "14-10 00:51",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -556,6 +565,15 @@
  ],
  "cronologia": [
   {
+   "ts": "14-10 00:51",
+   "nivel": "ROJA",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28"
+  },
+  {
    "ts": "13-10 21:59",
    "nivel": "AMARILLA",
    "lugar": "Región de Maule",
@@ -671,15 +689,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-10-13-30-11"
-  },
-  {
-   "ts": "13-10 05:47",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "desborde",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
