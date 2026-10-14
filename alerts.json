@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-14T21:30:31+00:00",
+ "generado": "2026-10-14T22:41:55+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,36 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "c1108a832341",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía : Alertamiento Pronóstico Inicio Fin Enlace Aviso A555 Probables tormentas eléctricas el litoral, cordillera de la costa, valle, precordillera y cordillera. 15-10 15-10 Abrir aquí Aviso A553 Probables tormentas eléctricas en cordillera de la costa, valle, precordillera y cordillera. 14-10 14-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Ar",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-14T18:49:08.088-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "7ea0d677cf70",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica evento de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Aviso A556 Probables tormentas eléctricas, preferentemente durante la tarde-noche con precipitaciones aisladas, en los sectores cordillera austral norte, cordillera austral sur, insular norte, insular central, pampa patagónica norte y pampa patagónica sur. 15-10 17-10 Aviso A552 Altas temperaturas (entre 19 y 21 °C) para los sectores de pampa patagónica norte y pampa patagón",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-14T18:44:25.2525-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-altas-temperaturas-2026-10-13-18-22-08",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
   {
    "id": "5f096dbf4c34",
    "nivel": "ATP",
@@ -179,22 +209,6 @@
    "regiones_extra": []
   },
   {
-   "id": "dd343e534c50",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por altas temperaturas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Aviso A552 Altas temperaturas (entre 19 y 21 °C) para los sectores de Pampa Patagónica Norte y Pampa Patagónica Sur 15-10 16-10 En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por altas temperaturas para las provincias de Magallanes, Última Esperanza",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-13T18:18:40.4040-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-altas-temperaturas-2026-10-13-18-22-08",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
-  },
-  {
    "id": "58e48bd6b3e6",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -237,20 +251,6 @@
    "regiones_extra": []
   },
   {
-   "id": "9b71966db534",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A549 Probables tormentas eléctricas preferentemente durante la tarde-noche con precipitaciones aisladas en la región. 12-10 13-10 Abrir aquí Aviso A553 Probables tormentas eléctricas en cordillera de la costa, valle, precordillera y cordillera. 14-10 14-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regiona",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-13T16:01:17.1717-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "eeb66f9e4093",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
@@ -263,6 +263,22 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-lo-barnechea-por-crecida-2026-10-06-08-22-42",
    "origen": "senapred_web",
    "regiones_extra": []
+  },
+  {
+   "id": "b89de6820466",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por precipitaciones",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento para la región: Alertamiento Pronóstico Aviso A548 Precipitaciones normales a moderadas en corto periodo de tiempo en zonas de la Región de Magallanes. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por precipitaciones para las provincias de Magallan",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-13T12:17:57.5757-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-por-evento-meteorologico-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-evento-meteorologico-2026-10-11-14-59-33",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
   },
   {
    "id": "8713f3fe6904",
