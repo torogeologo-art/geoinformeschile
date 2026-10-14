@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-14T19:43:32+00:00",
- "desde": "2026-10-12T19:43:32Z",
+ "generado": "2026-10-14T21:30:50+00:00",
+ "desde": "2026-10-12T21:30:49Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "talagante": {
@@ -15,7 +15,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-10-14T01:20:58Z",
      "live": false,
-     "score": 6.47,
+     "score": 6.32,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-13T18:17:43Z",
      "live": false,
-     "score": 5.88,
+     "score": 5.73,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +37,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-10-14T01:14:02Z",
      "live": false,
-     "score": 4.46,
+     "score": 4.31,
      "verificado": false,
      "embeddable": true
     }
