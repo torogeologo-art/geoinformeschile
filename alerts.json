@@ -1,24 +1,52 @@
 {
- "generado": "2026-10-14T10:31:17+00:00",
+ "generado": "2026-10-14T12:47:45+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 18,
+ "total_vigentes": 17,
  "alertas": [
   {
-   "id": "2407e1e42bf8",
+   "id": "2cc55bfaa22b",
    "nivel": "ATP",
    "tipo": "evento meteorológico",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED O’Higgins, respecto del evento meteorológico que se desarrolla en la región, se registran las siguientes novedades: COMUNA AFECTACIÓN A PERSONAS DAÑO A VIVIENDAS DAMNIFICADOS EVACUADOS AISLADOS LESIONADOS DESAPARECIDOS FALLECIDOS DESTRUIDAS DAÑO MAYOR DAÑO MENOR EN EVALUACIÓN Rancagua - - - - - - - - - 60 Machalí - - - - - - - - 2 - San Fernando - - 17 - - - - - - - Total - - 17 - - - - - 2 60 Fuente: Dirección Regional de SENAPRED O’Higgins. Comuna de Rancagua : 60 viviendas con daños en evaluación en Población",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED O’Higgins , respecto del evento meteorológico que se desarrolla en la región, se registran las siguientes novedades: COMUNA AFECTACIÓN A PERSONAS DAÑO A VIVIENDAS DAMNIFICADOS EVACUADOS AISLADOS LESIONADOS DESAPARECIDOS FALLECIDOS DESTRUIDAS DAÑO MAYOR DAÑO MENOR EN EVALUACIÓN Rancagua - - - - - - - - - 60 Machalí - - - - - - - - 2 - San Fernando - - 17 - - - - - - - Total - - 17 - - - - - 2 60 Fuente: Dirección Regional de SENAPRED O’Higgins. &nbsp; Comuna de Rancagua : 60 viviendas con daños en evaluación en Po",
    "region": "Libertador General Bernardo O'Higgins",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-10-14T05:43:00.000-03:00",
+   "ts": "2026-10-14T09:39:45.4545-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "974fed4ebb09",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Amarilla para las comunas de Maipú, Padre Hurtado, Talagante, Peñaflor, El Monte y Melipilla por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “ Río Mapocho en Pte. Rinconada de Maipú” , ubicada en la comuna de Maipú, indica una baja en su caudal, alcanzando valores de umbral verde, lo que supone una disminución del riesgo para la población cercana a este curso de agua. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida para las comunas de Maipú, Padre Hurtado, Talagante, Peñaflor, El Monte y Melipilla",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-14T09:01:56.5656-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-maipu-padre-hurtado-talagante-penaflor-el-monte-y-melipilla-por-crecida-2026-10-14-07-01-58",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "eb63cc832715",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543-2 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 14-10 17-10 Abrir aquí Aviso A554 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 14-10 15-10 Abrir aquí Por otra parte, debido al debilitamiento de las",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-14T07:21:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -92,20 +120,6 @@
    "origen": "senapred_web",
    "regiones_extra": [],
    "sae": true
-  },
-  {
-   "id": "8eb1ae92fbef",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para las comunas de Maipú, Padre Hurtado, Talagante, Peñaflor, El Monte y Melipilla por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “ Río Mapocho en Pte. Rinconada de Maipú” , ubicada en la comuna de Maipú, el nivel de cauce ha alcanzado valores de umbral amarillo y presenta una tendencia al alza en las próximas horas, lo que supone un aumento del riesgo para la población cercana a este curso de agua. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para las comunas de Maipú, Padre Hurtado, Tal",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-13T19:49:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-maipu-padre-hurtado-talagante-penaflor-el-monte-y-melipilla-por-crecida-2026-10-14-07-01-58",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "dd343e534c50",
@@ -196,20 +210,6 @@
    "regiones_extra": []
   },
   {
-   "id": "757d9f53bf9a",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA177-1 Viento moderado a fuerte con desarrollo de tormentas de arena en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera Salar y cordillera. 12-10 14-10 Abrir aquí Aviso A543-2 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa, precordillera occidental, precordillera Alto Loa, prec",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-13T16:04:28.2828-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "9b71966db534",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -234,6 +234,20 @@
    "estado": "VIGENTE",
    "ts": "2026-10-13T15:42:53.5353-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-11-19-21-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "eeb66f9e4093",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Amarilla para la comuna de Lo Barnechea por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante el Pronóstico Meteorológico Público y con los antecedentes entregados por la Dirección General de Aguas (DGA) de la Región Metropolitana, la estación hidrométrica mantiene condiciones de normalidad, registrando umbral de alerta técnica verde en la estación “ Río Molina antes junta San Francisco ” en la comuna de Lo Barnechea. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED cancela la Alerta Amarilla p",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-13T12:47:58.5858-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-lo-barnechea-por-crecida-2026-10-06-08-22-42",
    "origen": "senapred_web",
    "regiones_extra": []
   },

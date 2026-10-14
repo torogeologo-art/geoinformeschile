@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-14T06:46:16+00:00",
+ "generado": "2026-10-14T12:48:03+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -3044,6 +3044,13 @@
      "sector": null
     },
     {
+     "titulo": "SISTEMA FRONTAL DEJA A CURARREHUE COMO LA COMUNA MÁS AFECTADA DE LA ARAUCANÍA CON 7.850 PERSONAS AISLADAS Y EVACUACIONES DE EMERGENCIA - Vilas Radio",
+     "medio": "Vilas Radio",
+     "fecha": "2026-09-26T01:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbzRfRk9hazJ1TTZxMk9tMGxwaG9aZGd2VjVCS0oyYW92T0cyMG9Yci1rVEVTMF9XcEl6bDFTSzltOFhSQ1ZJUy12d1R3cG0tbzlUZDcyZUVXRVNFalJIVHU0OFJ2c0xSUVU2eG5zTGpCbUtFVTFQUGgzems4NWIxc0x5bzlCQXdvNDFyc0R2eHlwYTVNaERoWDZzZU1nOUZYalFMVnhPMlZGcTJyblZJRmFMM2JFY2Z4OE40d25LU1ZvbjI5S1hhX2FuWTRfZXR2YmtTX2RoNFZweUkyRXVXakloeWgzQzBOYnRjeG9B?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Provincia de Cautín sigue bajo alerta roja tras nuevos desbordes - soychile.cl",
      "medio": "soychile.cl",
      "fecha": "2026-09-25T20:19:25+00:00",
@@ -3072,6 +3079,13 @@
      "sector": null
     },
     {
+     "titulo": "Ejército se despliega en apoyo a comunidades afectadas por temporal en La Araucanía - Ejército de Chile",
+     "medio": "Ejército de Chile",
+     "fecha": "2026-09-25T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHdfVllqbDQ5WkRhaTN5MU9tV3ZGYjhjaDJBLWlXMzl5TzdSMmp4QWdhMGF1aFQwaVd5YUYtcUFpa3F2WmRGS3pqR3kxSW1GSTM3OFNDcVJYdjh0eTdhcklLamRaVWJpS1dFV3NqcFJ0dXZTWmVrX1l5d1JFcGZFdDhFNWMtOVpVRkNFYkY5Nk5GSmwyWWFBQW9DRXFMN0RYa2ZSRURfVHJVOGxybW00UUJNdE1qd0QtSXhsRw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Temporal golpea la zona lacustre: Evacúan sectores rurales de Pucón y Curarrehue por desborde de ríos y socavones - laopinon.cl",
      "medio": "laopinon.cl",
      "fecha": "2026-09-24T21:07:57+00:00",
@@ -3083,20 +3097,6 @@
      "medio": "auroranoticias.cl",
      "fecha": "2026-09-24T21:01:44+00:00",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNODFuQzhtMHB5YURvTU81RmpkVzQ4QnRCcGhBZGFqeDR4aWpLM1ZQNjZRQkNvOGdlVHd3b3d1elVibzl0UG9Qa2Q1S05ZWVlsSzdMbm9ZRklXNFN6TElPSVdsZzJlOTFvNzFFM01JMzBWamdxZ3hwOXRnYWdBbnNPV3pfbVRVZndJQWc0LUtQSEcxWURYUktaRktKOFpUb2NESGJWdUQ0UVRRd29NMW85dXZSSlBmeEVBeHBfMzF1bUtEQ1JlRFplazJkdnp4TTVFblE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alerta por desborde de ríos en Purén, Carahue, Imperial, Gorbea, Pucón y Loncoche - soychile.cl",
-     "medio": "soychile.cl",
-     "fecha": "2026-09-24T19:07:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOFZmVWlJTTJBaVpsUERxRGpOSUdyYlVsdXk0bjI1eVpTWDBJLWpta3dKeVFydFdnWnZJTklPOUI0Zlp2VDhzR2F0WENwWEIxZ3Bvc2twVTY4NjlIWUt0RjBteVZscVQ1cnVNY1BjM0UxZnlTaTI0cWw5SlV1ZHRXQjFtc3czR2oyLUVmQktGZ05OZ3Jf?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Sistema frontal golpea La Araucanía: Trovolhue concentra daños y desbordes mantienen bajo vigilancia a Loncoche - Loncoche Informado",
-     "medio": "Loncoche Informado",
-     "fecha": "2026-09-24T17:14:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLWd0dG4zMXRqUEo0MmxWRnA5eVJkOWkyRDBOLXY2bllGdENXV0c3SzhLWG1scWZhWUxmMm9EZW1aQm96Y2h6Q0RvLUo0ZTFvV2dNVEtueG1tUjJ6V0F1N0MxaW80MGQzeG91Zm1Ya2dOdllDb2xVdjRjVGM2cGt6UnBvNzlEMXpaMmRsZHJ6amY3S0xJWUJxU0Jwdlh6QndGTEtUMGxxRjVZaUNhd1BfdWJwbUR2b2Y4VkVETWlfM1hFTmhiVzV4Q2ZsMUdURlZkOU53RWpSTlJVOTJqQXZVUnJmTUhnRm9OWWMwV0R30gHuAUFVX3lxTE0tZ3R0bjMxdGpQSjQybFZGcDl5UmQ5aTJEME4tdjZuWUZ0Q1dXRzdLOEtYbWxxZmFZTGYyb0RlbVpCb3pjaHpDRG8tSjRlMW9XZ01US254bW1SMnpXQXU3QzFpbzQwZDN4b3VmbVhrZ052WUNvbFV2NGNUYzZwa3pScG83OUQxeloyZGxkcnpqZjdLTElZQnFTQnB2WHpCd0ZMS1QwbHFGNVlpQ2F3UF91YnBtRHZvZjhWRURNaV8zWEVOaGJXNXhDZmwxR1RGVmQ5TndFalJOUlU5MmpBdlVScmZNSGdGb05ZYzBXRHc?oc=5",
      "sector": null
     }
    ]
