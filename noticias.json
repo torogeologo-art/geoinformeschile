@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-15T00:08:00+00:00",
+ "generado": "2026-10-15T04:46:00+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -2126,6 +2126,13 @@
    "comuna": "Concepción",
    "noticias": [
     {
+     "titulo": "El río Uruguay se mantiene estacionado en 5,74 metros en Concepción del Uruguay - La Pirámide",
+     "medio": "La Pirámide",
+     "fecha": "2026-10-14T20:16:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORXRvdDV1NVEzZmRNc2VDQmRxZlZHaHJQVEkybFk3d0MtUklxY3dZRWszMGd2SV9OeVZleHJBelZ4cUdlN0R5clZxbVBycXhKSXEwU3RGRXlUWVlPZkJwbF9Pamk3ZmZrX2Jzd24tSUlSVF9RZE1oR19icDdoMk9pTHFhMEp1aW0zcW1YT2l6OGd1SnZwLWlqXy1Wc190N1RlcVVUdlZ4VTFiX3dKdkRtdVVfNEpQNzhtSDlPamlIcDZGOS03MTE5MkFibUhQd9IB0wFBVV95cUxNZWZzNlBfOVFuQktHTlRtVE1rbm5qSVA5OUdsc1ljWjlDYjNzNE5qeXFNN29LOTVwVkVwWHBCdmM4cGlZeW1ZUGg5MmhsTG8tVTZHendobmlqUEItSFYwam9IeU5nbzEtcFlSSUZySVdjelNCZzdLUlN5c2lqQ0ozb1g0eWt0clYtVXRrbkdONzlwMDFGeHpSMmtZNmZyWXBsOEhvYXZVaDZMLVpqLXQ1ZVpieU83TGNCQTg1eldPX205NF90dkxybTE2bUc0b2ZQS1U0?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Avanza la crecida del río Uruguay en Entre Ríos y Corrientes: alertas y evacuaciones - Perfil",
      "medio": "Perfil",
      "fecha": "2026-10-11T10:08:29+00:00",
@@ -2168,6 +2175,13 @@
      "sector": null
     },
     {
+     "titulo": "Intensas lluvias provocan inundaciones en barrios de Concepción - Diario HOY – En Paraguay y el Mundo",
+     "medio": "Diario HOY – En Paraguay y el Mundo",
+     "fecha": "2026-10-09T17:50:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM084bjlVcW1Gc2xwUExfNlI0R0gwQUxlVndEcmZxVnJwNDc1WDBEVDRnR0RsYmJ2N3JVdU1zWXVyd1pDQV9Lc0dXLVFPVHJ5R2FTTW9hT2JBZVVWRkVqbmZrNlFRejgycG9GM1dEeG9OS182ZjNnRExjRVdCeE1ZX3p6SGU0WF9iT1hiWHRxd3pHZ05zMjJneEZzb0dlNjlNZkwwNjhmd3l5VC1B?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Concepción del Uruguay se prepara para una posible crecida del río: advierten que podría no haber playa este verano - La Pirámide",
      "medio": "La Pirámide",
      "fecha": "2026-09-07T07:00:00+00:00",
@@ -2179,20 +2193,6 @@
      "medio": "elonce.com",
      "fecha": "2026-09-07T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa21UVWJ2MWUwYlRPMEdvM3RId1Z4Sm1XX0dWdmlnRHVoSWZsZmhTZS1iS2FnamdqY09Bc3FnRTRqREZaZDJ4TjBfclZKckZjcmE3YU91YzBiS08tTnh5RUpRT1lRWktXekdVa1hqMHpZMkhmMDdXYTJKZzY2NXVhZUdGUVJPTklUTHljdFZab3ptSlctSlNGWDVXNNIBlAFBVV95cUxOaTBvUFY2LVFrT091cXl0cm52OXNrLTNKdW0xMTVURWM5cUs0cFRvd0FEYnhTdWxBV2EwekZTR2VYUUZfbzRsOVFweHNwZk1NbmRkUi1HalJmTkZDT2dQQVd2UFV0ZE5OLWVWR2Q5eHh1dGIydGxKUkNOVk9aNkRlSVdzSDBpN0VKZ3dkZng5Z0xSdDll?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "“Seguramente no tengamos playas este verano”, advierten en Concepción del Uruguay - El Día de Gualeguaychú",
-     "medio": "El Día de Gualeguaychú",
-     "fecha": "2026-09-07T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGhHeWFFazNXQzJuXy0weHdWNkYxRm1wVXJZWHNiZjQ1Z2liMmVPTGRQTHhRX3ZsUlNzS3Q5S2Z6QWQ0bEpUcnRMMkJ6cnFDVTYxakwyXzVTQ1FhdWZlRS01R1NUajNQRlNIVmpwVURTRGVCWTRyTU9oWFpZM3dmMmkza3EtLUNLMWRkUFBtdGcxeEV1ZjZ2MC1kN1RQellJaVZwNEZSRXVFZw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Desde Obras Sanitarias explicaron el corte del sábado y anunció una segunda toma de agua para Concepción del Uruguay - La Pirámide",
-     "medio": "La Pirámide",
-     "fecha": "2026-09-07T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZ3FfRENIM0lEVVgwdGQzVUNBN0xVQjA0dHJoV1dZOEdaSjlYbmw0MzdLckswM3JLaXU5elNlWWxYb3JQbFFJUDdzNzlwTGh3Q0NEX0R0SklHR2JCUHMzWEpQZ2sxVWNGYXRjeG5kYU1MZ0FycXd6NF9KVGw5OEt3WDdmbWh0SHYyeXVJWW5BakdtX2N2SUxfcmRhSzdnNEpZWkZ5VmxSZ3RHcERnTHdwLU8wbnJxUkloSU1kVTJoTW5GdUhSZDNvLVdfR1N3Wl9CMlV1OXcwTUhSaXY0TFFJQ1B5eEdmTlBjdlVaTWdzNVdGWlRyQXhPT0dYaXdwZmvSAYQCQVVfeXFMUEpKWlc0THZQcnI3UmNMd3dqQUl6YUFRYnpTOG9TbXZmZlREdEljQlNaY1psN0NOdFpZWmpyZ2dqR3F2SmN6NUxaVXRKWEZTX1RraEgzS3VCUHVHaFJaWWdxTzg1b25wVmdVWVo1RERIbndtQ2thUjQtLXZCN1g3bllNTHEySUJRNFk3S0dmcnlyaWJjem92cTV5ZlF6TzRMOXI1elBPM2FGbTFWWC02SktNMkd6amtjejhZZ2phWWFlR0dFSDd4MHJUUzFJT0lEOWJPZGRfYnJxQUFiRURiUUtfTjFQakYzMFRNMFBwWnhUeEs3eDl0SXlzNEI2czl4X214MFA?oc=5",
      "sector": null
     }
    ]

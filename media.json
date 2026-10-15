@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-15T00:56:53+00:00",
- "desde": "2026-10-13T00:56:53Z",
+ "generado": "2026-10-15T04:46:01+00:00",
+ "desde": "2026-10-13T04:46:01Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "talagante": {
@@ -9,24 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "9lFP_tWsbG4",
-     "url": "https://www.youtube.com/watch?v=9lFP_tWsbG4",
-     "titulo": "🔴 LIVE NOW: BTS CONCERT CHILE DAY 1 🇨🇱💜 | ARIRANG World Tour Estadio Nacional Santiago (Full Stream)",
-     "canal": "Chris Usher",
-     "publicado": "2026-10-14T21:34:55Z",
-     "live": true,
-     "score": 0.72,
-     "verificado": false,
-     "embeddable": false
-    },
-    {
      "id": "P0Vol9EBVxM",
      "url": "https://www.youtube.com/watch?v=P0Vol9EBVxM",
      "titulo": "Llaman a evacuar Ribera del Río en Talagante por crecida del Río Mapocho",
      "canal": "Meganoticias",
      "publicado": "2026-10-14T01:20:58Z",
      "live": false,
-     "score": 6.03,
+     "score": 5.72,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +26,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-13T18:17:43Z",
      "live": false,
-     "score": 5.45,
+     "score": 5.13,
      "verificado": false,
      "embeddable": true
     },
@@ -48,7 +37,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-10-14T01:14:02Z",
      "live": false,
-     "score": 4.02,
+     "score": 3.71,
      "verificado": false,
      "embeddable": true
     }
