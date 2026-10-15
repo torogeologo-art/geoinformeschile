@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-15T00:08:02+00:00",
- "desde": "2026-10-13T00:08:01Z",
+ "generado": "2026-10-15T00:56:53+00:00",
+ "desde": "2026-10-13T00:56:53Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "talagante": {
@@ -9,24 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "ogyyRdcvEm8",
-     "url": "https://www.youtube.com/watch?v=ogyyRdcvEm8",
-     "titulo": "🔴LIVE BTS EN CHILE SANTIAGO | CONCIERTO EN VIVO DÍA 1 | BTS  ARIRANG WORLD TOUR 💜",
-     "canal": "Purple News",
-     "publicado": "2026-10-14T22:58:29Z",
-     "live": true,
-     "score": 0.9,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "9lFP_tWsbG4",
      "url": "https://www.youtube.com/watch?v=9lFP_tWsbG4",
      "titulo": "🔴 LIVE NOW: BTS CONCERT CHILE DAY 1 🇨🇱💜 | ARIRANG World Tour Estadio Nacional Santiago (Full Stream)",
      "canal": "Chris Usher",
      "publicado": "2026-10-14T21:34:55Z",
      "live": true,
-     "score": 0.79,
+     "score": 0.72,
      "verificado": false,
      "embeddable": false
     },
@@ -37,7 +26,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-10-14T01:20:58Z",
      "live": false,
-     "score": 6.1,
+     "score": 6.03,
      "verificado": false,
      "embeddable": true
     },
@@ -48,7 +37,7 @@
      "canal": "24 Horas - TVN Chile",
      "publicado": "2026-10-13T18:17:43Z",
      "live": false,
-     "score": 5.51,
+     "score": 5.45,
      "verificado": false,
      "embeddable": true
     },
@@ -59,7 +48,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-10-14T01:14:02Z",
      "live": false,
-     "score": 4.09,
+     "score": 4.02,
      "verificado": false,
      "embeddable": true
     }
