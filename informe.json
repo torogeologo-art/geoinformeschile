@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-15T04:46:02+00:00",
+ "generado": "2026-10-15T09:43:04+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "05-10-2026",
@@ -18,7 +18,7 @@
   "por_tipo": [
    [
     "tormentas eléctricas",
-    70
+    71
    ],
    [
     "viento",
@@ -29,16 +29,16 @@
     8
    ],
    [
-    "nevadas",
-    5
-   ],
-   [
     "desborde",
     5
    ],
    [
     "aluvión",
     5
+   ],
+   [
+    "nevadas",
+    4
    ],
    [
     "evento meteorológico",
@@ -107,6 +107,15 @@
     "region_link": "magallanes y de la antartica chilena"
    },
    {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "05-10",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
     "nivel": "ATP",
@@ -123,15 +132,6 @@
     "ts": "06-10",
     "comuna_link": "",
     "region_link": "los rios"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "06-10",
-    "comuna_link": "",
-    "region_link": "nuble"
    },
    {
     "lugar": "Región de Coquimbo",
@@ -246,17 +246,6 @@
     "region_link": "maule"
    }
   ],
-  "nevadas": [
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "05-10",
-    "comuna_link": "",
-    "region_link": "nuble"
-   }
-  ],
   "desborde": [
    {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -295,6 +284,17 @@
     "ts": "08-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
+   }
+  ],
+  "nevadas": [
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "08-10",
+    "comuna_link": "",
+    "region_link": "nuble"
    }
   ],
   "evento meteorológico": [
