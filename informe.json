@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-15T09:43:04+00:00",
+ "generado": "2026-10-15T14:27:05+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "05-10-2026",
   "hasta": "15-10-2026"
  },
  "totales": {
-  "alertas": 111,
+  "alertas": 110,
   "sae": 3,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 85,
+   "ATP": 84,
    "ROJA": 9,
    "AMARILLA": 17
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    71
+    70
    ],
    [
     "viento",
@@ -80,15 +80,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "05-10",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
     "lugar": "Región de Los Lagos",
     "region": "Los Lagos",
     "nivel": "ATP",
@@ -123,6 +114,15 @@
     "ts": "05-10",
     "comuna_link": "",
     "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "06-10",
+    "comuna_link": "",
+    "region_link": "biobio"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -351,7 +351,7 @@
    "fecha": "2026-10-05",
    "ROJA": 1,
    "AMARILLA": 0,
-   "ATP": 11,
+   "ATP": 10,
    "sae": 0
   },
   {

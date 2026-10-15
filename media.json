@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-15T11:09:39+00:00",
- "desde": "2026-10-13T11:09:39Z",
+ "generado": "2026-10-15T14:27:05+00:00",
+ "desde": "2026-10-13T14:27:04Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "talagante": {
@@ -15,7 +15,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-10-14T01:20:58Z",
      "live": false,
-     "score": 5.18,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +37,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-10-14T01:14:02Z",
      "live": false,
-     "score": 3.17,
+     "score": 3.0,
      "verificado": false,
      "embeddable": true
     }
