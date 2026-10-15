@@ -1,31 +1,31 @@
 {
- "generado": "2026-10-15T18:33:58+00:00",
+ "generado": "2026-10-15T21:49:30+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "05-10-2026",
   "hasta": "15-10-2026"
  },
  "totales": {
-  "alertas": 106,
+  "alertas": 104,
   "sae": 3,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 80,
+   "ATP": 78,
    "AMARILLA": 18,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    68
-   ],
-   [
-    "viento",
-    11
+    69
    ],
    [
     "crecida de río",
+    8
+   ],
+   [
+    "viento",
     8
    ],
    [
@@ -179,53 +179,6 @@
     "region_link": "magallanes y de la antartica chilena"
    }
   ],
-  "viento": [
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "06-10",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "05-10",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "05-10",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "05-10",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "06-10",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   }
-  ],
   "crecida de río": [
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -244,6 +197,53 @@
     "ts": "06-10",
     "comuna_link": "",
     "region_link": "maule"
+   }
+  ],
+  "viento": [
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "06-10",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "06-10",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "06-10",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "06-10",
+    "comuna_link": "",
+    "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "06-10",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
    }
   ],
   "aluvión": [
@@ -332,7 +332,7 @@
  "vigentes": {
   "ROJA": 2,
   "AMARILLA": 2,
-  "ATP": 13,
+  "ATP": 11,
   "regiones_roja": [
    "Metropolitana de Santiago"
   ]
@@ -342,7 +342,7 @@
    "fecha": "2026-10-05",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 5,
+   "ATP": 2,
    "sae": 0
   },
   {
@@ -412,7 +412,7 @@
    "fecha": "2026-10-15",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 1,
+   "ATP": 2,
    "sae": 0
   }
  ],
@@ -537,6 +537,15 @@
  ],
  "cronologia": [
   {
+   "ts": "15-10 16:01",
+   "nivel": "ATP",
+   "lugar": "Región de Coquimbo",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-10-10-13-34-47"
+  },
+  {
    "ts": "15-10 13:03",
    "nivel": "ATP",
    "lugar": "Región de Valparaíso",
@@ -652,15 +661,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-10-10-13-34-47"
-  },
-  {
-   "ts": "14-10 00:51",
-   "nivel": "ROJA",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
