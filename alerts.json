@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-15T09:43:01+00:00",
+ "generado": "2026-10-15T11:09:38+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -23,15 +23,15 @@
    "regiones_extra": []
   },
   {
-   "id": "a71fac9888de",
+   "id": "179a751940a1",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las provincias de San Felipe de Aconcagua, Los Andes y Petorca por evento meteorológico",
    "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544-4 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en el sector cordillerano de la región. 14-10 15-10 Abrir aquí Adicionalmente, se canceló el siguiente alertamiento meteorológico para la región, debido al debilitamiento de las condiciones meteorológicas que la originaron: Alertamiento Pronóstico Alerta AA178 Tormentas eléctricas",
    "region": "Valparaíso",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-10-14T20:52:41.4141-03:00",
+   "ts": "2026-10-14T20:54:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-10-13-30-11",
    "origen": "senapred_web",
    "regiones_extra": []
