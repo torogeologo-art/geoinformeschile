@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-16T09:19:18+00:00",
+ "generado": "2026-10-16T10:07:52+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -9,16 +9,16 @@
  "total_vigentes": 11,
  "alertas": [
   {
-   "id": "3161ffbb8ce0",
+   "id": "d0fe2b5fe016",
    "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológico para la Región de Ñuble, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Alerta AA178 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en litoral, cordillera de la costa, valle y precordillera. Aviso A544-5 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en precordillera y cordillera. En considera",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy viernes 16 de octubre a las 05:52 horas, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán registraron un sismo asociado a la dinámica interna de fluidos. Las características del sismo luego de su análisis son las si",
    "region": "Ñuble",
    "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-16T01:00:10.1010-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-11-11-02-05",
+   "estado": "VIGENTE",
+   "ts": "2026-10-16T06:17:41.4141-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -75,20 +75,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-15T13:03:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-10-13-30-11",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "5f096dbf4c34",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy miércoles 14 de octubre a las 19:57 horas, las estaciones de monitoreo instaladas en las inmediaciones del complejo volcánico Nevados de Chillán registraron un sismo asociado a la dinámica interna de fluidos. Las características del sismo luego de su análisis son las",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-14T20:58:31.3131-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
    "origen": "senapred_web",
    "regiones_extra": []
   },
