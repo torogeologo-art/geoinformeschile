@@ -1,13 +1,69 @@
 {
- "generado": "2026-10-16T10:07:52+00:00",
+ "generado": "2026-10-16T14:09:15+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 11,
+ "total_vigentes": 8,
  "alertas": [
+  {
+   "id": "5f871aa70125",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A557 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones asiladas en precordillera y cordillera. 16-10 17-10 Abrir aquí Asimismo, se han cancelado los siguientes alertamientos meteorológicos para la región, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A553 Probables t",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-16T10:26:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-11-19-21-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e67e153645f1",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la Región de Los Lagos, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A553 Probables tormentas eléctricas en zonas de litoral, cordillera costa, valle, precordillera, cordillera, Chiloé, litoral interior, cordillera austral y patagonia subandina. Aviso A555 Probables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera y cordillera, Chiloé, litoral int",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-16T09:36:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-13-17-04-33",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "afd72a393cf5",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se han cancelado los siguientes alertamientos meteorológicos para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A555 Probables tormentas eléctricas el litoral, cordillera de la costa, valle, precordillera y cordillera. Aviso A553 Probables tormentas eléctricas en cordillera de la costa, valle, precordillera y cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-16T08:51:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "eaa870618172",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la Región del Biobío, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Alerta AA178 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en litoral, cordillera de la costa, valle y precordillera. Aviso A544-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-16T08:47:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-10-15-46-43",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "d0fe2b5fe016",
    "nivel": "ATP",
@@ -79,20 +135,6 @@
    "regiones_extra": []
   },
   {
-   "id": "c1108a832341",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía : Alertamiento Pronóstico Inicio Fin Enlace Aviso A555 Probables tormentas eléctricas el litoral, cordillera de la costa, valle, precordillera y cordillera. 15-10 15-10 Abrir aquí Aviso A553 Probables tormentas eléctricas en cordillera de la costa, valle, precordillera y cordillera. 14-10 14-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Ar",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-14T18:49:08.088-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "7ea0d677cf70",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -107,34 +149,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "08f4d7ab76f4",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A553 Probables tormentas eléctricas en zonas de litoral, cordillera costa, valle, precordillera, cordillera, Chiloé, litoral interior, cordillera austral y Patagonia subandina. 14-10 14-10 Abrir aquí Aviso A555 Probables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera y cordillera, Chiloé, litoral interior, cordillera austral y Patagonia subandin",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-14T16:23:56.5656-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-13-17-04-33",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1f51592725fc",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos : Alertamiento Pronóstico Inicio Fin Enlace Aviso A553 Probables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera y cordillera. 14-10 14-10 Abrir aquí Aviso A555 Probables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera y cordillera. 15-10 15-10 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de&nb",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-14T15:37:17.1717-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-11-19-21-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "54384abb2069",
@@ -219,20 +233,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-13T17:59:54.5454-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "82b762f0c776",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA178 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en litoral, cordillera de la costa, valle y precordillera. 13-10 13-10 Abrir aquí Aviso A544-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 13-10 14-10 Ab",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-13T16:32:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-10-15-46-43",
    "origen": "senapred_web",
    "regiones_extra": []
   },

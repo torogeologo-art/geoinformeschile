@@ -1,32 +1,32 @@
 {
- "generado": "2026-10-16T09:19:20+00:00",
+ "generado": "2026-10-16T14:09:35+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "06-10-2026",
   "hasta": "16-10-2026"
  },
  "totales": {
-  "alertas": 105,
+  "alertas": 107,
   "sae": 3,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "AMARILLA": 19,
-   "ATP": 78,
+   "ATP": 81,
+   "AMARILLA": 18,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    70
-   ],
-   [
-    "crecida de río",
-    8
+    74
    ],
    [
     "viento",
-    8
+    7
+   ],
+   [
+    "crecida de río",
+    6
    ],
    [
     "aluvión",
@@ -45,7 +45,7 @@
     4
    ],
    [
-    "otros",
+    "remoción en masa",
     1
    ]
   ]
@@ -179,33 +179,13 @@
     "region_link": "magallanes y de la antartica chilena"
    }
   ],
-  "crecida de río": [
-   {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "06-10",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "06-10",
-    "comuna_link": "",
-    "region_link": "maule"
-   }
-  ],
   "viento": [
    {
     "lugar": "Región de Atacama",
     "region": "Atacama",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "06-10",
+    "ts": "08-10",
     "comuna_link": "",
     "region_link": "atacama"
    },
@@ -244,6 +224,26 @@
     "ts": "06-10",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
+   }
+  ],
+  "crecida de río": [
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "06-10",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "09-10",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
    }
   ],
   "aluvión": [
@@ -317,30 +317,30 @@
     "region_link": "libertador general bernardo o'higgins"
    }
   ],
-  "otros": [
+  "remoción en masa": [
    {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "09-10",
+    "ts": "06-10",
     "comuna_link": "",
-    "region_link": "arica y parinacota"
+    "region_link": "metropolitana de santiago"
    }
   ]
  },
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 1,
-  "ATP": 10,
+  "ATP": 7,
   "regiones_roja": []
  },
  "serie": [
   {
    "fecha": "2026-10-06",
    "ROJA": 0,
-   "AMARILLA": 3,
-   "ATP": 11,
+   "AMARILLA": 2,
+   "ATP": 10,
    "sae": 0
   },
   {
@@ -410,7 +410,7 @@
    "fecha": "2026-10-16",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 1,
+   "ATP": 5,
    "sae": 0
   }
  ],
@@ -489,7 +489,7 @@
    "pasos": [
     {
      "nivel": "AMARILLA",
-     "ts": "06-10 08:41",
+     "ts": "08-10 19:15",
      "estado": "VIGENTE"
     },
     {
@@ -534,6 +534,42 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "16-10 10:26",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-11-19-21-00"
+  },
+  {
+   "ts": "16-10 09:36",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-13-17-04-33"
+  },
+  {
+   "ts": "16-10 08:51",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38"
+  },
+  {
+   "ts": "16-10 08:47",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-10-15-46-43"
+  },
   {
    "ts": "16-10 01:00",
    "nivel": "ATP",
@@ -623,42 +659,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
-  },
-  {
-   "ts": "14-10 16:23",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-13-17-04-33"
-  },
-  {
-   "ts": "14-10 15:37",
-   "nivel": "ATP",
-   "lugar": "Región de Los Ríos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-11-19-21-00"
-  },
-  {
-   "ts": "14-10 13:30",
-   "nivel": "ATP",
-   "lugar": "Región de Arica y Parinacota",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-09-17-56-03"
-  },
-  {
-   "ts": "14-10 09:01",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-maipu-padre-hurtado-talagante-penaflor-el-monte-y-melipilla-por-crecida-2026-10-14-07-01-58"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
