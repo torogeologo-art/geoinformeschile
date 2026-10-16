@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-16T18:05:50+00:00",
+ "generado": "2026-10-16T18:42:05+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 9,
  "alertas": [
+  {
+   "id": "0801fb01d16e",
+   "nivel": "ATP",
+   "tipo": "remoción en masa",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Corral y Valdivia por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Ríos , y según los antecedentes entregados por SERNAGEOMIN, el 01 de octubre del 2026 se les solicitó un pronunciamiento técnico por un desplazamiento de tierra ocurrido en Caleta El Piojo en el sector de Niebla en la comuna de Valdivia, en donde se reporta que la remoción en masa la cual afectó un área de 200 m2, la que se desencadeno y reactivo producto de&nbsp; los evento meteorológicos que afectaron a la región en el mes de julio – Agosto y corresponde a deslizamientos de gravas, arenas y detritos genera",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-16T14:58:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-corral-por-remocion-en-masa",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "e582bab5d453",
    "nivel": "ATP",
@@ -19,20 +33,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-16T12:52:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-collipulli-curacautin-lonquimay-melipeuco-cunco-vilcun-pucon-villarrica-y-curarrehue-por-tormentas-electricas-2026-10-16-13-16-05",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "5f871aa70125",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A557 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones asiladas en precordillera y cordillera. 16-10 17-10 Abrir aquí Asimismo, se han cancelado los siguientes alertamientos meteorológicos para la región, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A553 Probables t",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-16T10:26:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-11-19-21-00",
    "origen": "senapred_web",
    "regiones_extra": []
   },
