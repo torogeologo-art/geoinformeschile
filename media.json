@@ -1,36 +1,6 @@
 {
- "generado": "2026-10-16T00:47:49+00:00",
- "desde": "2026-10-14T00:47:48Z",
+ "generado": "2026-10-16T04:40:27+00:00",
+ "desde": "2026-10-14T04:40:27Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "talagante": {
-   "comuna": "Talagante",
-   "region": "Metropolitana de Santiago",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "P0Vol9EBVxM",
-     "url": "https://www.youtube.com/watch?v=P0Vol9EBVxM",
-     "titulo": "Llaman a evacuar Ribera del Río en Talagante por crecida del Río Mapocho",
-     "canal": "Meganoticias",
-     "publicado": "2026-10-14T01:20:58Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "-MM78dprHho",
-     "url": "https://www.youtube.com/watch?v=-MM78dprHho",
-     "titulo": "Desborde de río Mapocho en Talagante: Evacuación de campamento en la ribera",
-     "canal": "Meganoticias",
-     "publicado": "2026-10-14T01:14:02Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
