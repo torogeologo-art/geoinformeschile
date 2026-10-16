@@ -1,13 +1,69 @@
 {
- "generado": "2026-10-16T18:42:05+00:00",
+ "generado": "2026-10-16T21:14:15+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 9,
+ "total_vigentes": 11,
  "alertas": [
+  {
+   "id": "972f0190c721",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543-4 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 16-10 21-10 Abrir aquí Asimismo, se ha Actualizado el Aviso Meteorológica A554-2/2026 Viento Normal a Moderado con probabilidad de tormentas de arena en litoral de la provincia de Huasco",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-16T16:43:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "af1194f75dbb",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A561 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. 19-10 20-10 Abrir aquí Avisos A562 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle y precordillera. 20-10 21-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-16T15:30:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "06ea174599a0",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A561 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. 19-10 20-10 Abrir aquí Avisos A562 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle y precordillera. 20-10 21-10 Abrir aquí Aviso A564 Viento normal a moderado en cordillera 20-10 21-10 Abrir aquí En consideración a estos",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-16T15:28:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "285938955d0e",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A561 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. 19-10 20-10 Abrir aquí Avisos A562 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle y precordillera. 20-10 21-10 Abrir aquí Aviso A564 Viento normal a moderado en cordillera 20-10 21-10 Abrir aquí Asimismo, se ha cancelad",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-16T15:23:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "0801fb01d16e",
    "nivel": "ATP",
@@ -89,20 +145,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-16T00:31:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-10-15-12-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "9ccb9e327b86",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543-3 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 14-10 17-10 Abrir aquí Aviso A554-1 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 14-10 15-10 Abrir aquí Mientras que, se ha cancelado la Alerta Meteo",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-15T19:58:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -191,20 +233,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-14T11:55:41.4141-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2cc55bfaa22b",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED O’Higgins , respecto del evento meteorológico que se desarrolla en la región, se registran las siguientes novedades: COMUNA AFECTACIÓN A PERSONAS DAÑO A VIVIENDAS DAMNIFICADOS EVACUADOS AISLADOS LESIONADOS DESAPARECIDOS FALLECIDOS DESTRUIDAS DAÑO MAYOR DAÑO MENOR EN EVALUACIÓN Rancagua - - - - - - - - - 60 Machalí - - - - - - - - 2 - San Fernando - - 17 - - - - - - - Total - - 17 - - - - - 2 60 Fuente: Dirección Regional de SENAPRED O’Higgins. &nbsp; Comuna de Rancagua : 60 viviendas con daños en evaluación en Po",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-14T09:39:45.4545-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40",
    "origen": "senapred_web",
    "regiones_extra": []
   },
