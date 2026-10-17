@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-17T19:29:50+00:00",
+ "generado": "2026-10-17T20:51:39+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "5ffbefd044d7",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo de Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule:&nbsp; Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180 Precipitaciones moderadas a fuertes en corto periodo de tiempo en valle y precordillera de la región. 20-10 20-10 Abrir aquí Aviso A561 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. 19-10 20-10 Abrir aquí Avisos A562-1 Precipitaciones normales a moderadas en litoral, cordillera de la costa,",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-17T17:44:07.077-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "afdec7df7a32",
    "nivel": "ATP",
@@ -119,20 +133,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-16T18:18:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-16-19-47-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "af1194f75dbb",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A561 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. 19-10 20-10 Abrir aquí Avisos A562 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle y precordillera. 20-10 21-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-16T15:30:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21",
    "origen": "senapred_web",
    "regiones_extra": []
   },
