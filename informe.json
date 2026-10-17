@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-17T17:14:35+00:00",
+ "generado": "2026-10-17T19:29:52+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "07-10-2026",
   "hasta": "17-10-2026"
  },
  "totales": {
-  "alertas": 100,
+  "alertas": 101,
   "sae": 3,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 77,
+   "ATP": 78,
    "AMARILLA": 15,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    75
+    76
    ],
    [
     "aluvión",
@@ -383,7 +383,7 @@
    "fecha": "2026-10-17",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 1,
+   "ATP": 2,
    "sae": 0
   }
  ],
@@ -508,6 +508,15 @@
  ],
  "cronologia": [
   {
+   "ts": "17-10 16:15",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
+  },
+  {
    "ts": "17-10 14:00",
    "nivel": "ATP",
    "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -623,15 +632,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-10-15-46-43"
-  },
-  {
-   "ts": "16-10 01:00",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-11-11-02-05"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

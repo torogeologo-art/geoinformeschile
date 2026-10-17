@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-17T18:18:51+00:00",
+ "generado": "2026-10-17T19:29:50+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "afdec7df7a32",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica evento de Alerta Temprana Preventiva para la Región de Antofagasta a evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543-4 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 16-10 21-10 Abrir aquí Aviso A568 Precipitaciones normales a moderadas en litoral de la región de Antofagasta (desde Caleta El Cobre al sur) 20-10 20-10 Abrir aquí En consideración",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-17T16:15:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "2e82fe362a04",
    "nivel": "ATP",
@@ -105,20 +119,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-16T18:18:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-16-19-47-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "972f0190c721",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543-4 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 16-10 21-10 Abrir aquí Asimismo, se ha Actualizado el Aviso Meteorológica A554-2/2026 Viento Normal a Moderado con probabilidad de tormentas de arena en litoral de la provincia de Huasco",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-16T16:43:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
    "origen": "senapred_web",
    "regiones_extra": []
   },
