@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-17T21:42:21+00:00",
+ "generado": "2026-10-17T23:29:49+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "07-10-2026",
   "hasta": "17-10-2026"
  },
  "totales": {
-  "alertas": 101,
+  "alertas": 104,
   "sae": 3,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 78,
-   "AMARILLA": 15,
+   "ATP": 80,
+   "AMARILLA": 16,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    76
+    79
    ],
    [
     "aluvión",
@@ -78,6 +78,15 @@
     "ts": "09-10",
     "comuna_link": "",
     "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "17-10",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -141,15 +150,6 @@
     "ts": "09-10",
     "comuna_link": "",
     "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "10-10",
-    "comuna_link": "",
-    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Biobío",
@@ -304,8 +304,8 @@
  },
  "vigentes": {
   "ROJA": 0,
-  "AMARILLA": 1,
-  "ATP": 14,
+  "AMARILLA": 2,
+  "ATP": 13,
   "regiones_roja": []
  },
  "serie": [
@@ -375,8 +375,8 @@
   {
    "fecha": "2026-10-17",
    "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 4,
+   "AMARILLA": 1,
+   "ATP": 6,
    "sae": 0
   }
  ],
@@ -497,9 +497,54 @@
      "estado": "VIGENTE"
     }
    ]
+  },
+  {
+   "lugar": "Región de Coquimbo",
+   "region": "Coquimbo",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "10-10 00:17",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-10 19:20",
+     "estado": "VIGENTE"
+    }
+   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "17-10 19:36",
+   "nivel": "ATP",
+   "lugar": "Región de Valparaíso",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14"
+  },
+  {
+   "ts": "17-10 19:20",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Coquimbo",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50"
+  },
+  {
+   "ts": "17-10 18:52",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
+  },
   {
    "ts": "17-10 17:59",
    "nivel": "ATP",
@@ -598,33 +643,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50"
-  },
-  {
-   "ts": "16-10 15:23",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40"
-  },
-  {
-   "ts": "16-10 10:26",
-   "nivel": "ATP",
-   "lugar": "Región de Los Ríos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-11-19-21-00"
-  },
-  {
-   "ts": "16-10 09:36",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-13-17-04-33"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
