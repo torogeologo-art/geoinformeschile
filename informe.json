@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-17T19:29:52+00:00",
+ "generado": "2026-10-17T21:42:21+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "07-10-2026",
@@ -80,24 +80,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "07-10",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "07-10",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
     "lugar": "Región de Los Ríos",
     "region": "Los Ríos",
     "nivel": "ATP",
@@ -105,6 +87,15 @@
     "ts": "08-10",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "08-10",
+    "comuna_link": "",
+    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -123,6 +114,15 @@
     "ts": "08-10",
     "comuna_link": "",
     "region_link": "los lagos"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "09-10",
+    "comuna_link": "",
+    "region_link": "valparaiso"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -310,13 +310,6 @@
  },
  "serie": [
   {
-   "fecha": "2026-10-07",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 2,
-   "sae": 0
-  },
-  {
    "fecha": "2026-10-08",
    "ROJA": 2,
    "AMARILLA": 2,
@@ -383,7 +376,7 @@
    "fecha": "2026-10-17",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 2,
+   "ATP": 4,
    "sae": 0
   }
  ],
@@ -508,6 +501,24 @@
  ],
  "cronologia": [
   {
+   "ts": "17-10 17:59",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40"
+  },
+  {
+   "ts": "17-10 17:44",
+   "nivel": "ATP",
+   "lugar": "Región de Maule",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21"
+  },
+  {
    "ts": "17-10 16:15",
    "nivel": "ATP",
    "lugar": "Región de Antofagasta",
@@ -614,24 +625,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-13-17-04-33"
-  },
-  {
-   "ts": "16-10 08:51",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38"
-  },
-  {
-   "ts": "16-10 08:47",
-   "nivel": "ATP",
-   "lugar": "Región de Biobío",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-10-15-46-43"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
