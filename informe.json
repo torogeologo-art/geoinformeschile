@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-16T23:40:55+00:00",
+ "generado": "2026-10-17T01:35:00+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "06-10-2026",
-  "hasta": "16-10-2026"
+  "desde": "07-10-2026",
+  "hasta": "17-10-2026"
  },
  "totales": {
-  "alertas": 103,
+  "alertas": 104,
   "sae": 3,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
    "AMARILLA": 17,
-   "ATP": 78,
+   "ATP": 79,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    75
+    76
    ],
    [
     "crecida de río",
@@ -392,7 +392,7 @@
    "fecha": "2026-10-16",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 12,
+   "ATP": 13,
    "sae": 0
   }
  ],
@@ -517,6 +517,15 @@
  ],
  "cronologia": [
   {
+   "ts": "16-10 20:43",
+   "nivel": "ATP",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-altas-temperaturas-2026-10-13-18-22-08"
+  },
+  {
    "ts": "16-10 19:52",
    "nivel": "ATP",
    "lugar": "Región de Atacama",
@@ -632,15 +641,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-10-15-12-44"
-  },
-  {
-   "ts": "15-10 19:58",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

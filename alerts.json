@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-16T23:58:09+00:00",
+ "generado": "2026-10-17T01:34:57+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -1409,34 +1409,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-17T13:11:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-evento-meteorologico-2026-08-16-21-09-09",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ad29a2ee345a",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se ha cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico A479 Altas temperaturas en pampa de la región. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED Cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas , que se mantuvo vigente desde el 14 de septiembre del 2026.",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-16T20:40:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-09-14-17-11-28",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "0a0ca7c4d651",
-   "nivel": "ATP",
-   "tipo": "otros",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Tarapacá por evento zoosanitario",
-   "descripcion": "De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , a través de la emisión de la orden N° 367/2026 de dicho servicio, emitida el 15 de septiembre del 2026, en relación con la situación zoosanitaria asociada a Influenza Aviar de Alta Patogenicidad (IAAP) en la Región de Tarapacá, se informa que actualmente se evidencia una escenario epidemiológico favorable, caracterizado por una disminución significativa de los casos y hallazgos asociados a Influenza Aviar. Considerando a la información técnica proporcionada por el SAG de la Región de Tarapacá, la Direcci",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-16T18:51:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-zoosanitario-2026-06-17-17-41-08",
    "origen": "senapred_web",
    "regiones_extra": []
   },
