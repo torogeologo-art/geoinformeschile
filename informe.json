@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-17T01:35:00+00:00",
+ "generado": "2026-10-17T06:15:13+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "07-10-2026",
   "hasta": "17-10-2026"
  },
  "totales": {
-  "alertas": 104,
+  "alertas": 103,
   "sae": 3,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "AMARILLA": 17,
    "ATP": 79,
+   "AMARILLA": 16,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    76
+    77
    ],
    [
     "crecida de río",
@@ -42,10 +42,10 @@
    ],
    [
     "viento",
-    3
+    2
    ],
    [
-    "remoción en masa",
+    "otros",
     1
    ]
   ]
@@ -107,6 +107,15 @@
     "region_link": "los lagos"
    },
    {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "07-10",
+    "comuna_link": "",
+    "region_link": "valparaiso"
+   },
+   {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
     "nivel": "ATP",
@@ -132,15 +141,6 @@
     "ts": "08-10",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "09-10",
-    "comuna_link": "",
-    "region_link": "valparaiso"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -281,15 +281,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "07-10",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ATP",
@@ -299,15 +290,15 @@
     "region_link": "antofagasta"
    }
   ],
-  "remoción en masa": [
+  "otros": [
    {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "06-10",
+    "ts": "09-10",
     "comuna_link": "",
-    "region_link": "metropolitana de santiago"
+    "region_link": "arica y parinacota"
    }
   ]
  },
@@ -318,13 +309,6 @@
   "regiones_roja": []
  },
  "serie": [
-  {
-   "fecha": "2026-10-06",
-   "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 0,
-   "sae": 0
-  },
   {
    "fecha": "2026-10-07",
    "ROJA": 0,
