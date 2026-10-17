@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-17T21:42:03+00:00",
+ "generado": "2026-10-17T22:58:13+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,48 @@
  },
  "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "bc4ecdeff95c",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo de Alerta Temprana Preventiva para la Región de Valparaíso, exceptuando la provincia de Isla de Pascua, por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos de la región. 20-10 20-10 Abrir aquí Aviso A561 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. 19-10 20-10 Abrir aquí Avisos A562-1 Precipitaciones normales a modera",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-17T19:36:50.5050-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1528dfb2f81a",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos de la región. 20-10 20-10 Abrir aquí Aviso A561 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. 19-10 20-10 Abrir aquí Avisos A562-1 Precipitaciones normales a moderada",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-17T19:20:28.2828-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "89a9cea4315e",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543-4 Viento normal a moderado (entre 60 y 90 km/h) con probabilidad de tormentas de arena en cordillera. 16-10 21-10 Abrir aquí Aviso A554-2 Viento normal a moderado (entre 40 y 60 km/h) con la probabilidad de tormentas de arena en Litoral Provincia de Huasco. 16-10 17-10 Abrir aquí Aviso A563 Nevadas normales a moderadas probabilidad de ventisca en cordillera se",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-17T18:52:54.5454-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "35450ad86a47",
    "nivel": "ATP",
@@ -67,20 +109,6 @@
    ]
   },
   {
-   "id": "198cd873dca9",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica evento de Alerta Temprana Preventiva para la Región de Atacama a evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543-4 Viento normal a moderado (entre 60 y 90 km/h) con probabilidad de tormentas de arena en cordillera. 16-10 21-10 Abrir aquí Aviso A554-2 Viento normal a moderado (entre 40 y 60 km/h) con la probabilidad de tormentas de arena en Litoral Provincia de Huasco. 16-10 17-10 Abrir aquí Aviso A563 Nevadas normales a moderadas probabilidad de ventisca en cordillera s",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-16T19:52:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "fd962b972872",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -109,20 +137,6 @@
    "regiones_extra": []
   },
   {
-   "id": "5f07e490072f",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso exceptuando la provincia de Isla de Pascua por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A561 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. 19-10 20-10 Abrir aquí Avisos A562 Precipitaciones normales a moderadas en cordillera de la costa, valle y precordillera. 20-10 21-10 Abrir aquí Aviso A564 Viento normal a moderado en cordillera 20-10 21-10 Abrir aquí Asimismo, se encuentran vigente",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-16T18:50:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "4189cffa6554",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -147,20 +161,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-16T18:18:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-16-19-47-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "06ea174599a0",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A561 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. 19-10 20-10 Abrir aquí Avisos A562 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle y precordillera. 20-10 21-10 Abrir aquí Aviso A564 Viento normal a moderado en cordillera 20-10 21-10 Abrir aquí En consideración a estos",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-16T15:28:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50",
    "origen": "senapred_web",
    "regiones_extra": []
   },
