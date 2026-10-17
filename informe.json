@@ -1,28 +1,24 @@
 {
- "generado": "2026-10-17T10:57:04+00:00",
+ "generado": "2026-10-17T14:09:43+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "07-10-2026",
   "hasta": "17-10-2026"
  },
  "totales": {
-  "alertas": 103,
+  "alertas": 101,
   "sae": 3,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 79,
-   "AMARILLA": 16,
+   "ATP": 78,
+   "AMARILLA": 15,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    77
-   ],
-   [
-    "crecida de río",
-    5
+    76
    ],
    [
     "aluvión",
@@ -34,6 +30,10 @@
    ],
    [
     "desborde",
+    4
+   ],
+   [
+    "crecida de río",
     4
    ],
    [
@@ -78,15 +78,6 @@
     "ts": "09-10",
     "comuna_link": "",
     "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "07-10",
-    "comuna_link": "",
-    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Antofagasta",
@@ -152,6 +143,15 @@
     "region_link": "arica y parinacota"
    },
    {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "10-10",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
     "lugar": "Región de Biobío",
     "region": "Biobío",
     "nivel": "ATP",
@@ -177,26 +177,6 @@
     "ts": "11-10",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
-   }
-  ],
-  "crecida de río": [
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "07-10",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "09-10",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
    }
   ],
   "aluvión": [
@@ -239,6 +219,26 @@
     "ts": "12-10",
     "comuna_link": "",
     "region_link": "la araucania"
+   }
+  ],
+  "crecida de río": [
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "09-10",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "10-10",
+    "comuna_link": "",
+    "region_link": "maule"
    }
   ],
   "evento meteorológico": [
@@ -312,8 +312,8 @@
   {
    "fecha": "2026-10-07",
    "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 5,
+   "AMARILLA": 0,
+   "ATP": 4,
    "sae": 0
   },
   {
