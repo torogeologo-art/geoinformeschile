@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-17T15:52:33+00:00",
+ "generado": "2026-10-17T17:14:33+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -9,7 +9,7 @@
  "total_vigentes": 15,
  "alertas": [
   {
-   "id": "0aaf4cc8a431",
+   "id": "2e82fe362a04",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
    "titulo": "Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico",
@@ -17,7 +17,7 @@
    "region": "Magallanes y de la Antártica Chilena",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-10-16T20:43:13.1313-03:00",
+   "ts": "2026-10-17T14:00:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-altas-temperaturas-2026-10-13-18-22-08",
    "origen": "senapred_web",
    "regiones_extra": [
