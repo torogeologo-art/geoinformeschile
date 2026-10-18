@@ -1,13 +1,27 @@
 {
- "generado": "2026-10-18T21:45:39+00:00",
+ "generado": "2026-10-18T23:00:56+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "3a315774fd6a",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A562-2 Precipitaciones normales a moderadas en litoral de la región. 20-10 22-10 Abrir aquí Aviso A561-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. 19-10 22-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Dele",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-18T18:19:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-18-19-36-02",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "22954fcd38d2",
    "nivel": "ATP",

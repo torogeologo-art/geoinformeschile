@@ -1,36 +1,28 @@
 {
- "generado": "2026-10-18T20:58:40+00:00",
+ "generado": "2026-10-18T23:01:17+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "08-10-2026",
   "hasta": "18-10-2026"
  },
  "totales": {
-  "alertas": 109,
-  "sae": 3,
+  "alertas": 106,
+  "sae": 2,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 84,
-   "ROJA": 9,
-   "AMARILLA": 16
+   "ROJA": 8,
+   "ATP": 83,
+   "AMARILLA": 15
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    82
+    83
    ],
    [
     "aluvión",
     5
-   ],
-   [
-    "nevadas",
-    4
-   ],
-   [
-    "desborde",
-    4
    ],
    [
     "crecida de río",
@@ -41,11 +33,19 @@
     4
    ],
    [
-    "viento",
-    2
+    "desborde",
+    3
    ],
    [
-    "actividad volcánica",
+    "nevadas",
+    3
+   ],
+   [
+    "viento",
+    1
+   ],
+   [
+    "otros",
     1
    ]
   ]
@@ -89,15 +89,6 @@
     "region_link": "metropolitana de santiago"
    },
    {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "08-10",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
     "lugar": "Región de Valparaíso",
     "region": "Valparaíso",
     "nivel": "ATP",
@@ -132,6 +123,15 @@
     "ts": "10-10",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "10-10",
+    "comuna_link": "",
+    "region_link": "los lagos"
    },
    {
     "lugar": "Región de Biobío",
@@ -190,37 +190,6 @@
     "region_link": "metropolitana de santiago"
    }
   ],
-  "nevadas": [
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "08-10",
-    "comuna_link": "",
-    "region_link": "nuble"
-   }
-  ],
-  "desborde": [
-   {
-    "lugar": "Talagante",
-    "region": "Metropolitana de Santiago",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "08-10",
-    "comuna_link": "talagante",
-    "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "12-10",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   }
-  ],
   "crecida de río": [
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -270,16 +239,38 @@
     "region_link": "libertador general bernardo o'higgins"
    }
   ],
-  "viento": [
+  "desborde": [
    {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "08-10",
-    "comuna_link": "",
-    "region_link": "atacama"
+    "lugar": "Talagante",
+    "region": "Metropolitana de Santiago",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "09-10",
+    "comuna_link": "talagante",
+    "region_link": "metropolitana de santiago"
    },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "12-10",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   }
+  ],
+  "nevadas": [
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "12-10",
+    "comuna_link": "",
+    "region_link": "nuble"
+   }
+  ],
+  "viento": [
    {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
@@ -290,22 +281,22 @@
     "region_link": "antofagasta"
    }
   ],
-  "actividad volcánica": [
+  "otros": [
    {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "AMARILLA",
     "sae": false,
-    "ts": "08-10",
+    "ts": "09-10",
     "comuna_link": "",
-    "region_link": "los rios"
+    "region_link": "arica y parinacota"
    }
   ]
  },
  "vigentes": {
   "ROJA": 1,
   "AMARILLA": 2,
-  "ATP": 13,
+  "ATP": 14,
   "regiones_roja": [
    "Metropolitana de Santiago"
   ]
@@ -313,10 +304,10 @@
  "serie": [
   {
    "fecha": "2026-10-08",
-   "ROJA": 2,
-   "AMARILLA": 1,
-   "ATP": 4,
-   "sae": 1
+   "ROJA": 1,
+   "AMARILLA": 0,
+   "ATP": 1,
+   "sae": 0
   },
   {
    "fecha": "2026-10-09",
@@ -385,7 +376,7 @@
    "fecha": "2026-10-18",
    "ROJA": 1,
    "AMARILLA": 1,
-   "ATP": 6,
+   "ATP": 8,
    "sae": 0
   }
  ],
@@ -464,7 +455,7 @@
    "pasos": [
     {
      "nivel": "AMARILLA",
-     "ts": "08-10 19:15",
+     "ts": "09-10 18:58",
      "estado": "VIGENTE"
     },
     {
@@ -527,6 +518,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "18-10 18:19",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-18-19-36-02"
+  },
+  {
+   "ts": "18-10 18:01",
+   "nivel": "ATP",
+   "lugar": "Región de Valparaíso",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14"
+  },
   {
    "ts": "18-10 16:21",
    "nivel": "ATP",
@@ -634,24 +643,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
-  },
-  {
-   "ts": "17-10 17:59",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40"
-  },
-  {
-   "ts": "17-10 17:44",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
