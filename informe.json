@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-18T18:17:44+00:00",
+ "generado": "2026-10-18T20:58:40+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "08-10-2026",
   "hasta": "18-10-2026"
  },
  "totales": {
-  "alertas": 108,
+  "alertas": 109,
   "sae": 3,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
    "ATP": 84,
    "ROJA": 9,
-   "AMARILLA": 15
+   "AMARILLA": 16
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    81
+    82
    ],
    [
     "aluvión",
@@ -53,15 +53,6 @@
  "tipos_detalle": {
   "tormentas eléctricas": [
    {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "13-10",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
     "lugar": "Región de Atacama",
     "region": "Atacama",
     "nivel": "AMARILLA",
@@ -80,6 +71,15 @@
     "region_link": "coquimbo"
    },
    {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "13-10",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
     "lugar": "Región de Metropolitana de Santiago",
     "region": "Metropolitana de Santiago",
     "nivel": "AMARILLA",
@@ -87,15 +87,6 @@
     "ts": "10-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "08-10",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -168,6 +159,15 @@
     "ts": "10-10",
     "comuna_link": "",
     "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "10-10",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
    },
    {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -305,7 +305,7 @@
  "vigentes": {
   "ROJA": 1,
   "AMARILLA": 2,
-  "ATP": 12,
+  "ATP": 13,
   "regiones_roja": [
    "Metropolitana de Santiago"
   ]
@@ -315,7 +315,7 @@
    "fecha": "2026-10-08",
    "ROJA": 2,
    "AMARILLA": 1,
-   "ATP": 6,
+   "ATP": 4,
    "sae": 1
   },
   {
@@ -384,8 +384,8 @@
   {
    "fecha": "2026-10-18",
    "ROJA": 1,
-   "AMARILLA": 0,
-   "ATP": 4,
+   "AMARILLA": 1,
+   "ATP": 6,
    "sae": 0
   }
  ],
@@ -431,8 +431,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "08-10 15:53",
-     "estado": "VIGENTE"
+     "ts": "10-10 00:29",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "AMARILLA",
@@ -527,6 +527,33 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "18-10 16:21",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-18-17-07-54"
+  },
+  {
+   "ts": "18-10 16:13",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Coquimbo",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50"
+  },
+  {
+   "ts": "18-10 15:49",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-collipulli-curacautin-lonquimay-melipeuco-cunco-vilcun-pucon-villarrica-y-curarrehue-por-tormentas-electricas-2026-10-16-13-16-05"
+  },
   {
    "ts": "18-10 12:51",
    "nivel": "ATP",
@@ -625,33 +652,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21"
-  },
-  {
-   "ts": "17-10 16:15",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
-  },
-  {
-   "ts": "17-10 14:00",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-altas-temperaturas-2026-10-13-18-22-08"
-  },
-  {
-   "ts": "16-10 20:43",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-altas-temperaturas-2026-10-13-18-22-08"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
