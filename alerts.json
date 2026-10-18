@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-18T20:58:37+00:00",
+ "generado": "2026-10-18T21:45:39+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "22954fcd38d2",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos de la región. 20-10 20-10 Abrir aquí Aviso A561-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en litoral, cordillera de la costa, precordillera y valles precordilleranos y co",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-18T18:01:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "36e914356df6",
    "nivel": "ATP",
@@ -133,20 +147,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-17T22:56:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-11-19-21-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "bc4ecdeff95c",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo de Alerta Temprana Preventiva para la Región de Valparaíso, exceptuando la provincia de Isla de Pascua, por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos de la región. 20-10 20-10 Abrir aquí Aviso A561 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. 19-10 20-10 Abrir aquí Avisos A562-1 Precipitaciones normales a modera",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-17T19:36:50.5050-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14",
    "origen": "senapred_web",
    "regiones_extra": []
   },
