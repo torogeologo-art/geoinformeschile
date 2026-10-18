@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-18T01:29:10+00:00",
+ "generado": "2026-10-18T06:32:20+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "08-10-2026",
   "hasta": "18-10-2026"
  },
  "totales": {
-  "alertas": 104,
+  "alertas": 106,
   "sae": 3,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 80,
+   "ATP": 82,
    "AMARILLA": 16,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    79
+    81
    ],
    [
     "aluvión",
@@ -376,7 +376,14 @@
    "fecha": "2026-10-17",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 6,
+   "ATP": 7,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-10-18",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   }
  ],
@@ -519,6 +526,24 @@
  ],
  "cronologia": [
   {
+   "ts": "18-10 02:23",
+   "nivel": "ATP",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-altas-temperaturas-2026-10-13-18-22-08"
+  },
+  {
+   "ts": "17-10 22:56",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-11-19-21-00"
+  },
+  {
    "ts": "17-10 19:36",
    "nivel": "ATP",
    "lugar": "Región de Valparaíso",
@@ -625,24 +650,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
-  },
-  {
-   "ts": "16-10 15:30",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21"
-  },
-  {
-   "ts": "16-10 15:28",
-   "nivel": "ATP",
-   "lugar": "Región de Coquimbo",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
