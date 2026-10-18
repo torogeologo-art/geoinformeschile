@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-18T01:29:08+00:00",
+ "generado": "2026-10-18T05:35:59+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,36 @@
  },
  "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "4f70b8af8f26",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A556-1 Probables tormentas eléctricas en Cordillera Austral Norte, Cordillera Austral Sur, Insular Norte, Insular Central, Pampa Patagónica Norte y Pampa Patagónica Sur. 18-10 18-10 Abrir aquí Aviso A565 Precipitaciones normales a moderadas en corto periodo de tiempo en las comunas de Torres del Paine, Natales y Río Verde. 17-10 18-10 Abrir aquí Asimismo, se ha",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-18T02:23:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-altas-temperaturas-2026-10-13-18-22-08",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "e0a57c44c645",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se ha cancelado el siguiente alertamiento meteorológico para la Región de Los Ríos, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A557 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones asiladas en precordillera y cordillera. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de&nbsp;Los Ríos, la Dirección Regional del SENAPRED Cancela Alerta Temprana Preventiv",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-17T22:56:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-11-19-21-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "bc4ecdeff95c",
    "nivel": "ATP",
@@ -91,22 +121,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "2e82fe362a04",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A556 Probables tormentas eléctricas, preferentemente durante la tarde-noche con precipitaciones aisladas, en Cordillera Austral Norte, Cordillera Austral Sur, Insular Norte, Insular Central, Pampa Patagónica Norte y Pampa Patagónica Sur. 15-10 17-10 Abrir aquí Aviso A552-1 Altas temperaturas (entre 19 y 21 °C) en de Pampa Patagónica Norte y Pampa Patagónica Sur.",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-17T14:00:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-altas-temperaturas-2026-10-13-18-22-08",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "fd962b972872",
