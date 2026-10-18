@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-18T11:45:29+00:00",
+ "generado": "2026-10-18T15:43:34+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "08-10-2026",
   "hasta": "18-10-2026"
  },
  "totales": {
-  "alertas": 106,
+  "alertas": 107,
   "sae": 3,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 82,
    "AMARILLA": 16,
-   "ROJA": 8
+   "ATP": 82,
+   "ROJA": 9
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    81
+    80
    ],
    [
     "aluvión",
@@ -45,7 +45,7 @@
     2
    ],
    [
-    "otros",
+    "actividad volcánica",
     1
    ]
   ]
@@ -87,15 +87,6 @@
     "ts": "17-10",
     "comuna_link": "",
     "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "08-10",
-    "comuna_link": "",
-    "region_link": "los rios"
    },
    {
     "lugar": "Región de La Araucanía",
@@ -150,6 +141,15 @@
     "ts": "09-10",
     "comuna_link": "",
     "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "10-10",
+    "comuna_link": "",
+    "region_link": "los rios"
    },
    {
     "lugar": "Región de Biobío",
@@ -290,23 +290,25 @@
     "region_link": "antofagasta"
    }
   ],
-  "otros": [
+  "actividad volcánica": [
    {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
-    "nivel": "AMARILLA",
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
     "sae": false,
-    "ts": "09-10",
+    "ts": "08-10",
     "comuna_link": "",
-    "region_link": "arica y parinacota"
+    "region_link": "los rios"
    }
   ]
  },
  "vigentes": {
-  "ROJA": 0,
+  "ROJA": 1,
   "AMARILLA": 2,
   "ATP": 13,
-  "regiones_roja": []
+  "regiones_roja": [
+   "Metropolitana de Santiago"
+  ]
  },
  "serie": [
   {
@@ -381,7 +383,7 @@
   },
   {
    "fecha": "2026-10-18",
-   "ROJA": 0,
+   "ROJA": 1,
    "AMARILLA": 0,
    "ATP": 1,
    "sae": 0
@@ -394,11 +396,6 @@
    "sae": true,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "12-10 18:07",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "AMARILLA",
      "ts": "13-10 12:47",
@@ -417,6 +414,11 @@
     {
      "nivel": "ATP",
      "ts": "16-10 18:38",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "18-10 11:43",
      "estado": "VIGENTE"
     }
    ]
@@ -525,6 +527,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "18-10 11:43",
+   "nivel": "ROJA",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "remoción en masa",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04"
+  },
   {
    "ts": "18-10 02:23",
    "nivel": "ATP",
@@ -641,15 +652,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-16-19-50-34"
-  },
-  {
-   "ts": "16-10 16:43",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

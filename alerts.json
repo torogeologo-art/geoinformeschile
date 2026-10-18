@@ -1,13 +1,27 @@
 {
- "generado": "2026-10-18T13:52:02+00:00",
+ "generado": "2026-10-18T15:43:15+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "068526118e61",
+   "nivel": "ROJA",
+   "tipo": "remoción en masa",
+   "titulo": "Se declara Alerta Roja y cancela la Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, valles y precordillera de la región. 20-10 20-10 Abrir aquí Aviso A561 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. 19-10 20-10 Abrir aquí Aviso A564 Viento normal a moderado en cordillera 20-10 21-10 Abr",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-18T11:43:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "4f70b8af8f26",
    "nivel": "ATP",
