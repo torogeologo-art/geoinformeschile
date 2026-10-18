@@ -1,13 +1,41 @@
 {
- "generado": "2026-10-18T15:43:15+00:00",
+ "generado": "2026-10-18T17:10:55+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "16de3c50a8aa",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA181 Viento moderado a fuerte con desarrollo de ventiscas en cordillera de la región. 20-10 20-10 Abrir aquí Aviso A543-5 Viento normal a moderado (entre 60 y 90 km/h) con probabilidad de tormentas de arena en cordillera. 18-10 22-10 Abrir aquí Aviso A563 Nevadas normales a moderadas probabilidad de ventisca en cordillera sector Provincia de Huasco (entre 10 – 30",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-18T12:51:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "b59b610ac82a",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA181 Viento moderado a fuerte desarrollo de ventiscas en cordillera de la costa y precordillera en región. 20-10 20-10 Abrir aquí Aviso A543-5 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 18-10 22-10 Abrir aquí Aviso A568 Precipita",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-18T12:25:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "068526118e61",
    "nivel": "ROJA",
@@ -19,6 +47,20 @@
    "estado": "VIGENTE",
    "ts": "2026-10-18T11:43:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "5366e2ce3743",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento para la Región de Los Lagos: Alertamiento Pronóstico Aviso A557 Probables tormentas eléctricas preferentemente durante la tarde noche con precipitaciones aisladas en precordillera, cordillera, cordillera austral y patagonia subandina. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED cancela la Alerta Temp",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-18T11:25:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-10-16-19-56-03",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -81,20 +123,6 @@
    "regiones_extra": []
   },
   {
-   "id": "89a9cea4315e",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543-4 Viento normal a moderado (entre 60 y 90 km/h) con probabilidad de tormentas de arena en cordillera. 16-10 21-10 Abrir aquí Aviso A554-2 Viento normal a moderado (entre 40 y 60 km/h) con la probabilidad de tormentas de arena en Litoral Provincia de Huasco. 16-10 17-10 Abrir aquí Aviso A563 Nevadas normales a moderadas probabilidad de ventisca en cordillera se",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-17T18:52:54.5454-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "35450ad86a47",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -123,20 +151,6 @@
    "regiones_extra": []
   },
   {
-   "id": "afdec7df7a32",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica evento de Alerta Temprana Preventiva para la Región de Antofagasta a evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543-4 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 16-10 21-10 Abrir aquí Aviso A568 Precipitaciones normales a moderadas en litoral de la región de Antofagasta (desde Caleta El Cobre al sur) 20-10 20-10 Abrir aquí En consideración",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-17T16:15:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "fd962b972872",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -147,20 +161,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-16T19:07:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-10-16-19-58-34",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "6c745cbee706",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantiene vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A557 Probables tormentas eléctricas preferentemente durante la tarde noche con precipitaciones aisladas en precordillera, cordillera, cordillera austral y patagonia subandina. 16-10 17-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED declara Alerta Temprana Pre",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-16T18:58:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-10-16-19-56-03",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -217,6 +217,20 @@
    "estado": "VIGENTE",
    "ts": "2026-10-16T12:52:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-collipulli-curacautin-lonquimay-melipeuco-cunco-vilcun-pucon-villarrica-y-curarrehue-por-tormentas-electricas-2026-10-16-13-16-05",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e67e153645f1",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la Región de Los Lagos, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A553 Probables tormentas eléctricas en zonas de litoral, cordillera costa, valle, precordillera, cordillera, Chiloé, litoral interior, cordillera austral y patagonia subandina. Aviso A555 Probables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera y cordillera, Chiloé, litoral int",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-16T09:36:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-13-17-04-33",
    "origen": "senapred_web",
    "regiones_extra": []
   },
