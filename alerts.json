@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-19T19:58:26+00:00",
+ "generado": "2026-10-19T21:32:54+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "534978d83664",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica Alerta Amarilla para las comunas de Mostazal, Codegua, Machalí, Requínoa, Rengo, Malloa, San Fernando, Chimbarongo, San Vicente, Coltauco, Pichidegua y Rancagua por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, valle y precordillera. 20-10 20-10 Abrir aquí Aviso A561-3 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 19-10 22-10 Abrir aquí Aviso A562-2 Prec",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-19T17:29:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mostazal-codegua-machali-requinoa-rengo-malloa-san-fernando-y-chimbarongo-por-evento-meteorologico-2026-10-18-22-12-50",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "3cb0dd0fac7c",
    "nivel": "ATP",
@@ -117,20 +131,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-18T22:08:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "3a3a003e1b1c",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Amarilla para las Comunas de Mostazal, Codegua, Machalí, Requínoa, Rengo, Malloa, San Fernando y Chimbarongo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, valle y precordillera. 20-10 20-10 Abrir aquí Alerta AA183 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en valle y precordillera. 18-10 18-10 Abrir aquí Aviso A561-2 Probables tormentas eléctricas con probabilidad d",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-18T21:59:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mostazal-codegua-machali-requinoa-rengo-malloa-san-fernando-y-chimbarongo-por-evento-meteorologico-2026-10-18-22-12-50",
    "origen": "senapred_web",
    "regiones_extra": []
   },
