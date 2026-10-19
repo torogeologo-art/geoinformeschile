@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-19T14:01:54+00:00",
+ "generado": "2026-10-19T19:58:28+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "09-10-2026",
   "hasta": "19-10-2026"
  },
  "totales": {
-  "alertas": 106,
+  "alertas": 109,
   "sae": 1,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 84,
    "AMARILLA": 17,
+   "ATP": 87,
    "ROJA": 5
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    88
+    91
    ],
    [
     "evento meteorológico",
@@ -98,15 +98,6 @@
     "region_link": "metropolitana de santiago"
    },
    {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "09-10",
-    "comuna_link": "",
-    "region_link": "arica y parinacota"
-   },
-   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ATP",
@@ -177,6 +168,15 @@
     "ts": "11-10",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
+   },
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "13-10",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
    }
   ],
   "evento meteorológico": [
@@ -297,7 +297,7 @@
    "fecha": "2026-10-09",
    "ROJA": 0,
    "AMARILLA": 3,
-   "ATP": 2,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -367,7 +367,7 @@
    "fecha": "2026-10-19",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 0,
+   "ATP": 4,
    "sae": 0
   }
  ],
@@ -467,29 +467,6 @@
    ]
   },
   {
-   "lugar": "Región de Arica y Parinacota",
-   "region": "Arica y Parinacota",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "09-10 16:18",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "09-10 17:56",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "13-10 17:48",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Coquimbo",
    "region": "Coquimbo",
    "sae": false,
@@ -527,6 +504,42 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "19-10 12:59",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-collipulli-curacautin-lonquimay-melipeuco-cunco-vilcun-pucon-villarrica-y-curarrehue-por-tormentas-electricas-2026-10-16-13-16-05"
+  },
+  {
+   "ts": "19-10 12:41",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
+  },
+  {
+   "ts": "19-10 10:35",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-16-19-47-23"
+  },
+  {
+   "ts": "19-10 09:31",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-10-16-19-58-34"
+  },
   {
    "ts": "19-10 01:31",
    "nivel": "AMARILLA",
@@ -616,42 +629,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50"
-  },
-  {
-   "ts": "18-10 15:49",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-collipulli-curacautin-lonquimay-melipeuco-cunco-vilcun-pucon-villarrica-y-curarrehue-por-tormentas-electricas-2026-10-16-13-16-05"
-  },
-  {
-   "ts": "18-10 12:51",
-   "nivel": "ATP",
-   "lugar": "Región de Atacama",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
-  },
-  {
-   "ts": "18-10 12:25",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
-  },
-  {
-   "ts": "18-10 11:43",
-   "nivel": "ROJA",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "remoción en masa",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
