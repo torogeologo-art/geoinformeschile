@@ -1,6 +1,25 @@
 {
- "generado": "2026-10-19T06:41:55+00:00",
- "desde": "2026-10-17T06:41:55Z",
+ "generado": "2026-10-19T10:20:20+00:00",
+ "desde": "2026-10-17T10:20:20Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "metropolitana de santiago": {
+   "comuna": "Metropolitana de Santiago",
+   "region": "Metropolitana de Santiago",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "YOdqVnebTvI",
+     "url": "https://www.youtube.com/watch?v=YOdqVnebTvI",
+     "titulo": "7 años del Estallido Social Chile Tensión en Santiago (EN VIVO)",
+     "canal": "notisurweb",
+     "publicado": "2026-10-19T06:16:33Z",
+     "live": true,
+     "score": 0.66,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
