@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-19T06:41:56+00:00",
+ "generado": "2026-10-19T14:01:54+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "09-10-2026",
   "hasta": "19-10-2026"
  },
  "totales": {
-  "alertas": 107,
+  "alertas": 106,
   "sae": 1,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 85,
+   "ATP": 84,
    "AMARILLA": 17,
    "ROJA": 5
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    89
+    88
    ],
    [
     "evento meteorológico",
@@ -98,15 +98,6 @@
     "region_link": "metropolitana de santiago"
    },
    {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "09-10",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
     "lugar": "Región de Arica y Parinacota",
     "region": "Arica y Parinacota",
     "nivel": "ATP",
@@ -123,6 +114,15 @@
     "ts": "09-10",
     "comuna_link": "",
     "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "10-10",
+    "comuna_link": "",
+    "region_link": "valparaiso"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -297,7 +297,7 @@
    "fecha": "2026-10-09",
    "ROJA": 0,
    "AMARILLA": 3,
-   "ATP": 3,
+   "ATP": 2,
    "sae": 0
   },
   {
