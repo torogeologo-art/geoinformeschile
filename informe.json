@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-19T19:58:28+00:00",
+ "generado": "2026-10-19T23:33:05+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "09-10-2026",
   "hasta": "19-10-2026"
  },
  "totales": {
-  "alertas": 109,
+  "alertas": 111,
   "sae": 1,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
    "AMARILLA": 17,
-   "ATP": 87,
-   "ROJA": 5
+   "ATP": 88,
+   "ROJA": 6
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    91
+    93
    ],
    [
     "evento meteorológico",
@@ -41,8 +41,8 @@
     2
    ],
    [
-    "otros",
-    1
+    "remoción en masa",
+    2
    ],
    [
     "incendio forestal",
@@ -52,15 +52,6 @@
  },
  "tipos_detalle": {
   "tormentas eléctricas": [
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "09-10",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
    {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
@@ -98,13 +89,13 @@
     "region_link": "metropolitana de santiago"
    },
    {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
     "sae": false,
-    "ts": "09-10",
+    "ts": "12-10",
     "comuna_link": "",
-    "region_link": "antofagasta"
+    "region_link": "atacama"
    },
    {
     "lugar": "Región de Valparaíso",
@@ -159,6 +150,15 @@
     "ts": "10-10",
     "comuna_link": "",
     "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "10-10",
+    "comuna_link": "",
+    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -261,15 +261,15 @@
     "region_link": "la araucania"
    }
   ],
-  "otros": [
+  "remoción en masa": [
    {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
-    "nivel": "AMARILLA",
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "ROJA",
     "sae": false,
-    "ts": "09-10",
+    "ts": "18-10",
     "comuna_link": "",
-    "region_link": "arica y parinacota"
+    "region_link": "metropolitana de santiago"
    }
   ],
   "incendio forestal": [
@@ -286,7 +286,7 @@
  },
  "vigentes": {
   "ROJA": 1,
-  "AMARILLA": 3,
+  "AMARILLA": 4,
   "ATP": 13,
   "regiones_roja": [
    "Metropolitana de Santiago"
@@ -296,8 +296,8 @@
   {
    "fecha": "2026-10-09",
    "ROJA": 0,
-   "AMARILLA": 3,
-   "ATP": 1,
+   "AMARILLA": 1,
+   "ATP": 0,
    "sae": 0
   },
   {
@@ -365,9 +365,9 @@
   },
   {
    "fecha": "2026-10-19",
-   "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 4,
+   "ROJA": 1,
+   "AMARILLA": 3,
+   "ATP": 6,
    "sae": 0
   }
  ],
@@ -378,11 +378,6 @@
    "sae": true,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "14-10 00:51",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "AMARILLA",
      "ts": "14-10 09:01",
@@ -402,6 +397,11 @@
      "nivel": "AMARILLA",
      "ts": "18-10 22:16",
      "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "19-10 19:11",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -444,11 +444,6 @@
    "sae": false,
    "max": "AMARILLA",
    "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "09-10 18:58",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "ATP",
      "ts": "10-10 14:02",
@@ -504,6 +499,51 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "19-10 19:11",
+   "nivel": "ROJA",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "remoción en masa",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04"
+  },
+  {
+   "ts": "19-10 19:05",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-16-19-50-34"
+  },
+  {
+   "ts": "19-10 18:41",
+   "nivel": "ATP",
+   "lugar": "Región de Valparaíso",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14"
+  },
+  {
+   "ts": "19-10 18:23",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
+  },
+  {
+   "ts": "19-10 17:29",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mostazal-codegua-machali-requinoa-rengo-malloa-san-fernando-y-chimbarongo-por-evento-meteorologico-2026-10-18-22-12-50"
+  },
   {
    "ts": "19-10 12:59",
    "nivel": "ATP",
@@ -584,51 +624,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-10-16-19-58-34"
-  },
-  {
-   "ts": "18-10 18:57",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40"
-  },
-  {
-   "ts": "18-10 18:19",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-18-19-36-02"
-  },
-  {
-   "ts": "18-10 18:01",
-   "nivel": "ATP",
-   "lugar": "Región de Valparaíso",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14"
-  },
-  {
-   "ts": "18-10 16:21",
-   "nivel": "ATP",
-   "lugar": "Región de Los Ríos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-18-17-07-54"
-  },
-  {
-   "ts": "18-10 16:13",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
