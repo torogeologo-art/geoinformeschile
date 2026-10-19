@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-19T01:19:22+00:00",
+ "generado": "2026-10-19T06:41:54+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -2126,6 +2126,13 @@
    "comuna": "Concepción",
    "noticias": [
     {
+     "titulo": "Krujoski logró el segundo puesto en Concepción del Uruguay - El Litoral | Novedades de Corrientes",
+     "medio": "El Litoral | Novedades de Corrientes",
+     "fecha": "2026-10-18T18:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1kOG9EdFVlTi1BM0hoaXlNT25INkQ4bm1JcGttMEZKT09zSU14cVMwNkdJeVQzUm5qZnVuT3g0RG5WTW5fRnhCQmZ4a0VuMm9vRTcxaGJDWFNQWlhvNjE3U2dsMktvMWgxSVlZRDZIYk1SYXJyN1B3MFhJWEdDU2ZvYXpPcE9USkUtSVhpREg5ekhUR3pwUjdtNV9TcVBQWUx1LWxOUnpvNnNVenZNbXhhaW00dw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Bajó el río Uruguay en Concordia y Colón, pero el Paraná continúa en creciente en otras localidades - Elonce.com",
      "medio": "Elonce.com",
      "fecha": "2026-10-16T12:51:00+00:00",
@@ -2186,13 +2193,6 @@
      "medio": "Última Hora",
      "fecha": "2026-10-09T22:32:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTFBR3ZJSkg1dDdhWU1UWkZabnRBSVFXUmNQVEE1QWlTZXM0cGhzNmZBMXlDUGM5UHNNaFBaeXpRLWtpMlQwSlhNSzV2Y25iMy1RTDNTZHlzUkNISHdBSUlGRTFINDRtdEYzaUFkSXNfaFppNURSblpQb1VxbnQzaXExMjVqbkhpcVQzLUtkZDBzUnRMVHRSNnlidU1seEk0SkFv0gGjAUFVX3lxTE9FMUFHdklKSDV0N2FZTVRaRlpudEFJUVdSY1BUQTVBaVNlczRwaHM2ZkExeUNQYzlQc01oUFp5elEta2kyVDBKWE1LNXZjbmIzLVFMM1NkeXNSQ0hId0FJSUZFMUg0NG10RjNpQWRJc19oWmk1RFJuWlBvVXFudDNpcTEyNWpuSGlxVDMtS2RkMHNSdExUdFI2eWJ1TWx4STRKQW8?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Unas 150 familias quedan afectadas por las lluvias en Concepción - www.ultimahora.com",
-     "medio": "www.ultimahora.com",
-     "fecha": "2026-10-09T22:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNalFPLVYyVHRPY04wU0xiRGtReURPbFlQcktfNHdVYUN5SFZ2TlVnNXNNZmZ0b3RTWk1lMGZSc3QyM1oyX2xYTTRLa29pa2E5clFkZzFDSDFOZEo4NW9vOFFCSzVOWG0wN1pBZng5MTRYNThBZnNJN0F6dmtBVGxOUngtNU5oOTlRSHdFVlhKZEZtLXRUQ2c?oc=5",
      "sector": null
     }
    ]
