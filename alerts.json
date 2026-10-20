@@ -1,13 +1,41 @@
 {
- "generado": "2026-10-20T02:08:07+00:00",
+ "generado": "2026-10-20T05:23:07+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 18,
+ "total_vigentes": 19,
  "alertas": [
+  {
+   "id": "8c7845f69e18",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las Provincias de San Antonio y Valparaíso y las comunas de La Cruz, Nogales, Hijuelas, San Felipe, Panquehue, Llay Llay, Zapallar y Papudo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos. 20-10 20-10 Abrir aquí Aviso A561-3 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en litoral, cordillera de la costa, precordillera, valles precordilleranos y cordillera. 19-1",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-19T23:48:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "48db6d2c411e",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Amarilla para las Provincias de Marga Marga y Los Andes; y las comunas de Catemu, Putaendo, Santa María, Cabildo, Petorca, La Ligua, Quillota y La Calera por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos. 20-10 20-10 Abrir aquí Aviso A561-3 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en litoral, cordillera de la costa, precordillera, valles precordilleranos y cordillera. 19-",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-19T23:26:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-marga-marga-y-los-andes-y-las-comunas-de-catemu-putaendo-santa-maria-cabildo-petorca-la-ligua-quillota-y-la-calera-por-evento-meteorologico-2026-10-19-23-48-32",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "f99dee0d19b0",
    "nivel": "ATP",
@@ -75,20 +103,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-19T19:05:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-16-19-50-34",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "82a34571dca8",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos. 20-10 20-10 Abrir aquí Aviso A561-3 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en litoral, cordillera de la costa, precordillera, valles precordilleranos y cordillera. 19-1",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-19T18:41:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14",
    "origen": "senapred_web",
    "regiones_extra": []
   },
