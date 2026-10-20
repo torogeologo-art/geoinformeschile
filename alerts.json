@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-20T10:19:25+00:00",
+ "generado": "2026-10-20T13:02:05+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,62 @@
  },
  "total_vigentes": 19,
  "alertas": [
+  {
+   "id": "f9df53cd1862",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-2 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos. 20-10 20-10 Abrir aquí Alerta AA182-1 Viento moderado a fuerte con desarrollo de ventiscas en cordillera. 20-10 23-10 Abrir aquí Aviso A561-3 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vien",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-20T09:06:04.044-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "bc3aead50c83",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Aviso A561-3 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 19-10 22-10 Abrir aquí Aviso A562-2 Precipitaciones normales a moderadas en litoral, cordillera de la costa y valle. 20-10 21-10 Abrir aquí Aviso A564-3 Viento normal a moderado en litoral. 20-1",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-20T08:44:49.4949-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-10-16-19-58-34",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "f7d301ae7ff3",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-2 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, valle y precordillera. 20-10 20-10 Abrir aquí Alerta AA185 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en valle, precordillera y cordillera. 20-10 20-10 Abrir aquí Aviso A561-3 Probables tormentas eléctricas con probabi",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-20T08:38:37.3737-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-16-19-50-34",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "fd2fa58159f9",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-2 Precipitaciones moderadas a fuertes en corto periodo de tiempo en litoral, valle y precordillera de la región. 20-10 20-10 Abrir aquí Alerta AA185 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y cordillera de la región. 20-10 20-10 Abrir aquí Aviso A561-3 Probables tormentas eléctricas con pr",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-20T08:09:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "8c7845f69e18",
    "nivel": "ATP",
@@ -51,20 +107,6 @@
    "regiones_extra": []
   },
   {
-   "id": "83e60863a077",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos de la región. 20-10 20-10 Abrir aquí Alerta AA182-1 Viento moderado a fuerte con desarrollo de ventiscas en cordillera de la región. 20-10 23-10 Abrir aquí Aviso A561-3 Probables tormentas eléctricas con probabilidad de graniz",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-19T21:29:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "11997396ae7e",
    "nivel": "ATP",
    "tipo": "crecida de río",
@@ -89,20 +131,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-19T19:11:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "bc7e4c892282",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, valle y precordillera. 20-10 20-10 Abrir aquí Aviso A561-3 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, valle, precordillera y cordillera. 19-10 22-10 Abrir aquí Aviso A564-2 Viento normal a m",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-19T19:05:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-16-19-50-34",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -159,34 +187,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-19T10:35:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-16-19-47-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "793b829b5c97",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Aviso A561-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 19-10 22-10 Abrir aquí Aviso A562-2 Precipitaciones normales a moderadas en litoral, cordillera de la costa y valle. 20-10 21-10 Abrir aquí Por otra parte, el Centro Zonal de Meteorología Marina",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-19T09:31:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-10-16-19-58-34",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "90f9ccb6c755",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en valle y precordillera de la región. 20-10 20-10 Abrir aquí Aviso A561-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 18-10 22-10 Abrir aquí Avisos A562-2 Precipitaciones n",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-18T22:08:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21",
    "origen": "senapred_web",
    "regiones_extra": []
   },
