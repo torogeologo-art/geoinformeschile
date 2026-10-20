@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-20T19:31:05+00:00",
- "desde": "2026-10-18T19:31:04Z",
+ "generado": "2026-10-20T21:32:43+00:00",
+ "desde": "2026-10-18T21:32:43Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -15,7 +15,18 @@
      "canal": "CHV Noticias",
      "publicado": "2026-10-20T13:22:25Z",
      "live": true,
-     "score": 4.49,
+     "score": 4.32,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "c77HCPveoxg",
+     "url": "https://www.youtube.com/watch?v=c77HCPveoxg",
+     "titulo": "SISTEMA FRONTAL azota centro de CHILE, tormeta eléctrica, truenos, granzio y lluvias desde Santiago",
+     "canal": "EnElMarcador",
+     "publicado": "2026-10-20T20:58:58Z",
+     "live": true,
+     "score": 0.95,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +37,7 @@
      "canal": "EL PAÍS",
      "publicado": "2026-10-20T15:12:30Z",
      "live": true,
-     "score": 0.64,
+     "score": 0.47,
      "verificado": false,
      "embeddable": true
     }

@@ -1,13 +1,57 @@
 {
- "generado": "2026-10-20T19:31:04+00:00",
+ "generado": "2026-10-20T21:32:40+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 18,
+ "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "c9cc9256f987",
+   "nivel": "ATP",
+   "tipo": "actividad volcánica",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del Volcán Villarrica",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Volcán Villarrica mantiene la alerta técnica en nivel Amarilla&nbsp; [1] . En relación con el Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, entre el 01 y 15 de octubre, se indica que el volcán presentó un bajo nivel de actividad sísmica, caracterizado por la ocurrencia de escasos eventos asociados a la dinámica de fluidos al interior del sistema volcánico, principalmente de largo periodo (LP) y en",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-20T18:10:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Los Ríos"
+   ]
+  },
+  {
+   "id": "4ecc13d7dac9",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, entre el 01 y 15 de octubre, la actividad del Complejo Volcánico Nevados de Chillán se caracterizó por el predominio de sismicidad asociada a la dinámica de fluidos, principalmente de tipo LP y TR, con registros de energía relevante. Esta actividad es",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-20T17:32:10.1010-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "fd2fa58159f9",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-2 Precipitaciones moderadas a fuertes en corto periodo de tiempo en litoral, valle y precordillera. 20-10 20-10 Abrir aquí Alerta AA185-1 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en litoral, cordillera de la costa, valle, precordillera y cordillera. 20-10 20-10 Abrir aquí Aviso A561-4 Probables tormentas e",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-20T16:50:44.4444-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "bc3aead50c83",
    "nivel": "ATP",
@@ -93,20 +137,6 @@
    "regiones_extra": []
   },
   {
-   "id": "30afedc49fd3",
-   "nivel": "ATP",
-   "tipo": "aluvión",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A569-2 Probables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera y cordillera. 20-10 21-10 Abrir aquí Asimismo, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (d",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-20T13:41:05.055-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-collipulli-curacautin-lonquimay-melipeuco-cunco-vilcun-pucon-villarrica-y-curarrehue-por-tormentas-electricas-2026-10-16-13-16-05",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "d03c947024a4",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -131,20 +161,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-20T09:06:04.044-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "fd2fa58159f9",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-2 Precipitaciones moderadas a fuertes en corto periodo de tiempo en litoral, valle y precordillera de la región. 20-10 20-10 Abrir aquí Alerta AA185 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y cordillera de la región. 20-10 20-10 Abrir aquí Aviso A561-3 Probables tormentas eléctricas con pr",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-20T08:09:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -201,20 +217,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-19T17:29:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mostazal-codegua-machali-requinoa-rengo-malloa-san-fernando-y-chimbarongo-por-evento-meteorologico-2026-10-18-22-12-50",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "04aa23030fc9",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A562-2 Precipitaciones normales a moderadas en litoral. 20-10 22-10 Abrir Aquí Aviso A561-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 19-10 22-10 Abrir Aquí Asimismo, el Centro Zonal de Meteorología Marina de Talcahuano, informa la probabilidad",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-19T10:35:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-16-19-47-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -319,16 +321,16 @@
    "regiones_extra": []
   },
   {
-   "id": "d0fe2b5fe016",
+   "id": "3161ffbb8ce0",
    "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy viernes 16 de octubre a las 05:52 horas, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán registraron un sismo asociado a la dinámica interna de fluidos. Las características del sismo luego de su análisis son las si",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológico para la Región de Ñuble, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Alerta AA178 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en litoral, cordillera de la costa, valle y precordillera. Aviso A544-5 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en precordillera y cordillera. En considera",
    "region": "Ñuble",
    "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-16T06:17:41.4141-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+   "estado": "CANCELADA",
+   "ts": "2026-10-16T01:00:10.1010-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-11-11-02-05",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -663,22 +665,6 @@
    "url": "https://t.me/SenapredChile/1618",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "a35585b1390b",
-   "nivel": "ATP",
-   "tipo": "actividad volcánica",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del Volcán Villarrica",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Volcán Villarrica mantiene la alerta técnica en nivel Amarilla [1] . En relación con el Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, entre el 16 y 30 de septiembre, se indica que dadas las dadas las características de un sistema volcánico de conducto abierto, no es posible descartar explosiones súbitas y sin precursores. De acuerdo con lo observado en períodos anteriores, el impacto de estas explo",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-10-08T18:30:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "La Araucanía"
-   ]
   },
   {
    "id": "43c688a45bfe",
