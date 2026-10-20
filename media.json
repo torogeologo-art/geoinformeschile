@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-20T21:32:43+00:00",
- "desde": "2026-10-18T21:32:43Z",
+ "generado": "2026-10-20T22:41:36+00:00",
+ "desde": "2026-10-18T22:41:36Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -15,7 +15,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-10-20T13:22:25Z",
      "live": true,
-     "score": 4.32,
+     "score": 4.22,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "EnElMarcador",
      "publicado": "2026-10-20T20:58:58Z",
      "live": true,
-     "score": 0.95,
+     "score": 0.86,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +37,7 @@
      "canal": "EL PAÍS",
      "publicado": "2026-10-20T15:12:30Z",
      "live": true,
-     "score": 0.47,
+     "score": 0.38,
      "verificado": false,
      "embeddable": true
     }
