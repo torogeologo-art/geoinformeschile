@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-19T23:33:05+00:00",
+ "generado": "2026-10-20T02:08:10+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "09-10-2026",
-  "hasta": "19-10-2026"
+  "desde": "10-10-2026",
+  "hasta": "20-10-2026"
  },
  "totales": {
   "alertas": 111,
   "sae": 1,
   "comunas": 0,
-  "regiones": 15,
+  "regiones": 14,
   "por_nivel": {
-   "AMARILLA": 17,
-   "ATP": 88,
+   "ATP": 89,
+   "AMARILLA": 16,
    "ROJA": 6
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    93
+    94
    ],
    [
     "evento meteorológico",
@@ -43,10 +43,6 @@
    [
     "remoción en masa",
     2
-   ],
-   [
-    "incendio forestal",
-    1
    ]
   ]
  },
@@ -271,17 +267,6 @@
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
    }
-  ],
-  "incendio forestal": [
-   {
-    "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-    "region": "Aysén del General Carlos Ibáñez del Campo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "09-10",
-    "comuna_link": "",
-    "region_link": "aysen del general carlos ibanez del campo"
-   }
   ]
  },
  "vigentes": {
@@ -293,13 +278,6 @@
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-10-09",
-   "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 0,
-   "sae": 0
-  },
   {
    "fecha": "2026-10-10",
    "ROJA": 1,
@@ -367,7 +345,7 @@
    "fecha": "2026-10-19",
    "ROJA": 1,
    "AMARILLA": 3,
-   "ATP": 6,
+   "ATP": 7,
    "sae": 0
   }
  ],
@@ -439,6 +417,29 @@
    ]
   },
   {
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "region": "Libertador General Bernardo O'Higgins",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "10-10 11:20",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "18-10 21:59",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-10 21:51",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Atacama",
    "region": "Atacama",
    "sae": false,
@@ -478,27 +479,18 @@
      "estado": "VIGENTE"
     }
    ]
-  },
-  {
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "region": "Libertador General Bernardo O'Higgins",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "10-10 11:20",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "18-10 21:59",
-     "estado": "VIGENTE"
-    }
-   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "19-10 21:51",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40"
+  },
   {
    "ts": "19-10 19:11",
    "nivel": "ROJA",
@@ -615,15 +607,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mostazal-codegua-machali-requinoa-rengo-malloa-san-fernando-y-chimbarongo-por-evento-meteorologico-2026-10-18-22-12-50"
-  },
-  {
-   "ts": "18-10 21:28",
-   "nivel": "ATP",
-   "lugar": "Región de Biobío",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-10-16-19-58-34"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

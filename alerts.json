@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-20T00:41:44+00:00",
+ "generado": "2026-10-20T02:08:07+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,48 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "f99dee0d19b0",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, valle y precordillera. 20-10 20-10 Abrir aquí Aviso A561-3 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 19-10 22-10 Abrir aquí Aviso A562-2 Pre",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-19T21:51:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "83e60863a077",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos de la región. 20-10 20-10 Abrir aquí Alerta AA182-1 Viento moderado a fuerte con desarrollo de ventiscas en cordillera de la región. 20-10 23-10 Abrir aquí Aviso A561-3 Probables tormentas eléctricas con probabilidad de graniz",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-19T21:29:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "11997396ae7e",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Provincia de Huasco por crecida",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección Regional del SENAPRED Atacama , se indica que producto del desborde del río Huasco registrado el 02 de octubre en el sector de los Perales Viejos, comuna de Huasco, se informa de 1 vivienda con daño mayor y 4 con daño menor. Por otra parte, a raíz de la emergencia 12 personas estuvieron aisladas hasta la finalización de los trabajos de limpieza de los caminos afectados por el desborde. Cabe mencionar, que debido a la intensificación de los deshielos en los sectores cordilleranos, es posible seguir registrando aumento de caudales h",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-19T21:15:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "c96893c78b73",
    "nivel": "ROJA",
@@ -47,20 +89,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-19T18:41:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "01f401984f16",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA181 Viento moderado a fuerte con desarrollo de ventiscas en cordillera. 20-10 20-10 Abrir aquí Aviso A543-6 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. 19-10 22-10 Abrir aquí Aviso A563 Nevadas normales a moderadas con probabilidad de ventisca en cordillera, sector Provincia de Huasco. 18-10 20-10 Abrir aquí Aviso A570 Viento n",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-19T18:23:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -131,34 +159,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-19T09:31:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-10-16-19-58-34",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "83e60863a077",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos de la región. 20-10 20-10 Abrir aquí Alerta AA182 Viento moderado a fuerte con desarrollo de ventiscas en cordillera de la región. 20-10 21-10 Abrir aquí Aviso A561-2 Probables tormentas eléctricas con probabilidad de granizos",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-19T01:31:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "22b60337e6b9",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, valle y precordillera. 20-10 20-10 Abrir aquí Alerta AA183 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en valle y precordillera. 18-10 18-10 Abrir aquí Aviso A561-2 Probables tormentas eléctricas con probabilidad d",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-18T22:40:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -765,20 +765,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-03T23:33:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-san-felipe-quillota-marga-marga-y-las-comunas-de-casablanca-cabildo-y-petorca-por-tormentas-electricas-2026-10-02-21-20-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a27a92db2028",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de Huasco por crecida",
-   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección Regional del SENAPRED Atacam a, indica que las estaciones fluviométrica han registrado las crecidas de los Río Huasco y El Carmen, producto de la intensificación de deshielos en los sectores cordilleranos. Asimismo, la Dirección General de Aguas informa que el embalse Santa Juana ha comenzado el proceso de vertimiento registrando caudales superiores a los 20m3 por segundo en la estación fluviométrica Río Huasco en Santa Juana. Producto de lo anterior, se han registrado aumento de caudal hacia los sectores agua abajo del embalse Sa",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-10-02T23:38:55.5555-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
    "origen": "senapred_web",
    "regiones_extra": []
   },
