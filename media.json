@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-20T18:00:12+00:00",
- "desde": "2026-10-18T18:00:11Z",
+ "generado": "2026-10-20T19:31:05+00:00",
+ "desde": "2026-10-18T19:31:04Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -15,7 +15,18 @@
      "canal": "CHV Noticias",
      "publicado": "2026-10-20T13:22:25Z",
      "live": true,
-     "score": 4.61,
+     "score": 4.49,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "wNMJ8rUc1bE",
+     "url": "https://www.youtube.com/watch?v=wNMJ8rUc1bE",
+     "titulo": "EN VIVO | Lluvias relacionadas con El Niño azotan Santiago de Chile | EL PAÍS",
+     "canal": "EL PAÍS",
+     "publicado": "2026-10-20T15:12:30Z",
+     "live": true,
+     "score": 0.64,
      "verificado": false,
      "embeddable": true
     }
