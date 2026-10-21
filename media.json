@@ -1,21 +1,21 @@
 {
- "generado": "2026-10-21T11:53:36+00:00",
- "desde": "2026-10-19T11:53:34Z",
+ "generado": "2026-10-21T15:04:52+00:00",
+ "desde": "2026-10-19T15:04:50Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "IylUFq_WTbY",
-     "url": "https://www.youtube.com/watch?v=IylUFq_WTbY",
-     "titulo": "¡Chats FILTRADOS entre ARRAU y BARROS incendian LA MONEDA! ¿LULA puede ganar en BRASIL? | #TurnoAM",
-     "canal": "Turno",
-     "publicado": "2026-10-20T16:12:09Z",
+     "id": "mdosV55h_Ao",
+     "url": "https://www.youtube.com/watch?v=mdosV55h_Ao",
+     "titulo": "🟡 EN VIVO 🟡 | Coquimbo Unido x D. Iquique | SUB 14 |  Fútbol Formativo",
+     "canal": "Coquimbo Unido",
+     "publicado": "2026-10-21T12:28:02Z",
      "live": true,
-     "score": 3.36,
+     "score": 7.78,
      "verificado": false,
      "embeddable": true
     }
