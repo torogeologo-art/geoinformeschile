@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-21T19:19:24+00:00",
+ "generado": "2026-10-21T20:30:14+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 19,
  "alertas": [
+  {
+   "id": "356c83fb9564",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543-7 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa, precordillera occidental, precordillera alto loa, precordillera salar y cordillera 21-10 24-10 Abrir aquí Aviso A570 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 22-10 24-10 Abrir aquí En consideración a estos antecedentes y en coordi",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-21T17:06:25.2525-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "bcea4a279d81",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A569-2 Probables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera y cordillera. 20-10 21-10 Abrir aquí Aviso A572-1 Viento normal a moderado en litoral y cordillera de la costa 21-10 21-10 Abrir aquí Aviso 571-1 Probable desarrollo de nubes convectivas con características Tornádicas en los sectores de Litoral, Cordillera Costa, Valle y",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-21T16:53:08.088-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-18-17-07-54",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "60a9d0bcb503",
    "nivel": "ROJA",
@@ -107,20 +135,6 @@
    "regiones_extra": []
   },
   {
-   "id": "8c3a371bef64",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica Alerta Temprana Preventiva para la Región de Antofagasta por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543-6 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 18-10 22-10 Abrir aquí Aviso A570 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 22-10 24-10 Abrir aquí Del mismo modo, debido al debilitamiento de las",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-21T02:33:36.3636-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "e92f37f94382",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -147,20 +161,6 @@
    "url": "https://t.me/SenapredChile/1646",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "d193cd6f0278",
-   "nivel": "ATP",
-   "tipo": "remoción en masa",
-   "titulo": "Se modifica Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A569-2 Probables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera y cordillera. 20-10 21-10 Abrir aquí Aviso A572-1 Viento normal a moderado en litoral y cordillera de la costa 21-10 21-10 Abrir aquí Asimismo, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoció",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-20T22:51:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-18-17-07-54",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "869570aab091",
