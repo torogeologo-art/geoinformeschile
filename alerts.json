@@ -1,13 +1,41 @@
 {
- "generado": "2026-10-21T04:54:49+00:00",
+ "generado": "2026-10-21T06:03:40+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 20,
+ "total_vigentes": 21,
  "alertas": [
+  {
+   "id": "8c3a371bef64",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543-6 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera salar y cordillera. 18-10 22-10 Abrir aquí Aviso A570 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 22-10 24-10 Abrir aquí Del mismo modo, debido al debilitamiento de las",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-21T02:33:36.3636-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e92f37f94382",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA185-2 Tormentas Eléctricas con Probabilidad de precipitaciones fuertes en un corto período de tiempo en litoral, cordillera de la costa y valle. 21-10 21-10 Abrir Aquí Alerta AA186 Precipitaciones Moderadas a Fuertes en corto periodo de tiempo en litoral y cordillera de la costa. 21-10 21-10 Abrir Aquí Aviso A561-4 Probables tormentas eléctricas con probabilidad d",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-21T02:13:18.1818-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-16-19-47-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "3c1f9a957cdf",
    "nivel": "ROJA",
@@ -174,20 +202,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-20T14:48:59.5959-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "d1145d56f383",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA181 Viento moderado a fuerte desarrollo de ventiscas en cordillera de la costa y precordillera Salar. 20-10 20-10 Abrir aquí Alerta AA184 Precipitaciones moderadas a fuertes en litoral, desde Caleta El Cobre al sur. 20-10 20-10 Abrir aquí Aviso A543-6 Viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa, precordillera occ",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-20T13:43:33.3333-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
    "origen": "senapred_web",
    "regiones_extra": []
   },
