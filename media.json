@@ -1,6 +1,25 @@
 {
- "generado": "2026-10-21T09:58:32+00:00",
- "desde": "2026-10-19T09:58:30Z",
+ "generado": "2026-10-21T11:53:36+00:00",
+ "desde": "2026-10-19T11:53:34Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "IylUFq_WTbY",
+     "url": "https://www.youtube.com/watch?v=IylUFq_WTbY",
+     "titulo": "¡Chats FILTRADOS entre ARRAU y BARROS incendian LA MONEDA! ¿LULA puede ganar en BRASIL? | #TurnoAM",
+     "canal": "Turno",
+     "publicado": "2026-10-20T16:12:09Z",
+     "live": true,
+     "score": 3.36,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
