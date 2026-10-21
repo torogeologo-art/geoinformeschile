@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-21T19:19:46+00:00",
+ "generado": "2026-10-21T22:37:57+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "11-10-2026",
   "hasta": "21-10-2026"
  },
  "totales": {
-  "alertas": 116,
+  "alertas": 117,
   "sae": 2,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 88,
-   "AMARILLA": 19,
+   "ATP": 90,
+   "AMARILLA": 18,
    "ROJA": 9
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    94
+    95
    ],
    [
     "nevadas",
@@ -58,15 +58,6 @@
     "region_link": "metropolitana de santiago"
    },
    {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "19-10",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
     "region": "Libertador General Bernardo O'Higgins",
     "nivel": "AMARILLA",
@@ -83,6 +74,15 @@
     "ts": "12-10",
     "comuna_link": "",
     "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-10",
+    "comuna_link": "",
+    "region_link": "valparaiso"
    },
    {
     "lugar": "Región de Coquimbo",
@@ -103,15 +103,6 @@
     "region_link": "maule"
    },
    {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "11-10",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ATP",
@@ -119,6 +110,15 @@
     "ts": "12-10",
     "comuna_link": "",
     "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "13-10",
+    "comuna_link": "",
+    "region_link": "los rios"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -299,7 +299,7 @@
  "vigentes": {
   "ROJA": 3,
   "AMARILLA": 3,
-  "ATP": 13,
+  "ATP": 14,
   "regiones_roja": [
    "Biobío",
    "Coquimbo",
@@ -310,8 +310,8 @@
   {
    "fecha": "2026-10-11",
    "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 4,
+   "AMARILLA": 0,
+   "ATP": 2,
    "sae": 0
   },
   {
@@ -381,7 +381,7 @@
    "fecha": "2026-10-21",
    "ROJA": 2,
    "AMARILLA": 2,
-   "ATP": 6,
+   "ATP": 10,
    "sae": 1
   }
  ],
@@ -516,7 +516,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "11-10 16:45",
+     "ts": "12-10 10:59",
      "estado": "VIGENTE"
     },
     {
@@ -556,6 +556,42 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "21-10 19:18",
+   "nivel": "ATP",
+   "lugar": "Región de Maule",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21"
+  },
+  {
+   "ts": "21-10 18:22",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-10-18-16-21-00"
+  },
+  {
+   "ts": "21-10 17:48",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-collipulli-curacautin-lonquimay-melipeuco-cunco-vilcun-pucon-villarrica-y-curarrehue-por-tormentas-electricas-2026-10-16-13-16-05"
+  },
+  {
+   "ts": "21-10 16:53",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-18-17-07-54"
+  },
   {
    "ts": "21-10 13:40",
    "nivel": "ROJA",
@@ -645,42 +681,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1646"
-  },
-  {
-   "ts": "20-10 21:43",
-   "nivel": "ROJA",
-   "lugar": "Región de Biobío",
-   "tipo": "remoción en masa",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-arauco-por-remocion-en-masa-2026-10-20-21-44-09"
-  },
-  {
-   "ts": "20-10 17:32",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "nevadas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
-  },
-  {
-   "ts": "20-10 15:01",
-   "nivel": "ATP",
-   "lugar": "Región de Los Ríos",
-   "tipo": "aluvión",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-18-17-07-54"
-  },
-  {
-   "ts": "20-10 14:53",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-10-18-16-21-00"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

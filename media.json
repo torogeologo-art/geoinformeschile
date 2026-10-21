@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-21T20:30:18+00:00",
- "desde": "2026-10-19T20:30:15Z",
+ "generado": "2026-10-21T22:37:56+00:00",
+ "desde": "2026-10-19T22:37:53Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -15,7 +15,25 @@
      "canal": "Tu Deporte Radio",
      "publicado": "2026-10-21T15:49:40Z",
      "live": true,
-     "score": 7.61,
+     "score": 7.43,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "edt5Ix5g-iU",
+     "url": "https://www.youtube.com/watch?v=edt5Ix5g-iU",
+     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
+     "canal": "La Serena Drone",
+     "publicado": "2026-10-21T21:05:15Z",
+     "live": true,
+     "score": -2.13,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +51,7 @@
      "canal": "Patricio Navarro",
      "publicado": "2026-10-21T14:47:18Z",
      "live": true,
-     "score": -3.48,
+     "score": -3.65,
      "verificado": false,
      "embeddable": true
     }
