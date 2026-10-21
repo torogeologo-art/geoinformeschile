@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-20T22:41:35+00:00",
+ "generado": "2026-10-21T00:09:42+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -22,6 +22,20 @@
    "origen": "senapred_web",
    "regiones_extra": [],
    "sae": true
+  },
+  {
+   "id": "f9df53cd1862",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-2 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos. 20-10 20-10 Abrir aquí Alerta AA182-1 Viento moderado a fuerte con desarrollo de ventiscas en cordillera. 20-10 23-10 Abrir aquí Aviso A561-4 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vien",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-20T19:53:26.2626-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "b24a37eeb228",
@@ -146,20 +160,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-20T11:22:33.3333-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "f9df53cd1862",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-2 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos. 20-10 20-10 Abrir aquí Alerta AA182-1 Viento moderado a fuerte con desarrollo de ventiscas en cordillera. 20-10 23-10 Abrir aquí Aviso A561-3 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vien",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-20T09:06:04.044-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1450,50 +1450,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-09-17-18-59-54",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "6e5f43833799",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Atacama, debido al debilitamiento de las condiciones que lo originaron. Alertamiento Pronóstico Aviso A489 Viento normal a moderado con probabilidad de ventisca en cordillera. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por viento para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Val",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-20T22:17:10.1010-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-16-18-51-41",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "31f0b928dd20",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A487 Nevadas normales a moderadas con probabilidad de ventiscas en cordillera. Aviso A489 Viento normal a moderado con probabilidad de ventisca en cordillera de la costa, precordillera Occidental, precordillera Alto Loa, precordillera Salar y cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Preside",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-20T21:18:10.1010-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-nevadas-2026-09-16-18-55-04",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "3d4747ba9745",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Torres del Paine por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), según su Pronóstico Meteorológico Especial emitido por Centro Meteorológico Regional Austral, se indica el debilitamiento de las condiciones meteorológicas adversas para el paso “John Gardner” en el Parque Nacional Torres del Paine. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la comuna de Torres del Paine por evento meteorológico , que se mantuvo vigente desde el",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-20T15:08:04.044-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-evento-meteorologico-2026-09-09-10-22-11",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "fd514dc5e08f",
