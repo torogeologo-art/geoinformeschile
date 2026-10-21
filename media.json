@@ -1,24 +1,31 @@
 {
- "generado": "2026-10-21T01:00:57+00:00",
- "desde": "2026-10-19T01:00:54Z",
+ "generado": "2026-10-21T04:54:52+00:00",
+ "desde": "2026-10-19T04:54:50Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "0x3UL-7pX0s",
+     "url": "https://www.youtube.com/watch?v=0x3UL-7pX0s",
+     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
+     "canal": "La Serena Drone",
+     "publicado": "2026-10-20T21:32:07Z",
+     "live": true,
+     "score": -2.61,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "biobio": {
    "comuna": "Biobío",
    "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
-    {
-     "id": "cC_CEbGZAQk",
-     "url": "https://www.youtube.com/watch?v=cC_CEbGZAQk",
-     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
-     "canal": "Canal 9 BiobioTV",
-     "publicado": "2026-10-20T16:45:44Z",
-     "live": true,
-     "score": 7.31,
-     "verificado": false,
-     "embeddable": true
-    },
     {
      "id": "abqn72a1YCc",
      "url": "https://www.youtube.com/watch?v=abqn72a1YCc",
@@ -26,47 +33,7 @@
      "canal": "Tu Deporte Radio",
      "publicado": "2026-10-20T15:40:45Z",
      "live": true,
-     "score": 7.22,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "gInfp43562Y",
-     "url": "https://www.youtube.com/watch?v=gInfp43562Y",
-     "titulo": "EN VIVO | Alerta por intensas lluvias en el país - MEGANOTICIAS AHORA",
-     "canal": "Meganoticias",
-     "publicado": "2026-10-20T18:16:38Z",
-     "live": true,
-     "score": 4.44,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "metropolitana de santiago": {
-   "comuna": "Metropolitana de Santiago",
-   "region": "Metropolitana de Santiago",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "DxAwKCWCoyU",
-     "url": "https://www.youtube.com/watch?v=DxAwKCWCoyU",
-     "titulo": "🔴 ALERTA POR FUERTES LLUVIAS en Chile - EN VIVO | CHV Noticias: Martes 20 de octubre de 2026",
-     "canal": "CHV Noticias",
-     "publicado": "2026-10-20T13:22:25Z",
-     "live": true,
-     "score": 4.03,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "wNMJ8rUc1bE",
-     "url": "https://www.youtube.com/watch?v=wNMJ8rUc1bE",
-     "titulo": "EN VIVO | Lluvias relacionadas con El Niño azotan Santiago de Chile | EL PAÍS",
-     "canal": "EL PAÍS",
-     "publicado": "2026-10-20T15:12:30Z",
-     "live": true,
-     "score": 0.18,
+     "score": 6.9,
      "verificado": false,
      "embeddable": true
     }

@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-21T00:10:01+00:00",
+ "generado": "2026-10-21T04:54:52+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "11-10-2026",
@@ -7,18 +7,18 @@
  },
  "totales": {
   "alertas": 112,
-  "sae": 1,
+  "sae": 2,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 89,
+   "ATP": 87,
    "AMARILLA": 17,
-   "ROJA": 6
+   "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    94
+    92
    ],
    [
     "nevadas",
@@ -33,15 +33,15 @@
     4
    ],
    [
-    "desborde",
-    2
-   ],
-   [
     "crecida de río",
-    2
+    3
    ],
    [
     "remoción en masa",
+    3
+   ],
+   [
+    "desborde",
     2
    ]
   ]
@@ -56,15 +56,6 @@
     "ts": "20-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "18-10",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
    },
    {
     "lugar": "Región de Coquimbo",
@@ -94,6 +85,15 @@
     "region_link": "valparaiso"
    },
    {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "18-10",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
+   },
+   {
     "lugar": "Región de Atacama",
     "region": "Atacama",
     "nivel": "AMARILLA",
@@ -103,15 +103,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "10-10",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
     "lugar": "Región de Ñuble",
     "region": "Ñuble",
     "nivel": "ATP",
@@ -119,6 +110,15 @@
     "ts": "11-10",
     "comuna_link": "",
     "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "11-10",
+    "comuna_link": "",
+    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de La Araucanía",
@@ -244,18 +244,16 @@
     "region_link": "los rios"
    }
   ],
-  "desborde": [
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "12-10",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   }
-  ],
   "crecida de río": [
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "21-10",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
    {
     "lugar": "Región de Metropolitana de Santiago",
     "region": "Metropolitana de Santiago",
@@ -275,25 +273,40 @@
     "ts": "18-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "20-10",
+    "comuna_link": "",
+    "region_link": "biobio"
+   }
+  ],
+  "desborde": [
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "12-10",
+    "comuna_link": "",
+    "region_link": "la araucania"
    }
   ]
  },
  "vigentes": {
-  "ROJA": 1,
-  "AMARILLA": 4,
+  "ROJA": 3,
+  "AMARILLA": 5,
   "ATP": 12,
   "regiones_roja": [
+   "Biobío",
+   "Coquimbo",
    "Metropolitana de Santiago"
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-10-10",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 2,
-   "sae": 0
-  },
   {
    "fecha": "2026-10-11",
    "ROJA": 0,
@@ -359,10 +372,17 @@
   },
   {
    "fecha": "2026-10-20",
-   "ROJA": 1,
+   "ROJA": 2,
    "AMARILLA": 2,
    "ATP": 9,
    "sae": 0
+  },
+  {
+   "fecha": "2026-10-21",
+   "ROJA": 1,
+   "AMARILLA": 0,
+   "ATP": 0,
+   "sae": 1
   }
  ],
  "escalamientos": [
@@ -400,24 +420,42 @@
    ]
   },
   {
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "region": "Libertador General Bernardo O'Higgins",
-   "sae": false,
-   "max": "AMARILLA",
+   "lugar": "Región de Coquimbo",
+   "region": "Coquimbo",
+   "sae": true,
+   "max": "ROJA",
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "10-10 21:33",
+     "ts": "11-10 12:41",
      "estado": "VIGENTE"
     },
     {
      "nivel": "AMARILLA",
-     "ts": "18-10 21:59",
+     "ts": "17-10 19:20",
      "estado": "VIGENTE"
     },
     {
+     "nivel": "ROJA",
+     "ts": "21-10 01:33",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Biobío",
+   "region": "Biobío",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
      "nivel": "ATP",
-     "ts": "19-10 21:51",
+     "ts": "13-10 16:32",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "20-10 21:43",
      "estado": "VIGENTE"
     }
    ]
@@ -469,25 +507,48 @@
    ]
   },
   {
-   "lugar": "Región de Coquimbo",
-   "region": "Coquimbo",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "region": "Libertador General Bernardo O'Higgins",
    "sae": false,
    "max": "AMARILLA",
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "11-10 12:41",
+     "ts": "11-10 20:41",
      "estado": "VIGENTE"
     },
     {
      "nivel": "AMARILLA",
-     "ts": "17-10 19:20",
+     "ts": "18-10 21:59",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-10 21:51",
      "estado": "VIGENTE"
     }
    ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "21-10 01:33",
+   "nivel": "ROJA",
+   "lugar": "Región de Coquimbo",
+   "tipo": "crecida de río",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1646"
+  },
+  {
+   "ts": "20-10 21:43",
+   "nivel": "ROJA",
+   "lugar": "Región de Biobío",
+   "tipo": "remoción en masa",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-arauco-por-remocion-en-masa-2026-10-20-21-44-09"
+  },
   {
    "ts": "20-10 17:32",
    "nivel": "ATP",
@@ -595,24 +656,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21"
-  },
-  {
-   "ts": "19-10 23:26",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Valparaíso",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-marga-marga-y-los-andes-y-las-comunas-de-catemu-putaendo-santa-maria-cabildo-petorca-la-ligua-quillota-y-la-calera-por-evento-meteorologico-2026-10-19-23-48-32"
-  },
-  {
-   "ts": "19-10 21:51",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
