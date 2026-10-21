@@ -1,21 +1,61 @@
 {
- "generado": "2026-10-21T15:04:52+00:00",
- "desde": "2026-10-19T15:04:50Z",
+ "generado": "2026-10-21T16:56:18+00:00",
+ "desde": "2026-10-19T16:56:16Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "MB_zUO4GI3E",
+     "url": "https://www.youtube.com/watch?v=MB_zUO4GI3E",
+     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-10-21T16:45:31Z",
+     "live": true,
+     "score": 7.99,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "yUNSO3XVH6U",
+     "url": "https://www.youtube.com/watch?v=yUNSO3XVH6U",
+     "titulo": "Tu Deporte Radio #854, 21 de octubre 2026 📱",
+     "canal": "Tu Deporte Radio",
+     "publicado": "2026-10-21T15:49:41Z",
+     "live": true,
+     "score": 7.91,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "p9IGIVQv6m4",
+     "url": "https://www.youtube.com/watch?v=p9IGIVQv6m4",
+     "titulo": "Tu Deporte Radio #854, 21 de octubre 2026",
+     "canal": "Tu Deporte Radio",
+     "publicado": "2026-10-21T15:49:40Z",
+     "live": true,
+     "score": 7.91,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "coquimbo": {
    "comuna": "Coquimbo",
    "region": "Coquimbo",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "mdosV55h_Ao",
-     "url": "https://www.youtube.com/watch?v=mdosV55h_Ao",
-     "titulo": "🟡 EN VIVO 🟡 | Coquimbo Unido x D. Iquique | SUB 14 |  Fútbol Formativo",
+     "id": "-VLhR9JsHTA",
+     "url": "https://www.youtube.com/watch?v=-VLhR9JsHTA",
+     "titulo": "🟡 EN VIVO 🟡 | Coquimbo Unido x D. Iquique | SUB 13 |  Fútbol Formativo",
      "canal": "Coquimbo Unido",
-     "publicado": "2026-10-21T12:28:02Z",
+     "publicado": "2026-10-21T12:28:48Z",
      "live": true,
-     "score": 7.78,
+     "score": 7.63,
      "verificado": false,
      "embeddable": true
     }

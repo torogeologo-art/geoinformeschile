@@ -1,13 +1,27 @@
 {
- "generado": "2026-10-21T15:04:48+00:00",
+ "generado": "2026-10-21T16:56:15+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 20,
+ "total_vigentes": 19,
  "alertas": [
+  {
+   "id": "60a9d0bcb503",
+   "nivel": "ROJA",
+   "tipo": "remoción en masa",
+   "titulo": "Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, respecto de la alta exposición y vulnerabilidad de la comunidad del sector de Villa El Mirador, en la comuna de Arauco, se informa que, la situación actual representa una amenaza para las viviendas, debido a la posibilidad de que una remoción en masa se desplace hacia dicho sector. Cabe destacar que, el día de ayer 20 de octubre de 2026, tras una mesa técnica realizada entre la Delegación Presidencial Regional, SENAPRED, SERNAGEOMIN, municipalidad, SEREMI MINVU y otras instituciones, SERNAGEOMIN emitió u",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-21T13:40:19.1919-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-arauco-por-remocion-en-masa-2026-10-20-21-44-09",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "f2385f22735c",
    "nivel": "ATP",
@@ -190,20 +204,6 @@
    "origen": "senapred_web",
    "regiones_extra": [],
    "sae": true
-  },
-  {
-   "id": "5808aa9fc85f",
-   "nivel": "ROJA",
-   "tipo": "remoción en masa",
-   "titulo": "Se declara Alerta Roja para la comuna de Arauco por remoción en masa",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, y en base a los antecedentes técnicos proporcionados por SERNAGEOMIN y la Dirección Meteorológica de Chile (DMC), durante los próximos días se esperan precipitaciones normales a moderadas en la comuna de Arauco, lo que constituye una condición de alta exposición y vulnerabilidad de la comunidad del sector de Villa El Mirador ante remociones en masa. Cabe mencionar, que dicha condición se ve intensificada debido a la existencia del actual proceso de remoción en masa en la zona, cuyas condiciones podrían v",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-20T21:43:28.2828-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-arauco-por-remocion-en-masa-2026-10-20-21-44-09",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "4ecc13d7dac9",
@@ -453,7 +453,7 @@
    "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543-3 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. 14-10 17-10 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva por viento para la Provincia de Parinacota y la comuna de Cama",
    "region": "Arica y Parinacota",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-10-14T13:30:16.1616-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-09-17-56-03",
    "origen": "senapred_web",
