@@ -1,12 +1,12 @@
 {
- "generado": "2026-10-21T00:09:42+00:00",
+ "generado": "2026-10-21T01:00:53+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 18,
  "alertas": [
   {
    "id": "b9f558c0a68a",
@@ -22,6 +22,20 @@
    "origen": "senapred_web",
    "regiones_extra": [],
    "sae": true
+  },
+  {
+   "id": "5808aa9fc85f",
+   "nivel": "ROJA",
+   "tipo": "remoción en masa",
+   "titulo": "Se declara Alerta Roja para la comuna de Arauco por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, y en base a los antecedentes técnicos proporcionados por SERNAGEOMIN y la Dirección Meteorológica de Chile (DMC), durante los próximos días se esperan precipitaciones normales a moderadas en la comuna de Arauco, lo que constituye una condición de alta exposición y vulnerabilidad de la comunidad del sector de Villa El Mirador ante remociones en masa. Cabe mencionar, que dicha condición se ve intensificada debido a la existencia del actual proceso de remoción en masa en la zona, cuyas condiciones podrían v",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-20T21:43:28.2828-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-arauco-por-remocion-en-masa-2026-10-20-21-44-09",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "f9df53cd1862",
