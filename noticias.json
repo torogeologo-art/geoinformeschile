@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-21T15:04:49+00:00",
+ "generado": "2026-10-21T19:19:42+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -4431,6 +4431,27 @@
    "comuna": "Talagante",
    "noticias": [
     {
+     "titulo": "Alerta Roja por lluvias intensas deja evacuaciones en Talagante y cortes viales en Puente Alto - Publimetro",
+     "medio": "Publimetro",
+     "fecha": "2026-10-21T14:58:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPT2FjUXBSR2ZLM3c0QzZuY1BzREdlMm5pOEMwTUlKdlJ4aXotS3hSSnJoOVJVbmVkRjJrYzg3NjY1dm5NU1NUclp6a0dDQ24xX1FDWEY4dk93d0JwdGwzblJKZnpvMHhLVGxZS1QtZHl3d2tuZjJfX3JaNmhmRUYyRWphTWFVV1RHQUltVFZZbWxEYUNCcVJLbDhaQVRPWW1UdC1yZ0wzd1hCQmxXalZiVVlyTmdBVGNrczBMU3pRZjIyaTNmMlVOWS1pclZRSnpsdGlxWFViQnA?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Las imágenes de Puente Alto, Peñalolén y Talagante ante alerta roja por sistema frontal en la RM - Página 7",
+     "medio": "Página 7",
+     "fecha": "2026-10-21T11:28:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVThWZ3EwVWxDNzlmeDlXTEpKeC1EQWU0MUVKQUhvZG4yT29OeFRsT3FpWkpMMWt2QkM3YmxkX2sydEg4d2pmQ2RsYndsbGtZTUJobEFVQUpMTEJmeGNmVDhtVGx2dlNJbnZNcHJKdW80SEFBM0FDX0NWdTZBd1dVNFNpYVZhaUhQWXNVU3ljQXp5NWdYdngxSk5FYlFxa1hPaGxxZmR4N0RHMl9aTVBMRTJkUXQxVklzWW8tUFRJTl9fdGhxWG10X0lZdUU0QUHSAc8BQVVfeXFMUFU4VmdxMFVsQzc5Zng5V0xKSngtREFlNDFFSkFIb2RuMk9vTnhUbE9xaVpKTDFrdkJDN2JsZF9rMnRIOHdqZkNkbGJ3bGxrWU1CaGxBVUFKTExCZnhjZlQ4bVRsdnZTSW52TXBySnVvNEhBQTNBQ19DVnU2QXdXVTRTaWFWYWlIUFlzVVN5Y0F6eTVnWHZ4MUpORWJRcWtYT2hscWZkeDdERzJfWk1QTEUyZFF0MVZJc1lvLVBUSU5fX3RocVhtdF9JWXVFNEFB?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta Roja en la RM: Puente Alto, Peñalolén y Talagante concentran complicaciones ante lluvias - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2026-10-21T10:22:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWUx6SDF0Y0duS1NwQVg5UFduNUxvZmRSS2NvRWlTUU5NWXVDLWhMLXBtVkNKSVoxOV81cm9uSzdxQUEzQVNZYTQ5TVo4Y2JROURLMVRoMEdXc2Y2TUZxcVhtNmxtR0lxdmdYeGYxOWJIRWtDOWVuc1pMQ1BFUnFqd2lRNFMxRGd5QW9MWTBETmNXSXpvWENaX0tWazhEXzFhWVA1YS1VbFNRYlJjRGFvN1I4VDZqRXBmRjRnZHhla2M1X1BCZ3g3U09Rb3g4aDBaOHlXaXd1V2xxYllVOGlrV0hUU0d3UTZYdV9DTlNGLU5XSGhLMERpekg1RWNMWDB1N3RPckgxRQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Desborde del Mapocho obliga a evacuar en Talagante: temporal deja 111 albergados en el país - El Mostrador",
      "medio": "El Mostrador",
      "fecha": "2026-10-21T00:56:16+00:00",
@@ -4459,6 +4480,13 @@
      "sector": null
     },
     {
+     "titulo": "Desborde del Mapocho obliga a evacuar en Talagante: temporal deja 111 albergados en el país - El Mostrador",
+     "medio": "El Mostrador",
+     "fecha": "2026-10-20T22:38:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWEJpOXpJQkREaXk5VXNkS25HdFNXN1Uxdl9keWdrMkdHaXZtNzVmUnZ3Y1Myc1VqV0pVVWZLTFlGLXpVbmhYMVk4dHJCOFl3WUx6RzU0U3hoeUNuU2RqUXFrblMyLTRmQTR6bWhPREctOE9VbGFYcW13NDBBanAzZmpMUGlYSS01RFQ5VmpCdjZfY3FCbkVuZVBhQlBhZndDaVpsZUR3X0tNZFFsSm53QkpqdnJuN0hTMGRTU2xKbUZqdVdxaThDR2RQZHBZM2UyajZz?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred activa alerta SAE por desborde del río Mapocho y analizan evacuar campamento en Talagante - La Región Hoy",
      "medio": "La Región Hoy",
      "fecha": "2026-10-20T22:37:16+00:00",
@@ -4470,34 +4498,6 @@
      "medio": "Canal 9 Bío Bío Televisión",
      "fecha": "2026-10-20T22:36:25+00:00",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTDZUSExnY2Yzb2Q4QjJCZVpGTXplMGx3aHNMOXd3MVNRSDlubnBmV3VFWENqTk8tNjR2UHJIZHdqVVgwZ0EzVDJoQVZVZENCZjFCamw3M0JlV1g3cW9DYlhCNGJENnF6UDRLbFAzV3FleVpIc0RCOGt5RXpTbXFaZlIwcVlyUW0zOXRwY21LNnpFWWw3MjhIYmFPUlRnVTYyaS1CY0xtc3BGNFZKMnFQYVhHQ2Zvb2VlYkh1ajJiQ1luVU9TNkpmamMxQk1OQXJyWWhrdXJR?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred ordena evacuación de campamento en Talagante por desborde del Mapocho - laconexion.cl",
-     "medio": "laconexion.cl",
-     "fecha": "2026-10-20T22:35:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZDFyUXBvREo5VEhCSE9pdWVxRmFiZ2xRZk9CeVFpb1Z3UUxtREstNktka2h1Tk5qc1Baamw4VkFxdkVJa1dVY0JkZktHRTZQMEcyMUF2ZHQtM29oMXMwakFLOTRjc2JmVlExMHBuYVd4TmYxZ2RnNjA3VmFOUnA3THlyME9LZldlTm1JcHZWeHpORVdtbjAwVVA5TUh4YnlfbEtN?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred ordena evacuar campamento de Talagante por desborde del río Mapocho - SoyChile.cl",
-     "medio": "SoyChile.cl",
-     "fecha": "2026-10-20T22:28:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMjVocmZCUTk2aGFKNW1pdVpsamNqTjJDRjVLVklUbkZvOUJYdmtiWS05ZjJPOUs3SzQtSHhleEtWVHp1YXBnSW9ycjJoZ2plYV9JaFBja1ZZb1J5U2JuTnE3dkNxWk5aN1YyV2xFNDEzTkMta0N0LTAyOG43U1lHb2FkOEs0eHd6QTEyQzUyMEdaT2d4?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred solicita evacuar campamento en Talagante por desborde del río Mapocho - Radio Agricultura",
-     "medio": "Radio Agricultura",
-     "fecha": "2026-10-20T22:17:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOEpVM2loUVMwQ21aeE9LaWNEXzJNYkhfdTZQZExhbFA2VV84d0pNREtUUG01MkNVTkd1clJUS0ZzSG9mbzQtckhOMFNDeG5wNWlGU1hfbWtHUFRWWGRrS0NueUxybDY1bmJuczRCcVVaSDM2NjdvbzJMa0puNXRtSWduX0syc2FUM3pRelRSUkxST01qREtUSlJfVUpyZ014R01kYWZ0TktjVXNIa0ktN1gxakdLQ2gyLU9GSnYzMlFuOXd6SVAyekhYaHIxWThzY0RiQg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Solicitan evacuar el campamento Ribera del Río en Talagante ante desborde del río Mapocho - Puranoticia.cl",
-     "medio": "Puranoticia.cl",
-     "fecha": "2026-10-20T22:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZG0wR1drd29qOWNqNFRlaUlBXzRoMVh5aTM5OHdUS1Z6ajEwRTBocmJDQWp5dkRSLVhiMEJWMGZVZ2gwWmFMSVRkaEZLY1hab2pIcGZMWjh1bzJKTE1qblpjTUFLR3F3Zm94SHJMaTJMcHhRUzNZQ3pWOFZWRUdBdlpiVzlzOG5TWDFKdXd0TVhlQzd3aVJWcjFZUFhMY1lLYk5WeUVRam9nVFo1S0E?oc=5",
      "sector": null
     }
    ]
