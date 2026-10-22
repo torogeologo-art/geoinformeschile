@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-22T16:03:41+00:00",
+ "generado": "2026-10-22T17:59:34+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,48 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "a22f230cdc8c",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A573 Probables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera y cordillera. 22-10 22-10 Abrir aquí Aviso A575-1 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en valle. 22-10 22-10 Abrir aquí Adicionalmente, se informa que se han cancelado",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-22T14:12:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-18-17-07-54",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "9ca9a0ed9594",
+   "nivel": "ROJA",
+   "tipo": "remoción en masa",
+   "titulo": "Se cancela Alerta Roja comunal y se declara Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A561-7 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. 22-10 23-10 Abrir aquí Aviso A564-4 Viento normal a moderado en cordillera de la costa y cordillera. 20-10 23-10 Abrir aquí Adicionalmente, se informa que se ha cancelado el siguiente alertamiento meteorológico, debido al debilitamiento de las condicion",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-22T14:07:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "249230cf5b86",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA188 Precipitaciones moderadas a fuertes en corto periodo de tiempo en valle y precordillera. 22-10 22-10 Abrir Aquí Aviso A575-1 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en litoral, cordillera de la costa y valle. 22-10 22-10 Abrir Aquí Aviso A561-7 Probables tormen",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-22T13:01:00.000-03:00",
+   "url": "https://senapred.cl/alerta/monitoreo-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-22-13-14-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "c16319e19147",
    "nivel": "AMARILLA",
@@ -75,20 +117,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-21T18:22:37.3737-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-10-18-16-21-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "bcea4a279d81",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A569-2 Probables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera, cordillera, Chiloé, litoral interior y cordillera austral. 20-10 21-10 Abrir aquí Aviso A571-1 Probable desarrollo de nubes convectivas con características&nbsp; tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en valle, precordillera y Chiloé.",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-21T17:56:32.3232-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-18-17-07-54",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -288,20 +316,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-19T21:15:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "c96893c78b73",
-   "nivel": "ROJA",
-   "tipo": "remoción en masa",
-   "titulo": "Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
-   "descripcion": "De acuerdo con la información proporcionada la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, valles y precordillera de la región. 20-10 20-10 Abrir aquí Aviso A561-3 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. 19-10 22-10 Abrir aquí Aviso A564-2 Viento normal a moderado en cordillera. 20-10 23-10",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-19T19:11:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04",
    "origen": "senapred_web",
    "regiones_extra": []
   },
