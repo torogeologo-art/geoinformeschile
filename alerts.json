@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-22T21:28:16+00:00",
+ "generado": "2026-10-22T23:25:49+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 21,
  "alertas": [
+  {
+   "id": "fea1e25d851a",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA189 Tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales 22-10 22-10 Abrir aquí Alerta AA188 Precipitaciones moderadas a fuertes en corto período de tiempo en litoral y cordillera de la costa. 22-10 22-10 Abrir aquí Aviso A561-7 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en litor",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-22T19:00:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "e52162d74745",
    "nivel": "ATP",
@@ -69,16 +83,16 @@
    ]
   },
   {
-   "id": "fea1e25d851a",
+   "id": "4638939be82e",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA188 Precipitaciones moderadas a fuertes en corto período de tiempo en litoral y cordillera de la costa. 22-10 22-10 Abrir aquí Aviso A561-7 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 22-10 23-10 Abrir aquí Aviso A574 Precipitaciones normales",
-   "region": "Maule",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A561-7 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera. 22-10 23-10 Abrir aquí Aviso A564-4 Viento normal a moderado en litoral, cordillera de la costa, precordillera, valles precordilleranos y cordillera. 20-10 23-10 Abrir aquí",
+   "region": "Valparaíso",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-10-22T14:49:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21",
+   "ts": "2026-10-22T16:04:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -205,20 +219,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-21T13:40:19.1919-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-arauco-por-remocion-en-masa-2026-10-20-21-44-09",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "f2385f22735c",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A561-5 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en precordillera, valles precordilleranos y cordillera. 21-10 22-10 Abrir aquí Aviso A564-4 Viento normal a moderado en litoral, cordillera de la costa, precordillera, valles precordilleranos y cordillera. 20-10 23-10 Abrir aquí Asimismo, han sido cancelados los",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-21T11:43:15.1515-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14",
    "origen": "senapred_web",
    "regiones_extra": []
   },

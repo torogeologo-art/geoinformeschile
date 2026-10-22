@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-22T21:28:19+00:00",
- "desde": "2026-10-20T21:28:17Z",
+ "generado": "2026-10-22T23:26:09+00:00",
+ "desde": "2026-10-20T23:26:07Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -9,13 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "2TGgR1-1y7Q",
+     "url": "https://www.youtube.com/watch?v=2TGgR1-1y7Q",
+     "titulo": "🔴 En vivo | Radiograma Vespertino - Hoy en La Radio",
+     "canal": "Bio Bio",
+     "publicado": "2026-10-22T23:00:08Z",
+     "live": true,
+     "score": 7.96,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "kdJcvBiIviQ",
      "url": "https://www.youtube.com/watch?v=kdJcvBiIviQ",
      "titulo": "Tu Deporte Radio #855, 22 de octubre 2026 📱",
      "canal": "Tu Deporte Radio",
      "publicado": "2026-10-22T15:56:57Z",
      "live": true,
-     "score": 7.54,
+     "score": 7.38,
      "verificado": false,
      "embeddable": true
     },
@@ -26,18 +37,7 @@
      "canal": "Tu Deporte Radio",
      "publicado": "2026-10-22T15:56:57Z",
      "live": true,
-     "score": 7.54,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "YVNJCu19IHI",
-     "url": "https://www.youtube.com/watch?v=YVNJCu19IHI",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-10-22T17:51:04Z",
-     "live": true,
-     "score": -2.3,
+     "score": 7.38,
      "verificado": false,
      "embeddable": true
     }
@@ -55,7 +55,7 @@
      "canal": "Radio Riquelme",
      "publicado": "2026-10-22T20:37:28Z",
      "live": true,
-     "score": 7.93,
+     "score": 7.77,
      "verificado": false,
      "embeddable": true
     },
@@ -66,7 +66,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-10-22T14:49:42Z",
      "live": true,
-     "score": -2.55,
+     "score": -2.72,
      "verificado": false,
      "embeddable": true
     }
