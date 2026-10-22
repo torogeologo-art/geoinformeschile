@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-22T17:59:36+00:00",
- "desde": "2026-10-20T17:59:34Z",
+ "generado": "2026-10-22T20:10:30+00:00",
+ "desde": "2026-10-20T20:10:28Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -15,7 +15,7 @@
      "canal": "Tu Deporte Radio",
      "publicado": "2026-10-22T15:56:57Z",
      "live": true,
-     "score": 7.83,
+     "score": 7.65,
      "verificado": false,
      "embeddable": true
     },
@@ -26,18 +26,18 @@
      "canal": "Tu Deporte Radio",
      "publicado": "2026-10-22T15:56:57Z",
      "live": true,
-     "score": 7.83,
+     "score": 7.65,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "YVNJCu19IHI",
-     "url": "https://www.youtube.com/watch?v=YVNJCu19IHI",
+     "id": "OwZl9Orbqe4",
+     "url": "https://www.youtube.com/watch?v=OwZl9Orbqe4",
      "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
+     "canal": "SRGenial",
      "publicado": "2026-10-22T17:51:04Z",
      "live": true,
-     "score": -2.01,
+     "score": -2.19,
      "verificado": false,
      "embeddable": true
     }
@@ -55,7 +55,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-10-22T14:49:42Z",
      "live": true,
-     "score": -2.26,
+     "score": -2.45,
      "verificado": false,
      "embeddable": true
     }
