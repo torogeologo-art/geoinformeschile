@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-22T07:21:09+00:00",
- "desde": "2026-10-20T07:21:07Z",
+ "generado": "2026-10-22T11:39:45+00:00",
+ "desde": "2026-10-20T11:39:43Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -9,13 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "rnT3LMeFqF4",
-     "url": "https://www.youtube.com/watch?v=rnT3LMeFqF4",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-10-22T06:00:12Z",
+     "id": "tvFQT8kOefs",
+     "url": "https://www.youtube.com/watch?v=tvFQT8kOefs",
+     "titulo": "¡Vuelve ME-O a Turno! ¡Gonzalo ARENAS debuta como VOCERO disparando un misil a BORIC! | #TurnoAM",
+     "canal": "Turno",
+     "publicado": "2026-10-21T16:09:12Z",
      "live": true,
-     "score": -2.11,
+     "score": 3.37,
      "verificado": false,
      "embeddable": true
     },
@@ -26,25 +26,18 @@
      "canal": "Tele Genial",
      "publicado": "2026-10-22T06:00:11Z",
      "live": true,
-     "score": -2.11,
+     "score": -2.47,
      "verificado": false,
      "embeddable": true
-    }
-   ]
-  },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
+    },
     {
-     "id": "edt5Ix5g-iU",
-     "url": "https://www.youtube.com/watch?v=edt5Ix5g-iU",
-     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
-     "canal": "La Serena Drone",
-     "publicado": "2026-10-21T21:05:15Z",
+     "id": "rnT3LMeFqF4",
+     "url": "https://www.youtube.com/watch?v=rnT3LMeFqF4",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-10-22T06:00:12Z",
      "live": true,
-     "score": -2.86,
+     "score": -2.47,
      "verificado": false,
      "embeddable": true
     }

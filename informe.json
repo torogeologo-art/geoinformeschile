@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-22T05:58:43+00:00",
+ "generado": "2026-10-22T11:39:46+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "12-10-2026",
@@ -11,18 +11,14 @@
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 88,
    "AMARILLA": 18,
+   "ATP": 88,
    "ROJA": 9
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    94
-   ],
-   [
-    "nevadas",
-    4
+    95
    ],
    [
     "evento meteorológico",
@@ -35,6 +31,10 @@
    [
     "remoción en masa",
     4
+   ],
+   [
+    "nevadas",
+    3
    ],
    [
     "crecida de río",
@@ -112,6 +112,15 @@
     "region_link": "antofagasta"
    },
    {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "12-10",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
     "lugar": "Región de Los Ríos",
     "region": "Los Ríos",
     "nivel": "ATP",
@@ -164,26 +173,6 @@
     "ts": "14-10",
     "comuna_link": "",
     "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "16-10",
-    "comuna_link": "",
-    "region_link": "nuble"
-   }
-  ],
-  "nevadas": [
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "12-10",
-    "comuna_link": "",
-    "region_link": "nuble"
    }
   ],
   "evento meteorológico": [
@@ -262,6 +251,17 @@
     "ts": "20-10",
     "comuna_link": "",
     "region_link": "biobio"
+   }
+  ],
+  "nevadas": [
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "13-10",
+    "comuna_link": "",
+    "region_link": "nuble"
    }
   ],
   "crecida de río": [
