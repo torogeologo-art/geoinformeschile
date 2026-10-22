@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-22T05:58:43+00:00",
- "desde": "2026-10-20T05:58:41Z",
+ "generado": "2026-10-22T07:21:09+00:00",
+ "desde": "2026-10-20T07:21:07Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -9,13 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "p9IGIVQv6m4",
-     "url": "https://www.youtube.com/watch?v=p9IGIVQv6m4",
-     "titulo": "Tu Deporte Radio #854, 21 de octubre 2026",
-     "canal": "Tu Deporte Radio",
-     "publicado": "2026-10-21T15:49:40Z",
+     "id": "rnT3LMeFqF4",
+     "url": "https://www.youtube.com/watch?v=rnT3LMeFqF4",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-10-22T06:00:12Z",
      "live": true,
-     "score": 6.82,
+     "score": -2.11,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "b3GSG8BMtwg",
+     "url": "https://www.youtube.com/watch?v=b3GSG8BMtwg",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-10-22T06:00:11Z",
+     "live": true,
+     "score": -2.11,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +44,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-10-21T21:05:15Z",
      "live": true,
-     "score": -2.74,
+     "score": -2.86,
      "verificado": false,
      "embeddable": true
     }
