@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-22T01:54:28+00:00",
- "desde": "2026-10-20T01:54:26Z",
+ "generado": "2026-10-22T05:58:43+00:00",
+ "desde": "2026-10-20T05:58:41Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -15,7 +15,7 @@
      "canal": "Tu Deporte Radio",
      "publicado": "2026-10-21T15:49:40Z",
      "live": true,
-     "score": 7.16,
+     "score": 6.82,
      "verificado": false,
      "embeddable": true
     }
@@ -33,25 +33,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-10-21T21:05:15Z",
      "live": true,
-     "score": -2.4,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "metropolitana de santiago": {
-   "comuna": "Metropolitana de Santiago",
-   "region": "Metropolitana de Santiago",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "Uso9RfpvBdM",
-     "url": "https://www.youtube.com/watch?v=Uso9RfpvBdM",
-     "titulo": "Tobalaba con Ossa / Ñuñoa / Santiago de chile en vivo",
-     "canal": "Patricio Navarro",
-     "publicado": "2026-10-21T14:47:18Z",
-     "live": true,
-     "score": -3.93,
+     "score": -2.74,
      "verificado": false,
      "embeddable": true
     }
