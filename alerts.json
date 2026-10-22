@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-21T23:35:02+00:00",
+ "generado": "2026-10-22T00:56:47+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -875,7 +875,7 @@
    "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección General de Aguas (DGA) de Coquimbo, indica que las estaciones hidrométricas “ Estero Derecho en Alcohuaz” y “ Río Cochiguaz en el Peñón” , en las comunas de Paihuano y Vicuña; y la estación hidrométrica “ Río Elqui en Algarrobal” en la comuna de Vicuña han mantenido el umbral de alerta azul. Por otra parte, existe la probabilidad de que continúen registrándose incrementos de caudal y desbordes puntuales, por lo que, se hace necesario reforzar el monitoreo preventivo de los cauces, riberas, sectores habitados e infraestructura empl",
    "region": "Coquimbo",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-10-02T16:41:04.044-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21",
    "origen": "senapred_web",
@@ -1490,50 +1490,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-22T10:19:00.000-03:00",
    "url": "https://senapred.cl/alerta/declara-alerta-temprana-preventiva-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-evento-meteorologico-2026-09-17-19-13-08",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e541a982b08c",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC ), se ha cancelado el siguiente alertamiento meteorológico para la Región de Los Ríos, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A483-4 Viento normal a moderado en el litoral. Asimismo, el Centro Meteorológico Marítimo de Talcahuano ha cancelado su Aviso Especial por la probable ocurrencia de nubes convectivas factibles de generar trombas marinas en el sector oceánico y costero de la región. En consideración a estos antecedentes y en coordin",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-21T19:57:54.5454-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-09-19-21-21-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "4465fe2b92b4",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se ha cancelado el siguiente alertamiento meteorológico para la Región de Arica y Parinacota, debido al debilitamiento de las condiciones que los originaron: Alertamiento Pronóstico Aviso A489 Viento normal a moderado con probabilidad de ventisca en cordillera. Por otra parte, las acciones de respuesta asociadas a la Fase de Recuperación en las comunas afectadas se mantienen en curso, diversas instancias sectoriales se mantienen vigentes para el restablecimiento en forma segura de sus habitantes. En con",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-21T11:01:45.4545-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
-  },
-  {
-   "id": "d9d325bf6d43",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las comuna de Combarbalá, Illapel, La Higuera, Monte Patria, Paihuano, Río Hurtado, Salamanca y Vicuña por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Coquimbo, debido al debilitamiento de las condiciones que lo originaron. Alertamiento Pronóstico Alerta AA465-2 Viento moderado a fuerte en cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para las comunas de Combarbalá, Illapel, La Higuera, Monte Patria, Paihuano, Río Hurtado, Salamanca",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-21T01:43:33.3333-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-09-17-18-59-54",
    "origen": "senapred_web",
    "regiones_extra": []
   },

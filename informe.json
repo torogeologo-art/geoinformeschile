@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-21T22:37:57+00:00",
+ "generado": "2026-10-22T00:56:52+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "11-10-2026",
-  "hasta": "21-10-2026"
+  "desde": "12-10-2026",
+  "hasta": "22-10-2026"
  },
  "totales": {
-  "alertas": 117,
+  "alertas": 116,
   "sae": 2,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 90,
+   "ATP": 89,
    "AMARILLA": 18,
    "ROJA": 9
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    95
+    94
    ],
    [
     "nevadas",
@@ -58,15 +58,6 @@
     "region_link": "metropolitana de santiago"
    },
    {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "18-10",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
     "lugar": "Región de Atacama",
     "region": "Atacama",
     "nivel": "AMARILLA",
@@ -101,6 +92,15 @@
     "ts": "13-10",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "18-10",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
    },
    {
     "lugar": "Región de Antofagasta",
@@ -311,7 +311,7 @@
    "fecha": "2026-10-11",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 2,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -483,7 +483,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "11-10 20:41",
+     "ts": "13-10 17:55",
      "estado": "VIGENTE"
     },
     {
