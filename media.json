@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-23T17:49:29+00:00",
- "desde": "2026-10-21T17:49:27Z",
+ "generado": "2026-10-23T18:58:34+00:00",
+ "desde": "2026-10-21T18:58:32Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -15,7 +15,7 @@
      "canal": "Tu Deporte Radio",
      "publicado": "2026-10-23T15:21:27Z",
      "live": true,
-     "score": 7.79,
+     "score": 7.7,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "SRGenial",
      "publicado": "2026-10-22T17:51:04Z",
      "live": true,
-     "score": -4.0,
+     "score": -4.09,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +37,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-10-22T17:51:04Z",
      "live": true,
-     "score": -4.0,
+     "score": -4.09,
      "verificado": false,
      "embeddable": true
     }
@@ -55,7 +55,7 @@
      "canal": "Radio Riquelme",
      "publicado": "2026-10-22T20:37:28Z",
      "live": true,
-     "score": 6.23,
+     "score": 6.14,
      "verificado": false,
      "embeddable": true
     },
@@ -66,7 +66,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-10-22T14:49:42Z",
      "live": true,
-     "score": -4.25,
+     "score": -4.35,
      "verificado": false,
      "embeddable": true
     }

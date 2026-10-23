@@ -1,12 +1,12 @@
 {
- "generado": "2026-10-23T17:49:08+00:00",
+ "generado": "2026-10-23T18:58:31+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 23,
+ "total_vigentes": 22,
  "alertas": [
   {
    "id": "40c037ae70b8",
@@ -430,7 +430,7 @@
    "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Ríos , y según los antecedentes entregados por SERNAGEOMIN, el 01 de octubre del 2026 se les solicitó un pronunciamiento técnico por un desplazamiento de tierra ocurrido en Caleta El Piojo en el sector de Niebla en la comuna de Valdivia, en donde se reporta que la remoción en masa la cual afectó un área de 200 m2, la que se desencadeno y reactivo producto de&nbsp; los evento meteorológicos que afectaron a la región en el mes de julio – Agosto y corresponde a deslizamientos de gravas, arenas y detritos genera",
    "region": "Los Ríos",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-10-16T14:58:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-corral-por-remocion-en-masa",
    "origen": "senapred_web",
