@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-23T07:18:36+00:00",
- "desde": "2026-10-21T07:18:34Z",
+ "generado": "2026-10-23T09:50:09+00:00",
+ "desde": "2026-10-21T09:50:07Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -9,24 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "OwZl9Orbqe4",
-     "url": "https://www.youtube.com/watch?v=OwZl9Orbqe4",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-10-22T17:51:04Z",
-     "live": true,
-     "score": -3.12,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "YVNJCu19IHI",
      "url": "https://www.youtube.com/watch?v=YVNJCu19IHI",
      "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
      "canal": "Tele Genial",
      "publicado": "2026-10-22T17:51:04Z",
      "live": true,
-     "score": -3.12,
+     "score": -3.33,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "OwZl9Orbqe4",
+     "url": "https://www.youtube.com/watch?v=OwZl9Orbqe4",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-10-22T17:51:04Z",
+     "live": true,
+     "score": -3.33,
      "verificado": false,
      "embeddable": true
     }
@@ -44,7 +44,7 @@
      "canal": "Radio Riquelme",
      "publicado": "2026-10-22T20:37:28Z",
      "live": true,
-     "score": 7.11,
+     "score": 6.9,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +55,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-10-22T14:49:42Z",
      "live": true,
-     "score": -3.37,
+     "score": -3.58,
      "verificado": false,
      "embeddable": true
     }
