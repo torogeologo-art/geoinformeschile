@@ -1,13 +1,29 @@
 {
- "generado": "2026-10-23T21:59:52+00:00",
+ "generado": "2026-10-23T23:57:16+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 22,
+ "total_vigentes": 21,
  "alertas": [
+  {
+   "id": "f0eaf697d08f",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado el siguiente alertamiento meteorológico para la Región de Arica y Parinacota, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A577 Probables tormentas eléctricas asociadas con chubascos aislados en la cordillera de la región. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la Provincia",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-23T20:49:23.2323-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-09-17-56-03",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
   {
    "id": "17dec39934c0",
    "nivel": "ATP",
@@ -120,22 +136,6 @@
    "origen": "senapred_web",
    "regiones_extra": [
     "de la Antártica Chilena"
-   ]
-  },
-  {
-   "id": "e3979fcc0912",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica evento de Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones a evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A577 Probables tormentas eléctricas asociadas con chubascos aislados en la cordillera de la región. 23-10 23-10 Abrir aquí Adicionalmente, el Informe de Amenaza Meteorológica emitido por la Dirección Meteorológica de Chile (DMC), indica para el sector cordillerano de la región viento entre 40 y 60 km/h hasta el sábado 24 de octubre. En consideración a este an",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-22T16:21:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-09-17-56-03",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
    ]
   },
   {

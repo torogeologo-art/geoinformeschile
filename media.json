@@ -1,8 +1,26 @@
 {
- "generado": "2026-10-23T21:59:55+00:00",
- "desde": "2026-10-21T21:59:52Z",
+ "generado": "2026-10-23T23:57:36+00:00",
+ "desde": "2026-10-21T23:57:34Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "la araucania": {
+   "comuna": "La Araucanía",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "fDtX63v3_Wk",
+     "url": "https://www.youtube.com/watch?v=fDtX63v3_Wk",
+     "titulo": "¿Se desborda el río Rehue? Alerta en Angol por crecida",
+     "canal": "Pasó lo Siguiente",
+     "publicado": "2026-10-23T22:31:41Z",
+     "live": false,
+     "score": 5.88,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "biobio": {
    "comuna": "Biobío",
    "region": "Biobío",
@@ -15,7 +33,7 @@
      "canal": "Tu Deporte Radio",
      "publicado": "2026-10-23T15:21:27Z",
      "live": true,
-     "score": 7.45,
+     "score": 7.28,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +44,7 @@
      "canal": "SRGenial",
      "publicado": "2026-10-22T17:51:04Z",
      "live": true,
-     "score": -4.35,
+     "score": -4.51,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +55,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-10-22T17:51:04Z",
      "live": true,
-     "score": -4.35,
+     "score": -4.51,
      "verificado": false,
      "embeddable": true
     }
@@ -49,24 +67,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "HwNvJVkYW4Q",
-     "url": "https://www.youtube.com/watch?v=HwNvJVkYW4Q",
-     "titulo": "🟡 EN VIVO 🟡 | Coquimbo Unido x D. Antofagasta | SUB 13 |  Fútbol Formativo",
-     "canal": "Coquimbo Unido",
-     "publicado": "2026-10-23T12:32:06Z",
-     "live": true,
-     "score": 7.21,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "E8_Vws_Cqy0",
      "url": "https://www.youtube.com/watch?v=E8_Vws_Cqy0",
      "titulo": "🌧️ ¿Dónde está lloviendo en la Región de Coquimbo? | Cámaras EN VIVO + Clima AHORA",
      "canal": "Radio Riquelme",
      "publicado": "2026-10-22T20:37:28Z",
      "live": true,
-     "score": 5.89,
+     "score": 5.72,
      "verificado": false,
      "embeddable": true
     },
@@ -77,7 +84,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-10-22T14:49:42Z",
      "live": true,
-     "score": -4.6,
+     "score": -4.76,
      "verificado": false,
      "embeddable": true
     }
