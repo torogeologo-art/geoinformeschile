@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-22T23:25:49+00:00",
+ "generado": "2026-10-23T00:06:53+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -1491,34 +1491,6 @@
    "estado": "CANCELADA",
    "ts": "2026-09-23T15:23:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "810fc26d53d6",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Alerta AA166 Viento moderado a fuerte en Isla de Pascua. Alerta AA165-2 Viento moderado a fuerte en cordillera. Aviso A483-3 Viento normal a moderado en precordillera y valles precordilleranos y cordillera. Aviso A485 Precipitaciones normales a moderadas en Isla de Pascua. Aviso A490 Viento normal a moderado en Archipiélago Juan Fernández. Aviso A491 Precipitaciones normales a moderadas en corto periodo",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-22T16:05:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-09-17-19-17-59",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e20d4e4b9e54",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la región, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Alerta AA165-2 Viento normal a moderado con en cordillera. Aviso A483-3 Viento normal a moderado en precordillera y cordillera. Aviso A492-3 Probables tormentas eléctricas en precordillera y cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección R",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-22T10:19:00.000-03:00",
-   "url": "https://senapred.cl/alerta/declara-alerta-temprana-preventiva-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-evento-meteorologico-2026-09-17-19-13-08",
    "origen": "senapred_web",
    "regiones_extra": []
   },
