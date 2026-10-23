@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-23T01:49:36+00:00",
+ "generado": "2026-10-23T07:18:37+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "13-10-2026",
@@ -18,7 +18,7 @@
   "por_tipo": [
    [
     "tormentas eléctricas",
-    101
+    102
    ],
    [
     "crecida de río",
@@ -33,12 +33,12 @@
     4
    ],
    [
-    "nevadas",
+    "aluvión",
     3
    ],
    [
-    "aluvión",
-    3
+    "nevadas",
+    2
    ],
    [
     "desborde",
@@ -60,15 +60,6 @@
     "ts": "20-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "17-10",
-    "comuna_link": "",
-    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Valparaíso",
@@ -96,6 +87,15 @@
     "ts": "18-10",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "17-10",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -152,6 +152,15 @@
     "region_link": "atacama"
    },
    {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "13-10",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
     "region": "Magallanes y de la Antártica Chilena",
     "nivel": "ATP",
@@ -168,15 +177,6 @@
     "ts": "14-10",
     "comuna_link": "",
     "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "16-10",
-    "comuna_link": "",
-    "region_link": "nuble"
    }
   ],
   "crecida de río": [
@@ -257,17 +257,6 @@
     "region_link": "libertador general bernardo o'higgins"
    }
   ],
-  "nevadas": [
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "13-10",
-    "comuna_link": "",
-    "region_link": "nuble"
-   }
-  ],
   "aluvión": [
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -295,6 +284,17 @@
     "ts": "20-10",
     "comuna_link": "",
     "region_link": "los rios"
+   }
+  ],
+  "nevadas": [
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "14-10",
+    "comuna_link": "",
+    "region_link": "nuble"
    }
   ],
   "desborde": [
@@ -336,7 +336,7 @@
    "fecha": "2026-10-13",
    "ROJA": 1,
    "AMARILLA": 2,
-   "ATP": 13,
+   "ATP": 12,
    "sae": 1
   },
   {
@@ -406,7 +406,7 @@
    "fecha": "2026-10-23",
    "ROJA": 1,
    "AMARILLA": 0,
-   "ATP": 0,
+   "ATP": 1,
    "sae": 1
   }
  ],
@@ -485,7 +485,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "13-10 04:11",
+     "ts": "14-10 05:19",
      "estado": "VIGENTE"
     },
     {
@@ -610,6 +610,15 @@
  ],
  "cronologia": [
   {
+   "ts": "23-10 01:21",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-18-17-07-54"
+  },
+  {
    "ts": "22-10 22:12",
    "nivel": "AMARILLA",
    "lugar": "Región de La Araucanía",
@@ -725,15 +734,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/monitoreo-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-22-13-14-00"
-  },
-  {
-   "ts": "22-10 12:06",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
