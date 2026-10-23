@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-23T12:48:18+00:00",
+ "generado": "2026-10-23T14:47:46+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 23,
  "alertas": [
+  {
+   "id": "40c037ae70b8",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A580 Probables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera, cordillera, Chiloé, litoral interior y cordillera austral. 23-10 23-10 Abrir aquí &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Asimismo, se informa que se han cancelado los siguientes",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-23T09:11:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-10-18-16-21-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "fabbc63c8261",
    "nivel": "ATP",
@@ -163,20 +177,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-22T14:37:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-collipulli-curacautin-lonquimay-melipeuco-cunco-vilcun-pucon-villarrica-y-curarrehue-por-tormentas-electricas-2026-10-16-13-16-05",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "de3003a6614e",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A573 Probables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera, cordillera, Chiloé, litoral interior y cordillera austral. 22-10 22-10 Abrir aquí Aviso A575-1 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en valle. 22-10 22-10 Abrir aquí &nbsp;&",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-22T14:13:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-10-18-16-21-00",
    "origen": "senapred_web",
    "regiones_extra": []
   },

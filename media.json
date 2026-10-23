@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-23T12:48:23+00:00",
- "desde": "2026-10-21T12:48:20Z",
+ "generado": "2026-10-23T14:47:50+00:00",
+ "desde": "2026-10-21T14:47:47Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -15,7 +15,7 @@
      "canal": "SRGenial",
      "publicado": "2026-10-22T17:51:04Z",
      "live": true,
-     "score": -3.58,
+     "score": -3.75,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-10-22T17:51:04Z",
      "live": true,
-     "score": -3.58,
+     "score": -3.75,
      "verificado": false,
      "embeddable": true
     }
@@ -38,13 +38,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "Jw_8ArWRs3U",
+     "url": "https://www.youtube.com/watch?v=Jw_8ArWRs3U",
+     "titulo": "🟡 EN VIVO 🟡 | Coquimbo Unido x Huachipato | SUB 20 |  Fútbol Formativo",
+     "canal": "Coquimbo Unido",
+     "publicado": "2026-10-23T12:29:13Z",
+     "live": true,
+     "score": 7.81,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "E8_Vws_Cqy0",
      "url": "https://www.youtube.com/watch?v=E8_Vws_Cqy0",
      "titulo": "🌧️ ¿Dónde está lloviendo en la Región de Coquimbo? | Cámaras EN VIVO + Clima AHORA",
      "canal": "Radio Riquelme",
      "publicado": "2026-10-22T20:37:28Z",
      "live": true,
-     "score": 6.65,
+     "score": 6.49,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +66,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-10-22T14:49:42Z",
      "live": true,
-     "score": -3.83,
+     "score": -4.0,
      "verificado": false,
      "embeddable": true
     }
