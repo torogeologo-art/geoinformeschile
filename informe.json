@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-23T12:48:23+00:00",
+ "generado": "2026-10-23T17:49:30+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "13-10-2026",
@@ -18,7 +18,7 @@
   "por_tipo": [
    [
     "tormentas eléctricas",
-    102
+    103
    ],
    [
     "crecida de río",
@@ -33,11 +33,11 @@
     4
    ],
    [
-    "aluvión",
-    3
+    "nevadas",
+    2
    ],
    [
-    "nevadas",
+    "aluvión",
     2
    ],
    [
@@ -53,18 +53,9 @@
     "region": "Metropolitana de Santiago",
     "nivel": "ROJA",
     "sae": true,
-    "ts": "20-10",
+    "ts": "13-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "19-10",
-    "comuna_link": "",
-    "region_link": "valparaiso"
    },
    {
     "lugar": "Región de Maule",
@@ -92,6 +83,15 @@
     "ts": "17-10",
     "comuna_link": "",
     "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-10",
+    "comuna_link": "",
+    "region_link": "valparaiso"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -253,16 +253,18 @@
     "region_link": "libertador general bernardo o'higgins"
    }
   ],
-  "aluvión": [
+  "nevadas": [
    {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "13-10",
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "14-10",
     "comuna_link": "",
-    "region_link": "metropolitana de santiago"
-   },
+    "region_link": "nuble"
+   }
+  ],
+  "aluvión": [
    {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
@@ -280,17 +282,6 @@
     "ts": "20-10",
     "comuna_link": "",
     "region_link": "los rios"
-   }
-  ],
-  "nevadas": [
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "14-10",
-    "comuna_link": "",
-    "region_link": "nuble"
    }
   ],
   "viento": [
@@ -321,7 +312,7 @@
    "fecha": "2026-10-13",
    "ROJA": 1,
    "AMARILLA": 2,
-   "ATP": 11,
+   "ATP": 10,
    "sae": 1
   },
   {
@@ -391,44 +382,11 @@
    "fecha": "2026-10-23",
    "ROJA": 1,
    "AMARILLA": 0,
-   "ATP": 1,
+   "ATP": 2,
    "sae": 1
   }
  ],
  "escalamientos": [
-  {
-   "lugar": "Región de Metropolitana de Santiago",
-   "region": "Metropolitana de Santiago",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "19-10 19:11",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "20-10 08:38",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "20-10 14:10",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "22-10 11:46",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "22-10 14:07",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
   {
    "lugar": "Región de Biobío",
    "region": "Biobío",
@@ -459,6 +417,39 @@
      "nivel": "ATP",
      "ts": "22-10 11:22",
      "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Metropolitana de Santiago",
+   "region": "Metropolitana de Santiago",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ROJA",
+     "ts": "19-10 19:11",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "20-10 08:38",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "20-10 14:10",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "22-10 11:46",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "22-10 14:07",
+     "estado": "CANCELADA"
     }
    ]
   },
@@ -547,29 +538,6 @@
    ]
   },
   {
-   "lugar": "Región de Valparaíso",
-   "region": "Valparaíso",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "13-10 11:25",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "19-10 23:26",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "20-10 14:48",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Maule",
    "region": "Maule",
    "sae": false,
@@ -591,9 +559,41 @@
      "estado": "VIGENTE"
     }
    ]
+  },
+  {
+   "lugar": "Región de Valparaíso",
+   "region": "Valparaíso",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "14-10 20:52",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "19-10 23:26",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "20-10 14:48",
+     "estado": "VIGENTE"
+    }
+   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "23-10 09:11",
+   "nivel": "ATP",
+   "lugar": "Región de Los Lagos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-10-18-16-21-00"
+  },
   {
    "ts": "23-10 01:21",
    "nivel": "ATP",
@@ -710,15 +710,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04"
-  },
-  {
-   "ts": "22-10 13:01",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/monitoreo-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-22-13-14-00"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

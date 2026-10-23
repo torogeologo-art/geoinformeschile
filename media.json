@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-23T14:47:50+00:00",
- "desde": "2026-10-21T14:47:47Z",
+ "generado": "2026-10-23T17:49:29+00:00",
+ "desde": "2026-10-21T17:49:27Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -9,13 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "YUuN68_sG_c",
+     "url": "https://www.youtube.com/watch?v=YUuN68_sG_c",
+     "titulo": "Tu Deporte Radio #856, 23 de octubre 2026",
+     "canal": "Tu Deporte Radio",
+     "publicado": "2026-10-23T15:21:27Z",
+     "live": true,
+     "score": 7.79,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "OwZl9Orbqe4",
      "url": "https://www.youtube.com/watch?v=OwZl9Orbqe4",
      "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
      "canal": "SRGenial",
      "publicado": "2026-10-22T17:51:04Z",
      "live": true,
-     "score": -3.75,
+     "score": -4.0,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +37,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-10-22T17:51:04Z",
      "live": true,
-     "score": -3.75,
+     "score": -4.0,
      "verificado": false,
      "embeddable": true
     }
@@ -38,24 +49,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "Jw_8ArWRs3U",
-     "url": "https://www.youtube.com/watch?v=Jw_8ArWRs3U",
-     "titulo": "🟡 EN VIVO 🟡 | Coquimbo Unido x Huachipato | SUB 20 |  Fútbol Formativo",
-     "canal": "Coquimbo Unido",
-     "publicado": "2026-10-23T12:29:13Z",
-     "live": true,
-     "score": 7.81,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "E8_Vws_Cqy0",
      "url": "https://www.youtube.com/watch?v=E8_Vws_Cqy0",
      "titulo": "🌧️ ¿Dónde está lloviendo en la Región de Coquimbo? | Cámaras EN VIVO + Clima AHORA",
      "canal": "Radio Riquelme",
      "publicado": "2026-10-22T20:37:28Z",
      "live": true,
-     "score": 6.49,
+     "score": 6.23,
      "verificado": false,
      "embeddable": true
     },
@@ -66,7 +66,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-10-22T14:49:42Z",
      "live": true,
-     "score": -4.0,
+     "score": -4.25,
      "verificado": false,
      "embeddable": true
     }
