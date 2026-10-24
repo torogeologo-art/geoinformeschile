@@ -1,21 +1,21 @@
 {
- "generado": "2026-10-24T05:04:27+00:00",
- "desde": "2026-10-22T05:04:24Z",
+ "generado": "2026-10-24T09:03:21+00:00",
+ "desde": "2026-10-22T09:03:18Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
+  "la araucania": {
+   "comuna": "La Araucanía",
+   "region": "La Araucanía",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "YUuN68_sG_c",
-     "url": "https://www.youtube.com/watch?v=YUuN68_sG_c",
-     "titulo": "Tu Deporte Radio #856, 23 de octubre 2026",
-     "canal": "Tu Deporte Radio",
-     "publicado": "2026-10-23T15:21:27Z",
-     "live": true,
-     "score": 6.86,
+     "id": "fDtX63v3_Wk",
+     "url": "https://www.youtube.com/watch?v=fDtX63v3_Wk",
+     "titulo": "¿Se desborda el río Rehue? Alerta en Angol por crecida",
+     "canal": "Pasó lo Siguiente",
+     "publicado": "2026-10-23T22:31:41Z",
+     "live": false,
+     "score": 5.12,
      "verificado": false,
      "embeddable": true
     }

@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-24T04:24:04+00:00",
+ "generado": "2026-10-24T09:03:21+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "14-10-2026",
   "hasta": "24-10-2026"
  },
  "totales": {
-  "alertas": 112,
+  "alertas": 111,
   "sae": 3,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 85,
+   "ATP": 84,
    "AMARILLA": 18,
    "ROJA": 9
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    95
+    94
    ],
    [
     "crecida de río",
@@ -58,15 +58,6 @@
     "region_link": "metropolitana de santiago"
    },
    {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "17-10",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
     "lugar": "Región de Valparaíso",
     "region": "Valparaíso",
     "nivel": "AMARILLA",
@@ -83,6 +74,15 @@
     "ts": "15-10",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "17-10",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -303,7 +303,7 @@
    "fecha": "2026-10-14",
    "ROJA": 1,
    "AMARILLA": 1,
-   "ATP": 10,
+   "ATP": 9,
    "sae": 0
   },
   {
@@ -445,8 +445,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "14-10 05:19",
-     "estado": "VIGENTE"
+     "ts": "15-10 16:01",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "AMARILLA",
@@ -496,7 +496,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "14-10 05:43",
+     "ts": "14-10 09:39",
      "estado": "VIGENTE"
     },
     {
