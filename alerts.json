@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-23T23:57:16+00:00",
+ "generado": "2026-10-24T00:32:03+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -1507,20 +1507,6 @@
    "url": "https://t.me/SenapredChile/1588",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "8c7b99a196b4",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que los originaron han sido cancelados los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Aviso A487 Nevadas normales a moderadas en cordillera. Aviso A489 Viento normal a moderado en cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por evento meteorológico , que se mantuvo vig",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-23T15:23:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2026-09-14-17-05-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "fd514dc5e08f",

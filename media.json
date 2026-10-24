@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-23T23:57:36+00:00",
- "desde": "2026-10-21T23:57:34Z",
+ "generado": "2026-10-24T00:32:06+00:00",
+ "desde": "2026-10-22T00:32:03Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "la araucania": {
@@ -15,7 +15,7 @@
      "canal": "Pasó lo Siguiente",
      "publicado": "2026-10-23T22:31:41Z",
      "live": false,
-     "score": 5.88,
+     "score": 5.83,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +33,7 @@
      "canal": "Tu Deporte Radio",
      "publicado": "2026-10-23T15:21:27Z",
      "live": true,
-     "score": 7.28,
+     "score": 7.24,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +44,7 @@
      "canal": "SRGenial",
      "publicado": "2026-10-22T17:51:04Z",
      "live": true,
-     "score": -4.51,
+     "score": -4.56,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +55,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-10-22T17:51:04Z",
      "live": true,
-     "score": -4.51,
+     "score": -4.56,
      "verificado": false,
      "embeddable": true
     }
@@ -73,7 +73,7 @@
      "canal": "Radio Riquelme",
      "publicado": "2026-10-22T20:37:28Z",
      "live": true,
-     "score": 5.72,
+     "score": 5.67,
      "verificado": false,
      "embeddable": true
     },
@@ -84,7 +84,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-10-22T14:49:42Z",
      "live": true,
-     "score": -4.76,
+     "score": -4.81,
      "verificado": false,
      "embeddable": true
     }
