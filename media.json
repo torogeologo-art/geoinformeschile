@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-24T17:00:16+00:00",
- "desde": "2026-10-22T17:00:14Z",
+ "generado": "2026-10-24T19:22:22+00:00",
+ "desde": "2026-10-22T19:22:20Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "la araucania": {
@@ -15,7 +15,7 @@
      "canal": "Pasó lo Siguiente",
      "publicado": "2026-10-23T22:31:41Z",
      "live": false,
-     "score": 4.46,
+     "score": 4.26,
      "verificado": false,
      "embeddable": true
     }
@@ -27,24 +27,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "pXV-s0mSqKU",
-     "url": "https://www.youtube.com/watch?v=pXV-s0mSqKU",
-     "titulo": "Transmisión en vivo de Red de Humedales del Biobío",
-     "canal": "Red de Humedales del Biobío",
-     "publicado": "2026-10-24T13:55:15Z",
-     "live": true,
-     "score": 7.74,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "873o6a-bm-U",
      "url": "https://www.youtube.com/watch?v=873o6a-bm-U",
      "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
      "canal": "Tele Genial",
      "publicado": "2026-10-24T16:32:06Z",
      "live": true,
-     "score": -2.04,
+     "score": -2.24,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +44,7 @@
      "canal": "SRGenial",
      "publicado": "2026-10-24T16:32:06Z",
      "live": true,
-     "score": -2.04,
+     "score": -2.24,
      "verificado": false,
      "embeddable": true
     }
