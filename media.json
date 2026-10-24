@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-24T00:32:06+00:00",
- "desde": "2026-10-22T00:32:03Z",
+ "generado": "2026-10-24T04:24:04+00:00",
+ "desde": "2026-10-22T04:24:01Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "la araucania": {
@@ -15,7 +15,7 @@
      "canal": "Pasó lo Siguiente",
      "publicado": "2026-10-23T22:31:41Z",
      "live": false,
-     "score": 5.83,
+     "score": 5.51,
      "verificado": false,
      "embeddable": true
     }
@@ -33,29 +33,7 @@
      "canal": "Tu Deporte Radio",
      "publicado": "2026-10-23T15:21:27Z",
      "live": true,
-     "score": 7.24,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "OwZl9Orbqe4",
-     "url": "https://www.youtube.com/watch?v=OwZl9Orbqe4",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-10-22T17:51:04Z",
-     "live": true,
-     "score": -4.56,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "YVNJCu19IHI",
-     "url": "https://www.youtube.com/watch?v=YVNJCu19IHI",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-10-22T17:51:04Z",
-     "live": true,
-     "score": -4.56,
+     "score": 6.91,
      "verificado": false,
      "embeddable": true
     }
@@ -67,24 +45,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "E8_Vws_Cqy0",
-     "url": "https://www.youtube.com/watch?v=E8_Vws_Cqy0",
-     "titulo": "🌧️ ¿Dónde está lloviendo en la Región de Coquimbo? | Cámaras EN VIVO + Clima AHORA",
-     "canal": "Radio Riquelme",
-     "publicado": "2026-10-22T20:37:28Z",
-     "live": true,
-     "score": 5.67,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "-WURM2xspdc",
      "url": "https://www.youtube.com/watch?v=-WURM2xspdc",
      "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
      "canal": "La Serena Drone",
      "publicado": "2026-10-22T14:49:42Z",
      "live": true,
-     "score": -4.81,
+     "score": -5.0,
      "verificado": false,
      "embeddable": true
     }

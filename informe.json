@@ -1,19 +1,19 @@
 {
- "generado": "2026-10-23T23:57:37+00:00",
+ "generado": "2026-10-24T04:24:04+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "13-10-2026",
-  "hasta": "23-10-2026"
+  "desde": "14-10-2026",
+  "hasta": "24-10-2026"
  },
  "totales": {
-  "alertas": 113,
+  "alertas": 112,
   "sae": 3,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "AMARILLA": 19,
-   "ROJA": 9,
-   "ATP": 85
+   "ATP": 85,
+   "AMARILLA": 18,
+   "ROJA": 9
   },
   "por_tipo": [
    [
@@ -30,7 +30,7 @@
    ],
    [
     "evento meteorológico",
-    3
+    2
    ],
    [
     "nevadas",
@@ -53,18 +53,9 @@
     "region": "Metropolitana de Santiago",
     "nivel": "ROJA",
     "sae": true,
-    "ts": "20-10",
+    "ts": "14-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "13-10",
-    "comuna_link": "",
-    "region_link": "maule"
    },
    {
     "lugar": "Región de Coquimbo",
@@ -83,6 +74,15 @@
     "ts": "19-10",
     "comuna_link": "",
     "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "15-10",
+    "comuna_link": "",
+    "region_link": "maule"
    },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -226,15 +226,6 @@
   ],
   "evento meteorológico": [
    {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "14-10",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
-   },
-   {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
     "region": "Libertador General Bernardo O'Higgins",
     "nivel": "ATP",
@@ -308,13 +299,6 @@
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-10-13",
-   "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 0,
-   "sae": 0
-  },
   {
    "fecha": "2026-10-14",
    "ROJA": 1,
