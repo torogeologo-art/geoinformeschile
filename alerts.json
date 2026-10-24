@@ -1,13 +1,69 @@
 {
- "generado": "2026-10-24T13:36:58+00:00",
+ "generado": "2026-10-24T16:51:50+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 13,
  "alertas": [
+  {
+   "id": "bc129ea9be82",
+   "nivel": "AMARILLA",
+   "tipo": "remoción en masa",
+   "titulo": "Se cancela Alerta Amarilla y se declara Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada la Dirección Meteorológica de Chile (DMC), se han cancelado los siguientes alertamientos meteorológicos para la Región Metropolitana, debido al debilitamiento de las condiciones que los originaron: Alertamiento Pronóstico Aviso A561-7 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. Aviso A564-4 Viento normal a moderado en cordillera de la costa y cordillera. Adicionalmente, en su Informe de Amenaza Meteorológica de hoy, indica que las precipitaciones (mm/cm), viento (km/h) e Isoterma 0° (m.",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-24T12:29:54.5454-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "d72225dfa986",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se han cancelado los siguientes alertamientos meteorológicos para la Región de O’Higgins, debido al debilitamiento de las condiciones que lo originaron: Alertamiento Pronóstico Aviso A561-5 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. Aviso A564-4 Viento normal a moderado en litoral, cordillera de la costa, precordillera y cordillera. En consideración a estos antecedentes y en coordin",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-24T11:27:32.3232-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "c4610f3462cb",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la Región Metropolitana, debido al debilitamiento de las condiciones que los originaron: Alertamiento Pronóstico Aviso A561-7 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, valle, precordillera y cordillera. Aviso A564-4 Viento normal a moderado en cordillera de la costa y cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidenci",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-24T11:06:59.5959-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-16-19-50-34",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "5295717b41d3",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A561-7 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera. Aviso A564-4 Viento normal a moderado en litoral, cordillera de la costa, precordillera, valles precord",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-24T10:40:58.5858-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "a947bea6018a",
    "nivel": "ATP",
@@ -195,34 +251,6 @@
    ]
   },
   {
-   "id": "4638939be82e",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A561-7 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en litoral, cordillera de la costa, precordillera y valles precordilleranos y cordillera. 22-10 23-10 Abrir aquí Aviso A564-4 Viento normal a moderado en litoral, cordillera de la costa, precordillera, valles precordilleranos y cordillera. 20-10 23-10 Abrir aquí",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-22T16:04:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "272d7f4ed4cf",
-   "nivel": "ROJA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Roja regional y declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A561-7 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, valle, precordillera y cordillera. 22-10 23-10 Abrir aquí Aviso A564-4 Viento normal a moderado en cordillera de la costa y cordillera. 20-10 23-10 Abrir aquí Adicionalmente, se informa que se han cancelado los siguientes alertamientos met",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-22T14:45:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-16-19-50-34",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "b1a3e5fd5b5f",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
@@ -247,20 +275,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-21T13:40:19.1919-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-arauco-por-remocion-en-masa-2026-10-20-21-44-09",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "df4f64fffe26",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A561-5 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 21-10 22-10 Abrir aquí Aviso A564-4 Viento normal a moderado en litoral, cordillera de la costa, precordillera y cordillera. 20-10 23-10 Abrir aquí Adicionalmente, la DMC ha cancelado el sigu",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-21T11:30:56.5656-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40",
    "origen": "senapred_web",
    "regiones_extra": []
   },

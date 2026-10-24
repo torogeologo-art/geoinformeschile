@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-24T13:37:02+00:00",
- "desde": "2026-10-22T13:36:59Z",
+ "generado": "2026-10-24T16:52:12+00:00",
+ "desde": "2026-10-22T16:52:09Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "la araucania": {
@@ -9,42 +9,53 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "6Qa9PNn5Lrw",
-     "url": "https://www.youtube.com/watch?v=6Qa9PNn5Lrw",
-     "titulo": "🔴 EN VIVO | Rodeo Criollo Lagos del Sur – 1ª Serie Libre | Pitrufquén 2026",
-     "canal": "SURIMAGEN PRODUCCIONES",
-     "publicado": "2026-10-24T12:53:48Z",
-     "live": true,
-     "score": 0.94,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "fDtX63v3_Wk",
      "url": "https://www.youtube.com/watch?v=fDtX63v3_Wk",
      "titulo": "¿Se desborda el río Rehue? Alerta en Angol por crecida",
      "canal": "Pasó lo Siguiente",
      "publicado": "2026-10-23T22:31:41Z",
      "live": false,
-     "score": 4.74,
+     "score": 4.47,
      "verificado": false,
      "embeddable": true
     }
    ]
   },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "-WURM2xspdc",
-     "url": "https://www.youtube.com/watch?v=-WURM2xspdc",
-     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
-     "canal": "La Serena Drone",
-     "publicado": "2026-10-22T14:49:42Z",
+     "id": "pXV-s0mSqKU",
+     "url": "https://www.youtube.com/watch?v=pXV-s0mSqKU",
+     "titulo": "Transmisión en vivo de Red de Humedales del Biobío",
+     "canal": "Red de Humedales del Biobío",
+     "publicado": "2026-10-24T13:55:15Z",
      "live": true,
-     "score": -5.0,
+     "score": 7.75,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "873o6a-bm-U",
+     "url": "https://www.youtube.com/watch?v=873o6a-bm-U",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-10-24T16:32:06Z",
+     "live": true,
+     "score": -2.03,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "tPGD5NfrJS4",
+     "url": "https://www.youtube.com/watch?v=tPGD5NfrJS4",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-10-24T16:32:06Z",
+     "live": true,
+     "score": -2.03,
      "verificado": false,
      "embeddable": true
     }
