@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-24T16:52:12+00:00",
- "desde": "2026-10-22T16:52:09Z",
+ "generado": "2026-10-24T17:00:16+00:00",
+ "desde": "2026-10-22T17:00:14Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "la araucania": {
@@ -15,7 +15,7 @@
      "canal": "Pasó lo Siguiente",
      "publicado": "2026-10-23T22:31:41Z",
      "live": false,
-     "score": 4.47,
+     "score": 4.46,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +33,7 @@
      "canal": "Red de Humedales del Biobío",
      "publicado": "2026-10-24T13:55:15Z",
      "live": true,
-     "score": 7.75,
+     "score": 7.74,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +44,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-10-24T16:32:06Z",
      "live": true,
-     "score": -2.03,
+     "score": -2.04,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +55,7 @@
      "canal": "SRGenial",
      "publicado": "2026-10-24T16:32:06Z",
      "live": true,
-     "score": -2.03,
+     "score": -2.04,
      "verificado": false,
      "embeddable": true
     }
