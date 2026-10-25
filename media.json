@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-25T00:07:59+00:00",
- "desde": "2026-10-23T00:07:57Z",
+ "generado": "2026-10-25T00:10:06+00:00",
+ "desde": "2026-10-23T00:10:04Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "la araucania": {
@@ -15,36 +15,7 @@
      "canal": "Pasó lo Siguiente",
      "publicado": "2026-10-23T22:31:41Z",
      "live": false,
-     "score": 3.87,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "873o6a-bm-U",
-     "url": "https://www.youtube.com/watch?v=873o6a-bm-U",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-10-24T16:32:06Z",
-     "live": true,
-     "score": -2.63,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "tPGD5NfrJS4",
-     "url": "https://www.youtube.com/watch?v=tPGD5NfrJS4",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-10-24T16:32:06Z",
-     "live": true,
-     "score": -2.63,
+     "score": 3.86,
      "verificado": false,
      "embeddable": true
     }

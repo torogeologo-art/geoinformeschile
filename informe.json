@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-24T21:48:28+00:00",
+ "generado": "2026-10-25T00:10:06+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "14-10-2026",
-  "hasta": "24-10-2026"
+  "desde": "15-10-2026",
+  "hasta": "25-10-2026"
  },
  "totales": {
-  "alertas": 114,
+  "alertas": 112,
   "sae": 3,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 88,
    "AMARILLA": 18,
+   "ATP": 86,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    99
+    97
    ],
    [
     "remoción en masa",
@@ -58,15 +58,6 @@
     "region_link": "metropolitana de santiago"
    },
    {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "19-10",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
     "lugar": "Región de Maule",
     "region": "Maule",
     "nivel": "AMARILLA",
@@ -74,6 +65,15 @@
     "ts": "15-10",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-10",
+    "comuna_link": "",
+    "region_link": "valparaiso"
    },
    {
     "lugar": "Región de Coquimbo",
@@ -92,15 +92,6 @@
     "ts": "18-10",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "14-10",
-    "comuna_link": "",
-    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Antofagasta",
@@ -128,6 +119,15 @@
     "ts": "16-10",
     "comuna_link": "",
     "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "16-10",
+    "comuna_link": "",
+    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -290,13 +290,6 @@
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-10-14",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 2,
-   "sae": 0
-  },
   {
    "fecha": "2026-10-15",
    "ROJA": 0,
@@ -476,8 +469,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "14-10 18:49",
-     "estado": "VIGENTE"
+     "ts": "16-10 08:51",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "ROJA",
@@ -537,8 +530,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "14-10 20:52",
-     "estado": "VIGENTE"
+     "ts": "15-10 13:03",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "AMARILLA",
