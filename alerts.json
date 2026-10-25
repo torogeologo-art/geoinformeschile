@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-25T09:41:22+00:00",
+ "generado": "2026-10-25T13:56:07+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -9,15 +9,15 @@
  "total_vigentes": 14,
  "alertas": [
   {
-   "id": "81fcac4a19b4",
+   "id": "ee0f90835692",
    "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A583 Probables tormentas eléctricas con probabilidad de granizos en valle, precordillera y cordillera. 26-10 26-10 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED declara AlertaTemprana Preventiva Regional por evento meteorológicovigente a contar de hoy y hasta que las co",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy domingo 25 de octubre a las 10:25 horas, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán registraron un pulso eruptivo seguido de una columna eruptiva de tonos grises a blanquecinos, producto de su contenido pirocl",
    "region": "Ñuble",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-10-24T23:01:12.1212-03:00",
+   "ts": "2026-10-25T10:37:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-24-23-03-46",
    "origen": "senapred_web",
    "regiones_extra": []
@@ -133,6 +133,20 @@
    "estado": "CANCELADA",
    "ts": "2026-10-24T10:40:58.5858-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a947bea6018a",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la región, debido al debilitamiento de las condiciones que los originaron: Alertamiento Pronóstico Alerta AA188 Precipitaciones moderadas a fuertes en corto periodo de tiempo en valle y precordillera. Aviso A575-1 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en litoral, cordillera de la costa y valle. Aviso A561-7 Probables tormentas eléctric",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-24T09:39:41.4141-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-16-19-47-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },

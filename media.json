@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-25T09:41:42+00:00",
- "desde": "2026-10-23T09:41:40Z",
+ "generado": "2026-10-25T13:56:10+00:00",
+ "desde": "2026-10-23T13:56:07Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "la araucania": {
@@ -15,36 +15,43 @@
      "canal": "Pasó lo Siguiente",
      "publicado": "2026-10-23T22:31:41Z",
      "live": false,
-     "score": 3.07,
+     "score": 3.0,
      "verificado": false,
      "embeddable": true
     }
    ]
   },
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "4hh3mTl-bTI",
-     "url": "https://www.youtube.com/watch?v=4hh3mTl-bTI",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-10-25T01:48:43Z",
+     "id": "wvcmNgJvzOc",
+     "url": "https://www.youtube.com/watch?v=wvcmNgJvzOc",
+     "titulo": "Coquimbo vs Nublense | SOCCER | 2026",
+     "canal": "iymdu xvpwaxiy",
+     "publicado": "2026-10-25T13:25:42Z",
      "live": true,
-     "score": -2.66,
+     "score": 7.96,
      "verificado": false,
-     "embeddable": true
-    },
+     "embeddable": false
+    }
+   ]
+  },
+  "metropolitana de santiago": {
+   "comuna": "Metropolitana de Santiago",
+   "region": "Metropolitana de Santiago",
+   "alerta": "ROJA",
+   "videos": [
     {
-     "id": "U4Un70dablo",
-     "url": "https://www.youtube.com/watch?v=U4Un70dablo",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-10-25T01:48:43Z",
+     "id": "FFkRHCJK_uo",
+     "url": "https://www.youtube.com/watch?v=FFkRHCJK_uo",
+     "titulo": "FUTBOL JOVEN ANFP EN VIVO entre  SANTIAGO CITY  v/s UNION LA CALERA, SUB 16",
+     "canal": "THEOTV SPORT",
+     "publicado": "2026-10-25T02:13:04Z",
      "live": true,
-     "score": -2.66,
+     "score": 0.02,
      "verificado": false,
      "embeddable": true
     }
