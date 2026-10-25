@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-25T17:34:57+00:00",
- "desde": "2026-10-23T17:34:54Z",
+ "generado": "2026-10-25T19:59:03+00:00",
+ "desde": "2026-10-23T19:59:01Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "la araucania": {
@@ -21,62 +21,11 @@
     }
    ]
   },
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "iRyDSrkTaQQ",
-     "url": "https://www.youtube.com/watch?v=iRyDSrkTaQQ",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-10-25T15:23:03Z",
-     "live": true,
-     "score": -2.18,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "VxUmz-YhgDw",
-     "url": "https://www.youtube.com/watch?v=VxUmz-YhgDw",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-10-25T15:23:03Z",
-     "live": true,
-     "score": -2.18,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "coquimbo": {
    "comuna": "Coquimbo",
    "region": "Coquimbo",
    "alerta": "ROJA",
    "videos": [
-    {
-     "id": "yyApLr6j_88",
-     "url": "https://www.youtube.com/watch?v=yyApLr6j_88",
-     "titulo": "ÑUBLENSE V/S COQUIMBO UNIDO - SoloDeportes EN VIVO",
-     "canal": "SoloDeportes FM",
-     "publicado": "2026-10-25T16:28:25Z",
-     "live": true,
-     "score": 7.91,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "ruvx8PaWvnY",
-     "url": "https://www.youtube.com/watch?v=ruvx8PaWvnY",
-     "titulo": "[EN VIVO] Ñublense vs Coquimbo Unido | Liga de Primera | Día a Día Deportes",
-     "canal": "Diario El Día",
-     "publicado": "2026-10-25T15:29:34Z",
-     "live": true,
-     "score": 7.83,
-     "verificado": false,
-     "embeddable": true
-    },
     {
      "id": "J1iSW9B1l_I",
      "url": "https://www.youtube.com/watch?v=J1iSW9B1l_I",
@@ -84,7 +33,29 @@
      "canal": "Tribuna Pirata | Coquimbo Unido",
      "publicado": "2026-10-25T15:29:34Z",
      "live": true,
-     "score": 7.83,
+     "score": 7.63,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "HtoZdP8LUF0",
+     "url": "https://www.youtube.com/watch?v=HtoZdP8LUF0",
+     "titulo": "🔴 En vivo | Reunión Familiar de Adoración | FCC | 18 oct 2026",
+     "canal": "Fraternidad Cristiana Carismática",
+     "publicado": "2026-10-25T14:16:00Z",
+     "live": true,
+     "score": 7.52,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "dfV0kKnkySg",
+     "url": "https://www.youtube.com/watch?v=dfV0kKnkySg",
+     "titulo": "🔴 En vivo | Reunión Familiar de Adoración | FCC | 18 oct 2026",
+     "canal": "fratercctv",
+     "publicado": "2026-10-25T14:02:14Z",
+     "live": true,
+     "score": 7.5,
      "verificado": false,
      "embeddable": true
     }
