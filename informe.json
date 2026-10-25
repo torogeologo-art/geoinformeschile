@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-25T00:10:06+00:00",
+ "generado": "2026-10-25T04:47:16+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "15-10-2026",
   "hasta": "25-10-2026"
  },
  "totales": {
-  "alertas": 112,
+  "alertas": 113,
   "sae": 3,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
    "AMARILLA": 18,
-   "ATP": 86,
+   "ATP": 87,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    97
+    98
    ],
    [
     "remoción en masa",
@@ -357,7 +357,7 @@
    "fecha": "2026-10-24",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 11,
+   "ATP": 12,
    "sae": 0
   }
  ],
@@ -548,6 +548,15 @@
  ],
  "cronologia": [
   {
+   "ts": "24-10 21:11",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52"
+  },
+  {
    "ts": "24-10 16:01",
    "nivel": "ATP",
    "lugar": "Región de Los Lagos",
@@ -663,15 +672,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-09-17-56-03"
-  },
-  {
-   "ts": "23-10 16:05",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
