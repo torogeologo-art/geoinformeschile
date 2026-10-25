@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-25T19:59:37+00:00",
+ "generado": "2026-10-25T22:29:19+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "15-10-2026",
   "hasta": "25-10-2026"
  },
  "totales": {
-  "alertas": 115,
+  "alertas": 118,
   "sae": 3,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 89,
+   "ATP": 92,
    "AMARILLA": 18,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    99
+    102
    ],
    [
     "remoción en masa",
@@ -281,7 +281,7 @@
  "vigentes": {
   "ROJA": 4,
   "AMARILLA": 1,
-  "ATP": 10,
+  "ATP": 9,
   "regiones_roja": [
    "Biobío",
    "Coquimbo",
@@ -364,7 +364,7 @@
    "fecha": "2026-10-25",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 4,
+   "ATP": 7,
    "sae": 0
   }
  ],
@@ -560,6 +560,33 @@
  ],
  "cronologia": [
   {
+   "ts": "25-10 19:05",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
+  },
+  {
+   "ts": "25-10 18:53",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-25-18-54-39"
+  },
+  {
+   "ts": "25-10 18:38",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-24-15-10-52"
+  },
+  {
    "ts": "25-10 16:08",
    "nivel": "ATP",
    "lugar": "Región de Maule",
@@ -657,33 +684,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-16-19-50-34"
-  },
-  {
-   "ts": "24-10 10:40",
-   "nivel": "ATP",
-   "lugar": "Región de Valparaíso",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14"
-  },
-  {
-   "ts": "24-10 09:39",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-16-19-47-23"
-  },
-  {
-   "ts": "24-10 09:16",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-collipulli-curacautin-lonquimay-melipeuco-cunco-vilcun-pucon-villarrica-y-curarrehue-por-tormentas-electricas-2026-10-16-13-16-05"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
