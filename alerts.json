@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-25T04:47:13+00:00",
+ "generado": "2026-10-25T09:39:29+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -95,15 +95,15 @@
    "regiones_extra": []
   },
   {
-   "id": "bc129ea9be82",
+   "id": "142ab3bca486",
    "nivel": "AMARILLA",
    "tipo": "remoción en masa",
-   "titulo": "Se cancela Alerta Amarilla y se declara Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
-   "descripcion": "De acuerdo con la información proporcionada la Dirección Meteorológica de Chile (DMC), se han cancelado los siguientes alertamientos meteorológicos para la Región Metropolitana, debido al debilitamiento de las condiciones que los originaron: Alertamiento Pronóstico Aviso A561-7 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. Aviso A564-4 Viento normal a moderado en cordillera de la costa y cordillera. Adicionalmente, en su Informe de Amenaza Meteorológica de hoy, indica que las precipitaciones (mm/cm), viento (km/h) e Isoterma 0° (m.",
+   "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la Región Metropolitana, debido al debilitamiento de las condiciones que los originaron: Alertamiento Pronóstico Aviso A561-7 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en la región. Aviso A564-4 Viento normal a moderado en cordillera de la costa y cordillera. Adicionalmente, en su Informe de Amenaza Meteorológica de hoy, indica que las precipitaciones (mm/cm), viento (km/h) e Isoterma 0° (m",
    "region": "Metropolitana de Santiago",
    "comunas": [],
    "estado": "CANCELADA",
-   "ts": "2026-10-24T12:29:54.5454-03:00",
+   "ts": "2026-10-24T12:47:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04",
    "origen": "senapred_web",
    "regiones_extra": []
