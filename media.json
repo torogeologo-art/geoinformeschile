@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-24T21:48:27+00:00",
- "desde": "2026-10-22T21:48:25Z",
+ "generado": "2026-10-25T00:07:59+00:00",
+ "desde": "2026-10-23T00:07:57Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "la araucania": {
@@ -15,7 +15,7 @@
      "canal": "Pasó lo Siguiente",
      "publicado": "2026-10-23T22:31:41Z",
      "live": false,
-     "score": 4.06,
+     "score": 3.87,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +33,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-10-24T16:32:06Z",
      "live": true,
-     "score": -2.44,
+     "score": -2.63,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +44,7 @@
      "canal": "SRGenial",
      "publicado": "2026-10-24T16:32:06Z",
      "live": true,
-     "score": -2.44,
+     "score": -2.63,
      "verificado": false,
      "embeddable": true
     }

@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-24T21:48:23+00:00",
+ "generado": "2026-10-25T00:07:56+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -1369,20 +1369,6 @@
    "url": "https://t.me/SenapredChile/1601",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "8b34d4f082ae",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para la comuna de Alto Biobío por crecida de Embalse Ralco",
-   "descripcion": "En consideración al boletín de recomendación de Alerta de Crecida por parte de la Dirección General de Aguas, el cual establece el actual nivel del embalse Ralco correspondiente a 724.79 m.s.n.m, un volumen de regulación disponible de 25.1 Hm³ y que el hidrograma pronosticado alcanza un caudal máximo de 1030 m³/s, con un volumen estimado de crecida de 151.81 Hm³, por lo que se prevé la necesidad de efectuar vertimientos controlados mediante la apertura de las compuertas del Embalse Ralco. De acuerdo con la información proporcionada y en consideración con los organismos técnicos involucrados y,",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-09-24T19:25:16.1616-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-alto-biobio-por-crecida-de-embalse-ralco-2026-09-24-19-31-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "6950b6da61b8",
