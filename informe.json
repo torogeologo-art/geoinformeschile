@@ -1,18 +1,18 @@
 {
- "generado": "2026-10-25T09:41:43+00:00",
+ "generado": "2026-10-25T13:57:09+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "15-10-2026",
   "hasta": "25-10-2026"
  },
  "totales": {
-  "alertas": 113,
+  "alertas": 114,
   "sae": 3,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
    "AMARILLA": 18,
-   "ATP": 87,
+   "ATP": 88,
    "ROJA": 8
   },
   "por_tipo": [
@@ -34,7 +34,7 @@
    ],
    [
     "nevadas",
-    1
+    2
    ],
    [
     "viento",
@@ -359,6 +359,13 @@
    "AMARILLA": 1,
    "ATP": 12,
    "sae": 0
+  },
+  {
+   "fecha": "2026-10-25",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
+   "sae": 0
   }
  ],
  "escalamientos": [
@@ -548,6 +555,15 @@
  ],
  "cronologia": [
   {
+   "ts": "25-10 10:37",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "nevadas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-24-23-03-46"
+  },
+  {
    "ts": "24-10 21:11",
    "nivel": "ATP",
    "lugar": "Región de Antofagasta",
@@ -663,15 +679,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-10-16-19-58-34"
-  },
-  {
-   "ts": "23-10 20:49",
-   "nivel": "ATP",
-   "lugar": "Región de Arica y Parinacota",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-09-17-56-03"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
