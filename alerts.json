@@ -1,13 +1,69 @@
 {
- "generado": "2026-10-25T19:59:32+00:00",
+ "generado": "2026-10-25T22:28:14+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "ee0f90835692",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy domingo 25 de octubre a las 19:00 horas, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán registraron entre las 16:23 y las 21:16 UTC al menos seis pulsos eruptivos, caracterizados por la emisión de material piroclá",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-25T19:08:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-24-23-03-46",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "c3bafa69800f",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , han sido cancelados los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Aviso A543-7 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. Aviso A570 Viento normal a moderado con probabilidad de tormentas de arena en litoral. Aviso A578 Altas temperaturas en cordillera de la costa y sectores valles, pampa y precordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Direc",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-25T19:05:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "3d6f5c63eb7c",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Aviso A583 Probables Tormentas Eléctricas con probabilidad de granizos en valle, precordillera y cordillera de la región. 26-10 26-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva regional por tormentas eléctricas , vigente desde hoy y",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-25T18:53:46.4646-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-25-18-54-39",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e268bc6fadbf",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantiene vigente el siguiente alertamiento meteorológico para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A583 Probables Tormentas Eléctricas con probabilidad de granizos en precordillera y cordillera de la región. 26-10 26-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por tormentas eléctricas , vigente desde el 24",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-25T18:38:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-24-15-10-52",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "13a7f43eb1c6",
    "nivel": "ATP",
@@ -65,20 +121,6 @@
    "regiones_extra": []
   },
   {
-   "id": "ee0f90835692",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy domingo 25 de octubre a las 13:55 horas, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán registraron entre las 14:44 y las 16:15 UTC al menos siete pulsos eruptivos, caracterizados por la emisión de material pirocl",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-25T14:20:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-24-23-03-46",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "3ffd60f72303",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -123,20 +165,6 @@
    ]
   },
   {
-   "id": "9733b6c7e770",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de O´Higgins por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A582 Probables Tormentas Eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, valle, precordillera y cordillera. 24-10 24-10 Abrir aquí Asimismo, según lo señalado en el informe de amenaza emitido el día de hoy, se pronostican los siguientes montos de precipitaciones, viento e isoterma 0°C en la región: Precipitaciones:",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-24T15:01:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-24-15-10-52",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "142ab3bca486",
    "nivel": "AMARILLA",
    "tipo": "remoción en masa",
@@ -147,6 +175,20 @@
    "estado": "CANCELADA",
    "ts": "2026-10-24T12:47:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "d72225dfa986",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se han cancelado los siguientes alertamientos meteorológicos para la Región de O’Higgins, debido al debilitamiento de las condiciones que lo originaron: Alertamiento Pronóstico Aviso A561-5 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. Aviso A564-4 Viento normal a moderado en litoral, cordillera de la costa, precordillera y cordillera. En consideración a estos antecedentes y en coordin",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-24T11:27:32.3232-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -293,20 +335,6 @@
    "sae": true
   },
   {
-   "id": "e52162d74745",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica Alerta Temprana Preventiva para la Región de Atacama a evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A543-7 Viento normal a moderado con probabilidad de tormentas de arena en cordillera. 21-10 24-10 Abrir aquí Aviso A570 Viento normal a moderado con probabilidad de tormentas de arena en litoral. 22-10 24-10 Abrir aquí Aviso A578 Altas temperaturas en cordillera de la costa y sectores valles, pampa y precordillera. 25-10 25-10 Abrir aquí En consideración a estos an",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-22T17:55:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "b1a3e5fd5b5f",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
@@ -428,7 +456,7 @@
    "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección Regional del SENAPRED Atacama , se indica que producto del desborde del río Huasco registrado el 02 de octubre en el sector de los Perales Viejos, comuna de Huasco, se informa de 1 vivienda con daño mayor y 4 con daño menor. Por otra parte, a raíz de la emergencia 12 personas estuvieron aisladas hasta la finalización de los trabajos de limpieza de los caminos afectados por el desborde. Cabe mencionar, que debido a la intensificación de los deshielos en los sectores cordilleranos, es posible seguir registrando aumento de caudales h",
    "region": "Atacama",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "CANCELADA",
    "ts": "2026-10-19T21:15:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
    "origen": "senapred_web",

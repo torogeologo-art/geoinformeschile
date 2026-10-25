@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-25T19:59:36+00:00",
- "desde": "2026-10-23T19:59:34Z",
+ "generado": "2026-10-25T22:28:17+00:00",
+ "desde": "2026-10-23T22:28:14Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "la araucania": {
@@ -27,24 +27,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "J1iSW9B1l_I",
-     "url": "https://www.youtube.com/watch?v=J1iSW9B1l_I",
-     "titulo": "[EN VIVO] Ñublense vs Coquimbo Unido | Liga de Primera | Día a Día Deportes",
-     "canal": "Tribuna Pirata | Coquimbo Unido",
-     "publicado": "2026-10-25T15:29:34Z",
-     "live": true,
-     "score": 7.62,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "HtoZdP8LUF0",
      "url": "https://www.youtube.com/watch?v=HtoZdP8LUF0",
      "titulo": "🔴 En vivo | Reunión Familiar de Adoración | FCC | 18 oct 2026",
      "canal": "Fraternidad Cristiana Carismática",
      "publicado": "2026-10-25T14:16:00Z",
      "live": true,
-     "score": 7.52,
+     "score": 7.32,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +44,7 @@
      "canal": "fratercctv",
      "publicado": "2026-10-25T14:02:14Z",
      "live": true,
-     "score": 7.5,
+     "score": 7.3,
      "verificado": false,
      "embeddable": true
     }
