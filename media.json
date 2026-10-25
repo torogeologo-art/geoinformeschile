@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-25T13:57:08+00:00",
- "desde": "2026-10-23T13:57:06Z",
+ "generado": "2026-10-25T17:32:56+00:00",
+ "desde": "2026-10-23T17:32:53Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "la araucania": {
@@ -21,37 +21,70 @@
     }
    ]
   },
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "iRyDSrkTaQQ",
+     "url": "https://www.youtube.com/watch?v=iRyDSrkTaQQ",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-10-25T15:23:03Z",
+     "live": true,
+     "score": -2.18,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "VxUmz-YhgDw",
+     "url": "https://www.youtube.com/watch?v=VxUmz-YhgDw",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-10-25T15:23:03Z",
+     "live": true,
+     "score": -2.18,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "coquimbo": {
    "comuna": "Coquimbo",
    "region": "Coquimbo",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "wvcmNgJvzOc",
-     "url": "https://www.youtube.com/watch?v=wvcmNgJvzOc",
-     "titulo": "Coquimbo vs Nublense | SOCCER | 2026",
-     "canal": "iymdu xvpwaxiy",
-     "publicado": "2026-10-25T13:25:42Z",
+     "id": "yyApLr6j_88",
+     "url": "https://www.youtube.com/watch?v=yyApLr6j_88",
+     "titulo": "ÑUBLENSE V/S COQUIMBO UNIDO - SoloDeportes EN VIVO",
+     "canal": "SoloDeportes FM",
+     "publicado": "2026-10-25T16:28:25Z",
      "live": true,
-     "score": 7.96,
+     "score": 7.91,
      "verificado": false,
-     "embeddable": false
-    }
-   ]
-  },
-  "metropolitana de santiago": {
-   "comuna": "Metropolitana de Santiago",
-   "region": "Metropolitana de Santiago",
-   "alerta": "ROJA",
-   "videos": [
+     "embeddable": true
+    },
     {
-     "id": "FFkRHCJK_uo",
-     "url": "https://www.youtube.com/watch?v=FFkRHCJK_uo",
-     "titulo": "FUTBOL JOVEN ANFP EN VIVO entre  SANTIAGO CITY  v/s UNION LA CALERA, SUB 16",
-     "canal": "THEOTV SPORT",
-     "publicado": "2026-10-25T02:13:04Z",
+     "id": "ruvx8PaWvnY",
+     "url": "https://www.youtube.com/watch?v=ruvx8PaWvnY",
+     "titulo": "[EN VIVO] Ñublense vs Coquimbo Unido | Liga de Primera | Día a Día Deportes",
+     "canal": "Diario El Día",
+     "publicado": "2026-10-25T15:29:34Z",
      "live": true,
-     "score": 0.02,
+     "score": 7.83,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "J1iSW9B1l_I",
+     "url": "https://www.youtube.com/watch?v=J1iSW9B1l_I",
+     "titulo": "[EN VIVO] Ñublense vs Coquimbo Unido | Liga de Primera | Día a Día Deportes",
+     "canal": "Tribuna Pirata | Coquimbo Unido",
+     "publicado": "2026-10-25T15:29:34Z",
+     "live": true,
+     "score": 7.83,
      "verificado": false,
      "embeddable": true
     }
