@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-25T13:57:09+00:00",
+ "generado": "2026-10-25T17:34:58+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "15-10-2026",
   "hasta": "25-10-2026"
  },
  "totales": {
-  "alertas": 114,
+  "alertas": 112,
   "sae": 3,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "AMARILLA": 18,
-   "ATP": 88,
+   "ATP": 87,
+   "AMARILLA": 17,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    98
+    96
    ],
    [
     "remoción en masa",
@@ -58,24 +58,6 @@
     "region_link": "metropolitana de santiago"
    },
    {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "15-10",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "19-10",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
     "nivel": "AMARILLA",
@@ -85,6 +67,15 @@
     "region_link": "coquimbo"
    },
    {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "16-10",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
     "region": "Libertador General Bernardo O'Higgins",
     "nivel": "AMARILLA",
@@ -92,6 +83,15 @@
     "ts": "18-10",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-10",
+    "comuna_link": "",
+    "region_link": "valparaiso"
    },
    {
     "lugar": "Región de Antofagasta",
@@ -293,8 +293,8 @@
   {
    "fecha": "2026-10-15",
    "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 3,
+   "AMARILLA": 0,
+   "ATP": 2,
    "sae": 0
   },
   {
@@ -537,8 +537,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "15-10 13:03",
-     "estado": "CANCELADA"
+     "ts": "16-10 18:50",
+     "estado": "VIGENTE"
     },
     {
      "nivel": "AMARILLA",
