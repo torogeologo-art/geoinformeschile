@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-26T00:40:26+00:00",
+ "generado": "2026-10-26T05:22:54+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -32,7 +32,7 @@
    "comunas": [],
    "estado": "VIGENTE",
    "ts": "2026-10-25T19:08:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-24-23-03-46",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -135,6 +135,20 @@
    "regiones_extra": []
   },
   {
+   "id": "81fcac4a19b4",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A583 Probables tormentas eléctricas con probabilidad de granizos en valle, precordillera y cordillera. 26-10 26-10 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por evento meteorológico vigente a contar de hoy y hasta que las",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-24T23:20:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-25-22-34-36",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
    "id": "3ffd60f72303",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -231,20 +245,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-24T10:40:58.5858-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a947bea6018a",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la región, debido al debilitamiento de las condiciones que los originaron: Alertamiento Pronóstico Alerta AA188 Precipitaciones moderadas a fuertes en corto periodo de tiempo en valle y precordillera. Aviso A575-1 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en litoral, cordillera de la costa y valle. Aviso A561-7 Probables tormentas eléctric",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-24T09:39:41.4141-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-16-19-47-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -433,20 +433,6 @@
    "regiones_extra": [
     "Los Ríos"
    ]
-  },
-  {
-   "id": "4ecc13d7dac9",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, entre el 01 y 15 de octubre, la actividad del Complejo Volcánico Nevados de Chillán se caracterizó por el predominio de sismicidad asociada a la dinámica de fluidos, principalmente de tipo LP y TR, con registros de energía relevante. Esta actividad es",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-20T17:32:10.1010-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "48db6d2c411e",

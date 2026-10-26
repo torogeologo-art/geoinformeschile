@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-26T00:40:46+00:00",
- "desde": "2026-10-24T00:40:44Z",
+ "generado": "2026-10-26T05:22:56+00:00",
+ "desde": "2026-10-24T05:22:55Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,24 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "HtoZdP8LUF0",
-     "url": "https://www.youtube.com/watch?v=HtoZdP8LUF0",
-     "titulo": "🔴 En vivo | Reunión Familiar de Adoración | FCC | 18 oct 2026",
-     "canal": "Fraternidad Cristiana Carismática",
-     "publicado": "2026-10-25T14:16:00Z",
-     "live": true,
-     "score": 7.13,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "dfV0kKnkySg",
      "url": "https://www.youtube.com/watch?v=dfV0kKnkySg",
      "titulo": "🔴 En vivo | Reunión Familiar de Adoración | FCC | 18 oct 2026",
      "canal": "fratercctv",
      "publicado": "2026-10-25T14:02:14Z",
      "live": true,
-     "score": 7.11,
+     "score": 6.72,
      "verificado": false,
      "embeddable": true
     }
