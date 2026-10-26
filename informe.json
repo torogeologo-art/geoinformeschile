@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-26T00:40:47+00:00",
+ "generado": "2026-10-26T05:24:18+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "16-10-2026",
   "hasta": "26-10-2026"
  },
  "totales": {
-  "alertas": 118,
+  "alertas": 117,
   "sae": 3,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "AMARILLA": 18,
    "ATP": 92,
+   "AMARILLA": 17,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    102
+    100
    ],
    [
     "remoción en masa",
@@ -29,11 +29,11 @@
     4
    ],
    [
-    "aluvión",
-    2
+    "nevadas",
+    3
    ],
    [
-    "nevadas",
+    "aluvión",
     2
    ],
    [
@@ -56,15 +56,6 @@
     "ts": "20-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "16-10",
-    "comuna_link": "",
-    "region_link": "maule"
    },
    {
     "lugar": "Región de La Araucanía",
@@ -103,15 +94,6 @@
     "region_link": "valparaiso"
    },
    {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "16-10",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
-   {
     "lugar": "Región de Biobío",
     "region": "Biobío",
     "nivel": "ATP",
@@ -139,6 +121,15 @@
     "region_link": "los rios"
    },
    {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "16-10",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ATP",
@@ -164,6 +155,15 @@
     "ts": "16-10",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "18-10",
+    "comuna_link": "",
+    "region_link": "nuble"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -224,6 +224,17 @@
     "region_link": "metropolitana de santiago"
    }
   ],
+  "nevadas": [
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "16-10",
+    "comuna_link": "",
+    "region_link": "nuble"
+   }
+  ],
   "aluvión": [
    {
     "lugar": "Región de La Araucanía",
@@ -242,17 +253,6 @@
     "ts": "20-10",
     "comuna_link": "",
     "region_link": "los rios"
-   }
-  ],
-  "nevadas": [
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "20-10",
-    "comuna_link": "",
-    "region_link": "nuble"
    }
   ],
   "viento": [
@@ -293,7 +293,7 @@
   {
    "fecha": "2026-10-16",
    "ROJA": 0,
-   "AMARILLA": 1,
+   "AMARILLA": 0,
    "ATP": 13,
    "sae": 0
   },
