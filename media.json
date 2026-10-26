@@ -1,26 +1,8 @@
 {
- "generado": "2026-10-25T22:29:18+00:00",
- "desde": "2026-10-23T22:29:16Z",
+ "generado": "2026-10-26T00:38:54+00:00",
+ "desde": "2026-10-24T00:38:52Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "la araucania": {
-   "comuna": "La Araucanía",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "fDtX63v3_Wk",
-     "url": "https://www.youtube.com/watch?v=fDtX63v3_Wk",
-     "titulo": "¿Se desborda el río Rehue? Alerta en Angol por crecida",
-     "canal": "Pasó lo Siguiente",
-     "publicado": "2026-10-23T22:31:41Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "coquimbo": {
    "comuna": "Coquimbo",
    "region": "Coquimbo",
@@ -33,7 +15,7 @@
      "canal": "Fraternidad Cristiana Carismática",
      "publicado": "2026-10-25T14:16:00Z",
      "live": true,
-     "score": 7.31,
+     "score": 7.13,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +26,7 @@
      "canal": "fratercctv",
      "publicado": "2026-10-25T14:02:14Z",
      "live": true,
-     "score": 7.3,
+     "score": 7.12,
      "verificado": false,
      "embeddable": true
     }

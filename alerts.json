@@ -1,13 +1,27 @@
 {
- "generado": "2026-10-25T22:29:15+00:00",
+ "generado": "2026-10-26T00:38:51+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 14,
+ "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "dc3e78406db3",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A584 Probables tormentas eléctricas en Precordillera y Cordillera de la región. 26-10 26-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva regional por tormentas eléctricas , vigente desde hoy y hasta que las condiciones así lo a",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-25T20:23:04.044-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-25-20-24-57",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "ee0f90835692",
    "nivel": "ATP",
@@ -1237,48 +1251,6 @@
    "sae": true
   },
   {
-   "id": "5521ac2ab6a8",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , debido al debilitamiento de las condiciones que los originaron, han sido cancelados los siguientes alertamientos meteorológicos: Alertamiento Pronóstico Aviso A498-1 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. Aviso A503-2 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional d",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-25T23:02:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "4bf5c4dddc87",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por Evento Meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , debido al debilitamiento de las condiciones que los originaron, han sido cancelados los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Alerta AA169-3 Precipitaciones moderadas a fuertes con isoterma cero alta en litoral, valle, precordillera y cordillera Alerta AA170 Viento moderado a fuerte en litoral y cordillera de la costa. Aviso A497-4 Precipitaciones normales a moderadas con isoterma cero alta en cordillera de la costa, precordillera y cordillera. Aviso A498-1 Vien",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-25T21:32:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-09-17-11-34-15",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2dea682155c6",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de O’Higgins: Alertamiento Pronóstico Enlace Aviso A497-5 Precipitaciones normales a moderadas con isoterma cero alta en cordillera. Abrir Aquí Aviso A498-1 Viento normal a moderado en cordillera. Abrir Aquí Aviso A503-2 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y cordillera. Abrir aquí En consideración a estos antecedentes y en coordinación con la",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-25T19:51:05.055-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-17-11-21-06",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "6ab96b8f6021",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -1341,22 +1313,6 @@
    "url": "https://t.me/SenapredChile/1608",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "2ae43f1d0074",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Última Esperanza por heladas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes. Alertamiento Pronóstico Aviso A504 Heladas normales a moderadas con probabilidad de formación de escarcha en zonas de la región. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la Provincia de Última Esperanza por hel",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-25T13:07:37.3737-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-precipitaciones-2026-09-21-19-54-41",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "92fc114bd84c",
