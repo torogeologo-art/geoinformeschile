@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-26T11:25:51+00:00",
+ "generado": "2026-10-26T11:27:08+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -9,15 +9,15 @@
  "total_vigentes": 14,
  "alertas": [
   {
-   "id": "d1034c8396f4",
+   "id": "338cce8bfda3",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica Alerta Temprana Preventiva Regional a evento meteorológico",
+   "titulo": "Se modifica Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
    "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A583-1 Probables Tormentas Eléctricas con probabilidad de granizos en cordillera de la costa, valle, precordillera y cordillera de la región. 26-10 26-10 Abrir aquí Aviso A585 Precipitaciones normales a moderadas en corto periodo de tiempo en valle y precordillera de la región. 26-10 26-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la D",
    "region": "Libertador General Bernardo O'Higgins",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-10-26T08:09:00.000-03:00",
+   "ts": "2026-10-26T08:11:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-24-15-10-52",
    "origen": "senapred_web",
    "regiones_extra": []
