@@ -1,13 +1,71 @@
 {
- "generado": "2026-10-26T11:27:08+00:00",
+ "generado": "2026-10-26T17:33:45+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 14,
+ "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "550894e43962",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para las Provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A583-1 Probables tormentas eléctricas con probabilidad de granizos en precordillera, valles precordilleranos y cordillera de la región. 26-10 26-10 Abrir aquí Avisos A585 Precipitaciones normales a moderadas en corto periodo de tiempo en precordillera y valles precordilleranos de la región. 26-10 26-10 Abrir aquí En consideración a estos antecedentes y en coordi",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-26T12:05:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-10-26-13-18-36",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "7bcd99aad929",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Última Esperanza por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A586 Probables tormentas eléctricas, preferentemente durante la tarde-noche, con precipitaciones aisladas en zonas Cordillera Austral Norte y Pampa Patagónica Norte de la región. 26-10 26-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED declara Alerta Tempran",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-26T12:01:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-tormentas-electricas-2026-10-26-12-48-46",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "74eb6897114f",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A583-1 Probables Tormentas Eléctricas con probabilidad de granizos en cordillera de la costa, valle, precordillera y cordillera de la región. 26-10 26-10 Abrir aquí Aviso A585 Precipitaciones normales a moderadas en valle y precordillera de la región. 26-10 26-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regiona",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-26T10:03:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-24-16-03-09",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1007adedc9db",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A583-1 Probables tormentas eléctricas con probabilidad de granizos en valle, precordillera y cordillera de la región. 26-10 26-10 Abrir aquí Aviso A585 Precipitaciones normales a moderadas en corto periodo de tiempo en valle y precordillera de la región. 26-10 26-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regio",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-26T09:09:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "338cce8bfda3",
    "nivel": "ATP",
@@ -75,20 +133,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-25T18:53:46.4646-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-25-18-54-39",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "13a7f43eb1c6",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantiene vigente el siguiente alertamiento meteorológico para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A583 Probables Tormentas Eléctricas con probabilidad de granizos en valle, precordillera y cordillera de la región. 26-10 26-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por tormentas eléctricas , que se encuentra v",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-25T16:08:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-24-16-03-09",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -175,22 +219,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-10-18-16-21-00",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "041479aef581",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica evento y cobertura de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A576 Altas temperaturas en pampa patagónica norte, Laguna Blanca y San Gregorio. 24-10 24-10 Abrir Aquí Aviso A581 Probables tormentas eléctricas en cordillera austral norte, insular norte, pampa patagónica norte y pampa patagónica sur de la región. 25-10 25-10 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Reg",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-24T15:53:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-ultima-esperanza-y-la-comuna-de-primavera-por-altas-temperaturas-2026-10-22-17-27-52",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "142ab3bca486",

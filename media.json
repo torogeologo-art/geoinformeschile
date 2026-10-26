@@ -1,6 +1,47 @@
 {
- "generado": "2026-10-26T11:27:28+00:00",
- "desde": "2026-10-24T11:27:26Z",
+ "generado": "2026-10-26T17:33:48+00:00",
+ "desde": "2026-10-24T17:33:46Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "QV98VZ4ccmU",
+     "url": "https://www.youtube.com/watch?v=QV98VZ4ccmU",
+     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-10-26T16:45:19Z",
+     "live": true,
+     "score": 7.93,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "yzrsuzquxok",
+     "url": "https://www.youtube.com/watch?v=yzrsuzquxok",
+     "titulo": "Tu Deporte Radio #857, 26 de octubre 2026",
+     "canal": "Tu Deporte Radio",
+     "publicado": "2026-10-26T15:14:30Z",
+     "live": true,
+     "score": 7.81,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "wcS5l5blesM",
+     "url": "https://www.youtube.com/watch?v=wcS5l5blesM",
+     "titulo": "Tu Deporte Radio #857, 26 de octubre 2026 📱",
+     "canal": "Tu Deporte Radio",
+     "publicado": "2026-10-26T15:14:30Z",
+     "live": true,
+     "score": 7.81,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
