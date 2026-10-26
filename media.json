@@ -1,25 +1,6 @@
 {
- "generado": "2026-10-26T05:24:17+00:00",
- "desde": "2026-10-24T05:24:16Z",
+ "generado": "2026-10-26T11:25:53+00:00",
+ "desde": "2026-10-24T11:25:51Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "dfV0kKnkySg",
-     "url": "https://www.youtube.com/watch?v=dfV0kKnkySg",
-     "titulo": "🔴 En vivo | Reunión Familiar de Adoración | FCC | 18 oct 2026",
-     "canal": "fratercctv",
-     "publicado": "2026-10-25T14:02:14Z",
-     "live": true,
-     "score": 6.72,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }

@@ -1,13 +1,27 @@
 {
- "generado": "2026-10-26T05:24:14+00:00",
+ "generado": "2026-10-26T11:25:51+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "d1034c8396f4",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica Alerta Temprana Preventiva Regional a evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A583-1 Probables Tormentas Eléctricas con probabilidad de granizos en cordillera de la costa, valle, precordillera y cordillera de la región. 26-10 26-10 Abrir aquí Aviso A585 Precipitaciones normales a moderadas en corto periodo de tiempo en valle y precordillera de la región. 26-10 26-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la D",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-26T08:09:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-24-15-10-52",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "dc3e78406db3",
    "nivel": "ATP",
@@ -61,20 +75,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-25T18:53:46.4646-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-25-18-54-39",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e268bc6fadbf",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantiene vigente el siguiente alertamiento meteorológico para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A583 Probables Tormentas Eléctricas con probabilidad de granizos en precordillera y cordillera de la región. 26-10 26-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por tormentas eléctricas , vigente desde el 24",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-25T18:38:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-24-15-10-52",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -377,6 +377,20 @@
    "regiones_extra": []
   },
   {
+   "id": "223181339938",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Amarilla para las Provincias de Marga Marga y Los Andes y las comunas de Catemu, Putaendo, Santa María, Cabildo, Petorca, La Ligua, Quillota y La Calera por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, han sido cancelados los siguientes alertamientos para la Región de Valparaíso: Alertamiento Pronóstico Alerta AA180-2 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos. Alerta AA185-1 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en litoral y cordillera de la costa. En consideración a estos antecedentes y en coordin",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-21T10:46:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-marga-marga-y-los-andes-y-las-comunas-de-catemu-putaendo-santa-maria-cabildo-petorca-la-ligua-quillota-y-la-calera-por-evento-meteorologico-2026-10-19-23-48-32",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
    "id": "dfc8e75aebd0",
    "nivel": "AMARILLA",
    "tipo": "tormentas eléctricas",
@@ -433,20 +447,6 @@
    "regiones_extra": [
     "Los Ríos"
    ]
-  },
-  {
-   "id": "48db6d2c411e",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Amarilla para las Provincias de Marga Marga y Los Andes; y las comunas de Catemu, Putaendo, Santa María, Cabildo, Petorca, La Ligua, Quillota y La Calera por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos. 20-10 20-10 Abrir aquí Aviso A561-3 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en litoral, cordillera de la costa, precordillera, valles precordilleranos y cordillera. 19-",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-19T23:26:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-marga-marga-y-los-andes-y-las-comunas-de-catemu-putaendo-santa-maria-cabildo-petorca-la-ligua-quillota-y-la-calera-por-evento-meteorologico-2026-10-19-23-48-32",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "11997396ae7e",
