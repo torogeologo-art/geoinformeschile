@@ -1,9 +1,9 @@
 {
- "generado": "2026-10-25T22:29:19+00:00",
+ "generado": "2026-10-26T00:40:47+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "15-10-2026",
-  "hasta": "25-10-2026"
+  "desde": "16-10-2026",
+  "hasta": "26-10-2026"
  },
  "totales": {
   "alertas": 118,
@@ -11,8 +11,8 @@
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 92,
    "AMARILLA": 18,
+   "ATP": 92,
    "ROJA": 8
   },
   "por_tipo": [
@@ -103,15 +103,6 @@
     "region_link": "valparaiso"
    },
    {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "15-10",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
     "lugar": "Región de Ñuble",
     "region": "Ñuble",
     "nivel": "ATP",
@@ -146,6 +137,15 @@
     "ts": "16-10",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "16-10",
+    "comuna_link": "",
+    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Atacama",
@@ -281,7 +281,7 @@
  "vigentes": {
   "ROJA": 4,
   "AMARILLA": 1,
-  "ATP": 9,
+  "ATP": 10,
   "regiones_roja": [
    "Biobío",
    "Coquimbo",
@@ -290,13 +290,6 @@
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-10-15",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
   {
    "fecha": "2026-10-16",
    "ROJA": 0,
@@ -364,7 +357,7 @@
    "fecha": "2026-10-25",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 7,
+   "ATP": 8,
    "sae": 0
   }
  ],
@@ -560,6 +553,15 @@
  ],
  "cronologia": [
   {
+   "ts": "25-10 20:23",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-25-20-24-57"
+  },
+  {
    "ts": "25-10 19:05",
    "nivel": "ATP",
    "lugar": "Región de Atacama",
@@ -675,15 +677,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40"
-  },
-  {
-   "ts": "24-10 11:06",
-   "nivel": "ATP",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-16-19-50-34"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
