@@ -1,28 +1,28 @@
 {
- "generado": "2026-10-26T21:55:01+00:00",
+ "generado": "2026-10-27T01:21:42+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "16-10-2026",
-  "hasta": "26-10-2026"
+  "desde": "17-10-2026",
+  "hasta": "27-10-2026"
  },
  "totales": {
-  "alertas": 114,
-  "sae": 3,
+  "alertas": 117,
+  "sae": 4,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 88,
-   "AMARILLA": 18,
-   "ROJA": 8
+   "ATP": 86,
+   "AMARILLA": 21,
+   "ROJA": 10
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    98
+    99
    ],
    [
     "remoción en masa",
-    6
+    7
    ],
    [
     "crecida de río",
@@ -37,11 +37,11 @@
     2
    ],
    [
-    "viento",
-    1
+    "evento meteorológico",
+    2
    ],
    [
-    "evento meteorológico",
+    "viento",
     1
    ]
   ]
@@ -56,6 +56,15 @@
     "ts": "20-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "26-10",
+    "comuna_link": "",
+    "region_link": "maule"
    },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -94,38 +103,20 @@
     "region_link": "la araucania"
    },
    {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "AMARILLA",
     "sae": false,
-    "ts": "16-10",
+    "ts": "26-10",
     "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "16-10",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "16-10",
-    "comuna_link": "",
-    "region_link": "atacama"
+    "region_link": "nuble"
    },
    {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
     "region": "Magallanes y de la Antártica Chilena",
     "nivel": "ATP",
     "sae": false,
-    "ts": "16-10",
+    "ts": "17-10",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
    },
@@ -139,13 +130,13 @@
     "region_link": "antofagasta"
    },
    {
-    "lugar": "Región de Maule",
-    "region": "Maule",
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
     "nivel": "ATP",
     "sae": false,
     "ts": "17-10",
     "comuna_link": "",
-    "region_link": "maule"
+    "region_link": "atacama"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -157,13 +148,22 @@
     "region_link": "los rios"
    },
    {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
     "nivel": "ATP",
     "sae": false,
     "ts": "18-10",
     "comuna_link": "",
-    "region_link": "nuble"
+    "region_link": "los lagos"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "18-10",
+    "comuna_link": "",
+    "region_link": "biobio"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -180,7 +180,7 @@
     "lugar": "Región de Metropolitana de Santiago",
     "region": "Metropolitana de Santiago",
     "nivel": "ROJA",
-    "sae": false,
+    "sae": true,
     "ts": "18-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
@@ -255,6 +255,26 @@
     "region_link": "nuble"
    }
   ],
+  "evento meteorológico": [
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "26-10",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "22-10",
+    "comuna_link": "",
+    "region_link": "magallanes y de la antartica chilena"
+   }
+  ],
   "viento": [
    {
     "lugar": "Región de Ñuble",
@@ -265,38 +285,21 @@
     "comuna_link": "",
     "region_link": "nuble"
    }
-  ],
-  "evento meteorológico": [
-   {
-    "lugar": "Región de Magallanes y de la Antártica Chilena",
-    "region": "Magallanes y de la Antártica Chilena",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "22-10",
-    "comuna_link": "",
-    "region_link": "magallanes y de la antartica chilena"
-   }
   ]
  },
  "vigentes": {
-  "ROJA": 4,
-  "AMARILLA": 0,
-  "ATP": 12,
+  "ROJA": 6,
+  "AMARILLA": 2,
+  "ATP": 11,
   "regiones_roja": [
    "Biobío",
    "Coquimbo",
    "La Araucanía",
+   "Libertador General Bernardo O'Higgins",
    "Metropolitana de Santiago"
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-10-16",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 4,
-   "sae": 0
-  },
   {
    "fecha": "2026-10-17",
    "ROJA": 0,
@@ -362,43 +365,43 @@
   },
   {
    "fecha": "2026-10-26",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 5,
-   "sae": 0
+   "ROJA": 2,
+   "AMARILLA": 3,
+   "ATP": 7,
+   "sae": 1
   }
  ],
  "escalamientos": [
   {
-   "lugar": "Región de Biobío",
-   "region": "Biobío",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "region": "Libertador General Bernardo O'Higgins",
    "sae": false,
    "max": "ROJA",
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "16-10 19:07",
+     "ts": "19-10 21:51",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "21-10 10:39",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "21-10 11:30",
      "estado": "VIGENTE"
     },
     {
      "nivel": "ROJA",
-     "ts": "20-10 21:43",
+     "ts": "26-10 19:31",
      "estado": "VIGENTE"
     },
     {
-     "nivel": "ATP",
-     "ts": "21-10 09:04",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "21-10 13:40",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "22-10 11:22",
-     "estado": "VIGENTE"
+     "nivel": "AMARILLA",
+     "ts": "26-10 20:21",
+     "estado": "CANCELADA"
     }
    ]
   },
@@ -408,11 +411,6 @@
    "sae": true,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "22-10 11:46",
-     "estado": "CANCELADA"
-    },
     {
      "nivel": "ROJA",
      "ts": "22-10 14:07",
@@ -431,6 +429,11 @@
     {
      "nivel": "ATP",
      "ts": "26-10 09:09",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "26-10 19:45",
      "estado": "VIGENTE"
     }
    ]
@@ -469,6 +472,39 @@
    ]
   },
   {
+   "lugar": "Región de Biobío",
+   "region": "Biobío",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "18-10 21:28",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "20-10 21:43",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "21-10 09:04",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "21-10 13:40",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "22-10 11:22",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Coquimbo",
    "region": "Coquimbo",
    "sae": true,
@@ -493,39 +529,6 @@
      "nivel": "ATP",
      "ts": "24-10 08:05",
      "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "region": "Libertador General Bernardo O'Higgins",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "17-10 17:59",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "18-10 21:59",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "19-10 21:51",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "21-10 10:39",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "21-10 11:30",
-     "estado": "VIGENTE"
     }
    ]
   },
@@ -561,9 +564,108 @@
      "estado": "VIGENTE"
     }
    ]
+  },
+  {
+   "lugar": "Región de Maule",
+   "region": "Maule",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "17-10 17:44",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "26-10 18:53",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Ñuble",
+   "region": "Ñuble",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "18-10 18:19",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "26-10 19:51",
+     "estado": "VIGENTE"
+    }
+   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "26-10 20:21",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-24-15-10-52"
+  },
+  {
+   "ts": "26-10 19:51",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Ñuble",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-25-22-34-36"
+  },
+  {
+   "ts": "26-10 19:45",
+   "nivel": "ROJA",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "remoción en masa",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04"
+  },
+  {
+   "ts": "26-10 19:31",
+   "nivel": "ROJA",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-requinoa-por-tornado-2026-10-26-19-45-51"
+  },
+  {
+   "ts": "26-10 18:53",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Maule",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-24-16-03-09"
+  },
+  {
+   "ts": "26-10 17:49",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-huasco-y-freirina-por-viento-2026-10-26-19-42-10"
+  },
+  {
+   "ts": "26-10 17:29",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico-2026-10-26-19-21-11"
+  },
   {
    "ts": "26-10 12:05",
    "nivel": "ATP",
@@ -626,69 +728,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49"
-  },
-  {
-   "ts": "25-10 18:53",
-   "nivel": "ATP",
-   "lugar": "Región de Biobío",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-25-18-54-39"
-  },
-  {
-   "ts": "25-10 18:38",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-24-15-10-52"
-  },
-  {
-   "ts": "25-10 16:08",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-24-16-03-09"
-  },
-  {
-   "ts": "25-10 15:33",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-10-25-15-53-01"
-  },
-  {
-   "ts": "25-10 15:06",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-25-15-13-23"
-  },
-  {
-   "ts": "25-10 14:48",
-   "nivel": "AMARILLA",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-angol-por-evento-meteorologico-2026-10-22-22-13-52"
-  },
-  {
-   "ts": "25-10 10:37",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "nevadas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-24-23-03-46"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
