@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-27T01:21:42+00:00",
- "desde": "2026-10-25T01:21:39Z",
+ "generado": "2026-10-27T06:42:12+00:00",
+ "desde": "2026-10-25T06:42:09Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -15,25 +15,7 @@
      "canal": "CNN Chile",
      "publicado": "2026-10-26T23:42:28Z",
      "live": false,
-     "score": 2.86,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "la araucania": {
-   "comuna": "La Araucanía",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "nS0IgWfxwZw",
-     "url": "https://www.youtube.com/watch?v=nS0IgWfxwZw",
-     "titulo": "EN VIVO | Meganoticias Ahora - Lunes 26 de octubre de 2026",
-     "canal": "Meganoticias",
-     "publicado": "2026-10-26T02:20:17Z",
-     "live": true,
-     "score": 3.08,
+     "score": 2.42,
      "verificado": false,
      "embeddable": true
     }
@@ -45,13 +27,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "OWWqVl8gAbk",
-     "url": "https://www.youtube.com/watch?v=OWWqVl8gAbk",
-     "titulo": "🖥️📱 EN VIVO | 24 Central Red Biobío 26 de octubre 2026 🖥️📱",
-     "canal": "tvnredbiobio",
-     "publicado": "2026-10-27T01:11:02Z",
+     "id": "7NnLOQfJ4e8",
+     "url": "https://www.youtube.com/watch?v=7NnLOQfJ4e8",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-10-26T20:35:20Z",
      "live": true,
-     "score": 7.99,
+     "score": -2.84,
      "verificado": false,
      "embeddable": true
     },
@@ -62,18 +44,7 @@
      "canal": "SRGenial",
      "publicado": "2026-10-26T20:35:21Z",
      "live": true,
-     "score": -2.4,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "7NnLOQfJ4e8",
-     "url": "https://www.youtube.com/watch?v=7NnLOQfJ4e8",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-10-26T20:35:20Z",
-     "live": true,
-     "score": -2.4,
+     "score": -2.84,
      "verificado": false,
      "embeddable": true
     }
