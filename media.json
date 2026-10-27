@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-27T18:21:51+00:00",
- "desde": "2026-10-25T18:21:49Z",
+ "generado": "2026-10-27T18:37:33+00:00",
+ "desde": "2026-10-25T18:37:30Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -15,7 +15,7 @@
      "canal": "Patricio Navarro",
      "publicado": "2026-10-27T12:53:16Z",
      "live": true,
-     "score": -3.46,
+     "score": -3.48,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "CNN Chile",
      "publicado": "2026-10-26T23:42:28Z",
      "live": false,
-     "score": 1.45,
+     "score": 1.42,
      "verificado": false,
      "embeddable": true
     }
@@ -38,13 +38,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "FjYrtG8FSuY",
+     "url": "https://www.youtube.com/watch?v=FjYrtG8FSuY",
+     "titulo": "ATLETISMO - MASCULINO Y FEMENINO JUEGOS BINACIONALES DE LA ARAUCANIA 2026",
+     "canal": "INDChile",
+     "publicado": "2026-10-27T15:04:19Z",
+     "live": true,
+     "score": 7.7,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "X0dXPaBc7UU",
      "url": "https://www.youtube.com/watch?v=X0dXPaBc7UU",
      "titulo": "EN VIVO | Meganoticias Ahora - MARTES 27 de octubre de 2026",
      "canal": "Meganoticias",
      "publicado": "2026-10-26T20:38:38Z",
      "live": true,
-     "score": 3.19,
+     "score": 3.17,
      "verificado": false,
      "embeddable": true
     }
@@ -62,7 +73,7 @@
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-10-26T11:55:43Z",
      "live": true,
-     "score": 5.46,
+     "score": 5.44,
      "verificado": false,
      "embeddable": true
     },
@@ -73,7 +84,7 @@
      "canal": "SRGenial",
      "publicado": "2026-10-27T16:24:07Z",
      "live": true,
-     "score": -2.16,
+     "score": -2.19,
      "verificado": false,
      "embeddable": true
     },
@@ -84,7 +95,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-10-27T16:24:07Z",
      "live": true,
-     "score": -2.16,
+     "score": -2.19,
      "verificado": false,
      "embeddable": true
     }
@@ -102,7 +113,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-10-27T09:57:24Z",
      "live": true,
-     "score": -2.7,
+     "score": -2.72,
      "verificado": false,
      "embeddable": true
     }
