@@ -1,13 +1,87 @@
 {
- "generado": "2026-10-27T18:37:27+00:00",
+ "generado": "2026-10-27T22:30:58+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 12,
+ "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "ba4b12dc572c",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica Alerta Temprana Preventiva para las Provincias de Magallanes, Última Esperanza y Tierra del Fuego por altas temperaturas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A589 Altas temperaturas en Pampa patagónica Norte y Pampa patagónica Sur. 28-10 28-10 Abrir Aquí Asimismo, debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento: Alertamiento Pronóstico Enlace Aviso A586 Probables tormentas eléctricas, preferentemente durante la tarde-noche, con precipitaciones aislad",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-27T17:53:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-tormentas-electricas-2026-10-26-12-48-46",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "c862ab7acb29",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A587-1 Probables tormentas eléctricas en cordillera 28-10 29-10 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por tormentas eléctricas para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen , vi",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-27T17:35:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-tormentas-electricas-2026-10-27-18-41-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "f0de91bd694f",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la provincia del Tamarugal por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso A587-1 Probables tormentas eléctricas en precordillera y cordillera. 28-10 29-10 Abrir aquí Aviso A592 Viento normal a moderado en cordillera. 28-10 29-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED declara la Alerta Temprana Preventiva por evento meteoro",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-27T17:23:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-evento-meteorologico-2026-10-27-18-38-29",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "71d0418c2dff",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591 Probables tormentas eléctricas en la precordillera y valles precordilleranos, y cordillera. Con probabilidad de granizos y fuertes rachas de vientos locales. 28-10 29-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva para",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-27T16:31:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "b7741268328a",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A592 Viento normal a moderado en cordillera. 28-10 29-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED declara la Alerta Temprana Preventiva por viento para la Provincia de Parinacota y la comuna de Camarones, vigente desde hoy y hasta que las condiciones así lo am",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-27T16:15:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
   {
    "id": "068b9e88dc91",
    "nivel": "ATP",
@@ -107,22 +181,6 @@
    "regiones_extra": []
   },
   {
-   "id": "b4aace46a8e2",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Ríos, debido al debilitamiento de las condiciones meteorológicas que lo originaron. Alertamiento Pronóstico Enlace Aviso A584 Probables tormentas eléctricas en Precordillera y Cordillera. Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva regional por tormentas eléctricas , que se mantení",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-27T08:57:33.3333-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-25-20-24-57",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
-  },
-  {
    "id": "046583d41289",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -180,22 +238,6 @@
    "regiones_extra": []
   },
   {
-   "id": "97cefb679688",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica evento y cobertura de Alerta Temprana Preventiva para las Provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A586 Probables tormentas eléctricas, preferentemente durante la tarde-noche, con precipitaciones aisladas en zonas Cordillera Austral Norte y Pampa Patagónica Norte. 26-10 26-10 Abrir aquí Aviso A589 Altas temperaturas en Pampa patagónica Norte y Pampa patagónica Sur. 28-10 28-10 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de M",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-26T18:32:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-tormentas-electricas-2026-10-26-12-48-46",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
-  },
-  {
    "id": "cf2674762708",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -222,6 +264,22 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57",
    "origen": "senapred_web",
    "regiones_extra": []
+  },
+  {
+   "id": "a4ff1a019d4e",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron han sido cancelados los siguientes alertamientos meteorológicos para la Región de Magallanes: Alertamiento Pronóstico Aviso A576 Altas temperaturas en pampa patagónica norte, Laguna Blanca y San Gregorio. Aviso A581 Probables tormentas eléctricas en cordillera austral norte, insular norte, pampa patagónica norte y pampa patagónica sur de la región. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-26T11:35:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-ultima-esperanza-y-la-comuna-de-primavera-por-altas-temperaturas-2026-10-22-17-27-52",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
   },
   {
    "id": "c3bafa69800f",
@@ -513,7 +571,7 @@
    "descripcion": "¡ATENCIÓN! Por desborde del Río Mapocho #SENAPRED solicita evacuar campamento Ribera del Río en la comuna de #Talagante, Región Metropolitana.\nPara reforzar la evacuación en terreno por parte de los organismos técnicos #SENAPRED activó mensajería #SAE.   \nRecuerda mantener la calma y acatar las indicaciones de la autoridad y de los equipos de respuesta. Durante la evacuación, no olvides considerar a tu mascota y sus necesidades.    \nMás información en: https://web.senapred.cl/dimension-animal/",
    "region": "Metropolitana de Santiago",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-10-20T22:05:12+00:00",
    "url": "https://t.me/SenapredChile/1644",
    "origen": "telegram",
@@ -527,7 +585,7 @@
    "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Volcán Villarrica mantiene la alerta técnica en nivel Amarilla&nbsp; [1] . En relación con el Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, entre el 01 y 15 de octubre, se indica que el volcán presentó un bajo nivel de actividad sísmica, caracterizado por la ocurrencia de escasos eventos asociados a la dinámica de fluidos al interior del sistema volcánico, principalmente de largo periodo (LP) y en",
    "region": "La Araucanía",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-10-20T18:10:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53",
    "origen": "senapred_web",

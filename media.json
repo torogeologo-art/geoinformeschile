@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-27T18:37:33+00:00",
- "desde": "2026-10-25T18:37:30Z",
+ "generado": "2026-10-27T22:31:02+00:00",
+ "desde": "2026-10-25T22:30:59Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -15,7 +15,7 @@
      "canal": "Patricio Navarro",
      "publicado": "2026-10-27T12:53:16Z",
      "live": true,
-     "score": -3.48,
+     "score": -3.8,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "CNN Chile",
      "publicado": "2026-10-26T23:42:28Z",
      "live": false,
-     "score": 1.42,
+     "score": 1.1,
      "verificado": false,
      "embeddable": true
     }
@@ -44,7 +44,7 @@
      "canal": "INDChile",
      "publicado": "2026-10-27T15:04:19Z",
      "live": true,
-     "score": 7.7,
+     "score": 7.38,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +55,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-10-26T20:38:38Z",
      "live": true,
-     "score": 3.17,
+     "score": 2.84,
      "verificado": false,
      "embeddable": true
     }
@@ -73,29 +73,29 @@
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-10-26T11:55:43Z",
      "live": true,
-     "score": 5.44,
+     "score": 5.12,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "sbRcaIuJUmY",
-     "url": "https://www.youtube.com/watch?v=sbRcaIuJUmY",
+     "id": "uELAiET0RWM",
+     "url": "https://www.youtube.com/watch?v=uELAiET0RWM",
      "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
      "canal": "SRGenial",
-     "publicado": "2026-10-27T16:24:07Z",
+     "publicado": "2026-10-27T22:22:17Z",
      "live": true,
-     "score": -2.19,
+     "score": -2.01,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "wC97S3mMNW0",
-     "url": "https://www.youtube.com/watch?v=wC97S3mMNW0",
+     "id": "Kz6grMXp0Tw",
+     "url": "https://www.youtube.com/watch?v=Kz6grMXp0Tw",
      "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
      "canal": "Tele Genial",
-     "publicado": "2026-10-27T16:24:07Z",
+     "publicado": "2026-10-27T22:22:17Z",
      "live": true,
-     "score": -2.19,
+     "score": -2.01,
      "verificado": false,
      "embeddable": true
     }
@@ -113,7 +113,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-10-27T09:57:24Z",
      "live": true,
-     "score": -2.72,
+     "score": -3.05,
      "verificado": false,
      "embeddable": true
     }
