@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-27T06:42:12+00:00",
- "desde": "2026-10-25T06:42:09Z",
+ "generado": "2026-10-27T06:44:43+00:00",
+ "desde": "2026-10-25T06:44:41Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -15,7 +15,7 @@
      "canal": "CNN Chile",
      "publicado": "2026-10-26T23:42:28Z",
      "live": false,
-     "score": 2.42,
+     "score": 2.41,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +33,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-10-26T20:35:20Z",
      "live": true,
-     "score": -2.84,
+     "score": -2.85,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +44,7 @@
      "canal": "SRGenial",
      "publicado": "2026-10-26T20:35:21Z",
      "live": true,
-     "score": -2.84,
+     "score": -2.85,
      "verificado": false,
      "embeddable": true
     }
