@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-27T06:44:43+00:00",
- "desde": "2026-10-25T06:44:41Z",
+ "generado": "2026-10-27T12:43:13+00:00",
+ "desde": "2026-10-25T12:43:10Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -15,7 +15,25 @@
      "canal": "CNN Chile",
      "publicado": "2026-10-26T23:42:28Z",
      "live": false,
-     "score": 2.41,
+     "score": 1.92,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "la araucania": {
+   "comuna": "La Araucanía",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "X0dXPaBc7UU",
+     "url": "https://www.youtube.com/watch?v=X0dXPaBc7UU",
+     "titulo": "EN VIVO | Meganoticias Ahora - MARTES 27 de octubre de 2026",
+     "canal": "Meganoticias",
+     "publicado": "2026-10-26T20:38:38Z",
+     "live": true,
+     "score": 3.66,
      "verificado": false,
      "embeddable": true
     }
@@ -27,24 +45,31 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "7NnLOQfJ4e8",
-     "url": "https://www.youtube.com/watch?v=7NnLOQfJ4e8",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-10-26T20:35:20Z",
+     "id": "LIYw1hYrNHU",
+     "url": "https://www.youtube.com/watch?v=LIYw1hYrNHU",
+     "titulo": "🔴 San Pedro de la Paz en Vivo – Vista panorámica, Concepción, Chile (Cam-2)",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-10-26T11:55:43Z",
      "live": true,
-     "score": -2.85,
+     "score": 5.93,
      "verificado": false,
      "embeddable": true
-    },
+    }
+   ]
+  },
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
     {
-     "id": "7qp1v_XpjxQ",
-     "url": "https://www.youtube.com/watch?v=7qp1v_XpjxQ",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-10-26T20:35:21Z",
+     "id": "oAuX3x2ZKrc",
+     "url": "https://www.youtube.com/watch?v=oAuX3x2ZKrc",
+     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
+     "canal": "La Serena Drone",
+     "publicado": "2026-10-27T09:57:24Z",
      "live": true,
-     "score": -2.85,
+     "score": -2.23,
      "verificado": false,
      "embeddable": true
     }

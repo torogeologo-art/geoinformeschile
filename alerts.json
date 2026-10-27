@@ -1,13 +1,113 @@
 {
- "generado": "2026-10-27T06:44:39+00:00",
+ "generado": "2026-10-27T12:43:09+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 19,
+ "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "11db39212570",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Amarilla para la Región la Región de O’Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de O´Higgins debido al debilitamiento en las condiciones que los originaron: Alertamiento Pronóstico Inicio Fin Alerta AA190-1 Tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera costa, valle, precordillera y cordillera de la región. 26-10 26-10 Aviso A583-1 Probables Tormentas Eléctricas con probabilidad de granizos en cordillera de la costa, valle, precordillera y cordillera de",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-27T09:17:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-24-15-10-52",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a6822d49ffee",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Amarilla para la Región del Maule por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región del Maule, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Enlace Alerta AA190-1 Tormentas Eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera costa, valle, precordillera y cordillera de la región. Abrir aquí Aviso A583-1 Probables Tormentas Eléctricas con probabilidad de granizos en cordillera de la costa, valle, precordillera y cordi",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-27T09:15:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-24-16-03-09",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "22e93681aec7",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la región de La Araucanía por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de La Araucanía , debido al debilitamiento de las condiciones meteorológicas que lo originaron. Alertamiento Pronóstico Enlace Aviso A584 Probables tormentas eléctricas en Litoral, Cordillera Costa, Valle, Precordillera y Cordillera. Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional deLa Araucanía, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva regional",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-27T09:03:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-25-15-13-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "b4aace46a8e2",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Ríos, debido al debilitamiento de las condiciones meteorológicas que lo originaron. Alertamiento Pronóstico Enlace Aviso A584 Probables tormentas eléctricas en Precordillera y Cordillera. Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva regional por tormentas eléctricas , que se mantení",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-27T08:57:33.3333-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-25-20-24-57",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
+  {
+   "id": "54280632f647",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy martes 27 de octubre a las 07:55 horas, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán se presenta a continuación un resumen de los principales antecedentes asociados al evento observado y las observaciones comple",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-27T08:09:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "046583d41289",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se han cancelado los siguientes alertamientos meteorológicos para la Región del Biobío, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Alerta AA190 Tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, valle, precordillera y cordillera de la región. Aviso A583-1 Probables Tormentas Eléctricas con probabilidad de granizos en cordillera costa, valle, precordillera y cordillera de la región. En",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-27T07:03:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-25-18-54-39",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "7444a3bf5e09",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las Provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la Región de Valparaíso, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A583-1 Probables tormentas eléctricas con probabilidad de granizos en precordillera, valles precordilleranos y cordillera de la región. Avisos A585 Precipitaciones normales a moderadas en corto periodo de tiempo en precordillera y valles precordilleranos de la región. En consideración a estos antecedentes y",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-27T06:11:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-10-26-13-18-36",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "4c53dd26f36f",
    "nivel": "ROJA",
@@ -22,20 +122,6 @@
    "origen": "senapred_web",
    "regiones_extra": [],
    "sae": true
-  },
-  {
-   "id": "a51ffd20bb20",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva y Declara Alerta Amarilla para la Región de O´Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mantienen vigentes los siguientes alertamientos meteorológicos para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA190-1 Tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera costa, valle, precordillera y cordillera de la región. 26-10 26-10 Abrir aquí Aviso A583-1 Probables Tormentas Eléctricas con probabilidad de granizos en cordillera de la costa, valle, precordillera y cordillera de la región. 26-10 26-10 Abrir aquí Aviso A585",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-26T20:21:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-24-15-10-52",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "493a0f8c3986",
@@ -62,20 +148,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-26T19:31:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-requinoa-por-tornado-2026-10-26-19-45-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ad97dda855b4",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA190-1 Tormentas Eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera costa, valle, precordillera y cordillera de la región. 26-10 26-10 Abrir aquí Aviso A583-1 Probables Tormentas Eléctricas con probabilidad de granizos en cordillera de la costa, valle, precordillera y cordillera de la región. 26-10 26-10 Abrir aquí Aviso A585",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-26T18:53:52.5252-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-24-16-03-09",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -138,48 +210,6 @@
    "regiones_extra": []
   },
   {
-   "id": "3dcdea195f3e",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las Provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A583-1 Probables tormentas eléctricas con probabilidad de granizos en precordillera, valles precordilleranos y cordillera de la región. 26-10 26-10 Abrir aquí Avisos A585 Precipitaciones normales a moderadas en corto periodo de tiempo en precordillera y valles precordilleranos de la región. 26-10 26-10 Abrir aquí Asimismo, el Servicio Nacional de Geología y Mine",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-26T15:31:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-10-26-13-18-36",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "dc3e78406db3",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A584 Probables tormentas eléctricas en Precordillera y Cordillera de la región. 26-10 26-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva regional por tormentas eléctricas , vigente desde hoy y hasta que las condiciones así lo a",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-25T20:23:04.044-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-25-20-24-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ee0f90835692",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel Amarillo [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy domingo 25 de octubre a las 19:00 horas, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán registraron entre las 16:23 y las 21:16 UTC al menos seis pulsos eruptivos, caracterizados por la emisión de material piroclá",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-25T19:08:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "c3bafa69800f",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -194,20 +224,6 @@
    "regiones_extra": []
   },
   {
-   "id": "3d6f5c63eb7c",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Aviso A583 Probables Tormentas Eléctricas con probabilidad de granizos en valle, precordillera y cordillera de la región. 26-10 26-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva regional por tormentas eléctricas , vigente desde hoy y",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-25T18:53:46.4646-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-25-18-54-39",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "09ea301a6373",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -218,20 +234,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-25T15:33:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-10-25-15-53-01",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "21aa3e52977e",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A584 Probables tormentas eléctricas en Litoral, Cordillera Costa, Valle, Precordillera y Cordillera de la región. 26-10 26-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de&nbsp; La Araucanía , la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva regional por tormentas eléctricas , vige",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-25T15:06:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-25-15-13-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },
