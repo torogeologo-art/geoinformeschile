@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-27T12:45:53+00:00",
- "desde": "2026-10-25T12:45:50Z",
+ "generado": "2026-10-27T18:21:51+00:00",
+ "desde": "2026-10-25T18:21:49Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -9,13 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "Uyst_1Jvccc",
+     "url": "https://www.youtube.com/watch?v=Uyst_1Jvccc",
+     "titulo": "Tobalaba con Ossa / Ñuñoa / Santiago de chile en vivo",
+     "canal": "Patricio Navarro",
+     "publicado": "2026-10-27T12:53:16Z",
+     "live": true,
+     "score": -3.46,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "11v2yrme2qM",
      "url": "https://www.youtube.com/watch?v=11v2yrme2qM",
      "titulo": "Decretan alerta roja en la Región Metropolitana por intensa lluvia y remoción en masa",
      "canal": "CNN Chile",
      "publicado": "2026-10-26T23:42:28Z",
      "live": false,
-     "score": 1.91,
+     "score": 1.45,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +44,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-10-26T20:38:38Z",
      "live": true,
-     "score": 3.66,
+     "score": 3.19,
      "verificado": false,
      "embeddable": true
     }
@@ -51,7 +62,29 @@
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-10-26T11:55:43Z",
      "live": true,
-     "score": 5.93,
+     "score": 5.46,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "sbRcaIuJUmY",
+     "url": "https://www.youtube.com/watch?v=sbRcaIuJUmY",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-10-27T16:24:07Z",
+     "live": true,
+     "score": -2.16,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "wC97S3mMNW0",
+     "url": "https://www.youtube.com/watch?v=wC97S3mMNW0",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-10-27T16:24:07Z",
+     "live": true,
+     "score": -2.16,
      "verificado": false,
      "embeddable": true
     }
@@ -69,7 +102,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-10-27T09:57:24Z",
      "live": true,
-     "score": -2.23,
+     "score": -2.7,
      "verificado": false,
      "embeddable": true
     }
