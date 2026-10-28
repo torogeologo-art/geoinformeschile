@@ -1,13 +1,27 @@
 {
- "generado": "2026-10-28T08:11:27+00:00",
+ "generado": "2026-10-28T15:07:39+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "e72f7d61578f",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Atacama, debido al debilitamiento de las condiciones que lo originaron. Alertamiento Pronóstico Enlace Aviso A590 Viento normal a moderado con probabilidad de tormentas de arena en sector costero de la Provincia de Huasco. Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por viento para la",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-28T08:29:13.1313-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-huasco-y-freirina-por-viento-2026-10-26-19-42-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "20a28502d90c",
    "nivel": "ATP",
@@ -262,20 +276,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-26T19:31:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-requinoa-por-tornado-2026-10-26-19-45-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "cf2674762708",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A590 Viento normal a moderado con probabilidad de tormentas de arena en sector costero de la Provincia de Huasco (entre 40 y 60 km). 26-10 27-10 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por viento para las comunas de Huasco y",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-26T17:49:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-huasco-y-freirina-por-viento-2026-10-26-19-42-10",
    "origen": "senapred_web",
    "regiones_extra": []
   },

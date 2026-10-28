@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-28T08:11:47+00:00",
- "desde": "2026-10-26T08:11:45Z",
+ "generado": "2026-10-28T15:07:42+00:00",
+ "desde": "2026-10-26T15:07:40Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -9,53 +9,42 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "Cpmk9p4ICQQ",
+     "url": "https://www.youtube.com/watch?v=Cpmk9p4ICQQ",
+     "titulo": "Tobalaba con Ossa / Ñuñoa / Santiago de chile en vivo",
+     "canal": "Patricio Navarro",
+     "publicado": "2026-10-28T13:09:46Z",
+     "live": true,
+     "score": -3.16,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "11v2yrme2qM",
      "url": "https://www.youtube.com/watch?v=11v2yrme2qM",
      "titulo": "Decretan alerta roja en la Región Metropolitana por intensa lluvia y remoción en masa",
      "canal": "CNN Chile",
      "publicado": "2026-10-26T23:42:28Z",
      "live": false,
-     "score": 0.29,
+     "score": 0.0,
      "verificado": false,
      "embeddable": true
     }
    ]
   },
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
+  "la araucania": {
+   "comuna": "La Araucanía",
+   "region": "La Araucanía",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "LIYw1hYrNHU",
-     "url": "https://www.youtube.com/watch?v=LIYw1hYrNHU",
-     "titulo": "🔴 San Pedro de la Paz en Vivo – Vista panorámica, Concepción, Chile (Cam-2)",
-     "canal": "San Pedro de la Paz en Vivo",
-     "publicado": "2026-10-26T11:55:43Z",
+     "id": "sX5TDIZ2w-g",
+     "url": "https://www.youtube.com/watch?v=sX5TDIZ2w-g",
+     "titulo": "FUTBOL, MAGALLANES VS NEUQUEN, JUEGOS BINACIONALES 2026",
+     "canal": "INDChile",
+     "publicado": "2026-10-28T14:00:20Z",
      "live": true,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "gGTcSQPDFEQ",
-     "url": "https://www.youtube.com/watch?v=gGTcSQPDFEQ",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-10-28T03:15:37Z",
-     "live": true,
-     "score": -2.41,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "dRT2vrkfTuY",
-     "url": "https://www.youtube.com/watch?v=dRT2vrkfTuY",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-10-28T03:15:37Z",
-     "live": true,
-     "score": -2.41,
+     "score": 7.91,
      "verificado": false,
      "embeddable": true
     }
