@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-28T15:10:52+00:00",
- "desde": "2026-10-26T15:10:50Z",
+ "generado": "2026-10-28T20:17:43+00:00",
+ "desde": "2026-10-26T20:17:42Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -9,17 +9,6 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "Cpmk9p4ICQQ",
-     "url": "https://www.youtube.com/watch?v=Cpmk9p4ICQQ",
-     "titulo": "Tobalaba con Ossa / Ñuñoa / Santiago de chile en vivo",
-     "canal": "Patricio Navarro",
-     "publicado": "2026-10-28T13:09:46Z",
-     "live": true,
-     "score": -3.17,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "11v2yrme2qM",
      "url": "https://www.youtube.com/watch?v=11v2yrme2qM",
      "titulo": "Decretan alerta roja en la Región Metropolitana por intensa lluvia y remoción en masa",
@@ -27,24 +16,6 @@
      "publicado": "2026-10-26T23:42:28Z",
      "live": false,
      "score": 0.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "la araucania": {
-   "comuna": "La Araucanía",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "sX5TDIZ2w-g",
-     "url": "https://www.youtube.com/watch?v=sX5TDIZ2w-g",
-     "titulo": "FUTBOL, MAGALLANES VS NEUQUEN, JUEGOS BINACIONALES 2026",
-     "canal": "INDChile",
-     "publicado": "2026-10-28T14:00:20Z",
-     "live": true,
-     "score": 7.9,
      "verificado": false,
      "embeddable": true
     }
