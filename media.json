@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-28T01:46:58+00:00",
- "desde": "2026-10-26T01:46:56Z",
+ "generado": "2026-10-28T08:06:36+00:00",
+ "desde": "2026-10-26T08:06:34Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -9,42 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "Uyst_1Jvccc",
-     "url": "https://www.youtube.com/watch?v=Uyst_1Jvccc",
-     "titulo": "Tobalaba con Ossa / Ñuñoa / Santiago de chile en vivo",
-     "canal": "Patricio Navarro",
-     "publicado": "2026-10-27T12:53:16Z",
-     "live": true,
-     "score": -4.07,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "11v2yrme2qM",
      "url": "https://www.youtube.com/watch?v=11v2yrme2qM",
      "titulo": "Decretan alerta roja en la Región Metropolitana por intensa lluvia y remoción en masa",
      "canal": "CNN Chile",
      "publicado": "2026-10-26T23:42:28Z",
      "live": false,
-     "score": 0.83,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "la araucania": {
-   "comuna": "La Araucanía",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "FjYrtG8FSuY",
-     "url": "https://www.youtube.com/watch?v=FjYrtG8FSuY",
-     "titulo": "ATLETISMO - MASCULINO Y FEMENINO JUEGOS BINACIONALES DE LA ARAUCANIA 2026",
-     "canal": "INDChile",
-     "publicado": "2026-10-27T15:04:19Z",
-     "live": true,
-     "score": 7.11,
+     "score": 0.3,
      "verificado": false,
      "embeddable": true
     }
@@ -63,6 +34,28 @@
      "publicado": "2026-10-26T11:55:43Z",
      "live": true,
      "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "gGTcSQPDFEQ",
+     "url": "https://www.youtube.com/watch?v=gGTcSQPDFEQ",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-10-28T03:15:37Z",
+     "live": true,
+     "score": -2.4,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "dRT2vrkfTuY",
+     "url": "https://www.youtube.com/watch?v=dRT2vrkfTuY",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-10-28T03:15:37Z",
+     "live": true,
+     "score": -2.4,
      "verificado": false,
      "embeddable": true
     }
