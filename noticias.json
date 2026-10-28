@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-28T01:46:55+00:00",
+ "generado": "2026-10-28T08:11:45+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -2730,6 +2730,13 @@
    "comuna": "Curanilahue",
    "noticias": [
     {
+     "titulo": "Plan Pionero en Curanilahue: el modelo que combina ciencia, naturaleza e ingeniería para enfrentar las inundaciones fluviales en Chile - Universidad Austral de Chile",
+     "medio": "Universidad Austral de Chile",
+     "fecha": "2026-10-27T22:43:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQamRLUmpoQnZpcWJJbVdFbU1fZVlJR2gydWY2T3hSY2JCOGZMaGwwWFR1U2V1LWtkODRSTHZpZkNqSHk2NXItOXZwZlNmdmlENFZMaHMyMk5vZzQyNlVZaWFUWk9qRGVOeVk0dG00XzlVX3l3VTEtQW5TN3plOTZ4aEJHMFlLY0pWcHhIbW9LRy1oQndzRGw1NEVDNFROeC1iSDc3LUI2MGtzRjEwVGJ0ejZhYnh0djVKcWx2WkU3UlJ5Zy1Rdjl4RXJHNTg2cTNUVWlqUThsVEJBMi1iTTNsbnJ2VEdSZk1qUmUybw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Curanilahue registra cerca de 200 viviendas afectadas: alcalde reporta 320 mm de lluvia en la cordillera de Nahuelbuta - Canal 9 Bío Bío Televisión",
      "medio": "Canal 9 Bío Bío Televisión",
      "fecha": "2026-09-24T20:01:59+00:00",
@@ -2779,24 +2786,17 @@
      "sector": null
     },
     {
+     "titulo": "Sistema frontal provoca desbordes y evacuaciones en distintas zonas del sur del país - El Dínamo",
+     "medio": "El Dínamo",
+     "fecha": "2026-09-24T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXZyLTdBYTh1b09GS0ZqcVRzZTlpRnZsQnlDQ1FGcjlHZTdtcVVYaHVwamFJQTlxbndQUHY3dlNpY2JRaVVPcnpZMDJuOUJyQUM1bkVkT1AxZkx2WVJwM1FveFBjdllIQWlDdW5DM1RBQW5mNUExUWRsQTAyVWJzWkxneWJvUDg5amZjaXB1alBRX2V0MGtxQlpxYi1xc3BveDlFZE1vakpIa05QSk9tSy12TTJVblFxNHQ3eXJIdkkxRnM?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "[Minuto a Minuto] Sistema frontal: Casas bajo el agua, socavones y miles de afectados entre el Maule a La Araucanía - Radar BioBio",
      "medio": "Radar BioBio",
      "fecha": "2026-08-04T00:40:58+00:00",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeEV2NTByMmZHX3RWZE5PZ1d1NGpGNGRUaFBZaGpjXzN0ZmFzRmJDeTR3X2dfclRIdGJneVREaHZXTGNpc28zSVdIekZrejlJNWxlVkFja1NVVjRxd0dmYkZpVnVZVWlKamFLNUQ0TVFEYllIaVBSVTE4dVJIN095NTZJZGhLa0M1Y3ZnYVJhUjJFazJtUWNDM3RlMlJsblYyT0doWkdkTndTTThXV3FFeVpYZ05LT25udVdBSk9FMDVwLWpjc1Y1dU1SeEY4MTVBLXBSVHlHYlo0NnA1a1Z4bW9icU5CSVo5MHlN?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Director de Senapred en Bío Bío asegura que el peak del sistema frontal ya fue superado - Canal 9 Bío Bío Televisión",
-     "medio": "Canal 9 Bío Bío Televisión",
-     "fecha": "2026-08-02T15:10:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZjRBcXg3NXczUWNnU0lRSFJLRUd4eS03RXNVS2NPX09JcjNuV3liWU1Sa25fTVFXdVRSUnRBTmRXS2IwNWZXaGw0WVFULWRCdmdnRE5ITzQ2Z2d0Q2U4WnNvQzZCdngtdW9UM0VUTmZLQ2NrajZpazVhOXpiZURQZG1ubFBuOVBxS0txY01uMjV4LWV6UEp2MUJRTVYzVkdZaW9vNVJEd3BFUEtHQ1Zmb19vazdfVmMzM204bEdhU1M?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "SENAPRED activa Alertas SAE preventivas en Arauco, Penco y Curanilahue por crecidas y posible desborde de cauces - DUPLOS.CL",
-     "medio": "DUPLOS.CL",
-     "fecha": "2026-08-02T11:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcy1ES3cxTmZUcE9PclZTRlh5WGZhZlJOVlJiLWdVZ0hJUDNmYTVKTW80WnZhcGtiNHRTSTJST2NkUFFRTW1KUDZqVWw1c2h0bDd0emNqSmdIZzRTY25jZkNhMGZSczJfTzA3R0NGTUxHZTlnS3AybkNYd0xhVkFrRWtvYjJEdFBMbGxacmwyaGlCaDVQZ19QN1BDR0g?oc=5",
      "sector": null
     }
    ]
