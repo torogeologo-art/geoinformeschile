@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-27T22:39:13+00:00",
+ "generado": "2026-10-28T01:46:59+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "17-10-2026",
-  "hasta": "27-10-2026"
+  "desde": "18-10-2026",
+  "hasta": "28-10-2026"
  },
  "totales": {
-  "alertas": 125,
+  "alertas": 126,
   "sae": 4,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 91,
+   "ATP": 92,
    "ROJA": 10,
    "AMARILLA": 24
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    106
+    107
    ],
    [
     "remoción en masa",
@@ -297,12 +297,11 @@
   ]
  },
  "vigentes": {
-  "ROJA": 5,
+  "ROJA": 4,
   "AMARILLA": 1,
-  "ATP": 9,
+  "ATP": 11,
   "regiones_roja": [
    "Biobío",
-   "Coquimbo",
    "La Araucanía",
    "Libertador General Bernardo O'Higgins",
    "Metropolitana de Santiago"
@@ -383,7 +382,7 @@
    "fecha": "2026-10-27",
    "ROJA": 0,
    "AMARILLA": 4,
-   "ATP": 11,
+   "ATP": 12,
    "sae": 0
   }
  ],
@@ -461,11 +460,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "ATP",
-     "ts": "19-10 21:51",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "AMARILLA",
      "ts": "21-10 10:39",
      "estado": "CANCELADA"
@@ -484,6 +478,11 @@
      "nivel": "AMARILLA",
      "ts": "26-10 20:21",
      "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "27-10 21:02",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -653,6 +652,15 @@
  ],
  "cronologia": [
   {
+   "ts": "27-10 21:02",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-27-21-38-50"
+  },
+  {
    "ts": "27-10 19:29",
    "nivel": "ATP",
    "lugar": "Región de Maule",
@@ -768,15 +776,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
-  },
-  {
-   "ts": "27-10 07:03",
-   "nivel": "ATP",
-   "lugar": "Región de Biobío",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-25-18-54-39"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
