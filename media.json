@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-27T22:39:12+00:00",
- "desde": "2026-10-25T22:39:09Z",
+ "generado": "2026-10-28T01:45:58+00:00",
+ "desde": "2026-10-26T01:45:56Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -15,7 +15,7 @@
      "canal": "Patricio Navarro",
      "publicado": "2026-10-27T12:53:16Z",
      "live": true,
-     "score": -3.81,
+     "score": -4.07,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "CNN Chile",
      "publicado": "2026-10-26T23:42:28Z",
      "live": false,
-     "score": 1.09,
+     "score": 0.83,
      "verificado": false,
      "embeddable": true
     }
@@ -44,18 +44,7 @@
      "canal": "INDChile",
      "publicado": "2026-10-27T15:04:19Z",
      "live": true,
-     "score": 7.37,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "X0dXPaBc7UU",
-     "url": "https://www.youtube.com/watch?v=X0dXPaBc7UU",
-     "titulo": "EN VIVO | Meganoticias Ahora - MARTES 27 de octubre de 2026",
-     "canal": "Meganoticias",
-     "publicado": "2026-10-26T20:38:38Z",
-     "live": true,
-     "score": 2.83,
+     "score": 7.11,
      "verificado": false,
      "embeddable": true
     }
@@ -73,25 +62,7 @@
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-10-26T11:55:43Z",
      "live": true,
-     "score": 5.11,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "oAuX3x2ZKrc",
-     "url": "https://www.youtube.com/watch?v=oAuX3x2ZKrc",
-     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
-     "canal": "La Serena Drone",
-     "publicado": "2026-10-27T09:57:24Z",
-     "live": true,
-     "score": -3.06,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     }
