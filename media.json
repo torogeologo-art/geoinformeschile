@@ -1,6 +1,76 @@
 {
- "generado": "2026-10-29T13:35:12+00:00",
- "desde": "2026-10-27T13:35:10Z",
+ "generado": "2026-10-29T18:52:26+00:00",
+ "desde": "2026-10-27T18:52:24Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "biobio": {
+   "comuna": "Biobío",
+   "region": "Biobío",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "jEtN5KNx69A",
+     "url": "https://www.youtube.com/watch?v=jEtN5KNx69A",
+     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-10-29T16:46:46Z",
+     "live": true,
+     "score": 7.83,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "4TKryJ0S9Zc",
+     "url": "https://www.youtube.com/watch?v=4TKryJ0S9Zc",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-10-29T02:21:50Z",
+     "live": true,
+     "score": -3.38,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "QQ0syvOoNII",
+     "url": "https://www.youtube.com/watch?v=QQ0syvOoNII",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-10-29T02:21:50Z",
+     "live": true,
+     "score": -3.38,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "la araucania": {
+   "comuna": "La Araucanía",
+   "region": "La Araucanía",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "Y9FzI4K3aLI",
+     "url": "https://www.youtube.com/watch?v=Y9FzI4K3aLI",
+     "titulo": "ATLETISMO: JUEGOS BINACIONALES DE LA ARAUCANIA 2026 - 4TA JORNADA 29 DE OCTUBRE",
+     "canal": "INDChile",
+     "publicado": "2026-10-29T13:48:29Z",
+     "live": true,
+     "score": 7.58,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "838F6rQSYFQ",
+     "url": "https://www.youtube.com/watch?v=838F6rQSYFQ",
+     "titulo": "⚽️ La Pampa vs Los Lagos | Fútbol FEM | Juegos de la Araucania 2026 EN VIVO",
+     "canal": "Televisión Pública Pampeana",
+     "publicado": "2026-10-29T13:13:28Z",
+     "live": true,
+     "score": 7.53,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }

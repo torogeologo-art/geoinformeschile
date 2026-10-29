@@ -1,13 +1,41 @@
 {
- "generado": "2026-10-29T13:34:51+00:00",
+ "generado": "2026-10-29T18:52:23+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 11,
+ "total_vigentes": 12,
  "alertas": [
+  {
+   "id": "17d64ef8661d",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A587-2 Probables tormentas eléctricas, preferentemente durante la tarde-noche, con precipitaciones aisladas en precordillera y cordillera 29-10 29-10 Abrir Aquí Alerta AA191 Tormentas eléctricas en Cordillera sur Antofagasta-Cordillera y precordillera de la Región de Atacama. 29-10 29-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Dele",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-29T15:47:53.5353-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-tormentas-electricas-2026-10-27-18-41-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "9000f62225e7",
+   "nivel": "ROJA",
+   "tipo": "remoción en masa",
+   "titulo": "Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, respecto de la alta exposición y vulnerabilidad de la comunidad del sector de Villa El Mirador, en la comuna de Arauco, se informa que, la situación actual representa una amenaza para las viviendas, debido a la posibilidad de que una remoción en masa se desplace hacia dicho sector. Cabe destacar que, el 13 de octubre de 2026 se registró la rotura del pavimento debido al desplazamiento horizontal de la ladera, lo que obligó a realizar la evacuación preventiva de 33 personas. Asimismo, el 20 de octubre de",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-29T13:30:55.5555-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-arauco-por-remocion-en-masa-2026-10-20-21-44-09",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "e8edc60c4b28",
    "nivel": "ATP",
@@ -163,20 +191,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-28T15:07:19.1919-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "6cabf0c7609a",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A587-2 Probables tormentas eléctricas en precordillera y cordillera 28-10 29-10 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva por tormentas eléctricas para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Al",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-28T15:03:28.2828-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-tormentas-electricas-2026-10-27-18-41-11",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -575,20 +589,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-22T11:46:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-maipu-padre-hurtado-talagante-penaflor-el-monte-y-melipilla-por-crecida-2026-10-20-22-13-47",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "60a9d0bcb503",
-   "nivel": "ROJA",
-   "tipo": "remoción en masa",
-   "titulo": "Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, respecto de la alta exposición y vulnerabilidad de la comunidad del sector de Villa El Mirador, en la comuna de Arauco, se informa que, la situación actual representa una amenaza para las viviendas, debido a la posibilidad de que una remoción en masa se desplace hacia dicho sector. Cabe destacar que, el día de ayer 20 de octubre de 2026, tras una mesa técnica realizada entre la Delegación Presidencial Regional, SENAPRED, SERNAGEOMIN, municipalidad, SEREMI MINVU y otras instituciones, SERNAGEOMIN emitió u",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-10-21T13:40:19.1919-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-arauco-por-remocion-en-masa-2026-10-20-21-44-09",
    "origen": "senapred_web",
    "regiones_extra": []
   },
