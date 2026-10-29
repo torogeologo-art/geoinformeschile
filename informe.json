@@ -1,24 +1,24 @@
 {
- "generado": "2026-10-29T00:16:56+00:00",
+ "generado": "2026-10-29T06:19:28+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "19-10-2026",
   "hasta": "29-10-2026"
  },
  "totales": {
-  "alertas": 126,
+  "alertas": 121,
   "sae": 4,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 91,
-   "AMARILLA": 24,
+   "ATP": 89,
+   "AMARILLA": 21,
    "ROJA": 11
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    101
+    96
    ],
    [
     "remoción en masa",
@@ -58,33 +58,6 @@
     "region_link": "metropolitana de santiago"
    },
    {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "18-10",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "26-10",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "19-10",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
     "lugar": "Región de Ñuble",
     "region": "Ñuble",
     "nivel": "AMARILLA",
@@ -101,6 +74,15 @@
     "ts": "25-10",
     "comuna_link": "",
     "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "19-10",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
    },
    {
     "lugar": "Región de Atacama",
@@ -121,11 +103,29 @@
     "region_link": "valparaiso"
    },
    {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "26-10",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "20-10",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
     "lugar": "Región de Biobío",
     "region": "Biobío",
     "nivel": "ATP",
     "sae": false,
-    "ts": "18-10",
+    "ts": "19-10",
     "comuna_link": "",
     "region_link": "biobio"
    },
@@ -334,16 +334,9 @@
  },
  "serie": [
   {
-   "fecha": "2026-10-18",
-   "ROJA": 0,
-   "AMARILLA": 2,
-   "ATP": 2,
-   "sae": 0
-  },
-  {
    "fecha": "2026-10-19",
    "ROJA": 1,
-   "AMARILLA": 4,
+   "AMARILLA": 3,
    "ATP": 7,
    "sae": 0
   },
@@ -420,7 +413,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "18-10 21:28",
+     "ts": "19-10 09:31",
      "estado": "VIGENTE"
     },
     {
@@ -441,6 +434,39 @@
     {
      "nivel": "ATP",
      "ts": "22-10 11:22",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de La Araucanía",
+   "region": "La Araucanía",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ROJA",
+     "ts": "23-10 00:09",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "22-10 22:12",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "24-10 09:16",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "25-10 14:48",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "25-10 15:06",
      "estado": "VIGENTE"
     }
    ]
@@ -512,39 +538,6 @@
    ]
   },
   {
-   "lugar": "Región de La Araucanía",
-   "region": "La Araucanía",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "23-10 00:09",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "22-10 22:12",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "24-10 09:16",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "25-10 14:48",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "25-10 15:06",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Coquimbo",
    "region": "Coquimbo",
    "sae": true,
@@ -552,7 +545,7 @@
    "pasos": [
     {
      "nivel": "AMARILLA",
-     "ts": "19-10 01:31",
+     "ts": "20-10 09:06",
      "estado": "VIGENTE"
     },
     {
@@ -674,7 +667,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "18-10 22:08",
+     "ts": "20-10 08:09",
      "estado": "VIGENTE"
     },
     {
