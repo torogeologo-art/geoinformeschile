@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-29T18:52:23+00:00",
+ "generado": "2026-10-29T19:15:29+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 12,
  "alertas": [
+  {
+   "id": "8dbd25c33cab",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA191 Tormentas eléctricas en Cordillera sur. 29-10 29-10 Abrir aquí Aviso A592-2 Viento normal a moderado en Cordillera de la Costa, Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera. 29-10 31-10 Abrir aquí Aviso A588-1 Nevadas normales a moderadas en Cordillera. 28-10 30-10 Abrir aquí Aviso A587-2 Probables tormentas eléctric",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-29T15:51:13.1313-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico-2026-10-26-19-21-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "17d64ef8661d",
    "nivel": "AMARILLA",
@@ -191,20 +205,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-28T15:07:19.1919-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "0029d0d07d70",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A592-1 Viento normal a moderado en Cordillera de la Costa, Precordillera Occidental, Precordillera Alto Loa y Precordillera Salar. 28-10 30-10 Abrir aquí Aviso A588-1 Nevadas normales a moderadas en Cordillera. 28-10 30-10 Abrir aquí Aviso A587-2 Probables tormentas eléctricas en Cordillera de la Costa, Precordillera Occidental, Precordillera Alto Loa, Precordi",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-28T13:45:56.5656-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico-2026-10-26-19-21-11",
    "origen": "senapred_web",
    "regiones_extra": []
   },
