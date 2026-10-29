@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-29T23:10:17+00:00",
- "desde": "2026-10-27T23:10:14Z",
+ "generado": "2026-10-29T23:31:02+00:00",
+ "desde": "2026-10-27T23:30:58Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -15,7 +15,7 @@
      "canal": "Iump Coquimbo Oficial",
      "publicado": "2026-10-29T22:59:31Z",
      "live": true,
-     "score": 7.99,
+     "score": 7.96,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +33,7 @@
      "canal": "Canal 9 BiobioTV",
      "publicado": "2026-10-29T16:46:46Z",
      "live": true,
-     "score": 7.47,
+     "score": 7.44,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +44,7 @@
      "canal": "SRGenial",
      "publicado": "2026-10-29T02:21:50Z",
      "live": true,
-     "score": -3.73,
+     "score": -3.76,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +55,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-10-29T02:21:50Z",
      "live": true,
-     "score": -3.73,
+     "score": -3.76,
      "verificado": false,
      "embeddable": true
     }
@@ -73,7 +73,7 @@
      "canal": "Televisión Pública Pampeana",
      "publicado": "2026-10-29T21:20:34Z",
      "live": true,
-     "score": 7.85,
+     "score": 7.82,
      "verificado": false,
      "embeddable": true
     }
