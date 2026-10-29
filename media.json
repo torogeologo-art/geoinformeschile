@@ -1,25 +1,6 @@
 {
- "generado": "2026-10-28T20:19:25+00:00",
- "desde": "2026-10-26T20:19:24Z",
+ "generado": "2026-10-29T00:14:46+00:00",
+ "desde": "2026-10-27T00:14:44Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "metropolitana de santiago": {
-   "comuna": "Metropolitana de Santiago",
-   "region": "Metropolitana de Santiago",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "11v2yrme2qM",
-     "url": "https://www.youtube.com/watch?v=11v2yrme2qM",
-     "titulo": "Decretan alerta roja en la Región Metropolitana por intensa lluvia y remoción en masa",
-     "canal": "CNN Chile",
-     "publicado": "2026-10-26T23:42:28Z",
-     "live": false,
-     "score": 0.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
