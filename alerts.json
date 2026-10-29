@@ -1,13 +1,27 @@
 {
- "generado": "2026-10-29T06:19:08+00:00",
+ "generado": "2026-10-29T12:50:25+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 14,
+ "total_vigentes": 13,
  "alertas": [
+  {
+   "id": "c0e5901b8b0a",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido actualizado el siguiente alertamiento meteorológico, quedando fuera de cobertura la Región del Maule: Alertamiento Pronóstico Aviso A591 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en valle, precordillera y cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por tormentas eléctricas , que se mantení",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-29T08:25:42.4242-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-27-19-36-46",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "ba455a41297f",
    "nivel": "ATP",
@@ -175,20 +189,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-28T08:29:13.1313-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-huasco-y-freirina-por-viento-2026-10-26-19-42-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "bc9937f82880",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591 Probables Tormentas Eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en valle, precordillera y cordillera. 29-10 29-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por tormentas eléctricas ,",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-27T19:29:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-27-19-36-46",
    "origen": "senapred_web",
    "regiones_extra": []
   },
