@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-30T15:57:27+00:00",
- "desde": "2026-10-28T15:57:25Z",
+ "generado": "2026-10-30T16:38:28+00:00",
+ "desde": "2026-10-28T16:38:26Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -9,21 +9,32 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "QQ0syvOoNII",
-     "url": "https://www.youtube.com/watch?v=QQ0syvOoNII",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-10-29T02:21:50Z",
+     "id": "0OfbE_mFDX0",
+     "url": "https://www.youtube.com/watch?v=0OfbE_mFDX0",
+     "titulo": "Tu Deporte Radio #861, 30 de octubre 2026",
+     "canal": "Tu Deporte Radio",
+     "publicado": "2026-10-30T15:56:45Z",
      "live": true,
-     "score": -5.0,
+     "score": 7.94,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "4TKryJ0S9Zc",
-     "url": "https://www.youtube.com/watch?v=4TKryJ0S9Zc",
+     "id": "kRovBDEGlek",
+     "url": "https://www.youtube.com/watch?v=kRovBDEGlek",
+     "titulo": "Tu Deporte Radio #861, 30 de octubre 2026 📱",
+     "canal": "Tu Deporte Radio",
+     "publicado": "2026-10-30T15:56:45Z",
+     "live": true,
+     "score": 7.94,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "QQ0syvOoNII",
+     "url": "https://www.youtube.com/watch?v=QQ0syvOoNII",
      "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
+     "canal": "Tele Genial",
      "publicado": "2026-10-29T02:21:50Z",
      "live": true,
      "score": -5.0,
