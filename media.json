@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-30T02:59:36+00:00",
- "desde": "2026-10-28T02:59:34Z",
+ "generado": "2026-10-30T09:01:36+00:00",
+ "desde": "2026-10-28T09:01:34Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -9,13 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "NjzfNFdt9qc",
-     "url": "https://www.youtube.com/watch?v=NjzfNFdt9qc",
-     "titulo": "🔴 EN VIVO | Noticias Central | Canal 9 BíoBíoTV 💻",
-     "canal": "Canal 9 BiobioTV",
-     "publicado": "2026-10-29T23:44:30Z",
+     "id": "QQ0syvOoNII",
+     "url": "https://www.youtube.com/watch?v=QQ0syvOoNII",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-10-29T02:21:50Z",
      "live": true,
-     "score": 7.73,
+     "score": -4.56,
      "verificado": false,
      "embeddable": true
     },
@@ -26,18 +26,7 @@
      "canal": "SRGenial",
      "publicado": "2026-10-29T02:21:50Z",
      "live": true,
-     "score": -4.05,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "QQ0syvOoNII",
-     "url": "https://www.youtube.com/watch?v=QQ0syvOoNII",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-10-29T02:21:50Z",
-     "live": true,
-     "score": -4.05,
+     "score": -4.56,
      "verificado": false,
      "embeddable": true
     }

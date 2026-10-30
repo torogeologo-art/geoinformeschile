@@ -1,13 +1,41 @@
 {
- "generado": "2026-10-30T02:59:32+00:00",
+ "generado": "2026-10-30T09:01:34+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "c5caf890054c",
+   "nivel": "AMARILLA",
+   "tipo": "aluvión",
+   "titulo": "Monitoreo Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por tormentas eléctricas",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-3 Probables tormentas eléctricas asociadas con chubascos aislados en la precordillera, valles precordilleranos y cordillera. 29-10 31-10 Abrir aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrum",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-30T01:55:12.1212-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "3b6b7f14f2c2",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A592-2 Viento normal a moderado en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera Salar y cordillera. 29-10 31-10 Abrir aquí Aviso A588-1 Nevadas normales a moderadas en cordillera. 28-10 30-10 Abrir aquí Aviso A587-3 Probables tormentas eléctricas en cordillera. 29-10 30-10 Abrir aquí Por otra parte, el Servicio Naciona",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-30T01:37:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico-2026-10-26-19-21-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "ab036cbdb38c",
    "nivel": "ROJA",
@@ -79,20 +107,6 @@
    "regiones_extra": []
   },
   {
-   "id": "85c7cb2b1c61",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por tormentas eléctricas",
-   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-3 Probables tormentas eléctricas asociadas con chubascos aislados en la precordillera y valles precordilleranos y cordillera. 29-10 31-10 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para las comunas de La Higuera, Pai",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-29T16:53:52.5252-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "f7c51fb43ceb",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -131,20 +145,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-29T16:29:33.3333-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-29-16-31-23",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "8dbd25c33cab",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA191 Tormentas eléctricas en Cordillera sur. 29-10 29-10 Abrir aquí Aviso A592-2 Viento normal a moderado en Cordillera de la Costa, Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera. 29-10 31-10 Abrir aquí Aviso A588-1 Nevadas normales a moderadas en Cordillera. 28-10 30-10 Abrir aquí Aviso A587-2 Probables tormentas eléctric",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-29T15:51:13.1313-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico-2026-10-26-19-21-11",
    "origen": "senapred_web",
    "regiones_extra": []
   },
