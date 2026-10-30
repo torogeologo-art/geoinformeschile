@@ -1,8 +1,37 @@
 {
- "generado": "2026-10-30T20:39:48+00:00",
- "desde": "2026-10-28T20:39:46Z",
+ "generado": "2026-10-30T21:06:10+00:00",
+ "desde": "2026-10-28T21:06:07Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "s9JPXhsUVmU",
+     "url": "https://www.youtube.com/watch?v=s9JPXhsUVmU",
+     "titulo": "Coquimbo Unido vs Unión La Calera - Campeonato Nacional 30 Octubre | Radio Riquelme EN VIVO",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-10-30T20:57:37Z",
+     "live": true,
+     "score": 7.99,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "FE3352ZvIB4",
+     "url": "https://www.youtube.com/watch?v=FE3352ZvIB4",
+     "titulo": "COQUIMBO UNIDO VS U LA CALERA EN VIVO | VISTAZO DEPORTIVO",
+     "canal": "Vistazo Deportivo",
+     "publicado": "2026-10-30T01:17:10Z",
+     "live": true,
+     "score": 6.35,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "biobio": {
    "comuna": "Biobío",
    "region": "Biobío",
@@ -15,7 +44,7 @@
      "canal": "INDChile",
      "publicado": "2026-10-30T18:18:51Z",
      "live": true,
-     "score": 7.8,
+     "score": 7.77,
      "verificado": false,
      "embeddable": true
     },

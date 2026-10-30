@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-30T20:39:45+00:00",
+ "generado": "2026-10-30T21:06:05+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "8688c138c5ba",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-5 Probables tormentas eléctricas con probabilidad de granizos en valle, precordillera y cordillera. 30-10 01-11 Abrir aquí Aviso A595 Precipitaciones normales a moderadas en corto periodo de tiempo en valle y precordillera. 31-10 31-10 Abrir aquí Aviso A596 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-30T18:04:19.1919-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-30-06-42-18",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "10f493246489",
+   "nivel": "ATP",
+   "tipo": "otros",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Aysén por evento zoosanitario",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , a través de Oficio Ordinario N°511/2026, con fecha 29 de octubre del 2026, donde se indica que, referente a la emergencia por Influenza Aviar de Alta Patogenicidad ( IAAP) a nivel regional, desde que se controlaron los brotes y se efectuaron todas las acciones correspondientes, no se han detectado nuevos casos positivos en la región. En consideración a estos&nbsp;antecedentes y en coordinación con la Delegación Presidencial Regional de Aysén, la Dirección Regional del SENAPRED c ancela la Alerta Temprana",
+   "region": "Aysén del General Carlos Ibáñez del Campo",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-30T17:49:06.066-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-evento-zoosanitario-2026-04-20-16-52-19",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "5bb31f090d3e",
    "nivel": "AMARILLA",
@@ -193,29 +221,15 @@
    "regiones_extra": []
   },
   {
-   "id": "55322a94a8ce",
+   "id": "af0aa7c4068c",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-3 Probables tormentas eléctricas asociadas con chubascos aislados en valle, precordillera y cordillera. 31-10 31-10 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por evento meteorológico , vigente desde hoy y hasta",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-29T17:01:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-30-06-42-18",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "f7c51fb43ceb",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Ñuble por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-3 Probables tormentas eléctricas asociadas con chubascos aislados en valle, precordillera y cordillera. 31-10 31-10 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por tormentas eléctricas , vigente desde hoy y hasta que las",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-3 Probables tormentas eléctricas asociadas con chubascos aislados en valle, precordillera y cordillera. 31-10 31-10 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por evento meteorológico , vigente desde hoy y hasta que las",
    "region": "Ñuble",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-10-29T16:50:00.000-03:00",
+   "ts": "2026-10-29T16:53:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-tormentas-electricas-2026-10-29-16-51-29",
    "origen": "senapred_web",
    "regiones_extra": []
