@@ -1,13 +1,85 @@
 {
- "generado": "2026-10-30T09:53:26+00:00",
+ "generado": "2026-10-30T15:57:24+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 18,
+ "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "e30defdde8a5",
+   "nivel": "ATP",
+   "tipo": "aluvión",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-4 Probables tormentas eléctricas asociadas con chubascos aislados en valle, precordillera y cordillera. 30-10 31-10 Abrir aquí Asimismo, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (des",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-30T11:28:38.3838-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "7e7ac0d60f95",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A594 Probables tormentas eléctricas preferentemente durante la tarde-noche con precipitaciones aisladas en la región. 31-10 01-11 Abrir aquí Asimismo, conforme a lo indicado en el Pronóstico especial emitido por el Centro Meteorológico Regional Austral, del paso John Gardner del Parque Nacional Torres del Paine, las condiciones estimadas para los próximos días son la",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-30T11:12:37.3737-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-evento-meteorologico-2026-10-30-11-17-09",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "bd6cf5e003bd",
+   "nivel": "ROJA",
+   "tipo": "remoción en masa",
+   "titulo": "Monitoreo Alerta Roja para las comuna de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina  por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-4 Probables tormentas eléctricas en valle, precordillera y cordillera. 30-10 31-10 Abrir aquí Por otra parte, conforme a lo indicado por DMC en el Informe de Amenaza Meteorológica de la presente jornada, los montos pronosticados de precipitaciones, velocidades de viento y altura de isoterma cero, son los siguientes en los próximos días: Precipitaciones: entre &lt",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-30T10:52:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "4947e09b8d48",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen  por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Alerta AA191 Tormentas eléctricas en precordillera y cordillera. Aviso A587-3 Probables tormentas eléctricas en cordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por tormentas eléctricas para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla,",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-30T09:32:12.1212-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-tormentas-electricas-2026-10-27-18-41-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "447f41ee3417",
+   "nivel": "ATP",
+   "tipo": "aluvión",
+   "titulo": "Se modifica Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A592-2 Viento normal a moderado en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera Salar y cordillera. 29-10 31-10 Abrir aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos d",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-30T08:10:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico-2026-10-26-19-21-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "c5caf890054c",
    "nivel": "AMARILLA",
@@ -19,20 +91,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-30T01:55:12.1212-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "3b6b7f14f2c2",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A592-2 Viento normal a moderado en cordillera de la costa, precordillera occidental, precordillera Alto Loa, precordillera Salar y cordillera. 29-10 31-10 Abrir aquí Aviso A588-1 Nevadas normales a moderadas en cordillera. 28-10 30-10 Abrir aquí Aviso A587-3 Probables tormentas eléctricas en cordillera. 29-10 30-10 Abrir aquí Por otra parte, el Servicio Naciona",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-30T01:37:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico-2026-10-26-19-21-11",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -163,20 +221,6 @@
    "regiones_extra": []
   },
   {
-   "id": "17d64ef8661d",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A587-2 Probables tormentas eléctricas, preferentemente durante la tarde-noche, con precipitaciones aisladas en precordillera y cordillera 29-10 29-10 Abrir Aquí Alerta AA191 Tormentas eléctricas en Cordillera sur Antofagasta-Cordillera y precordillera de la Región de Atacama. 29-10 29-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Dele",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-29T15:47:53.5353-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-tormentas-electricas-2026-10-27-18-41-11",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "9000f62225e7",
    "nivel": "ROJA",
    "tipo": "remoción en masa",
@@ -235,22 +279,6 @@
    "regiones_extra": []
   },
   {
-   "id": "5611a223f923",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Temprana Preventiva para la comuna de Cabo de Hornos por precipitaciones",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A593 Precipitaciones normales a moderadas en Insular Sur. 29-10 29-10 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por precipitaciones para la comuna de Cabo de Hornos, vigente desde hoy y hasta que las condiciones así lo a",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-28T19:09:38.3838-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-cabo-de-hornos-por-precipitaciones-2026-10-28-19-11-08",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
-  },
-  {
    "id": "3e400e3f3e93",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -261,34 +289,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-28T17:13:46.4646-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-27-21-38-50",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "0c7c419359a2",
-   "nivel": "ROJA",
-   "tipo": "remoción en masa",
-   "titulo": "Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-1 Probables tormentas eléctricas en cordillera, con probabilidad de granizos y fuertes rachas de vientos locales. 28-10 29-10 Abrir aquí Por otra parte, conforme a lo indicado por DMC en el Informe de Amenaza Meteorológica de la presente jornada, los montos pronosticados de precipitaciones, velocidades de viento y altura de isoterma cero, son los siguientes en lo",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-28T15:42:17.1717-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "5d293f654cb2",
-   "nivel": "ATP",
-   "tipo": "aluvión",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-1 Probables tormentas eléctricas en cordillera, con probabilidad de granizos y fuertes rachas de vientos locales. 28-10 29-10 Abrir aquí Asimismo, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derr",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-28T15:07:19.1919-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57",
    "origen": "senapred_web",
    "regiones_extra": []
   },

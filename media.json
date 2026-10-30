@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-30T09:53:47+00:00",
- "desde": "2026-10-28T09:53:45Z",
+ "generado": "2026-10-30T15:57:27+00:00",
+ "desde": "2026-10-28T15:57:25Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -15,7 +15,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-10-29T02:21:50Z",
      "live": true,
-     "score": -4.63,
+     "score": -5.0,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "SRGenial",
      "publicado": "2026-10-29T02:21:50Z",
      "live": true,
-     "score": -4.63,
+     "score": -5.0,
      "verificado": false,
      "embeddable": true
     }
