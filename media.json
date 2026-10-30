@@ -1,39 +1,21 @@
 {
- "generado": "2026-10-29T23:31:02+00:00",
- "desde": "2026-10-27T23:30:58Z",
+ "generado": "2026-10-30T02:38:10+00:00",
+ "desde": "2026-10-28T02:38:07Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "_rMl3I0BjHE",
-     "url": "https://www.youtube.com/watch?v=_rMl3I0BjHE",
-     "titulo": "Iump Coquimbo Oficial está en vivo",
-     "canal": "Iump Coquimbo Oficial",
-     "publicado": "2026-10-29T22:59:31Z",
-     "live": true,
-     "score": 7.96,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "biobio": {
    "comuna": "Biobío",
    "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "jEtN5KNx69A",
-     "url": "https://www.youtube.com/watch?v=jEtN5KNx69A",
-     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
+     "id": "NjzfNFdt9qc",
+     "url": "https://www.youtube.com/watch?v=NjzfNFdt9qc",
+     "titulo": "🔴 EN VIVO | Noticias Central | Canal 9 BíoBíoTV 💻",
      "canal": "Canal 9 BiobioTV",
-     "publicado": "2026-10-29T16:46:46Z",
+     "publicado": "2026-10-29T23:44:30Z",
      "live": true,
-     "score": 7.44,
+     "score": 7.76,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +26,7 @@
      "canal": "SRGenial",
      "publicado": "2026-10-29T02:21:50Z",
      "live": true,
-     "score": -3.76,
+     "score": -4.02,
      "verificado": false,
      "embeddable": true
     },
@@ -55,25 +37,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-10-29T02:21:50Z",
      "live": true,
-     "score": -3.76,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "la araucania": {
-   "comuna": "La Araucanía",
-   "region": "La Araucanía",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "tebCa38jqls",
-     "url": "https://www.youtube.com/watch?v=tebCa38jqls",
-     "titulo": "🏐 La Pampa vs Chubut | Vóley Femenino | Juegos Binacionales de la Araucania  2026 EN VIVO",
-     "canal": "Televisión Pública Pampeana",
-     "publicado": "2026-10-29T21:20:34Z",
-     "live": true,
-     "score": 7.82,
+     "score": -4.02,
      "verificado": false,
      "embeddable": true
     }

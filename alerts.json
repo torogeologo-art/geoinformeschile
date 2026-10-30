@@ -1,12 +1,12 @@
 {
- "generado": "2026-10-29T23:30:40+00:00",
+ "generado": "2026-10-30T02:38:06+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 16,
  "alertas": [
   {
    "id": "ab036cbdb38c",
@@ -21,6 +21,20 @@
    "url": "https://t.me/SenapredChile/1671",
    "origen": "telegram",
    "sae": true
+  },
+  {
+   "id": "70771eb3224d",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Se modifica Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano y Vicuña por crecida",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección General de Aguas (DGA) de Coquimbo, indica que las estaciones hidrométricas “ Estero Derecho en Alcohuaz” y “ Río Cochiguaz en el Peñón” , en las comunas de Paihuano y Vicuña; la estación “ Río Elqui en Algarrobal” en la comuna de Vicuña; y la estación “Río Grande en las Ramadas” , en la comuna de Monte Patria se mantienen en umbral de alerta azul. Lo anterior, hace necesario reforzar el monitoreo preventivo de los cauces, riberas, sectores habitados e infraestructura emplazada en áreas susceptibles de afectación. En consideración",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-29T21:15:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "b85c15e884d7",
@@ -61,20 +75,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-29T18:50:15.1515-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-evento-meteorologico-2026-10-27-18-38-29",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "cb89560f8597",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-3 Probables tormentas eléctricas asociadas con chubascos aislados en valle, precordillera y cordillera. 31-10 31-10 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por evento meteorológico , vigente desde hoy y hasta",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-29T17:00:13.1313-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-29-17-02-00",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -642,7 +642,7 @@
    "descripcion": "¡ATENCIÓN! Por alerta de crecida, EVITE ribera del Río Rehue en la comuna de #Angol, Región de La Araucanía. \nPara reforzar el alertamiento preventivo #SENAPRED activó mensajería SAE.      \nMantente informado a través de los canales oficiales y sigue las indicaciones de la autoridad y de los equipos de respuesta en terreno.",
    "region": "La Araucanía",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-10-23T00:09:55+00:00",
    "url": "https://t.me/SenapredChile/1654",
    "origen": "telegram",
@@ -1295,20 +1295,6 @@
    "regiones_extra": []
   },
   {
-   "id": "1cf33455939d",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Paihuano y Vicuña por crecida",
-   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección General de Aguas (DGA) de Coquimbo, indica que las estaciones hidrométricas “ Estero Derecho en Alcohuaz” y “ Río Cochiguaz en el Peñón” , en las comunas de Paihuano y Vicuña; y la estación hidrométrica “ Río Elqui en Algarrobal” en la comuna de Vicuña han mantenido el umbral de alerta azul. Por otra parte, existe la probabilidad de que continúen registrándose incrementos de caudal y desbordes puntuales, por lo que, se hace necesario reforzar el monitoreo preventivo de los cauces, riberas, sectores habitados e infraestructura empl",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-02T16:41:04.044-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "1c86df06e2b2",
    "nivel": "ATP",
    "tipo": "otros",
@@ -1316,7 +1302,7 @@
    "descripcion": "En atención a los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , se encuentran vigentes las siguientes Resoluciones Exentas en la Región de Los Ríos: Resolución Exenta N° 1833 de 2026 Declaración de Emergencia Sanitaria, por la presencia del virus aviar de alta patogenicidad H5N1 (IAPP). Resolución Exenta N° 585 de 2026 Confirmación de presencia de virus aviar de alta patogenicidad H5N1 (IAPP) en la Región de Los Ríos. Activación de protocolos de vigilancia junto con formación del Centro de Operación Regional. Resolución Exenta N° 1404 de 2026 Dispone la despoblación,",
    "region": "Los Ríos",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-10-02T16:24:31.3131-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
    "origen": "senapred_web",
@@ -1365,62 +1351,6 @@
    "regiones_extra": [
     "Parinacota"
    ]
-  },
-  {
-   "id": "9a321e02a41f",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado el siguiente alertamiento meteorológico para la Región de La Araucanía: Alertamiento Pronóstico Aviso A510 Probables tormentas eléctricas en valle y precordillera. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED Cancela Alerta Temprana Preventiva Regional por tormentas eléctricas, que se mantuvo vigente desde el 28 de septiembre del 2026.",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-29T11:50:27.2727-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-09-28-12-49-42",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "9cabcbd81ee7",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC ), se ha cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Aviso A510 Probables tormentas eléctricas en valle, precordillera, Chiloé, Litoral Interior y Cordillera Austral. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED Cancela Alerta Temprana Preventiva Regional por evento meteorológico, que se mantuvo vigente desde el 24 de septiembre.2026",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-29T10:05:48.4848-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "9447f9a3eb5d",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Valdivia por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , las estación hidrométricas del “río&nbsp;Leufucade en Purulón” y “río Calle Calle en Pupunahue” indican una disminución en sus caudales, alcanzando valores normales, lo que supone una disminución del riesgo para la población cercana a este curso de agua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela Alerta Temprana Preventiva para la provincia de Valdivia por crecida, que se mantuvo vigente desde el 27 de se",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-29T09:29:14.1414-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mariquina-y-lanco-por-crecida-2026-09-24-04-11-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "18f9bc880f15",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado el siguiente alertamiento meteorológico para la Región del Maule: Alertamiento Pronóstico Aviso A511-2 Probables tormentas eléctricas asociadas con chubascos aislados en valle, precordillera y cordillera. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED c ancela Alerta Temprana Preventiva Regional por tormentas eléctricas, que se mantuvo vigente desde el 28 de septiembre del 2026.",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-09-29T08:57:37.3737-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-09-28-14-28-42",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "40c744b43b1b",
