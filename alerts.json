@@ -1,12 +1,12 @@
 {
- "generado": "2026-10-30T09:01:34+00:00",
+ "generado": "2026-10-30T09:53:26+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 18,
  "alertas": [
   {
    "id": "c5caf890054c",
@@ -103,6 +103,20 @@
    "estado": "VIGENTE",
    "ts": "2026-10-29T18:50:15.1515-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-evento-meteorologico-2026-10-27-18-38-29",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "55322a94a8ce",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-3 Probables tormentas eléctricas asociadas con chubascos aislados en valle, precordillera y cordillera. 31-10 31-10 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por evento meteorológico , vigente desde hoy y hasta",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-29T17:01:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-30-06-42-18",
    "origen": "senapred_web",
    "regiones_extra": []
   },
