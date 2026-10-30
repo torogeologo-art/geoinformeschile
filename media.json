@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-30T02:38:10+00:00",
- "desde": "2026-10-28T02:38:07Z",
+ "generado": "2026-10-30T02:59:36+00:00",
+ "desde": "2026-10-28T02:59:34Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -15,7 +15,7 @@
      "canal": "Canal 9 BiobioTV",
      "publicado": "2026-10-29T23:44:30Z",
      "live": true,
-     "score": 7.76,
+     "score": 7.73,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "SRGenial",
      "publicado": "2026-10-29T02:21:50Z",
      "live": true,
-     "score": -4.02,
+     "score": -4.05,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +37,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-10-29T02:21:50Z",
      "live": true,
-     "score": -4.02,
+     "score": -4.05,
      "verificado": false,
      "embeddable": true
     }
