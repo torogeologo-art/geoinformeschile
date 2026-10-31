@@ -1,32 +1,28 @@
 {
- "generado": "2026-10-31T00:49:43+00:00",
+ "generado": "2026-10-31T06:51:36+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "21-10-2026",
   "hasta": "31-10-2026"
  },
  "totales": {
-  "alertas": 126,
-  "sae": 4,
+  "alertas": 121,
+  "sae": 3,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "AMARILLA": 23,
-   "ROJA": 11,
-   "ATP": 92
+   "ATP": 89,
+   "AMARILLA": 22,
+   "ROJA": 10
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    95
+    93
    ],
    [
     "remoción en masa",
-    8
-   ],
-   [
-    "crecida de río",
-    6
+    7
    ],
    [
     "aluvión",
@@ -35,6 +31,10 @@
    [
     "evento meteorológico",
     5
+   ],
+   [
+    "crecida de río",
+    4
    ],
    [
     "nevadas",
@@ -52,24 +52,6 @@
  },
  "tipos_detalle": {
   "tormentas eléctricas": [
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "25-10",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "26-10",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
    {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
@@ -107,6 +89,15 @@
     "region_link": "valparaiso"
    },
    {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "25-10",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
     "lugar": "Región de Maule",
     "region": "Maule",
     "nivel": "AMARILLA",
@@ -116,6 +107,15 @@
     "region_link": "maule"
    },
    {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "26-10",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
     "lugar": "Región de Metropolitana de Santiago",
     "region": "Metropolitana de Santiago",
     "nivel": "AMARILLA",
@@ -123,15 +123,6 @@
     "ts": "30-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "21-10",
-    "comuna_link": "",
-    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Biobío",
@@ -150,6 +141,15 @@
     "ts": "21-10",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "21-10",
+    "comuna_link": "",
+    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -206,44 +206,6 @@
     "ts": "22-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "20-10",
-    "comuna_link": "",
-    "region_link": "los rios"
-   }
-  ],
-  "crecida de río": [
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "21-10",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "23-10",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "20-10",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
    }
   ],
   "aluvión": [
@@ -293,6 +255,35 @@
     "ts": "22-10",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
+   }
+  ],
+  "crecida de río": [
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "23-10",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "29-10",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "22-10",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
    }
   ],
   "nevadas": [
@@ -350,18 +341,11 @@
  },
  "serie": [
   {
-   "fecha": "2026-10-20",
-   "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 2,
-   "sae": 0
-  },
-  {
    "fecha": "2026-10-21",
-   "ROJA": 2,
+   "ROJA": 1,
    "AMARILLA": 3,
-   "ATP": 10,
-   "sae": 1
+   "ATP": 9,
+   "sae": 0
   },
   {
    "fecha": "2026-10-22",
@@ -429,34 +413,34 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de Metropolitana de Santiago",
-   "region": "Metropolitana de Santiago",
-   "sae": true,
+   "lugar": "Región de Biobío",
+   "region": "Biobío",
+   "sae": false,
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "ROJA",
-     "ts": "26-10 19:45",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "ATP",
-     "ts": "28-10 15:07",
+     "ts": "21-10 09:04",
      "estado": "VIGENTE"
     },
     {
      "nivel": "ROJA",
-     "ts": "28-10 15:42",
+     "ts": "21-10 13:40",
      "estado": "VIGENTE"
     },
     {
      "nivel": "ATP",
-     "ts": "30-10 11:28",
+     "ts": "22-10 11:22",
      "estado": "VIGENTE"
     },
     {
-     "nivel": "AMARILLA",
-     "ts": "30-10 13:58",
+     "nivel": "ROJA",
+     "ts": "29-10 13:30",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "29-10 16:29",
      "estado": "VIGENTE"
     }
    ]
@@ -495,72 +479,6 @@
    ]
   },
   {
-   "lugar": "Región de La Araucanía",
-   "region": "La Araucanía",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "23-10 00:09",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "22-10 22:12",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "24-10 09:16",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "25-10 14:48",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "25-10 15:06",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Biobío",
-   "region": "Biobío",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "21-10 09:04",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "21-10 13:40",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "22-10 11:22",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "29-10 13:30",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "29-10 16:29",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Libertador General Bernardo O'Higgins",
    "region": "Libertador General Bernardo O'Higgins",
    "sae": false,
@@ -594,6 +512,72 @@
    ]
   },
   {
+   "lugar": "Región de La Araucanía",
+   "region": "La Araucanía",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ROJA",
+     "ts": "23-10 00:09",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "22-10 22:12",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "24-10 09:16",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "25-10 14:48",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "25-10 15:06",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Metropolitana de Santiago",
+   "region": "Metropolitana de Santiago",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ROJA",
+     "ts": "26-10 19:45",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "28-10 15:07",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "28-10 15:42",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "30-10 11:28",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "30-10 13:58",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Ñuble",
    "region": "Ñuble",
    "sae": false,
@@ -601,7 +585,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "21-10 02:13",
+     "ts": "22-10 13:01",
      "estado": "VIGENTE"
     },
     {
