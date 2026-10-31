@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-31T20:28:06+00:00",
+ "generado": "2026-10-31T21:23:13+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,22 @@
  },
  "total_vigentes": 19,
  "alertas": [
+  {
+   "id": "cb50017acb27",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A594 Probables tormentas eléctricas preferentemente durante la tarde-noche con precipitaciones aisladas en la región. 31-10 01-11 Abrir aquí Aviso A598 Viento normal a moderado en cordillera austral sur, insular central y pampa patagónica sur en la región. 03-11 03-11 Abrir aquí Asimismo, conforme a lo indicado en el Pronóstico especial emitido por el Centro Meteorol",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-31T17:30:55.5555-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-evento-meteorologico-2026-10-30-11-17-09",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
   {
    "id": "a1ff83ac2a81",
    "nivel": "AMARILLA",
@@ -163,22 +179,6 @@
    "regiones_extra": []
   },
   {
-   "id": "7e7ac0d60f95",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A594 Probables tormentas eléctricas preferentemente durante la tarde-noche con precipitaciones aisladas en la región. 31-10 01-11 Abrir aquí Asimismo, conforme a lo indicado en el Pronóstico especial emitido por el Centro Meteorológico Regional Austral, del paso John Gardner del Parque Nacional Torres del Paine, las condiciones estimadas para los próximos días son la",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-30T11:12:37.3737-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-evento-meteorologico-2026-10-30-11-17-09",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
-  },
-  {
    "id": "bd6cf5e003bd",
    "nivel": "ROJA",
    "tipo": "remoción en masa",
@@ -191,6 +191,22 @@
    "url": "https://senapred.cl/alerta/monitoreo-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-30-10-52-54",
    "origen": "senapred_web",
    "regiones_extra": []
+  },
+  {
+   "id": "ecb04ec4f1b0",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Cabo de Hornos por precipitaciones",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DM C), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes, debido al debilitamiento de las condiciones que lo originaron. Alertamiento Pronóstico Aviso A593 Precipitaciones normales a moderadas en insular sur. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por precipitaciones para la comuna de Cabo de Hornos, que se mantenía vigente desde e",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-30T10:30:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-cabo-de-hornos-por-precipitaciones-2026-10-28-19-11-08",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
   },
   {
    "id": "4947e09b8d48",
