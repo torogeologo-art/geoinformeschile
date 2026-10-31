@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-31T06:51:36+00:00",
+ "generado": "2026-10-31T13:30:47+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "21-10-2026",
@@ -11,18 +11,18 @@
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 89,
    "AMARILLA": 22,
-   "ROJA": 10
+   "ATP": 88,
+   "ROJA": 11
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    93
+    91
    ],
    [
     "remoción en masa",
-    7
+    9
    ],
    [
     "aluvión",
@@ -52,24 +52,6 @@
  },
  "tipos_detalle": {
   "tormentas eléctricas": [
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "21-10",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "27-10",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
     "region": "Libertador General Bernardo O'Higgins",
@@ -107,6 +89,24 @@
     "region_link": "maule"
    },
    {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "22-10",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "27-10",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
     "lugar": "Región de Ñuble",
     "region": "Ñuble",
     "nivel": "AMARILLA",
@@ -123,15 +123,6 @@
     "ts": "30-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "21-10",
-    "comuna_link": "",
-    "region_link": "biobio"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -159,6 +150,15 @@
     "ts": "21-10",
     "comuna_link": "",
     "region_link": "los lagos"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "22-10",
+    "comuna_link": "",
+    "region_link": "biobio"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -206,6 +206,15 @@
     "ts": "22-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "21-10",
+    "comuna_link": "",
+    "region_link": "atacama"
    }
   ],
   "aluvión": [
@@ -343,8 +352,8 @@
   {
    "fecha": "2026-10-21",
    "ROJA": 1,
-   "AMARILLA": 3,
-   "ATP": 9,
+   "AMARILLA": 2,
+   "ATP": 8,
    "sae": 0
   },
   {
@@ -409,75 +418,16 @@
    "AMARILLA": 3,
    "ATP": 8,
    "sae": 0
+  },
+  {
+   "fecha": "2026-10-31",
+   "ROJA": 1,
+   "AMARILLA": 1,
+   "ATP": 0,
+   "sae": 0
   }
  ],
  "escalamientos": [
-  {
-   "lugar": "Región de Biobío",
-   "region": "Biobío",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "21-10 09:04",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "21-10 13:40",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "22-10 11:22",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "29-10 13:30",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "29-10 16:29",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Coquimbo",
-   "region": "Coquimbo",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "21-10 09:26",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "24-10 08:05",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "29-10 16:53",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "29-10 22:18",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "30-10 01:55",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
   {
    "lugar": "Región de Libertador General Bernardo O'Higgins",
    "region": "Libertador General Bernardo O'Higgins",
@@ -551,11 +501,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "ROJA",
-     "ts": "26-10 19:45",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "ATP",
      "ts": "28-10 15:07",
      "estado": "VIGENTE"
@@ -573,6 +518,72 @@
     {
      "nivel": "AMARILLA",
      "ts": "30-10 13:58",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "31-10 07:57",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Coquimbo",
+   "region": "Coquimbo",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "22-10 12:06",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "24-10 08:05",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "29-10 16:53",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "29-10 22:18",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "30-10 01:55",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Biobío",
+   "region": "Biobío",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ROJA",
+     "ts": "21-10 13:40",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "22-10 11:22",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "29-10 13:30",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "29-10 16:29",
      "estado": "VIGENTE"
     }
    ]
@@ -611,34 +622,6 @@
    ]
   },
   {
-   "lugar": "Región de Atacama",
-   "region": "Atacama",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "21-10 10:11",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "27-10 17:35",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "28-10 08:29",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "28-10 15:03",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Valparaíso",
    "region": "Valparaíso",
    "sae": false,
@@ -662,6 +645,34 @@
     {
      "nivel": "ATP",
      "ts": "30-10 19:21",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Atacama",
+   "region": "Atacama",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "21-10 17:38",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "27-10 17:35",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "28-10 08:29",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "28-10 15:03",
      "estado": "VIGENTE"
     }
    ]
@@ -691,6 +702,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "31-10 07:57",
+   "nivel": "ROJA",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "remoción en masa",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04"
+  },
+  {
+   "ts": "31-10 07:47",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57"
+  },
   {
    "ts": "30-10 19:21",
    "nivel": "ATP",
@@ -798,24 +827,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico-2026-10-26-19-21-11"
-  },
-  {
-   "ts": "29-10 22:18",
-   "nivel": "ROJA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "crecida de río",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1671"
-  },
-  {
-   "ts": "29-10 19:08",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Valparaíso",
-   "tipo": "otros",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-las-provincias-de-los-andes-e-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-alteracion-sanitaria"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
