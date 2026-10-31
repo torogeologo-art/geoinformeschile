@@ -1,61 +1,21 @@
 {
- "generado": "2026-10-31T00:49:43+00:00",
- "desde": "2026-10-29T00:49:40Z",
+ "generado": "2026-10-31T05:46:53+00:00",
+ "desde": "2026-10-29T05:46:51Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "FE3352ZvIB4",
-     "url": "https://www.youtube.com/watch?v=FE3352ZvIB4",
-     "titulo": "COQUIMBO UNIDO VS U LA CALERA EN VIVO | VISTAZO DEPORTIVO",
-     "canal": "Vistazo Deportivo",
-     "publicado": "2026-10-30T01:17:10Z",
-     "live": true,
-     "score": 6.04,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "biobio": {
    "comuna": "Biobío",
    "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "W-ndLiYMCPw",
-     "url": "https://www.youtube.com/watch?v=W-ndLiYMCPw",
-     "titulo": "VÓLEY MASC. | GRAN FINAL | Chubut vs Biobío | JUEGOS BINACIONALES ARAUCANÍA 2026",
-     "canal": "INDChile",
-     "publicado": "2026-10-30T18:18:51Z",
+     "id": "KU-S070is1M",
+     "url": "https://www.youtube.com/watch?v=KU-S070is1M",
+     "titulo": "EN VIVO | Meganoticias Ahora - Viernes 30 de octubre",
+     "canal": "Meganoticias",
+     "publicado": "2026-10-30T01:57:24Z",
      "live": true,
-     "score": 7.46,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "QQ0syvOoNII",
-     "url": "https://www.youtube.com/watch?v=QQ0syvOoNII",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-10-29T02:21:50Z",
-     "live": true,
-     "score": -5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "4TKryJ0S9Zc",
-     "url": "https://www.youtube.com/watch?v=4TKryJ0S9Zc",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-10-29T02:21:50Z",
-     "live": true,
-     "score": -5.0,
+     "score": 2.68,
      "verificado": false,
      "embeddable": true
     }
