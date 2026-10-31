@@ -1,21 +1,21 @@
 {
- "generado": "2026-10-31T06:51:36+00:00",
- "desde": "2026-10-29T06:51:34Z",
+ "generado": "2026-10-31T11:57:42+00:00",
+ "desde": "2026-10-29T11:57:40Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
+  "metropolitana de santiago": {
+   "comuna": "Metropolitana de Santiago",
+   "region": "Metropolitana de Santiago",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "KU-S070is1M",
-     "url": "https://www.youtube.com/watch?v=KU-S070is1M",
-     "titulo": "EN VIVO | Meganoticias Ahora - Viernes 30 de octubre",
-     "canal": "Meganoticias",
-     "publicado": "2026-10-30T01:57:24Z",
+     "id": "8Wcs7bfZPo4",
+     "url": "https://www.youtube.com/watch?v=8Wcs7bfZPo4",
+     "titulo": "Tobalaba con Ossa / Ñuñoa / Santiago de chile en vivo",
+     "canal": "Patricio Navarro",
+     "publicado": "2026-10-30T14:41:56Z",
      "live": true,
-     "score": 2.59,
+     "score": -4.77,
      "verificado": false,
      "embeddable": true
     }

@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-31T06:51:17+00:00",
+ "generado": "2026-10-31T11:57:40+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "ba8da62ff612",
+   "nivel": "ROJA",
+   "tipo": "remoción en masa",
+   "titulo": "Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-5 Probables tormentas eléctricas asociadas con probabilidad de granizos en valle, precordillera y cordillera. 30-10 01-11 Abrir aquí Aviso A595 Precipitaciones normales a moderadas en corto periodo de tiempo en valle y precordillera. 31-10 31-10 Abrir aquí Asimismo, conforme a lo indicado por la DMC en el Informe de Amenaza Meteorológica de la presente jorn",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-31T07:57:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "831f1a4cd25d",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para la región Metropolitana por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-5 Probables tormentas eléctricas asociadas con probabilidad de granizos en valle, precordillera y cordillera. 30-10 01-11 Abrir aquí Aviso A595 Precipitaciones normales a moderadas (entre 10 y 20 mm) en corto periodo de tiempo en valle y precordillera. 31-10 31-10 Abrir aquí Asimismo, conforme a lo indicado por la DMC en el Informe de Amenaza Meteorológica",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-10-31T07:47:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "590650de9726",
    "nivel": "ATP",
@@ -19,34 +47,6 @@
    "estado": "VIGENTE",
    "ts": "2026-10-30T19:21:38.3838-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-10-29-18-30-53",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "bd6cf5e003bd",
-   "nivel": "ROJA",
-   "tipo": "remoción en masa",
-   "titulo": "Monitoreo Alerta Roja para las comuna de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC ), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-5 Probables tormentas eléctricas asociadas con probabilidad de granizos en valle, precordillera y cordillera. 30-10 01-11 Abrir aquí Aviso A595 Precipitaciones normales a moderadas en corto periodo de tiempo en valle y precordillera. 31-10 31-10 Abrir aquí Asimismo, conforme a lo indicado por la DMC en el Informe de Amenaza Meteorológica de la presente jor",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-30T19:16:50.5050-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "c4c5d97bd1e5",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-5 Probables tormentas eléctricas asociadas con probabilidad de granizos en valle, precordillera y cordillera. 30-10 01-11 Abrir aquí Aviso A595 Precipitaciones normales a moderadas en corto periodo de tiempo en valle y precordillera. 31-10 31-10 Abrir aquí Asimismo, conforme a lo indicado por la DMC en el Informe de Amenaza Meteorológica de la presente jor",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-30T19:12:48.4848-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -135,6 +135,20 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
+  },
+  {
+   "id": "bd6cf5e003bd",
+   "nivel": "ROJA",
+   "tipo": "remoción en masa",
+   "titulo": "Monitoreo Alerta Roja para las comuna de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-4 Probables tormentas eléctricas en valle, precordillera y cordillera. 30-10 31-10 Abrir aquí Por otra parte, conforme a lo indicado por DMC en el Informe de Amenaza Meteorológica de la presente jornada, los montos pronosticados de precipitaciones, velocidades de viento y altura de isoterma cero, son los siguientes en los próximos días: Precipitaciones: entre &l",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-10-30T10:51:03.033-03:00",
+   "url": "https://senapred.cl/alerta/monitoreo-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-30-10-52-54",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "4947e09b8d48",
