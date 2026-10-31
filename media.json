@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-30T21:06:10+00:00",
- "desde": "2026-10-28T21:06:07Z",
+ "generado": "2026-10-31T00:06:59+00:00",
+ "desde": "2026-10-29T00:06:56Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,24 +9,35 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "o5gHsFsiC8E",
+     "url": "https://www.youtube.com/watch?v=o5gHsFsiC8E",
+     "titulo": "Coquimbo Unido vs La Calera LIVE ⚽ | Chilean Primera Division | DCTV Sports",
+     "canal": "DCTV sports ",
+     "publicado": "2026-10-30T22:06:09Z",
+     "live": true,
+     "score": 7.83,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "EDHijO_Cb88",
+     "url": "https://www.youtube.com/watch?v=EDHijO_Cb88",
+     "titulo": "COQUIMBO UNIDO VS UNIÓN LA CALERA",
+     "canal": "MI RADIO TV",
+     "publicado": "2026-10-30T21:17:01Z",
+     "live": true,
+     "score": 7.76,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "s9JPXhsUVmU",
      "url": "https://www.youtube.com/watch?v=s9JPXhsUVmU",
      "titulo": "Coquimbo Unido vs Unión La Calera - Campeonato Nacional 30 Octubre | Radio Riquelme EN VIVO",
      "canal": "Radio Riquelme",
      "publicado": "2026-10-30T20:57:37Z",
      "live": true,
-     "score": 7.99,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "FE3352ZvIB4",
-     "url": "https://www.youtube.com/watch?v=FE3352ZvIB4",
-     "titulo": "COQUIMBO UNIDO VS U LA CALERA EN VIVO | VISTAZO DEPORTIVO",
-     "canal": "Vistazo Deportivo",
-     "publicado": "2026-10-30T01:17:10Z",
-     "live": true,
-     "score": 6.35,
+     "score": 7.74,
      "verificado": false,
      "embeddable": true
     }
@@ -38,13 +49,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "yWANVg7tE5o",
+     "url": "https://www.youtube.com/watch?v=yWANVg7tE5o",
+     "titulo": "🔴 EN VIVO | Noticias Central | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-10-30T23:45:23Z",
+     "live": true,
+     "score": 7.97,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "W-ndLiYMCPw",
      "url": "https://www.youtube.com/watch?v=W-ndLiYMCPw",
      "titulo": "VÓLEY MASC. | GRAN FINAL | Chubut vs Biobío | JUEGOS BINACIONALES ARAUCANÍA 2026",
      "canal": "INDChile",
      "publicado": "2026-10-30T18:18:51Z",
      "live": true,
-     "score": 7.77,
+     "score": 7.52,
      "verificado": false,
      "embeddable": true
     },
@@ -53,17 +75,6 @@
      "url": "https://www.youtube.com/watch?v=QQ0syvOoNII",
      "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
      "canal": "Tele Genial",
-     "publicado": "2026-10-29T02:21:50Z",
-     "live": true,
-     "score": -5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "4TKryJ0S9Zc",
-     "url": "https://www.youtube.com/watch?v=4TKryJ0S9Zc",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
      "publicado": "2026-10-29T02:21:50Z",
      "live": true,
      "score": -5.0,
