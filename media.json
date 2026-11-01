@@ -1,21 +1,21 @@
 {
- "generado": "2026-11-01T13:50:07+00:00",
- "desde": "2026-10-30T13:50:05Z",
+ "generado": "2026-11-01T16:40:57+00:00",
+ "desde": "2026-10-30T16:40:56Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "metropolitana de santiago": {
-   "comuna": "Metropolitana de Santiago",
-   "region": "Metropolitana de Santiago",
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "8Wcs7bfZPo4",
-     "url": "https://www.youtube.com/watch?v=8Wcs7bfZPo4",
-     "titulo": "Tobalaba con Ossa / Ñuñoa / Santiago de chile en vivo",
-     "canal": "Patricio Navarro",
-     "publicado": "2026-10-30T14:41:56Z",
+     "id": "S-yZwnKlMsY",
+     "url": "https://www.youtube.com/watch?v=S-yZwnKlMsY",
+     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
+     "canal": "La Serena Drone",
+     "publicado": "2026-11-01T14:44:59Z",
      "live": true,
-     "score": -6.0,
+     "score": -2.16,
      "verificado": false,
      "embeddable": true
     }
