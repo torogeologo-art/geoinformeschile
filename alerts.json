@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-01T18:49:50+00:00",
+ "generado": "2026-11-01T20:51:25+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "b7cd06b3d8fd",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña a evento meteorológico",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA192 Viento moderado a fuerte con desarrollo de ventisca en cordillera de la región. 03-11 03-11 Abrir aquí Aviso A591-7 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la región. 01-11 01-11 Abrir aquí Aviso A597-1 Viento normal a moderado con probabilidad de ventisca en cordillera de la región",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-01T16:00:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "8c225e895aa4",
    "nivel": "ATP",
@@ -193,20 +207,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "a1ff83ac2a81",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por evento meteorológico",
-   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-5 Probables tormentas eléctricas con probabilidad de granizos en la precordillera y valles precordilleranos y cordillera. 30-10 01-11 Abrir aquí Aviso A597 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 01-11 04-11 Abrir aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualizaci",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-31T16:06:11.1111-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "0140487b0427",
