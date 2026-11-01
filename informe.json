@@ -1,9 +1,9 @@
 {
- "generado": "2026-10-31T21:23:33+00:00",
+ "generado": "2026-11-01T00:20:55+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "21-10-2026",
-  "hasta": "31-10-2026"
+  "desde": "22-10-2026",
+  "hasta": "01-11-2026"
  },
  "totales": {
   "alertas": 118,
@@ -18,7 +18,7 @@
   "por_tipo": [
    [
     "tormentas eléctricas",
-    88
+    87
    ],
    [
     "remoción en masa",
@@ -41,26 +41,17 @@
     3
    ],
    [
-    "otros",
+    "viento",
     2
    ],
    [
-    "viento",
-    1
+    "otros",
+    2
    ]
   ]
  },
  "tipos_detalle": {
   "tormentas eléctricas": [
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "26-10",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
    {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
@@ -78,6 +69,15 @@
     "ts": "25-10",
     "comuna_link": "",
     "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "26-10",
+    "comuna_link": "",
+    "region_link": "maule"
    },
    {
     "lugar": "Región de Atacama",
@@ -306,6 +306,26 @@
     "region_link": "nuble"
    }
   ],
+  "viento": [
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "22-10",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "31-10",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   }
+  ],
   "otros": [
    {
     "lugar": "Región de Valparaíso",
@@ -325,23 +345,12 @@
     "comuna_link": "",
     "region_link": "aysen del general carlos ibanez del campo"
    }
-  ],
-  "viento": [
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "22-10",
-    "comuna_link": "",
-    "region_link": "nuble"
-   }
   ]
  },
  "vigentes": {
   "ROJA": 4,
   "AMARILLA": 2,
-  "ATP": 13,
+  "ATP": 12,
   "regiones_roja": [
    "Biobío",
    "Coquimbo",
@@ -349,13 +358,6 @@
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-10-21",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
   {
    "fecha": "2026-10-22",
    "ROJA": 1,
@@ -423,7 +425,7 @@
    "fecha": "2026-10-31",
    "ROJA": 1,
    "AMARILLA": 2,
-   "ATP": 6,
+   "ATP": 7,
    "sae": 0
   }
  ],
@@ -652,7 +654,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "21-10 19:18",
+     "ts": "22-10 14:49",
      "estado": "VIGENTE"
     },
     {
@@ -692,6 +694,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "31-10 20:47",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico-2026-10-26-19-21-11"
+  },
   {
    "ts": "31-10 17:30",
    "nivel": "ATP",
@@ -808,15 +819,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57"
-  },
-  {
-   "ts": "30-10 13:30",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-29-16-34-51"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

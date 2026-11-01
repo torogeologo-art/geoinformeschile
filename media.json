@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-31T23:38:15+00:00",
- "desde": "2026-10-29T23:38:13Z",
+ "generado": "2026-11-01T00:20:55+00:00",
+ "desde": "2026-10-30T00:20:53Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "metropolitana de santiago": {
@@ -15,25 +15,7 @@
      "canal": "Patricio Navarro",
      "publicado": "2026-10-30T14:41:56Z",
      "live": true,
-     "score": -5.74,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "DzUsTDx6AGg",
-     "url": "https://www.youtube.com/watch?v=DzUsTDx6AGg",
-     "titulo": "🔴#EnVivo | Servicio Especial Día Nacional de las Iglesias Evangélicas - #IMPCHCoquimbo",
-     "canal": "IMPCH COQUIMBO",
-     "publicado": "2026-10-31T16:21:18Z",
-     "live": true,
-     "score": 7.39,
+     "score": -5.8,
      "verificado": false,
      "embeddable": true
     }
