@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-01T20:51:28+00:00",
- "desde": "2026-10-30T20:51:26Z",
+ "generado": "2026-11-01T22:40:59+00:00",
+ "desde": "2026-10-30T22:40:57Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,13 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "lQbRchEXiO4",
+     "url": "https://www.youtube.com/watch?v=lQbRchEXiO4",
+     "titulo": "🔴#EnVivo | Servicio Especial Diezmos y Primicias - #IMPCHCoquimbo",
+     "canal": "IMPCH COQUIMBO",
+     "publicado": "2026-11-01T18:24:42Z",
+     "live": true,
+     "score": 7.64,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "S-yZwnKlMsY",
      "url": "https://www.youtube.com/watch?v=S-yZwnKlMsY",
      "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
      "canal": "La Serena Drone",
      "publicado": "2026-11-01T14:44:59Z",
      "live": true,
-     "score": -2.51,
+     "score": -2.66,
      "verificado": false,
      "embeddable": true
     }
