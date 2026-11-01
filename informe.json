@@ -1,24 +1,24 @@
 {
- "generado": "2026-11-01T00:20:55+00:00",
+ "generado": "2026-11-01T06:42:14+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "22-10-2026",
   "hasta": "01-11-2026"
  },
  "totales": {
-  "alertas": 118,
+  "alertas": 121,
   "sae": 3,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 87,
+   "ATP": 90,
    "AMARILLA": 21,
    "ROJA": 10
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    87
+    88
    ],
    [
     "remoción en masa",
@@ -30,19 +30,19 @@
    ],
    [
     "crecida de río",
-    5
+    6
    ],
    [
     "evento meteorológico",
     5
    ],
    [
-    "nevadas",
+    "viento",
     3
    ],
    [
-    "viento",
-    2
+    "nevadas",
+    3
    ],
    [
     "otros",
@@ -295,17 +295,6 @@
     "region_link": "magallanes y de la antartica chilena"
    }
   ],
-  "nevadas": [
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "25-10",
-    "comuna_link": "",
-    "region_link": "nuble"
-   }
-  ],
   "viento": [
    {
     "lugar": "Región de Ñuble",
@@ -324,6 +313,26 @@
     "ts": "31-10",
     "comuna_link": "",
     "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "31-10",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
+   }
+  ],
+  "nevadas": [
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "25-10",
+    "comuna_link": "",
+    "region_link": "nuble"
    }
   ],
   "otros": [
@@ -348,9 +357,9 @@
   ]
  },
  "vigentes": {
-  "ROJA": 4,
-  "AMARILLA": 2,
-  "ATP": 12,
+  "ROJA": 3,
+  "AMARILLA": 1,
+  "ATP": 11,
   "regiones_roja": [
    "Biobío",
    "Coquimbo",
@@ -425,7 +434,14 @@
    "fecha": "2026-10-31",
    "ROJA": 1,
    "AMARILLA": 2,
-   "ATP": 7,
+   "ATP": 9,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-11-01",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   }
  ],
@@ -470,11 +486,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "AMARILLA",
-     "ts": "29-10 16:53",
-     "estado": "CANCELADA"
-    },
-    {
      "nivel": "ROJA",
      "ts": "29-10 22:18",
      "estado": "VIGENTE"
@@ -492,6 +503,11 @@
     {
      "nivel": "AMARILLA",
      "ts": "31-10 16:06",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "01-11 03:23",
      "estado": "VIGENTE"
     }
    ]
@@ -695,6 +711,33 @@
  ],
  "cronologia": [
   {
+   "ts": "01-11 03:23",
+   "nivel": "ATP",
+   "lugar": "Región de Coquimbo",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21"
+  },
+  {
+   "ts": "31-10 22:39",
+   "nivel": "ATP",
+   "lugar": "Región de Tarapacá",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-evento-meteorologico-2026-10-27-18-38-29"
+  },
+  {
+   "ts": "31-10 22:01",
+   "nivel": "ATP",
+   "lugar": "Región de Arica y Parinacota",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22"
+  },
+  {
    "ts": "31-10 20:47",
    "nivel": "ATP",
    "lugar": "Región de Antofagasta",
@@ -792,33 +835,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-10-29-18-30-53"
-  },
-  {
-   "ts": "30-10 18:04",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-30-06-42-18"
-  },
-  {
-   "ts": "30-10 17:49",
-   "nivel": "ATP",
-   "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
-   "tipo": "otros",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-evento-zoosanitario-2026-04-20-16-52-19"
-  },
-  {
-   "ts": "30-10 13:58",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
