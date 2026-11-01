@@ -1,24 +1,24 @@
 {
- "generado": "2026-11-01T06:42:14+00:00",
+ "generado": "2026-11-01T13:50:08+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "22-10-2026",
   "hasta": "01-11-2026"
  },
  "totales": {
-  "alertas": 121,
+  "alertas": 122,
   "sae": 3,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 90,
+   "ATP": 91,
    "AMARILLA": 21,
    "ROJA": 10
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    88
+    89
    ],
    [
     "remoción en masa",
@@ -359,7 +359,7 @@
  "vigentes": {
   "ROJA": 3,
   "AMARILLA": 1,
-  "ATP": 11,
+  "ATP": 10,
   "regiones_roja": [
    "Biobío",
    "Coquimbo",
@@ -441,7 +441,7 @@
    "fecha": "2026-11-01",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 1,
+   "ATP": 2,
    "sae": 0
   }
  ],
@@ -711,6 +711,15 @@
  ],
  "cronologia": [
   {
+   "ts": "01-11 07:54",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-29-16-31-23"
+  },
+  {
    "ts": "01-11 03:23",
    "nivel": "ATP",
    "lugar": "Región de Coquimbo",
@@ -826,15 +835,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57"
-  },
-  {
-   "ts": "30-10 19:21",
-   "nivel": "ATP",
-   "lugar": "Región de Valparaíso",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-10-29-18-30-53"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

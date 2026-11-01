@@ -1,13 +1,27 @@
 {
- "generado": "2026-11-01T09:46:06+00:00",
+ "generado": "2026-11-01T13:49:47+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "c306e76d8d76",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), la actualización del siguiente alertamiento meteorológico no considera en su cobertura a la Región del Biobío: Alertamiento Pronóstico Aviso A591-6 Probables tormentas eléctricas asociadas con probabilidad de granizos en valle, precordillera y cordillera. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por tormentas eléctricas, que se mantuvo vigente desde el 29 de o",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-01T07:54:26.2626-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-29-16-31-23",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "32b6ff5a0959",
    "nivel": "ATP",
@@ -205,20 +219,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-30T16:54:27.2727-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-la-serena-por-incendio-forestal-2026-10-30-15-38-53",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "20d3e8e7b5d2",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-5 Probables tormentas eléctricas asociadas con probabilidad de granizos en valle, precordillera y cordillera. 31-10 31-10 Abrir aquí Por otra parte, conforme a lo indicado por DMC en el Informe de Amenaza Meteorológica de la presente jornada, para los próximos días los montos pronosticados de precipitaciones, velocidades de viento y altura de isoterma cero, son los",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-30T13:15:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-29-16-31-23",
    "origen": "senapred_web",
    "regiones_extra": []
   },
