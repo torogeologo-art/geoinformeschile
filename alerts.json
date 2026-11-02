@@ -1,12 +1,12 @@
 {
- "generado": "2026-11-01T22:40:37+00:00",
+ "generado": "2026-11-02T00:26:37+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 17,
  "alertas": [
   {
    "id": "b7cd06b3d8fd",
@@ -119,6 +119,38 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21",
    "origen": "senapred_web",
    "regiones_extra": []
+  },
+  {
+   "id": "755357068ebe",
+   "nivel": "ATP",
+   "tipo": "ola calor - altas temperaturas",
+   "titulo": "Se declara Alerta Temprana Preventiva Nacional por calor",
+   "descripcion": "De acuerdo a los compromisos adquiridos en la Ley Marco de Cambio Climático Nº 21.455 del Ministerio del Medio Ambiente y al Anexo del Plan Nacional de Emergencias ante la amenaza de calor extremo, se prevén eventos de calor durante el periodo estival que podrían generar un riesgo para la población debido al incremento sostenido y progresivo de la temperatura y la mayor frecuencia e intensidad de los episodios de temperaturas extremas, fundamentalmente registrados durante la última década en nuestro país. En función de lo anterior, y ante la necesidad de activar el Anexo del Plan Nacional de E",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-01T00:02:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-nacional-por-calor-2026-11-01-19-51-37",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Antofagasta",
+    "Coquimbo",
+    "Atacama",
+    "La Araucanía",
+    "Valparaíso",
+    "Libertador General Bernardo O'Higgins",
+    "Maule",
+    "Biobío",
+    "Los Lagos",
+    "Aysén del General Carlos Ibáñez del Campo",
+    "Magallanes y de la Antártica Chilena",
+    "de la Antártica Chilena",
+    "Metropolitana de Santiago",
+    "Los Ríos",
+    "Arica y Parinacota",
+    "Parinacota",
+    "Ñuble"
+   ]
   },
   {
    "id": "84d6dc29a97c",
@@ -1449,20 +1481,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-03T23:33:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-san-felipe-quillota-marga-marga-y-las-comunas-de-casablanca-cabildo-y-petorca-por-tormentas-electricas-2026-10-02-21-20-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1c86df06e2b2",
-   "nivel": "ATP",
-   "tipo": "otros",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario",
-   "descripcion": "En atención a los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , se encuentran vigentes las siguientes Resoluciones Exentas en la Región de Los Ríos: Resolución Exenta N° 1833 de 2026 Declaración de Emergencia Sanitaria, por la presencia del virus aviar de alta patogenicidad H5N1 (IAPP). Resolución Exenta N° 585 de 2026 Confirmación de presencia de virus aviar de alta patogenicidad H5N1 (IAPP) en la Región de Los Ríos. Activación de protocolos de vigilancia junto con formación del Centro de Operación Regional. Resolución Exenta N° 1404 de 2026 Dispone la despoblación,",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-02T16:24:31.3131-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
    "origen": "senapred_web",
    "regiones_extra": []
   },
