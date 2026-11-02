@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-02T19:35:53+00:00",
- "desde": "2026-10-31T19:35:51Z",
+ "generado": "2026-11-02T23:42:04+00:00",
+ "desde": "2026-10-31T23:42:02Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -15,7 +15,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-11-01T14:44:59Z",
      "live": true,
-     "score": -4.4,
+     "score": -4.75,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +33,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-11-02T10:54:00Z",
      "live": true,
-     "score": -2.72,
+     "score": -3.07,
      "verificado": false,
      "embeddable": true
     },
@@ -44,25 +44,7 @@
      "canal": "SRGenial",
      "publicado": "2026-11-02T10:54:00Z",
      "live": true,
-     "score": -2.72,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "metropolitana de santiago": {
-   "comuna": "Metropolitana de Santiago",
-   "region": "Metropolitana de Santiago",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "l73qh5RfJ4k",
-     "url": "https://www.youtube.com/watch?v=l73qh5RfJ4k",
-     "titulo": "En Vivo Lo mejor de la cumbia tropical y ranchera 2 DE NOVIEMBRE 2026 RADIO MÁGICA BUIN CHILE",
-     "canal": "Magica Buin Chile 🇨🇱",
-     "publicado": "2026-11-02T18:01:47Z",
-     "live": true,
-     "score": 0.87,
+     "score": -3.07,
      "verificado": false,
      "embeddable": true
     }
