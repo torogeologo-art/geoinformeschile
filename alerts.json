@@ -1,13 +1,27 @@
 {
- "generado": "2026-11-02T00:26:37+00:00",
+ "generado": "2026-11-02T01:52:11+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "10c35d1f25f2",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), la actualización del siguiente alertamiento meteorológico no considera en su cobertura a la Región de Ñuble: Alertamiento Pronóstico Aviso A591-5 Probables tormentas eléctricas con probabilidad de granizos en valle, precordillera y cordillera. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por evento meteorológico , que se mantuvo vigente desde el 29 de Octubre de 202",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-01T21:31:57.5757-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-tormentas-electricas-2026-10-29-16-51-29",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "b7cd06b3d8fd",
    "nivel": "AMARILLA",
@@ -239,20 +253,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "0140487b0427",
-   "nivel": "ATP",
-   "tipo": "aluvión",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-5 Probables tormentas eléctricas con probabilidad de granizos en valle, precordillera y cordillera. 31-10 31-10 Abrir aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (desli",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-31T13:32:53.5353-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-tormentas-electricas-2026-10-29-16-51-29",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "10f493246489",
