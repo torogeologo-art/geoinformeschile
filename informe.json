@@ -1,24 +1,24 @@
 {
- "generado": "2026-11-02T01:52:15+00:00",
+ "generado": "2026-11-02T09:14:05+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "23-10-2026",
   "hasta": "02-11-2026"
  },
  "totales": {
-  "alertas": 114,
+  "alertas": 113,
   "sae": 2,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 86,
+   "ATP": 85,
    "AMARILLA": 20,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    85
+    84
    ],
    [
     "aluvión",
@@ -116,15 +116,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "23-10",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
     "lugar": "Región de Los Lagos",
     "region": "Los Lagos",
     "nivel": "ATP",
@@ -150,6 +141,15 @@
     "ts": "24-10",
     "comuna_link": "",
     "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "24-10",
+    "comuna_link": "",
+    "region_link": "los rios"
    },
    {
     "lugar": "Región de Valparaíso",
@@ -344,7 +344,7 @@
    "fecha": "2026-10-23",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 4,
+   "ATP": 3,
    "sae": 0
   },
   {
