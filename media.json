@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-02T16:35:38+00:00",
- "desde": "2026-10-31T16:35:35Z",
+ "generado": "2026-11-02T19:35:53+00:00",
+ "desde": "2026-10-31T19:35:51Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -15,7 +15,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-11-01T14:44:59Z",
      "live": true,
-     "score": -4.15,
+     "score": -4.4,
      "verificado": false,
      "embeddable": true
     }
@@ -27,35 +27,42 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "2kVWpB_vhBw",
-     "url": "https://www.youtube.com/watch?v=2kVWpB_vhBw",
-     "titulo": "Tu Deporte Radio #862, 2 de onoviembre 2026",
-     "canal": "Tu Deporte Radio",
-     "publicado": "2026-11-02T15:50:18Z",
-     "live": true,
-     "score": 7.94,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "HB2DuJPq-2Q",
-     "url": "https://www.youtube.com/watch?v=HB2DuJPq-2Q",
-     "titulo": "Tu Deporte Radio #862, 2 de onoviembre 2026 📱",
-     "canal": "Tu Deporte Radio",
-     "publicado": "2026-11-02T15:50:18Z",
-     "live": true,
-     "score": 7.94,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "yTEG5wxdP0A",
      "url": "https://www.youtube.com/watch?v=yTEG5wxdP0A",
      "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
      "canal": "Tele Genial",
      "publicado": "2026-11-02T10:54:00Z",
      "live": true,
-     "score": -2.47,
+     "score": -2.72,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "M653UrTWVU8",
+     "url": "https://www.youtube.com/watch?v=M653UrTWVU8",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-11-02T10:54:00Z",
+     "live": true,
+     "score": -2.72,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "metropolitana de santiago": {
+   "comuna": "Metropolitana de Santiago",
+   "region": "Metropolitana de Santiago",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "l73qh5RfJ4k",
+     "url": "https://www.youtube.com/watch?v=l73qh5RfJ4k",
+     "titulo": "En Vivo Lo mejor de la cumbia tropical y ranchera 2 DE NOVIEMBRE 2026 RADIO MÁGICA BUIN CHILE",
+     "canal": "Magica Buin Chile 🇨🇱",
+     "publicado": "2026-11-02T18:01:47Z",
+     "live": true,
+     "score": 0.87,
      "verificado": false,
      "embeddable": true
     }
