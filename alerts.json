@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-03T11:57:32+00:00",
+ "generado": "2026-11-03T17:15:52+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,64 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "91feea8095f9",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se modifica Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego y comuna de Torres del Paine por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A598 Viento normal a moderado en Cordillera Austral Sur, Insular Central y Pampa Patagónica Sur. 03-11 03-11 Abrir aquí Asimismo, conforme a lo indicado en el Pronóstico Especial emitido por el Centro Meteorológico Regional Austral, del paso John Gardner del Parque Nacional Torres del Paine, las condiciones estimadas para el martes 03 de noviembre son las siguientes:",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-03T13:37:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-evento-meteorologico-2026-10-30-11-17-09",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "f4c0749972f1",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las provincias de San Antonio, Valparaíso, Los Andes, San Felipe y Petorca por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-9 Probables tormentas eléctricas asociadas con probabilidad de granizos en precordillera y valles precordilleranos y cordillera de la región. 03-11 03-11 Abrir aquí Aviso A601 Viento normal a moderado, en litoral de la región. 05-11 06-11 Abrir aquí Por otra parte, debido a su actualización el siguiente aviso pierde vigencia para la región: Alertamiento Pron",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-03T12:49:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-10-29-18-30-53",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "562a69e04756",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la región de La Araucanía por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A603 Probables tormentas eléctricas en Cordillera Costa y Valle de la región. 03-11 03-11 Abrir aquí Aviso A604 Probables desarrollos de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en Litoral, Valle y Precordillera de la región. 03-11 03-11 Abrir aquí Por otra parte, el Centro Zonal de Me",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-03T12:35:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-02-18-25-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "8d6197443f17",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-9 Probables tormentas eléctricas, preferentemente durante la tarde-noche, con precipitaciones aisladas en Precordillera y Cordillera de la región. 03-11 03-11 Abrir aquí Aviso A597-2 Viento normal a moderado con probabilidad de ventiscas, en cordillera de la región. 03-11 03-11 Abrir aquí Aviso A601 Viento normal a moderado, en litoral de la región. 05-11 06-11 Abrir a",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-03T10:09:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-02-17-41-09",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "4c91c15d6e97",
    "nivel": "ATP",
@@ -37,34 +95,6 @@
    "regiones_extra": []
   },
   {
-   "id": "3071a1427110",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las provincias de San Antonio, Valparaíso, Los Andes, San Felipe y Petorca por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC ), se mantiene vigente el siguiente alertamiento meteorológico para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-8 Probables tormentas eléctricas asociadas con probabilidad de granizos en precordillera y valles precordilleranos y cordillera. 30-10 01-11 Abrir aquí Aviso A597-1 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 02-11 02-11 Abrir aquí Aviso A601 Viento normal a moderado, en litoral de la región&nbsp; 05-11 06-11 Abrir aquí Compl",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-02T18:46:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-10-29-18-30-53",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "dc9603a9746b",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A603 Probables tormentas eléctricas en Cordillera Costa y Valle de la región. 03-11 03-11 Abrir aquí Por otra parte, el Centro Zonal de Meteorología Marina de Talcahuano, se encuentra vigente el aviso especial por la probabilidad de ocurrencia de nubes convectivas, con factibilidad de generar trombas marinas en el sector oceánico y costero de la región de La Araucaní",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-02T18:25:12.1212-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-02-18-25-59",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "efe3dbfb785e",
    "nivel": "ATP",
    "tipo": "otros",
@@ -79,20 +109,6 @@
    "regiones_extra": [
     "Parinacota"
    ]
-  },
-  {
-   "id": "b3d654dc568c",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-8 Probables tormentas eléctricas, preferentemente durante la tarde-noche, con precipitaciones aisladas en Precordillera y Cordillera de la región. 02-11 03-11 Abrir aquí Aviso A601 Viento normal a moderado, en litoral de la región del Biobío 05-11 06-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble,",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-02T17:39:43.4343-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-02-17-41-09",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "7fe043a5d26c",
@@ -307,22 +323,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico-2026-10-26-19-21-11",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "cb50017acb27",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A594 Probables tormentas eléctricas preferentemente durante la tarde-noche con precipitaciones aisladas en la región. 31-10 01-11 Abrir aquí Aviso A598 Viento normal a moderado en cordillera austral sur, insular central y pampa patagónica sur en la región. 03-11 03-11 Abrir aquí Asimismo, conforme a lo indicado en el Pronóstico especial emitido por el Centro Meteorol",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-10-31T17:30:55.5555-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-evento-meteorologico-2026-10-30-11-17-09",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "10f493246489",

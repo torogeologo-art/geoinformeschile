@@ -1,61 +1,43 @@
 {
- "generado": "2026-11-03T11:57:34+00:00",
- "desde": "2026-11-01T11:57:33Z",
+ "generado": "2026-11-03T17:16:12+00:00",
+ "desde": "2026-11-01T17:16:11Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "S-yZwnKlMsY",
-     "url": "https://www.youtube.com/watch?v=S-yZwnKlMsY",
-     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
-     "canal": "La Serena Drone",
-     "publicado": "2026-11-01T14:44:59Z",
-     "live": true,
-     "score": -5.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "biobio": {
    "comuna": "Biobío",
    "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "iCT7dPCAlws",
-     "url": "https://www.youtube.com/watch?v=iCT7dPCAlws",
-     "titulo": "🔴 San Pedro de la Paz en Vivo – Vista panorámica, Concepción, Chile (Cam-2)",
-     "canal": "San Pedro de la Paz en Vivo",
-     "publicado": "2026-11-03T02:30:28Z",
+     "id": "YtVIcVP_Udk",
+     "url": "https://www.youtube.com/watch?v=YtVIcVP_Udk",
+     "titulo": "“El TERRITORIO es protagonista”: Director del Festival BioBioCine explica apuesta por cine REGIONAL",
+     "canal": "El Desconcierto",
+     "publicado": "2026-11-03T16:55:09Z",
      "live": true,
-     "score": 7.21,
+     "score": 7.97,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "yTEG5wxdP0A",
-     "url": "https://www.youtube.com/watch?v=yTEG5wxdP0A",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-11-02T10:54:00Z",
+     "id": "gBQtePsgYuY",
+     "url": "https://www.youtube.com/watch?v=gBQtePsgYuY",
+     "titulo": "🔴 EN VIVO | Noticias Mediodía | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-11-03T16:45:30Z",
      "live": true,
-     "score": -4.09,
+     "score": 7.96,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "M653UrTWVU8",
-     "url": "https://www.youtube.com/watch?v=M653UrTWVU8",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-11-02T10:54:00Z",
+     "id": "LKP4cff3o7M",
+     "url": "https://www.youtube.com/watch?v=LKP4cff3o7M",
+     "titulo": "Tu Deporte Radio #863, 3 de onoviembre 2026",
+     "canal": "Tu Deporte Radio",
+     "publicado": "2026-11-03T15:44:54Z",
      "live": true,
-     "score": -4.09,
+     "score": 7.87,
      "verificado": false,
      "embeddable": true
     }
