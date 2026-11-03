@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-03T01:50:11+00:00",
- "desde": "2026-11-01T01:50:09Z",
+ "generado": "2026-11-03T04:03:45+00:00",
+ "desde": "2026-11-01T04:03:43Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,24 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "Yg39gs2-rQ4",
-     "url": "https://www.youtube.com/watch?v=Yg39gs2-rQ4",
-     "titulo": "Clásico Universitario Cruzado / Colo Colo casi listo / Copas y descenso / Comensales EN VIVO",
-     "canal": "LaTortaDeportes",
-     "publicado": "2026-11-03T00:51:57Z",
-     "live": true,
-     "score": 4.92,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "S-yZwnKlMsY",
      "url": "https://www.youtube.com/watch?v=S-yZwnKlMsY",
      "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
      "canal": "La Serena Drone",
      "publicado": "2026-11-01T14:44:59Z",
      "live": true,
-     "score": -4.92,
+     "score": -5.0,
      "verificado": false,
      "embeddable": true
     }
@@ -38,13 +27,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "M653UrTWVU8",
-     "url": "https://www.youtube.com/watch?v=M653UrTWVU8",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-11-02T10:54:00Z",
+     "id": "iCT7dPCAlws",
+     "url": "https://www.youtube.com/watch?v=iCT7dPCAlws",
+     "titulo": "🔴 San Pedro de la Paz en Vivo – Vista panorámica, Concepción, Chile (Cam-2)",
+     "canal": "San Pedro de la Paz en Vivo",
+     "publicado": "2026-11-03T02:30:28Z",
      "live": true,
-     "score": -3.24,
+     "score": 7.87,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +44,18 @@
      "canal": "Tele Genial",
      "publicado": "2026-11-02T10:54:00Z",
      "live": true,
-     "score": -3.24,
+     "score": -3.43,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "M653UrTWVU8",
+     "url": "https://www.youtube.com/watch?v=M653UrTWVU8",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "SRGenial",
+     "publicado": "2026-11-02T10:54:00Z",
+     "live": true,
+     "score": -3.43,
      "verificado": false,
      "embeddable": true
     }
