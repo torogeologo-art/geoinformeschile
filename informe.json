@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-03T01:50:12+00:00",
+ "generado": "2026-11-03T09:20:29+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "24-10-2026",
@@ -341,7 +341,7 @@
  "vigentes": {
   "ROJA": 2,
   "AMARILLA": 1,
-  "ATP": 16,
+  "ATP": 15,
   "regiones_roja": [
    "Biobío",
    "Coquimbo"
