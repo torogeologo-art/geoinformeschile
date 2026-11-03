@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-02T23:42:01+00:00",
+ "generado": "2026-11-03T01:49:51+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -27,11 +27,11 @@
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
    "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las provincias de San Antonio, Valparaíso, Los Andes, San Felipe y Petorca por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-8 Probables tormentas eléctricas asociadas con probabilidad de granizos en precordillera y valles precordilleranos y cordillera. 30-10 01-11 Abrir aquí Aviso A597-1 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 02-11 02-11 Abrir aquí Aviso A601 Viento normal a moderado, en litoral de la región del Biobío 05-11 06-11 Abrir aquí C",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC ), se mantiene vigente el siguiente alertamiento meteorológico para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A591-8 Probables tormentas eléctricas asociadas con probabilidad de granizos en precordillera y valles precordilleranos y cordillera. 30-10 01-11 Abrir aquí Aviso A597-1 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 02-11 02-11 Abrir aquí Aviso A601 Viento normal a moderado, en litoral de la región&nbsp; 05-11 06-11 Abrir aquí Compl",
    "region": "Valparaíso",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-11-02T18:45:58.5858-03:00",
+   "ts": "2026-11-02T18:46:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-10-29-18-30-53",
    "origen": "senapred_web",
    "regiones_extra": []
@@ -1537,20 +1537,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-04T08:24:31.3131-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-09-29-18-52-18",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "49bd59f48d07",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las Provincias de Los Andes, San Felipe, Quillota, Marga Marga y las comunas de Casablanca, Cabildo y Petorca por Tormentas Eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Alerta AA173 Tormentas eléctricas con probabilidad de granizos en cordillera costa, precordillera y valles precordilleranos y cordillera de la región. Aviso A520-5 Probable tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo en cordillera costa, precordillera y valles precordilleranos y cordillera de la región. En consideración a estos antecedentes",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-03T23:33:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-san-felipe-quillota-marga-marga-y-las-comunas-de-casablanca-cabildo-y-petorca-por-tormentas-electricas-2026-10-02-21-20-57",
    "origen": "senapred_web",
    "regiones_extra": []
   },

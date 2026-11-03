@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-02T23:42:04+00:00",
- "desde": "2026-10-31T23:42:02Z",
+ "generado": "2026-11-03T01:50:11+00:00",
+ "desde": "2026-11-01T01:50:09Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,13 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "Yg39gs2-rQ4",
+     "url": "https://www.youtube.com/watch?v=Yg39gs2-rQ4",
+     "titulo": "Clásico Universitario Cruzado / Colo Colo casi listo / Copas y descenso / Comensales EN VIVO",
+     "canal": "LaTortaDeportes",
+     "publicado": "2026-11-03T00:51:57Z",
+     "live": true,
+     "score": 4.92,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "S-yZwnKlMsY",
      "url": "https://www.youtube.com/watch?v=S-yZwnKlMsY",
      "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
      "canal": "La Serena Drone",
      "publicado": "2026-11-01T14:44:59Z",
      "live": true,
-     "score": -4.75,
+     "score": -4.92,
      "verificado": false,
      "embeddable": true
     }
@@ -27,24 +38,24 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "yTEG5wxdP0A",
-     "url": "https://www.youtube.com/watch?v=yTEG5wxdP0A",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-11-02T10:54:00Z",
-     "live": true,
-     "score": -3.07,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "M653UrTWVU8",
      "url": "https://www.youtube.com/watch?v=M653UrTWVU8",
      "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
      "canal": "SRGenial",
      "publicado": "2026-11-02T10:54:00Z",
      "live": true,
-     "score": -3.07,
+     "score": -3.24,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "yTEG5wxdP0A",
+     "url": "https://www.youtube.com/watch?v=yTEG5wxdP0A",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-11-02T10:54:00Z",
+     "live": true,
+     "score": -3.24,
      "verificado": false,
      "embeddable": true
     }
