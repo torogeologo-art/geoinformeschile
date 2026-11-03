@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-03T19:25:15+00:00",
+ "generado": "2026-11-03T22:28:10+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "7125edfd8555",
+   "nivel": "ATP",
+   "tipo": "otros",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Tocopilla por plaga",
+   "descripcion": "De acuerdo con la información proporcionada por la Secretaría Regional Ministerial de Salud Antofagasta , mediante su resolución exenta N° 15436/2026, se indica que conforme a los constantes monitoreos y observaciones efectuados por las autoridades competentes en el borde costero de la región, se ha constatado que en la actualidad no se ha observado la presencia de ejemplares de la especie Hidrozoo Physalia physalis , también conocido como Fragata Portuguesa en el área marítima y borde costero comprendido desde la playa “CORPESCA” hasta la playa “Covadonga”. Debido a lo anterior, la Autoridad",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-03T18:47:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-tocopilla-por-plaga-2026-06-22-15-09-30",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "51d7ff4f563e",
+   "nivel": "ATP",
+   "tipo": "aluvión",
+   "titulo": "Se modifica Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A603 Probables tormentas eléctricas en Litoral, Cordillera Costa, Valle y Chiloé de la región. 03-11 03-11 Abrir aquí Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos, caídas de rocas)",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-03T18:25:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-11-02-16-27-15",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "87e19042e788",
    "nivel": "ATP",
@@ -135,20 +163,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-02T17:15:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1bbe0467a2b0",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A603 Probables tormentas eléctricas en Litoral, Cordillera Costa, Valle y Chiloé de la región. 03-11 03-11 Abrir aquí Adicionalmente de acuerdo con la información proporcionada en el informe de amenaza meteorológico emitido por la Dirección Meteorológica de Chile DMC en la jornada de hoy, para los próximos días en la región se esperan montos de precipitaciones entre 2 y",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-02T16:26:23.2323-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-11-02-16-27-15",
    "origen": "senapred_web",
    "regiones_extra": []
   },

@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-03T19:25:17+00:00",
- "desde": "2026-11-01T19:25:16Z",
+ "generado": "2026-11-03T22:28:13+00:00",
+ "desde": "2026-11-01T22:28:12Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -15,7 +15,7 @@
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-11-03T02:30:28Z",
      "live": true,
-     "score": 6.59,
+     "score": 6.34,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "SRGenial",
      "publicado": "2026-11-03T18:47:49Z",
      "live": true,
-     "score": -2.05,
+     "score": -2.31,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +37,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-11-03T18:47:49Z",
      "live": true,
-     "score": -2.05,
+     "score": -2.31,
      "verificado": false,
      "embeddable": true
     }
