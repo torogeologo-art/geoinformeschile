@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-03T09:20:29+00:00",
- "desde": "2026-11-01T09:20:27Z",
+ "generado": "2026-11-03T11:57:34+00:00",
+ "desde": "2026-11-01T11:57:33Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -33,7 +33,7 @@
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-11-03T02:30:28Z",
      "live": true,
-     "score": 7.43,
+     "score": 7.21,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +44,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-11-02T10:54:00Z",
      "live": true,
-     "score": -3.87,
+     "score": -4.09,
      "verificado": false,
      "embeddable": true
     },
@@ -55,7 +55,7 @@
      "canal": "SRGenial",
      "publicado": "2026-11-02T10:54:00Z",
      "live": true,
-     "score": -3.87,
+     "score": -4.09,
      "verificado": false,
      "embeddable": true
     }
