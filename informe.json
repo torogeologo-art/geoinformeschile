@@ -1,24 +1,24 @@
 {
- "generado": "2026-11-03T22:28:14+00:00",
+ "generado": "2026-11-04T02:39:16+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "24-10-2026",
-  "hasta": "03-11-2026"
+  "desde": "25-10-2026",
+  "hasta": "04-11-2026"
  },
  "totales": {
-  "alertas": 118,
+  "alertas": 116,
   "sae": 2,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 89,
+   "ATP": 87,
    "AMARILLA": 21,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    85
+    83
    ],
    [
     "aluvión",
@@ -52,15 +52,6 @@
  },
  "tipos_detalle": {
   "tormentas eléctricas": [
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "26-10",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
    {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
@@ -107,6 +98,15 @@
     "region_link": "metropolitana de santiago"
    },
    {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "26-10",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
     "nivel": "AMARILLA",
@@ -114,15 +114,6 @@
     "ts": "29-10",
     "comuna_link": "",
     "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "24-10",
-    "comuna_link": "",
-    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -168,6 +159,15 @@
     "ts": "26-10",
     "comuna_link": "",
     "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "26-10",
+    "comuna_link": "",
+    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -376,13 +376,6 @@
  },
  "serie": [
   {
-   "fecha": "2026-10-24",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 2,
-   "sae": 0
-  },
-  {
    "fecha": "2026-10-25",
    "ROJA": 0,
    "AMARILLA": 1,
@@ -584,7 +577,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "24-10 23:01",
+     "ts": "25-10 10:37",
      "estado": "VIGENTE"
     },
     {
