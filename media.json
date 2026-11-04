@@ -1,13 +1,42 @@
 {
- "generado": "2026-11-03T22:28:13+00:00",
- "desde": "2026-11-01T22:28:12Z",
+ "generado": "2026-11-04T00:08:46+00:00",
+ "desde": "2026-11-02T00:08:45Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "LGeIm08Lgvo",
+     "url": "https://www.youtube.com/watch?v=LGeIm08Lgvo",
+     "titulo": "REPASAMOS EL FIN DE SEMANA - 1 AÑO DE COQUIMBO CAMPEÓN - SoloDeportes EN VIVO",
+     "canal": "SoloDeportes FM",
+     "publicado": "2026-11-03T13:00:33Z",
+     "live": true,
+     "score": 7.07,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "biobio": {
    "comuna": "Biobío",
    "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
+    {
+     "id": "ilut2lDs9zE",
+     "url": "https://www.youtube.com/watch?v=ilut2lDs9zE",
+     "titulo": "🔴 EN VIVO | Noticias Central | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-11-03T23:44:52Z",
+     "live": true,
+     "score": 7.97,
+     "verificado": false,
+     "embeddable": true
+    },
     {
      "id": "iCT7dPCAlws",
      "url": "https://www.youtube.com/watch?v=iCT7dPCAlws",
@@ -15,7 +44,7 @@
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-11-03T02:30:28Z",
      "live": true,
-     "score": 6.34,
+     "score": 6.2,
      "verificado": false,
      "embeddable": true
     },
@@ -26,18 +55,7 @@
      "canal": "SRGenial",
      "publicado": "2026-11-03T18:47:49Z",
      "live": true,
-     "score": -2.31,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "fsrWoeKQ0uI",
-     "url": "https://www.youtube.com/watch?v=fsrWoeKQ0uI",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-11-03T18:47:49Z",
-     "live": true,
-     "score": -2.31,
+     "score": -2.45,
      "verificado": false,
      "embeddable": true
     }

@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-03T22:28:10+00:00",
+ "generado": "2026-11-04T00:08:44+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -1523,34 +1523,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-05T00:36:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-09-30-11-40-54",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "5ec775412ddf",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones meteorológicas que lo originaron, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Los Ríos: Alertamiento Pronóstico Enlace Aviso A519 Probable desarrollo de nubes convectivas con características tornádicas y probabilidad de intensos vientos locales arrachados y tornádicos en cordillera de la costa y valle. Abrir aquí Aviso A520-1 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de t",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-04T18:07:46.4646-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-09-29-16-32-14",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "74ece8ad9ad8",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de La Araucanía: Alertamiento Pronóstico Enlace Aviso A520-5 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo en litoral, cordillera costa y valles. &nbsp; Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por tormentas eléctri",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-04T08:24:31.3131-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-09-29-18-52-18",
    "origen": "senapred_web",
    "regiones_extra": []
   },
