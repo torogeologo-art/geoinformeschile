@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-04T21:09:07+00:00",
- "desde": "2026-11-02T21:09:06Z",
+ "generado": "2026-11-04T23:29:40+00:00",
+ "desde": "2026-11-02T23:29:39Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -15,18 +15,29 @@
      "canal": "Radio Riquelme",
      "publicado": "2026-11-04T20:51:57Z",
      "live": true,
-     "score": 7.98,
+     "score": 7.78,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "Hq3nkWt03tk",
-     "url": "https://www.youtube.com/watch?v=Hq3nkWt03tk",
-     "titulo": "U CALERA VS COQUIMBO UNIDO EN VIVO | COPA CHILE 2026",
-     "canal": "Vistazo Deportivo",
-     "publicado": "2026-11-04T01:03:56Z",
+     "id": "JAhYkk4rgk0",
+     "url": "https://www.youtube.com/watch?v=JAhYkk4rgk0",
+     "titulo": "UNIÓN LA CALERA Vs COQUIMBO UNIDO - COPA CHILE - SoloDeportes EN VIVO",
+     "canal": "SoloDeportes FM",
+     "publicado": "2026-11-04T13:31:48Z",
      "live": true,
-     "score": 6.33,
+     "score": 7.17,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "8IUk_K1wMaY",
+     "url": "https://www.youtube.com/watch?v=8IUk_K1wMaY",
+     "titulo": "[EN VIVO] Unión La Calera vs Coquimbo Unido | Copa Chile Cuartos de Final ida | Día a Día Deportes",
+     "canal": "Diario El Día",
+     "publicado": "2026-11-04T02:45:49Z",
+     "live": true,
+     "score": 6.27,
      "verificado": false,
      "embeddable": true
     }
@@ -55,7 +66,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-11-04T07:29:16Z",
      "live": true,
-     "score": -3.14,
+     "score": -3.33,
      "verificado": false,
      "embeddable": true
     },
@@ -66,7 +77,7 @@
      "canal": "SRGenial",
      "publicado": "2026-11-04T07:29:16Z",
      "live": true,
-     "score": -3.14,
+     "score": -3.33,
      "verificado": false,
      "embeddable": true
     }
