@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-04T06:27:58+00:00",
- "desde": "2026-11-02T06:27:56Z",
+ "generado": "2026-11-04T14:49:22+00:00",
+ "desde": "2026-11-02T14:49:21Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "biobio": {
@@ -9,13 +9,35 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "LYo7SzdPuto",
+     "url": "https://www.youtube.com/watch?v=LYo7SzdPuto",
+     "titulo": "🔴 EN VIVO | NoticiasMatinal | Canal 9 BíoBíoTV 💻",
+     "canal": "Canal 9 BiobioTV",
+     "publicado": "2026-11-04T10:31:32Z",
+     "live": true,
+     "score": 7.64,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "iCT7dPCAlws",
      "url": "https://www.youtube.com/watch?v=iCT7dPCAlws",
      "titulo": "🔴 San Pedro de la Paz en Vivo – Vista panorámica, Concepción, Chile (Cam-2)",
      "canal": "San Pedro de la Paz en Vivo",
      "publicado": "2026-11-03T02:30:28Z",
      "live": true,
-     "score": 5.67,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "5eT0cMB9Oe8",
+     "url": "https://www.youtube.com/watch?v=5eT0cMB9Oe8",
+     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
+     "canal": "Tele Genial",
+     "publicado": "2026-11-04T07:29:16Z",
+     "live": true,
+     "score": -2.61,
      "verificado": false,
      "embeddable": true
     }
