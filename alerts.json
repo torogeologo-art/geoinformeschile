@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-05T11:36:41+00:00",
+ "generado": "2026-11-05T16:41:38+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -9,15 +9,29 @@
  "total_vigentes": 12,
  "alertas": [
   {
-   "id": "decaa7dddaa1",
+   "id": "f2a9d9ddd2ef",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica variable de Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones a viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Aviso A602 Probables tormentas eléctricas preferentemente durante la tarde-noche, con precipitaciones aisladas en cordillera de la región. No obstante, según el pronóstico publico PM y el Informe de Riesgo Meteorológico emitido el día de hoy, indica que la región presentará vientos débiles a moderados en cordillera y litora",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A608 Probables tormentas eléctricas en precordillera de la región, con probabilidad de fuertes rachas de vientos locales. 05-11 05-11 Abrir aquí Por otra parte, el Centro Zonal de Meteorología Marina de Talcahuano, mantiene vigente el aviso especial por la probabilidad de ocurrencia de nubes convectivas, con factibilidad de generar trombas marinas en el sector oceán",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-05T13:30:56.5656-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-05-13-32-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "425ee401bbdf",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica evento de Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A607 Probables tormentas eléctricas en la cordillera de la región, preferentemente durante la tarde-noche, con precipitaciones aisladas. 06-11 09-11 Abrir aquí Adicionalmente la Dirección Meteorológica de Chile (DMC), según el Pronóstico Publico AM y el Informe de Riesgo Meteorológico emitido el día de hoy, prevé la ocurrencia de viento débil a normal en la re",
    "region": "Arica y Parinacota",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-11-04T23:14:00.000-03:00",
+   "ts": "2026-11-05T13:25:04.044-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22",
    "origen": "senapred_web",
    "regiones_extra": [
@@ -121,6 +135,22 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-10-29-18-30-53",
    "origen": "senapred_web",
    "regiones_extra": []
+  },
+  {
+   "id": "c398d1f8f8dd",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego y la comuna de Torres del Paine por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), fue cancelado el siguiente alertamiento meteorológico para la región, debido al debilitamiento de las condiciones que lo originaron: Alertamiento Pronóstico Aviso A598 Viento normal a moderado en Cordillera Austral Sur, Insular Central y Pampa Patagónica Sur. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por viento para las provincias de Magallanes y Tierra del Fuego y",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-04T10:31:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-evento-meteorologico-2026-10-30-11-17-09",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
   },
   {
    "id": "de5c39931c22",
@@ -460,7 +490,7 @@
    "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, respecto de la alta exposición y vulnerabilidad de la comunidad del sector de Villa El Mirador, en la comuna de Arauco, se informa que, la situación actual representa una amenaza para las viviendas, debido a la posibilidad de que una remoción en masa se desplace hacia dicho sector. Cabe destacar que, el 13 de octubre de 2026 se registró la rotura del pavimento debido al desplazamiento horizontal de la ladera, lo que obligó a realizar la evacuación preventiva de 33 personas. Asimismo, el 20 de octubre de",
    "region": "Biobío",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-10-29T13:30:55.5555-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-arauco-por-remocion-en-masa-2026-10-20-21-44-09",
    "origen": "senapred_web",

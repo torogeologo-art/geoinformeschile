@@ -1,36 +1,6 @@
 {
- "generado": "2026-11-05T11:36:59+00:00",
- "desde": "2026-11-03T11:36:58Z",
+ "generado": "2026-11-05T16:41:40+00:00",
+ "desde": "2026-11-03T16:41:39Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "biobio": {
-   "comuna": "Biobío",
-   "region": "Biobío",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "5eT0cMB9Oe8",
-     "url": "https://www.youtube.com/watch?v=5eT0cMB9Oe8",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "Tele Genial",
-     "publicado": "2026-11-04T07:29:16Z",
-     "live": true,
-     "score": -4.34,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "AOZZF_gtMto",
-     "url": "https://www.youtube.com/watch?v=AOZZF_gtMto",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-11-04T07:29:16Z",
-     "live": true,
-     "score": -4.34,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
