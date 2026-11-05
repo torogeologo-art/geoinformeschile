@@ -1,12 +1,12 @@
 {
- "generado": "2026-11-05T19:01:52+00:00",
+ "generado": "2026-11-05T22:22:12+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 14,
+ "total_vigentes": 13,
  "alertas": [
   {
    "id": "ff9c1f0d8638",
@@ -448,7 +448,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por alerta de crecida EVITE acercarse a la ribera del Río Hurtado en la comuna de #RíoHurtado, Región de Coquimbo. \nPara reforzar el alertamiento preventivo #SENAPRED activó mensajería #SAE.\nMantente informado a través de los canales oficiales y sigue las indicaciones de los equipos de respuesta en terreno.",
    "region": "Coquimbo",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-10-29T22:18:56+00:00",
    "url": "https://t.me/SenapredChile/1671",
    "origen": "telegram",
