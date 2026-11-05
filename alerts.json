@@ -1,13 +1,69 @@
 {
- "generado": "2026-11-05T16:41:38+00:00",
+ "generado": "2026-11-05T19:01:52+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 12,
+ "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "ff9c1f0d8638",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas Huasco y Freirina por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A599-1 Viento normal a moderado con probabilidad de tormentas de arena en sector litoral de la provincia de Huasco. 05-11 07-11 Abrir aquí En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva por viento para las comunas Huasco y Freirina , que se encue",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-05T15:25:45.4545-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-huasco-freirina-y-alto-del-carmen-por-viento-2026-11-01-14-11-51",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "c0d9c4e80a5d",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A606 Viento normal a moderado (40-60 racha de 80 km/h) en Cordillera de la región. 06-11 06-11 Abrir aquí Aviso A601-2 Viento normal a moderado (25-40 racha de 50 km/h) en Litoral de la región 05-11 07-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED mantien",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-05T14:22:45.4545-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "2d2f3ab021d7",
+   "nivel": "ATP",
+   "tipo": "aluvión",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Aviso A608 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en Valle, Precordillera, Chiloé y Litoral Interior de la región. Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamiento",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-05T14:19:54.5454-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-11-02-16-27-15",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "694980c00b59",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A608 Probables tormentas eléctricas en sectores de Valle y precordillera de la región, con probabilidad de fuertes rachas de vientos locales. 05-11 05-11 Abrir aquí Por otra parte, el Centro Zonal de Meteorología Marina de Talcahuano, mantiene vigente el aviso especial por la probabilidad de ocurrencia de nubes convectivas, con factibilidad de generar trombas marinas en",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-05T13:46:10.1010-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-11-05-13-47-01",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "f2a9d9ddd2ef",
    "nivel": "ATP",
@@ -37,34 +93,6 @@
    "regiones_extra": [
     "Parinacota"
    ]
-  },
-  {
-   "id": "e89e0885789c",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las comunas Huasco y Freirina por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A599 Viento normal a moderado con probabilidad de tormentas de arena en sector litoral de la provincia de Huasco. 04-11 06-11 Abrir Aquí Por otra parte, debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento para la región: Alertamiento Pronóstico Aviso A600 Viento normal a moderado en cordillera de la región. En consi",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-04T22:35:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-huasco-freirina-y-alto-del-carmen-por-viento-2026-11-01-14-11-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a8d7cf558529",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Aviso A603 Probables tormentas eléctricas en Litoral, Cordillera Costa, Valle y Chiloé de la región. Del mismo modo, de acuerdo con el Informe de Amenaza Meteorológica del día de hoy, los próximos días se esperan precipitaciones entre 3 y 55 mm en la región, con isotermas 0°C de entre 900 y 2.800 m.s.n.m. y vientos entre 25 y 60 km/",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-04T20:11:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-11-02-16-27-15",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "5194480e45d4",
@@ -223,20 +251,6 @@
    "regiones_extra": [
     "Parinacota"
    ]
-  },
-  {
-   "id": "7fe043a5d26c",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por evento meteorológico y declara Alerta Temprana Preventiva para la Región de Coquimbo por viento",
-   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA192 Viento moderado a fuerte con desarrollo de ventisca en cordillera de la región. 03-11 03-11 Abrir aquí Aviso A597-1 Viento normal a moderado con probabilidad de ventisca en cordillera de la región. 01-11 04-11 Abrir aquí Aviso A601 Viento normal a moderado en litoral de la región. 05-11 07-11 Abrir aquí Por otra parte debido a su actualización pierde vig",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-11-02T17:15:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "5b3b79f9d1c1",
