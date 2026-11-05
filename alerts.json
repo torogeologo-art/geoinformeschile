@@ -1,13 +1,43 @@
 {
- "generado": "2026-11-05T01:28:41+00:00",
+ "generado": "2026-11-05T03:41:25+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 11,
+ "total_vigentes": 12,
  "alertas": [
+  {
+   "id": "decaa7dddaa1",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica variable de Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones a viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Aviso A602 Probables tormentas eléctricas preferentemente durante la tarde-noche, con precipitaciones aisladas en cordillera de la región. No obstante, según el pronóstico publico PM y el Informe de Riesgo Meteorológico emitido el día de hoy, indica que la región presentará vientos débiles a moderados en cordillera y litora",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-04T23:14:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
+  {
+   "id": "e89e0885789c",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las comunas Huasco y Freirina por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A599 Viento normal a moderado con probabilidad de tormentas de arena en sector litoral de la provincia de Huasco. 04-11 06-11 Abrir Aquí Por otra parte, debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento para la región: Alertamiento Pronóstico Aviso A600 Viento normal a moderado en cordillera de la región. En consi",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-04T22:35:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-huasco-freirina-y-alto-del-carmen-por-viento-2026-11-01-14-11-51",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "a8d7cf558529",
    "nivel": "ATP",
@@ -91,22 +121,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-10-29-18-30-53",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "c398d1f8f8dd",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego y la comuna de Torres del Paine por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), fue cancelado el siguiente alertamiento meteorológico para la región, debido al debilitamiento de las condiciones que lo originaron: Alertamiento Pronóstico Aviso A598 Viento normal a moderado en Cordillera Austral Sur, Insular Central y Pampa Patagónica Sur. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por viento para las provincias de Magallanes y Tierra del Fuego y",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-11-04T10:31:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-evento-meteorologico-2026-10-30-11-17-09",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
   },
   {
    "id": "de5c39931c22",
@@ -219,20 +233,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-01T21:31:57.5757-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-tormentas-electricas-2026-10-29-16-51-29",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7fd0f4341b62",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar, Huasco, Freirina y Alto del Carmen por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A599 Viento normal a moderado con probabilidad de tormentas de arena en sector litoral de la provincia de Huasco. 04-11 06-11 Abrir Aquí Aviso A600 Viento normal a moderado en cordillera de la región. 02-11 04-11 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-01T14:05:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-huasco-freirina-y-alto-del-carmen-por-viento-2026-11-01-14-11-51",
    "origen": "senapred_web",
    "regiones_extra": []
   },

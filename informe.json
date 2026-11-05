@@ -1,24 +1,24 @@
 {
- "generado": "2026-11-04T23:29:41+00:00",
+ "generado": "2026-11-05T03:41:44+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "25-10-2026",
-  "hasta": "04-11-2026"
+  "desde": "26-10-2026",
+  "hasta": "05-11-2026"
  },
  "totales": {
-  "alertas": 115,
+  "alertas": 116,
   "sae": 2,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 87,
+   "ATP": 88,
    "AMARILLA": 20,
    "ROJA": 8
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    79
+    80
    ],
    [
     "aluvión",
@@ -376,8 +376,8 @@
  },
  "vigentes": {
   "ROJA": 2,
-  "AMARILLA": 1,
-  "ATP": 8,
+  "AMARILLA": 0,
+  "ATP": 10,
   "regiones_roja": [
    "Biobío",
    "Coquimbo"
@@ -451,7 +451,7 @@
    "fecha": "2026-11-04",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 8,
+   "ATP": 9,
    "sae": 0
   }
  ],
@@ -603,6 +603,11 @@
      "nivel": "AMARILLA",
      "ts": "28-10 15:03",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "04-11 22:35",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -682,6 +687,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "04-11 22:35",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-huasco-freirina-y-alto-del-carmen-por-viento-2026-11-01-14-11-51"
+  },
   {
    "ts": "04-11 20:11",
    "nivel": "ATP",
@@ -798,15 +812,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-10-29-18-30-53"
-  },
-  {
-   "ts": "03-11 12:35",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-02-18-25-59"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
