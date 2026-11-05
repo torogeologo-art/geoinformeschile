@@ -1,53 +1,24 @@
 {
- "generado": "2026-11-04T23:29:40+00:00",
- "desde": "2026-11-02T23:29:39Z",
+ "generado": "2026-11-05T01:28:43+00:00",
+ "desde": "2026-11-03T01:28:41Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "autFfhqwDHQ",
-     "url": "https://www.youtube.com/watch?v=autFfhqwDHQ",
-     "titulo": "Unión La Calera vs Coquimbo Unido - Copa Chile 4 Noviembre | Radio Riquelme EN VIVO",
-     "canal": "Radio Riquelme",
-     "publicado": "2026-11-04T20:51:57Z",
-     "live": true,
-     "score": 7.78,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "JAhYkk4rgk0",
-     "url": "https://www.youtube.com/watch?v=JAhYkk4rgk0",
-     "titulo": "UNIÓN LA CALERA Vs COQUIMBO UNIDO - COPA CHILE - SoloDeportes EN VIVO",
-     "canal": "SoloDeportes FM",
-     "publicado": "2026-11-04T13:31:48Z",
-     "live": true,
-     "score": 7.17,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "8IUk_K1wMaY",
-     "url": "https://www.youtube.com/watch?v=8IUk_K1wMaY",
-     "titulo": "[EN VIVO] Unión La Calera vs Coquimbo Unido | Copa Chile Cuartos de Final ida | Día a Día Deportes",
-     "canal": "Diario El Día",
-     "publicado": "2026-11-04T02:45:49Z",
-     "live": true,
-     "score": 6.27,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "biobio": {
    "comuna": "Biobío",
    "region": "Biobío",
    "alerta": "ROJA",
    "videos": [
+    {
+     "id": "Kg0paNPYWlI",
+     "url": "https://www.youtube.com/watch?v=Kg0paNPYWlI",
+     "titulo": "🖥️📱 EN VIVO | 24 Central Red Biobío 4 de noviembre 2026 🖥️📱",
+     "canal": "tvnredbiobio",
+     "publicado": "2026-11-05T00:57:39Z",
+     "live": true,
+     "score": 7.96,
+     "verificado": false,
+     "embeddable": true
+    },
     {
      "id": "iCT7dPCAlws",
      "url": "https://www.youtube.com/watch?v=iCT7dPCAlws",
@@ -66,18 +37,7 @@
      "canal": "Tele Genial",
      "publicado": "2026-11-04T07:29:16Z",
      "live": true,
-     "score": -3.33,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "AOZZF_gtMto",
-     "url": "https://www.youtube.com/watch?v=AOZZF_gtMto",
-     "titulo": "Chiguayante Bio Bio Chile, en Vivo. Live Cam, Camara en vivo.",
-     "canal": "SRGenial",
-     "publicado": "2026-11-04T07:29:16Z",
-     "live": true,
-     "score": -3.33,
+     "score": -3.5,
      "verificado": false,
      "embeddable": true
     }
