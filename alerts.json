@@ -1,13 +1,27 @@
 {
- "generado": "2026-11-06T17:21:21+00:00",
+ "generado": "2026-11-06T20:56:07+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 11,
+ "total_vigentes": 12,
  "alertas": [
+  {
+   "id": "bac9813b9703",
+   "nivel": "ATP",
+   "tipo": "otros",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) de Los Lagos, mediante resolución exenta N°703/2026, el 23 de abril de 2026 se declaró emergencia zoosanitaria, activando al Sistema Nacional de Emergencia del Servicio Agrícola y Ganadero de la Región de Los Lagos. Cabe señalar que, mediante la Minuta de Influencia Aviar de Alta Patogenicidad (IAAP), se informa que la Región de Los Lagos cerró 15 focos de aves de traspatio (05) y aves silvestres (10) en las comunas de Puyehue, Calbuco, Quemchi, Quinchao, Puerto Montt, Ancud y Curaco de Veléz. Con esto, la",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-06T15:39:51.5151-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-zoosanitario-2026-04-23-19-16-12",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "041b46cab440",
    "nivel": "AMARILLA",
@@ -47,20 +61,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-06T10:10:42.4242-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-11-05-13-47-01",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "8464d8cbaea9",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Aviso A608 Probables tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en Valle, Precordillera, Chiloé y Litoral Interior de la región. Por otra parte, en base al Informe de Amenaza Meteorológica emitido durante la presente jornada, para los próximos tres días, no se esperan precipitaciones y en base al pronó",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-11-06T07:49:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-11-02-16-27-15",
    "origen": "senapred_web",
    "regiones_extra": []
   },
