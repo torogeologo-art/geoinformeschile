@@ -1,12 +1,12 @@
 {
- "generado": "2026-11-05T22:22:12+00:00",
+ "generado": "2026-11-06T00:20:05+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 13,
+ "total_vigentes": 12,
  "alertas": [
   {
    "id": "ff9c1f0d8638",
@@ -462,7 +462,7 @@
    "descripcion": "De acuerdo con lo informado por la Secretaría Regional Ministerial de Salud de la Región de Valparaíso, mediante la actualización de la minuta técnica sobre la información de Control del Vector Aedes Aegypti, se indica que a nivel nacional se mantiene libre de la transmisión autóctona de las enfermedades asociadas, asimismo se mantiene el riesgo de la circulación nativa de los patógenos en algunas regiones del país. Cabe destacar que, las regiones bajo observación se categorizan en diferentes tipos de territorio según la situación vectorial, ambiental y epidemiológica y según esto se realizan",
    "region": "Valparaíso",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-10-29T19:34:45.4545-03:00",
    "url": "https://senapred.cl/alerta/se-modifica-cobertura-de-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-alteracion-sanitaria-2026-03-03-08-31-11",
    "origen": "senapred_web",

@@ -1,24 +1,24 @@
 {
- "generado": "2026-11-05T19:02:13+00:00",
+ "generado": "2026-11-06T00:20:06+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "26-10-2026",
-  "hasta": "05-11-2026"
+  "desde": "27-10-2026",
+  "hasta": "06-11-2026"
  },
  "totales": {
-  "alertas": 119,
-  "sae": 2,
+  "alertas": 110,
+  "sae": 1,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 91,
-   "AMARILLA": 20,
-   "ROJA": 8
+   "ATP": 87,
+   "AMARILLA": 17,
+   "ROJA": 6
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    81
+    74
    ],
    [
     "aluvión",
@@ -30,11 +30,11 @@
    ],
    [
     "remoción en masa",
-    7
+    6
    ],
    [
     "evento meteorológico",
-    4
+    3
    ],
    [
     "otros",
@@ -53,49 +53,31 @@
  "tipos_detalle": {
   "tormentas eléctricas": [
    {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "30-10",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "27-10",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
     "lugar": "Región de Maule",
     "region": "Maule",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "26-10",
+    "ts": "27-10",
     "comuna_link": "",
     "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "26-10",
-    "comuna_link": "",
-    "region_link": "nuble"
    },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
     "region": "Libertador General Bernardo O'Higgins",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "26-10",
+    "ts": "27-10",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "27-10",
+    "comuna_link": "",
+    "region_link": "nuble"
    },
    {
     "lugar": "Región de Coquimbo",
@@ -107,22 +89,22 @@
     "region_link": "coquimbo"
    },
    {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
     "sae": false,
-    "ts": "26-10",
+    "ts": "27-10",
     "comuna_link": "",
-    "region_link": "antofagasta"
+    "region_link": "atacama"
    },
    {
-    "lugar": "Región de Magallanes y de la Antártica Chilena",
-    "region": "Magallanes y de la Antártica Chilena",
-    "nivel": "ATP",
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "AMARILLA",
     "sae": false,
-    "ts": "26-10",
+    "ts": "30-10",
     "comuna_link": "",
-    "region_link": "magallanes y de la antartica chilena"
+    "region_link": "metropolitana de santiago"
    },
    {
     "lugar": "Región de Valparaíso",
@@ -170,6 +152,15 @@
     "region_link": "los lagos"
    },
    {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "27-10",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
     "lugar": "Región de Tarapacá",
     "region": "Tarapacá",
     "nivel": "ATP",
@@ -177,6 +168,15 @@
     "ts": "27-10",
     "comuna_link": "",
     "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "27-10",
+    "comuna_link": "",
+    "region_link": "magallanes y de la antartica chilena"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -287,8 +287,8 @@
     "lugar": "Región de Metropolitana de Santiago",
     "region": "Metropolitana de Santiago",
     "nivel": "ROJA",
-    "sae": true,
-    "ts": "26-10",
+    "sae": false,
+    "ts": "28-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
    },
@@ -308,7 +308,7 @@
     "region": "Libertador General Bernardo O'Higgins",
     "nivel": "ROJA",
     "sae": false,
-    "ts": "26-10",
+    "ts": "28-10",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
    },
@@ -375,21 +375,12 @@
   ]
  },
  "vigentes": {
-  "ROJA": 1,
+  "ROJA": 0,
   "AMARILLA": 0,
-  "ATP": 13,
-  "regiones_roja": [
-   "Coquimbo"
-  ]
+  "ATP": 12,
+  "regiones_roja": []
  },
  "serie": [
-  {
-   "fecha": "2026-10-26",
-   "ROJA": 2,
-   "AMARILLA": 3,
-   "ATP": 4,
-   "sae": 1
-  },
   {
    "fecha": "2026-10-27",
    "ROJA": 0,
@@ -463,9 +454,42 @@
  ],
  "escalamientos": [
   {
+   "lugar": "Región de Coquimbo",
+   "region": "Coquimbo",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "31-10 14:57",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "31-10 16:06",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "01-11 03:23",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "01-11 16:00",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "05-11 14:22",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Metropolitana de Santiago",
    "region": "Metropolitana de Santiago",
-   "sae": true,
+   "sae": false,
    "max": "ROJA",
    "pasos": [
     {
@@ -502,13 +526,8 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "ROJA",
-     "ts": "26-10 19:31",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "AMARILLA",
-     "ts": "26-10 20:21",
+     "ts": "27-10 09:17",
      "estado": "CANCELADA"
     },
     {
@@ -524,39 +543,6 @@
     {
      "nivel": "ATP",
      "ts": "29-10 17:01",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Coquimbo",
-   "region": "Coquimbo",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "31-10 14:57",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "31-10 16:06",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "01-11 03:23",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "01-11 16:00",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "05-11 14:22",
      "estado": "VIGENTE"
     }
    ]
@@ -591,11 +577,6 @@
    "max": "AMARILLA",
    "pasos": [
     {
-     "nivel": "ATP",
-     "ts": "26-10 17:49",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "AMARILLA",
      "ts": "27-10 17:35",
      "estado": "VIGENTE"
@@ -613,34 +594,6 @@
     {
      "nivel": "ATP",
      "ts": "04-11 22:35",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Ñuble",
-   "region": "Ñuble",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "26-10 19:51",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "27-10 08:09",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "27-10 13:35",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "28-10 15:47",
      "estado": "VIGENTE"
     }
    ]
@@ -664,6 +617,29 @@
     {
      "nivel": "ATP",
      "ts": "30-10 19:21",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Ñuble",
+   "region": "Ñuble",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "27-10 08:09",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "27-10 13:35",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "28-10 15:47",
      "estado": "VIGENTE"
     }
    ]
