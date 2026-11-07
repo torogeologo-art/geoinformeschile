@@ -1,24 +1,24 @@
 {
- "generado": "2026-11-07T06:58:33+00:00",
+ "generado": "2026-11-07T13:54:39+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "28-10-2026",
   "hasta": "07-11-2026"
  },
  "totales": {
-  "alertas": 103,
+  "alertas": 102,
   "sae": 1,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 83,
+   "ATP": 82,
    "AMARILLA": 14,
    "ROJA": 6
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    62
+    61
    ],
    [
     "viento",
@@ -412,7 +412,7 @@
    "fecha": "2026-10-28",
    "ROJA": 2,
    "AMARILLA": 1,
-   "ATP": 9,
+   "ATP": 8,
    "sae": 0
   },
   {
@@ -572,29 +572,6 @@
     {
      "nivel": "ATP",
      "ts": "29-10 17:01",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Atacama",
-   "region": "Atacama",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "28-10 08:29",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "28-10 15:03",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "04-11 22:35",
      "estado": "VIGENTE"
     }
    ]
