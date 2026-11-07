@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T19:38:39+00:00",
+ "generado": "2026-11-07T22:20:14+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,22 @@
  },
  "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "c52fd9eed08e",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA194 Viento moderado a fuerte en comunas de Laguna Blanca, Río Verde, Punta Arenas y San Gregorio. 08-11 08-11 Abrir aquí Aviso A609-1 Viento normal a moderado en la región. 08-11 10-11 Abrir aquí Por otra parte, según lo señalado en el Pronóstico Especial emitido hoy por el Centro Meteorológico Regional Austral, se pronostican las siguientes intensidades de",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-07T17:16:27.2727-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
   {
    "id": "7e0ca6f124d4",
    "nivel": "ATP",
@@ -49,22 +65,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "f2cdbab046ca",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Magallanes y la Antártica Chilena por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A609 Viento normal a moderado en la región. 08-11 09-11 Abrir aquí Por otra parte, según lo señalado en el Pronóstico Especial emitido hoy por el Centro Meteorológico Regional Austral, se pronostican las siguientes intensidades de viento (km/h): Sector 08 de noviembre 09 de noviembre Insular Norte 40 – 70 40 – 60 Cordillera Austral Norte 60 – 100 60 – 100 Pampa Patagó",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-06T19:31:40.4040-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "238fd8724cf7",
