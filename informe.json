@@ -1,17 +1,17 @@
 {
- "generado": "2026-11-07T00:50:14+00:00",
+ "generado": "2026-11-07T06:58:33+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "28-10-2026",
   "hasta": "07-11-2026"
  },
  "totales": {
-  "alertas": 102,
+  "alertas": 103,
   "sae": 1,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 82,
+   "ATP": 83,
    "AMARILLA": 14,
    "ROJA": 6
   },
@@ -33,11 +33,11 @@
     6
    ],
    [
-    "evento meteorológico",
-    4
+    "crecida de río",
+    5
    ],
    [
-    "crecida de río",
+    "evento meteorológico",
     4
    ],
    [
@@ -311,6 +311,26 @@
     "region_link": "biobio"
    }
   ],
+  "crecida de río": [
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "29-10",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "06-11",
+    "comuna_link": "",
+    "region_link": "atacama"
+   }
+  ],
   "evento meteorológico": [
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -338,26 +358,6 @@
     "ts": "28-10",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
-   }
-  ],
-  "crecida de río": [
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "29-10",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "06-11",
-    "comuna_link": "",
-    "region_link": "atacama"
    }
   ],
   "otros": [
@@ -477,6 +477,13 @@
    "AMARILLA": 1,
    "ATP": 6,
    "sae": 0
+  },
+  {
+   "fecha": "2026-11-07",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
+   "sae": 0
   }
  ],
  "escalamientos": [
@@ -520,11 +527,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "AMARILLA",
-     "ts": "31-10 16:06",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "ATP",
      "ts": "01-11 03:23",
      "estado": "VIGENTE"
@@ -542,6 +544,11 @@
     {
      "nivel": "AMARILLA",
      "ts": "06-11 14:02",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "07-11 00:39",
      "estado": "VIGENTE"
     }
    ]
@@ -617,6 +624,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "07-11 00:39",
+   "nivel": "ATP",
+   "lugar": "Región de Coquimbo",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21"
+  },
   {
    "ts": "06-11 20:33",
    "nivel": "ATP",
@@ -733,15 +749,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-05-13-32-11"
-  },
-  {
-   "ts": "05-11 13:25",
-   "nivel": "ATP",
-   "lugar": "Región de Arica y Parinacota",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
