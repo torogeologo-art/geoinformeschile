@@ -1,13 +1,43 @@
 {
- "generado": "2026-11-06T22:16:15+00:00",
+ "generado": "2026-11-07T00:49:55+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 13,
+ "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "befcfe42c250",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las provincias de Huasco y Copiapó por crecida",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico en la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A605-5 Altas temperaturas en Cordillera de la Costa y Sectores de Valles, Pampa y Precordillera. 07-11 09-11 Abrir aquí Asimismo, la Dirección General de Aguas (DGA) Atacama, considera que las temperaturas elevadas pueden favorecer los procesos de fusión de la nieve acumulada en las zonas altas de las cuencas, generando mayores aportes superficiales hacia los cauces y s",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-06T20:33:12.1212-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "f2cdbab046ca",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Magallanes y la Antártica Chilena por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A609 Viento normal a moderado en la región. 08-11 09-11 Abrir aquí Por otra parte, según lo señalado en el Pronóstico Especial emitido hoy por el Centro Meteorológico Regional Austral, se pronostican las siguientes intensidades de viento (km/h): Sector 08 de noviembre 09 de noviembre Insular Norte 40 – 70 40 – 60 Cordillera Austral Norte 60 – 100 60 – 100 Pampa Patagó",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-06T19:31:40.4040-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
   {
    "id": "238fd8724cf7",
    "nivel": "ATP",
@@ -1067,20 +1097,6 @@
    ]
   },
   {
-   "id": "11997396ae7e",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Provincia de Huasco por crecida",
-   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección Regional del SENAPRED Atacama , se indica que producto del desborde del río Huasco registrado el 02 de octubre en el sector de los Perales Viejos, comuna de Huasco, se informa de 1 vivienda con daño mayor y 4 con daño menor. Por otra parte, a raíz de la emergencia 12 personas estuvieron aisladas hasta la finalización de los trabajos de limpieza de los caminos afectados por el desborde. Cabe mencionar, que debido a la intensificación de los deshielos en los sectores cordilleranos, es posible seguir registrando aumento de caudales h",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-19T21:15:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "6ac3a2ff37eb",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -1509,20 +1525,6 @@
    "url": "https://t.me/SenapredChile/1618",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "43c688a45bfe",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Juan Fernández por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Enlace Aviso A528 Precipitaciones normales a moderadas en el Archipiélago Juan Fernández. Abrir aquí Aviso A529 Viento normal a moderado en el Archipiélago Juan Fernández. Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-07T00:53:49.4949-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-juan-fernandez-por-evento-meteorologico-2026-10-03-18-37-07",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "40c744b43b1b",
