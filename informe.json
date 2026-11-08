@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T08:03:26+00:00",
+ "generado": "2026-11-08T15:16:46+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "29-10-2026",
@@ -11,22 +11,18 @@
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 78,
    "ROJA": 4,
-   "AMARILLA": 13
+   "AMARILLA": 13,
+   "ATP": 78
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    59
+    60
    ],
    [
     "viento",
     13
-   ],
-   [
-    "aluvión",
-    6
    ],
    [
     "remoción en masa",
@@ -37,15 +33,19 @@
     5
    ],
    [
-    "otros",
-    3
+    "aluvión",
+    5
    ],
    [
-    "evento meteorológico",
-    2
+    "otros",
+    4
    ],
    [
     "ola calor - altas temperaturas",
+    1
+   ],
+   [
+    "evento meteorológico",
     1
    ]
   ]
@@ -80,24 +80,6 @@
     "region_link": "metropolitana de santiago"
    },
    {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "29-10",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "29-10",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ATP",
@@ -114,6 +96,15 @@
     "ts": "29-10",
     "comuna_link": "",
     "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "29-10",
+    "comuna_link": "",
+    "region_link": "maule"
    },
    {
     "lugar": "Región de Ñuble",
@@ -150,6 +141,15 @@
     "ts": "30-10",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "30-10",
+    "comuna_link": "",
+    "region_link": "valparaiso"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -244,44 +244,6 @@
     "region_link": "valparaiso"
    }
   ],
-  "aluvión": [
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "30-10",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "30-10",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "31-10",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
-   {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "03-11",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   }
-  ],
   "remoción en masa": [
    {
     "lugar": "Región de Biobío",
@@ -322,6 +284,44 @@
     "region_link": "atacama"
    }
   ],
+  "aluvión": [
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "30-10",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "30-10",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "31-10",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "03-11",
+    "comuna_link": "",
+    "region_link": "los lagos"
+   }
+  ],
   "otros": [
    {
     "lugar": "Región de Valparaíso",
@@ -351,26 +351,6 @@
     "region_link": "antofagasta"
    }
   ],
-  "evento meteorológico": [
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "06-11",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Magallanes y de la Antártica Chilena",
-    "region": "Magallanes y de la Antártica Chilena",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "29-10",
-    "comuna_link": "",
-    "region_link": "magallanes y de la antartica chilena"
-   }
-  ],
   "ola calor - altas temperaturas": [
    {
     "lugar": "Región de Tarapacá",
@@ -381,12 +361,23 @@
     "comuna_link": "",
     "region_link": "tarapaca"
    }
+  ],
+  "evento meteorológico": [
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "06-11",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   }
   ]
  },
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 1,
-  "ATP": 10,
+  "ATP": 9,
   "regiones_roja": []
  },
  "serie": [
@@ -394,7 +385,7 @@
    "fecha": "2026-10-29",
    "ROJA": 2,
    "AMARILLA": 3,
-   "ATP": 9,
+   "ATP": 8,
    "sae": 1
   },
   {
@@ -464,7 +455,7 @@
    "fecha": "2026-11-08",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 2,
+   "ATP": 3,
    "sae": 0
   }
  ],
@@ -534,32 +525,18 @@
      "estado": "CANCELADA"
     }
    ]
-  },
-  {
-   "lugar": "Región de Valparaíso",
-   "region": "Valparaíso",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "29-10 10:22",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "29-10 19:08",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "30-10 19:21",
-     "estado": "VIGENTE"
-    }
-   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "08-11 09:20",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-huasco-freirina-y-alto-del-carmen-por-viento-2026-11-01-14-11-51"
+  },
   {
    "ts": "08-11 01:01",
    "nivel": "ATP",
@@ -676,15 +653,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-amenaza-de-incendios-forestales-2026-11-05-21-29-57"
-  },
-  {
-   "ts": "05-11 15:25",
-   "nivel": "ATP",
-   "lugar": "Región de Atacama",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-huasco-freirina-y-alto-del-carmen-por-viento-2026-11-01-14-11-51"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

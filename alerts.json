@@ -1,13 +1,27 @@
 {
- "generado": "2026-11-08T09:30:58+00:00",
+ "generado": "2026-11-08T15:16:28+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 11,
+ "total_vigentes": 10,
  "alertas": [
+  {
+   "id": "f21ffa9cf826",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas Huasco y Freirina por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Atacama, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A599-1 Viento normal a moderado con probabilidad de tormentas de arena en sector litoral de la provincia de Huasco. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por viento para las comuna",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-08T09:20:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-huasco-freirina-y-alto-del-carmen-por-viento-2026-11-01-14-11-51",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "cf2827a058f2",
    "nivel": "ATP",
@@ -175,20 +189,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-05T21:29:11.1111-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-amenaza-de-incendios-forestales-2026-11-05-21-29-57",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ff9c1f0d8638",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas Huasco y Freirina por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A599-1 Viento normal a moderado con probabilidad de tormentas de arena en sector litoral de la provincia de Huasco. 05-11 07-11 Abrir aquí En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva por viento para las comunas Huasco y Freirina , que se encue",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-05T15:25:45.4545-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-huasco-freirina-y-alto-del-carmen-por-viento-2026-11-01-14-11-51",
    "origen": "senapred_web",
    "regiones_extra": []
   },

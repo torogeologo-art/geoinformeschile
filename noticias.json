@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T08:03:25+00:00",
+ "generado": "2026-11-08T15:16:44+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -2505,6 +2505,20 @@
    "comuna": "Santa Bárbara",
    "noticias": [
     {
+     "titulo": "El PSOE reclama un plan para Santa Bárbara que evite inundaciones y proteja la Laguna del Sapo - Sevilla Actualidad",
+     "medio": "Sevilla Actualidad",
+     "fecha": "2026-11-08T13:05:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ3ZILW56dUFMVTZpQVYydWpBdmh5SU9HeEltSzA0bXh6clg0VnE3MzJRTlJkUGphWWFMUDhsRjc0VklPM053aW14dU9QV0NReTljVnlPSmdaSnA0eEo3MHdfUXQzWDE0a19wTk1PZDJrUEFlWi1PbV9PNFJ2OUZtLUh6cFRRazYzUExlV1FSdnZ1N3ZJb1N5ajlBWm9YOFF4MlFHXzl6Ui05c2wzMGYtUGZIYVFGLVBfNGd3RlQ4OTNZUGRCUWczZkdrR0pKcGZvOXdFQTBNWWVMUE55?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "PSOE pide a Sanz un plan \"serio\" para evitar inundaciones en el futuro proyecto de Santa Bárbara - Andalucía Información",
+     "medio": "Andalucía Información",
+     "fecha": "2026-11-08T12:42:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMnlNc2VWN1A0NW5FNlhtb2NCeTM4Q1dOTHk4Yk45MHpqdmpXd3lkMThuSmJWTDRDdFJCTUlEQjNPQ3RrcFUxbW1TRXRKRzF4ei1BX2xkb3RVS1lhTkRWeW5uU1E2b0xlZHZiaXpqVnVWdFJ6NHZ1ampybjdISk9lbFhlZi0xTXc0QVJQTUJ0dUc1VWtOUmJGTWZvSlVLUUhqWE94Y215Wk50WmotRk1DdTlIaDBrdkxtVzJHdC1zeG1nR19sZFlibktzNFhiRlA2RHdIeUVETTRGVzUyV3U3U2JDclNWVTRNUmFV?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "El desbordamiento de varios ríos llevó a evacuar a residentes de la región en balsas; la Alcaldía declaró la situación de emergencia - Facebook",
      "medio": "Facebook",
      "fecha": "2026-10-31T18:13:47+00:00",
@@ -2558,20 +2572,6 @@
      "medio": "ABC",
      "fecha": "2026-10-02T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWxXUFhOcm1ld2V5OFNkOEtaYWpudl9NTHFoc0M0N2I3aGhfTGl1ME5md1NPV1JUZ1VPODR6bE8xaUdMTkRCemFXMkFNLXRoSVo4OUdrV1RDR3FmUzFZeGJiYi1CcThkTjU1R3N0a01feWRiN0RER3pnMzhSdzZ6YXBSRlBuamtaUkVJT2pUR2tha1dFdDQ3MFozSnVQMkVfUXNOeUxVMWE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Las lluvias inundan calles de Santa Bàrbara (Tarragona) tras el desborde de un barranco - ABC",
-     "medio": "ABC",
-     "fecha": "2026-10-02T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORHdxZmxBN2ExeGxwNlpwODYtVzkxZnJoWXRzYkxobmVxSzhMeng3RUtJTWNSZXJBTUNCbk1QaHZRajVvckhObVFPUGYtZmY0amJ3X0d0QVdBak01VC1BRTkyZ1lyaXJRZWpyWlBwWVVZdjZiTXk5akVDOG1NRW1HYUp3NUNLT3g5ZV9wM0hnZ2s1MzA4STNOOVFHTzNORlpHQ2fSAacBQVVfeXFMTVhtQXZRQktldmw3T0JGTTFSZFpXaFF1c0ZWM2c2dTMyNTJqT0RXWTBLT3JiX3JpbGl0N3RxUDdOOGg0ZjR4SzFvWVNTUGZ5TEhVSGNwVS13bkIzWmhpX0VPSHU1ZTVDc05KbXFBRjJ6aVhnV3N0ZnFPWDZvRHhjR3V5ampsUVdrd2NtS1pqRU1XTkpKQlhnR2oyd29rMkdaTXZSemxkV0k?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Los vecinos del Montsià sufren las nuevas inundaciones: \"No estamos preparados para todo esto\" - El Periódico",
-     "medio": "El Periódico",
-     "fecha": "2026-10-02T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNW43Wm01Z01tclBQUzNoQXFibmQyUmN6NnJpMTlMY181MzNQa04yVlJDeVljSlhrN2NzaXZkMlBDdFhQVjBseHVzNnlwdGVwZERkRlBCZnlzNDBzOHNGX0EyRTF6VHdLb2NtZi1wR0ZHY0JqVVRfV2o2bjlFcWJ5ZmRpTG1HWmNWVW1vaXJrS2JibkE1bHZXRnV3UDhhYk10WE9uWmJPRUxOYjRGdjFLV9IBsAFBVV95cUxQUC13emJfdnVlUGhFeFo3MWpRUzlUbHFWdFFEempIT290c1R6dUE4Rk1mSXhVcGZ6cWJZZUluMjQ2UUd2dE12blIyQ3Z0c2VQUzEydUpqZFg2X2dRMlc1ckhobGFOQmxFTXFYaHBEeVg4Q2FqU1pZZFdDYmtmeWNOTGt1Z3lDdmxNNHNzejlaTjFHT2RRU2VON0RTVzJJa0FJd3M1dXhpXzM1VnNQOW5vQg?oc=5",
      "sector": null
     }
    ]
