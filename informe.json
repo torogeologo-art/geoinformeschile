@@ -1,24 +1,24 @@
 {
- "generado": "2026-11-08T19:54:22+00:00",
+ "generado": "2026-11-08T23:33:49+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "29-10-2026",
   "hasta": "08-11-2026"
  },
  "totales": {
-  "alertas": 91,
-  "sae": 1,
+  "alertas": 87,
+  "sae": 0,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 77,
-   "AMARILLA": 11,
-   "ROJA": 3
+   "ATP": 75,
+   "AMARILLA": 10,
+   "ROJA": 2
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    55
+    53
    ],
    [
     "viento",
@@ -33,12 +33,12 @@
     5
    ],
    [
-    "otros",
+    "remoción en masa",
     4
    ],
    [
-    "remoción en masa",
-    4
+    "otros",
+    2
    ],
    [
     "ola calor - altas temperaturas",
@@ -52,15 +52,6 @@
  },
  "tipos_detalle": {
   "tormentas eléctricas": [
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "31-10",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
    {
     "lugar": "Región de Atacama",
     "region": "Atacama",
@@ -80,22 +71,13 @@
     "region_link": "metropolitana de santiago"
    },
    {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
     "sae": false,
-    "ts": "29-10",
+    "ts": "31-10",
     "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "29-10",
-    "comuna_link": "",
-    "region_link": "tarapaca"
+    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Antofagasta",
@@ -134,6 +116,15 @@
     "region_link": "maule"
    },
    {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "30-10",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
+   },
+   {
     "lugar": "Región de Valparaíso",
     "region": "Valparaíso",
     "nivel": "ATP",
@@ -141,6 +132,15 @@
     "ts": "30-10",
     "comuna_link": "",
     "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "31-10",
+    "comuna_link": "",
+    "region_link": "tarapaca"
    },
    {
     "lugar": "Región de Ñuble",
@@ -248,8 +248,8 @@
    {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
-    "nivel": "ROJA",
-    "sae": true,
+    "nivel": "ATP",
+    "sae": false,
     "ts": "29-10",
     "comuna_link": "",
     "region_link": "coquimbo"
@@ -302,16 +302,18 @@
     "region_link": "los lagos"
    }
   ],
-  "otros": [
+  "remoción en masa": [
    {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "AMARILLA",
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "ROJA",
     "sae": false,
-    "ts": "29-10",
+    "ts": "30-10",
     "comuna_link": "",
-    "region_link": "valparaiso"
-   },
+    "region_link": "metropolitana de santiago"
+   }
+  ],
+  "otros": [
    {
     "lugar": "Región de Aysén del General Carlos Ibáñez del Campo",
     "region": "Aysén del General Carlos Ibáñez del Campo",
@@ -329,17 +331,6 @@
     "ts": "03-11",
     "comuna_link": "",
     "region_link": "antofagasta"
-   }
-  ],
-  "remoción en masa": [
-   {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "30-10",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
    }
   ],
   "ola calor - altas temperaturas": [
@@ -368,16 +359,16 @@
  "vigentes": {
   "ROJA": 0,
   "AMARILLA": 1,
-  "ATP": 10,
+  "ATP": 11,
   "regiones_roja": []
  },
  "serie": [
   {
    "fecha": "2026-10-29",
-   "ROJA": 1,
-   "AMARILLA": 1,
-   "ATP": 4,
-   "sae": 1
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
+   "sae": 0
   },
   {
    "fecha": "2026-10-30",
@@ -446,44 +437,11 @@
    "fecha": "2026-11-08",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 6,
+   "ATP": 7,
    "sae": 0
   }
  ],
  "escalamientos": [
-  {
-   "lugar": "Región de Coquimbo",
-   "region": "Coquimbo",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "01-11 03:23",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "01-11 16:00",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "05-11 14:22",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "06-11 14:02",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "07-11 00:39",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
   {
    "lugar": "Región de Metropolitana de Santiago",
    "region": "Metropolitana de Santiago",
@@ -516,9 +474,51 @@
      "estado": "CANCELADA"
     }
    ]
+  },
+  {
+   "lugar": "Región de Coquimbo",
+   "region": "Coquimbo",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "01-11 03:23",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "01-11 16:00",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "05-11 14:22",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "06-11 14:02",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "07-11 00:39",
+     "estado": "VIGENTE"
+    }
+   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "08-11 19:59",
+   "nivel": "ATP",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-11-08-20-09-10"
+  },
   {
    "ts": "08-11 16:00",
    "nivel": "ATP",
@@ -635,15 +635,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-de-coquimbo-por-calor-intenso-2026-11-06-14-02-41"
-  },
-  {
-   "ts": "06-11 13:20",
-   "nivel": "ATP",
-   "lugar": "Región de La Araucanía",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-05-13-32-11"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
