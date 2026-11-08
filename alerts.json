@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T15:16:28+00:00",
+ "generado": "2026-11-08T16:21:58+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 10,
  "alertas": [
+  {
+   "id": "3955f76770a8",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), está vigente el siguiente alertamiento meteorológico para la Región del Maule: Alertamiento Pronóstico Inicio Fin Enlace Aviso A611 Probables tormentas eléctricas en zonas de valle, precordillera y cordillera, con probabilidad de precipitaciones fuertes en un corto periodo de tiempo. 09-11 10-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva regional por tormentas e",
+   "region": "Maule",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-08T13:15:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-11-08-13-20-05",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "317a3e8ab274",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , ha sido cancelado el siguiente alertamiento meteorológico para la Región de O’Higgins, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A601-3 Viento normal a moderado en litoral. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por evento meteorológico , que se mantuvo vigente desde el 29 de octubre de 202",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-08T11:37:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-30-06-42-18",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "f21ffa9cf826",
    "nivel": "ATP",
@@ -33,20 +61,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-08T01:01:26.2626-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "d6a564c86827",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguiente alertamientos meteorológicos para la Región del Maule, debido al debilitamiento de las condiciones que los originaron: Alertamiento Pronóstico Enlace Aviso A591-9 Probables tormentas eléctricas con precipitaciones aisladas en precordillera y cordillera. Abrir aquí Aviso A597-2 Viento normal a moderado con probabilidad de ventisca en cordillera. Abrir aquí Aviso A601-3 Viento normal a moderado en litoral y cordillera costa. Abrir aquí En consideración a estos antecedentes",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-11-08T00:01:47.4747-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-29-16-34-51",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -219,20 +233,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-04T18:53:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-11-01-15-12-13",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "c0a3ad437f8a",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso 601-1 Viento normal a moderado en litoral. 05-11 07-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por evento meteorológico , que se encuentra vigente desde el 29 de octubre y hasta que las condiciones así lo ameriten. Esta",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-04T15:45:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-30-06-42-18",
    "origen": "senapred_web",
    "regiones_extra": []
   },
