@@ -1,13 +1,43 @@
 {
- "generado": "2026-11-09T00:05:58+00:00",
+ "generado": "2026-11-09T03:00:18+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 12,
+ "total_vigentes": 11,
  "alertas": [
+  {
+   "id": "f940523ad2fc",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso por amenaza de incendios forestales",
+   "descripcion": "La Dirección Meteorológica de Chile ha emitido la cancelación de la Alerta AA193/2026 Evento de Altas Temperaturas Extremas en zonas desde la Región de Coquimbo a la Región del Maule, debido al término de las condiciones meteorológicas que la generaron. En consideración a estos antecedentes la Dirección Regional de SENAPRED cancela la Alerta Temprana Preventiva para la Región de Valparaíso, por amenaza de incendios forestales, que se mantuvo vigente desde el 05 de noviembre de 2026.",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-08T22:48:12.1212-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-amenaza-de-incendios-forestales-2026-11-05-21-29-57",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "11f930181ae8",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Amarilla para la comuna de Natales por incendio forestal",
+   "descripcion": "De acuerdo con la información&nbsp;técnica proporcionada por Conaf,respecto al incendio forestal en la comuna de Natales se informa el siguiente detalle: Nombre del incendio Seno Obstrucción Superficie 1 (ha) Recursos Bomberos de Natales; 1 brigada y 1 técnico de CONAF; 1 maquinaria pesada y 1 camión cisterna De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), en el incendio forestal “Seno Obstrucción” que se desarrolla en la comuna de Natales, se observan condiciones meteorológicas que podrían favorecer la propagación del incendio forestal. A lo anterior,",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-08T21:25:35.3535-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-natales-por-incendio-forestal-2026-11-08-21-28-10",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
   {
    "id": "1cd927535083",
    "nivel": "ATP",
@@ -19,20 +49,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-08T19:59:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-11-08-20-09-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "12d43d1f400c",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Aviso A611 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y valles precordilleranos, y cordillera. 09-11 10-11 Abrir aquí Aviso A612 Precipitaciones normales a moderadas en precordillera y valles precordilleranos. 09-11 10-11 Abrir aquí Asimismo, según lo señalado en los alertamientos vigentes",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-08T18:37:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-11-08-15-19-16",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -217,20 +233,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-06T10:10:42.4242-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-11-05-13-47-01",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "3400aad9a338",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por amenaza de incendios forestales",
-   "descripcion": "La Dirección Meteorológica de Chile mantiene vigente los Avisos Meteorológicos A606/2026 por viento normal a moderado en cordillera, el aviso A601-2/2026 por viento normal a moderado en litoral y el Aviso A605-2/2026 por Altas Temperaturas en litoral, cordillera costa, precordillera y valles precordilleranos. Sumado a lo anterior la Corporación Nacional Forestal , ha declarado Alerta Técnica Temprana Preventiva por condiciones propicias para la generación y propagación de incendios forestales, dado el resultado su análisis técnico realizado. En consideración a estos antecedentes y en base a la",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-05T21:29:11.1111-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-amenaza-de-incendios-forestales-2026-11-05-21-29-57",
    "origen": "senapred_web",
    "regiones_extra": []
   },
