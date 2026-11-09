@@ -1,13 +1,55 @@
 {
- "generado": "2026-11-09T03:00:18+00:00",
+ "generado": "2026-11-09T06:37:31+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 11,
+ "total_vigentes": 12,
  "alertas": [
+  {
+   "id": "17d524764e80",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para la comuna de Salamanca por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudales en la Región de Coquimbo: Estación hidrométrica Umbral Río Choapa en Cuncumén Amarillo En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Amarilla para la comuna de Salamanca por crecida , vigente desde hoy y hasta que las condiciones así lo ameriten. Con la declaración de esta Alerta Amarilla, se alistarán escalonadament",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T02:12:14.1414-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-salamanca-por-crecida-2026-11-09-02-13-13",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "65fdb4a85171",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Roja para la comuna de Monte Patria por desborde y cancela Alerta Amarilla por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), la estación hidrométrica de monitoreo mantiene el siguiente registro de caudal en la Región de Coquimbo: Estación hidrométrica Umbral Río Grande Las Ramadas Roja En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Amarilla para la comuna de Monte Patria por crecida , que se mantuvo vigente desde el 06 de octubre y declara Alerta Roja para la comuna de Monte Patria por desborde , vigente a contar del 08 d",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T00:25:59.5959-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "9d05286873ee",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Coquimbo por calor intenso",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , ha sido cancelado el siguiente alertamiento meteorológico para la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Alerta AA193 Evento de altas temperaturas extremas en cordillera de la costa y precordillera y valles precordilleranos. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por evento",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-08T23:15:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-de-coquimbo-por-calor-intenso-2026-11-06-14-02-41",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "f940523ad2fc",
    "nivel": "ATP",
@@ -111,20 +153,6 @@
    "regiones_extra": []
   },
   {
-   "id": "cf2827a058f2",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Coquimbo por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Enlace Aviso A606 Viento normal a moderado en Cordillera. Abrir aquí Aviso A601-3 Viento normal a moderado en Litoral. Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva re",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-11-08T01:01:26.2626-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "59c384959def",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -149,20 +177,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-07T00:39:42.4242-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "49fb480e8acf",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para la comuna de Monte Patria por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudales en la Región de Coquimbo: Estación hidrométrica Umbral Río Grande Las Ramadas Amarillo En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Monte Patria , vigente desde hoy y hasta que las condiciones así lo ameriten. Con la declaración de esta Alerta Amarilla, se alistarán escalonadam",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-06T23:35:05.055-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
    "origen": "senapred_web",
    "regiones_extra": []
   },
