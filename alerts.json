@@ -1,13 +1,117 @@
 {
- "generado": "2026-11-09T16:53:33+00:00",
+ "generado": "2026-11-09T21:38:21+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 12,
+ "total_vigentes": 15,
  "alertas": [
+  {
+   "id": "875123964664",
+   "nivel": "ROJA",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Roja para la Provincia del Tamarugal por calor extremo",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Aviso A610-1 Altas temperaturas en pampa de la región (35 – 36°C). 10-11 12-11 En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED declara Alerta Roja por calor extremo para la Provincia del Tamarugal, vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten. Con la decla",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T18:25:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-provincia-del-tamarugal-por-calor-extremo-2026-11-09-18-34-03",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "3c34bd0db459",
+   "nivel": "AMARILLA",
+   "tipo": "remoción en masa",
+   "titulo": "Se declara Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por Remoción en Masa",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A611 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y valles precordilleranos, y cordillera. 09-11 10-11 Abrir aquí Aviso A612 Precipitaciones normales a moderadas en precordillera y valles precordilleranos. 09-11 10-11 Abrir aquí Asimismo, según lo señalado en los alertamientos vigentes",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T17:26:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-11-09-17-45-22",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "f951d75211f1",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantiene vigente el siguiente alertamiento meteorológicos para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A609-1 Viento normal a moderado en la región. 08-11 10-11 Abrir aquí Asimismo, se ha cancelado la Alerta Meteorológica AA194 que pronostico Viento moderado a fuerte en las comunas de Laguna Blanca, Río Verde, Punta Arenas y San Gregorio de la región, debido al debilitamiento de las condiciones meteorológicas que la originaron. Por otra parte, según lo señalado en el",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T17:00:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "db77d742f559",
+   "nivel": "AMARILLA",
+   "tipo": "incendio forestal",
+   "titulo": "Monitoreo Alerta Amarilla para la Comuna de Natales por incendio forestal",
+   "descripcion": "De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED,&nbsp; respecto al incendio forestal en la&nbsp; comuna de Natales, se informa el siguiente detalle: Nombre del incendio Seno Obstrucción Estado En combate Superficie 1.6 (ha) Recursos Cuerpo de bomberos de Natales, 2 brigadas CONAF, 1 brigada del ejército, 5 técnicos CONAF, 1 Helicóptero FACH, 2 Maquinaria pesada, 1 Camión cisterna Y 3 personas de Emergencia municipal. En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Reg",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T15:46:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-natales-por-incendio-forestal-2026-11-08-21-28-10",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "d465c8992702",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región O´Higgins de por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A611 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y valles precordilleranos, y cordillera. 09-11 10-11 Abrir aquí Aviso A612 Precipitaciones normales a moderadas en precordillera y valles precordilleranos. 09-11 10-11 Abrir aquí Asimismo, según lo señalado en los alertamientos vigentes",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T15:08:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-ohiggins-de-por-evento-meteorologico-2026-11-09-16-08-06",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "456e63e8db95",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA195 Tormentas eléctricas asociadas a chubascos aislados en cordillera de la región. 09-11 09-11 Abrir aquí Aviso A607-2 Probables Tormentas Eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la región. 09-11 10-11 Abrir aquí En consideración a lo anterior y en coordinación con la Delegación Presidencial R",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T14:24:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
+  {
+   "id": "6f144b05544b",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), está vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A607-2 Probables Tormentas Eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la región. 09-11 09-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por tormentas eléctricas para la prov",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T14:04:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-09-14-14-37",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "9b7201812370",
    "nivel": "ATP",
@@ -79,22 +183,6 @@
    "regiones_extra": []
   },
   {
-   "id": "11f930181ae8",
-   "nivel": "AMARILLA",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Amarilla para la comuna de Natales por incendio forestal",
-   "descripcion": "De acuerdo con la información&nbsp;técnica proporcionada por Conaf,respecto al incendio forestal en la comuna de Natales se informa el siguiente detalle: Nombre del incendio Seno Obstrucción Superficie 1 (ha) Recursos Bomberos de Natales; 1 brigada y 1 técnico de CONAF; 1 maquinaria pesada y 1 camión cisterna De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), en el incendio forestal “Seno Obstrucción” que se desarrolla en la comuna de Natales, se observan condiciones meteorológicas que podrían favorecer la propagación del incendio forestal. A lo anterior,",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-08T21:25:35.3535-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-natales-por-incendio-forestal-2026-11-08-21-28-10",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
-  },
-  {
    "id": "1cd927535083",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -121,22 +209,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-11-08-13-20-05",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "197088983cbe",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la región de Magallanes por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA194 Viento moderado a fuerte en comunas de Laguna Blanca, Río Verde, Punta Arenas y San Gregorio. 08-11 08-11 Abrir aquí Aviso A609-1 Viento normal a moderado en la región. 08-11 10-11 Abrir aquí Por otro lado, se informa que el Parque Nacional Torres del Paine, ante el incremento sostenido de las ráfagas de viento en la zona, aplicó cierres o restricciones t",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-08T16:00:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "317a3e8ab274",
@@ -251,22 +323,6 @@
    "regiones_extra": []
   },
   {
-   "id": "425ee401bbdf",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica evento de Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A607 Probables tormentas eléctricas en la cordillera de la región, preferentemente durante la tarde-noche, con precipitaciones aisladas. 06-11 09-11 Abrir aquí Adicionalmente la Dirección Meteorológica de Chile (DMC), según el Pronóstico Publico AM y el Informe de Riesgo Meteorológico emitido el día de hoy, prevé la ocurrencia de viento débil a normal en la re",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-05T13:25:04.044-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
-  },
-  {
    "id": "5194480e45d4",
    "nivel": "ATP",
    "tipo": "viento",
@@ -374,7 +430,7 @@
    "descripcion": "De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , sobre la confirmación del primer caso de influenza aviar de alta patogenicidad (H5N1) presente en aves silvestres, encontradas la Región de Arica y Parinacota, lo cual prevé un peligro zoosanitario para el resto de la región. Lo establecido en Resolución Exenta N° 521/2026 “Declara Emergencia Zoosanitaria en la Región de Arica y Parinacota y Activa Sistema Nacional de Emergencia del Servicio Agrícola y Ganadero”, la cual resuelve la Declaración de Emergencia Zoosanitaria por detección del virus “influenc",
    "region": "Arica y Parinacota",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-11-02T18:08:38.3838-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-arica-y-parinacota-por-evento-zoosanitario-2026-06-03-13-37-19",
    "origen": "senapred_web",
