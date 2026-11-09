@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T06:37:31+00:00",
+ "generado": "2026-11-09T11:39:33+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 12,
  "alertas": [
+  {
+   "id": "9b7201812370",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Se modifica cobertura Alerta Temprana Preventiva para las comunas de Paihuano, Vicuña e Illapel por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) , las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudales en la Región de Coquimbo: Comuna Estación hidrométrica Umbral Paihuano Estero Derecho en Alcohuaz Azul Paihuano Río Cochiguaz en El Peñón Azul Vicuña Río Elqui en Algarrobal Azul Vicuña Río Toro antes Junta Río La Laguna Azul Cabe señalar que, en la comuna de Illapel, sector Los Perales, a consecuencia del deshielo se produjo la activación de la quebrada El Chañar, la cual comprometió parcialmente el flujo y circulación habi",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T04:59:42.4242-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "862ef89b60f4",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Se declara Alerta Roja para la comuna de Río Hurtado por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) , la estación hidrométrica de monitoreo mantiene el siguiente registro de caudal en la Región de Coquimbo: Estación hidrométrica Umbral Río Hurtado en San Agustín Roja En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Roja para la comuna de Río Hurtado por desborde , vigente desde hoy y hasta que las condiciones así lo ameriten. Con la declaración de esta Alerta Roja, se movilizarán todos los recursos nece",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T03:46:14.1414-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-rio-hurtado-por-desborde-2026-11-09-03-47-13",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "17d524764e80",
    "nivel": "AMARILLA",
@@ -19,20 +47,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-09T02:12:14.1414-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-salamanca-por-crecida-2026-11-09-02-13-13",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "65fdb4a85171",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Roja para la comuna de Monte Patria por desborde y cancela Alerta Amarilla por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), la estación hidrométrica de monitoreo mantiene el siguiente registro de caudal en la Región de Coquimbo: Estación hidrométrica Umbral Río Grande Las Ramadas Roja En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Amarilla para la comuna de Monte Patria por crecida , que se mantuvo vigente desde el 06 de octubre y declara Alerta Roja para la comuna de Monte Patria por desborde , vigente a contar del 08 d",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-09T00:25:59.5959-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -163,20 +177,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-07T23:59:04.044-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-02-17-41-09",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7e0ca6f124d4",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Se modifica Alerta Temprana Preventiva para las comunas de Río Hurtado, Paihuano, Vicuña, Illapel y Salamanca por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudales en la Región de Coquimbo: Comuna Estación hidrométrica Umbral Río Hurtado Río Hurtado en San Agustín Azul Salamanca Río Choapa en Cuncumén Azul Paihuano Estero Derecho en Alcohuaz Azul Paihuano Río Cochiguaz en El Peñón Azul Vicuña Río Elqui en Algarrobal Azul Cabe señalar que en la comuna de Illapel, sector Los Perales, a consecuencia del deshielo se produjo la activación de la quebrada El Chañar, la cual comprometió parcial",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-07T00:39:42.4242-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21",
    "origen": "senapred_web",
    "regiones_extra": []
   },

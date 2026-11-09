@@ -1,39 +1,39 @@
 {
- "generado": "2026-11-09T03:00:20+00:00",
+ "generado": "2026-11-09T11:39:43+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "30-10-2026",
   "hasta": "09-11-2026"
  },
  "totales": {
-  "alertas": 87,
+  "alertas": 89,
   "sae": 0,
   "comunas": 0,
   "regiones": 16,
   "por_nivel": {
-   "ATP": 74,
-   "AMARILLA": 11,
-   "ROJA": 2
+   "AMARILLA": 12,
+   "ROJA": 3,
+   "ATP": 74
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    53
+    52
    ],
    [
     "viento",
     15
    ],
    [
-    "aluvión",
-    5
+    "crecida de río",
+    7
    ],
    [
     "remoción en masa",
     4
    ],
    [
-    "crecida de río",
+    "aluvión",
     4
    ],
    [
@@ -45,7 +45,7 @@
     2
    ],
    [
-    "ola calor - altas temperaturas",
+    "incendio forestal",
     1
    ]
   ]
@@ -78,15 +78,6 @@
     "ts": "31-10",
     "comuna_link": "",
     "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "30-10",
-    "comuna_link": "",
-    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -244,16 +235,38 @@
     "region_link": "valparaiso"
    }
   ],
-  "aluvión": [
+  "crecida de río": [
    {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
-    "nivel": "AMARILLA",
+    "nivel": "ROJA",
     "sae": false,
-    "ts": "30-10",
+    "ts": "09-11",
     "comuna_link": "",
     "region_link": "coquimbo"
    },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "06-11",
+    "comuna_link": "",
+    "region_link": "atacama"
+   }
+  ],
+  "remoción en masa": [
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "30-10",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
+   }
+  ],
+  "aluvión": [
    {
     "lugar": "Región de Metropolitana de Santiago",
     "region": "Metropolitana de Santiago",
@@ -280,37 +293,6 @@
     "ts": "03-11",
     "comuna_link": "",
     "region_link": "los lagos"
-   }
-  ],
-  "remoción en masa": [
-   {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "30-10",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
-   }
-  ],
-  "crecida de río": [
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "31-10",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "06-11",
-    "comuna_link": "",
-    "region_link": "atacama"
    }
   ],
   "otros": [
@@ -353,30 +335,32 @@
     "region_link": "magallanes y de la antartica chilena"
    }
   ],
-  "ola calor - altas temperaturas": [
+  "incendio forestal": [
    {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "ATP",
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
     "sae": false,
-    "ts": "01-11",
+    "ts": "30-10",
     "comuna_link": "",
-    "region_link": "tarapaca"
+    "region_link": "coquimbo"
    }
   ]
  },
  "vigentes": {
-  "ROJA": 0,
+  "ROJA": 1,
   "AMARILLA": 2,
   "ATP": 9,
-  "regiones_roja": []
+  "regiones_roja": [
+   "Coquimbo"
+  ]
  },
  "serie": [
   {
    "fecha": "2026-10-30",
    "ROJA": 1,
    "AMARILLA": 3,
-   "ATP": 8,
+   "ATP": 7,
    "sae": 0
   },
   {
@@ -441,6 +425,13 @@
    "AMARILLA": 1,
    "ATP": 7,
    "sae": 0
+  },
+  {
+   "fecha": "2026-11-09",
+   "ROJA": 1,
+   "AMARILLA": 1,
+   "ATP": 1,
+   "sae": 0
   }
  ],
  "escalamientos": [
@@ -481,23 +472,8 @@
    "lugar": "Región de Coquimbo",
    "region": "Coquimbo",
    "sae": false,
-   "max": "AMARILLA",
+   "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "01-11 03:23",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "01-11 16:00",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "05-11 14:22",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "AMARILLA",
      "ts": "06-11 14:02",
@@ -506,6 +482,21 @@
     {
      "nivel": "ATP",
      "ts": "07-11 00:39",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "09-11 00:25",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "09-11 02:12",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "09-11 04:59",
      "estado": "VIGENTE"
     }
    ]
@@ -530,6 +521,33 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "09-11 04:59",
+   "nivel": "ATP",
+   "lugar": "Región de Coquimbo",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21"
+  },
+  {
+   "ts": "09-11 02:12",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Coquimbo",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-salamanca-por-crecida-2026-11-09-02-13-13"
+  },
+  {
+   "ts": "09-11 00:25",
+   "nivel": "ROJA",
+   "lugar": "Región de Coquimbo",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42"
+  },
   {
    "ts": "08-11 21:25",
    "nivel": "AMARILLA",
@@ -628,33 +646,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21"
-  },
-  {
-   "ts": "06-11 20:33",
-   "nivel": "ATP",
-   "lugar": "Región de Atacama",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03"
-  },
-  {
-   "ts": "06-11 19:31",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06"
-  },
-  {
-   "ts": "06-11 18:01",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "nevadas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
