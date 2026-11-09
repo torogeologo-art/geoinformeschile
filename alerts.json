@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T23:33:39+00:00",
+ "generado": "2026-11-09T00:05:58+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -1491,36 +1491,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "1e73c346287c",
-   "nivel": "AMARILLA",
-   "tipo": "incendio forestal",
-   "titulo": "Se cancela Alerta Amarilla para la comuna de Cochrane por incendio forestal",
-   "descripcion": "De acuerdo con la información&nbsp;técnica proporcionada por CONAF y el SINAPRED,&nbsp; respecto al incendio forestal en la&nbsp;comuna de Cochrane , se informa el siguiente detalle: Nombre del incendio Río Nef Estado Bajo observación Superficie 5 (ha) Observaciones baja velocidad de propagación del incendio En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Aysén del General Carlos Ibáñez del Campo, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Cochrane, p",
-   "region": "Aysén del General Carlos Ibáñez del Campo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-09T22:50:46.4646-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-cochrane-por-incendio-forestal-2026-10-09-18-45-43",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "78b796e9379f",
-   "nivel": "AMARILLA",
-   "tipo": "otros",
-   "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Arica y Parinacota por Alteración Sanitaria",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED de Arica y Parinacota, en base a La Minuta de Emergencia N°2024155 elaborada por la SEREMI de Salud de Arica y Parinacota, del 07 de septiembre, no se han reportado nuevos perifocos asociados al evento provocado por el vector Aedes Aegypti en la comuna de Arica. Sin embargo, la Seremi de Salud mantiene vigente la alerta sanitaria mediante decreto MINSAL número 58, vigente hasta el 31 de julio de 2027. Además de la toma de otras acciones de vigilancia y monitoreo del vector, así como la implementación de medidas",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-09T17:56:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-actualiza-alerta-amarilla-para-la-region-de-arica-y-parinacota-por-alteracion-sanitaria-2026-01-27-13-44-49",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
   },
   {
    "id": "087723804d74",
