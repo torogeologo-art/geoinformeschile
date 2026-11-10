@@ -1,8 +1,70 @@
 {
- "generado": "2026-11-10T19:57:02+00:00",
- "desde": "2026-11-08T19:56:59Z",
+ "generado": "2026-11-10T21:53:44+00:00",
+ "desde": "2026-11-08T21:53:40Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "MJ-TP_jt4-0",
+     "url": "https://www.youtube.com/watch?v=MJ-TP_jt4-0",
+     "titulo": "Programa Aprendices CMP #mineria #atacama #coquimbo #huasco",
+     "canal": "Compañía Minera del Pacífico - CMP",
+     "publicado": "2026-11-10T20:29:30Z",
+     "live": false,
+     "score": 7.88,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "4I41u3ZNKgI",
+     "url": "https://www.youtube.com/watch?v=4I41u3ZNKgI",
+     "titulo": "Conociendo a Huasco",
+     "canal": "Lugaresyrutas (Layde Queiroz)",
+     "publicado": "2026-11-10T13:43:25Z",
+     "live": false,
+     "score": 7.32,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Lyfuf6XAs70",
+     "url": "https://www.youtube.com/watch?v=Lyfuf6XAs70",
+     "titulo": "Donde comer Rico en Huasco: Restaurant Tierra Noble",
+     "canal": "Heber en Ruta",
+     "publicado": "2026-11-10T00:35:20Z",
+     "live": false,
+     "score": 3.22,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "fJoO539rLjk",
+     "url": "https://www.youtube.com/watch?v=fJoO539rLjk",
+     "titulo": "La vendimia más hermosa de Chile está en el Huasco",
+     "canal": "INDAP Atacama",
+     "publicado": "2026-11-10T16:30:01Z",
+     "live": false,
+     "score": 0.55,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "ixY8Waidjrw",
+     "url": "https://www.youtube.com/watch?v=ixY8Waidjrw",
+     "titulo": "Parque Nacional Llanos de Challe. Huasco. ",
+     "canal": "Cristian y Claudia",
+     "publicado": "2026-11-09T12:00:09Z",
+     "live": false,
+     "score": -1.82,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "paihuano": {
    "comuna": "Paihuano",
    "region": "Coquimbo",
@@ -15,7 +77,7 @@
      "canal": "camara_paihuano",
      "publicado": "2026-11-09T11:18:26Z",
      "live": true,
-     "score": 5.28,
+     "score": 5.12,
      "verificado": false,
      "embeddable": false
     }
@@ -33,7 +95,7 @@
      "canal": "Vicuña con Alameda",
      "publicado": "2026-11-09T11:28:12Z",
      "live": true,
-     "score": 5.29,
+     "score": 5.13,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +106,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-11-10T16:19:37Z",
      "live": false,
-     "score": 7.7,
+     "score": 7.54,
      "verificado": false,
      "embeddable": true
     }
