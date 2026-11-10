@@ -1,6 +1,25 @@
 {
- "generado": "2026-11-10T03:50:11+00:00",
- "desde": "2026-11-08T03:50:10Z",
+ "generado": "2026-11-10T07:46:38+00:00",
+ "desde": "2026-11-08T07:46:37Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "tarapaca": {
+   "comuna": "Tarapacá",
+   "region": "Tarapacá",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "o-OinPIskT4",
+     "url": "https://www.youtube.com/watch?v=o-OinPIskT4",
+     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M4.1 en México (Tapachula y Pijijiapan) • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-10T05:07:57Z",
+     "live": true,
+     "score": 4.78,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }

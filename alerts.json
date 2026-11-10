@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T03:50:07+00:00",
+ "generado": "2026-11-10T07:46:36+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "055d2b293a77",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Amarilla para la comuna de Salamanca por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) , las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudal en la Región de Coquimbo: Estación hidrométrica Umbral Río Choapa en Cuncumén Amarillo Río Cuncumén antes Junta Choapa (Chacay) Amarillo Por otro lado, se mantiene la Alerta Roja para las comunas de Río Hurtado y Monte Patria por desborde, las que se encuentran vigentes desde el 09 de noviembre y hasta que las condiciones así lo ameriten. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Re",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-10T01:25:59.5959-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-salamanca-por-crecida-2026-11-09-02-13-13",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "3e0f5a09b4b3",
    "nivel": "ATP",
@@ -179,20 +193,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-09T03:46:14.1414-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-rio-hurtado-por-desborde-2026-11-09-03-47-13",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "17d524764e80",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para la comuna de Salamanca por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudales en la Región de Coquimbo: Estación hidrométrica Umbral Río Choapa en Cuncumén Amarillo En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Amarilla para la comuna de Salamanca por crecida , vigente desde hoy y hasta que las condiciones así lo ameriten. Con la declaración de esta Alerta Amarilla, se alistarán escalonadament",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-09T02:12:14.1414-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-salamanca-por-crecida-2026-11-09-02-13-13",
    "origen": "senapred_web",
    "regiones_extra": []
   },
