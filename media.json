@@ -1,8 +1,44 @@
 {
- "generado": "2026-11-10T12:24:42+00:00",
- "desde": "2026-11-08T12:24:40Z",
+ "generado": "2026-11-10T16:17:14+00:00",
+ "desde": "2026-11-08T16:17:10Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "paihuano": {
+   "comuna": "Paihuano",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "8F3WtWQu3do",
+     "url": "https://www.youtube.com/watch?v=8F3WtWQu3do",
+     "titulo": "Cámara en vivo de Paihuano",
+     "canal": "camara_paihuano",
+     "publicado": "2026-11-09T11:18:26Z",
+     "live": true,
+     "score": 5.59,
+     "verificado": false,
+     "embeddable": false
+    }
+   ]
+  },
+  "vicuna": {
+   "comuna": "Vicuña",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "f0sLMAVw098",
+     "url": "https://www.youtube.com/watch?v=f0sLMAVw098",
+     "titulo": "Transmisión en vivo de Vicuña con Alameda",
+     "canal": "Vicuña con Alameda",
+     "publicado": "2026-11-09T11:28:12Z",
+     "live": true,
+     "score": 5.6,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "tarapaca": {
    "comuna": "Tarapacá",
    "region": "Tarapacá",
@@ -11,11 +47,11 @@
     {
      "id": "o-OinPIskT4",
      "url": "https://www.youtube.com/watch?v=o-OinPIskT4",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M4.4 Ecuador y M5.4 Indonesia • Terremotos 24/7",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.6 Guatemala y M5.4 Indonesia • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-10T05:07:57Z",
      "live": true,
-     "score": 4.39,
+     "score": 4.07,
      "verificado": false,
      "embeddable": true
     }
