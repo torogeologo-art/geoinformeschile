@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T16:17:09+00:00",
+ "generado": "2026-11-10T19:56:49+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -39,6 +39,20 @@
    "url": "https://t.me/SenapredChile/1683",
    "origen": "telegram",
    "sae": true
+  },
+  {
+   "id": "2d94cff1256c",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Temprana Preventiva a las provincias de Huasco y Copiapó por crecida",
+   "descripcion": "Según los antecedentes proporcionados por la Dirección Regional del SENAPRED Región de Atacama, producto del deshielo registrado en la zona cordillerana de la región, se reporta la activación de quebradas en los sectores de El Berraco y Las Breas, ubicados en el Valle del Carmen, registrándose al momento 1 vivienda con daños en evaluación. Por otra parte, debido al desborde del río El Carmen se registra la interrupción de conectividad vial en los sectores de La Mesilla y El Retamo. Asimismo, a raíz del desborde del río El Tránsito se genera la alteración de conectividad de la Ruta C-477, a la",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-10T13:11:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "4559474c8a76",
@@ -367,20 +381,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-07T23:59:04.044-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-02-17-41-09",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "befcfe42c250",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las provincias de Huasco y Copiapó por crecida",
-   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico en la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A605-5 Altas temperaturas en Cordillera de la Costa y Sectores de Valles, Pampa y Precordillera. 07-11 09-11 Abrir aquí Asimismo, la Dirección General de Aguas (DGA) Atacama, considera que las temperaturas elevadas pueden favorecer los procesos de fusión de la nieve acumulada en las zonas altas de las cuencas, generando mayores aportes superficiales hacia los cauces y s",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-06T20:33:12.1212-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
    "origen": "senapred_web",
    "regiones_extra": []
   },

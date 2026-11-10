@@ -1,36 +1,36 @@
 {
- "generado": "2026-11-10T12:24:42+00:00",
+ "generado": "2026-11-10T19:57:02+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "31-10-2026",
   "hasta": "10-11-2026"
  },
  "totales": {
-  "alertas": 92,
-  "sae": 0,
-  "comunas": 0,
+  "alertas": 95,
+  "sae": 3,
+  "comunas": 3,
   "regiones": 15,
   "por_nivel": {
    "ATP": 74,
    "AMARILLA": 15,
-   "ROJA": 3
+   "ROJA": 6
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    50
+    49
    ],
    [
     "viento",
-    16
+    17
    ],
    [
     "crecida de río",
-    9
+    10
    ],
    [
     "remoción en masa",
-    6
+    7
    ],
    [
     "evento meteorológico",
@@ -38,7 +38,7 @@
    ],
    [
     "aluvión",
-    3
+    2
    ],
    [
     "ola calor - altas temperaturas",
@@ -52,15 +52,6 @@
  },
  "tipos_detalle": {
   "tormentas eléctricas": [
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "31-10",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
    {
     "lugar": "Región de Metropolitana de Santiago",
     "region": "Metropolitana de Santiago",
@@ -80,31 +71,13 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
     "sae": false,
-    "ts": "31-10",
+    "ts": "01-11",
     "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "31-10",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "31-10",
-    "comuna_link": "",
-    "region_link": "valparaiso"
+    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -132,6 +105,33 @@
     "ts": "01-11",
     "comuna_link": "",
     "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "01-11",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "01-11",
+    "comuna_link": "",
+    "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "01-11",
+    "comuna_link": "",
+    "region_link": "valparaiso"
    },
    {
     "lugar": "Región de Ñuble",
@@ -255,6 +255,15 @@
     "region_link": "coquimbo"
    },
    {
+    "lugar": "Vicuña",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "10-11",
+    "comuna_link": "vicuna",
+    "region_link": "coquimbo"
+   },
+   {
     "lugar": "Región de Atacama",
     "region": "Atacama",
     "nivel": "ATP",
@@ -324,15 +333,6 @@
   ],
   "aluvión": [
    {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "31-10",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
-   {
     "lugar": "Región de Los Lagos",
     "region": "Los Lagos",
     "nivel": "ATP",
@@ -366,10 +366,11 @@
   ]
  },
  "vigentes": {
-  "ROJA": 2,
-  "AMARILLA": 4,
-  "ATP": 11,
+  "ROJA": 5,
+  "AMARILLA": 3,
+  "ATP": 7,
   "regiones_roja": [
+   "Atacama",
    "Coquimbo",
    "Tarapacá"
   ]
@@ -378,8 +379,8 @@
   {
    "fecha": "2026-10-31",
    "ROJA": 1,
-   "AMARILLA": 2,
-   "ATP": 9,
+   "AMARILLA": 1,
+   "ATP": 4,
    "sae": 0
   },
   {
@@ -447,13 +448,46 @@
   },
   {
    "fecha": "2026-11-10",
-   "ROJA": 0,
-   "AMARILLA": 2,
-   "ATP": 2,
-   "sae": 0
+   "ROJA": 3,
+   "AMARILLA": 3,
+   "ATP": 7,
+   "sae": 3
   }
  ],
  "escalamientos": [
+  {
+   "lugar": "Región de Metropolitana de Santiago",
+   "region": "Metropolitana de Santiago",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "02-11 19:13",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "04-11 13:01",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "09-11 17:26",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "10-11 09:17",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "10-11 09:23",
+     "estado": "CANCELADA"
+    }
+   ]
+  },
   {
    "lugar": "Región de Coquimbo",
    "region": "Coquimbo",
@@ -488,39 +522,6 @@
    ]
   },
   {
-   "lugar": "Región de Metropolitana de Santiago",
-   "region": "Metropolitana de Santiago",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "31-10 23:40",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "02-11 15:20",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "02-11 19:13",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "04-11 13:01",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "09-11 17:26",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Tarapacá",
    "region": "Tarapacá",
    "sae": false,
@@ -539,6 +540,34 @@
     {
      "nivel": "ATP",
      "ts": "09-11 18:46",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Atacama",
+   "region": "Atacama",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "01-11 14:05",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "04-11 22:35",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "09-11 18:36",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "10-11 13:11",
      "estado": "VIGENTE"
     }
    ]
@@ -567,29 +596,6 @@
    ]
   },
   {
-   "lugar": "Región de Atacama",
-   "region": "Atacama",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "01-11 14:05",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "04-11 22:35",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "09-11 18:36",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Libertador General Bernardo O'Higgins",
    "region": "Libertador General Bernardo O'Higgins",
    "sae": false,
@@ -597,18 +603,104 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "31-10 12:00",
+     "ts": "01-11 13:48",
      "estado": "VIGENTE"
     },
     {
      "nivel": "AMARILLA",
      "ts": "09-11 18:57",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "10-11 12:09",
+     "estado": "CANCELADA"
     }
    ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "10-11 13:11",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03"
+  },
+  {
+   "ts": "10-11 12:37",
+   "nivel": "ATP",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06"
+  },
+  {
+   "ts": "10-11 12:09",
+   "nivel": "ATP",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-ohiggins-de-por-evento-meteorologico-2026-11-09-16-08-06"
+  },
+  {
+   "ts": "10-11 14:50",
+   "nivel": "ROJA",
+   "lugar": "Alto del Carmen",
+   "tipo": "otro",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1684"
+  },
+  {
+   "ts": "10-11 14:36",
+   "nivel": "ROJA",
+   "lugar": "Paihuano",
+   "tipo": "activación de quebradas",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1683"
+  },
+  {
+   "ts": "10-11 10:17",
+   "nivel": "ATP",
+   "lugar": "Región de Maule",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-11-08-13-20-05"
+  },
+  {
+   "ts": "10-11 12:31",
+   "nivel": "ROJA",
+   "lugar": "Vicuña",
+   "tipo": "crecida de río",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1681"
+  },
+  {
+   "ts": "10-11 09:23",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "remoción en masa",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-11-09-17-45-22"
+  },
+  {
+   "ts": "10-11 09:17",
+   "nivel": "ATP",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-11-08-20-09-10"
+  },
   {
    "ts": "10-11 07:28",
    "nivel": "AMARILLA",
@@ -653,87 +745,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mostazal-codegua-rancagua-machali-requinoa-rengo-malloa-san-fernando-y-chimbarongo-por-remocion-en-masa-2026-11-09-19-15-11"
-  },
-  {
-   "ts": "09-11 18:46",
-   "nivel": "ATP",
-   "lugar": "Región de Tarapacá",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-2026-11-09-19-00-47"
-  },
-  {
-   "ts": "09-11 18:36",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Atacama",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen--por-calor-intenso-2026-11-09-18-41-37"
-  },
-  {
-   "ts": "09-11 18:25",
-   "nivel": "ROJA",
-   "lugar": "Región de Tarapacá",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-provincia-del-tamarugal-por-calor-extremo-2026-11-09-18-34-03"
-  },
-  {
-   "ts": "09-11 17:26",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "remoción en masa",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-11-09-17-45-22"
-  },
-  {
-   "ts": "09-11 17:00",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06"
-  },
-  {
-   "ts": "09-11 15:46",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "incendio forestal",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-natales-por-incendio-forestal-2026-11-08-21-28-10"
-  },
-  {
-   "ts": "09-11 15:08",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-ohiggins-de-por-evento-meteorologico-2026-11-09-16-08-06"
-  },
-  {
-   "ts": "09-11 14:24",
-   "nivel": "ATP",
-   "lugar": "Región de Arica y Parinacota",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22"
-  },
-  {
-   "ts": "09-11 14:04",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-09-14-14-37"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

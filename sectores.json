@@ -1,5 +1,17 @@
 {
- "generado": "2026-11-10T12:24:38+00:00",
+ "generado": "2026-11-10T19:56:53+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
- "sectores": []
+ "sectores": [
+  {
+   "nombre": "río Claro",
+   "lat": -30.11092,
+   "lon": -70.49367,
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "sae": true,
+   "lugar": "Vicuña",
+   "url": "https://t.me/SenapredChile/1681",
+   "ts": "2026-11-10T12:31"
+  }
+ ]
 }

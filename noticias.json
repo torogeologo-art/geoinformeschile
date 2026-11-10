@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T12:24:40+00:00",
+ "generado": "2026-11-10T19:56:58+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -874,10 +874,24 @@
    "comuna": "Paihuano",
    "noticias": [
     {
+     "titulo": "Senapred activa mensajería SAE en Paihuano por crecida de estero y activación de quebradas - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-11-10T18:50:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNkZTOExuRHNtOUk1RG9xWlZFdGtHZy1tNHYyTTEtWUxPVzdFYVVxaEtCLWF1aXlGc3E1MVRVWmlqeDRfUDgwemFvaUtLdV9KS0Z2cjM0T1JhTmc2N1hOMFBmalc3THFaQUJ1TmJncHRxZWc5aWduUU5ObC05R0dCT0ZmeWRpdFlVTWhmSENvcV9Fb2ppenpRZUhZQWVsbHE5RmFYdFJ1STlreGZ4YjNMYkZZOGFwdnRfSzEyUzBWS2xaV1NjSy1iSC1QcmJxNWZLSnBtbk5kaFZjTHB3bWdDNW02OW9uc2RJYWlhWi1GVFh3MEJGY3c?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Con riesgo de remoción en la precordillera: A contar del martes llegan las lluvias a la región - Mi Radio",
      "medio": "Mi Radio",
      "fecha": "2026-08-10T14:41:51+00:00",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRzhJSjhPSURnLXdZV3NjVy01OTltRHdOcjZodFhQNTIxcS00OXhfSkFlX3d6a2RBYmYtYWprVG5TVXpkNU14OXBqNW4yZ3QtcUF4Tk1CYVRFblFacC1fR2tSbnRkZHNPWjU2cEMzeURmNDFwQ0h0cXpBWlo2ei1rVnJyZ2Y1bTQtaEFadnYzc0hyR2MwSE1PTE9pRVU3dEJ0c3JMZEtCTXZLM2o2Ni1PclNqakk5bFhWVXJ5cVo4NEZ1S0lvMC1vWHZ3?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "\"Propensa a activación de quebradas\": Los riesgos que traerían las nuevas lluvias en comunas como Vicuña y Paihuano - Mi Radio",
+     "medio": "Mi Radio",
+     "fecha": "2026-08-10T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYUloR0dXczNIXzJ4eElmZ25xdGlZTlFQMWk1V2dNTTNSdnlKcUpsSWJxNHIyWVUwdVR5NmJSM1Q2dzV2Yk4yUk5pOWRWNXN6bGhCNGxXWFQ0eU1wMUd5U3FkZW5zS0pHZzZzejVTRWdadVFkOXZiZWNWV1pUd3RJZ3hqMG44Y1N4Qks5clFjaFFtM0tqNjB2akRVbDVrekJYeW9xeEYtdmtjR0FHRV9yazZfMzNicVpnWGJSWmdBeUt4aWx2Z2lld0tMWEJaTm95MExseEQxYnFYSjd6Mk5jMlRTcw?oc=5",
      "sector": null
     },
     {
@@ -902,6 +916,13 @@
      "sector": null
     },
     {
+     "titulo": "VIDEO: rutas cortadas en Vicuña por activación de quebradas - 24horas",
+     "medio": "24horas",
+     "fecha": "2026-07-19T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVp4U0RtWmZpVWdHQ1E1SVhHTlBDSUtQRkRsbDBUN29keEZRVWJ2VWp2cHNTVnI5SDU4NGZGZDBhMk5aRzdKaERrb0w1akVfTlgzSUlFQkRXTERHWm1CNkNKQjgzSlNrS3ZKSE55RVRVWG9wQ3hvZ0VZaFJSRm9KLVFaclY5T01DTXM3dFB4b3owaU95Ym45Z05nV2g0dXA5T09Na3BRN3hrdUtmUDIw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Vicuña refuerza plan preventivo y habilita albergues ante pronóstico de intensas lluvias - Elquiglobal",
      "medio": "Elquiglobal",
      "fecha": "2026-07-18T19:04:20+00:00",
@@ -909,38 +930,17 @@
      "sector": null
     },
     {
+     "titulo": "Activación de quebradas y rodados marcan primeras horas del sistema frontal en Paihuano - El Paihuanino",
+     "medio": "El Paihuanino",
+     "fecha": "2026-07-17T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZW1BTXR3aGpieGVLZW5wNVE1TWZielB0eWFwRXBIOXBjaHg0b2lWUURheDA2cU0wNV9jdlNsaEltNWRpT3J3U0FHNWgyUkpRMHRLZy1mYlNDMkN2dFVvM0pzWW40OHNwZzNXU2NXWHVuUHBRRWVFdEk0WWFzWVp5bDRkcjgxa2NmUm5vNGFCSGlwcjVVbmI3cEU5NTZwblVNSmVkNjY3UkFtZnN2cF9uNDJORjBYUm43NVotVW5OQ3M2LW91Z2c?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Vicuña refuerza plan preventivo y habilita albergues ante pronóstico de intensas lluvias - Elquiglobal",
      "medio": "Elquiglobal",
      "fecha": "2026-07-14T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX3ZaLVdac0JKM0xnZ0p6aFUyUXlkQTBqOGpsLXVOaHhvM0FOY3dSNmd2NmR1aDFDalU4TFhzeEdPWlNya1VCWEFidXUtS3lTQXNJNkRseGluc3RTSDJxZHRnNHhZUlFpZFNIYXJsNFNGdmZOOWR5X0RnLWhlM3R1VEtwYjFGMXRaNHo5ZGVzdWZYazB2MnRLWlJPNXk3VUVLZjZPNnlGU0FiV1YwU0hIM3ZxbFR6eTNyV2FYZ0YyRzFTZDV3eGc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "SENAPRED Coquimbo realizó primer simulacro de remoción en masa - Elquiglobal",
-     "medio": "Elquiglobal",
-     "fecha": "2025-10-27T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaFdELVRfem16SWJTODI3UkUzT2pFQWFvd2ZhSkFFdEtTQmZzR3NvNHdYSHM2djIzSkdGdXQ3N3Q4cng1SFpGWUhReWZRZ0hlWE9wcWd4WFlRVmQ3bFlPaExBdHVseG9fczhINkt3eUFkWEVNaVdZTWNwZ2RtR1JSV1FESE9VZnFEUXhfRVBYcWRKd3MyTHhDMmJGaHBhSnN5STZj?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Gobierno inicia licitación de obras para apoyar rehabilitación de sistema sanitario rural de Pisco Elqui- La Jarilla - Elquiglobal",
-     "medio": "Elquiglobal",
-     "fecha": "2025-02-15T08:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVUx1SHVHVVJIa01nRFpjczNVQjgwMUtGaXQ4LXpYbHhRZUdVZGQzc0JBSFRpaGUwUW5ZZ0VHNXlzTEZmY19vZEhnVngxZTRuX0huYVNFSUwzUW1ZRGpHbnV6OWNFcGJXNEU0eHp6S0FRem5jeUt0Mm9nYWQxSGkzZldoSU5sX2FSWWRnMXdxQWxFZmtlMkd4b0pCaHlXRW9JUGRNamZBc05jS3hEaWN5T2NjOG5CcVJicG1NclRfWnRGMVJnUnR2ODg2aEtrSHFOVHlyNGNxbzZaTHhPYThHbi1NUkUyNU9ySXc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Pisco Elqui, Montegrande y Quebrada de Pinto presentan problemas de disponibilidad normal de agua potable por efectos de bajada de quebrada - El Paihuanino",
-     "medio": "El Paihuanino",
-     "fecha": "2025-01-20T08:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOQ0pnT25FWU9jWHNyM1hXX2IxZGFiSjU4NHdMcERDUUFVemtjUTczUGgwNUZBOUV5WHpGLVpuRnNwd1VpaVJJYnFTeTRNVUVUWFV0V3cyc0FLaDJVYUtPQmRLTmI4VjhEU1ktZmF2MUY0Sk9ZTEFFeE8yQklQQWNlbEYtbnZrMzI5M3NieVRJdmFSVl85cUJaVDA0UzBrUkxPTU5INkhGSXNGSkI5U1ZUZFlRTnBTd0QwWmllSUhvUzloV2ZjMU9aRzV4ZUVVbDFCTU9YTS1mYkRyanBOZW9HMGJiNlNCM1JRdTRZM1VMM3ZsZ01Fbm00d2JmZmpHNmhyTEVzOC1yeGxIdw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Llovería en La Serena y Coquimbo: Sistema frontal afectaría a la región desde este sábado - Mi Radio",
-     "medio": "Mi Radio",
-     "fecha": "2024-04-11T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjF0OHB6NkJxMWVLNzRRZXNmOHhoYWVFMFU1Mm14ZUNBUTZsQ1YwNnAtYTFmQ0ZBUUI1YjVLNGlCMGRkY25jREtVdkd6YTRwS2tXMUdvUm9tYzhBX3F1M2FwR2VxOF9zc3BwU0paNV9NY1lSRnJBQnFxTmhaTXN3Tl82Yk5ObUVZSnFERTZ5YXhMZW5RdnYtRGEyV1A4ckhJVnJlVXd1b1lpMUpta1RmTV9sWFA2VHhGVk9WTnNwVkV1UlE?oc=5",
      "sector": null
     }
    ]
@@ -1099,73 +1099,73 @@
    "comuna": "Alto del Carmen",
    "noticias": [
     {
+     "titulo": "SENAPRED: Deshielos provocan desbordes y afectan rutas en Alto del Carmen - Radio Maray",
+     "medio": "Radio Maray",
+     "fecha": "2026-11-10T15:02:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3YxbWV6bEIzNjBrNm9RRmlueXBRSlFtNkpsT01GWHVhTnctbmtWNkxRN0NzWnRBT1Nsb3c0V1pzd0t3dVoyT0M0T2E5RmNNLTUwVU9qeGRNN0VkTjRSZ19nb0Z4NWRickNmS2dJT3BZN0dlcnBnMU1sZldpLWJLRFhCX1FBcnhTaE1rR2tzQlVNYVJ2bXhiQWR0eWMwSkVOdThfVF9jdFJBa0oxZnRFTE9oWQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Agricultores del sector Perales Sur de Alto del Carmen recuperan el riego con el apoyo de INDAP - Indap",
+     "medio": "Indap",
+     "fecha": "2026-11-10T14:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc0k0cUFyWEt2SnBqbXJMMk9iQkhrRkxURFhDUUlFNm1GOXJjaG9GUFA3bVR1eHd2eDJfb2t6VVBiX1d4X2lSWjJJQlJCYVk3SXh2RldCUTVoWmtwbFBaLXI1anMwRHhlM2loaWFnaDgzNkJ2czRuNkQ1QTNwUnFxQTB3c1NfRlNBdTFOZ1NubnQ2OXpOOTN0d0tXeGZqTzBpamVaTnpYVHdra3EtOUVUNFN4a21JNFhBbjhGT1dXQjk?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Agricultores de Perales Sur en Alto del Carmen recuperan el riego con apoyo del Gobierno - Diario Chañarcillo",
+     "medio": "Diario Chañarcillo",
+     "fecha": "2026-11-09T15:03:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0lNWDZDaEMwTWw4OVliMmNZbHV4MnNKazhJeVZOb3F6bkM2RWJRbkVvNHhrNlBWWEtiMTNjejIwR2lhNDN1WlRCbVhXb25SczY2UHV2Qm91S1dqQmY5TlFsZ04tNnA1SjRmcGRZLWNRRDhjNzViT3RsTllnRjV4WEkwU211V3NnMm9rN2pDYzFXUWk5Z1YzblpVVU8yWEFZTWtfb0thb2FHX1hBcWtZVk4zZW94RzA?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Listas licitaciones del Plan Chile Despega para Alto del Carmen y Chañaral: $7.247 millones con proyección de 437 empleos - Madero CL",
+     "medio": "Madero CL",
+     "fecha": "2026-11-06T19:06:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcUVIV2t0NHRFa1R6T3ZTSmgzY1J1ZjRhdEJSb2JkNk1nMDl1M2poZjAyU2VVYVVNMUl3Vlp3OUgtOTliSmVYRTNrbGlFV0pXQXdEdGthODR2cWwwdHZqU1hYZk94TXg3WTNra3p2UHh1V1Vlc2VwT3Q4VmVWSm0ySTBtNXVxZTF2dmlhZVZtd2g3dlhVb0VOMkk5SFlaaWtNX3l3VC0wMTFHMGZHaW1hMHdvQy1BRFl0aVBISk95bTVPRmF6VGt3ZWNmVEQxbDlzalNLcg?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Monitoreo Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida - Medio digital El Zorro Nortino",
+     "medio": "Medio digital El Zorro Nortino",
+     "fecha": "2026-09-28T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRXV2cG1HSlE1dHpfelVJbXJ5RzhjRm9zZ01HRnFGRFJCemNZdU80dlJsajV3MkEySkNmZTQ5UWVOWXJTWDVHd3dHOXRnc2Rvb1dhMnQ1RGhTc2Nya2NyeW1aZXVTXzhFWmtYb2JiRllGaHVBc1A4NGhMWk1lWlgtbVptNFZENlY5RU5vRWpIb2VGdVJmMklzdDZDMjZPckNSTmdhS3dtMFFzQ0hDWE9ueUc0SXBUX3ZFSHhoM2hZWW5jQQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Pascua Lama vuelve por otra puerta: El Alto, Barrick y la crisis del Tribunal Ambiental - El Clarin de Chile",
+     "medio": "El Clarin de Chile",
+     "fecha": "2026-09-27T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMklXSVp4WkN4S2RqMW9tb0dKVjVHZWppZkhEV0dSRDF6X2xjQjZYbmhqU2xSdTFIS1dReEVkRDdmRHlqaElmSUh3clFQS0pRWmxNX1QzUU5nY0ZHOWFXUmNqNGo2YURVeDVfbTVhaHZLbTQyRlU4Sm5seXNsdDhYZTdrMXRzSTdLbVE?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Remoción en masa y activación de quebradas mantienen cortes en distintos sectores de Alto del Carmen - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-09-18T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdWxGdEdBX3ZFSmVTUWk2UzY0a2xVUjUxYk55by1yUEVhbmJGX0MzZWppZWt5ZWtWYVJxdHZFUHl5clg0a3FDczNlNHMwRy1qUllXYmU1WkN4VlNMam90S2R2Wk9vM0dJbHhVTW5sWXFLdVZ4MzlEelk3N0JiNXpnZU4xajJUZlhwcWhtWWh0dW9NS19PMk5rRTQzS3lCeHk4OGQtcXRyYnFqVGhxakFMTmV6bXZTS0c3TVh5bmJNNTFtY0xsanc?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Activación de quebradas provoca cortes de camino en Alto del Carmen: alcalde llama a no transitar por la zona - Teletrece",
+     "medio": "Teletrece",
+     "fecha": "2026-09-18T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObl9BekpnSGZCdUhVZ3VuaEhQT0xFbnZHTkZ5RmtheEpsZGpNcVdNTGltaEx0Zmx1RjlUZHlXeTVPdU41SmM4bXJaekROOXBRWThvZ25hakdBSnZhTnhUUTREcEFLcjF3VEpWcE1yRy16UzVjX2dYSDNmdHdZMUp5MkoxNDZZZ21zOWJKU2N6VmpXdnVhVEN2QzkxR2g5Q21ORFItQnNYSFRRQXFxOEhnSVNxa0FRcXM1ZjlkSG5WRzVFZmgxV0tRNGQ0U1pzUmhp?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "CHL: Otros - 08-2026 - Aluvion #8 (2026-08-19) - ReliefWeb",
+     "medio": "ReliefWeb",
+     "fecha": "2026-08-20T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WdVQ0ZVY4RnVoM3NmYmtqUlZ1cl81Z2RDSmp4cmJKZ0dKRmdUdENwR3k3ZWdJb1N5NXlldVh1Yjl6Y1hKcm5SSExpZVFTeHU4dzZsR1BZS1ZaVUxnaFBmbmVDSU9kRW1tcW1kZkN4SGwwOE5xbXRydlFxb1lrdw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Inundaciones y quebradas activadas en Alto del Carmen: Municipio solicita fondos urgentes para maquinaria y combustible - NOSTÁLGICA cl",
      "medio": "NOSTÁLGICA cl",
      "fecha": "2026-08-13T16:50:41+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSFRfYjZtNEFRb0xJREE2SFFjYXk0YTBBSzYteFVVYzFRZnpqNWRKaW1nV1RZYnhTZXlfTllPMGMtUl94b1Nja182RVRuN0wxdWhnWmNjVUFzRHFnNHpReFJnT3FpR193eEl1dTF1V0ZUZ09xeFdsdmpXUHo0ZUZsUGNrN1kzWDZnRkhJOVJMdGZ5cmRyaHhEaFNBekZJMk5HaXc4aFRXTk8wM3JMYnJoZElaOUwyRjEySlNyM0REcXdXUWRGazBiQjRLWks5NFVHNjBGRXRKcTAyRVRwVUE?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Inundaciones y quebradas activadas en Alto del Carmen: Municipio solicita fondos urgentes para maquinaria y combustible - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-08-13T16:50:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNNFZOeWpNOVB6elFxa19oeHJrNTdwTDNDV1E5S2pWd0o0MGV3Y1ZhSW91VTZyMk0tVjRnMjNFcHlYM2FfYllqLXljdWJzVWd4ZURsa0VUS3psNnlVdXZ2NTdENWhESl94em9McGhWT25PYVNXVVVBX3h3MWNoelZUOUg5elhtb3JMakRma2FYYkplYjgtc1AwS2ctVng5ZkR4bmFIN1V6c0FfbEMzcEtlWEhsX3BUcUxiTVMzYTF3MzExOUlDVjZpdVFnZnBSQlUxSTBBcHhMS1VhNkprd0pyeGJHYXR1eDNoZWF2VnpsTlJsZE9sNXJNZXRIYmRkVklXT29pMTZFcFA0Nk9vN1lBeEExeGFpUUxKY0lnVnVLVHBudmpUanVlQUEtemEzSFViRndhSHJhNlpkSWFmMWcwRFo2VlpsXzVnMUJLUVdwNXpLR2xOUU1pa1NYbUd2VEhCbVB0YWpZYnZDcEJib01UazZXVkxXc2I3SkdHdXgyTzFFZW1lSnlfOW9QdktnVXdoQUkxUEN0U0wzUUM0T28yNTlib050QS1FUEFWemtQb3VBYThveXc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "¿Habrá tornados en el norte?: Allison Göhler entregó detalles de las condiciones climáticas para hoy en la zona - Chilevisión",
-     "medio": "Chilevisión",
-     "fecha": "2026-08-12T16:03:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeE02R1hHR3Z2Z0lPRWd5Mnhvejc2azFzZ3c2bDkzcGo5M0ZXLUp0bWhmUV9vNkdYeXVjbUhobEFwZkRyQWtfdV9ON3NOcFNQRkpKVC1VTklCdW54XzNfMG4yZDFmSzVWZ1d1OG9JQUJUcnRmUjFxM1RodXRZLUx4NTAtWUJIenlwRHJrS2h0TjhBdXZGbzhMaTAtMTV4SlVjUEdTb0czNmV4RjVRWXhlMnhZTzYtb09MYndnQktzd1B5X01ncDhIdm5rU0FTcHRIME4zeVFfR3lyTTdHYmF3MmFqOW5MN2toUmtXTjFIRm01ajk3UGFzUk03TQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Sistema frontal golpea a la Región de Atacama: Senapred ordena evacuaciones en Diego de Almagro y Alto del Carmen - maray.cl",
-     "medio": "maray.cl",
-     "fecha": "2026-08-12T15:55:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ2JCVDNCMEYwMGk1Q2VJUWEybFdHY0M2emlWVWNRYmxvcUxLUi1zTUZzUEFWa0V1c2pvblVrdHBIWGJXSUtkRmNQOUEyY3d4RlRGZ0lnMU9XUzE2NlUzSXpLSThIZDVPVDhIR1FrR2lfU01jNEg3Nlk5aXZja0R3UE93SnJabWlzckw5VGY0dk85bjZnNmFNZExnLWdZclBLQTFIdlJSNTFsWFJPSEozeW5RTWFoWlVQSENmb1gwWGh1aHUwT3Q2OHNiSmx1VEFmYzJlUkJ0V1dDdzMxNVZCVEpQRDV4QS1J?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "VIDEO | Tres encerronas simultáneas en Maipú: Delincuentes atacaron a adulto mayor y dos jóvenes - Chilevisión",
-     "medio": "Chilevisión",
-     "fecha": "2026-08-12T15:47:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcmRuZ3ZxQWJGYU13RXp6RjVfNmlIQ3REcGtQaTVDWTdrUmY2OENJelJoMEQwLVVjckROSTZKQTlKdjJGUk1oZXpfTk1fUS1VSFh5VTZOcTB4U083MzZtMmJXczFYT2N2emwtVUdjVWEyVnppNWdRbkpvN1F5RzZQNk9kYlg5WXFaWHZtaUYxcVQyc0NuVVF5elQ5SXVtVWpuSHlBcUZJeGVRTV9RbGpWVEpoUG1aVTV4eTFkY1Fmay1aRFdRQUctUHFWZ2NpVTA1aWZvdUR0RFRaalJqWWJJZW5hOHZXNGs?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Nueve localidades de Alto del Carmen aisladas tras crecida de río Huasco: Caminos están cubiertos de barro - Chilevisión",
-     "medio": "Chilevisión",
-     "fecha": "2026-08-12T15:41:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeGM0eGNlN2FXc0g5Wk1QTTRDc2FveS1XUnVCa1dad3lJc1F4NXROUE1oenRNQi1GcWdobEozN21ldU5oWkVXdU55SnVhZHdrUWVTVUhLUUE2SG9qM1dEWkstaXZVWjJyX2xBanJMd1BKM2dISjktMUJaVDZHWEptbF93dHFnbkJtNmpSQjJwX2Vrb050RUlraUVHaU4yX20tbV9ZXzhOTWdrQ1FTb3NZdDFnSDJrZ2RIVFBqUVFqaC1uN1pMaU5HVi1acnpCQXJiSkRFZFlLR0dmZC1lWFVuOVVkSXpLX1AwVHNVeDF4a3RlVGtTWldJ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "CGE informa interrupciones del suministro eléctrico en Atacama - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-08-12T14:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaUZCcVg1V1R0Yjg4TWlqazZsdmtRTjhhd2Ffcmt4Zzh5VkZCS3QzaW1SX3BpTERva25GM013bUZZNHE4YS1sb01aZ2NVZFBXcTctNzJSdTJubXhUR2tFYnczS3pwSjM4NzRhQnJMUzFibm5EdHRuRkNReGhYSGl0OVNkUHBLZ0NjZ19YSzRQOWx6SjJSRnFJUXpUdEw4dGxnbTRIMlo2MEtka3FkREpLLU1PWm1YX3lJcHg1UDVtMlQtUy1MZ2NFT2NZWktua3kySUZqUG1haHNEeTBP?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Agricultores del Huasco piden apoyo a autoridades para reconstruir: “No todos pueden solventar un costo tan alto” - radioagricultura.cl",
-     "medio": "radioagricultura.cl",
-     "fecha": "2026-08-03T13:33:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYkpQcFBKb1dqZUtZS2szandQdFNkMGdHdVY0bURPMVhicmRfaG92ZVJYOUlDNnNJMFNBLUZKUUZfelcxV2x0SkQ5WW5rNGFJbUUzcVdtOGtpeWtpT09PMGhGSEZ1NGRlN1lLRXM3UUduZUliNHdEaEpiODExVkVZa1pUWmF5UjRxS0M3UUd5QkFVdXExOE1NTlJOZE1ua1lKelh2QzFCaWQ3RTA3OFhNVVhLV0dqRVIzZHRyQUFnQ19xLXliMW13elh0Vng4MF9OTUJaTVM3LW8wd0QzMFFkQmpHZFdVTU9iejJmbXE5VTNsRlB3N1BDSm1IdUhkTms?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Encuentran con vida a tres crianceros que estaban desaparecidos en Alto del Carmen tras sistema frontal - meganoticias.cl",
-     "medio": "meganoticias.cl",
-     "fecha": "2026-07-25T20:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHdLY1c4SnNiRzN6OHpXanVMSlcxa3A3YW5aQVVsZXV0SndYYm1ESEhLdExHYVJYbTJDTVdaR1JILVJhTkpqWjd0d3hqQTRvUzlRSVQ1UHV5TnNSd1A0ODVtaGp4LVJEc2pGY1JkMDkyZ0I1ck54T3l0eVdvZHVJS01veDlWYmZleHI3S1ZCSXkwZXpXbGdzbE43eXdPY09RZ1JtRVlJZnRSNlpKOGfSAbMBQVVfeXFMTUtJRGxlYThPYzVXV18yUTRUWC1qdDQ0R2w2aWk0eDlCQk44ejJfczU5aGFqd0J4NXEtclluMEQzSThJWExMaXVHVDVHRVFhODUwS2FpOFpyaU8yWVp2cUFwTHJmckFqRXMyLWM1SGJWMG5WUklFSXNrY2NlN2Q1SHctcnFRWFBvVHRXNWZBdl9NM3EwLTR3c1pXYk5GSWRITE1nZm9YZW1lXy1SZjdlb1luN3c?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "SEREMI del Medio Ambiente de Atacama entrega instrucciones para el manejo sanitario de residuos tras sistema frontal - Medio digital El Zorro Nortino",
-     "medio": "Medio digital El Zorro Nortino",
-     "fecha": "2026-07-25T04:13:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRFNiRzFlUWFYR19OYkxuSkVCZGY4ZUdWV1JOdndSY0N6TFFvZk1VSzEzcUZQenE0UXFwMHdEODdmUjRaa0pOeTUyWVZsUlpaSENDX1RBak1IVGZxN1FkMFZBNjFzV1RJaVVXTUY2ZHA1eWExdU1NRE9ERmVjUm5IRWpxU0gwRVlxZy1ZOXpzMjdxZ2daZDFnNDhGVHo2TjY0d1hhN0NWenFKWFNKaTVfZnBNVDJ1QmFjQ0M4cHpCNnZvOXAtQ1hrWWtQUEZZTUdoYURzWjlPd1BsM20xc2FoMGFOakc4bkk4Q2tUSnE3NmhkRDY4RlpKcFFEZw?oc=5",
      "sector": null
     }
    ]
@@ -1249,73 +1249,77 @@
    "comuna": "Vicuña",
    "noticias": [
     {
-     "titulo": "Orrego creó un Comité de Crisis ante la posibilidad de inundaciones - Diario 13 San Juan",
-     "medio": "Diario 13 San Juan",
-     "fecha": "2026-08-21T23:07:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY2ZaUzM2VzRoanhhVkdOMlFwNi00eV9qYjQxdW04dEhPRjhSODA4bklIR2dLZEQ3MUpQZ2hhLU13aGVYS3cwYkhGVl9PZmJyZHlSZnVRa291enZGa1pwOEMtSGdBN2xnTXNtcjJYVlFncC1IY0hXYzZZYU01YmhrbGpuUUtEQ1ZaczlKSi1vTlFsU1U5V3hUUWdlV19fQmpkdUh0Y2drV3UwUi13ekFiZEpiUE1udWhIYXRWNzhSUEh4ZUczaXFIWkZ4MDM1clXSAd4BQVVfeXFMT3NUd1B4NnEwMmFlSHVCWTltbUxiSU1HLVJyR2I3T0ZwT2kyWUhPOEZsMWRfd1pmZTNsd1ZMMk5MYUthc0ZsZ3pLdmkwbndIR2pod0thXzRta1djS3RINk1CeTVNWGJ2Skp5RUZvMXBMTHE2V0RQY1FHanM4dldTNlRXRmp5QmliV19DWl84QllQNGZFS0NJVlg5VXRmZVRuckdNcHFqYnQxSjVVOU9fRDJWWHVuSng4TzR3TFZvVGdTLUN3SmhLbnhib3U3cGxXb3NxaFN4THRSZjhKWmR3?oc=5",
+     "titulo": "Alerta por crecida de ríos en Chile: calor extremo podría provocar desbordes - Radio Imagina",
+     "medio": "Radio Imagina",
+     "fecha": "2026-11-10T17:50:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2hGWUFjOVk4MGlud3lMcjdzUFJOUDFKTFdNdXRjZ3JDQlhsdlhadHdtRkVlQk5oMS1KMXJSUFNmckZNN0FIRlJkNXJQdjZ1TzFCSU5kOUtiNHJ6N1hpeno5MGZJaXJmblVZa1JoSlR6MlNWMmxDT3pOMHZtN3VjOU5FUktLOF82UkRrMDc4RWdoYjNBOE93dE5VcmdkVk51SUpvakNtdkRrRDUyS1BpUDZ30gG3AUFVX3lxTE9uaWZDUkZXcWxEM182LVdyWU5LTUdZTHFZYTRia3Q4dG9LODg4QnF5UkIzZGl5VV9WMjR4cF9kRHdNRWpvNlk0TVBkQUVrTjhRQ0hlMVlQcDUwMnN4WFBQY0xmMGJCNDN6aEdIZm5md0pMRVFDVXFaem8tQTJoVWV6MU5XbF9JaFdwRFZHczg0djVyYnVrX0ZjVkZBUXFwWG12Q3dFQnFQSFpwenRiRjV1QTNaR2lWRQ?oc=5",
      "sector": null
     },
     {
-     "titulo": "Explosivo posteo de la novia de Benjamín Vicuña luego de que Mauro Icardi lo cuestionara como padre - Mendoza 24",
-     "medio": "Mendoza 24",
-     "fecha": "2026-08-18T14:45:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT09EeUhqY0ZjTzk0R0tqWHpOSFM1R2hZOEk5YVh1SUMxc1lUYmdXTkdaWkZwdTA0Z3p3N1doYzJhLThzYWN5dHJrYnA1dF9TaUdNQ0RYWGxGMnYyUWVpWEpSOU5RN2xkZzR2QWVFYUZPVk5hNW1pNEk0X3VMV2xVVGpFWl96Q05aMmRXNDdWV3BIMGVaSTJVZENiektuLTYyM3pRU0lhWV9ZdVM3RmpmLVJBcWw5Ni1xbG0zcWRRa2pjNC1EZ19zZGs5WWEzR0RlUFVEOVozQ3BQUQ?oc=5",
+     "titulo": "SENAPRED alerta por crecida del río Claro en Vicuña: llaman a evitar sectores cercanos a la ribera - Mi Radio",
+     "medio": "Mi Radio",
+     "fecha": "2026-11-10T12:34:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHpSY3ZQWjhPUHo0Wll2OUZja1lhZXVHcG95MXk2MTR0bXhES2NXWXpUUEx5S2dkUkdKN3BBbzBfRzc1QnZha3llS1Y4UGJvMVFOaDhNU0lmNlhYTUFYVWJZWk5QaXhiRFgzbThEVV9QNjZPMHp3S1pySlJxQ2JIcWFFWnotSk1JVzlpT3FNLUJvTU10cmVNRGF4MlZseGhsemhDYlU0WmhVU2t6dkh5SVB6M1p0bXV4c3IwbllLSzFhRTlLWjJpX0c4ZW91eTQ?oc=5",
+     "sector": {
+      "nombre": "río Claro",
+      "lat": -30.11092,
+      "lon": -70.49367
+     }
+    },
+    {
+     "titulo": "Illapel, Paihuano y Vicuña bajo alerta preventiva por posibles crecidas de ríos - Mi Radio",
+     "medio": "Mi Radio",
+     "fecha": "2026-11-09T12:57:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1R2bnh4eE81c3NLdGd6Nm9MX3dWZlZnZ1ZoSE1aYTFCWXZYV0VwWnRoNHFVcldMQjBpVkhrOTlDeGJVamMwUnE0enRZaTdGWmhiRmk1V04yRFdldEdYZmdNZG5BY1JnRW1qVFNVa2laOTR1bXVrZExpektCQjc0X1JZODU1Yi1RWDZPZUltdHZIX1JnbC1USGhRcGtQTnBwSUtHLTVOX0Z5U3M0X3NFQnEtWXh6QQ?oc=5",
      "sector": null
     },
     {
-     "titulo": "Explosivo posteo de la novia de Benjamín Vicuña luego de que Mauro Icardi lo cuestionara como padre - Lmneuquen.com",
-     "medio": "Lmneuquen.com",
-     "fecha": "2026-08-18T13:38:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjZEOGhRblVuZUg1dkhRM1ZEVnZqRUt5akVWLWVDSkRPTnBUSTRsdFp0c1hCcUVlOWxrcU56eWJPSXFJTmRGdzZuRXlSeVVNRUlpR05Sb1JHZVFrbmpKaVE0a19WMS1GbERfYUQwaTJiQkFUY3lha1YxMnBjR0ZjVXhtcEhqbDI3NVRGUF9INE1ibGlna1pLeUZ2ZGstaGJQNFBmaWotSUFZUW1iczF1RHRyWFJuRjJxZW80SzNtYW9WRmFvNGpYLUpFWFQ2MDRhckh0OEpJV1p6QdIB2gFBVV95cUxPVjZEOGhRblVuZUg1dkhRM1ZEVnZqRUt5akVWLWVDSkRPTnBUSTRsdFp0c1hCcUVlOWxrcU56eWJPSXFJTmRGdzZuRXlSeVVNRUlpR05Sb1JHZVFrbmpKaVE0a19WMS1GbERfYUQwaTJiQkFUY3lha1YxMnBjR0ZjVXhtcEhqbDI3NVRGUF9INE1ibGlna1pLeUZ2ZGstaGJQNFBmaWotSUFZUW1iczF1RHRyWFJuRjJxZW80SzNtYW9WRmFvNGpYLUpFWFQ2MDRhckh0OEpJV1p6QQ?oc=5",
+     "titulo": "Junta de Vigilancia del río Elqui fortalece atención a regantes desde sus oficinas en el Embalse Puclaro - Elquiglobal",
+     "medio": "Elquiglobal",
+     "fecha": "2026-10-15T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVDNqOWpESVc0a2NxcDVJSk9YUXVPTUNIT1dkdU1qUUEyLURScGxlRC1DeHprUzBHU0tRUzJqNlFaTHRfdVNVME10MjY3OEVNQU90Zm1jak93ZTRaUTJiRVNGX1BDY3BTdmlKa2NjdGFUVzZkZDR6V01QbWdZUWo3aC1JUDBLTGI4QWthbUVzTW8yaWIxUnNvNW54ZWIxNFdEcGlQZUJ6Z3NueXpRa3V3aUZfWnF4N1NaQThpczVvUnZLQmZEM1IxRkV3Y3pfZjd1ZnZNdTh0VC14Qnc?oc=5",
      "sector": null
     },
     {
-     "titulo": "Pareja de Benjamín Vicuña publica reflexión tras dichos de Mauro Icardi - Meganoticias",
-     "medio": "Meganoticias",
-     "fecha": "2026-08-18T06:34:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDMzZ0VhMlR1Tm51Q2x5WXdMUHQtNlVneTVvM0MwTml4M05iSElaX09JSlJRZ2VyMkpkd25PRmF2VXNlQU9TZmFOOGpVUTdvUmxSTGpIWUNvTGZ0RS13SEZqOU9ueThVTFcyb01WS0k4ZDNPV1JCTTFPVjRkb3JKazJxX3VMTFRtWVc5b2FiWW9DTnk5VHJsQjNzR0o4TVdYb20weWFubl9PeGd0ZmZqWjA0T1VOWnB1aHYtY1Nqd3rSAcYBQVVfeXFMT1cwNldaTXd0YjhSbHZJbmdxNTJVTkx1QUpxYjhYbWtFQmotb1NWbGtlSG1OeVFWZFVsSVdQUTlrSFBrckxUYk9ScFF2QXlRb2tfWWU5TUUtTDE0UXZLaEhBTDhLUlZ4RGhkYjJwVG13RDlJS29YWDVTbGl5VTh3aEN3a2pWamRPUkVCRzNxQzFac0d0a1dNQjhPeGMxT2x0dml6bmY2NkFQVERHaDVWZlZxeC0wd3ZLZHMxVkt1UDVvNzJRdlBn?oc=5",
+     "titulo": "Gobierno intensificará resguardo de infraestructura vial y encausamiento del Río Elqui ante crecida de su caudal - Elquiglobal",
+     "medio": "Elquiglobal",
+     "fecha": "2026-10-05T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPczVUTnVBbUFqUm5NbXJoa0FkbnJySEtwVVhzVG9ncWFUMWJPU2o5eHhHd2R6MXpFaHJIYzRhcEszaE1MWkpZQ0czRnJrbS1YY1pNcXczWnpBN1NtUFc2VUx4X0c4TXBJNEVZUktuUVNvdDNxVlZEWWYwc1E2bE5kRG94TVZLUE1aTVhNejFLcXFUS0Uzc2J5bHpfUTJrdnFXLVhDZm5ENUFUR1haVlFqMDEzR0RjZDlMNVFqdVNEaDRCdXVtbXdXb01XMFlOWkw4RUVtYzl0X0d6cUJXVm13SlNxU2Mwdw?oc=5",
      "sector": null
     },
     {
-     "titulo": "Benjamín Vicuña y Mauro Icardi: la reflexión de Anita Espasandín que suma tensión a la familia - El Intransigente",
-     "medio": "El Intransigente",
-     "fecha": "2026-08-17T23:50:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnNRTHJieEdkeXJQdjhwYUxLVEJIVWJwUzJzcGl6VGtiSzNXU3lVZ193RmhzOWI3cHp1MDBoQmtjUTdlVy1wNlhCakZjRlJPVWxRVndnSFNLR0hrTTZTM0tsM3VnYVl3aHhEcHVBcFZiOHpRbGZqZGpQZTJFWTdlNlF2OXJQemZGRS1Xbg?oc=5",
+     "titulo": "“Cuando venga el calor va a ser heavy”: Preocupación en Chapilca por aumento del caudal del río por deshielos - Mi Radio",
+     "medio": "Mi Radio",
+     "fecha": "2026-10-04T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOblFCS2JTS0ZXSm14RFpNOFNSS3FiaFlGVzMxdUhtbHplcnZDMDBpeENYLTBqcXZONk1KUmxkdEt6R0VoLXFVMk9GdVQ2WEh2WFdCQUNJaV9TYU5md2hWZE9xNmg2NmZkTlhRVk80VG42U2JGRkNpNVJTRWZjZEdfaHF6STlZREdJbEV4Q29QNEF2ZW0tSkFZM3o3YnA4U000S2FsN2Zmd3VKcnp2YlVwQ0dwYWViZXZwbFdFdm1VRzFfeWJ4OTRfUDFtODZxVUlhQ2IzUTdPSWZubzg?oc=5",
      "sector": null
     },
     {
-     "titulo": "Pareja de Benja Vicuña apoya al actor tras funa de Mauro Icardi en redes - m360.cl - m360.cl",
-     "medio": "m360.cl",
-     "fecha": "2026-08-17T22:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2FubDZaWERJbF8yNkVvSGRuc2pMNXJ6TG92WkVpUGVjOGpWamg0TWlsbDAzTGZRMkZWQnltbFo0Y1Rrb1B0UnVxdkVvUjRYTXNOdXJNWm1pUkpwcFRHS3ZJRUxmT0VoS2NpRGFSbk1vWS1LNC1OQ2ZSaEVPampUUWdQWdIBgwFBVV95cUxPY2FubDZaWERJbF8yNkVvSGRuc2pMNXJ6TG92WkVpUGVjOGpWamg0TWlsbDAzTGZRMkZWQnltbFo0Y1Rrb1B0UnVxdkVvUjRYTXNOdXJNWm1pUkpwcFRHS3ZJRUxmT0VoS2NpRGFSbk1vWS1LNC1OQ2ZSaEVPampUUWdQWQ?oc=5",
+     "titulo": "\"Los puentes más frágiles están en riesgo\": Las complicaciones que trae la crecida del Río Elqui - Mi Radio",
+     "medio": "Mi Radio",
+     "fecha": "2026-10-04T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdG5Bb1ZzeVo0WnBiZjlyMjNlcDdTaFVoTVlGVXgwTFBnMnJWWHFWSGM5aWxuRWl5LTlxVXBWTDVvcDVnRlVqN0J0MUZSR0FTeEM0WHlmc2c4ODZxZk1OTy1RUi1CWXJYVmF1Z3RlOG15REFKMm5jOFAyWVc5dTB4akIzZXFUWm1DYllrZFVHQjFLSkhRSEJjT0QwMy1QVUo0ZUVHMXlmcy02ZTE5OWJGNFRISWVhZGRQR3BweEFUWXVOWWtPS3h1Si13?oc=5",
      "sector": null
     },
     {
-     "titulo": "Anita Espasandín apoyó públicamente a Benjamín Vicuña tras los despectivos ataques de Icardi - Haceinstantes",
-     "medio": "Haceinstantes",
-     "fecha": "2026-08-17T20:11:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXVJZldlX1NMZk5RZGQ4dXpMeGlxak1FUzJkRnhiUnRCcGFaa0lCN2RsWFBTQndTZUJidlBSWm5iaENEWWRVd1laZjl0WTBJQjJ6U1FkcGtFUVJBekVFQWVsMkFla0RXNS0zS2tPdEk0M1V6SFBlbHdVNTI1MDRkZUplNkUtTmJleGhJSVJGOHR1TmVxZkhJaTg5WEJrakgyNVYzM05GbjVFeGZ1elJaek5zaTNkem8zSFhwb0R5ckNQdWNUOXRicjVrQmM3RFJPMVM2UTRhc2Z6Uzk2VTdRdi1vSdIB6AFBVV95cUxNa3pGU2ZPNnl1YXBYVGNkNDg0Tm1TOE0zS0NIcnRaUWNNWHpHLUxoUGRqYXFtNW1YV0hERGVDakFvME9DQmJ2VVJrQThmeGhLdDlkUk5kMjl1SnRiUHdBNDVpMW1WYUkzcndtQk5SUVJsMkdHWUFQWFBnVFdOdUhFUmEtWlVTSjRBSjRFTlMzWUQ5Q2lHYmFuVERpLWVSaUJIR1c2ZVkwQ1VvYmFDNi1FZFRTY2J5LUxVdjRJdmg4dzZfRE5YWW9vNVlzRVhPVF9fNU5OY2c1Q2VtdEQ3R3FxaFFuQjI4WjlT?oc=5",
+     "titulo": "Alerta en el Valle de Elqui: monitorean posibles crecidas y desbordes en Paihuano y Vicuña - Madero CL",
+     "medio": "Madero CL",
+     "fecha": "2026-10-03T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFFUcmFJQS10WXdwQTBmUWJXbEpZS2twVnZrRWVtTzFhT3FpQjl4XzI2VWZvVWM1S1hwdDZPNk4xbllLZGdGZkdwbjhfQUNvdDMtLWJpNTFkbFk5ZklFT04xNXZKOGJHamppbEFMbVVaaUUyd0tJNWJkZzV0QzZWUFBfcmRWR05sSU54TEMzT1FCcFZIaVNuZGIyV1pJYlk2c1dtV3NiWFBWNnp3?oc=5",
      "sector": null
     },
     {
-     "titulo": "El contundente mensaje de la novia Benjamín Vicuña en medio de la pelea con Mauro Icardi: “No tenés que demostrar tu valor” - La 100",
-     "medio": "La 100",
-     "fecha": "2026-08-17T20:01:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdy1sRHY2dkthSm5uUnNqN2hOOTFWZEpEbktzbDlQQUg3ZVRGVzRGLXVyQ2RURjlZc2psYzdGbWxHSnV0RzJFaWYyU3pHdFNXT1hHZEVfWTUxbUpSQmt5eG00emdWNnl0V2p4YmJ0YWo0TngwV19KRm9UUlpIaDRWQzdOekstQVBBR2RQQ05fWU1DS0dVMWdIVFBCZzFEMXBfbzl6T1FiYzhrWW1nbWV5MEVrUUozLUN5eWNJdGE3aHQyOEN4TTZEci1yWEtBVEozZmJPdHp0U2w3UWRVcHRJZVZiYjNHX0pzanZXdHFjLUVoRnp0akd2TktVWEVUM2ZH?oc=5",
+     "titulo": "Declaran Alerta Temprana Preventiva por crecida para Paihuano y Vicuña - El Observatodo",
+     "medio": "El Observatodo",
+     "fecha": "2026-10-03T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEJ3QlZXZ1BBd3V4RG0wWk4xRml1N0tOczd0Ri1jdlJPX2NWRDdBQzFsWWxNNzFKNkw1cG45Y0ZjbEd2N3huMjM4RGdBTHpEenRULWRzbXNhWWV2TXcyUlBqdWF4MEw4emdZYWZpVGxKMGJwMWo4bGtVWVlQay0weTdNeFRpZ0cxek83c0xWZFNZd2dDVGpwcXJrLTRXREhrS3F4TEtCUFpMMF9pN2xfQTlLS2RaNWM?oc=5",
      "sector": null
     },
     {
-     "titulo": "Anita Espasandín respaldó a Benjamín Vicuña tras los dichos de Icardi: \"No tenés que demostrar tu valor\" - a24.com",
-     "medio": "a24.com",
-     "fecha": "2026-08-17T19:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGlCUXhrYTNmc1BkRkN5Sy1UYi1oa25NMW5yQlVaQ3FfVVZYVVhJWmVlT0pfUFEyU05UWVpUV2dhY0dUdThkTl85ZWY2czZwZ1N6VVBQN1dkOWRwX2RSQlE2Z3cwY0xyX2hYTmdaNDBrd2ZnZXBnQV9KUEE4OXhBWHZ1QUdSZmtWeUNnclpLUEd3ZG5pY0tCazFhUTYteWt3QUJHRVBRSWoxLTZkNWFjZEdpUnVHX1BSWmg4Z1h4cjFPdDktZWtfYlA1OErSAdIBQVVfeXFMUFFUZ0U0SUdaRUJaUk1pYU5obzl5cEpsRmxldmZ3d2YtejNwbm8xVHpya0c5R1kzdEZBQjNVRzB6U18td0tja3ZFZjBsNUZ0SHhpR3VGVjk2SDMyVnFac3o3akZfdHZoLVlkRVR6UWNRQ2dkUjc2Zk5hUDVYNXJpbVczM2t1YzE4OVUyTzAzYlhkVnN0QW4tb3BSNUhXMXNxenM3YWJJNWJCSlFTZ3hwWllhQ1U1VTM5cnhDNktUVTlNM0NEaUl3LUZQUFNpOTh3U3Rn?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Anita Espasandín le dedicó un sentido posteo a Benjamín Vicuña tras el ataque de Mauro Icardi: \"No tenés que d... - Exitoina",
-     "medio": "Exitoina",
-     "fecha": "2026-08-17T18:14:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPV3VveDBtcDNzWi1uNzBvMGJYV3RNN2Q1TmV4R1VCd2MydDM1dFQ3SzVidlVvaldPcFU4UEo1U3FFU3Fqakt4M0Mtd1ZNeWRtME9mcUxWeWozV0xPZkJ2OTMyMjBoSWtNeHpQdUNTcjBOYWtuekNlOHdtZm81UGJ6aVZ2cjVtY2FWdFBjMEZfLXEtRFhlXzN5QWllalFuSFotdGNYdkU5MFh2bGFubjJNbFJPZEJLaUZqVVRfbkhFRVBjUl9GSy0wVjdSZ0RsMVZaTW9GTTNySGZCVGplMzRuNVpvX1ItQWdGM2lBWXZSanrSAfYBQVVfeXFMTjYxVWljMC14SmVrQ1FlUGR5WUtPdWRKMWlYRWFkYnJQUGtmaXZPTVNBbk50SWN3YnZCOUhhdjRLTExGdzBLRWFTUmdNT1NkVU1lLTZpWEVSSHViWld0clJHZGxLWE5TakhrNlU0MVJQZ2lOcnpTa1M5d1c4TjJaTUttTGtzd1hMZ245ZF9sMFZHYUgyNWhkQ0hoYVF6Y2J5bHZzaElmM2FYbUhIUVNweGhNZDVtUENuZGNBdWxmNWRXTEFWaWRUOElmRlRVcDMwRWwwYzJmZHdqYWIwbWRtQ3RKSFdReU9DQzJSV0dvbTRudXgtZXZR?oc=5",
+     "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Paihuano y Vicuña por crecida de esteros y ríos - El Paihuanino",
+     "medio": "El Paihuanino",
+     "fecha": "2026-10-02T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeGptaHVZRzhWeEFvYkUxTy1qRmhhYVRIb3JielFaakgyQWZ3UEJEMGhwNE90bUhBVllyZG13NkNVN0hENFRoa2JZdjROVGVQd0RuY1hqdDhMdk9OS3Ywbkx6ejR0anV0UkdUZ1pYMzJFNmE0VmxPemlTWk42MU1kQU9lc29odWFTTVo1b1hNZmdDbjMzdnI2RWJnRWhBWC1pZkY0OUFDOWVmTmgzVHpERkFHY1ZKb0ZoOW11bE43VkttS2s1ZUxlUk1aNGZrLXRPTVlLZndvX0dOUE9Kenc?oc=5",
      "sector": null
     }
    ]
