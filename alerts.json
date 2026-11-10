@@ -1,23 +1,51 @@
 {
- "generado": "2026-11-10T07:46:36+00:00",
+ "generado": "2026-11-10T12:24:38+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 18,
+ "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "cbd668f769d3",
+   "nivel": "AMARILLA",
+   "tipo": "remoción en masa",
+   "titulo": "Se cancela Alerta Amarilla para las comunas de Mostazal, Codegua, Rancagua, Machalí, Requínoa, Rengo, Malloa, San Fernando y Chimbarongo por remoción en masa",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , han sido cancelados los siguientes alertamientos meteorológicos para la Región de O´Higgins, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Aviso A611 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo valle, precordillera y cordillera. Aviso A612 Precipitaciones normales a moderadas en corto periodo de tiempo en valle y precordillera. En consideración a estos antecedentes y en coordinación con",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-10T07:28:34.3434-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mostazal-codegua-rancagua-machali-requinoa-rengo-malloa-san-fernando-y-chimbarongo-por-remocion-en-masa-2026-11-09-19-15-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a89ccb647a7a",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC ), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Valparaíso, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Aviso A611 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y valles precordilleranos y cordillera. Aviso A612 Precipitaciones normales a moderadas en corto periodo de tiempo en precordillera y valles precordilleranos. En consideración a",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-10T07:17:01.011-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-11-08-15-19-16",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "055d2b293a77",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
    "titulo": "Monitoreo Alerta Amarilla para la comuna de Salamanca por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) , las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudal en la Región de Coquimbo: Estación hidrométrica Umbral Río Choapa en Cuncumén Amarillo Río Cuncumén antes Junta Choapa (Chacay) Amarillo Por otro lado, se mantiene la Alerta Roja para las comunas de Río Hurtado y Monte Patria por desborde, las que se encuentran vigentes desde el 09 de noviembre y hasta que las condiciones así lo ameriten. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Re",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudal en la Región de Coquimbo: Estación hidrométrica Umbral Río Choapa en Cuncumén Amarillo Río Cuncumén antes Junta Choapa (Chacay) Amarillo Río Choapa en Salamanca Amarillo Por otro lado, se mantiene Alerta Roja para las comunas de Río Hurtado y Monte Patria por desborde, las que se encuentran vigentes desde el 09 de noviembre y hasta que las condiciones así lo ameriten. En consideración a estos antecedentes y en coordinación con",
    "region": "Coquimbo",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-11-10T01:25:59.5959-03:00",
+   "ts": "2026-11-10T06:12:12.1212-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-salamanca-por-crecida-2026-11-09-02-13-13",
    "origen": "senapred_web",
    "regiones_extra": []
@@ -67,20 +95,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "91e610e6f01a",
-   "nivel": "AMARILLA",
-   "tipo": "remoción en masa",
-   "titulo": "Se declara Alerta Amarilla para las comunas de Mostazal, Codegua, Rancagua, Machalí, Requínoa, Rengo, Malloa, San Fernando y Chimbarongo por Remoción en Masa",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A611 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y valles precordilleranos, y cordillera. 09-11 10-11 Abrir aquí Aviso A612 Precipitaciones normales a moderadas en precordillera y valles precordilleranos. 09-11 10-11 Abrir aquí Asimismo, según lo señalado en los alertamientos vigentes y",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-09T18:57:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mostazal-codegua-rancagua-machali-requinoa-rengo-malloa-san-fernando-y-chimbarongo-por-remocion-en-masa-2026-11-09-19-15-11",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "afbb20b7538b",
