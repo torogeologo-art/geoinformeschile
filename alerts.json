@@ -1,13 +1,87 @@
 {
- "generado": "2026-11-09T21:38:21+00:00",
+ "generado": "2026-11-10T00:36:14+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "456e63e8db95",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A607-2 Probables Tormentas Eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la región. 09-11 10-11 Abrir aquí Por otra parte, se ha cancelado la Alerta Meteorológica AA195 que pronostico Tormentas eléctricas asociadas a chubascos aislados en cordillera de la región, debido al debilitamiento de las condiciones me",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T19:48:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
+  {
+   "id": "9199d2408429",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se modifica evento de Alerta Temprana Preventiva para la Región de Magallanes a evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A609-1 Viento normal a moderado en la región. 08-11 10-11 Abrir aquí Aviso A613 Precipitaciones normales a moderadas en corto periodo de tiempo en cordillera austral norte y pampa patagónica norte de la región. 10-11 11-11 Abrir aquí Por otra parte, según lo señalado en el Pronóstico Especial emitido hoy por el Centro Meteorológico Regional Austral, se pronostic",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T19:44:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "91e610e6f01a",
+   "nivel": "AMARILLA",
+   "tipo": "remoción en masa",
+   "titulo": "Se declara Alerta Amarilla para las comunas de Mostazal, Codegua, Rancagua, Machalí, Requínoa, Rengo, Malloa, San Fernando y Chimbarongo por Remoción en Masa",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O´Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A611 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y valles precordilleranos, y cordillera. 09-11 10-11 Abrir aquí Aviso A612 Precipitaciones normales a moderadas en precordillera y valles precordilleranos. 09-11 10-11 Abrir aquí Asimismo, según lo señalado en los alertamientos vigentes y",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T18:57:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mostazal-codegua-rancagua-machali-requinoa-rengo-malloa-san-fernando-y-chimbarongo-por-remocion-en-masa-2026-11-09-19-15-11",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "afbb20b7538b",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA195 Tormentas eléctricas asociadas con chubascos aislados en cordillera de la región. 09-11 09-11 Abrir aquí Aviso A607-2 Probables Tormentas Eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la región. 09-11 10-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Reg",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T18:46:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-2026-11-09-19-00-47",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "9eb1976ca532",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Amarilla para las Comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen  por calor intenso",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA196 Evento de altas temperaturas extremas en precordillera de la región (36 – 38°C). 10-11 12-11 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED declara Alerta Amarilla por calor intenso para las Comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Al",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-09T18:36:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen--por-calor-intenso-2026-11-09-18-41-37",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "875123964664",
    "nivel": "ROJA",
@@ -35,22 +109,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-11-09-17-45-22",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "f951d75211f1",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantiene vigente el siguiente alertamiento meteorológicos para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A609-1 Viento normal a moderado en la región. 08-11 10-11 Abrir aquí Asimismo, se ha cancelado la Alerta Meteorológica AA194 que pronostico Viento moderado a fuerte en las comunas de Laguna Blanca, Río Verde, Punta Arenas y San Gregorio de la región, debido al debilitamiento de las condiciones meteorológicas que la originaron. Por otra parte, según lo señalado en el",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-09T17:00:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "db77d742f559",
@@ -81,22 +139,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-ohiggins-de-por-evento-meteorologico-2026-11-09-16-08-06",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "456e63e8db95",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA195 Tormentas eléctricas asociadas a chubascos aislados en cordillera de la región. 09-11 09-11 Abrir aquí Aviso A607-2 Probables Tormentas Eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la región. 09-11 10-11 Abrir aquí En consideración a lo anterior y en coordinación con la Delegación Presidencial R",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-09T14:24:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
   },
   {
    "id": "6f144b05544b",
@@ -1248,7 +1290,7 @@
    "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Ríos , y según los antecedentes entregados por SERNAGEOMIN, el 01 de octubre del 2026 se les solicitó un pronunciamiento técnico por un desplazamiento de tierra ocurrido en Caleta El Piojo en el sector de Niebla en la comuna de Valdivia, en donde se reporta que la remoción en masa la cual afectó un área de 200 m2, la que se desencadeno y reactivo producto de&nbsp; los evento meteorológicos que afectaron a la región en el mes de julio – Agosto y corresponde a deslizamientos de gravas, arenas y detritos genera",
    "region": "Los Ríos",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-10-16T14:58:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-corral-por-remocion-en-masa",
    "origen": "senapred_web",
@@ -1423,146 +1465,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "8713f3fe6904",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de por O´Higgins evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que los originaron, han sido cancelados los siguientes alertamientos en la región: Alertamiento Pronóstico Alerta AA176 Tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en valle y precordillera de la región. Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa valle, precordillera y cordillera de la región. Aviso A535-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-10T11:20:30.3030-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2994af38d42c",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que los originaron, han sido cancelados los siguientes alertamientos en la región: Alertamiento Pronóstico Aviso A540-1 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en litoral, cordillera de la costa, valle y precordillera. Aviso A542 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en litoral, cordillera de la costa",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-10T10:05:27.2727-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-05-19-03-06",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "af638bf72156",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que los originaron, han sido cancelados los siguientes alertamientos meteorológicos en la región: Alertamiento Pronóstico Aviso A534-2 Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle y precordillera. Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa, valle y precordillera. Aviso A535-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-10T09:51:05.055-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-01-19-53-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "93d67edf7b27",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para las comunas de Licantén y Curepto por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), se indica que la estación de la red hidrométrica “ Estación Rio Mataquito en Licantén” ubicada en pasarela peatonal, ex puente Escalones, comuna de Licantén , indica que el caudal ha disminuido, encontrándose con valores estables, alcanzando valores de umbral verde , lo que supone una disminución del riesgo para la población cercana a este curso de agua. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED Cancela la Alerta A",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-10T08:46:35.3535-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-licanten-y-curepto-por-crecida-2026-10-07-10-34-41",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "88a11087db37",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , han sido cancelados los siguientes alertamientos meteorológicos para la Región del Biobío, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa, valle y precordillera. Aviso A535-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. Aviso A539 Probable desarrollo de nub",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-10T08:02:27.2727-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-09-30-15-03-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7463ce012890",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A540-2 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la costa, valle, precordillera. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED cancela la Ale",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-10T01:16:35.3535-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-06-15-15-18",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "4a029198e50c",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , han sido cancelados los siguientes alertamientos meteorológicos para la Región de Los Ríos, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A540-2 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en litoral, cordillera de la costa, valle y precordillera de la región. Aviso A542 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-10T00:45:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-10-06-14-44-08",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ceede8c897a6",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelados los siguientes alertamientos meteorológicos para la Región del Maule, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Alerta AA176 Por tormentas eléctricas con probabilidad granizos y fuertes rachas de vientos locales en valle y precordillera de la región. Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. Aviso A535-2 Probables tormentas eléctricas con probabil",
-   "region": "Maule",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-10T00:29:27.2727-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-05-01-09-19",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "3382b1675449",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la Región de Valparaíso, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A531-4 Viento normal a moderado en cordillera. Aviso A535-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, precordillera y valles precordilleranos y cordillera. En consideración a estos antecedentes y en coordinación con la Delegaci",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-10T00:20:36.3636-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-04-17-51-31",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "39d04cb852c9",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se han cancelado los siguientes alertamientos meteorológicos para la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que los originaron. Alertamiento Pronóstico Aviso A531-3 Viento normal a moderado en litoral, cordillera de la costa y cordillera. Aviso A535-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, precordillera y valles precordilleranos y cordillera. En consideración a estos antecedentes y",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-10T00:17:56.5656-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-por-evento-meteorologico-2026-10-01-14-49-12",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "087723804d74",
