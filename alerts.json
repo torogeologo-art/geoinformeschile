@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T00:36:14+00:00",
+ "generado": "2026-11-10T03:50:07+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "3e0f5a09b4b3",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Paihuano, Vicuña e Illapel por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo , se registran las siguientes situaciones producto de las activaciones de quebradas y crecidas de cauces: Comuna Afectación Paihuano Activación de la quebrada de El Pangue en el sector de Cochiguaz, una familia autoevacuó a casa de familiares por precaución, personal municipal con maquinarias se dirigen al sector para evaluaciones de puentes, caminos y afectación. Activación de las quebradas El Albaricoque y La Alfalfa. Desborde del Río Estero Derecho en el sector Horcón Bajo. Vicuña 3 viviendas inundad",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-10T00:31:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "456e63e8db95",
    "nivel": "ATP",
@@ -151,20 +165,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-09T14:04:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-09-14-14-37",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "9b7201812370",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Se modifica cobertura Alerta Temprana Preventiva para las comunas de Paihuano, Vicuña e Illapel por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) , las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudales en la Región de Coquimbo: Comuna Estación hidrométrica Umbral Paihuano Estero Derecho en Alcohuaz Azul Paihuano Río Cochiguaz en El Peñón Azul Vicuña Río Elqui en Algarrobal Azul Vicuña Río Toro antes Junta Río La Laguna Azul Cabe señalar que, en la comuna de Illapel, sector Los Perales, a consecuencia del deshielo se produjo la activación de la quebrada El Chañar, la cual comprometió parcialmente el flujo y circulación habi",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-09T04:59:42.4242-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21",
    "origen": "senapred_web",
    "regiones_extra": []
   },

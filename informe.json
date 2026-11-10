@@ -1,24 +1,24 @@
 {
- "generado": "2026-11-09T21:38:27+00:00",
+ "generado": "2026-11-10T03:50:12+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "30-10-2026",
-  "hasta": "09-11-2026"
+  "desde": "31-10-2026",
+  "hasta": "10-11-2026"
  },
  "totales": {
-  "alertas": 87,
+  "alertas": 89,
   "sae": 0,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "AMARILLA": 12,
-   "ATP": 72,
-   "ROJA": 3
+   "AMARILLA": 13,
+   "ROJA": 3,
+   "ATP": 73
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    50
+    49
    ],
    [
     "viento",
@@ -26,18 +26,18 @@
    ],
    [
     "crecida de río",
-    7
+    8
    ],
    [
     "remoción en masa",
+    5
+   ],
+   [
+    "evento meteorológico",
     4
    ],
    [
     "aluvión",
-    3
-   ],
-   [
-    "evento meteorológico",
     3
    ],
    [
@@ -57,7 +57,7 @@
     "region": "Metropolitana de Santiago",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "30-10",
+    "ts": "31-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
    },
@@ -80,15 +80,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "30-10",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
     "lugar": "Región de Maule",
     "region": "Maule",
     "nivel": "ATP",
@@ -105,6 +96,15 @@
     "ts": "31-10",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "31-10",
+    "comuna_link": "",
+    "region_link": "valparaiso"
    },
    {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -273,26 +273,15 @@
     "ts": "31-10",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
-   }
-  ],
-  "aluvión": [
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "31-10",
-    "comuna_link": "",
-    "region_link": "nuble"
    },
    {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "AMARILLA",
     "sae": false,
-    "ts": "03-11",
+    "ts": "09-11",
     "comuna_link": "",
-    "region_link": "los lagos"
+    "region_link": "libertador general bernardo o'higgins"
    }
   ],
   "evento meteorológico": [
@@ -322,6 +311,35 @@
     "ts": "08-11",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "09-11",
+    "comuna_link": "",
+    "region_link": "atacama"
+   }
+  ],
+  "aluvión": [
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "31-10",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "03-11",
+    "comuna_link": "",
+    "region_link": "los lagos"
    }
   ],
   "ola calor - altas temperaturas": [
@@ -349,21 +367,14 @@
  },
  "vigentes": {
   "ROJA": 2,
-  "AMARILLA": 3,
-  "ATP": 10,
+  "AMARILLA": 5,
+  "ATP": 11,
   "regiones_roja": [
    "Coquimbo",
    "Tarapacá"
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-10-30",
-   "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 1,
-   "sae": 0
-  },
   {
    "fecha": "2026-10-31",
    "ROJA": 1,
@@ -430,8 +441,15 @@
   {
    "fecha": "2026-11-09",
    "ROJA": 2,
-   "AMARILLA": 3,
-   "ATP": 5,
+   "AMARILLA": 5,
+   "ATP": 6,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-11-10",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   }
  ],
@@ -517,6 +535,11 @@
      "nivel": "ROJA",
      "ts": "09-11 18:25",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "09-11 18:46",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -542,9 +565,86 @@
      "estado": "VIGENTE"
     }
    ]
+  },
+  {
+   "lugar": "Región de Atacama",
+   "region": "Atacama",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "01-11 14:05",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "04-11 22:35",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "09-11 18:36",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "region": "Libertador General Bernardo O'Higgins",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "31-10 12:00",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "09-11 18:57",
+     "estado": "VIGENTE"
+    }
+   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "10-11 00:31",
+   "nivel": "ATP",
+   "lugar": "Región de Coquimbo",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21"
+  },
+  {
+   "ts": "09-11 18:57",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Libertador General Bernardo O'Higgins",
+   "tipo": "remoción en masa",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mostazal-codegua-rancagua-machali-requinoa-rengo-malloa-san-fernando-y-chimbarongo-por-remocion-en-masa-2026-11-09-19-15-11"
+  },
+  {
+   "ts": "09-11 18:46",
+   "nivel": "ATP",
+   "lugar": "Región de Tarapacá",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-2026-11-09-19-00-47"
+  },
+  {
+   "ts": "09-11 18:36",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Atacama",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen--por-calor-intenso-2026-11-09-18-41-37"
+  },
   {
    "ts": "09-11 18:25",
    "nivel": "ROJA",
@@ -634,42 +734,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42"
-  },
-  {
-   "ts": "08-11 21:25",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-natales-por-incendio-forestal-2026-11-08-21-28-10"
-  },
-  {
-   "ts": "08-11 19:59",
-   "nivel": "ATP",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-11-08-20-09-10"
-  },
-  {
-   "ts": "08-11 16:00",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06"
-  },
-  {
-   "ts": "08-11 15:14",
-   "nivel": "ATP",
-   "lugar": "Región de Valparaíso",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-11-08-15-19-16"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
