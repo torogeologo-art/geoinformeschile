@@ -1,23 +1,41 @@
 {
- "generado": "2026-11-11T17:11:36+00:00",
- "desde": "2026-11-09T17:11:32Z",
+ "generado": "2026-11-11T22:11:30+00:00",
+ "desde": "2026-11-09T22:11:26Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "pxy2Rxr4K1Y",
+     "url": "https://www.youtube.com/watch?v=pxy2Rxr4K1Y",
+     "titulo": "LA ROJA COMPLICA A O&#39;HIGGINS: ¿Se va Arturo Vidal de Colo Colo? | METRÓPOLIS PM",
+     "canal": "Radio La Clave",
+     "publicado": "2026-11-11T21:58:48Z",
+     "live": true,
+     "score": 4.98,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "atacama": {
    "comuna": "Atacama",
    "region": "Atacama",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "N6vDmByktdw",
-     "url": "https://www.youtube.com/watch?v=N6vDmByktdw",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.1 Chile y M5.2 Papúa Nueva Guinea • Terremotos 24/7",
+     "id": "rm935BSIxgo",
+     "url": "https://www.youtube.com/watch?v=rm935BSIxgo",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.1 Chile y M5.1 Papúa Nueva Guinea • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-11T08:00:45Z",
+     "publicado": "2026-11-11T19:20:18Z",
      "live": true,
-     "score": 4.24,
+     "score": 4.76,
      "verificado": false,
-     "embeddable": true
+     "embeddable": false
     }
    ]
   },
@@ -27,35 +45,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "OjKbxp_PpKY",
-     "url": "https://www.youtube.com/watch?v=OjKbxp_PpKY",
-     "titulo": "EN VIVO | +NOTICIAS TARDE | 11 DE NOVIEMBRE 2026 | ANTOFAGASTA TV",
+     "id": "eYQ3xVKnmC0",
+     "url": "https://www.youtube.com/watch?v=eYQ3xVKnmC0",
+     "titulo": "EN VIVO | +NOTICIAS CENTRAL | 11 DE NOVIEMBRE 2026 | ANTOFAGASTA TV",
      "canal": "Antofagasta TV",
-     "publicado": "2026-11-11T16:12:23Z",
+     "publicado": "2026-11-11T21:16:32Z",
      "live": true,
      "score": 7.92,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "WjXLDAHGyyQ",
-     "url": "https://www.youtube.com/watch?v=WjXLDAHGyyQ",
-     "titulo": "😱 ¡Rafa Araneda en el ojo del huracán! ¿Mala actitud? | No es lo mismo",
-     "canal": "Tevex Oficial",
-     "publicado": "2026-11-11T15:10:31Z",
-     "live": true,
-     "score": 7.83,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "N6vDmByktdw",
-     "url": "https://www.youtube.com/watch?v=N6vDmByktdw",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.1 Chile y M5.2 Papúa Nueva Guinea • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-11T08:00:45Z",
-     "live": true,
-     "score": 4.23,
      "verificado": false,
      "embeddable": true
     }
@@ -73,7 +69,7 @@
      "canal": "Vicuña con Alameda",
      "publicado": "2026-11-11T11:52:07Z",
      "live": true,
-     "score": 7.56,
+     "score": 7.14,
      "verificado": false,
      "embeddable": true
     },
@@ -84,25 +80,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-11-10T16:19:37Z",
      "live": false,
-     "score": 5.93,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "tarapaca": {
-   "comuna": "Tarapacá",
-   "region": "Tarapacá",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "N6vDmByktdw",
-     "url": "https://www.youtube.com/watch?v=N6vDmByktdw",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.1 Chile y M5.2 Papúa Nueva Guinea • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-11T08:00:45Z",
-     "live": true,
-     "score": 4.23,
+     "score": 5.51,
      "verificado": false,
      "embeddable": true
     }

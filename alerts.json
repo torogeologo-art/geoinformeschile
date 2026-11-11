@@ -1,13 +1,85 @@
 {
- "generado": "2026-11-11T17:11:31+00:00",
+ "generado": "2026-11-11T22:11:18+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 16,
+ "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "228b5304077e",
+   "nivel": "ROJA",
+   "tipo": "otro",
+   "titulo": "🔴 #SENAPREDInforma ¡ATENCIÓN! EVITA riberas de los ríos Limarí y Grande, en la comuna de Ovalle, Región de Coquimbo.",
+   "descripcion": "🔴 #SENAPREDInforma ¡ATENCIÓN! EVITA riberas de los ríos Limarí y Grande, en la comuna de Ovalle, Región de Coquimbo.\n\n\n#SENAPRED activó mensajería #SAE Preventiva. \nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "Coquimbo",
+   "comunas": [
+    "Ovalle"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-11-11T19:43:04+00:00",
+   "url": "https://t.me/SenapredChile/1686",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "e0f362bbe6df",
+   "nivel": "AMARILLA",
+   "tipo": "incendio forestal",
+   "titulo": "Se cancela Alerta Amarilla para la comuna de Ovalle por incendio forestal",
+   "descripcion": "De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED,&nbsp; respecto al incendio forestal en la&nbsp; comuna de Ovalle, se informa el siguiente detalle: Nombre del incendio Población El Acacio Estado Extinguido Superficie 1.6 (ha) Observaciones El incendio no presentar amenaza a personas, viviendas y/o infraestructura crítica. En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Comuna",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-11T18:15:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-ovalle-por-incendio-forestal-2026-11-11-17-47-45",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "9043ac6be025",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Amarilla para las Provincias de San Felipe y Los Andes y comunas de La Ligua, Petorca y Cabildo por calor intenso",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA196-3 Evento de altas temperaturas extremas en precordillera y valles precordilleranos de la región (35 – 37°C). 11-11 12-11 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED declara Alerta Amarilla por Calor Intenso para las Provincias de San Felipe y Los And",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-11T16:03:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-y-comunas-de-la-ligua-petorca-y-cabildo-por-calor-intenso-2026-11-11-18-01-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "e48b0d8bb948",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Amarilla para la Región Metropolitana por calor intenso",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región Metropolitana. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA196-3 Evento de altas temperaturas extremas en cordillera de la costa, valle y precordillera de la región (32 – 36°C). 11-11 12-11 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED declara Alerta Amarilla regional por Calor Intenso, vigente a contar de hoy y h",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-11T14:49:23.2323-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-metropolitana-por-calor-intenso-2026-11-11-14-50-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a5384c021d45",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Se modifica cobertura de Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado, por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudal en la Región de Coquimbo: Comuna Estación hidrométrica Umbral Monte Patria Río Grande Las Ramadas Rojo Salamanca Río Choapa en Salamanca Rojo Salamanca Río Choapa en Cuncumén Amarillo Salamanca Ríos Cuncumen antes junta Choapa (Chacay) Amarillo Asimismo, la DGA informo que entre el 7 y 9 de noviembre, los umbrales hidrométricos han alcanzado o superado niveles de alertamiento debido a los deshielos ocurridos en las cuencas de E",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-11T13:49:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "1242ce08b83e",
    "nivel": "ROJA",
@@ -51,34 +123,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "1dfe4e260698",
-   "nivel": "AMARILLA",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Amarilla para las comunas de Combarbalá, Illapel, La Higuera, Monte Patria, Paihuano, Río Hurtado, Salamanca y Vicuña por calor intenso",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA196-2 Evento de altas temperaturas extremas en precordillera y valles precordilleranos de la región (32 – 34°C). 11-11 12-11 Abrir Aquí Aviso A610-3 Altas temperaturas para cordillera de la costa de la región (29 - 31°C). 11-11 12-11 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Direcc",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-11T09:19:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-combarbala-illapel-la-higuera-monte-patria-paihuano-rio-hurtado-salamanca-y-vicuna-por-calor-intenso-2026-11-11-09-20-58",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7c01314a8e6b",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se modifica cobertura Alerta Roja para las comunas de Salamanca, Monte Patria y Río Hurtado por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) , las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudal en la Región de Coquimbo: Comuna Estación hidrométrica Umbral Monte Patria Río Grande Las Ramadas Roja Río Hurtado Río Hurtado en San Agustín Roja Salamanca Río Choapa en Cuncumén Roja Cabe señalar que, la Alerta Roja vigente para la comuna de Río Hurtado por desborde fue incluida dentro de la cobertura de esta alerta. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-11T00:20:38.3838-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "44d651ea0553",

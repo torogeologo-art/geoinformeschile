@@ -1,40 +1,40 @@
 {
- "generado": "2026-11-11T15:22:33+00:00",
+ "generado": "2026-11-11T22:11:30+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "01-11-2026",
   "hasta": "11-11-2026"
  },
  "totales": {
-  "alertas": 96,
-  "sae": 3,
-  "comunas": 3,
+  "alertas": 94,
+  "sae": 4,
+  "comunas": 4,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 71,
+   "ATP": 67,
    "AMARILLA": 16,
-   "ROJA": 9
+   "ROJA": 11
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    48
+    43
    ],
    [
     "viento",
-    15
+    14
    ],
    [
     "crecida de río",
     12
    ],
    [
-    "remoción en masa",
-    6
+    "evento meteorológico",
+    7
    ],
    [
-    "evento meteorológico",
-    4
+    "remoción en masa",
+    6
    ],
    [
     "aluvión",
@@ -53,51 +53,6 @@
  "tipos_detalle": {
   "tormentas eléctricas": [
    {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "01-11",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "01-11",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "01-11",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "01-11",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "01-11",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
     "lugar": "Región de Ñuble",
     "region": "Ñuble",
     "nivel": "ATP",
@@ -105,6 +60,15 @@
     "ts": "01-11",
     "comuna_link": "",
     "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "02-11",
+    "comuna_link": "",
+    "region_link": "maule"
    },
    {
     "lugar": "Región de Arica y Parinacota",
@@ -161,6 +125,24 @@
     "region_link": "la araucania"
    },
    {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "02-11",
+    "comuna_link": "",
+    "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "04-11",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ATP",
@@ -168,6 +150,15 @@
     "ts": "09-11",
     "comuna_link": "",
     "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "09-11",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
    },
    {
     "lugar": "Región de Tarapacá",
@@ -199,15 +190,6 @@
     "region_link": "coquimbo"
    },
    {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "01-11",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
     "region": "Magallanes y de la Antártica Chilena",
     "nivel": "ATP",
@@ -233,6 +215,15 @@
     "ts": "04-11",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "04-11",
+    "comuna_link": "",
+    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Valparaíso",
@@ -273,26 +264,6 @@
     "region_link": "coquimbo"
    }
   ],
-  "remoción en masa": [
-   {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "02-11",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "09-11",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   }
-  ],
   "evento meteorológico": [
    {
     "lugar": "Región de Tarapacá",
@@ -302,6 +273,15 @@
     "ts": "09-11",
     "comuna_link": "",
     "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "11-11",
+    "comuna_link": "",
+    "region_link": "antofagasta"
    },
    {
     "lugar": "Región de Coquimbo",
@@ -329,6 +309,44 @@
     "ts": "09-11",
     "comuna_link": "",
     "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "11-11",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "11-11",
+    "comuna_link": "",
+    "region_link": "valparaiso"
+   }
+  ],
+  "remoción en masa": [
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "02-11",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "09-11",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
    }
   ],
   "aluvión": [
@@ -366,10 +384,11 @@
   ]
  },
  "vigentes": {
-  "ROJA": 7,
-  "AMARILLA": 1,
+  "ROJA": 9,
+  "AMARILLA": 2,
   "ATP": 7,
   "regiones_roja": [
+   "Antofagasta",
    "Atacama",
    "Coquimbo",
    "Tarapacá"
@@ -379,8 +398,8 @@
   {
    "fecha": "2026-11-01",
    "ROJA": 0,
-   "AMARILLA": 2,
-   "ATP": 5,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -448,46 +467,13 @@
   },
   {
    "fecha": "2026-11-11",
-   "ROJA": 2,
-   "AMARILLA": 1,
+   "ROJA": 4,
+   "AMARILLA": 3,
    "ATP": 1,
-   "sae": 0
+   "sae": 1
   }
  ],
  "escalamientos": [
-  {
-   "lugar": "Región de Atacama",
-   "region": "Atacama",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "01-11 14:05",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "04-11 22:35",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "09-11 18:36",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "10-11 13:11",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "10-11 18:41",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
   {
    "lugar": "Región de Coquimbo",
    "region": "Coquimbo",
@@ -517,6 +503,52 @@
     {
      "nivel": "ROJA",
      "ts": "11-11 00:20",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Atacama",
+   "region": "Atacama",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "04-11 22:35",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "09-11 18:36",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "10-11 13:11",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "10-11 18:41",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Antofagasta",
+   "region": "Antofagasta",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "03-11 18:47",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "11-11 13:19",
      "estado": "VIGENTE"
     }
    ]
@@ -595,7 +627,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "01-11 13:48",
+     "ts": "04-11 15:45",
      "estado": "VIGENTE"
     },
     {
@@ -609,9 +641,63 @@
      "estado": "CANCELADA"
     }
    ]
+  },
+  {
+   "lugar": "Región de Valparaíso",
+   "region": "Valparaíso",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "02-11 18:45",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "11-11 16:03",
+     "estado": "VIGENTE"
+    }
+   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "11-11 19:43",
+   "nivel": "ROJA",
+   "lugar": "Ovalle",
+   "tipo": "otro",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1686"
+  },
+  {
+   "ts": "11-11 16:03",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Valparaíso",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-y-comunas-de-la-ligua-petorca-y-cabildo-por-calor-intenso-2026-11-11-18-01-59"
+  },
+  {
+   "ts": "11-11 14:49",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-metropolitana-por-calor-intenso-2026-11-11-14-50-00"
+  },
+  {
+   "ts": "11-11 13:19",
+   "nivel": "ROJA",
+   "lugar": "Región de Antofagasta",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-calor-extremo-2026-11-11-13-20-47"
+  },
   {
    "ts": "11-11 09:33",
    "nivel": "ATP",
@@ -701,42 +787,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22"
-  },
-  {
-   "ts": "10-11 13:11",
-   "nivel": "ATP",
-   "lugar": "Región de Atacama",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03"
-  },
-  {
-   "ts": "10-11 12:37",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06"
-  },
-  {
-   "ts": "10-11 12:09",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-ohiggins-de-por-evento-meteorologico-2026-11-09-16-08-06"
-  },
-  {
-   "ts": "10-11 14:50",
-   "nivel": "ROJA",
-   "lugar": "Alto del Carmen",
-   "tipo": "otro",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1684"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
