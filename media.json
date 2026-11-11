@@ -1,11 +1,11 @@
 {
- "generado": "2026-11-11T01:46:14+00:00",
- "desde": "2026-11-09T01:46:11Z",
+ "generado": "2026-11-11T07:12:36+00:00",
+ "desde": "2026-11-09T07:12:33Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
    "alerta": "ROJA",
    "videos": [
     {
@@ -15,18 +15,7 @@
      "canal": "MegaTiempo",
      "publicado": "2026-11-10T13:52:34Z",
      "live": false,
-     "score": 5.01,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "rdr_90kDzSo",
-     "url": "https://www.youtube.com/watch?v=rdr_90kDzSo",
-     "titulo": "🚨 CHILE: ALERTA ROJA EN PLENO DESIERTO: EL RÍO GRANDE SE SALIÓ EN MONTE PATRIA | ÚLTIMA HORA",
-     "canal": "vantor4",
-     "publicado": "2026-11-10T01:00:00Z",
-     "live": false,
-     "score": 3.94,
+     "score": 4.56,
      "verificado": false,
      "embeddable": true
     }
@@ -73,25 +62,7 @@
      "canal": "Meganoticias",
      "publicado": "2026-11-10T16:19:37Z",
      "live": false,
-     "score": 7.21,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "tarapaca": {
-   "comuna": "Tarapacá",
-   "region": "Tarapacá",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "ubnV8V7nmDM",
-     "url": "https://www.youtube.com/watch?v=ubnV8V7nmDM",
-     "titulo": "🔴 EN VIVO SEMIFINAL | ⚽ SQM VS FORZZA - PRO EMPRESAS ► CLAUSURA 2026",
-     "canal": "Iquique League Oficial",
-     "publicado": "2026-11-11T01:41:41Z",
-     "live": true,
-     "score": 7.99,
+     "score": 6.76,
      "verificado": false,
      "embeddable": true
     }

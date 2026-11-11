@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T00:33:18+00:00",
+ "generado": "2026-11-11T07:12:33+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -1099,6 +1099,13 @@
    "comuna": "Alto del Carmen",
    "noticias": [
     {
+     "titulo": "Senapred activa mensajería SAE en Alto del Carmen por crecida en riberas de los Ríos y El Tránsito - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-11-10T18:48:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPalRER1EyZU9Wc2ZpbFpjTEdVTFpROGdBdS1xRW1tVzQxNDg5TjF5alMxTk9EajhlM3Z5ZTNRbE1NQXBYSHhFMHlyWG9adUdscUg5UnlVRmdaS2NROU5aX3Z4NXBjZUJDaUtxY1hpNVd6RktTbnNhX2Rpbm92eGpjSzdoSlBETnl3SDVWVTJqRkxFUllSc0VGeERnQUZNM1lGWVowMkZNaEE1MURUckRmUEptLXVEUWpjTDRYTjgwRHNiQjdSeUNEV3o0U01kTktveXM2Z1R5SS0tSGE2amFNUURObE9FcFNMZHF1Mlo4V1VKMHNQeEx3dFd4OWxsNFE?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "SENAPRED: Deshielos provocan desbordes y afectan rutas en Alto del Carmen - Radio Maray",
      "medio": "Radio Maray",
      "fecha": "2026-11-10T15:02:28+00:00",
@@ -1155,17 +1162,10 @@
      "sector": null
     },
     {
-     "titulo": "CHL: Otros - 08-2026 - Aluvion #8 (2026-08-19) - ReliefWeb",
-     "medio": "ReliefWeb",
-     "fecha": "2026-08-20T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WdVQ0ZVY4RnVoM3NmYmtqUlZ1cl81Z2RDSmp4cmJKZ0dKRmdUdENwR3k3ZWdJb1N5NXlldVh1Yjl6Y1hKcm5SSExpZVFTeHU4dzZsR1BZS1ZaVUxnaFBmbmVDSU9kRW1tcW1kZkN4SGwwOE5xbXRydlFxb1lrdw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Inundaciones y quebradas activadas en Alto del Carmen: Municipio solicita fondos urgentes para maquinaria y combustible - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-08-13T16:50:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSFRfYjZtNEFRb0xJREE2SFFjYXk0YTBBSzYteFVVYzFRZnpqNWRKaW1nV1RZYnhTZXlfTllPMGMtUl94b1Nja182RVRuN0wxdWhnWmNjVUFzRHFnNHpReFJnT3FpR193eEl1dTF1V0ZUZ09xeFdsdmpXUHo0ZUZsUGNrN1kzWDZnRkhJOVJMdGZ5cmRyaHhEaFNBekZJMk5HaXc4aFRXTk8wM3JMYnJoZElaOUwyRjEySlNyM0REcXdXUWRGazBiQjRLWks5NFVHNjBGRXRKcTAyRVRwVUE?oc=5",
+     "titulo": "Activación de quebradas provoca cortes de camino en Alto del Carmen: alcalde llama a no transitar por la zona - Teletrece",
+     "medio": "Teletrece",
+     "fecha": "2026-09-18T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWk1iVndNbUlKQTM4dXVsQjlLRFpWUVpZUm85RTVEUUplMHdaa2E1U3I3cjlUQnpjZDhXODNzajZZUXg3TF9zQWNwU3NfdGUwN1hSTVFwczNrMEdwTlFabVplMTY1c0lUbzJITGNEdDc3MEpEWVpnZnBYbVItX0tUQ3g2cFZHYl85dUVWWFFSNk9yV2xMXzhzeTJzQW51QWJvSHZNREZxZFh4NTZJbllFYkNvQnF5MUVZcW1qczYzMjY2MUt4ajd1cm94ZTQzUXVZd3BvanlR0gHWAUFVX3lxTFBaTWJWd01tSUpBMzh1dWxCOUtEWlZRWllSbzlFNURRSmUwd1prYTVTcjdyOVRCemNkOFc4M3NqNllReDdMX3NBY3BTc190ZTA3WFJNUXBzM2swR3BOUVptWmUxNjVzSVRvMkhMY0R0NzcwSkRZWmdmcFhtUi1fS1RDeDZwVkdiXzl1RVZYUVI2T3JXbExfOHN5MnNBbnVBYm9Idk1ERnFkWHg1NkluWUViQ29CcXkxRVlxbWpzNjMyNjYxS3hqN3Vyb3hlNDNRdVl3cG9qeVE?oc=5",
      "sector": null
     }
    ]
@@ -1249,6 +1249,20 @@
    "comuna": "Vicuña",
    "noticias": [
     {
+     "titulo": "300 personas en riesgo de inundación: crecidas amenazan sectores de la Región de Coquimbo - Mi Radio",
+     "medio": "Mi Radio",
+     "fecha": "2026-11-11T01:05:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUW82OVlxY3FMdDB5Qjc3eUtVcGZPVlZwQ3Z1N2laUmdxRWh1c21YVUJRSlJmNEItSzJpUkdqeVVnTU1DbjNMNTU3SkhCUi1aN3dJT0xLVzJSWWlHeE8ycEt5WlRIUUNYZjRwdHFWVUxQOGE4ZlVqdWVYb2t6ek9YMzQ4RkhvMVVGRlhjWjgwZElEcDd6OTVn?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Crecida de ríos afecta siete viviendas en Vicuña y activa planes de emergencia en Paihuano - El Día",
+     "medio": "El Día",
+     "fecha": "2026-11-10T22:11:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLVZLMlJnUEpkTFpzaUIxWHhaWWJIV195QTFYZ2RxZ0F1akZfTTNndmEtek5Ya2VhS2s0UTB6YTNRWXFvdm9KX2JkR182WWM3em5IVzI5Y25PTlUtMGI5Q2RBZ1pqcmtJRU9ITlVQRWgyVkRUY3FBNkdrMGltT2k1MDZLOGpKNVFHOXdPN2o1TjZFb2VMR0VDSURKUDFHLVVRaUpNOUhEUURlVlhkb1YtWFVIWXo1VV9ETlhBUjJadWFDdjd1S2ZxTGpBN3FWU29nZG5VWG5hbXEwZ1oy?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Alerta por crecida de ríos en Chile: calor extremo podría provocar desbordes - Radio Imagina",
      "medio": "Radio Imagina",
      "fecha": "2026-11-10T17:50:58+00:00",
@@ -1306,20 +1320,6 @@
      "medio": "Madero CL",
      "fecha": "2026-10-03T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFFUcmFJQS10WXdwQTBmUWJXbEpZS2twVnZrRWVtTzFhT3FpQjl4XzI2VWZvVWM1S1hwdDZPNk4xbllLZGdGZkdwbjhfQUNvdDMtLWJpNTFkbFk5ZklFT04xNXZKOGJHamppbEFMbVVaaUUyd0tJNWJkZzV0QzZWUFBfcmRWR05sSU54TEMzT1FCcFZIaVNuZGIyV1pJYlk2c1dtV3NiWFBWNnp3?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Declaran Alerta Temprana Preventiva por crecida para Paihuano y Vicuña - El Observatodo",
-     "medio": "El Observatodo",
-     "fecha": "2026-10-03T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEJ3QlZXZ1BBd3V4RG0wWk4xRml1N0tOczd0Ri1jdlJPX2NWRDdBQzFsWWxNNzFKNkw1cG45Y0ZjbEd2N3huMjM4RGdBTHpEenRULWRzbXNhWWV2TXcyUlBqdWF4MEw4emdZYWZpVGxKMGJwMWo4bGtVWVlQay0weTdNeFRpZ0cxek83c0xWZFNZd2dDVGpwcXJrLTRXREhrS3F4TEtCUFpMMF9pN2xfQTlLS2RaNWM?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Paihuano y Vicuña por crecida de esteros y ríos - El Paihuanino",
-     "medio": "El Paihuanino",
-     "fecha": "2026-10-02T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeGptaHVZRzhWeEFvYkUxTy1qRmhhYVRIb3JielFaakgyQWZ3UEJEMGhwNE90bUhBVllyZG13NkNVN0hENFRoa2JZdjROVGVQd0RuY1hqdDhMdk9OS3Ywbkx6ejR0anV0UkdUZ1pYMzJFNmE0VmxPemlTWk42MU1kQU9lc29odWFTTVo1b1hNZmdDbjMzdnI2RWJnRWhBWC1pZkY0OUFDOWVmTmgzVHpERkFHY1ZKb0ZoOW11bE43VkttS2s1ZUxlUk1aNGZrLXRPTVlLZndvX0dOUE9Kenc?oc=5",
      "sector": null
     }
    ]
