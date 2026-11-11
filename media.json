@@ -1,44 +1,8 @@
 {
- "generado": "2026-11-11T22:11:30+00:00",
- "desde": "2026-11-09T22:11:26Z",
+ "generado": "2026-11-11T23:29:14+00:00",
+ "desde": "2026-11-09T23:29:10Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "pxy2Rxr4K1Y",
-     "url": "https://www.youtube.com/watch?v=pxy2Rxr4K1Y",
-     "titulo": "LA ROJA COMPLICA A O&#39;HIGGINS: ¿Se va Arturo Vidal de Colo Colo? | METRÓPOLIS PM",
-     "canal": "Radio La Clave",
-     "publicado": "2026-11-11T21:58:48Z",
-     "live": true,
-     "score": 4.98,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "rm935BSIxgo",
-     "url": "https://www.youtube.com/watch?v=rm935BSIxgo",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.1 Chile y M5.1 Papúa Nueva Guinea • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-11T19:20:18Z",
-     "live": true,
-     "score": 4.76,
-     "verificado": false,
-     "embeddable": false
-    }
-   ]
-  },
   "antofagasta": {
    "comuna": "Antofagasta",
    "region": "Antofagasta",
@@ -51,7 +15,7 @@
      "canal": "Antofagasta TV",
      "publicado": "2026-11-11T21:16:32Z",
      "live": true,
-     "score": 7.92,
+     "score": 7.82,
      "verificado": false,
      "embeddable": true
     }
@@ -69,7 +33,7 @@
      "canal": "Vicuña con Alameda",
      "publicado": "2026-11-11T11:52:07Z",
      "live": true,
-     "score": 7.14,
+     "score": 7.03,
      "verificado": false,
      "embeddable": true
     },
@@ -80,9 +44,38 @@
      "canal": "Meganoticias",
      "publicado": "2026-11-10T16:19:37Z",
      "live": false,
-     "score": 5.51,
+     "score": 5.4,
      "verificado": false,
      "embeddable": true
+    }
+   ]
+  },
+  "tarapaca": {
+   "comuna": "Tarapacá",
+   "region": "Tarapacá",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "RppVYXE116k",
+     "url": "https://www.youtube.com/watch?v=RppVYXE116k",
+     "titulo": "🔴 EN VIVO | ⚽ SHELBY FC VS JLT KUEKUE - TODO COMPETIDOR ► CLAUSURA 2026",
+     "canal": "Hospicio League Oficial",
+     "publicado": "2026-11-11T12:41:06Z",
+     "live": true,
+     "score": 7.1,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "rm935BSIxgo",
+     "url": "https://www.youtube.com/watch?v=rm935BSIxgo",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.1 Chile y M4.6 Argentina • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-11T19:20:18Z",
+     "live": true,
+     "score": 4.65,
+     "verificado": false,
+     "embeddable": false
     }
    ]
   }
