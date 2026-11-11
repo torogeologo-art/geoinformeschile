@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-11T07:12:36+00:00",
- "desde": "2026-11-09T07:12:33Z",
+ "generado": "2026-11-11T09:03:38+00:00",
+ "desde": "2026-11-09T09:03:35Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -15,7 +15,7 @@
      "canal": "MegaTiempo",
      "publicado": "2026-11-10T13:52:34Z",
      "live": false,
-     "score": 4.56,
+     "score": 4.4,
      "verificado": false,
      "embeddable": true
     }
@@ -45,24 +45,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "f0sLMAVw098",
-     "url": "https://www.youtube.com/watch?v=f0sLMAVw098",
-     "titulo": "Transmisión en vivo de Vicuña con Alameda",
-     "canal": "Vicuña con Alameda",
-     "publicado": "2026-11-09T11:28:12Z",
-     "live": true,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "PZueRDqBu7I",
      "url": "https://www.youtube.com/watch?v=PZueRDqBu7I",
      "titulo": "Crecidas de cauces y deshielo acelerado: Alerta por crecida de río Claro en Vicuña",
      "canal": "Meganoticias",
      "publicado": "2026-11-10T16:19:37Z",
      "live": false,
-     "score": 6.76,
+     "score": 6.61,
      "verificado": false,
      "embeddable": true
     }
