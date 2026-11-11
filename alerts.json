@@ -1,38 +1,24 @@
 {
- "generado": "2026-11-11T00:33:17+00:00",
+ "generado": "2026-11-11T01:46:10+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 14,
  "alertas": [
   {
-   "id": "8add929c8258",
+   "id": "9a04cd8ef562",
    "nivel": "ROJA",
    "tipo": "crecida de río",
    "titulo": "Monitoreo Alerta Roja para la comuna de Monte Patria por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) , la estación hidrométrica de monitoreo mantiene el siguiente registro de caudal en la Región de Coquimbo: Estación hidrométrica Umbral Río Grande Las Ramadas Roja Por otra parte, de acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo, se registran las siguientes situaciones producto de las activaciones de quebradas y crecidas de cauces: Comuna Observación Monte Patria Diversos accesos vehiculares en los sectores de Río Grande, Río Ponio, Río Mostazal, Río Huatulame y Río Ra",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-10T21:31:12.1212-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "44d651ea0553",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Monitoreo Alerta Roja para la comuna de Río Hurtado por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) , la estación hidrométrica de monitoreo mantiene el siguiente registro de caudal en la Región de Coquimbo: Estación hidrométrica Umbral Río Hurtado en San Agustín Roja Por otra parte, de acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo, se registran las siguientes situaciones producto de las activaciones de quebradas y crecidas de cauces: Comuna Observación Río Hurtado Sector Las Breas, producto de desborde se ve afectada la media luna e instalaciones de un centro comunit",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), l a estación hidrométrica de monitoreo mantiene el siguiente registro de caudal en la Región de Coquimbo: Estación hidrométrica Umbral Río Grande Las Ramadas Roja Por otra parte, de acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo, se registran las siguientes situaciones producto de las activaciones de quebradas y crecidas de cauces: Comuna Observación Monte Patria Diversos accesos vehiculares en los sectores de Río Grande, Río Ponio, Río Mostazal, Río Huatulame y Río Ra",
    "region": "Coquimbo",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-11-10T21:26:30.3030-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-rio-hurtado-por-desborde-2026-11-09-03-47-13",
+   "ts": "2026-11-10T21:38:02.022-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -91,6 +77,20 @@
    "estado": "VIGENTE",
    "ts": "2026-11-10T19:47:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-09-14-14-37",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ee9feef798ef",
+   "nivel": "ROJA",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Roja comunal por calor extremo para las Comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen y cancela Alerta Amarilla para las mismas comunas por calor intenso",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA196-1 Evento de altas temperaturas extremas en precordillera de la región. 10-11 12-11 Abrir Aquí Valores estimados de temperatura proyectada en °C de acuerdo a la Alerta AA196-1, en la Región de Atacama son los siguientes: Zona Martes 10 de noviembre Miércoles 11 de noviembre Jueves 12 de noviembre Precordillera 36 a 38 °C 36 a 38 °C 36 a 38 °C En consideración a es",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-10T19:33:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen--por-calor-intenso-2026-11-09-18-41-37",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -311,20 +311,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-09T18:25:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-provincia-del-tamarugal-por-calor-extremo-2026-11-09-18-34-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "65fdb4a85171",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Roja para la comuna de Monte Patria por desborde y cancela Alerta Amarilla por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), la estación hidrométrica de monitoreo mantiene el siguiente registro de caudal en la Región de Coquimbo: Estación hidrométrica Umbral Río Grande Las Ramadas Roja En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Amarilla para la comuna de Monte Patria por crecida , que se mantuvo vigente desde el 06 de octubre y declara Alerta Roja para la comuna de Monte Patria por desborde , vigente a contar del 08 d",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-09T00:25:59.5959-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
    "origen": "senapred_web",
    "regiones_extra": []
   },

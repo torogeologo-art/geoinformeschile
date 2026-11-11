@@ -1,26 +1,8 @@
 {
- "generado": "2026-11-11T00:33:22+00:00",
- "desde": "2026-11-09T00:33:19Z",
+ "generado": "2026-11-11T01:46:14+00:00",
+ "desde": "2026-11-09T01:46:11Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "437CIRM4Np0",
-     "url": "https://www.youtube.com/watch?v=437CIRM4Np0",
-     "titulo": "Alerta por crecida de ríos en Coquimbo y Atacama: Calor extremo acelera deshielos",
-     "canal": "MegaTiempo",
-     "publicado": "2026-11-10T13:52:34Z",
-     "live": false,
-     "score": 5.11,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "coquimbo": {
    "comuna": "Coquimbo",
    "region": "Coquimbo",
@@ -33,7 +15,7 @@
      "canal": "MegaTiempo",
      "publicado": "2026-11-10T13:52:34Z",
      "live": false,
-     "score": 5.11,
+     "score": 5.01,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +26,7 @@
      "canal": "vantor4",
      "publicado": "2026-11-10T01:00:00Z",
      "live": false,
-     "score": 4.04,
+     "score": 3.94,
      "verificado": false,
      "embeddable": true
     }
@@ -74,17 +56,6 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "ZIesy7bgXkc",
-     "url": "https://www.youtube.com/watch?v=ZIesy7bgXkc",
-     "titulo": "CULTO GENERAL 🔵 10 DE NOVIEMBRE 2026 🔵 TEMPLO HOREB CHILLAN - EN VIVO",
-     "canal": "Horeb Televisión",
-     "publicado": "2026-11-10T23:05:27Z",
-     "live": true,
-     "score": 7.88,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "f0sLMAVw098",
      "url": "https://www.youtube.com/watch?v=f0sLMAVw098",
      "titulo": "Transmisión en vivo de Vicuña con Alameda",
@@ -102,7 +73,25 @@
      "canal": "Meganoticias",
      "publicado": "2026-11-10T16:19:37Z",
      "live": false,
-     "score": 7.31,
+     "score": 7.21,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "tarapaca": {
+   "comuna": "Tarapacá",
+   "region": "Tarapacá",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "ubnV8V7nmDM",
+     "url": "https://www.youtube.com/watch?v=ubnV8V7nmDM",
+     "titulo": "🔴 EN VIVO SEMIFINAL | ⚽ SQM VS FORZZA - PRO EMPRESAS ► CLAUSURA 2026",
+     "canal": "Iquique League Oficial",
+     "publicado": "2026-11-11T01:41:41Z",
+     "live": true,
+     "score": 7.99,
      "verificado": false,
      "embeddable": true
     }
