@@ -1,13 +1,41 @@
 {
- "generado": "2026-11-11T15:22:23+00:00",
+ "generado": "2026-11-11T17:11:31+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 16,
  "alertas": [
+  {
+   "id": "1242ce08b83e",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA196-3 Altas temperaturas extremas en precordillera de la región. 11-11 12-11 Abrir aquí Además, acorde a lo informado por Dirección General de Aguas (DGA) se reporta que la estación de monitoreo “Río Huasco en el Maiten” en la comuna de Alto del Carmen, se encuentra en umbral azul con tendencia al alza. Por otra parte, de acuerdo con la información proporcionada por l",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-11T13:45:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "4764bfce3d20",
+   "nivel": "ROJA",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Roja para la Provincia de El Loa y las comunas de Antofagasta, Sierra Gorda y María Elena por calor extremo",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA196-3 Altas Temperaturas Extremas en Pampa de la Región. 11-11 12-11 Abrir Aquí Aviso A610-4 Altas Temperaturas en Pampa, Precordillera Occidental y Precordillera Salar de la Región. 11-11 14-11 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-11T13:19:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-calor-extremo-2026-11-11-13-20-47",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "c03dd2858053",
    "nivel": "ATP",
@@ -35,20 +63,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-11T09:19:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-combarbala-illapel-la-higuera-monte-patria-paihuano-rio-hurtado-salamanca-y-vicuna-por-calor-intenso-2026-11-11-09-20-58",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1242ce08b83e",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Monitoreo Alerta roja para la comuna de Alto del Carmen por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA196-1 Altas temperaturas extremas en precordillera de la región. 10-11 12-11 Abrir aquí Por otra parte, de acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Atacama, se registran las siguientes situaciones producto de las activaciones de quebradas y crecidas de cauces en la región: COMUNA AFECTACIÓN A PERSONAS - DAÑO A VIVIENDAS Y/O ESTR",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-11T00:49:31.3131-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },

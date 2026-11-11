@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-11T15:22:33+00:00",
- "desde": "2026-11-09T15:22:29Z",
+ "generado": "2026-11-11T17:11:36+00:00",
+ "desde": "2026-11-09T17:11:32Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,64 +9,53 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "MkDxi-kuy4Q",
-     "url": "https://www.youtube.com/watch?v=MkDxi-kuy4Q",
-     "titulo": "Transmisión en vivo Sesión Ordinaria N° 71 (11.11.2026) Concejo Municipal de Caldera - Atacama",
-     "canal": "Concejo Municipal Caldera - Atacama",
-     "publicado": "2026-11-10T17:34:23Z",
+     "id": "N6vDmByktdw",
+     "url": "https://www.youtube.com/watch?v=N6vDmByktdw",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.1 Chile y M5.2 Papúa Nueva Guinea • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-11T08:00:45Z",
      "live": true,
-     "score": 6.18,
+     "score": 4.24,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "OjKbxp_PpKY",
+     "url": "https://www.youtube.com/watch?v=OjKbxp_PpKY",
+     "titulo": "EN VIVO | +NOTICIAS TARDE | 11 DE NOVIEMBRE 2026 | ANTOFAGASTA TV",
+     "canal": "Antofagasta TV",
+     "publicado": "2026-11-11T16:12:23Z",
+     "live": true,
+     "score": 7.92,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "WjXLDAHGyyQ",
+     "url": "https://www.youtube.com/watch?v=WjXLDAHGyyQ",
+     "titulo": "😱 ¡Rafa Araneda en el ojo del huracán! ¿Mala actitud? | No es lo mismo",
+     "canal": "Tevex Oficial",
+     "publicado": "2026-11-11T15:10:31Z",
+     "live": true,
+     "score": 7.83,
      "verificado": false,
      "embeddable": true
     },
     {
      "id": "N6vDmByktdw",
      "url": "https://www.youtube.com/watch?v=N6vDmByktdw",
-     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M4.8 en Argentina (Calingasta y San Juan) • Terremotos 24/7",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.1 Chile y M5.2 Papúa Nueva Guinea • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-11T08:00:45Z",
      "live": true,
-     "score": 4.39,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "tfBoeBNVmXM",
-     "url": "https://www.youtube.com/watch?v=tfBoeBNVmXM",
-     "titulo": "“Masa de aire cálido subtropical” en el norte: Advierten calor y crecida de ríos por deshielos",
-     "canal": "MegaTiempo",
-     "publicado": "2026-11-10T22:45:14Z",
-     "live": false,
-     "score": 4.61,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "437CIRM4Np0",
-     "url": "https://www.youtube.com/watch?v=437CIRM4Np0",
-     "titulo": "Alerta por crecida de ríos en Coquimbo y Atacama: Calor extremo acelera deshielos",
-     "canal": "MegaTiempo",
-     "publicado": "2026-11-10T13:52:34Z",
-     "live": false,
-     "score": 3.88,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "0tKUiqiFWeY",
-     "url": "https://www.youtube.com/watch?v=0tKUiqiFWeY",
-     "titulo": "#Ahora Víctor Pino - Entrevista Exclusiva | Delegado Presidencial de Coquimbo | Radio Riquelme",
-     "canal": "Radio Riquelme",
-     "publicado": "2026-11-11T15:18:12Z",
-     "live": true,
-     "score": 7.99,
+     "score": 4.23,
      "verificado": false,
      "embeddable": true
     }
@@ -84,7 +73,7 @@
      "canal": "Vicuña con Alameda",
      "publicado": "2026-11-11T11:52:07Z",
      "live": true,
-     "score": 7.71,
+     "score": 7.56,
      "verificado": false,
      "embeddable": true
     },
@@ -95,7 +84,25 @@
      "canal": "Meganoticias",
      "publicado": "2026-11-10T16:19:37Z",
      "live": false,
-     "score": 6.08,
+     "score": 5.93,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "tarapaca": {
+   "comuna": "Tarapacá",
+   "region": "Tarapacá",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "N6vDmByktdw",
+     "url": "https://www.youtube.com/watch?v=N6vDmByktdw",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.1 Chile y M5.2 Papúa Nueva Guinea • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-11T08:00:45Z",
+     "live": true,
+     "score": 4.23,
      "verificado": false,
      "embeddable": true
     }
