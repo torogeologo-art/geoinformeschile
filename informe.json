@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T07:12:37+00:00",
+ "generado": "2026-11-11T15:22:33+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "01-11-2026",
@@ -69,15 +69,6 @@
     "ts": "01-11",
     "comuna_link": "",
     "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "01-11",
-    "comuna_link": "",
-    "region_link": "biobio"
    },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -152,6 +143,15 @@
     "region_link": "los lagos"
    },
    {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "02-11",
+    "comuna_link": "",
+    "region_link": "biobio"
+   },
+   {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
     "nivel": "ATP",
@@ -177,6 +177,15 @@
     "ts": "09-11",
     "comuna_link": "",
     "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "11-11",
+    "comuna_link": "",
+    "region_link": "magallanes y de la antartica chilena"
    }
   ],
   "viento": [
@@ -371,7 +380,7 @@
    "fecha": "2026-11-01",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 6,
+   "ATP": 5,
    "sae": 0
   },
   {
@@ -441,7 +450,7 @@
    "fecha": "2026-11-11",
    "ROJA": 2,
    "AMARILLA": 1,
-   "ATP": 0,
+   "ATP": 1,
    "sae": 0
   }
  ],
@@ -570,6 +579,11 @@
      "nivel": "AMARILLA",
      "ts": "10-11 20:27",
      "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "11-11 09:33",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -598,6 +612,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "11-11 09:33",
+   "nivel": "ATP",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06"
+  },
   {
    "ts": "11-11 00:49",
    "nivel": "ROJA",
@@ -714,15 +737,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1684"
-  },
-  {
-   "ts": "10-11 14:36",
-   "nivel": "ROJA",
-   "lugar": "Paihuano",
-   "tipo": "activación de quebradas",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1683"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
