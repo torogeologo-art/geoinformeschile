@@ -1,13 +1,29 @@
 {
- "generado": "2026-11-12T03:05:45+00:00",
+ "generado": "2026-11-12T04:06:19+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 19,
+ "total_vigentes": 20,
  "alertas": [
+  {
+   "id": "d511ff14ea8f",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "🔴 #SENAPREDInforma ¡ATENCIÓN!",
+   "descripcion": "🔴 #SENAPREDInforma ¡ATENCIÓN!\nPor alerta de crecida del Río Grande, EVITA ribera de río en sector Ensenada, en la comuna de Ovalle, Región de Coquimbo.\n\n\n#SENAPRED activó mensajería #SAE Preventiva.\n\n\nMantente informado a través de los canales oficiales. Y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "region": "Coquimbo",
+   "comunas": [
+    "Ovalle"
+   ],
+   "estado": "VIGENTE",
+   "ts": "2026-11-12T03:20:22+00:00",
+   "url": "https://t.me/SenapredChile/1687",
+   "origen": "telegram",
+   "sae": true
+  },
   {
    "id": "1242ce08b83e",
    "nivel": "ROJA",
