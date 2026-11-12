@@ -1,19 +1,19 @@
 {
- "generado": "2026-11-12T03:05:51+00:00",
+ "generado": "2026-11-12T11:21:44+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "02-11-2026",
   "hasta": "12-11-2026"
  },
  "totales": {
-  "alertas": 94,
-  "sae": 4,
+  "alertas": 96,
+  "sae": 5,
   "comunas": 4,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 67,
+   "ATP": 68,
    "AMARILLA": 16,
-   "ROJA": 11
+   "ROJA": 12
   },
   "por_tipo": [
    [
@@ -21,12 +21,12 @@
     42
    ],
    [
-    "viento",
-    14
+    "crecida de río",
+    15
    ],
    [
-    "crecida de río",
-    13
+    "viento",
+    14
    ],
    [
     "evento meteorológico",
@@ -179,6 +179,53 @@
     "region_link": "magallanes y de la antartica chilena"
    }
   ],
+  "crecida de río": [
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "11-11",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "09-11",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Vicuña",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "10-11",
+    "comuna_link": "vicuna",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Ovalle",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "12-11",
+    "comuna_link": "ovalle",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "11-11",
+    "comuna_link": "",
+    "region_link": "valparaiso"
+   }
+  ],
   "viento": [
    {
     "lugar": "Región de Coquimbo",
@@ -231,44 +278,6 @@
     "nivel": "ATP",
     "sae": false,
     "ts": "05-11",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   }
-  ],
-  "crecida de río": [
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "11-11",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "09-11",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Vicuña",
-    "region": "Coquimbo",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "10-11",
-    "comuna_link": "vicuna",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "11-11",
     "comuna_link": "",
     "region_link": "valparaiso"
    }
@@ -393,7 +402,7 @@
   ]
  },
  "vigentes": {
-  "ROJA": 9,
+  "ROJA": 10,
   "AMARILLA": 2,
   "ATP": 8,
   "regiones_roja": [
@@ -472,6 +481,13 @@
    "ROJA": 4,
    "AMARILLA": 3,
    "ATP": 2,
+   "sae": 1
+  },
+  {
+   "fecha": "2026-11-12",
+   "ROJA": 1,
+   "AMARILLA": 0,
+   "ATP": 1,
    "sae": 1
   }
  ],
@@ -670,6 +686,24 @@
  ],
  "cronologia": [
   {
+   "ts": "12-11 03:52",
+   "nivel": "ATP",
+   "lugar": "Región de Valparaíso",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18"
+  },
+  {
+   "ts": "12-11 03:20",
+   "nivel": "ROJA",
+   "lugar": "Ovalle",
+   "tipo": "crecida de río",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1687"
+  },
+  {
    "ts": "11-11 19:56",
    "nivel": "ATP",
    "lugar": "Región de Valparaíso",
@@ -776,24 +810,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
-  },
-  {
-   "ts": "10-11 19:47",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-09-14-14-37"
-  },
-  {
-   "ts": "10-11 18:41",
-   "nivel": "ROJA",
-   "lugar": "Región de Atacama",
-   "tipo": "desborde",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
