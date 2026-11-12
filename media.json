@@ -1,26 +1,8 @@
 {
- "generado": "2026-11-12T12:46:05+00:00",
- "desde": "2026-11-10T12:46:00Z",
+ "generado": "2026-11-12T19:04:01+00:00",
+ "desde": "2026-11-10T19:03:55Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "HZX9Rgy6Mxc",
-     "url": "https://www.youtube.com/watch?v=HZX9Rgy6Mxc",
-     "titulo": "Comienza Nuestro Matinal  “Un Nuevo Día”  de  12 de noviembre 2026",
-     "canal": "Atacama Noticias",
-     "publicado": "2026-11-12T11:41:19Z",
-     "live": true,
-     "score": 7.91,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "coquimbo": {
    "comuna": "Coquimbo",
    "region": "Coquimbo",
@@ -29,11 +11,22 @@
     {
      "id": "A5w_azBGzwk",
      "url": "https://www.youtube.com/watch?v=A5w_azBGzwk",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.1 Chile y M5.1 Papúa Nueva Guinea • Terremotos 24/7",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.0 Chile y M4.4 México • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-12T08:00:21Z",
      "live": true,
-     "score": 4.6,
+     "score": 4.08,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "X4dtBB1DAw4",
+     "url": "https://www.youtube.com/watch?v=X4dtBB1DAw4",
+     "titulo": "Desborde del río Grande: Senapred solicita evacuación en la región de Coquimbo",
+     "canal": "Meganoticias",
+     "publicado": "2026-11-12T18:44:42Z",
+     "live": false,
+     "score": 5.97,
      "verificado": false,
      "embeddable": true
     }
@@ -45,24 +38,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "fYuAJHb0bmg",
-     "url": "https://www.youtube.com/watch?v=fYuAJHb0bmg",
-     "titulo": "EN VIVO | EL MATINAL DE ANTOFAGASTA | 12  DE NOVIEMBRE 2026 | ANTOFAGASTA TV",
-     "canal": "Antofagasta TV",
-     "publicado": "2026-11-12T11:42:37Z",
-     "live": true,
-     "score": 7.91,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "A5w_azBGzwk",
      "url": "https://www.youtube.com/watch?v=A5w_azBGzwk",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.1 Chile y M5.1 Papúa Nueva Guinea • Terremotos 24/7",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.0 Chile y M4.4 México • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-12T08:00:21Z",
      "live": true,
-     "score": 4.6,
+     "score": 4.08,
      "verificado": false,
      "embeddable": true
     }
@@ -80,18 +62,25 @@
      "canal": "Vicuña con Alameda",
      "publicado": "2026-11-11T11:52:07Z",
      "live": true,
-     "score": 5.93,
+     "score": 5.4,
      "verificado": false,
      "embeddable": true
-    },
+    }
+   ]
+  },
+  "tarapaca": {
+   "comuna": "Tarapacá",
+   "region": "Tarapacá",
+   "alerta": "ROJA",
+   "videos": [
     {
-     "id": "PZueRDqBu7I",
-     "url": "https://www.youtube.com/watch?v=PZueRDqBu7I",
-     "titulo": "Crecidas de cauces y deshielo acelerado: Alerta por crecida de río Claro en Vicuña",
-     "canal": "Meganoticias",
-     "publicado": "2026-11-10T16:19:37Z",
-     "live": false,
-     "score": 5.0,
+     "id": "A5w_azBGzwk",
+     "url": "https://www.youtube.com/watch?v=A5w_azBGzwk",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.0 Chile y M4.4 México • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-12T08:00:21Z",
+     "live": true,
+     "score": 4.08,
      "verificado": false,
      "embeddable": true
     }

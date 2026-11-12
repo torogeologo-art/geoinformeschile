@@ -266,5 +266,9 @@
 "lat": -30.11092,
 "lon": -70.49367
 },
-"sector ensenada|ovalle": null
+"sector ensenada|ovalle": null,
+"sector la ensenada|coquimbo": {
+"lat": -30.00637,
+"lon": -71.37885
+}
 }
