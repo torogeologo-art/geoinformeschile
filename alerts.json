@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T19:03:44+00:00",
+ "generado": "2026-11-12T20:42:18+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -9,16 +9,16 @@
  "total_vigentes": 20,
  "alertas": [
   {
-   "id": "4f432600ef3c",
+   "id": "ce92f9cce2f0",
    "nivel": "ROJA",
    "tipo": "desborde",
-   "titulo": "¡ATENCIÓN! Por desborde del Río Grande se solicita EVACUAR sector La Ensenada en la comuna de #Ovalle, Región de Coquimbo.",
-   "descripcion": "¡ATENCIÓN! Por desborde del Río Grande se solicita EVACUAR sector La Ensenada en la comuna de #Ovalle, Región de Coquimbo.\n#SENAPRED activó mensajería SAE.\nMantente informado a través de los canales oficiales y sigue las indicaciones de la autoridad y de los equipos de respuesta en terreno.",
+   "titulo": "¡ATENCIÓN! Por desborde del Río Limarí se solicita EVACUAR sector Trapiche Bajo en la comuna de #Ovalle, Región de Coquimbo.",
+   "descripcion": "¡ATENCIÓN! Por desborde del Río Limarí se solicita EVACUAR sector Trapiche Bajo en la comuna de #Ovalle, Región de Coquimbo.  \n#SENAPRED activó mensajería SAE.   \nMantente informado a través de los canales oficiales y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
    "region": "Coquimbo",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-11-12T16:54:07+00:00",
-   "url": "https://t.me/SenapredChile/1688",
+   "ts": "2026-11-12T20:00:03+00:00",
+   "url": "https://t.me/SenapredChile/1689",
    "origen": "telegram",
    "sae": true
   },

@@ -1,24 +1,31 @@
 {
- "generado": "2026-11-12T19:04:01+00:00",
- "desde": "2026-11-10T19:03:55Z",
+ "generado": "2026-11-12T20:42:25+00:00",
+ "desde": "2026-11-10T20:42:19Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "ovalle": {
+   "comuna": "Ovalle",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "5Of-cH-Nknc",
+     "url": "https://www.youtube.com/watch?v=5Of-cH-Nknc",
+     "titulo": "Noticias MTY con Claudia Ovalle | 12 de noviembre de 2026",
+     "canal": "Imagen TV en vivo",
+     "publicado": "2026-11-12T20:15:27Z",
+     "live": true,
+     "score": 7.96,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "coquimbo": {
    "comuna": "Coquimbo",
    "region": "Coquimbo",
    "alerta": "ROJA",
    "videos": [
-    {
-     "id": "A5w_azBGzwk",
-     "url": "https://www.youtube.com/watch?v=A5w_azBGzwk",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.0 Chile y M4.4 México • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-12T08:00:21Z",
-     "live": true,
-     "score": 4.08,
-     "verificado": false,
-     "embeddable": true
-    },
     {
      "id": "X4dtBB1DAw4",
      "url": "https://www.youtube.com/watch?v=X4dtBB1DAw4",
@@ -26,25 +33,25 @@
      "canal": "Meganoticias",
      "publicado": "2026-11-12T18:44:42Z",
      "live": false,
-     "score": 5.97,
+     "score": 5.84,
      "verificado": false,
      "embeddable": true
     }
    ]
   },
-  "antofagasta": {
-   "comuna": "Antofagasta",
-   "region": "Antofagasta",
+  "alto del carmen": {
+   "comuna": "Alto del Carmen",
+   "region": "Atacama",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "A5w_azBGzwk",
-     "url": "https://www.youtube.com/watch?v=A5w_azBGzwk",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.0 Chile y M4.4 México • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-12T08:00:21Z",
+     "id": "_BERLgDZ12M",
+     "url": "https://www.youtube.com/watch?v=_BERLgDZ12M",
+     "titulo": "🔴 CONTIGO EN DIRECTO 📺 EN VIVO CHILEVISIÓN 🤩 Jueves 12 de noviembre de 2026",
+     "canal": "Chilevisión",
+     "publicado": "2026-11-12T01:45:07Z",
      "live": true,
-     "score": 4.08,
+     "score": 3.42,
      "verificado": false,
      "embeddable": true
     }
@@ -62,25 +69,7 @@
      "canal": "Vicuña con Alameda",
      "publicado": "2026-11-11T11:52:07Z",
      "live": true,
-     "score": 5.4,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "tarapaca": {
-   "comuna": "Tarapacá",
-   "region": "Tarapacá",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "A5w_azBGzwk",
-     "url": "https://www.youtube.com/watch?v=A5w_azBGzwk",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.0 Chile y M4.4 México • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-12T08:00:21Z",
-     "live": true,
-     "score": 4.08,
+     "score": 5.26,
      "verificado": false,
      "embeddable": true
     }
