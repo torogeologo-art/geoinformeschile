@@ -1,13 +1,41 @@
 {
- "generado": "2026-11-11T23:29:09+00:00",
+ "generado": "2026-11-12T03:05:45+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 18,
+ "total_vigentes": 19,
  "alertas": [
+  {
+   "id": "1242ce08b83e",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA196-3 Altas temperaturas extremas en precordillera de la región. 11-11 12-11 Abrir aquí Además, acorde a lo informado por Dirección General de Aguas (DGA) se reporta que la estación de monitoreo “Río Huasco en el Maiten” en la comuna de Alto del Carmen, se encuentra en umbral azul con tendencia al alza. Por otra parte, de acuerdo con la información proporcionada por l",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-11T22:53:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a23586810dee",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección General de Aguas (DGA), entre el 5 y 10 de noviembre de 2026 se han registrado incrementos significativos de caudal en distintas estaciones de la cuenca del río Aconcagua. Destacando de entre ellas la estación “ Aconcagua en Chacabuquito ”, cuyo caudal aumentó de 58,16 a 129,29 m³/s a las 20:00 horas del 10 de noviembre, equivalente al 85,8 % de su umbral amarillo referencial. Asimismo, se registraron incrementos en las estaciones “ Aconcagua en San Felipe 2 ” y otros tributarios de la cuenca alta. Del mismo modo, las observacione",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-11T19:56:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "228b5304077e",
    "nivel": "ROJA",
@@ -77,20 +105,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-11T13:49:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1242ce08b83e",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA196-3 Altas temperaturas extremas en precordillera de la región. 11-11 12-11 Abrir aquí Además, acorde a lo informado por Dirección General de Aguas (DGA) se reporta que la estación de monitoreo “Río Huasco en el Maiten” en la comuna de Alto del Carmen, se encuentra en umbral azul con tendencia al alza. Por otra parte, de acuerdo con la información proporcionada por l",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-11T13:45:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },
