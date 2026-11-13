@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T07:12:05+00:00",
+ "generado": "2026-11-13T15:27:59+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "03-11-2026",
@@ -7,22 +7,22 @@
  },
  "totales": {
   "alertas": 91,
-  "sae": 6,
+  "sae": 7,
   "comunas": 4,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 62,
-   "AMARILLA": 16,
-   "ROJA": 13
+   "ATP": 60,
+   "AMARILLA": 17,
+   "ROJA": 14
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    35
+    33
    ],
    [
     "crecida de río",
-    16
+    17
    ],
    [
     "viento",
@@ -30,7 +30,7 @@
    ],
    [
     "evento meteorológico",
-    8
+    9
    ],
    [
     "remoción en masa",
@@ -52,24 +52,6 @@
  },
  "tipos_detalle": {
   "tormentas eléctricas": [
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "03-11",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "03-11",
-    "comuna_link": "",
-    "region_link": "nuble"
-   },
    {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
@@ -96,6 +78,15 @@
     "ts": "03-11",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "04-11",
+    "comuna_link": "",
+    "region_link": "biobio"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -132,6 +123,15 @@
     "ts": "05-11",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "07-11",
+    "comuna_link": "",
+    "region_link": "nuble"
    },
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -193,7 +193,7 @@
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
     "nivel": "ROJA",
-    "sae": false,
+    "sae": true,
     "ts": "09-11",
     "comuna_link": "",
     "region_link": "coquimbo"
@@ -411,7 +411,7 @@
   ]
  },
  "vigentes": {
-  "ROJA": 11,
+  "ROJA": 12,
   "AMARILLA": 0,
   "ATP": 7,
   "regiones_roja": [
@@ -426,7 +426,7 @@
    "fecha": "2026-11-03",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 8,
+   "ATP": 6,
    "sae": 0
   },
   {
@@ -494,10 +494,10 @@
   },
   {
    "fecha": "2026-11-13",
-   "ROJA": 0,
-   "AMARILLA": 0,
+   "ROJA": 1,
+   "AMARILLA": 1,
    "ATP": 1,
-   "sae": 0
+   "sae": 1
   }
  ],
  "escalamientos": [
@@ -507,11 +507,6 @@
    "sae": true,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "09-11 04:59",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "AMARILLA",
      "ts": "10-11 01:25",
@@ -531,6 +526,11 @@
      "nivel": "ROJA",
      "ts": "11-11 00:20",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "13-11 10:30",
+     "estado": "CANCELADA"
     }
    ]
   },
@@ -695,6 +695,24 @@
  ],
  "cronologia": [
   {
+   "ts": "13-11 10:30",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Coquimbo",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-combarbala-illapel-la-higuera-monte-patria-paihuano-rio-hurtado-salamanca-y-vicuna-por-calor-intenso-2026-11-11-09-20-58"
+  },
+  {
+   "ts": "13-11 12:15",
+   "nivel": "ROJA",
+   "lugar": "Región de Coquimbo",
+   "tipo": "crecida de río",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1692"
+  },
+  {
    "ts": "13-11 00:41",
    "nivel": "ATP",
    "lugar": "Región de Arica y Parinacota",
@@ -801,24 +819,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-metropolitana-por-calor-intenso-2026-11-11-14-50-00"
-  },
-  {
-   "ts": "11-11 13:19",
-   "nivel": "ROJA",
-   "lugar": "Región de Antofagasta",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-calor-extremo-2026-11-11-13-20-47"
-  },
-  {
-   "ts": "11-11 09:33",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

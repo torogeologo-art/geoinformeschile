@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T07:12:01+00:00",
+ "generado": "2026-11-13T15:27:49+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -1098,6 +1098,13 @@
      "sector": null
     },
     {
+     "titulo": "Líder de grandes camioneros condena bloqueo de rutas en el paro: “Es terrorista, se calientan el mate” - Atacama Noticias",
+     "medio": "Atacama Noticias",
+     "fecha": "2026-11-12T19:12:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTnl1a0xzWkJxTzBDRXhqWldzblRtTFRpWlR0blEtQkFoY1ppNFBKdnAwSnFGd28yUEFvUWRSY1FLNmo1Z0p0eHhKRFFVRlhMcmVLSk9FTHNDRFV6YVJ2eXE0WGo2SHFydG1ZMW1YS2dpLU03NmdwRTZfeXNjLWhKYjlIZnUxQTAwU1N3Q1kzV0RsM0s5Z3JDN3hSUHBxYWFoY1hFSnBoVGp4MW5FeG1CYVF5SjRfQnRWS2FJN0NTd2J0VzJZQXZKTmd0YkVEYm1sNzl0R2hUODc?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Gobierno despliega recorrido por sectores afectados por aumento de caudales en Alto del Carmen - Atacama Noticias",
      "medio": "Atacama Noticias",
      "fecha": "2026-11-12T18:20:42+00:00",
@@ -1151,13 +1158,6 @@
      "medio": "Indap",
      "fecha": "2026-11-10T14:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc0k0cUFyWEt2SnBqbXJMMk9iQkhrRkxURFhDUUlFNm1GOXJjaG9GUFA3bVR1eHd2eDJfb2t6VVBiX1d4X2lSWjJJQlJCYVk3SXh2RldCUTVoWmtwbFBaLXI1anMwRHhlM2loaWFnaDgzNkJ2czRuNkQ1QTNwUnFxQTB3c1NfRlNBdTFOZ1NubnQ2OXpOOTN0d0tXeGZqTzBpamVaTnpYVHdra3EtOUVUNFN4a21JNFhBbjhGT1dXQjk?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Agricultores de Perales Sur en Alto del Carmen recuperan el riego con apoyo del Gobierno - Diario Chañarcillo",
-     "medio": "Diario Chañarcillo",
-     "fecha": "2026-11-09T15:03:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0lNWDZDaEMwTWw4OVliMmNZbHV4MnNKazhJeVZOb3F6bkM2RWJRbkVvNHhrNlBWWEtiMTNjejIwR2lhNDN1WlRCbVhXb25SczY2UHV2Qm91S1dqQmY5TlFsZ04tNnA1SjRmcGRZLWNRRDhjNzViT3RsTllnRjV4WEkwU211V3NnMm9rN2pDYzFXUWk5Z1YzblpVVU8yWEFZTWtfb0thb2FHX1hBcWtZVk4zZW94RzA?oc=5",
      "sector": null
     }
    ]
@@ -1241,6 +1241,27 @@
    "comuna": "Vicuña",
    "noticias": [
     {
+     "titulo": "ALERTA en Vicuña por crecida de ríos: SENAPRED activa mensajería SAE - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-11-13T12:54:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNTF1QUlkbkZON0h5VWJQb2NXVHk0Unc5LWhncmR0ay1GMHJPUktwM2V6T1JGY01MNDBnZlVOd3pCRXlUMUVfQnhXQUxIREF0U0dwSnJ6V2gtZWdKS3M2RENLRWlqUDgyNjV2MDhLZjZfRXNPWlhfNFAtdmZIX0FvRG41QTgxSDhodC1naUlDcFIySkkwVFpTZFQ0ZHJfVjk3YkRLcENmdHFMZVoxcnJ4VUpBaFVRcks4Zm00Zm9jOE1WMjBZTkE?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "SENAPRED emite alerta SAE en Vicuña y llama a evitar riberas de ríos y esteros por riesgo de crecidas - Mi Radio",
+     "medio": "Mi Radio",
+     "fecha": "2026-11-13T12:23:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZzhCV3d4Ml9wWTNlazY3VWkxTjd4SDNmWFhpeWMxRG9NZ3p0WGtOTGZqczZHdmhGc1h4enpIWHZBaDZCQ1NiX0hLdzZZNEZjeVFKUmVna3BYSjlGOGl0cEFMemhLVDA3T3dFbmNzWWNVeXZGU19TU0NKeF9qMEh3elhhLURRVnR1NmM2bHZSV1o4T19WaUhQZy1rTWgxekVjc2NwQnVUZlBWY0RBeGsxYzl1OVY2SDBCZXpTSzBMSnNSc2J2QUY5OGFUV1FIMkxwXzlDSg?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred activa alerta SAE en Vicuña por crecida de ríos y esteros - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-11-13T12:18:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMHlLQm15Vi1USGo1LWJPQTg0S2s5cG9Mb2htVXBQS0QtZ1R6NnIzb0p0ajlUejF4VDcyV3hWOWl3VmY4NnRzaDZVWHhwb09MZDFWQXo0U2I0TGt5aVIxbG5ycHJpbXZ6Wk5Ua2JlUUFHRzZ1RTdOWkcxaTI2OWFBSjFGaWJ2Rlh2SGJYV0Rtb3Z6azZPeDVHdzVva3RaNXh5alhvczdNV2RvVEhBRnZBUVB6LXI1V2tLSEU3QTdGNTduVTlGbmJjT2ZacUFQWU9EVG9lSjN3?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "“No se puede dormir en las noches”: Preocupación en Chapilca por aumento del caudal del río Turbio - Mi Radio",
      "medio": "Mi Radio",
      "fecha": "2026-11-12T21:07:18+00:00",
@@ -1287,31 +1308,6 @@
      "medio": "El Día",
      "fecha": "2026-11-10T22:11:10+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLVZLMlJnUEpkTFpzaUIxWHhaWWJIV195QTFYZ2RxZ0F1akZfTTNndmEtek5Ya2VhS2s0UTB6YTNRWXFvdm9KX2JkR182WWM3em5IVzI5Y25PTlUtMGI5Q2RBZ1pqcmtJRU9ITlVQRWgyVkRUY3FBNkdrMGltT2k1MDZLOGpKNVFHOXdPN2o1TjZFb2VMR0VDSURKUDFHLVVRaUpNOUhEUURlVlhkb1YtWFVIWXo1VV9ETlhBUjJadWFDdjd1S2ZxTGpBN3FWU29nZG5VWG5hbXEwZ1oy?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alerta por crecida de ríos en Chile: calor extremo podría provocar desbordes - Radio Imagina",
-     "medio": "Radio Imagina",
-     "fecha": "2026-11-10T17:50:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2hGWUFjOVk4MGlud3lMcjdzUFJOUDFKTFdNdXRjZ3JDQlhsdlhadHdtRkVlQk5oMS1KMXJSUFNmckZNN0FIRlJkNXJQdjZ1TzFCSU5kOUtiNHJ6N1hpeno5MGZJaXJmblVZa1JoSlR6MlNWMmxDT3pOMHZtN3VjOU5FUktLOF82UkRrMDc4RWdoYjNBOE93dE5VcmdkVk51SUpvakNtdkRrRDUyS1BpUDZ30gG3AUFVX3lxTE9uaWZDUkZXcWxEM182LVdyWU5LTUdZTHFZYTRia3Q4dG9LODg4QnF5UkIzZGl5VV9WMjR4cF9kRHdNRWpvNlk0TVBkQUVrTjhRQ0hlMVlQcDUwMnN4WFBQY0xmMGJCNDN6aEdIZm5md0pMRVFDVXFaem8tQTJoVWV6MU5XbF9JaFdwRFZHczg0djVyYnVrX0ZjVkZBUXFwWG12Q3dFQnFQSFpwenRiRjV1QTNaR2lWRQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "SENAPRED alerta por crecida del río Claro en Vicuña: llaman a evitar sectores cercanos a la ribera - Mi Radio",
-     "medio": "Mi Radio",
-     "fecha": "2026-11-10T12:34:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHpSY3ZQWjhPUHo0Wll2OUZja1lhZXVHcG95MXk2MTR0bXhES2NXWXpUUEx5S2dkUkdKN3BBbzBfRzc1QnZha3llS1Y4UGJvMVFOaDhNU0lmNlhYTUFYVWJZWk5QaXhiRFgzbThEVV9QNjZPMHp3S1pySlJxQ2JIcWFFWnotSk1JVzlpT3FNLUJvTU10cmVNRGF4MlZseGhsemhDYlU0WmhVU2t6dkh5SVB6M1p0bXV4c3IwbllLSzFhRTlLWjJpX0c4ZW91eTQ?oc=5",
-     "sector": {
-      "nombre": "río Claro",
-      "lat": -30.11092,
-      "lon": -70.49367
-     }
-    },
-    {
-     "titulo": "Illapel, Paihuano y Vicuña bajo alerta preventiva por posibles crecidas de ríos - Mi Radio",
-     "medio": "Mi Radio",
-     "fecha": "2026-11-09T12:57:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1R2bnh4eE81c3NLdGd6Nm9MX3dWZlZnZ1ZoSE1aYTFCWXZYV0VwWnRoNHFVcldMQjBpVkhrOTlDeGJVamMwUnE0enRZaTdGWmhiRmk1V04yRFdldEdYZmdNZG5BY1JnRW1qVFNVa2laOTR1bXVrZExpektCQjc0X1JZODU1Yi1RWDZPZUltdHZIX1JnbC1USGhRcGtQTnBwSUtHLTVOX0Z5U3M0X3NFQnEtWXh6QQ?oc=5",
      "sector": null
     }
    ]
