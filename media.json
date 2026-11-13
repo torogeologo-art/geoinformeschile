@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-13T00:30:07+00:00",
- "desde": "2026-11-11T00:30:01Z",
+ "generado": "2026-11-13T01:29:52+00:00",
+ "desde": "2026-11-11T01:29:50Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,113 +9,15 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "2UY5RX-fIiw",
-     "url": "https://www.youtube.com/watch?v=2UY5RX-fIiw",
-     "titulo": "TODO LISTO PARA LA GRAN FINAL DE LA COPA DE LA LIGA | TERAPIA CELESTE EN VIVO!",
-     "canal": "O'Higgins Total",
-     "publicado": "2026-11-12T22:15:51Z",
+     "id": "V9WNOY0IVpc",
+     "url": "https://www.youtube.com/watch?v=V9WNOY0IVpc",
+     "titulo": "🌙⚽️ NOCHE DE GOLAZO - El programa de Golazo Chileno ⚽️🇨🇱",
+     "canal": "Golazo Chileno",
+     "publicado": "2026-11-12T13:40:33Z",
      "live": true,
-     "score": 7.81,
+     "score": 4.01,
      "verificado": false,
      "embeddable": true
-    }
-   ]
-  },
-  "antofagasta": {
-   "comuna": "Antofagasta",
-   "region": "Antofagasta",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "jskQtd4wrKw",
-     "url": "https://www.youtube.com/watch?v=jskQtd4wrKw",
-     "titulo": "EN VIVO | +NOTICIAS CENTRAL | 12 DE NOVIEMBRE 2026 | ANTOFAGASTA TV",
-     "canal": "Antofagasta TV",
-     "publicado": "2026-11-12T21:20:26Z",
-     "live": true,
-     "score": 7.74,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "3lRn8_HK1ho",
-     "url": "https://www.youtube.com/watch?v=3lRn8_HK1ho",
-     "titulo": "🔷 ADN azul !| Vamosleon.cl | U de Chile 🤘🦁",
-     "canal": "Vamosleon.cl.",
-     "publicado": "2026-11-12T23:28:09Z",
-     "live": true,
-     "score": 4.91,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "YOdS9qUiX9M",
-     "url": "https://www.youtube.com/watch?v=YOdS9qUiX9M",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.8 Papúa Nueva Guinea y M4.9 China • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-12T16:05:13Z",
-     "live": true,
-     "score": 4.3,
-     "verificado": false,
-     "embeddable": false
-    }
-   ]
-  },
-  "vicuna": {
-   "comuna": "Vicuña",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "JKV-FTEEemQ",
-     "url": "https://www.youtube.com/watch?v=JKV-FTEEemQ",
-     "titulo": "CULTO GENERAL 🔵 10 DE NOVIEMBRE 2026 🔵 TEMPLO HOREB CHILLAN - EN VIVO",
-     "canal": "Horeb Televisión",
-     "publicado": "2026-11-12T23:09:44Z",
-     "live": true,
-     "score": 7.89,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "WokKI9mjk2k",
-     "url": "https://www.youtube.com/watch?v=WokKI9mjk2k",
-     "titulo": "Transmisión en vivo de Vicuña con Alameda",
-     "canal": "Vicuña con Alameda",
-     "publicado": "2026-11-11T11:52:07Z",
-     "live": true,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "tarapaca": {
-   "comuna": "Tarapacá",
-   "region": "Tarapacá",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "P9fMhq8SR9k",
-     "url": "https://www.youtube.com/watch?v=P9fMhq8SR9k",
-     "titulo": "🔴 EN VIVO | ⚽ MACACOS FC VS ATLETICO PEÑAROL - SENIOR +30 ► CLAUSURA 2026",
-     "canal": "Iquique League Oficial",
-     "publicado": "2026-11-12T18:47:10Z",
-     "live": true,
-     "score": 7.52,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "YOdS9qUiX9M",
-     "url": "https://www.youtube.com/watch?v=YOdS9qUiX9M",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.8 Papúa Nueva Guinea y M4.9 China • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-12T16:05:13Z",
-     "live": true,
-     "score": 4.3,
-     "verificado": false,
-     "embeddable": false
     }
    ]
   }

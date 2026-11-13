@@ -1,12 +1,12 @@
 {
- "generado": "2026-11-13T00:29:59+00:00",
+ "generado": "2026-11-13T01:29:49+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 19,
+ "total_vigentes": 20,
  "alertas": [
   {
    "id": "ea37b84466a9",
@@ -21,6 +21,20 @@
    "url": "https://t.me/SenapredChile/1691",
    "origen": "telegram",
    "sae": true
+  },
+  {
+   "id": "f2c0a998b1af",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Se declara Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección General de Aguas (DGA), la estación fluviométrica “Río Aconcagua en Chacabuquito” registró un caudal de 155,129 m³/s y un nivel de agua de 2,420 metros, mediciones que superaron el umbral amarillo referencial de la estación. A esta condición se suman los aumentos de caudal observados en los ríos Juncal, Juncalillo, Colorado y Blanco producto de la activación de quebradas en sectores cordilleranos. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso , la Dirección Regional d",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-12T22:13:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "860b9813dd93",
