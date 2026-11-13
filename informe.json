@@ -1,24 +1,24 @@
 {
- "generado": "2026-11-12T19:04:01+00:00",
+ "generado": "2026-11-13T00:30:08+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "02-11-2026",
-  "hasta": "12-11-2026"
+  "desde": "03-11-2026",
+  "hasta": "13-11-2026"
  },
  "totales": {
-  "alertas": 95,
+  "alertas": 89,
   "sae": 6,
   "comunas": 4,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 66,
-   "AMARILLA": 16,
+   "ATP": 61,
+   "AMARILLA": 15,
    "ROJA": 13
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    39
+    34
    ],
    [
     "crecida de río",
@@ -26,23 +26,23 @@
    ],
    [
     "viento",
-    14
+    13
    ],
    [
     "evento meteorológico",
-    7
+    8
    ],
    [
     "remoción en masa",
-    6
+    5
+   ],
+   [
+    "nevadas",
+    3
    ],
    [
     "desborde",
     3
-   ],
-   [
-    "otros",
-    2
    ],
    [
     "aluvión",
@@ -53,20 +53,11 @@
  "tipos_detalle": {
   "tormentas eléctricas": [
    {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "02-11",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
     "lugar": "Región de Biobío",
     "region": "Biobío",
     "nivel": "ATP",
     "sae": false,
-    "ts": "02-11",
+    "ts": "03-11",
     "comuna_link": "",
     "region_link": "biobio"
    },
@@ -75,7 +66,7 @@
     "region": "Ñuble",
     "nivel": "ATP",
     "sae": false,
-    "ts": "02-11",
+    "ts": "03-11",
     "comuna_link": "",
     "region_link": "nuble"
    },
@@ -84,7 +75,7 @@
     "region": "La Araucanía",
     "nivel": "ATP",
     "sae": false,
-    "ts": "02-11",
+    "ts": "03-11",
     "comuna_link": "",
     "region_link": "la araucania"
    },
@@ -93,7 +84,7 @@
     "region": "Valparaíso",
     "nivel": "ATP",
     "sae": false,
-    "ts": "02-11",
+    "ts": "03-11",
     "comuna_link": "",
     "region_link": "valparaiso"
    },
@@ -105,6 +96,15 @@
     "ts": "03-11",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "04-11",
+    "comuna_link": "",
+    "region_link": "los lagos"
    },
    {
     "lugar": "Región de Atacama",
@@ -228,15 +228,6 @@
   ],
   "viento": [
    {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "02-11",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
     "region": "Magallanes y de la Antártica Chilena",
     "nivel": "ATP",
@@ -271,6 +262,15 @@
     "ts": "04-11",
     "comuna_link": "",
     "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "05-11",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Valparaíso",
@@ -353,7 +353,7 @@
     "region": "Metropolitana de Santiago",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "02-11",
+    "ts": "09-11",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
    },
@@ -365,6 +365,17 @@
     "ts": "09-11",
     "comuna_link": "",
     "region_link": "libertador general bernardo o'higgins"
+   }
+  ],
+  "nevadas": [
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "06-11",
+    "comuna_link": "",
+    "region_link": "nuble"
    }
   ],
   "desborde": [
@@ -387,26 +398,6 @@
     "region_link": "coquimbo"
    }
   ],
-  "otros": [
-   {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "02-11",
-    "comuna_link": "",
-    "region_link": "arica y parinacota"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "03-11",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   }
-  ],
   "aluvión": [
    {
     "lugar": "Región de Los Lagos",
@@ -421,7 +412,7 @@
  },
  "vigentes": {
   "ROJA": 11,
-  "AMARILLA": 2,
+  "AMARILLA": 1,
   "ATP": 7,
   "regiones_roja": [
    "Antofagasta",
@@ -431,13 +422,6 @@
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-11-02",
-   "ROJA": 0,
-   "AMARILLA": 2,
-   "ATP": 6,
-   "sae": 0
-  },
   {
    "fecha": "2026-11-03",
    "ROJA": 0,
@@ -504,8 +488,8 @@
   {
    "fecha": "2026-11-12",
    "ROJA": 2,
-   "AMARILLA": 0,
-   "ATP": 2,
+   "AMARILLA": 1,
+   "ATP": 3,
    "sae": 2
   }
  ],
@@ -590,39 +574,6 @@
    ]
   },
   {
-   "lugar": "Región de Metropolitana de Santiago",
-   "region": "Metropolitana de Santiago",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "02-11 19:13",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "04-11 13:01",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "09-11 17:26",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "10-11 09:17",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "10-11 09:23",
-     "estado": "CANCELADA"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Magallanes y de la Antártica Chilena",
    "region": "Magallanes y de la Antártica Chilena",
    "sae": false,
@@ -656,6 +607,34 @@
    ]
   },
   {
+   "lugar": "Región de Metropolitana de Santiago",
+   "region": "Metropolitana de Santiago",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "04-11 13:01",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "09-11 17:26",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "10-11 09:17",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "10-11 09:23",
+     "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Valparaíso",
    "region": "Valparaíso",
    "sae": false,
@@ -663,7 +642,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "02-11 18:45",
+     "ts": "03-11 12:49",
      "estado": "VIGENTE"
     },
     {
@@ -703,6 +682,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "12-11 21:01",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Metropolitana de Santiago",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-metropolitana-por-calor-intenso-2026-11-11-14-50-00"
+  },
+  {
+   "ts": "12-11 20:01",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "nevadas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
+  },
   {
    "ts": "12-11 16:54",
    "nivel": "ROJA",
@@ -810,24 +807,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42"
-  },
-  {
-   "ts": "11-11 00:01",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-salamanca-por-crecida-2026-11-09-02-13-13"
-  },
-  {
-   "ts": "10-11 21:26",
-   "nivel": "ROJA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-rio-hurtado-por-desborde-2026-11-09-03-47-13"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

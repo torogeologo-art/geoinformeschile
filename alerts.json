@@ -1,26 +1,54 @@
 {
- "generado": "2026-11-12T20:42:18+00:00",
+ "generado": "2026-11-13T00:29:59+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 20,
+ "total_vigentes": 19,
  "alertas": [
   {
-   "id": "ce92f9cce2f0",
+   "id": "ea37b84466a9",
    "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "¡ATENCIÓN! Por desborde del Río Limarí se solicita EVACUAR sector Trapiche Bajo en la comuna de #Ovalle, Región de Coquimbo.",
-   "descripcion": "¡ATENCIÓN! Por desborde del Río Limarí se solicita EVACUAR sector Trapiche Bajo en la comuna de #Ovalle, Región de Coquimbo.  \n#SENAPRED activó mensajería SAE.   \nMantente informado a través de los canales oficiales y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
+   "tipo": "crecida de río",
+   "titulo": "🔴 #SENAPREDInforma",
+   "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por alerta de crecida EVITE acercarse a la ribera del Río Elqui en la comuna de #Paihuano, Región de Coquimbo.\n\nPara reforzar el alertamiento preventivo #SENAPRED activó mensajería #SAE.\n\nMantente informado a través de los canales oficiales y sigue las indicaciones de los equipos de respuesta en terreno.",
    "region": "Coquimbo",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-11-12T20:00:03+00:00",
-   "url": "https://t.me/SenapredChile/1689",
+   "ts": "2026-11-12T23:42:24+00:00",
+   "url": "https://t.me/SenapredChile/1691",
    "origen": "telegram",
    "sae": true
+  },
+  {
+   "id": "860b9813dd93",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Amarilla para la Región Metropolitana por calor intenso",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron ha sido cancelado el siguiente alertamiento para la Región Metropolitana: Alertamiento Pronóstico Alerta AA196-3 Evento de altas temperaturas extremas en cordillera de la costa, valle y precordillera de la región (32 – 36°C). En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED cancela la Alerta Amarilla regional por Calor Intenso, que se mantuvo vigen",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-12T21:01:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-metropolitana-por-calor-intenso-2026-11-11-14-50-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a30a25659d9c",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del complejo volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán se encuentra en Estado de Actividad Volcánica EAV 3 - Erupción Menor [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy jueves 12 de noviembre, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán registraron un pulso eruptivo acompañado de Flujo Piroclástico de alcance proximal, que se extendió hasta 500 metros d",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-12T20:01:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "45ba0f61c5bc",
@@ -127,20 +155,6 @@
    "regiones_extra": []
   },
   {
-   "id": "e48b0d8bb948",
-   "nivel": "AMARILLA",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Amarilla para la Región Metropolitana por calor intenso",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región Metropolitana. Alertamiento Pronóstico Inicio Fin Enlace Alerta AA196-3 Evento de altas temperaturas extremas en cordillera de la costa, valle y precordillera de la región (32 – 36°C). 11-11 12-11 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED declara Alerta Amarilla regional por Calor Intenso, vigente a contar de hoy y h",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-11T14:49:23.2323-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-metropolitana-por-calor-intenso-2026-11-11-14-50-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "a5384c021d45",
    "nivel": "ROJA",
    "tipo": "desborde",
@@ -197,20 +211,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "0b366c4b4ce7",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán se encuentra en Estado de Actividad Volcánica EAV 3 - Erupción Menor[1]. En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy martes 10 de noviembre, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán registraron actividad superficial. Resumen del evento observado: Fecha del evento 10 de noviembre de 2026. Hora local (H",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-10T20:17:52.5252-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "98692f76f295",
@@ -1608,7 +1608,7 @@
    "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región Metropolitana: Alertamiento Pronóstico Inicio Fin Enlace Aviso A544-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la región. 13-10 14-10 Abrir aquí Adicionalmente, en su Informe de Amenaza Meteorológica de hoy, indica que las precipitaciones (mm/cm) y viento (km/h) esperadas hoy en la región corresponden a: Sector Precipitaciones Viento Cordillera de la costa - -",
    "region": "Metropolitana de Santiago",
    "comunas": [],
-   "estado": "EXPIRADA",
+   "estado": "CANCELADA",
    "ts": "2026-10-14T11:59:10.1010-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22",
    "origen": "senapred_web",
@@ -1641,36 +1641,6 @@
    "url": "https://t.me/SenapredChile/1629",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "eeb66f9e4093",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para la comuna de Lo Barnechea por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante el Pronóstico Meteorológico Público y con los antecedentes entregados por la Dirección General de Aguas (DGA) de la Región Metropolitana, la estación hidrométrica mantiene condiciones de normalidad, registrando umbral de alerta técnica verde en la estación “ Río Molina antes junta San Francisco ” en la comuna de Lo Barnechea. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED cancela la Alerta Amarilla p",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-13T12:47:58.5858-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-lo-barnechea-por-crecida-2026-10-06-08-22-42",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "b89de6820466",
-   "nivel": "ATP",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por precipitaciones",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento para la región: Alertamiento Pronóstico Aviso A548 Precipitaciones normales a moderadas en corto periodo de tiempo en zonas de la Región de Magallanes. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por precipitaciones para las provincias de Magallan",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-13T12:17:57.5757-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-por-evento-meteorologico-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-evento-meteorologico-2026-10-11-14-59-33",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "087723804d74",
