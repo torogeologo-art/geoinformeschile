@@ -1,24 +1,24 @@
 {
- "generado": "2026-11-13T15:27:59+00:00",
+ "generado": "2026-11-13T21:33:20+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "03-11-2026",
   "hasta": "13-11-2026"
  },
  "totales": {
-  "alertas": 91,
+  "alertas": 88,
   "sae": 7,
   "comunas": 4,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 60,
+   "ATP": 56,
    "AMARILLA": 17,
-   "ROJA": 14
+   "ROJA": 15
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    33
+    30
    ],
    [
     "crecida de río",
@@ -30,7 +30,7 @@
    ],
    [
     "evento meteorológico",
-    9
+    10
    ],
    [
     "remoción en masa",
@@ -45,40 +45,13 @@
     3
    ],
    [
-    "aluvión",
+    "incendio forestal",
     2
    ]
   ]
  },
  "tipos_detalle": {
   "tormentas eléctricas": [
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "03-11",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "03-11",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "03-11",
-    "comuna_link": "",
-    "region_link": "maule"
-   },
    {
     "lugar": "Región de Biobío",
     "region": "Biobío",
@@ -87,6 +60,24 @@
     "ts": "04-11",
     "comuna_link": "",
     "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "04-11",
+    "comuna_link": "",
+    "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "04-11",
+    "comuna_link": "",
+    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Los Lagos",
@@ -132,6 +123,15 @@
     "ts": "07-11",
     "comuna_link": "",
     "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "08-11",
+    "comuna_link": "",
+    "region_link": "maule"
    },
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -228,15 +228,6 @@
   ],
   "viento": [
    {
-    "lugar": "Región de Magallanes y de la Antártica Chilena",
-    "region": "Magallanes y de la Antártica Chilena",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "03-11",
-    "comuna_link": "",
-    "region_link": "magallanes y de la antartica chilena"
-   },
-   {
     "lugar": "Región de Arica y Parinacota",
     "region": "Arica y Parinacota",
     "nivel": "ATP",
@@ -280,6 +271,24 @@
     "ts": "05-11",
     "comuna_link": "",
     "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "06-11",
+    "comuna_link": "",
+    "region_link": "magallanes y de la antartica chilena"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "13-11",
+    "comuna_link": "",
+    "region_link": "maule"
    }
   ],
   "evento meteorológico": [
@@ -291,6 +300,15 @@
     "ts": "09-11",
     "comuna_link": "",
     "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "13-11",
+    "comuna_link": "",
+    "region_link": "atacama"
    },
    {
     "lugar": "Región de Antofagasta",
@@ -318,15 +336,6 @@
     "ts": "08-11",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "09-11",
-    "comuna_link": "",
-    "region_link": "atacama"
    },
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -398,20 +407,20 @@
     "region_link": "coquimbo"
    }
   ],
-  "aluvión": [
+  "incendio forestal": [
    {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ATP",
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "AMARILLA",
     "sae": false,
-    "ts": "03-11",
+    "ts": "09-11",
     "comuna_link": "",
-    "region_link": "los lagos"
+    "region_link": "magallanes y de la antartica chilena"
    }
   ]
  },
  "vigentes": {
-  "ROJA": 12,
+  "ROJA": 10,
   "AMARILLA": 0,
   "ATP": 7,
   "regiones_roja": [
@@ -426,7 +435,7 @@
    "fecha": "2026-11-03",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 6,
+   "ATP": 1,
    "sae": 0
   },
   {
@@ -494,9 +503,9 @@
   },
   {
    "fecha": "2026-11-13",
-   "ROJA": 1,
+   "ROJA": 2,
    "AMARILLA": 1,
-   "ATP": 1,
+   "ATP": 2,
    "sae": 1
   }
  ],
@@ -588,7 +597,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "03-11 13:37",
+     "ts": "06-11 19:31",
      "estado": "VIGENTE"
     },
     {
@@ -621,8 +630,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "03-11 12:49",
-     "estado": "VIGENTE"
+     "ts": "04-11 11:33",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "AMARILLA",
@@ -694,6 +703,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "13-11 16:35",
+   "nivel": "ATP",
+   "lugar": "Región de Maule",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-11-13-16-36-34"
+  },
+  {
+   "ts": "13-11 15:02",
+   "nivel": "ROJA",
+   "lugar": "Región de Atacama",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen--por-calor-intenso-2026-11-09-18-41-37"
+  },
   {
    "ts": "13-11 10:30",
    "nivel": "AMARILLA",
@@ -801,24 +828,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1686"
-  },
-  {
-   "ts": "11-11 16:03",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Valparaíso",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-y-comunas-de-la-ligua-petorca-y-cabildo-por-calor-intenso-2026-11-11-18-01-59"
-  },
-  {
-   "ts": "11-11 14:49",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-metropolitana-por-calor-intenso-2026-11-11-14-50-00"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

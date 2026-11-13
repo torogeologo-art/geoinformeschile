@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-13T16:46:04+00:00",
- "desde": "2026-11-11T16:45:52Z",
+ "generado": "2026-11-13T21:33:20+00:00",
+ "desde": "2026-11-11T21:33:14Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,13 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "CWumxoWeBI8",
-     "url": "https://www.youtube.com/watch?v=CWumxoWeBI8",
-     "titulo": "🔥 ¡CHILE DEFINE SU ONCE ANTE COLOMBIA! ¿VIDAL DEJA COLO COLO? Y TODA LA ACTUALIDAD DE LOS 3 GRANDES",
-     "canal": "Radio La Clave",
-     "publicado": "2026-11-13T15:50:28Z",
-     "live": true,
-     "score": 4.92,
+     "id": "X4dtBB1DAw4",
+     "url": "https://www.youtube.com/watch?v=X4dtBB1DAw4",
+     "titulo": "Desborde del río Grande: Senapred solicita evacuación en la región de Coquimbo",
+     "canal": "Meganoticias",
+     "publicado": "2026-11-12T18:44:42Z",
+     "live": false,
+     "score": 3.77,
      "verificado": false,
      "embeddable": true
     }
@@ -27,15 +27,15 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "PDb6Whoh_Lc",
-     "url": "https://www.youtube.com/watch?v=PDb6Whoh_Lc",
-     "titulo": "¡ESCÁNDALO EN VÉRTIGO! ¿MAURICIO PINILLA PROVOCÓ LA AUSENCIA DE STEFAN KRAMER? | Tevex Oficial",
-     "canal": "Tevex Oficial",
-     "publicado": "2026-11-13T15:16:04Z",
+     "id": "KusGLX2o4NU",
+     "url": "https://www.youtube.com/watch?v=KusGLX2o4NU",
+     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M4.5 en Colombia (Chaparral y Rioblanco) • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-13T16:29:22Z",
      "live": true,
-     "score": 7.88,
+     "score": 4.58,
      "verificado": false,
-     "embeddable": true
+     "embeddable": false
     }
    ]
   },
@@ -51,7 +51,7 @@
      "canal": "camara_paihuano",
      "publicado": "2026-11-13T15:35:26Z",
      "live": true,
-     "score": 7.9,
+     "score": 7.5,
      "verificado": false,
      "embeddable": false
     }
@@ -63,15 +63,15 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "0TXs-UvRHgk",
-     "url": "https://www.youtube.com/watch?v=0TXs-UvRHgk",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.8 Papúa Nueva Guinea y M5.1 Grecia • Terremotos 24/7",
+     "id": "KusGLX2o4NU",
+     "url": "https://www.youtube.com/watch?v=KusGLX2o4NU",
+     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M4.5 en Colombia (Chaparral y Rioblanco) • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-13T08:00:31Z",
+     "publicado": "2026-11-13T16:29:22Z",
      "live": true,
-     "score": 4.27,
+     "score": 4.58,
      "verificado": false,
-     "embeddable": true
+     "embeddable": false
     }
    ]
   }
