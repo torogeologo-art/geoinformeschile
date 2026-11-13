@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-13T21:33:20+00:00",
- "desde": "2026-11-11T21:33:14Z",
+ "generado": "2026-11-13T22:25:57+00:00",
+ "desde": "2026-11-11T22:25:52Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -15,27 +15,9 @@
      "canal": "Meganoticias",
      "publicado": "2026-11-12T18:44:42Z",
      "live": false,
-     "score": 3.77,
+     "score": 3.69,
      "verificado": false,
      "embeddable": true
-    }
-   ]
-  },
-  "antofagasta": {
-   "comuna": "Antofagasta",
-   "region": "Antofagasta",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "KusGLX2o4NU",
-     "url": "https://www.youtube.com/watch?v=KusGLX2o4NU",
-     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M4.5 en Colombia (Chaparral y Rioblanco) • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-13T16:29:22Z",
-     "live": true,
-     "score": 4.58,
-     "verificado": false,
-     "embeddable": false
     }
    ]
   },
@@ -51,9 +33,27 @@
      "canal": "camara_paihuano",
      "publicado": "2026-11-13T15:35:26Z",
      "live": true,
-     "score": 7.5,
+     "score": 7.43,
      "verificado": false,
      "embeddable": false
+    }
+   ]
+  },
+  "vicuna": {
+   "comuna": "Vicuña",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "3vmjI5sa_iA",
+     "url": "https://www.youtube.com/watch?v=3vmjI5sa_iA",
+     "titulo": "Transmisión en vivo de Vicuña con Alameda",
+     "canal": "Vicuña con Alameda",
+     "publicado": "2026-11-13T22:09:25Z",
+     "live": true,
+     "score": 7.98,
+     "verificado": false,
+     "embeddable": true
     }
    ]
   },
@@ -69,7 +69,7 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-13T16:29:22Z",
      "live": true,
-     "score": 4.58,
+     "score": 4.5,
      "verificado": false,
      "embeddable": false
     }

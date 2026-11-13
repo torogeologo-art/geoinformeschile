@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T21:33:06+00:00",
+ "generado": "2026-11-13T22:25:51+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 17,
  "alertas": [
+  {
+   "id": "6edb7c1e1250",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Aviso A607-3 Probables Tormentas Eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la región. 10-11 14-11 Abrir aquí En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva por tormentas eléctricas para la provin",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-13T18:58:47.4747-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-2026-11-09-19-00-47",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "d0426cb4d45b",
    "nivel": "ATP",
@@ -455,20 +469,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-10T07:17:01.011-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-11-08-15-19-16",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "afbb20b7538b",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA195 Tormentas eléctricas asociadas con chubascos aislados en cordillera de la región. 09-11 09-11 Abrir aquí Aviso A607-2 Probables Tormentas Eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la región. 09-11 10-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Reg",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-09T18:46:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-2026-11-09-19-00-47",
    "origen": "senapred_web",
    "regiones_extra": []
   },
