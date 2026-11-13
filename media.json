@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-13T01:29:52+00:00",
- "desde": "2026-11-11T01:29:50Z",
+ "generado": "2026-11-13T07:12:05+00:00",
+ "desde": "2026-11-11T07:12:02Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,13 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "V9WNOY0IVpc",
-     "url": "https://www.youtube.com/watch?v=V9WNOY0IVpc",
-     "titulo": "🌙⚽️ NOCHE DE GOLAZO - El programa de Golazo Chileno ⚽️🇨🇱",
-     "canal": "Golazo Chileno",
-     "publicado": "2026-11-12T13:40:33Z",
-     "live": true,
-     "score": 4.01,
+     "id": "X4dtBB1DAw4",
+     "url": "https://www.youtube.com/watch?v=X4dtBB1DAw4",
+     "titulo": "Desborde del río Grande: Senapred solicita evacuación en la región de Coquimbo",
+     "canal": "Meganoticias",
+     "publicado": "2026-11-12T18:44:42Z",
+     "live": false,
+     "score": 4.96,
      "verificado": false,
      "embeddable": true
     }

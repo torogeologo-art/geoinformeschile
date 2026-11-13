@@ -1,13 +1,29 @@
 {
- "generado": "2026-11-13T01:29:49+00:00",
+ "generado": "2026-11-13T07:11:55+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 20,
+ "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "130f8b7d7164",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A607-3 Probables Tormentas Eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la región. 10-11 14-11 Abrir aquí Aviso A618 Precipitaciones normales a moderadas en cordillera 13-11 14-11 Abrir aquí En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, l",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-13T00:41:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
   {
    "id": "ea37b84466a9",
    "nivel": "ROJA",
@@ -23,16 +39,30 @@
    "sae": true
   },
   {
-   "id": "f2c0a998b1af",
+   "id": "2ebfa71fea27",
    "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Se cancela Alerta Amarilla para las Provincias de San Felipe y Los Andes y comunas de La Ligua, Petorca y Cabildo por calor intenso",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron ha sido cancelado el siguiente alertamiento meteorológico para la Región de Valparaíso: Alertamiento Pronóstico Alerta AA196-3 Evento de altas temperaturas extremas en precordillera y valles precordilleranos de la región (35 – 37°C). En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por Calor Intenso para las&nbsp;Provinci",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-12T23:21:50.5050-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-y-comunas-de-la-ligua-petorca-y-cabildo-por-calor-intenso-2026-11-11-18-01-59",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1715b1f22e50",
+   "nivel": "ATP",
    "tipo": "crecida de río",
-   "titulo": "Se declara Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida",
-   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección General de Aguas (DGA), la estación fluviométrica “Río Aconcagua en Chacabuquito” registró un caudal de 155,129 m³/s y un nivel de agua de 2,420 metros, mediciones que superaron el umbral amarillo referencial de la estación. A esta condición se suman los aumentos de caudal observados en los ríos Juncal, Juncalillo, Colorado y Blanco producto de la activación de quebradas en sectores cordilleranos. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso , la Dirección Regional d",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección General de Aguas (DGA), entre el 5 y 12 de noviembre de 2026 se han registrado incrementos significativos de caudal en distintas estaciones de la cuenca del río Aconcagua. Destacando de entre ellas la estación “ Aconcagua en Chacabuquito ”, cuyo caudal aumentó a 177,850 m³/s a las 20:54 horas del 12 de noviembre. Del mismo modo, la DGA, señala que las estaciones río Aconcagua en Río Blanco, rio Putaendo en Resguardo Los Patos y Río Aconcagua en Puente Colmo, se encuentran en umbral azul. Complementariamente, las observaciones en t",
    "region": "Valparaíso",
    "comunas": [],
    "estado": "VIGENTE",
-   "ts": "2026-11-12T22:13:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04",
+   "ts": "2026-11-12T22:29:44.4444-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -79,20 +109,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "b7d317549a76",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida",
-   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección General de Aguas (DGA) , entre las 21:00 horas del 11 de noviembre y las 02:00 horas del 12 de noviembre, se registraron variaciones de caudal en distintas estaciones de monitoreo de la cuenca del Río Aconcagua. Destacando la superación transitoria del umbral amarillo en la estación “ Río Aconcagua en Chacabuquito” , la que registro un incremento de caudal desde 140,59 m³/s a las 21:00 horas del 11 de noviembre hasta 155,13 m³/s a las 00:00 horas del 12 de noviembre, superando el umbral amarillo establecido en 150,7 m³/s, posterio",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-12T03:52:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "d511ff14ea8f",
@@ -151,20 +167,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-11T18:15:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-ovalle-por-incendio-forestal-2026-11-11-17-47-45",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "9043ac6be025",
-   "nivel": "AMARILLA",
-   "tipo": "evento meteorológico",
-   "titulo": "Se declara Alerta Amarilla para las Provincias de San Felipe y Los Andes y comunas de La Ligua, Petorca y Cabildo por calor intenso",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Valparaíso: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA196-3 Evento de altas temperaturas extremas en precordillera y valles precordilleranos de la región (35 – 37°C). 11-11 12-11 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED declara Alerta Amarilla por Calor Intenso para las Provincias de San Felipe y Los And",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-11T16:03:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-y-comunas-de-la-ligua-petorca-y-cabildo-por-calor-intenso-2026-11-11-18-01-59",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -253,22 +255,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen--por-calor-intenso-2026-11-09-18-41-37",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "b6f527d6710c",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A607-3 Probables Tormentas Eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la región. 10-11 14-11 Abrir aquí En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED Mantiene la Alerta Temprana Preventiva por evento meteoro",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-10T16:04:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
   },
   {
    "id": "56bac00f85b8",

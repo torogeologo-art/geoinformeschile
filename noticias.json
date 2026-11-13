@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T00:30:00+00:00",
+ "generado": "2026-11-13T07:12:01+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -716,6 +716,41 @@
    "comuna": "Ovalle",
    "noticias": [
     {
+     "titulo": "Desborde de ríos en Coquimbo obliga a evacuar sectores de Ovalle y mantiene alertas por crecidas - Publimicro",
+     "medio": "Publimicro",
+     "fecha": "2026-11-13T01:31:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTzJvb2tUMGQxMTQtRVBHcGFpQVBzaVNacDluQjRVaVg0WDFTN2NjSHRnb29PRDU0U0MyS2pYSnkwckg3RVJzS0E4VFFPdE9OS2luTHVucV9SNVpxZ1ZNbTRhbmRKRVVfbktySHJCcngwUGZJVmVOMFhtQlp5TzVGX296bUFEaUtONHZpX0lzX3BuV3JxUzBYNHgtUmpzQ0N6LWZwNk95YWFPN1M2VVp1QThMU1hJZk1kN0xR?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Casas anegadas por desbordes de ríos y aumento de caudales mantienen en alerta al Limarí - El Día",
+     "medio": "El Día",
+     "fecha": "2026-11-12T23:11:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMzBYeGROSGlmeXZlUmhIZGRsaXlzRDQxeUVpbFNhdkFfQWdGMF8tRmw3Q1FmVi1GYk40NDdXd2JxbzBLdzhLdzVlY0Nsb3dBcnk2TU5CMmdzc0dWRHNLa0hSZ1RLTkxmMzZXcUxvYklrMTBaWVpOb0lvZTJVM2U0TV9YVzBrMzJVUG5GZ3dFcFozMkNkNnI0YXZtTWVBdW9LenAxRkxhQm5qZlBGNUhZbUxKa3pCVzh2Z1F5YjJ1M1FZY1ota0hxNWtOQnVKeTlfVHpiQ0xieklfUQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Nueva alerta SAE en Ovalle: solicitan evacuar sector El Trapiche Bajo por desborde del río Limarí - Mi Radio",
+     "medio": "Mi Radio",
+     "fecha": "2026-11-12T20:46:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFBfMVF1cll4TUhQOGo2WVAtNWhGbzhpOE0xSVpZN1V3Qk53WGM5S1hHRENaTzlUZGpJLUFQa3VNcGtQcVdGNF8zbEZHOGV5OTVZUUVuVWRZd2czZTBlWklkZHBnWTJYLXVjTjNwUHZJajljOTBGU3E0RjFDOERvbTI3aUNodWRabHc?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred solicita evacuar sector Trapiche Bajo por desborde del río Limarí - Atacama Noticias",
+     "medio": "Atacama Noticias",
+     "fecha": "2026-11-12T20:15:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVVB3aWdvcVhPZXRuLWlndDJfUXBEcXdFZUY4RW1jV2d1Qm1XU0NvVUFLTnRVaFZ2REpUX3FLeFZEaTZVMnExa05UUEtKaVRQNV9zMEFMS0dHc25LQW41RjlaM1hNV1Jxb1hnZUFRNWpzajFaejB6WHMtdE8wNVdYVDVCNnF0em1ROGNmWHMtQmJiZUwxV3dPSW9OUlltQUNKR1JGNVFtSjdkRHhtUU0yZ2NROXBJY0dG?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta SAE: Evacuar sector Trapiche Bajo en Ovalle por desborde del Río Limarí - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-11-12T20:03:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb1lCWjVHSGlWRmNXeUs1clVWaWtfWkZGb0RwLTd5YTlxZlpidFBEMG0wd2xDQWVOWE05TW5sOWM4eFlYekRoZ09OOE5lUTRZUER4ZWFXQ0pGd011aERhaHRQQy1RVDhBMUV4QmJKZU9hM0dXc09KcURfOXRtbGpHNFF3UWgxeldsZkM3ZHZHUVhVU3hZck91c2wyRC02QnU3enVNQ1haZWpXamZKcGlCY05mbUpqaUV4dEgwMWp4STBJSjdNTDZxc0JkR3BQUFZoX0ltVnVFN0QwSEJBN2NGSE5KYW8?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred solicita la evacuación de sector La Ensenada en Ovalle por riesgo de desborde de río Grande - La Tercera",
      "medio": "La Tercera",
      "fecha": "2026-11-12T18:52:44+00:00",
@@ -748,41 +783,6 @@
      "medio": "VLN Radio",
      "fecha": "2026-11-12T16:58:41+00:00",
      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ0ViTnR2N2pBeGFJZl8xakRsU2RWeHFvcUkxUXFDdmNsTi11TTB2Qkx2dE9EN3NsaDJTVHppWF90aGpReW9TRGY0bEp1QjJRWjNSM3J4Q3dNcjRqYjZUdWpReFZUTTNyM3kyWjM4V3RNRmJkTmR5RmdFV1Q1V25LbFBRYzZmNFU0UEZjOXNGUTRhb0pGQ2NSOUJ0LWw0X045VmJWQXEzd2YyV2F3WHZ6d0pPZnlUYW5NNVRuSlhoU3V5NDFVMVZ5MXlmWG4tTzNlNTVlT1FQUldtLWwzUVdqLWFfdW9tN1lybjBDOUE1WWVwdlZqeWdv?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred activó alerta SAE preventiva por crecida del río Grande en Ovalle - Cooperativa",
-     "medio": "Cooperativa",
-     "fecha": "2026-11-12T03:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMi03SEdybS1qQmVGWExXMEl1VThMZTJ3bWRLeHJVVm96VWw2eVhiSzRyYUs3MUhEVTZBRUhvTG5kQWhua25FTmZKLW1WMjhhMkk2eTI2VW5wQWI0VjJmVlF5aHpUSDRENFJoeU9KQzB6RkhlVHRLX2FRd2RlMDJVR3lQQTlnUHhWcy1MZmFQalJCcms4ZmVqYXJYam1PT2xYSmRManVPc1V0RExhTW1KdkprUklCcGtmcUY1QWhnLWJucWZ0bklhWm9NcjFqTTlRMVhyV0twcUhLUUlZekl2NU80ODNfY2dqYnJWVmpTMkNJeUxaU3lZ0gGMAUFVX3lxTE9QZVNFclpQeXNMN25LaU0yWHBYZ04tMGxfU1FKOG1ZZHZRRWVGTG1iUkpzV3FNMW9WdDJKQnNuei10MGFkcUZiazVzVHdBMHh2YkZ4bFJnMVVmLWpKTWhIY1JlNkhwMTNlbE5lYjFRZW03VF9DVFhKSW1UWDBsWWlGUTRoWHNjRzlydnZT?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alerta SAE: Piden evitar ribera del Río Grande en Ovalle por crecida - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-11-12T03:24:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSUZ6V1luVjRfSzFaY3lKX3VMZFpFWTE0QTd2UUZRYVgyZzdEcDhybHptWkFQZnRPRVRfbUdVcEVGbU50YnFpTS1lSEtlWEFwOEtNWVliM1RxUk5UNWtldTNtUF9fLUh0NldFb2YyNFMwaGFsRmxZZWt6RGpuLUNVeUlmWThXQUNxMkx1RnJQQ0JtWm5jNXdRQlBzbkVIa2p5UndfeHNTcjFIbVE4VEdQQ09Dd043M2lEdHB1cWgzZ3BzcEZESTl5bkRJN1Fqai02ZDNTU1ZTVQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred activa Alerta SAE en Ovalle: Piden evitar riberas de ríos Limarí y Grande por crecida - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-11-11T19:47:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOamMzWktrV25oVVNNXzJ2SERyam5aX1UyVzlhU1NrM1dRR19zdFNZVG80ekd6bXBzbEx3N2JXek1NZkt4QnZmZEphQ3BOQW50RUl2NDZkYmdQMWxJREhvNjBiMTRobGhpbHJwTXMwQjZfMXR4TWlXUDNvcEJmZkRJRklDTEZKWE1HSWVPZGlMczg3X3lubW9QSEcxTzBGMlVvOEdLa1p4MnVIUGtEZkZfNTNfZjE5d25tVDZiZ1JlbjhsUGZuc0lEVGdmb054SS1QczdndUZpdW1TUUhqUTlTZ2cxZ1Y0NWNnNktCNExHNFRsRFRYVEJjV1hn?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "7 comunas en total: Paihuano, Vicuña, Ovalle e Illapel pasan a Alerta Roja por crecidas de ríos - Mi Radio",
-     "medio": "Mi Radio",
-     "fecha": "2026-11-11T16:13:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaFRaQU55d3hSb3NocjZpVzlSUG1LV2Q4azY0MkZtdjNRaGJmMjMzNUNTM2Y4eld0YjdIT2dRX3AzRFJEcXgwMjVGV1FhN2NvcmN3Wk9RaGVMV3FRTVhWU1EzcWpsdjRvbmVMYUZTcFNpWFF3RHYzVF9zT2w3bzdoT3hVMmlyNWlmVGNWX012eWVId1AwVE5IYWVHY2Y3emZmaWVhbklScXlPbHlnbFh2bE9LRjBpY3dkS0xCd054SXllX3BwTGlQZw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "“Es contradictorio”: Alcalde de Ovalle solicita pasar de alerta amarilla a roja tras aumento de caudales - Mi Radio",
-     "medio": "Mi Radio",
-     "fecha": "2026-11-11T00:11:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWkxZSEFJNUo4bElvZ2ZoTWlLTGpJaklSNkd6R2p0RWtIRnI2bEZkdktaNXAzaEt6eUhBNzNLM2ZWdHlXUktiSl9hcUZyMjFNT0lKelIxaWZUNEJyRm84NkpwQmpjei1PdVowTk9NX2tiMjgxNDg5TlNJbjRZOGZ1ZFAzczFDbUtucXhqNnlqa2NWQTRGX0E?oc=5",
      "sector": null
     }
    ]
@@ -1091,6 +1091,13 @@
    "comuna": "Alto del Carmen",
    "noticias": [
     {
+     "titulo": "SUSPENDEN POR TREINTA DÍAS RCA QUE APROBÓ PROYECTO PROSPECCIÓN MINERA EL ALTO - Revista Minera Crisol",
+     "medio": "Revista Minera Crisol",
+     "fecha": "2026-11-12T22:28:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0o4eHcybWNMT25Va2l1VWZOdWZ4a0E5M203dXlYdXdYVlJPbXdjR0ljZHZ0MkVRT3RnRFBZWW5QSlYySmd2b2JyaERPX2lGSTQ5Q2dWZTNIRG9XeFFZSkFHR3M0QlZrQklGQVUxR0I2ZTlGWXhWM1gzY3VBOXBvZzFPSkU3RlV6QjZWTElZcGtLY1JzanJuMzVGVDMxTERqZ3pJdVdR?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Gobierno despliega recorrido por sectores afectados por aumento de caudales en Alto del Carmen - Atacama Noticias",
      "medio": "Atacama Noticias",
      "fecha": "2026-11-12T18:20:42+00:00",
@@ -1151,13 +1158,6 @@
      "medio": "Diario Chañarcillo",
      "fecha": "2026-11-09T15:03:23+00:00",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0lNWDZDaEMwTWw4OVliMmNZbHV4MnNKazhJeVZOb3F6bkM2RWJRbkVvNHhrNlBWWEtiMTNjejIwR2lhNDN1WlRCbVhXb25SczY2UHV2Qm91S1dqQmY5TlFsZ04tNnA1SjRmcGRZLWNRRDhjNzViT3RsTllnRjV4WEkwU211V3NnMm9rN2pDYzFXUWk5Z1YzblpVVU8yWEFZTWtfb0thb2FHX1hBcWtZVk4zZW94RzA?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Listas licitaciones del Plan Chile Despega para Alto del Carmen y Chañaral: $7.247 millones con proyección de 437 empleos - Madero CL",
-     "medio": "Madero CL",
-     "fecha": "2026-11-06T19:06:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcUVIV2t0NHRFa1R6T3ZTSmgzY1J1ZjRhdEJSb2JkNk1nMDl1M2poZjAyU2VVYVVNMUl3Vlp3OUgtOTliSmVYRTNrbGlFV0pXQXdEdGthODR2cWwwdHZqU1hYZk94TXg3WTNra3p2UHh1V1Vlc2VwT3Q4VmVWSm0ySTBtNXVxZTF2dmlhZVZtd2g3dlhVb0VOMkk5SFlaaWtNX3l3VC0wMTFHMGZHaW1hMHdvQy1BRFl0aVBISk95bTVPRmF6VGt3ZWNmVEQxbDlzalNLcg?oc=5",
      "sector": null
     }
    ]
@@ -1241,6 +1241,13 @@
    "comuna": "Vicuña",
    "noticias": [
     {
+     "titulo": "“No se puede dormir en las noches”: Preocupación en Chapilca por aumento del caudal del río Turbio - Mi Radio",
+     "medio": "Mi Radio",
+     "fecha": "2026-11-12T21:07:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWWZiRm1PclM4M3RkSS16XzZ3NTNxaWlOcHp1SjZwdVlxbTVUVmxYQ0pyZTNpTVAyTnJDemxodTZ0cTkwYnM1RnhsNk5aYm9JamM5Tks4UTZGUC1TUFRiOWtkOFdEUGZSc1lpeHlEOFdXWU9RVnM2QUx6Zk5tbEQ2aTgwSUh5djlmbHJEcjN5TGZoSnBiNGNkdWtFcW1JZUJHakI4ZHVUTFEyTlZFYTc4VFFmZXpGTmxhVmlQcUltbzUwdVh0WnR3ZEE3QS0?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Municipalidad de Vicuña despliega maquinaria para enfrentar crecida de ríos por deshielo - La Serena Online",
      "medio": "La Serena Online",
      "fecha": "2026-11-12T15:15:00+00:00",
@@ -1305,13 +1312,6 @@
      "medio": "Mi Radio",
      "fecha": "2026-11-09T12:57:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1R2bnh4eE81c3NLdGd6Nm9MX3dWZlZnZ1ZoSE1aYTFCWXZYV0VwWnRoNHFVcldMQjBpVkhrOTlDeGJVamMwUnE0enRZaTdGWmhiRmk1V04yRFdldEdYZmdNZG5BY1JnRW1qVFNVa2laOTR1bXVrZExpektCQjc0X1JZODU1Yi1RWDZPZUltdHZIX1JnbC1USGhRcGtQTnBwSUtHLTVOX0Z5U3M0X3NFQnEtWXh6QQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Junta de Vigilancia del río Elqui fortalece atención a regantes desde sus oficinas en el Embalse Puclaro - Elquiglobal",
-     "medio": "Elquiglobal",
-     "fecha": "2026-10-15T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVDNqOWpESVc0a2NxcDVJSk9YUXVPTUNIT1dkdU1qUUEyLURScGxlRC1DeHprUzBHU0tRUzJqNlFaTHRfdVNVME10MjY3OEVNQU90Zm1jak93ZTRaUTJiRVNGX1BDY3BTdmlKa2NjdGFUVzZkZDR6V01QbWdZUWo3aC1JUDBLTGI4QWthbUVzTW8yaWIxUnNvNW54ZWIxNFdEcGlQZUJ6Z3NueXpRa3V3aUZfWnF4N1NaQThpczVvUnZLQmZEM1IxRkV3Y3pfZjd1ZnZNdTh0VC14Qnc?oc=5",
      "sector": null
     }
    ]
