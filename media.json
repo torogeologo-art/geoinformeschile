@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-13T07:12:05+00:00",
- "desde": "2026-11-11T07:12:02Z",
+ "generado": "2026-11-13T08:42:33+00:00",
+ "desde": "2026-11-11T08:42:27Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -15,7 +15,43 @@
      "canal": "Meganoticias",
      "publicado": "2026-11-12T18:44:42Z",
      "live": false,
-     "score": 4.96,
+     "score": 4.84,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "0TXs-UvRHgk",
+     "url": "https://www.youtube.com/watch?v=0TXs-UvRHgk",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.8 Papúa Nueva Guinea y M5.1 Grecia • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-13T08:00:31Z",
+     "live": true,
+     "score": 4.94,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "tarapaca": {
+   "comuna": "Tarapacá",
+   "region": "Tarapacá",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "0TXs-UvRHgk",
+     "url": "https://www.youtube.com/watch?v=0TXs-UvRHgk",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.8 Papúa Nueva Guinea y M5.1 Grecia • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-13T08:00:31Z",
+     "live": true,
+     "score": 4.94,
      "verificado": false,
      "embeddable": true
     }
