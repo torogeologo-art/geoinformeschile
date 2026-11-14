@@ -1,40 +1,40 @@
 {
- "generado": "2026-11-14T15:42:11+00:00",
+ "generado": "2026-11-14T20:08:20+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "04-11-2026",
   "hasta": "14-11-2026"
  },
  "totales": {
-  "alertas": 91,
+  "alertas": 94,
   "sae": 8,
   "comunas": 4,
-  "regiones": 14,
+  "regiones": 15,
   "por_nivel": {
-   "ATP": 56,
+   "ATP": 58,
    "AMARILLA": 18,
-   "ROJA": 17
+   "ROJA": 18
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    30
+    34
    ],
    [
     "crecida de río",
     21
    ],
    [
-    "viento",
+    "evento meteorológico",
     12
    ],
    [
-    "evento meteorológico",
+    "viento",
     11
    ],
    [
     "remoción en masa",
-    5
+    4
    ],
    [
     "nevadas",
@@ -168,6 +168,15 @@
     "ts": "11-11",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "14-11",
+    "comuna_link": "",
+    "region_link": "biobio"
    }
   ],
   "crecida de río": [
@@ -215,62 +224,6 @@
     "ts": "12-11",
     "comuna_link": "",
     "region_link": "valparaiso"
-   }
-  ],
-  "viento": [
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "04-11",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "04-11",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "05-11",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "05-11",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
-    "lugar": "Región de Magallanes y de la Antártica Chilena",
-    "region": "Magallanes y de la Antártica Chilena",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "06-11",
-    "comuna_link": "",
-    "region_link": "magallanes y de la antartica chilena"
-   },
-   {
-    "lugar": "Región de Maule",
-    "region": "Maule",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "13-11",
-    "comuna_link": "",
-    "region_link": "maule"
    }
   ],
   "evento meteorológico": [
@@ -336,6 +289,62 @@
     "ts": "11-11",
     "comuna_link": "",
     "region_link": "valparaiso"
+   }
+  ],
+  "viento": [
+   {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "04-11",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "05-11",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "05-11",
+    "comuna_link": "",
+    "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Magallanes y de la Antártica Chilena",
+    "region": "Magallanes y de la Antártica Chilena",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "06-11",
+    "comuna_link": "",
+    "region_link": "magallanes y de la antartica chilena"
+   },
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "08-11",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Maule",
+    "region": "Maule",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "13-11",
+    "comuna_link": "",
+    "region_link": "maule"
    }
   ],
   "remoción en masa": [
@@ -404,7 +413,7 @@
  "vigentes": {
   "ROJA": 11,
   "AMARILLA": 1,
-  "ATP": 7,
+  "ATP": 11,
   "regiones_roja": [
    "Antofagasta",
    "Atacama",
@@ -417,7 +426,7 @@
    "fecha": "2026-11-04",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 6,
+   "ATP": 4,
    "sae": 0
   },
   {
@@ -485,9 +494,9 @@
   },
   {
    "fecha": "2026-11-14",
-   "ROJA": 2,
+   "ROJA": 3,
    "AMARILLA": 1,
-   "ATP": 2,
+   "ATP": 6,
    "sae": 1
   }
  ],
@@ -549,6 +558,29 @@
     {
      "nivel": "ROJA",
      "ts": "10-11 18:41",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Tarapacá",
+   "region": "Tarapacá",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ROJA",
+     "ts": "09-11 18:25",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "09-11 18:46",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "14-11 16:41",
      "estado": "VIGENTE"
     }
    ]
@@ -645,8 +677,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "04-11 13:01",
-     "estado": "CANCELADA"
+     "ts": "08-11 19:59",
+     "estado": "VIGENTE"
     },
     {
      "nivel": "AMARILLA",
@@ -673,8 +705,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "04-11 15:45",
-     "estado": "VIGENTE"
+     "ts": "08-11 11:37",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "AMARILLA",
@@ -690,6 +722,51 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "14-11 16:41",
+   "nivel": "ROJA",
+   "lugar": "Región de Tarapacá",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-provincia-del-tamarugal-por-calor-extremo-2026-11-09-18-34-03"
+  },
+  {
+   "ts": "14-11 15:38",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-11-14-14-06-56"
+  },
+  {
+   "ts": "14-11 15:35",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-14-15-36-40"
+  },
+  {
+   "ts": "14-11 14:21",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-11-14-14-22-49"
+  },
+  {
+   "ts": "14-11 14:15",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-14-14-16-28"
+  },
   {
    "ts": "14-11 14:37",
    "nivel": "ROJA",
@@ -770,51 +847,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen--por-calor-intenso-2026-11-09-18-41-37"
-  },
-  {
-   "ts": "13-11 10:30",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-combarbala-illapel-la-higuera-monte-patria-paihuano-rio-hurtado-salamanca-y-vicuna-por-calor-intenso-2026-11-11-09-20-58"
-  },
-  {
-   "ts": "13-11 12:15",
-   "nivel": "ROJA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "crecida de río",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1692"
-  },
-  {
-   "ts": "13-11 00:41",
-   "nivel": "ATP",
-   "lugar": "Región de Arica y Parinacota",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22"
-  },
-  {
-   "ts": "12-11 22:13",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Valparaíso",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04"
-  },
-  {
-   "ts": "12-11 21:01",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-metropolitana-por-calor-intenso-2026-11-11-14-50-00"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
