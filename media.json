@@ -1,24 +1,31 @@
 {
- "generado": "2026-11-14T20:38:57+00:00",
- "desde": "2026-11-12T20:38:53Z",
+ "generado": "2026-11-14T23:57:50+00:00",
+ "desde": "2026-11-12T23:57:45Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "tarapaca": {
-   "comuna": "Tarapacá",
-   "region": "Tarapacá",
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "F921i-69U2U",
-     "url": "https://www.youtube.com/watch?v=F921i-69U2U",
-     "titulo": "🔴 EN VIVO | ⚽SANTA PUEJ FC VS SAN LORENZO FC - TODO COMPETIDOR ► CLAUSURA 2026",
-     "canal": "Iquique League Oficial",
-     "publicado": "2026-11-14T04:53:14Z",
-     "live": true,
-     "score": 6.69,
+     "id": "vh-NYRIGsUE",
+     "url": "https://www.youtube.com/watch?v=vh-NYRIGsUE",
+     "titulo": "📺 #Ultimominuto | Senapred activa alerta SAE por crecida del Río del Carmen en Atacama",
+     "canal": "Agricultura TV",
+     "publicado": "2026-11-14T16:11:34Z",
+     "live": false,
+     "score": 5.35,
      "verificado": false,
      "embeddable": true
-    },
+    }
+   ]
+  },
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
     {
      "id": "YScNEYKvWSI",
      "url": "https://www.youtube.com/watch?v=YScNEYKvWSI",
@@ -26,7 +33,25 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-14T09:03:18Z",
      "live": true,
-     "score": 4.03,
+     "score": 3.76,
+     "verificado": false,
+     "embeddable": false
+    }
+   ]
+  },
+  "tarapaca": {
+   "comuna": "Tarapacá",
+   "region": "Tarapacá",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "YScNEYKvWSI",
+     "url": "https://www.youtube.com/watch?v=YScNEYKvWSI",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M4.7 Argentina y M5.2 Micronesia • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-14T09:03:18Z",
+     "live": true,
+     "score": 3.76,
      "verificado": false,
      "embeddable": false
     }
@@ -38,35 +63,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "oOw2tOXSAYM",
-     "url": "https://www.youtube.com/watch?v=oOw2tOXSAYM",
-     "titulo": "🔴 EN VIVO 🔴 FINAL COPA DE LA LIGA🔴 |  O&#39;HIGGINS VS COQUIMBO |",
-     "canal": "Cancha Libre",
-     "publicado": "2026-11-14T19:40:54Z",
-     "live": true,
-     "score": 7.92,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "QTZ7DiT96yQ",
-     "url": "https://www.youtube.com/watch?v=QTZ7DiT96yQ",
-     "titulo": "FINAL COPA DE LA LIGA COQUIMBO UNIDO VS O&#39;HIGGINS SoloDeportes EN VIVO",
-     "canal": "SoloDeportes FM",
-     "publicado": "2026-11-14T19:41:12Z",
-     "live": true,
-     "score": 7.92,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "UZHU0TFa1KI",
-     "url": "https://www.youtube.com/watch?v=UZHU0TFa1KI",
-     "titulo": "Coquimbo Unido vs O&#39;Higgins - Final Copa de la Liga 14 Noviembre | Radio Riquelme EN VIVO",
-     "canal": "Radio Riquelme",
-     "publicado": "2026-11-14T19:30:05Z",
-     "live": true,
-     "score": 7.9,
+     "id": "pNr0FW2sRSc",
+     "url": "https://www.youtube.com/watch?v=pNr0FW2sRSc",
+     "titulo": "“Esto es histórico”: Alerta por crecida de ríos y riesgo para viviendas en la región de Coquimbo",
+     "canal": "MegaTiempo",
+     "publicado": "2026-11-14T15:38:50Z",
+     "live": false,
+     "score": 5.31,
      "verificado": false,
      "embeddable": true
     }
@@ -78,24 +81,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "D8GygtPM8dk",
-     "url": "https://www.youtube.com/watch?v=D8GygtPM8dk",
-     "titulo": "Transmisión en vivo de Vicuña con Alameda",
-     "canal": "Vicuña con Alameda",
-     "publicado": "2026-11-14T11:45:39Z",
-     "live": true,
-     "score": 7.26,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "EcMeAPVeRv0",
      "url": "https://www.youtube.com/watch?v=EcMeAPVeRv0",
      "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 16 (Liga Canta Claro)",
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T03:02:54Z",
      "live": false,
-     "score": 6.53,
+     "score": 6.26,
      "verificado": false,
      "embeddable": true
     },
@@ -106,7 +98,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T03:02:07Z",
      "live": false,
-     "score": 6.53,
+     "score": 6.26,
      "verificado": false,
      "embeddable": true
     },
@@ -117,7 +109,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T03:01:40Z",
      "live": false,
-     "score": 6.53,
+     "score": 6.26,
      "verificado": false,
      "embeddable": true
     },
@@ -128,7 +120,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T03:00:52Z",
      "live": false,
-     "score": 6.53,
+     "score": 6.25,
      "verificado": false,
      "embeddable": true
     },
@@ -139,7 +131,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T02:59:37Z",
      "live": false,
-     "score": 6.53,
+     "score": 6.25,
      "verificado": false,
      "embeddable": true
     }
