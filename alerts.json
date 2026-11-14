@@ -1,13 +1,57 @@
 {
- "generado": "2026-11-14T09:27:34+00:00",
+ "generado": "2026-11-14T15:41:58+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 18,
+ "total_vigentes": 19,
  "alertas": [
+  {
+   "id": "f6cdd3a5d1ad",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "¡ATENCIÓN! Por alerta de crecida EVITE acercarse a la ribera del Río del Carmen en la comuna de #AltodelCarmen, Región de Atacama.",
+   "descripcion": "¡ATENCIÓN! Por alerta de crecida EVITE acercarse a la ribera del Río del Carmen en la comuna de #AltodelCarmen, Región de Atacama.\nPara reforzar el alertamiento preventivo #SENAPRED activó mensajería #SAE.\nMantente informado a través de los canales oficiales y sigue las indicaciones de los equipos de respuesta en terreno.",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-14T14:37:05+00:00",
+   "url": "https://t.me/SenapredChile/1694",
+   "origen": "telegram",
+   "sae": true
+  },
+  {
+   "id": "d517f66654bf",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo, se registran las siguientes situaciones producto de las activaciones de quebradas y crecidas de cauces en la región: COMUNA AFECTACIÓN A PERSONAS - DAÑO A VIVIENDAS Y/O ESTRUCTURAS Vicuña Se encuentran activas las quebradas Calvario y Uchumi. 25 viviendas con daño menor en los sectores de Chapilca y Rivadavia. Inundaciones en los sectores de Chapilca y Siucho. Puentes cerrados por precaución en los sectores de Totoralillo y Varilla. Salamanca Inundaciones en los sectores de La Maroma, Chillepín y Bypas",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-14T11:17:13.1313-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "7b90b2f94361",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado el siguiente alertamiento meteorológico para la Región de Arica y Parinacota, debido al debilitamiento de las condiciones que lo originaron: Alertamiento Pronóstico Aviso A618 Precipitaciones normales a moderadas en cordillera. Adicionalmente, la DMC mantiene vigente el siguiente alertamiento meteorológico para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A607-3 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera.",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-14T09:14:29.2929-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
   {
    "id": "822c82ef01d2",
    "nivel": "ATP",
@@ -50,22 +94,6 @@
    "origen": "senapred_web",
    "regiones_extra": [
     "de la Antártica Chilena"
-   ]
-  },
-  {
-   "id": "130f8b7d7164",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado el siguiente alertamiento meteorológico para la Región de Arica y Parinacota, debido al debilitamiento de las condiciones que lo originaron: Alertamiento Pronóstico Enlace Alerta AA198 Tormentas eléctricas en cordillera. Abrir aquí Adicionalmente, la DMC mantiene vigente los siguientes alertamientos meteorológicos para la región: Alertamiento Pronóstico Inicio Fin Enlace Aviso A607-3 Probables Tormentas Eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cor",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-13T19:39:49.4949-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
    ]
   },
   {
@@ -267,20 +295,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-11T18:15:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-ovalle-por-incendio-forestal-2026-11-11-17-47-45",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a5384c021d45",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Se modifica cobertura de Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado, por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudal en la Región de Coquimbo: Comuna Estación hidrométrica Umbral Monte Patria Río Grande Las Ramadas Rojo Salamanca Río Choapa en Salamanca Rojo Salamanca Río Choapa en Cuncumén Amarillo Salamanca Ríos Cuncumen antes junta Choapa (Chacay) Amarillo Asimismo, la DGA informo que entre el 7 y 9 de noviembre, los umbrales hidrométricos han alcanzado o superado niveles de alertamiento debido a los deshielos ocurridos en las cuencas de E",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-11T13:49:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
    "origen": "senapred_web",
    "regiones_extra": []
   },

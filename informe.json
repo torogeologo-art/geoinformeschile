@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T08:50:37+00:00",
+ "generado": "2026-11-14T15:42:11+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "04-11-2026",
@@ -7,26 +7,26 @@
  },
  "totales": {
   "alertas": 91,
-  "sae": 7,
+  "sae": 8,
   "comunas": 4,
-  "regiones": 15,
+  "regiones": 14,
   "por_nivel": {
-   "ATP": 58,
+   "ATP": 56,
    "AMARILLA": 18,
-   "ROJA": 15
+   "ROJA": 17
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    31
+    30
    ],
    [
     "crecida de río",
-    19
+    21
    ],
    [
     "viento",
-    13
+    12
    ],
    [
     "evento meteorológico",
@@ -53,33 +53,6 @@
  "tipos_detalle": {
   "tormentas eléctricas": [
    {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "04-11",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "04-11",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "04-11",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
     "lugar": "Región de Los Lagos",
     "region": "Los Lagos",
     "nivel": "ATP",
@@ -102,9 +75,18 @@
     "region": "Arica y Parinacota",
     "nivel": "ATP",
     "sae": false,
-    "ts": "05-11",
+    "ts": "04-11",
     "comuna_link": "",
     "region_link": "arica y parinacota"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "05-11",
+    "comuna_link": "",
+    "region_link": "la araucania"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -132,6 +114,15 @@
     "ts": "08-11",
     "comuna_link": "",
     "region_link": "maule"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "08-11",
+    "comuna_link": "",
+    "region_link": "valparaiso"
    },
    {
     "lugar": "Región de Metropolitana de Santiago",
@@ -184,7 +175,7 @@
     "lugar": "Región de Atacama",
     "region": "Atacama",
     "nivel": "ROJA",
-    "sae": false,
+    "sae": true,
     "ts": "11-11",
     "comuna_link": "",
     "region_link": "atacama"
@@ -227,15 +218,6 @@
    }
   ],
   "viento": [
-   {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "04-11",
-    "comuna_link": "",
-    "region_link": "arica y parinacota"
-   },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
     "region": "Libertador General Bernardo O'Higgins",
@@ -420,7 +402,7 @@
   ]
  },
  "vigentes": {
-  "ROJA": 10,
+  "ROJA": 11,
   "AMARILLA": 1,
   "ATP": 7,
   "regiones_roja": [
@@ -435,7 +417,7 @@
    "fecha": "2026-11-04",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 9,
+   "ATP": 6,
    "sae": 0
   },
   {
@@ -503,10 +485,10 @@
   },
   {
    "fecha": "2026-11-14",
-   "ROJA": 0,
+   "ROJA": 2,
    "AMARILLA": 1,
-   "ATP": 1,
-   "sae": 0
+   "ATP": 2,
+   "sae": 1
   }
  ],
  "escalamientos": [
@@ -516,11 +498,6 @@
    "sae": true,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "10-11 01:25",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "ROJA",
      "ts": "10-11 21:26",
@@ -540,13 +517,18 @@
      "nivel": "AMARILLA",
      "ts": "13-11 10:30",
      "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "14-11 11:17",
+     "estado": "VIGENTE"
     }
    ]
   },
   {
    "lugar": "Región de Atacama",
    "region": "Atacama",
-   "sae": false,
+   "sae": true,
    "max": "ROJA",
    "pasos": [
     {
@@ -597,8 +579,8 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "04-11 11:33",
-     "estado": "CANCELADA"
+     "ts": "05-11 21:29",
+     "estado": "VIGENTE"
     },
     {
      "nivel": "AMARILLA",
@@ -709,6 +691,33 @@
  ],
  "cronologia": [
   {
+   "ts": "14-11 14:37",
+   "nivel": "ROJA",
+   "lugar": "Región de Atacama",
+   "tipo": "crecida de río",
+   "sae": true,
+   "estado": "VIGENTE",
+   "url": "https://t.me/SenapredChile/1694"
+  },
+  {
+   "ts": "14-11 11:17",
+   "nivel": "ROJA",
+   "lugar": "Región de Coquimbo",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42"
+  },
+  {
+   "ts": "14-11 09:14",
+   "nivel": "ATP",
+   "lugar": "Región de Arica y Parinacota",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22"
+  },
+  {
    "ts": "14-11 01:45",
    "nivel": "ATP",
    "lugar": "Región de Valparaíso",
@@ -806,33 +815,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-metropolitana-por-calor-intenso-2026-11-11-14-50-00"
-  },
-  {
-   "ts": "12-11 20:01",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "nevadas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
-  },
-  {
-   "ts": "12-11 16:54",
-   "nivel": "ROJA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "desborde",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1688"
-  },
-  {
-   "ts": "12-11 12:34",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

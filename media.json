@@ -1,8 +1,26 @@
 {
- "generado": "2026-11-14T09:27:38+00:00",
- "desde": "2026-11-12T09:27:34Z",
+ "generado": "2026-11-14T15:42:11+00:00",
+ "desde": "2026-11-12T15:42:07Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "PWdLiI-qA3k",
+     "url": "https://www.youtube.com/watch?v=PWdLiI-qA3k",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.8 Perú y M4.8 República Dominicana • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-14T07:41:06Z",
+     "live": true,
+     "score": 4.33,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "coquimbo": {
    "comuna": "Coquimbo",
    "region": "Coquimbo",
@@ -15,7 +33,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-11-14T00:59:30Z",
      "live": true,
-     "score": -2.71,
+     "score": -3.23,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +51,7 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-14T07:41:06Z",
      "live": true,
-     "score": 4.85,
+     "score": 4.33,
      "verificado": false,
      "embeddable": true
     }
@@ -51,7 +69,7 @@
      "canal": "camara_paihuano",
      "publicado": "2026-11-13T15:35:26Z",
      "live": true,
-     "score": 6.51,
+     "score": 5.99,
      "verificado": false,
      "embeddable": false
     }
@@ -63,13 +81,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "D8GygtPM8dk",
+     "url": "https://www.youtube.com/watch?v=D8GygtPM8dk",
+     "titulo": "Transmisión en vivo de Vicuña con Alameda",
+     "canal": "Vicuña con Alameda",
+     "publicado": "2026-11-14T11:45:39Z",
+     "live": true,
+     "score": 7.67,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "EcMeAPVeRv0",
      "url": "https://www.youtube.com/watch?v=EcMeAPVeRv0",
      "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 16 (Liga Canta Claro)",
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T03:02:54Z",
      "live": false,
-     "score": 7.47,
+     "score": 6.95,
      "verificado": false,
      "embeddable": true
     },
@@ -80,7 +109,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T03:02:07Z",
      "live": false,
-     "score": 7.46,
+     "score": 6.94,
      "verificado": false,
      "embeddable": true
     },
@@ -91,7 +120,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T03:01:40Z",
      "live": false,
-     "score": 7.46,
+     "score": 6.94,
      "verificado": false,
      "embeddable": true
     },
@@ -102,7 +131,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T03:00:52Z",
      "live": false,
-     "score": 7.46,
+     "score": 6.94,
      "verificado": false,
      "embeddable": true
     },
@@ -113,7 +142,25 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T02:59:37Z",
      "live": false,
-     "score": 7.46,
+     "score": 6.94,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "tarapaca": {
+   "comuna": "Tarapacá",
+   "region": "Tarapacá",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "PWdLiI-qA3k",
+     "url": "https://www.youtube.com/watch?v=PWdLiI-qA3k",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.8 Perú y M4.8 República Dominicana • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-14T07:41:06Z",
+     "live": true,
+     "score": 4.33,
      "verificado": false,
      "embeddable": true
     }
