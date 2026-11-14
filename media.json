@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-14T15:42:11+00:00",
- "desde": "2026-11-12T15:42:07Z",
+ "generado": "2026-11-14T16:00:18+00:00",
+ "desde": "2026-11-12T16:00:12Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -11,11 +11,11 @@
     {
      "id": "PWdLiI-qA3k",
      "url": "https://www.youtube.com/watch?v=PWdLiI-qA3k",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.8 Perú y M4.8 República Dominicana • Terremotos 24/7",
+     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M4.0 en México (Mapastepec y Tapachula) • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-14T07:41:06Z",
      "live": true,
-     "score": 4.33,
+     "score": 4.31,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +33,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-11-14T00:59:30Z",
      "live": true,
-     "score": -3.23,
+     "score": -3.25,
      "verificado": false,
      "embeddable": true
     }
@@ -47,11 +47,11 @@
     {
      "id": "PWdLiI-qA3k",
      "url": "https://www.youtube.com/watch?v=PWdLiI-qA3k",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.8 Perú y M4.8 República Dominicana • Terremotos 24/7",
+     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M4.0 en México (Mapastepec y Tapachula) • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-14T07:41:06Z",
      "live": true,
-     "score": 4.33,
+     "score": 4.31,
      "verificado": false,
      "embeddable": true
     }
@@ -69,7 +69,7 @@
      "canal": "camara_paihuano",
      "publicado": "2026-11-13T15:35:26Z",
      "live": true,
-     "score": 5.99,
+     "score": 5.97,
      "verificado": false,
      "embeddable": false
     }
@@ -81,24 +81,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "EcMeAPVeRv0",
+     "url": "https://www.youtube.com/watch?v=EcMeAPVeRv0",
+     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 16 (Liga Canta Claro)",
+     "canal": "ADO Canta Claro",
+     "publicado": "2026-11-14T03:02:54Z",
+     "live": true,
+     "score": 8.92,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "D8GygtPM8dk",
      "url": "https://www.youtube.com/watch?v=D8GygtPM8dk",
      "titulo": "Transmisión en vivo de Vicuña con Alameda",
      "canal": "Vicuña con Alameda",
      "publicado": "2026-11-14T11:45:39Z",
      "live": true,
-     "score": 7.67,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "EcMeAPVeRv0",
-     "url": "https://www.youtube.com/watch?v=EcMeAPVeRv0",
-     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 16 (Liga Canta Claro)",
-     "canal": "ADO Canta Claro",
-     "publicado": "2026-11-14T03:02:54Z",
-     "live": false,
-     "score": 6.95,
+     "score": 7.65,
      "verificado": false,
      "embeddable": true
     },
@@ -109,7 +109,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T03:02:07Z",
      "live": false,
-     "score": 6.94,
+     "score": 6.92,
      "verificado": false,
      "embeddable": true
     },
@@ -120,7 +120,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T03:01:40Z",
      "live": false,
-     "score": 6.94,
+     "score": 6.92,
      "verificado": false,
      "embeddable": true
     },
@@ -131,7 +131,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T03:00:52Z",
      "live": false,
-     "score": 6.94,
+     "score": 6.92,
      "verificado": false,
      "embeddable": true
     },
@@ -142,25 +142,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T02:59:37Z",
      "live": false,
-     "score": 6.94,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "tarapaca": {
-   "comuna": "Tarapacá",
-   "region": "Tarapacá",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "PWdLiI-qA3k",
-     "url": "https://www.youtube.com/watch?v=PWdLiI-qA3k",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.8 Perú y M4.8 República Dominicana • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-14T07:41:06Z",
-     "live": true,
-     "score": 4.33,
+     "score": 6.92,
      "verificado": false,
      "embeddable": true
     }
