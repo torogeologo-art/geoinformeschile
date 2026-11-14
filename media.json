@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-14T02:38:03+00:00",
- "desde": "2026-11-12T02:38:01Z",
+ "generado": "2026-11-14T08:50:37+00:00",
+ "desde": "2026-11-12T08:50:33Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,24 +9,111 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "jaqnO6EHMT0",
-     "url": "https://www.youtube.com/watch?v=jaqnO6EHMT0",
-     "titulo": "Chile perdió en Colombia, Final #CopadelaLiga Y se juega la última fecha de #PrimeraB En Vivo",
-     "canal": "LaTortaDeportes",
-     "publicado": "2026-11-14T02:06:29Z",
-     "live": true,
-     "score": 4.96,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "TnYMjA-tQx8",
      "url": "https://www.youtube.com/watch?v=TnYMjA-tQx8",
      "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
      "canal": "La Serena Drone",
      "publicado": "2026-11-14T00:59:30Z",
      "live": true,
-     "score": -2.14,
+     "score": -2.65,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "PWdLiI-qA3k",
+     "url": "https://www.youtube.com/watch?v=PWdLiI-qA3k",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.8 Perú y M4.8 República Dominicana • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-14T07:41:06Z",
+     "live": true,
+     "score": 4.9,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "paihuano": {
+   "comuna": "Paihuano",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "csY_gj8Qsic",
+     "url": "https://www.youtube.com/watch?v=csY_gj8Qsic",
+     "titulo": "Cámara en vivo de Paihuano",
+     "canal": "camara_paihuano",
+     "publicado": "2026-11-13T15:35:26Z",
+     "live": true,
+     "score": 6.56,
+     "verificado": false,
+     "embeddable": false
+    }
+   ]
+  },
+  "vicuna": {
+   "comuna": "Vicuña",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "EcMeAPVeRv0",
+     "url": "https://www.youtube.com/watch?v=EcMeAPVeRv0",
+     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 16 (Liga Canta Claro)",
+     "canal": "ADO Canta Claro",
+     "publicado": "2026-11-14T03:02:54Z",
+     "live": false,
+     "score": 7.52,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Is07OEubPw4",
+     "url": "https://www.youtube.com/watch?v=Is07OEubPw4",
+     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 14 (Liga Canta Claro)",
+     "canal": "ADO Canta Claro",
+     "publicado": "2026-11-14T03:02:07Z",
+     "live": false,
+     "score": 7.52,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "3WhIzoLbQgo",
+     "url": "https://www.youtube.com/watch?v=3WhIzoLbQgo",
+     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 12 (Liga Canta Claro)",
+     "canal": "ADO Canta Claro",
+     "publicado": "2026-11-14T03:01:40Z",
+     "live": false,
+     "score": 7.52,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "szipmecV8R4",
+     "url": "https://www.youtube.com/watch?v=szipmecV8R4",
+     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 10 (Liga Canta Claro)",
+     "canal": "ADO Canta Claro",
+     "publicado": "2026-11-14T03:00:52Z",
+     "live": false,
+     "score": 7.51,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "2aihdt7neWE",
+     "url": "https://www.youtube.com/watch?v=2aihdt7neWE",
+     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 8 (Liga Canta Claro)",
+     "canal": "ADO Canta Claro",
+     "publicado": "2026-11-14T02:59:37Z",
+     "live": false,
+     "score": 7.51,
      "verificado": false,
      "embeddable": true
     }

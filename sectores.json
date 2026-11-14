@@ -1,7 +1,18 @@
 {
- "generado": "2026-11-14T01:51:14+00:00",
+ "generado": "2026-11-14T08:50:24+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
+  {
+   "nombre": "río Aconcagua",
+   "lat": -32.78876,
+   "lon": -70.87591,
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "sae": false,
+   "lugar": "Valparaíso",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04",
+   "ts": "2026-11-14T01:05"
+  },
   {
    "nombre": "río Claro",
    "lat": -30.11092,

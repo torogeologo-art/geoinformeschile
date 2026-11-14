@@ -1,13 +1,41 @@
 {
- "generado": "2026-11-14T02:38:00+00:00",
+ "generado": "2026-11-14T08:50:22+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 17,
+ "total_vigentes": 18,
  "alertas": [
+  {
+   "id": "822c82ef01d2",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección General de Aguas (DGA) y la Municipalidad de Quillota, se mantiene el monitoreo preventivo en el sector Real de Boco, considerado uno de los puntos más expuestos a crecidas del río Aconcagua. El caudal máximo observado fue de 304,22 m³/s, disminuyendo posteriormente a 215,289 m³/s. En tanto, en la comuna de Panquehue, fueron evacuadas preventivamente 3 personas de 2 viviendas ubicadas en la ribera del río, quienes fueron derivadas a casas de familiares. Por otra parte, en la Provincia de San Felipe de Aconcagua, se informó aumento",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-14T01:45:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "23bfc4f87d8a",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida",
+   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección General de Aguas (DGA) , entre las 17:00 y las 22:00 horas del 13 de noviembre, se registraron variaciones de caudal en distintas estaciones de monitoreo de la cuenca del río Aconcagua, destacando la superación transitoria del umbral Rojo en la estación “Río Aconcagua en Chacabuquito”. Cabe señalar, que esta estación registró un incremento de caudal desde 142,01 m³/s a las 17:00 horas a 170.15 m³/s a las 18:00 horas superando el umbral amarillo establecido, para posteriormente a las 20:00 horas registrar un incremento de 193.6 m³/",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-14T01:05:13.1313-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "d4526623a520",
    "nivel": "ATP",
@@ -135,20 +163,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-12T23:21:50.5050-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-y-comunas-de-la-ligua-petorca-y-cabildo-por-calor-intenso-2026-11-11-18-01-59",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1715b1f22e50",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida",
-   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección General de Aguas (DGA), entre el 5 y 12 de noviembre de 2026 se han registrado incrementos significativos de caudal en distintas estaciones de la cuenca del río Aconcagua. Destacando de entre ellas la estación “ Aconcagua en Chacabuquito ”, cuyo caudal aumentó a 177,850 m³/s a las 20:54 horas del 12 de noviembre. Del mismo modo, la DGA, señala que las estaciones río Aconcagua en Río Blanco, rio Putaendo en Resguardo Los Patos y Río Aconcagua en Puente Colmo, se encuentran en umbral azul. Complementariamente, las observaciones en t",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-12T22:29:44.4444-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
    "origen": "senapred_web",
    "regiones_extra": []
   },

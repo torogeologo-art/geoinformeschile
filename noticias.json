@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T01:51:15+00:00",
+ "generado": "2026-11-14T08:50:32+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -716,6 +716,13 @@
    "comuna": "Ovalle",
    "noticias": [
     {
+     "titulo": "Evacuaciones, viviendas inundadas y familias aisladas dejan crecidas de ríos - El Día",
+     "medio": "El Día",
+     "fecha": "2026-11-13T22:08:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUlA2bzRtQmI3cXliT0duNlotYzkzRjdRRU84dWRJNmJPTkxwa2xjNlAwMzF5QkpXYUh1RzJsdDJTZmkwbWlGT2YwVTJBT1RuNEZUcXFtU0tZVGJNX00teFpmNVNCWjlDeG8tM01ubHpwQ2g4UFRaSm5YY3RLclhNeHFZQXpMMGI2d3pzM19INkluQXhRbjdyMU4wRkV0Z1FENXRVa0JxVHV2RVlEZ0hmM3BWb1BReXZUaTRKYXIxZXE2V3RnS2pILQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Desborde de ríos en Coquimbo obliga a evacuar sectores de Ovalle y mantiene alertas por crecidas - Publimicro",
      "medio": "Publimicro",
      "fecha": "2026-11-13T01:31:08+00:00",
@@ -776,13 +783,6 @@
      "medio": "Mi Radio",
      "fecha": "2026-11-12T17:03:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV2tiZzh5VXhNWjR1Q0FjVDBkOFFnVThLUEw1a2JPd0tVVVhVZXhOd2R5OXZvR0RIZnpLTTZSYzMwNUxMU2pfaTE1eFlzYnlRWWpTWHlNTDl2Zm4wRHpSUno2VnFDcWNHZ2Q0Vm5laWVBRF96am9kdWJhQVkxUXB1b1pXVmNsamFzX2Y1ZFdmMWJlRkl6aHc5eVpaNnVlc09uX2c4S3R2VnE5eVNPQkVZQTdlUXl3Yzdv?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alerta SAE: Senapred ordena evacuar sector La Ensenada en Ovalle por desborde del Río Grande - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-11-12T16:58:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ0ViTnR2N2pBeGFJZl8xakRsU2RWeHFvcUkxUXFDdmNsTi11TTB2Qkx2dE9EN3NsaDJTVHppWF90aGpReW9TRGY0bEp1QjJRWjNSM3J4Q3dNcjRqYjZUdWpReFZUTTNyM3kyWjM4V3RNRmJkTmR5RmdFV1Q1V25LbFBRYzZmNFU0UEZjOXNGUTRhb0pGQ2NSOUJ0LWw0X045VmJWQXEzd2YyV2F3WHZ6d0pPZnlUYW5NNVRuSlhoU3V5NDFVMVZ5MXlmWG4tTzNlNTVlT1FQUldtLWwzUVdqLWFfdW9tN1lybjBDOUE1WWVwdlZqeWdv?oc=5",
      "sector": null
     }
    ]
@@ -1091,6 +1091,13 @@
    "comuna": "Alto del Carmen",
    "noticias": [
     {
+     "titulo": "Alto del Carmen llama a evacuar oportunamente zonas de riesgo ante aumento sostenido de los caudales - Medio digital El Zorro Nortino",
+     "medio": "Medio digital El Zorro Nortino",
+     "fecha": "2026-11-14T01:11:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMnpyUzhtUXh3Vy1oUXNMS21fZTlSYzBUQkUzWFJ4ZjBxY3I3dzU0akNrVGF3OW1tU1FLUG5CUjhTa3pveXE0OHZFaVowVVJlbFYwT0MxV29GenhUeEJTdjlwRkFkSVhUakJwZFR4Y3c2MWJXMEU3UzlBYi1fOFBMa3lLVktYbk5RVTlrUU5XajlyS3lVUkhLdHp6QWxHRVpfaHBjRnBldUVTMS1wUnZEbVBxaGZSLUFyVGVkNTd4eXNhT3hNNUpsczM4cmRfRU12ejh2dVQ5aVFQZw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "SUSPENDEN POR TREINTA DÍAS RCA QUE APROBÓ PROYECTO PROSPECCIÓN MINERA EL ALTO - Revista Minera Crisol",
      "medio": "Revista Minera Crisol",
      "fecha": "2026-11-12T22:28:44+00:00",
@@ -1151,13 +1158,6 @@
      "medio": "Radio Maray",
      "fecha": "2026-11-10T15:02:28+00:00",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3YxbWV6bEIzNjBrNm9RRmlueXBRSlFtNkpsT01GWHVhTnctbmtWNkxRN0NzWnRBT1Nsb3c0V1pzd0t3dVoyT0M0T2E5RmNNLTUwVU9qeGRNN0VkTjRSZ19nb0Z4NWRickNmS2dJT3BZN0dlcnBnMU1sZldpLWJLRFhCX1FBcnhTaE1rR2tzQlVNYVJ2bXhiQWR0eWMwSkVOdThfVF9jdFJBa0oxZnRFTE9oWQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Agricultores del sector Perales Sur de Alto del Carmen recuperan el riego con el apoyo de INDAP - Indap",
-     "medio": "Indap",
-     "fecha": "2026-11-10T14:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc0k0cUFyWEt2SnBqbXJMMk9iQkhrRkxURFhDUUlFNm1GOXJjaG9GUFA3bVR1eHd2eDJfb2t6VVBiX1d4X2lSWjJJQlJCYVk3SXh2RldCUTVoWmtwbFBaLXI1anMwRHhlM2loaWFnaDgzNkJ2czRuNkQ1QTNwUnFxQTB3c1NfRlNBdTFOZ1NubnQ2OXpOOTN0d0tXeGZqTzBpamVaTnpYVHdra3EtOUVUNFN4a21JNFhBbjhGT1dXQjk?oc=5",
      "sector": null
     }
    ]
@@ -4507,6 +4507,109 @@
      "fecha": "2026-10-20T23:24:06+00:00",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVWlEUm9pdV80Z1FyWGk0blBTb0hLbGY5MlZObk5zeEVhc09VR01SWGhLczRQdFpsWF81aHoyR0R5Nkk0cnBKTFJxVDVNRF9yektaY1lXMThERjM2ZGhJaWhDazNrdVR4dGtJM01KdjlvZGxNZlYtdUhsdl81Y1NvSVA3RV9aaktKSTdYRmE0U3pDSWoza1lCZHRIcDhqdlFhY1l1MmVwR0pxY3NtNGd5dHVVTEZ6VFEwczd2TktFRUtEQnFQVHlJYTlDWjhwVE0?oc=5",
      "sector": null
+    }
+   ]
+  },
+  "valparaiso": {
+   "comuna": "Valparaíso",
+   "noticias": [
+    {
+     "titulo": "SENAPRED declara alerta amarilla por aumento del caudal del río Aconcagua - Radio Stella Maris",
+     "medio": "Radio Stella Maris",
+     "fecha": "2026-11-13T20:20:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOENJSEpFQzBPVk5HU3JlQ1h3UTVnWjhTRFJUTHBiUERHSmhXeWhYdTRJS2ZGMFBiSVhKVTJ6T2YtNk1XVVlkSHNLcnlRcDNDZzhfODR5bFhRMGZGY1J3R2FBXzhWemhXbHdfcU10dUZvenNfaDhleHFhVURoOEVIZmdWb2JPeVdyVWxiRGdhdXNsVkNOeUlTbEctYTFDMTM1UDVELS1pMDVmUQ?oc=5",
+     "sector": {
+      "nombre": "río Aconcagua",
+      "lat": -32.78876,
+      "lon": -70.87591
+     }
+    },
+    {
+     "titulo": "Río Aconcagua: mantienen alerta por crecida en tres comunas de Valparaíso - El Martutino",
+     "medio": "El Martutino",
+     "fecha": "2026-11-12T13:43:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGhHWnJfOThGcGJTY3NaRmJzWk9DdkEyUWhDZzNyTFB2Qzl0MGRtMFpYUGlONWdWbFJEVE8zWndMWTM4VTFHc29Ra21YeGhGa0Y1RzN0eGlaSXJ3XzM0TUxPcVZ0SW85MXBJZ3BQeXZmc2pVVHhXWDJNamVVbEtGQms3Y1UxZGRwOTRUNU1QVWdhNXFCYmljejNjOHdDa0VORzhOUjFtUFBIV05lNVk0c0FsSzJYWFE?oc=5",
+     "sector": {
+      "nombre": "río Aconcagua",
+      "lat": -32.78876,
+      "lon": -70.87591
+     }
+    },
+    {
+     "titulo": "Senapred mantiene Alerta Amarilla por calor intenso y alerta preventiva por crecida del río Aconcagua en la Región de Valparaíso - G5noticias",
+     "medio": "G5noticias",
+     "fecha": "2026-11-12T12:53:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSDZ6SV90Wk5DVkp0N2pJcmZvN3htanNxUzU2OHQxZDFmUm1JZFF1TDdXazRRREJDMjVqOHhINjJHWDUza3lCWWczeUREUUxMZ1psNzhhV1lMNzQyY2RHY0FZZ09nR2M4WHRVNFlGWnZoLUZjT2xWSlc4ODhEbXBDN1JQc3F1LUpGYlNweXBVb240X2lkek9DWjZGV0h4X3cxMXRtRGJ5NUNGbVJyX0NzdndOMkxuVkVRQmF4SEdzN2czS0R4aERlUUZ4VWtfbW00dWdzQXNfMzhaOTZzcEI4X2JxYk5sSFlseEV6WWN2SXExSlhl?oc=5",
+     "sector": {
+      "nombre": "río Aconcagua",
+      "lat": -32.78876,
+      "lon": -70.87591
+     }
+    },
+    {
+     "titulo": "Derrame minero de Codelco en Valparaíso podría ser peor: 50 millones de litros de agua afectados - El Desconcierto",
+     "medio": "El Desconcierto",
+     "fecha": "2026-11-10T13:59:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWndsdzU0WHdwa1lrdWRnaVhmcUl4SUlkZUlYS1JvaGpCYUFieFRxNG5hS3JMem1mVzU5LUVzb1lydGNIOVI0cTgzcDZlV051X0FRM1BMTndxTHpYR0ltMFp4SE5lZUxSX0ZGUk9razB3dVB4aUJzRkhyQXMzUHptdHVMMDJxUjlJa3pZQXhzTVA4b3VYaVJqUkZ4cGtxMldObnZIMHVNRU9NOVZ0WlF5RWcxc0xKQ3RrRGdwWEpHLWpVU0FxUEtnY3lDN29QZw?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Región de Valparaíso: Autoridades locales convocan a reunión por derrame de relaves en río Blanco - El Mostrador",
+     "medio": "El Mostrador",
+     "fecha": "2026-11-06T13:58:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSWY4VnVDQzc1WWpWODJ1ckFwaVl2WURxVURKZFo0VE5HQW1CWTk5ZUVIS3NlQjRGMWtqdzNoWnI2bTZaS0lwNTN6YnhfSzJ1RF92QU8ycmpCUEpSVjJuUktnai1pT3NrQkhLYmFmYjFKT3ljR2NHeW8tNFBySm4ybjc0enAxMFFMZGNJR3ZjZUZNSmVFWlhlZXB3SUZuQXJwVXM4RnB4WTBwRUlSbl9wbHg0bUtCdGpwUWFMalZGRTV2aXZjU1dYZXo5NFg2Q2VxQzMxUVVCY1FDRXBXTWdocWFTSQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Codelco confirma derrame de relaves en la región de Valparaíso: cerraron compuertas del río Aconcagua - ADN Radio",
+     "medio": "ADN Radio",
+     "fecha": "2026-11-05T16:12:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOUx2ODJseXh1Uy16dVVQbERmQ2lXR3RMSk5qTmsxcFo2cmR4ZkJ0bXZPUk1pcHlPaGhqcFNmX29BRTd0U2dlLXB5VXFmSVpBTFlmNlNkRk4zY2VrNV9OUUxCN3l0ZktBQ1dvUWp4aE12SEpsWTNreGJNM0JiM3FTWjlmWG9Cb1dQNjVORjRnSWI1N1NlSjE2XzltTjdnYU1NQmtSdHJVNVlpazNMZlhETkdOdVNtRFNuOVItRjV1X19oYWlMNlZtQUVKTUxramVVeWfSAeYBQVVfeXFMUHduVjQwRmdGLWJrOENKVnJVRm5BZnByOUVsUDduNzdTYzhFdWJaMUtKQjh5M1loVEU3ZENVc2dELW55VDRwS1k0dnVLaVpzQW1KMFFrNFBERXZ1UTdkdHUwR3U4SGpjSlhhV2JMdW1lUzBBTDVwYzAyRlJrcTVJNHNwYnVtZzJEa2kwVHZQNk9oVXpHZExZX2tjdnE5OC13RFk2MDRhY0E1TlhabXZwWTk1aER0ZnFQRFVBSHJlQncwdDlsOHVra0t1VktUS1ZxMkdIMndqOG1fd3BGaEZCUnF4UUtrb3c?oc=5",
+     "sector": {
+      "nombre": "río Aconcagua",
+      "lat": -32.78876,
+      "lon": -70.87591
+     }
+    },
+    {
+     "titulo": "Codelco informó derrame de relaves en río de la región de Valparaíso: se ordenó detención total de la planta - Teletrece",
+     "medio": "Teletrece",
+     "fecha": "2026-11-05T15:50:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFpwZjcyek5vVVpkbHFLNnVGdTY0bzhfR1JXRHYwUG1xX2JMSURQOW9saTBjbXdLZzRjdm5RMmkwdjc3SEY1SWhrSlMydC01WlFGaC1mOUlZcmI2WWNzV1cyVktURHNrTGcxZU16a0ZQaUJhODNvbXlRZGVyUTU2M3k2VU9yZWtyNktuWTdoWnM2UTNQazJJNURxTzY5bmt0U2RpSU5aUWg2OU8xVlh1cnU1MlctOFhILUlILTdB?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Codelco confirma derrame de relaves en la región de Valparaíso: cerraron compuertas del río Aconcagua - Chilevisión",
+     "medio": "Chilevisión",
+     "fecha": "2026-11-05T15:20:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZEV6UnEzZXNGWU9RRHFlVFRFb2UzZEVKV3ZNZmo3SHo3X3hCa2VtUWVYN0RsUzNnUlZFeTk4WE1TSGNXVGlMN2pMR1VVdlp2WWl3QUdnQWZHZTFKUVJDWnNkOU8yVFpTb2gtOV9rd2VWaDBxUTBxTWJ1bDk2V3FDWFI3R295SVpfQVRkeWpBZ2pwOGIzUU91V1hlZVRzNkNiUnJlZGlCODNhd19C?oc=5",
+     "sector": {
+      "nombre": "río Aconcagua",
+      "lat": -32.78876,
+      "lon": -70.87591
+     }
+    },
+    {
+     "titulo": "Codelco confirma derrame de relaves en Valparaíso y ordenan cerrar las compuertas del río Aconcagua - Canal 9 Bío Bío Televisión",
+     "medio": "Canal 9 Bío Bío Televisión",
+     "fecha": "2026-11-05T14:40:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEJWTkdTQzROLTZZN19FVmpPNHRORHB5WFJxblpjNUhyMzIyNGg1YmR2eldvZW9XSHFoSVhhUEk4eDFFLXUxazNPNndQQlZXODhvU0FkQlN2ZkdheXJFd2t4UjRNQk5MV3daZUszb2ZCNHJBU1A0Y2VOaWt2NUtNcWd5bjRrUmlSUkJLcTh0MGlMM29EZWhSR1ZuenBHandCQkd0MjJTMmlNbnF0QlhqbTh5Mk1telMyM0dtNU9TUE9KZHg4T2FnN0ZoYlBiZU5lUjZKM0IyZw?oc=5",
+     "sector": {
+      "nombre": "río Aconcagua",
+      "lat": -32.78876,
+      "lon": -70.87591
+     }
+    },
+    {
+     "titulo": "Codelco confirma derrame de relaves en la región de Valparaíso y cierran compuertas del río Aconcagua - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2026-11-05T14:29:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNHpJanliS1Z3bUZIeXVNSnM1UGlBck5oTmhrb2tTTHVlVzNxazV5WURTTms3Yk9aWGVLUWxiX3pJTWdsUzRlLV9fam5NcHNhYjBiSk9XWDRBN1k1YXdFdzhFWUxncEdHdXcwaXY0aGY4QnBaYmFTVl9MYVVWZ2JMNjdrZTV4aTA1OVBmS3MxMmx4dUdQdkxZY25pVDVEWGVYNEhMSWFCb1NvQVJ5WkNwYW1fVlZLaFRVWXZoRkIwMmhvLUhUaE1ValJySW40eDRmVFlQT3NTdEZJZnhsODNIRVJIVkRQb19pLVVCYlpYc3ZRUF9yeHBJZnB5bHhqZ25GRExPNjdOVS1UbmN1?oc=5",
+     "sector": {
+      "nombre": "río Aconcagua",
+      "lat": -32.78876,
+      "lon": -70.87591
+     }
     }
    ]
   }

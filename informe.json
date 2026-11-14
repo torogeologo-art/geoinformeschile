@@ -1,18 +1,18 @@
 {
- "generado": "2026-11-14T01:51:18+00:00",
+ "generado": "2026-11-14T08:50:37+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "04-11-2026",
   "hasta": "14-11-2026"
  },
  "totales": {
-  "alertas": 89,
+  "alertas": 91,
   "sae": 7,
   "comunas": 4,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 57,
-   "AMARILLA": 17,
+   "ATP": 58,
+   "AMARILLA": 18,
    "ROJA": 15
   },
   "por_tipo": [
@@ -22,7 +22,7 @@
    ],
    [
     "crecida de río",
-    17
+    19
    ],
    [
     "viento",
@@ -421,7 +421,7 @@
  },
  "vigentes": {
   "ROJA": 10,
-  "AMARILLA": 0,
+  "AMARILLA": 1,
   "ATP": 7,
   "regiones_roja": [
    "Antofagasta",
@@ -500,6 +500,13 @@
    "AMARILLA": 1,
    "ATP": 4,
    "sae": 1
+  },
+  {
+   "fecha": "2026-11-14",
+   "ROJA": 0,
+   "AMARILLA": 1,
+   "ATP": 1,
+   "sae": 0
   }
  ],
  "escalamientos": [
@@ -583,6 +590,39 @@
    ]
   },
   {
+   "lugar": "Región de Valparaíso",
+   "region": "Valparaíso",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "04-11 11:33",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "11-11 16:03",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "11-11 19:56",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "12-11 22:13",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "14-11 01:45",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
    "lugar": "Región de Magallanes y de la Antártica Chilena",
    "region": "Magallanes y de la Antártica Chilena",
    "sae": false,
@@ -611,34 +651,6 @@
     {
      "nivel": "ATP",
      "ts": "11-11 09:33",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Valparaíso",
-   "region": "Valparaíso",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "04-11 11:33",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "11-11 16:03",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "11-11 19:56",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "12-11 22:13",
      "estado": "VIGENTE"
     }
    ]
@@ -696,6 +708,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "14-11 01:45",
+   "nivel": "ATP",
+   "lugar": "Región de Valparaíso",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18"
+  },
+  {
+   "ts": "14-11 01:05",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Valparaíso",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04"
+  },
   {
    "ts": "13-11 22:01",
    "nivel": "ATP",
@@ -803,24 +833,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06"
-  },
-  {
-   "ts": "12-11 03:52",
-   "nivel": "ATP",
-   "lugar": "Región de Valparaíso",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18"
-  },
-  {
-   "ts": "12-11 03:20",
-   "nivel": "ROJA",
-   "lugar": "Ovalle",
-   "tipo": "crecida de río",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1687"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
