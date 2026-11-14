@@ -1,24 +1,24 @@
 {
- "generado": "2026-11-13T21:33:20+00:00",
+ "generado": "2026-11-14T01:51:18+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "03-11-2026",
-  "hasta": "13-11-2026"
+  "desde": "04-11-2026",
+  "hasta": "14-11-2026"
  },
  "totales": {
-  "alertas": 88,
+  "alertas": 89,
   "sae": 7,
   "comunas": 4,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 56,
+   "ATP": 57,
    "AMARILLA": 17,
    "ROJA": 15
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    30
+    31
    ],
    [
     "crecida de río",
@@ -30,7 +30,7 @@
    ],
    [
     "evento meteorológico",
-    10
+    11
    ],
    [
     "remoción en masa",
@@ -432,13 +432,6 @@
  },
  "serie": [
   {
-   "fecha": "2026-11-03",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
-  {
    "fecha": "2026-11-04",
    "ROJA": 0,
    "AMARILLA": 0,
@@ -505,7 +498,7 @@
    "fecha": "2026-11-13",
    "ROJA": 2,
    "AMARILLA": 1,
-   "ATP": 2,
+   "ATP": 4,
    "sae": 1
   }
  ],
@@ -579,7 +572,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "03-11 18:47",
+     "ts": "04-11 18:53",
      "estado": "CANCELADA"
     },
     {
@@ -704,6 +697,24 @@
  ],
  "cronologia": [
   {
+   "ts": "13-11 22:01",
+   "nivel": "ATP",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-y-comunas-de-laguna-blanca-san-gregorio-y-primavera-por-altas-temperaturas-2026-11-13-22-01-58"
+  },
+  {
+   "ts": "13-11 18:58",
+   "nivel": "ATP",
+   "lugar": "Región de Tarapacá",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-2026-11-09-19-00-47"
+  },
+  {
    "ts": "13-11 16:35",
    "nivel": "ATP",
    "lugar": "Región de Maule",
@@ -810,24 +821,6 @@
    "sae": true,
    "estado": "VIGENTE",
    "url": "https://t.me/SenapredChile/1687"
-  },
-  {
-   "ts": "11-11 19:56",
-   "nivel": "ATP",
-   "lugar": "Región de Valparaíso",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18"
-  },
-  {
-   "ts": "11-11 19:43",
-   "nivel": "ROJA",
-   "lugar": "Ovalle",
-   "tipo": "otro",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1686"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
