@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-14T01:51:18+00:00",
- "desde": "2026-11-12T01:51:15Z",
+ "generado": "2026-11-14T02:38:03+00:00",
+ "desde": "2026-11-12T02:38:01Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,13 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "jaqnO6EHMT0",
+     "url": "https://www.youtube.com/watch?v=jaqnO6EHMT0",
+     "titulo": "Chile perdió en Colombia, Final #CopadelaLiga Y se juega la última fecha de #PrimeraB En Vivo",
+     "canal": "LaTortaDeportes",
+     "publicado": "2026-11-14T02:06:29Z",
+     "live": true,
+     "score": 4.96,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "TnYMjA-tQx8",
      "url": "https://www.youtube.com/watch?v=TnYMjA-tQx8",
      "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
      "canal": "La Serena Drone",
      "publicado": "2026-11-14T00:59:30Z",
      "live": true,
-     "score": -2.07,
+     "score": -2.14,
      "verificado": false,
      "embeddable": true
     }
