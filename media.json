@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-14T20:08:19+00:00",
- "desde": "2026-11-12T20:08:13Z",
+ "generado": "2026-11-14T20:38:57+00:00",
+ "desde": "2026-11-12T20:38:53Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "tarapaca": {
@@ -9,13 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "GobVb14f6Ug",
-     "url": "https://www.youtube.com/watch?v=GobVb14f6Ug",
-     "titulo": "🔴 EN VIVO | ⚽ VILACOLLO FC VS DRINK TEAM - TODO COMPETIDOR ► CLAUSURA 2026",
+     "id": "F921i-69U2U",
+     "url": "https://www.youtube.com/watch?v=F921i-69U2U",
+     "titulo": "🔴 EN VIVO | ⚽SANTA PUEJ FC VS SAN LORENZO FC - TODO COMPETIDOR ► CLAUSURA 2026",
      "canal": "Iquique League Oficial",
-     "publicado": "2026-11-14T04:52:25Z",
+     "publicado": "2026-11-14T04:53:14Z",
      "live": true,
-     "score": 6.73,
+     "score": 6.69,
      "verificado": false,
      "embeddable": true
     },
@@ -26,27 +26,9 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-14T09:03:18Z",
      "live": true,
-     "score": 4.08,
+     "score": 4.03,
      "verificado": false,
      "embeddable": false
-    }
-   ]
-  },
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "vh-NYRIGsUE",
-     "url": "https://www.youtube.com/watch?v=vh-NYRIGsUE",
-     "titulo": "📺 #Ultimominuto | Senapred activa alerta SAE por crecida del Río del Carmen en Atacama",
-     "canal": "Agricultura TV",
-     "publicado": "2026-11-14T16:11:34Z",
-     "live": false,
-     "score": 5.67,
-     "verificado": false,
-     "embeddable": true
     }
    ]
   },
@@ -62,7 +44,18 @@
      "canal": "Cancha Libre",
      "publicado": "2026-11-14T19:40:54Z",
      "live": true,
-     "score": 7.96,
+     "score": 7.92,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "QTZ7DiT96yQ",
+     "url": "https://www.youtube.com/watch?v=QTZ7DiT96yQ",
+     "titulo": "FINAL COPA DE LA LIGA COQUIMBO UNIDO VS O&#39;HIGGINS SoloDeportes EN VIVO",
+     "canal": "SoloDeportes FM",
+     "publicado": "2026-11-14T19:41:12Z",
+     "live": true,
+     "score": 7.92,
      "verificado": false,
      "embeddable": true
     },
@@ -73,49 +66,9 @@
      "canal": "Radio Riquelme",
      "publicado": "2026-11-14T19:30:05Z",
      "live": true,
-     "score": 7.95,
+     "score": 7.9,
      "verificado": false,
      "embeddable": true
-    },
-    {
-     "id": "g3EUWVtcyms",
-     "url": "https://www.youtube.com/watch?v=g3EUWVtcyms",
-     "titulo": "🔴 EN VIVO | COQUIMBO VS OHIGGINS | FINAL COPA DE LA LIGA",
-     "canal": "Estacion Celeste ",
-     "publicado": "2026-11-14T17:57:07Z",
-     "live": true,
-     "score": 7.82,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "pNr0FW2sRSc",
-     "url": "https://www.youtube.com/watch?v=pNr0FW2sRSc",
-     "titulo": "“Esto es histórico”: Alerta por crecida de ríos y riesgo para viviendas en la región de Coquimbo",
-     "canal": "MegaTiempo",
-     "publicado": "2026-11-14T15:38:50Z",
-     "live": false,
-     "score": 5.63,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "paihuano": {
-   "comuna": "Paihuano",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "csY_gj8Qsic",
-     "url": "https://www.youtube.com/watch?v=csY_gj8Qsic",
-     "titulo": "Cámara en vivo de Paihuano",
-     "canal": "camara_paihuano",
-     "publicado": "2026-11-13T15:35:26Z",
-     "live": true,
-     "score": 5.62,
-     "verificado": false,
-     "embeddable": false
     }
    ]
   },
@@ -131,7 +84,7 @@
      "canal": "Vicuña con Alameda",
      "publicado": "2026-11-14T11:45:39Z",
      "live": true,
-     "score": 7.3,
+     "score": 7.26,
      "verificado": false,
      "embeddable": true
     },
@@ -142,7 +95,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T03:02:54Z",
      "live": false,
-     "score": 6.58,
+     "score": 6.53,
      "verificado": false,
      "embeddable": true
     },
@@ -153,7 +106,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T03:02:07Z",
      "live": false,
-     "score": 6.57,
+     "score": 6.53,
      "verificado": false,
      "embeddable": true
     },
@@ -164,7 +117,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T03:01:40Z",
      "live": false,
-     "score": 6.57,
+     "score": 6.53,
      "verificado": false,
      "embeddable": true
     },
@@ -175,7 +128,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T03:00:52Z",
      "live": false,
-     "score": 6.57,
+     "score": 6.53,
      "verificado": false,
      "embeddable": true
     },
@@ -186,7 +139,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-14T02:59:37Z",
      "live": false,
-     "score": 6.57,
+     "score": 6.53,
      "verificado": false,
      "embeddable": true
     }
