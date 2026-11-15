@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-15T14:02:08+00:00",
- "desde": "2026-11-13T14:02:02Z",
+ "generado": "2026-11-15T14:46:47+00:00",
+ "desde": "2026-11-13T14:46:42Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,13 +9,35 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "TnYMjA-tQx8",
-     "url": "https://www.youtube.com/watch?v=TnYMjA-tQx8",
-     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
-     "canal": "La Serena Drone",
-     "publicado": "2026-11-14T00:59:30Z",
+     "id": "kF1ZCPmI3ZA",
+     "url": "https://www.youtube.com/watch?v=kF1ZCPmI3ZA",
+     "titulo": "🔴 En vivo | Reunión Familiar de Adoración | FCC | 15 nov 2026",
+     "canal": "Fraternidad Cristiana Carismática",
+     "publicado": "2026-11-15T14:31:56Z",
      "live": true,
-     "score": -5.0,
+     "score": 7.98,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "IK7mVrxNvQw",
+     "url": "https://www.youtube.com/watch?v=IK7mVrxNvQw",
+     "titulo": "[EN VIVO] Partimiento del Pan",
+     "canal": "Iglesia En Coquimbo",
+     "publicado": "2026-11-15T14:09:31Z",
+     "live": true,
+     "score": 7.95,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "9J6A9ZBhekE",
+     "url": "https://www.youtube.com/watch?v=9J6A9ZBhekE",
+     "titulo": "Transmisión en vivo de iglesia filadelfia coquimbo",
+     "canal": "iglesia filadelfia coquimbo",
+     "publicado": "2026-11-15T14:10:34Z",
+     "live": true,
+     "score": 7.95,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +55,7 @@
      "canal": "Agricultura TV",
      "publicado": "2026-11-14T16:11:34Z",
      "live": false,
-     "score": 4.18,
+     "score": 4.12,
      "verificado": false,
      "embeddable": true
     }
@@ -45,13 +67,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "VpFI3EJFRHY",
-     "url": "https://www.youtube.com/watch?v=VpFI3EJFRHY",
-     "titulo": "TERCERA SERIE LIBRE - CLUB LOS LAGOS - ASOCIACION VALDIVIA",
+     "id": "Mvj8JjUkREk",
+     "url": "https://www.youtube.com/watch?v=Mvj8JjUkREk",
+     "titulo": "CUARTA SERIE LIBRE - CLUB LOS LAGOS - ASOCIACION VALDIVIA",
      "canal": "Servicios para Rodeo",
-     "publicado": "2026-11-15T11:52:03Z",
+     "publicado": "2026-11-15T14:21:08Z",
      "live": true,
-     "score": 7.82,
+     "score": 7.96,
      "verificado": false,
      "embeddable": true
     }
@@ -63,13 +85,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "V6zxCe40m_k",
+     "url": "https://www.youtube.com/watch?v=V6zxCe40m_k",
+     "titulo": "CULTO EN VIVO 15-11-2026",
+     "canal": "Jesús te llama Antofagasta",
+     "publicado": "2026-11-15T14:43:18Z",
+     "live": true,
+     "score": 8.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "tZj1MJf2Klw",
      "url": "https://www.youtube.com/watch?v=tZj1MJf2Klw",
      "titulo": "🔴 SISMOS EN VIVO HOY: M4.8 Argentina y M5.5 Fiyi • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-15T07:21:45Z",
      "live": true,
-     "score": 4.44,
+     "score": 4.38,
      "verificado": false,
      "embeddable": true
     }
@@ -87,7 +120,25 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-15T07:21:45Z",
      "live": true,
-     "score": 4.44,
+     "score": 4.38,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "ovalle": {
+   "comuna": "Ovalle",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "TvNTuhl_9xc",
+     "url": "https://www.youtube.com/watch?v=TvNTuhl_9xc",
+     "titulo": "DOMINGO 15-11-2026  UNGIMIENTO CON ACEITE / CULTO EN VIVO / Iglesia Tiempos de Gloria Chile",
+     "canal": "Iglesia Tiempos de Gloria Chile",
+     "publicado": "2026-11-15T13:48:16Z",
+     "live": true,
+     "score": 4.92,
      "verificado": false,
      "embeddable": true
     }
@@ -123,7 +174,7 @@
      "canal": "Vicuña con Alameda",
      "publicado": "2026-11-14T11:45:39Z",
      "live": true,
-     "score": 5.81,
+     "score": 5.75,
      "verificado": false,
      "embeddable": true
     },
@@ -134,7 +185,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T04:15:43Z",
      "live": false,
-     "score": 7.19,
+     "score": 7.12,
      "verificado": false,
      "embeddable": true
     },
@@ -145,7 +196,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T03:47:42Z",
      "live": false,
-     "score": 7.15,
+     "score": 7.08,
      "verificado": false,
      "embeddable": true
     },
@@ -156,7 +207,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T03:10:23Z",
      "live": false,
-     "score": 7.09,
+     "score": 7.03,
      "verificado": false,
      "embeddable": true
     },
@@ -167,7 +218,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T03:09:52Z",
      "live": false,
-     "score": 7.09,
+     "score": 7.03,
      "verificado": false,
      "embeddable": true
     },
@@ -178,7 +229,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T02:01:00Z",
      "live": false,
-     "score": 7.0,
+     "score": 6.94,
      "verificado": false,
      "embeddable": true
     }
