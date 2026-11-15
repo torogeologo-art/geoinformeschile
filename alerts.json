@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T07:01:07+00:00",
+ "generado": "2026-11-15T14:01:54+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,48 @@
  },
  "total_vigentes": 27,
  "alertas": [
+  {
+   "id": "f66fe6711d65",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A619-1 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 14-11 16-11 Abrir Aquí Aviso A621-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 15-11 15-11 Abrir aquí Aviso A624-1 Probable desarrollo de nube",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-15T09:16:40.4040-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-14-15-36-40",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "5f4d2cee94c7",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A621-1Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera.15-1115-11 Abrir aquí &nbsp; Aviso A624-1 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en val",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-15T08:26:11.1111-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-14-14-16-28",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1e47e2ce8321",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantienen vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Aviso A619-1 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 14-11 16-11 Abrir aquí Aviso A621-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 15-11 15-11 Abrir aquí Aviso A624-1 Probable desarrollo de nu",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-15T08:10:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-11-14-14-22-49",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "57b697f77469",
    "nivel": "ROJA",
@@ -109,20 +151,6 @@
    "regiones_extra": []
   },
   {
-   "id": "3acdf88963fe",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A619-1 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 14-11 16-11 Abrir Aquí Aviso A621 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 15-11 15-11 Abrir aquí Aviso A624 Probable desarrollo de nubes co",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-14T22:27:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-14-15-36-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "a1ee4730b737",
    "nivel": "ROJA",
    "tipo": "incendio forestal",
@@ -189,34 +217,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-14T18:31:16.1616-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-11-14-18-32-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "1dd25ee8ed2c",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Aviso A619-1 Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera. 14-11 16-11 Abrir aquí Aviso A621 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 15-11 15-11 Abrir aquí Aviso A624 Probable desarrollo de nubes c",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-14T18:22:08.088-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-11-14-14-22-49",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a8b0eeee0651",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A621 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera. 15-11 15-11 Abrir aquí Aviso A624 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en valle. 15-11",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-14T17:51:52.5252-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-14-14-16-28",
    "origen": "senapred_web",
    "regiones_extra": []
   },

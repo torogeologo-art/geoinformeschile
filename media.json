@@ -1,6 +1,188 @@
 {
- "generado": "2026-11-15T07:01:10+00:00",
- "desde": "2026-11-13T07:01:08Z",
+ "generado": "2026-11-15T14:02:08+00:00",
+ "desde": "2026-11-13T14:02:02Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "TnYMjA-tQx8",
+     "url": "https://www.youtube.com/watch?v=TnYMjA-tQx8",
+     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
+     "canal": "La Serena Drone",
+     "publicado": "2026-11-14T00:59:30Z",
+     "live": true,
+     "score": -5.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "vh-NYRIGsUE",
+     "url": "https://www.youtube.com/watch?v=vh-NYRIGsUE",
+     "titulo": "📺 #Ultimominuto | Senapred activa alerta SAE por crecida del Río del Carmen en Atacama",
+     "canal": "Agricultura TV",
+     "publicado": "2026-11-14T16:11:34Z",
+     "live": false,
+     "score": 4.18,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "los lagos": {
+   "comuna": "Los Lagos",
+   "region": "Los Lagos",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "VpFI3EJFRHY",
+     "url": "https://www.youtube.com/watch?v=VpFI3EJFRHY",
+     "titulo": "TERCERA SERIE LIBRE - CLUB LOS LAGOS - ASOCIACION VALDIVIA",
+     "canal": "Servicios para Rodeo",
+     "publicado": "2026-11-15T11:52:03Z",
+     "live": true,
+     "score": 7.82,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "tZj1MJf2Klw",
+     "url": "https://www.youtube.com/watch?v=tZj1MJf2Klw",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M4.8 Argentina y M5.5 Fiyi • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-15T07:21:45Z",
+     "live": true,
+     "score": 4.44,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "tarapaca": {
+   "comuna": "Tarapacá",
+   "region": "Tarapacá",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "tZj1MJf2Klw",
+     "url": "https://www.youtube.com/watch?v=tZj1MJf2Klw",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M4.8 Argentina y M5.5 Fiyi • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-15T07:21:45Z",
+     "live": true,
+     "score": 4.44,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "paihuano": {
+   "comuna": "Paihuano",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "csY_gj8Qsic",
+     "url": "https://www.youtube.com/watch?v=csY_gj8Qsic",
+     "titulo": "Cámara en vivo de Paihuano",
+     "canal": "camara_paihuano",
+     "publicado": "2026-11-13T15:35:26Z",
+     "live": true,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": false
+    }
+   ]
+  },
+  "vicuna": {
+   "comuna": "Vicuña",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "D8GygtPM8dk",
+     "url": "https://www.youtube.com/watch?v=D8GygtPM8dk",
+     "titulo": "Transmisión en vivo de Vicuña con Alameda",
+     "canal": "Vicuña con Alameda",
+     "publicado": "2026-11-14T11:45:39Z",
+     "live": true,
+     "score": 5.81,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "EcMeAPVeRv0",
+     "url": "https://www.youtube.com/watch?v=EcMeAPVeRv0",
+     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 16 (Liga Canta Claro)",
+     "canal": "ADO Canta Claro",
+     "publicado": "2026-11-15T04:15:43Z",
+     "live": false,
+     "score": 7.19,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Is07OEubPw4",
+     "url": "https://www.youtube.com/watch?v=Is07OEubPw4",
+     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 14 (Liga Canta Claro)",
+     "canal": "ADO Canta Claro",
+     "publicado": "2026-11-15T03:47:42Z",
+     "live": false,
+     "score": 7.15,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "3WhIzoLbQgo",
+     "url": "https://www.youtube.com/watch?v=3WhIzoLbQgo",
+     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 12 (Liga Canta Claro)",
+     "canal": "ADO Canta Claro",
+     "publicado": "2026-11-15T03:10:23Z",
+     "live": false,
+     "score": 7.09,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "szipmecV8R4",
+     "url": "https://www.youtube.com/watch?v=szipmecV8R4",
+     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 10 (Liga Canta Claro)",
+     "canal": "ADO Canta Claro",
+     "publicado": "2026-11-15T03:09:52Z",
+     "live": false,
+     "score": 7.09,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "2aihdt7neWE",
+     "url": "https://www.youtube.com/watch?v=2aihdt7neWE",
+     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 8 (Liga Canta Claro)",
+     "canal": "ADO Canta Claro",
+     "publicado": "2026-11-15T02:01:00Z",
+     "live": false,
+     "score": 7.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }
