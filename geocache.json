@@ -274,5 +274,10 @@
 "rio aconcagua|valparaiso": {
 "lat": -32.78876,
 "lon": -70.87591
-}
+},
+"sector cuncumen|coquimbo": {
+"lat": -31.91712,
+"lon": -70.62415
+},
+"sector chapilca|coquimbo": null
 }

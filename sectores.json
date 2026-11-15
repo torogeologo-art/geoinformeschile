@@ -1,17 +1,17 @@
 {
- "generado": "2026-11-14T23:57:37+00:00",
+ "generado": "2026-11-15T06:11:45+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
   {
-   "nombre": "río Aconcagua",
-   "lat": -32.78876,
-   "lon": -70.87591,
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "sae": false,
-   "lugar": "Valparaíso",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04",
-   "ts": "2026-11-14T01:05"
+   "nombre": "sector Cuncumen",
+   "lat": -31.91712,
+   "lon": -70.62415,
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "sae": true,
+   "lugar": "Coquimbo",
+   "url": "https://t.me/SenapredChile/1699",
+   "ts": "2026-11-15T05:14"
   },
   {
    "nombre": "río Claro",

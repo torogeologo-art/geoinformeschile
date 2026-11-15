@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T23:57:45+00:00",
+ "generado": "2026-11-15T06:11:52+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -716,6 +716,48 @@
    "comuna": "Ovalle",
    "noticias": [
     {
+     "titulo": "Senapred emite alerta de evacuación por crecidas de dos ríos en Ovalle - La Tercera",
+     "medio": "La Tercera",
+     "fecha": "2026-11-15T02:09:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb3NhSXpGTzRGd2I2bkV1b2d6VWt6N0xLNUx0ZUVjOW1YTUt3MVczSzlqYjRYT21mWmx0WUNpQWd0QldEX0cwT1dxOENYMFhaUUY5ZmRfZmRqZ3FsWnB6UDdUMlhQWEdxTVlPdDRUOHNYd1NtWW5Xa0FHTlYwR3UwT1pteDN1cE5vaTNVU085NjE4T0dldXVnUDgycVhvMzZrUEdLWThJYXo5Vlh2dzRieWk4MljSAdYBQVVfeXFMT0NtTXcybnkwbHJES3p0LVdpNlBtWXkyOEFWX2c2MUloTWMzWkNhbDBIcGhlc0pnQkZvUkhBZ0FqT2lfd0JLNFNpTENON0t2d191MmNPODltdTFzdWRYMlVmbmVST09yLWZHNHBGQTVRWWFjeGktUllmdVpUZmp0Z0JpM1VSaUhVZXNuaE9rX0RMX0l6SjVIbUFmWkZ1bDlmU0NsbHA3V25kLUZfZHFoWXUxY2RYMU5oR0tzRmpEY2Q2TDRtYk1QSnlaUF96THNLa3UwMnh5UQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred ordena evacuación en Ovalle por desborde de ríos Grande y Limarí - laconexion.cl",
+     "medio": "laconexion.cl",
+     "fecha": "2026-11-15T02:04:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3BzUHdCQUJwZ1M1OWlZSWdlbkVJZmRIQnhPTGtYYk00b0ItRVlwV0U3ZlJwWEM2Mk5wU254SGt4MUxiOUpBVFZBVTAtbnpkejRzSEMzSXlYMUNabWtMdUhianlxbDZjOFEyNUh2SThwMWdELXNZRlZ5OUxXbDZmYjJOMEZONjQxUzBGZTBSbVF6NmhuR0dhQllCTWQ?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred activa alerta y solicita evacuar Ovalle por desborde de los ríos Grande y Limarí - El Reporte Diario",
+     "medio": "El Reporte Diario",
+     "fecha": "2026-11-15T01:46:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMDVuV3BzcTZZZlZkUVQybzl1M2pQSHAxMWliZW83TFp1OTBjb1RnS1dmM2lTOGxoV2pzRWhtNWVseWhfZzFKQ0kxYlRmZkhnSnUzUWI1UFBaS256V1kzQ0dyU1BHaEJIQ092cG5sLXBfeHRvZV9mXy1VYm93WHVkXzk3NzlfTlUtZE1MejVvUzZkOThKNW1UNHFIQVRJVWJwWjJzNFk4QmZUclBZQl8xUDB6am5QSDFkRFFTak8wVTBXUldr?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred activa mensajería SAE y solicita evacuar sectores de Ovalle tras desborde de dos ríos - BioBioChile",
+     "medio": "BioBioChile",
+     "fecha": "2026-11-15T01:31:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeEVIVFBfOXBjX2w5enFhOW00Q3RJamxONExuLXZTSlJwejJZbkhBdnp6d2pqcnQwVXJiQ1BaY2R5a2NITWRYdzNYSUV0anFyQU1WOWo3Z2E2RGVja2xuWjRrakpSS3NGY3BGRVV6ZWdrN3BLd280X3RYWnhEeWE0SVFLTGRrbGZmUG44dVA0STBrRmJYTXM5NHNMRmlReTFHOHlZYmpHVGhaRXV3Sm01Z3huRTdrQkpjSWxILU8zbllCYXlOV1MyQ2QtUkxvemRmbHRvWFI3UDZ1NUtveHVxc19QQzB5aV9OOE5SNDZfWUx2bzYzb1hMUVJHZ2pHY1V0MFZSdDRR?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta SAE: Ordenan evacuar sector El Trapiche Bajo en Ovalle por desborde del Río Limarí - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-11-15T00:09:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQ2Y4S3BFN1BveHZwUTFrNlVuRWlJdVpJNFhXbi1TMmtyVmZVMVFuWUpKSjdlTUFuM1hZMHNfVS1McUk3RnNDVlJTYTdDWDFjWWw0NEI1c3JSdEJWVEg3eG5kcWZwZ2gwaDVoa2JXbE9BdTc1LXdFWFpZREh0Y0E0QlRycVA5eXY4bk83bC05Ql9hRmZUdUcyR1FGUFFVSUpDSFBMNk0xMWo3V3JibUZLSFJiZm5EMXFaLVVwd1lfbFN1Mmx0NWJmYnpQbWNHa3d6TWtBMmF4QmNQRGx0Wm9ocUlQVXVOd3RfQlJrOU1lT0ZORXM?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Senapred ordena evacuar sector La Ensenada en Ovalle por desborde del Río Grande - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-11-15T00:05:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObzlJb2RJZkxEZUtxU19HckFCY1B4MmoxcURzbklobzVJc3hYVVFzQmd4d3hFYmlZeGxMNlY4bFk0SDhDR1RrQkRsNzdJa1gtMFZocVJWbzl6OGsxT1ozaGYydVd4VTBCT0xBWENCcVJJWDI3LWpwZkFQYUI5cEdmLWQtM2FubzRqN055N1B0N3BzcDNNZ2FVU2J0WVRRcVBfRTI4VTRBUGxJVVNXdnZUY0xzWVpVcm1iNGRpSGhrc3ZTYllERnNYbGVZUEtuaWxJb195cGdhbGt3WGE5SGRXTFJzblQtRkVi?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Evacuaciones, viviendas inundadas y familias aisladas dejan crecidas de ríos - El Día",
      "medio": "El Día",
      "fecha": "2026-11-13T22:08:57+00:00",
@@ -741,48 +783,6 @@
      "medio": "Mi Radio",
      "fecha": "2026-11-12T20:46:56+00:00",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFBfMVF1cll4TUhQOGo2WVAtNWhGbzhpOE0xSVpZN1V3Qk53WGM5S1hHRENaTzlUZGpJLUFQa3VNcGtQcVdGNF8zbEZHOGV5OTVZUUVuVWRZd2czZTBlWklkZHBnWTJYLXVjTjNwUHZJajljOTBGU3E0RjFDOERvbTI3aUNodWRabHc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred solicita evacuar sector Trapiche Bajo por desborde del río Limarí - Atacama Noticias",
-     "medio": "Atacama Noticias",
-     "fecha": "2026-11-12T20:15:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVVB3aWdvcVhPZXRuLWlndDJfUXBEcXdFZUY4RW1jV2d1Qm1XU0NvVUFLTnRVaFZ2REpUX3FLeFZEaTZVMnExa05UUEtKaVRQNV9zMEFMS0dHc25LQW41RjlaM1hNV1Jxb1hnZUFRNWpzajFaejB6WHMtdE8wNVdYVDVCNnF0em1ROGNmWHMtQmJiZUwxV3dPSW9OUlltQUNKR1JGNVFtSjdkRHhtUU0yZ2NROXBJY0dG?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alerta SAE: Evacuar sector Trapiche Bajo en Ovalle por desborde del Río Limarí - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-11-12T20:03:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb1lCWjVHSGlWRmNXeUs1clVWaWtfWkZGb0RwLTd5YTlxZlpidFBEMG0wd2xDQWVOWE05TW5sOWM4eFlYekRoZ09OOE5lUTRZUER4ZWFXQ0pGd011aERhaHRQQy1RVDhBMUV4QmJKZU9hM0dXc09KcURfOXRtbGpHNFF3UWgxeldsZkM3ZHZHUVhVU3hZck91c2wyRC02QnU3enVNQ1haZWpXamZKcGlCY05mbUpqaUV4dEgwMWp4STBJSjdNTDZxc0JkR3BQUFZoX0ltVnVFN0QwSEJBN2NGSE5KYW8?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred solicita la evacuación de sector La Ensenada en Ovalle por riesgo de desborde de río Grande - La Tercera",
-     "medio": "La Tercera",
-     "fecha": "2026-11-12T18:52:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOHZ0TzlURVVkNDRUekk4U1VaZ0hSNGZmbzV6NHpCaUpDdWpOclVnUW9IdG03d2t2eHA3MmNjQkZQWXEzM3RoR3l4MGZuRUttWF9ndE8yMVFkWDk4Q2YwREZORG9zUEdwZGRIaGtZdUNPVC1aLTlJTTZQZk9remZJRFZibHBRRlRTczV3Um4wQkZRTUx1UU5fWkNhSTdYYVIwVUJ6TUdoLXNoV0tjYTRQZ3FTWGlfV1R1VFNwRFFROVJNbThRa3FQMnRfNWVwM1BLVm5RbTRVRUgxamFw0gH-AUFVX3lxTE1IbWw4U0d1QjJyWjlyVFdIR180RXRhbkZOUV9hbzBuY1U5d0FlSnQ2WGlKeWhHYS11V2Nydnl2YnlWeWtKQWFzcjZIaUJWaWR6TGlOa28wbk5RaS1tZlhuZ29kQVZ5REtfa25DcEdYV01Mb0xqSGJVamtISFhYSS03SFIwUkRscWVXWlVRT0s5RUFJMWJVUEtocE9teFVNeWFvREdXSFVYQTZVQkNwU1V1VE1pWWV6UW81MmMwMFZMc2FzbE9RUnp1MGxHVkhEdmVWb3JkNkNOZ3lBd3BqYmY5b3JzUEM1M1ROUTVDeENfWFJLamtKLVM1R0p2UVJ3?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred ordena evacuar La Ensenada de Ovalle ante la crecida del río Grande - Canal 9 Bío Bío Televisión",
-     "medio": "Canal 9 Bío Bío Televisión",
-     "fecha": "2026-11-12T18:14:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQS1PRFlYZ1dZQkJFSVBjNlJTdWVHOXhMaGJEOXcxWXZYLVYxZmtYNXh3R1FBWWt4Skc1b1dxdHp5eEdJTGFPNm1sTGJzbFFBRVNjSWVZbzRqeE4wWjhTbXlwUjl5ZndxSjRMR0ZfOV83NE1zamlJazh3cDgxYm91VGdQNnRDYVdZcUtfd3Fxblh2blpaZk9OUmEtTU9nVmFOX1k1cUk2UVZpUGJCdlU4c1lsR3lkb0MyLXpaM2JoMEtIdw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred llama a evacuar sector La Ensenada de Ovalle por desborde del río Grande - Atacama Noticias",
-     "medio": "Atacama Noticias",
-     "fecha": "2026-11-12T17:26:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0lkQm9mbkxyek1wdVBLNExLdk9VeEwySEVST0w5MUlZSmFDMnNBclJTNmppeHloWmlObEw5Y0Zhby1lQktUdVdNTFRfMGJta2dTZk1sQmhnME1tXzRlem9jY1NVaVlUMEFCSW5VY1UtdjF0MmxrR0l2WXFtZlA1MFBKRUJLT3dLMFpsamR1OV9xRC1oT0ltWS1fenk0dnozeUptZGNhVk02YUN3WVBZTWhNMmU1QnhqTzdUMHJqcUFUdw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "SENAPRED ordena evacuar sector La Ensenada en Ovalle por desborde del río Grande - Mi Radio",
-     "medio": "Mi Radio",
-     "fecha": "2026-11-12T17:03:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV2tiZzh5VXhNWjR1Q0FjVDBkOFFnVThLUEw1a2JPd0tVVVhVZXhOd2R5OXZvR0RIZnpLTTZSYzMwNUxMU2pfaTE1eFlzYnlRWWpTWHlNTDl2Zm4wRHpSUno2VnFDcWNHZ2Q0Vm5laWVBRF96am9kdWJhQVkxUXB1b1pXVmNsamFzX2Y1ZFdmMWJlRkl6aHc5eVpaNnVlc09uX2c4S3R2VnE5eVNPQkVZQTdlUXl3Yzdv?oc=5",
      "sector": null
     }
    ]
@@ -1091,6 +1091,13 @@
    "comuna": "Alto del Carmen",
    "noticias": [
     {
+     "titulo": "La Roja perdió a otro defensa: Diego Ulloa fue liberado tras sufrir fractura ante Colombia - Atacama Noticias",
+     "medio": "Atacama Noticias",
+     "fecha": "2026-11-15T00:19:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcDJLWW9nbHp0ZmZKdmt6cXFQSEZpLTZCNGdsMzBpeUgxUU0wVVNteTJURE5PT2VETXJOWUMyMEpjcGlzaUpIQzBFRmYtZHdPbXBYQVVEaC1Rc3Z3NDVOaUlMRXZ0Z0g1SUlEbURJMHJrZW5fdjh1aDZOT25XRmpVdkJPc0daVG5ZOHlsMzZxNE05a2NVeFFVUDF6MC1RU0RCRVIwNXpiZ3RtRVhhLWZFQ3VBVFluWnlkbjlBRUJ6Vzlkd0lVOWZXcUFJakk?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Gobernador de Atacama solicita declarar emergencia por deshielos - laconexion.cl",
      "medio": "laconexion.cl",
      "fecha": "2026-11-14T22:34:48+00:00",
@@ -1098,10 +1105,24 @@
      "sector": null
     },
     {
+     "titulo": "Gobernador de Atacama urge declarar estado de emergencia por deshielos en Alto del Carmen - El Reporte Diario",
+     "medio": "El Reporte Diario",
+     "fecha": "2026-11-14T20:31:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRWYwUUxTa2g5bWkzSTljTzJ4M0hHZUtBZnVTQ1JvVEVQRnF5b3VhaXVrTGN2VExjaHdkU1J2NlpkcFNOcjZkNjF4WVFLUWluZ0xJcGg4NkpxM0U0MHJVekR0dUZvQU9aQzdmaVhOdWhsck1CeXpWWDlhX1hVMDV1eTZDdWxuU3BCYkNobTZzZVlXclFIZTVJR0FIRjkxb2ZvWktXdTFoM1ZhUnQyZGxWMWdfWU1sVk83alhWMnY1RXdhRlR0?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred activa alerta SAE por riesgo de crecida en río del Carmen - laconexion.cl",
      "medio": "laconexion.cl",
      "fecha": "2026-11-14T17:33:44+00:00",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnk2NkI1UHNxa180c1gxLWU4WmZoVUJZXzlZQzVNeUlYUzZMMlREYm05T0V4bTVLZU5aNWFkUEVfYzRGclZrUDZOWHhoWi1SWEtpZXZxTV9VTThVX2FoRmh4V05IUEdfRnpsTTJjUUpKMWFoNUQ1UGFzMHMyZ3FzVkRmdFNuZ0NwTGd4clYxaUswbTg?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alerta SAE en Alto del Carmen: advierten riesgo en la ribera del río - ADN Radio",
+     "medio": "ADN Radio",
+     "fecha": "2026-11-14T16:42:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjRIeDc0UTZLNC0xNk43NkRIS2JENlJ4UkIwOXFhZU1zQmQ4d1VlbHJ3Zzc5QTMzejVtMW9OTXFoS2xCTWNKNEthU08zYTBZUUJaNHQteVBLMkVlWTl2dlpUWmVyZlNQNUlFaWtwVG9US1lac0ZGSFJHX3pibVRHQTlZaGVSSTlCbXZtY1Y4X1hZNlNoVThOV1ExcU83QUk4ZXBDTDhR0gG6AUFVX3lxTE5TdzBmZkhneHVIX19jaGpPR25BTVh2cnQwZWpGQ2dfb3dkUXlUekhENUxLNzRmT0R5SUx5TXlBVVdBd1c4N2FBU2VVYUUxVDFTOVRnTzZtWnVxZXpsb3lIWUtHak5ZOGVWNkQ5azVDcE56ampkTWlfRURtSjZZb0IxVHhhLWNqSFFSQWpGRTRId29YZWpjUGo4ekhMRGxfamRMMXctUnVYZWM2OWFuc2VzX0pWUHQ3ZGluZw?oc=5",
      "sector": null
     },
     {
@@ -1137,27 +1158,6 @@
      "medio": "Medio digital El Zorro Nortino",
      "fecha": "2026-11-14T01:11:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMnpyUzhtUXh3Vy1oUXNMS21fZTlSYzBUQkUzWFJ4ZjBxY3I3dzU0akNrVGF3OW1tU1FLUG5CUjhTa3pveXE0OHZFaVowVVJlbFYwT0MxV29GenhUeEJTdjlwRkFkSVhUakJwZFR4Y3c2MWJXMEU3UzlBYi1fOFBMa3lLVktYbk5RVTlrUU5XajlyS3lVUkhLdHp6QWxHRVpfaHBjRnBldUVTMS1wUnZEbVBxaGZSLUFyVGVkNTd4eXNhT3hNNUpsczM4cmRfRU12ejh2dVQ5aVFQZw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alto del Carmen llama a evacuar zonas de riesgo ante crecida de ríos y cortes de caminos - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-11-13T20:18:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd2ZfRkQwc2lSUkhQYVJpZHJWVDRZUjBjQ2xRbnlGSEF4bFdnemFKYnNIZkczazBvd3ZRQ3p5UE1GMFpWdDJydEJsc3phYkc3RlppcmhldXNJNE1vdnRDaGlOR1BPRnl5dm9ZZlA3T2szT1VhZVl3MXMwRlJiRFlaUGlQUlM4UEctQW45dWhldnFNSkNDVWVFWVJzYXVhaEs4TXBxUzJrWF9EcU5xWDgxNlNTZFoyQQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "SENAPRED mantiene alerta roja en Alto del Carmen por desbordes de ríos y activación de quebradas - Medio digital El Zorro Nortino",
-     "medio": "Medio digital El Zorro Nortino",
-     "fecha": "2026-11-13T00:41:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWFEtUXg4ZmhEY3p5cGZIbDlXV29hbHZpTVJkMjRDbVM1M1RyYUdEemlvQWxRMXhoalRrTURCWkVQME91eTVucnhINm9nd3hNeV9XSEZSelFQYnpPcmVIUW1PQW5FRVdSRGZKTUhEdzBjY3h6aVRRUEZYejNTUS1kMFdKNDgyOVUtcGU2WlRpMTRMR1dOaFRCdlZpTHFNS09RQWhvR1hzZzRCalBkTjE2SnhjSmVZSlB3VVdZRTZ5WkgtNTJ6TXNZMFhITUZRWUZhbWN4Wg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Deshielos en Alto del Carmen: alcalde advierte cerca de 25 puntos críticos y familias aisladas - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-11-12T23:58:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbklPMlFKZGxZU05zYThlY0RxVUxwUGNXVnBrR2ZZU3dEM0ZfaTlKWFE2U1BSY255Y3pZcUFlRGpKSTE3Ml9COHJvRHlPejBZU2RFWk00aXpNWU1RRFBKWHlJOVFzVW90VWhlRHd2M0huYjZkWGxOdlZpaHBiS2lTamwwNEphQkVXNFNKYnFYTk85U3Q4VWFNWjBjVVB0WGt0eWRKMV9xellpdTVNNlZWSHZKNWc3VE1WQ183Mw?oc=5",
      "sector": null
     }
    ]
@@ -1391,6 +1391,24 @@
    "comuna": "Coquimbo",
    "noticias": [
     {
+     "titulo": "Alerta SAE: Senapred ordena evacuar sector Cuncumen en Salamanca por desborde del Río Choapa - VLN Radio",
+     "medio": "VLN Radio",
+     "fecha": "2026-11-15T05:19:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUUhQTTMxWl9ITHBmMDBwQnJ3cmtTOHlYWTVfeThDTEFVdl9JdWNORkExZmNUU0RQeW1UTXZWQmZaRHJwX3dJTTlmSWQ1S0RtY3dESlg4ZEdFdjNoalR2S1hYajQ1cG96bld4bzhuUzdPbjZKd1JhbHpQd2NBY0h0bzdHdWExblF6Yk9qMU5MNUd6RmN6MV9JaWRtVERxdGRDRU9FUFhPNnNsSEpNZFlsWTU4aHZZb0MtVl96OXQ0SXdjTVRrWmZUbC1YWmRWNjdoTkhSSUJnR2NwZ0dIZ2ZyT1E1Z2J4eG1EM0RUZmg2ZGdEQk41am53?oc=5",
+     "sector": {
+      "nombre": "sector Cuncumen",
+      "lat": -31.91712,
+      "lon": -70.62415
+     }
+    },
+    {
+     "titulo": "Autoridades mantienen Alerta Roja por desbordes de ríos y quebradas en siete comunas de Coquimbo - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-11-15T03:24:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZjRybHNBMU9Ed0NpTUUzblVhc3Uyb2luVnRkUm5KdVhiTkxrc0o2Z1MwbVpaT0hMM08tYjVuWlY5cktOS2RvZWVBUmtWejRXanhLajhIR2Fxcm50MHRoUWFGU0NqMkl0ZHRjYjBRNERla0NVR3NrcFNZMG8zQV9VS1hnbjFueFd0bEZPWF9Jb1BqLUxnbDNhN0JtNTN4dEt5Sk5pS2w0d0M3ZXRtMGN2VzhQdnlvMENWWUc2M0YwOHJjQnJFNl8ydl9KV2MzRExZU3BJUjRNdGtOdW5IR3VsaDZFOFlHUFNpeWlQaA?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred ordena evacuación inmediata del sector La Ensenada en Ovalle por desborde del río Grande - Epicentro Chile",
      "medio": "Epicentro Chile",
      "fecha": "2026-11-12T18:49:21+00:00",
@@ -1460,20 +1478,6 @@
      "medio": "Diario de Cuyo",
      "fecha": "2026-08-18T12:21:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTF9KUFh0YnVfaUpxX0dOdnVZX0RoU0hyRk1Pa1VMNmluaTlCLUFtWlU4a3l3T0xESHV3cGdhbDNwT1FMYTNEN0N3WHVGclpsRnNEbUxUekpVVlROaUtMTTNhcDJHMFR6bEZFQ1d0SWJ6Y0R1dkpEN2hfT3lqal8wUTQwQnZFbVd3dEV6UTJQZkdtd2dNMlJVV1N4a3pfdE85VWhqZlpod0UyTmJuX2doNzlMSmc0UTUyN1QtMg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Evacuaciones, quebradas activadas y rutas cortadas: las emergencias que deja el sistema frontal desde Iquique a Coquimbo - madero.cl",
-     "medio": "madero.cl",
-     "fecha": "2026-08-18T01:40:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdHJpTGRHcE5QZnR6YkJZNlZCWjZHazdyVWpSN1dvcE15cDNlQm5ZdUlGZ2wwdjhzcUZuRlNadmpQMzNPZExsUkFTVzBRbkJna0JUelc2bThmcVIxWjMweTNRNVV5Z1dLOHdEcTRjNWlfZ3BFeWJFRHJTUUlJZ1RTVzM3Znd5by00Qy1hcXkyV0ZJTjNDMFM4WFY4QU1QT01jWXdyUWlpZGRtZDZXOHBXM0JJYThsWlZNaTlCaGZJLWJWVy1STWNadUNiU1piZkU1S0cw?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Lluvias dejan cortes de rutas, activación de quebradas y problemas de conectividad - diarioeldia.cl",
-     "medio": "diarioeldia.cl",
-     "fecha": "2026-08-17T22:44:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTVaVmZWYXd2b0Fzenp4UndWNm51aldCakJ6dk92VU9DMFBPb0U4R093NTRnZDF4WVY1VFZaU1poTjZhMFc0dGloYUNmQVdhajVfTnM4SnZYajJJbUZLWENPVkFIWkZUajhDLUs5VThCckpTUWZwV2IyZFRUYlZxRHNRQnRwX0F5bG14VXRrMkk4UVNmYV9BTXpCTmUyOHB2VHlSVXBPTklRYkhIb0N1NXd1TjNlSU9idXJaSWZ4azE3T0dQeDg2ZW5XVC1vejFz?oc=5",
      "sector": null
     }
    ]
