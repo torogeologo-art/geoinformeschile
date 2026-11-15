@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T19:48:23+00:00",
+ "generado": "2026-11-15T20:14:50+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 26,
  "alertas": [
+  {
+   "id": "5f4d2cee94c7",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+   "descripcion": "​ De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A621-2 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en litoral, cordillera de la costa, valle, precordillera y cordillera. 15-11 16-11 Abrir aquí Aviso A624-1 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en va",
+   "region": "La Araucanía",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-15T17:08:42.4242-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-14-14-16-28",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "269d25195d32",
    "nivel": "ATP",
@@ -61,20 +75,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-15T09:16:40.4040-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-14-15-36-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "5f4d2cee94c7",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía: Alertamiento Pronóstico Inicio Fin Enlace Aviso A621-1Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera.15-1115-11 Abrir aquí &nbsp; Aviso A624-1 Probable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en val",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-15T08:26:11.1111-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-14-14-16-28",
    "origen": "senapred_web",
    "regiones_extra": []
   },

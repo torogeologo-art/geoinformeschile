@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-15T19:48:30+00:00",
- "desde": "2026-11-13T19:48:25Z",
+ "generado": "2026-11-15T20:14:56+00:00",
+ "desde": "2026-11-13T20:14:51Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,13 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "XTUXmLcfGAk",
+     "url": "https://www.youtube.com/watch?v=XTUXmLcfGAk",
+     "titulo": "⚽Colo-Colo vs Coquimbo Unido EN VIVO 🎙️ | Semifinal del fútbol femenino",
+     "canal": "Relatos de Fútbol - Pablo Suárez",
+     "publicado": "2026-11-15T15:36:42Z",
+     "live": true,
+     "score": 7.61,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "ow_7Q2fN-vA",
      "url": "https://www.youtube.com/watch?v=ow_7Q2fN-vA",
      "titulo": "🔴VIVO🛰️|⚽️COLO-COLO FEM.⚪⚫🆚 COQUIMBO 🟡⚫🗣RELATO FORMATO📻RADIO🏆LIGA FEMENINA 2026🗓️SEMIFINAL.",
      "canal": "Patricio Ocampo Caceres",
      "publicado": "2026-11-15T15:12:01Z",
      "live": true,
-     "score": 7.62,
+     "score": 7.58,
      "verificado": false,
      "embeddable": true
     },
@@ -26,18 +37,7 @@
      "canal": "Somos Chile",
      "publicado": "2026-11-15T13:29:38Z",
      "live": true,
-     "score": 7.47,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "TnYMjA-tQx8",
-     "url": "https://www.youtube.com/watch?v=TnYMjA-tQx8",
-     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
-     "canal": "La Serena Drone",
-     "publicado": "2026-11-14T00:59:30Z",
-     "live": true,
-     "score": -5.0,
+     "score": 7.44,
      "verificado": false,
      "embeddable": true
     }
@@ -55,7 +55,25 @@
      "canal": "Agricultura TV",
      "publicado": "2026-11-14T16:11:34Z",
      "live": false,
-     "score": 3.7,
+     "score": 3.66,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "antofagasta": {
+   "comuna": "Antofagasta",
+   "region": "Antofagasta",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "liFqqDWthi8",
+     "url": "https://www.youtube.com/watch?v=liFqqDWthi8",
+     "titulo": "MAGALLANES VS. CD. ANTOFAGASTA | LIGA DE ASCENSO - FECHA 30 | EN VIVO !",
+     "canal": "LIGA SPORTS",
+     "publicado": "2026-11-15T12:41:52Z",
+     "live": true,
+     "score": 7.37,
      "verificado": false,
      "embeddable": true
     }
@@ -73,7 +91,7 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-15T19:10:25Z",
      "live": true,
-     "score": 4.95,
+     "score": 4.91,
      "verificado": false,
      "embeddable": true
     }
@@ -91,7 +109,7 @@
      "canal": "Vicuña con Alameda",
      "publicado": "2026-11-14T11:45:39Z",
      "live": true,
-     "score": 5.33,
+     "score": 5.29,
      "verificado": false,
      "embeddable": true
     },
@@ -102,7 +120,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T04:15:43Z",
      "live": false,
-     "score": 6.7,
+     "score": 6.67,
      "verificado": false,
      "embeddable": true
     },
@@ -113,7 +131,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T03:47:42Z",
      "live": false,
-     "score": 6.67,
+     "score": 6.63,
      "verificado": false,
      "embeddable": true
     },
@@ -124,7 +142,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T03:10:23Z",
      "live": false,
-     "score": 6.61,
+     "score": 6.58,
      "verificado": false,
      "embeddable": true
     },
@@ -135,7 +153,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T03:09:52Z",
      "live": false,
-     "score": 6.61,
+     "score": 6.58,
      "verificado": false,
      "embeddable": true
     },
@@ -146,7 +164,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T02:01:00Z",
      "live": false,
-     "score": 6.52,
+     "score": 6.48,
      "verificado": false,
      "embeddable": true
     }
