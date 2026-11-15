@@ -1,13 +1,55 @@
 {
- "generado": "2026-11-15T14:46:41+00:00",
+ "generado": "2026-11-15T19:48:23+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 27,
+ "total_vigentes": 26,
  "alertas": [
+  {
+   "id": "269d25195d32",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A619-1 Viento normal a moderado en cordillera. 15-11 15-11 Abrir Aquí Aviso A623 Viento normal a moderado con viento de dirección ESTE (Raco, puelche) en valle y precordillera. 15-11 15-11 Abrir Aquí Aviso A621-2 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en valle, precordillera y cordillera. 15-11 17-11 A",
+   "region": "Libertador General Bernardo O'Higgins",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-15T16:45:54.5454-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-11-14-17-37-04",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ad7f76c09c13",
+   "nivel": "ROJA",
+   "tipo": "incendio forestal",
+   "titulo": "Se cancela Alerta Roja para la comuna de Chonchi por incendio forestal",
+   "descripcion": "De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED, &nbsp;respecto al incendio forestal en la&nbsp;comuna de Chonchi, se informa el siguiente detalle: Nombre del incendio Huentemo Estado Controlado Superficie 0.18 (ha) Recursos Bomberos de Cucao; 1 técnico de Conaf y 1 móvil carrozado De acuerdo a lo indicado por la Corporación Nacional Forestal (CONAF), se indica que el incendio forestal denominado Huentemo, se encuentra controlado y ya no presenta amenaza al Parque Nacional Chiloé. En consideración a estos antecedentes y en base a la información técnica proporci",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-15T15:35:31.3131-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-chonchi-por-incendio-forestal-2026-11-14-22-22-00",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "597889953fba",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantiene vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A621-1 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera, cordillera y litoral interior. 15-11 15-11 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED modifica el e",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-15T11:00:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-11-14-18-32-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "f66fe6711d65",
    "nivel": "ATP",
@@ -151,20 +193,6 @@
    "regiones_extra": []
   },
   {
-   "id": "a1ee4730b737",
-   "nivel": "ROJA",
-   "tipo": "incendio forestal",
-   "titulo": "Se declara Alerta Roja para la comuna de Chonchi por incendio forestal",
-   "descripcion": "De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED,&nbsp; respecto al incendio forestal en la&nbsp; comuna de Chonchi, se informa el siguiente detalle: Nombre del incendio Huentemo Estado En combate. Superficie 0.01 (ha) Observaciones El incendio forestal se desarrolla cercano a Área Silvestre Protegida (ASP) Parque Nacional Chiloé. En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED declara Alerta Roja para la Comun",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-14T22:21:23.2323-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-chonchi-por-incendio-forestal-2026-11-14-22-22-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "41db9c1eb036",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -203,34 +231,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-14T21:33:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-huasco-freirina-y-vallenar-por-crecida-2026-11-14-21-37-54",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "7a134399abfc",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A621 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y litoral interior. 15-11 15-11 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED declara Alerta Temprana Prev",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-14T18:31:16.1616-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-11-14-18-32-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "b0cc8515acb4",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de O'Higgins por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins: Alertamiento Pronóstico Inicio Fin Enlace Aviso A619-1 Viento normal a moderado en cordillera. 15-11 15-11 Abrir aquí Aviso A623 Viento normal a moderado con viento de dirección ESTE (Raco, puelche) en valle y precordillera. 15-11 15-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED declara Alerta Tempr",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-14T17:35:53.5353-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-11-14-17-37-04",
    "origen": "senapred_web",
    "regiones_extra": []
   },
