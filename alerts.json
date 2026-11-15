@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T06:11:42+00:00",
+ "generado": "2026-11-15T07:01:07+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -21,6 +21,20 @@
    "url": "https://t.me/SenapredChile/1699",
    "origen": "telegram",
    "sae": true
+  },
+  {
+   "id": "f9227bcda062",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de San Felipe por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de Valparaíso, el aumento de caudal del Río Aconcagua motivó la ampliación de la Alerta Amarilla por crecida, donde fueron incorporadas las comunas de Concón, Quintero, Quillota y Limache, sumándose a Los Andes y San Esteban declaradas inicialmente y modificando la cobertura de la presente Alerta Temprana Preventiva. Conforme a lo indicado por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudales en la Región de Valparaíso: Estación Umbral Río Aconcagua en",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-15T02:15:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
+   "origen": "senapred_web",
+   "regiones_extra": []
   },
   {
    "id": "f4c9b642d1c0",
@@ -259,20 +273,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-14T15:38:45.4545-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-11-14-14-06-56",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "822c82ef01d2",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida",
-   "descripcion": "De acuerdo con los antecedentes proporcionados por la Dirección General de Aguas (DGA) y la Municipalidad de Quillota, se mantiene el monitoreo preventivo en el sector Real de Boco, considerado uno de los puntos más expuestos a crecidas del río Aconcagua. El caudal máximo observado fue de 304,22 m³/s, disminuyendo posteriormente a 215,289 m³/s. En tanto, en la comuna de Panquehue, fueron evacuadas preventivamente 3 personas de 2 viviendas ubicadas en la ribera del río, quienes fueron derivadas a casas de familiares. Por otra parte, en la Provincia de San Felipe de Aconcagua, se informó aumento",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-14T01:45:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
    "origen": "senapred_web",
    "regiones_extra": []
   },
