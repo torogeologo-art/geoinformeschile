@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-15T20:14:56+00:00",
- "desde": "2026-11-13T20:14:51Z",
+ "generado": "2026-11-15T23:54:03+00:00",
+ "desde": "2026-11-13T23:53:59Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,35 +9,35 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "XTUXmLcfGAk",
-     "url": "https://www.youtube.com/watch?v=XTUXmLcfGAk",
-     "titulo": "⚽Colo-Colo vs Coquimbo Unido EN VIVO 🎙️ | Semifinal del fútbol femenino",
-     "canal": "Relatos de Fútbol - Pablo Suárez",
-     "publicado": "2026-11-15T15:36:42Z",
+     "id": "E-lKMtDLta0",
+     "url": "https://www.youtube.com/watch?v=E-lKMtDLta0",
+     "titulo": "Coquimbo La Herradura N-E — En vivo",
+     "canal": "Casa Herradura",
+     "publicado": "2026-11-15T20:55:36Z",
      "live": true,
-     "score": 7.61,
+     "score": 7.75,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "ow_7Q2fN-vA",
-     "url": "https://www.youtube.com/watch?v=ow_7Q2fN-vA",
-     "titulo": "🔴VIVO🛰️|⚽️COLO-COLO FEM.⚪⚫🆚 COQUIMBO 🟡⚫🗣RELATO FORMATO📻RADIO🏆LIGA FEMENINA 2026🗓️SEMIFINAL.",
-     "canal": "Patricio Ocampo Caceres",
-     "publicado": "2026-11-15T15:12:01Z",
+     "id": "0tJdtGFgPdc",
+     "url": "https://www.youtube.com/watch?v=0tJdtGFgPdc",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M4.8 Argentina y M4.6 ATLÁNTICO-MARRUECOS (IGN España) • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-15T19:10:25Z",
      "live": true,
-     "score": 7.58,
+     "score": 4.61,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "GwMv_hTDRkE",
-     "url": "https://www.youtube.com/watch?v=GwMv_hTDRkE",
-     "titulo": "🔴VIVO🛰️|⚽️CSD COLO-COLO FEMENINO⚪⚫🆚COQUIMBO U.🟡⚫🗣RELATO FORMATO📻RADIO🏆LIGA FEMENINA 2026🗓️SEMIFINAL",
-     "canal": "Somos Chile",
-     "publicado": "2026-11-15T13:29:38Z",
+     "id": "TnYMjA-tQx8",
+     "url": "https://www.youtube.com/watch?v=TnYMjA-tQx8",
+     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
+     "canal": "La Serena Drone",
+     "publicado": "2026-11-14T00:59:30Z",
      "live": true,
-     "score": 7.44,
+     "score": -5.0,
      "verificado": false,
      "embeddable": true
     }
@@ -55,25 +55,7 @@
      "canal": "Agricultura TV",
      "publicado": "2026-11-14T16:11:34Z",
      "live": false,
-     "score": 3.66,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "antofagasta": {
-   "comuna": "Antofagasta",
-   "region": "Antofagasta",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "liFqqDWthi8",
-     "url": "https://www.youtube.com/watch?v=liFqqDWthi8",
-     "titulo": "MAGALLANES VS. CD. ANTOFAGASTA | LIGA DE ASCENSO - FECHA 30 | EN VIVO !",
-     "canal": "LIGA SPORTS",
-     "publicado": "2026-11-15T12:41:52Z",
-     "live": true,
-     "score": 7.37,
+     "score": 3.36,
      "verificado": false,
      "embeddable": true
     }
@@ -91,7 +73,36 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-15T19:10:25Z",
      "live": true,
-     "score": 4.91,
+     "score": 4.61,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "ovalle": {
+   "comuna": "Ovalle",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "0tJdtGFgPdc",
+     "url": "https://www.youtube.com/watch?v=0tJdtGFgPdc",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M4.8 Argentina y M4.6 ATLÁNTICO-MARRUECOS (IGN España) • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-15T19:10:25Z",
+     "live": true,
+     "score": 4.61,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "E-lKMtDLta0",
+     "url": "https://www.youtube.com/watch?v=E-lKMtDLta0",
+     "titulo": "Coquimbo La Herradura N-E — En vivo",
+     "canal": "Casa Herradura",
+     "publicado": "2026-11-15T20:55:36Z",
+     "live": true,
+     "score": 0.75,
      "verificado": false,
      "embeddable": true
     }
@@ -109,7 +120,7 @@
      "canal": "Vicuña con Alameda",
      "publicado": "2026-11-14T11:45:39Z",
      "live": true,
-     "score": 5.29,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     },
@@ -120,7 +131,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T04:15:43Z",
      "live": false,
-     "score": 6.67,
+     "score": 6.36,
      "verificado": false,
      "embeddable": true
     },
@@ -131,7 +142,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T03:47:42Z",
      "live": false,
-     "score": 6.63,
+     "score": 6.32,
      "verificado": false,
      "embeddable": true
     },
@@ -142,7 +153,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T03:10:23Z",
      "live": false,
-     "score": 6.58,
+     "score": 6.27,
      "verificado": false,
      "embeddable": true
     },
@@ -153,7 +164,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T03:09:52Z",
      "live": false,
-     "score": 6.58,
+     "score": 6.27,
      "verificado": false,
      "embeddable": true
     },
@@ -164,7 +175,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T02:01:00Z",
      "live": false,
-     "score": 6.48,
+     "score": 6.18,
      "verificado": false,
      "embeddable": true
     }

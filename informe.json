@@ -1,32 +1,32 @@
 {
- "generado": "2026-11-15T19:48:31+00:00",
+ "generado": "2026-11-15T23:54:03+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "05-11-2026",
   "hasta": "15-11-2026"
  },
  "totales": {
-  "alertas": 100,
+  "alertas": 104,
   "sae": 9,
   "comunas": 4,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 59,
+   "ATP": 62,
    "AMARILLA": 19,
-   "ROJA": 22
+   "ROJA": 23
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    34
+    36
    ],
    [
     "crecida de río",
-    23
+    24
    ],
    [
     "evento meteorológico",
-    13
+    14
    ],
    [
     "viento",
@@ -177,6 +177,15 @@
     "ts": "14-11",
     "comuna_link": "",
     "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "15-11",
+    "comuna_link": "",
+    "region_link": "coquimbo"
    }
   ],
   "crecida de río": [
@@ -429,11 +438,10 @@
   ]
  },
  "vigentes": {
-  "ROJA": 12,
+  "ROJA": 11,
   "AMARILLA": 2,
-  "ATP": 12,
+  "ATP": 13,
   "regiones_roja": [
-   "Antofagasta",
    "Atacama",
    "Coquimbo",
    "Tarapacá"
@@ -512,9 +520,9 @@
   },
   {
    "fecha": "2026-11-15",
-   "ROJA": 2,
+   "ROJA": 3,
    "AMARILLA": 0,
-   "ATP": 6,
+   "ATP": 9,
    "sae": 1
   }
  ],
@@ -525,11 +533,6 @@
    "sae": true,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "10-11 21:26",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "AMARILLA",
      "ts": "11-11 00:01",
@@ -548,6 +551,11 @@
     {
      "nivel": "ROJA",
      "ts": "14-11 11:17",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "15-11 19:42",
      "estado": "VIGENTE"
     }
    ]
@@ -633,6 +641,11 @@
      "nivel": "ATP",
      "ts": "14-11 23:09",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "15-11 20:36",
+     "estado": "CANCELADA"
     }
    ]
   },
@@ -779,6 +792,42 @@
  ],
  "cronologia": [
   {
+   "ts": "15-11 20:36",
+   "nivel": "ROJA",
+   "lugar": "Región de Antofagasta",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-calor-extremo-2026-11-11-13-20-47"
+  },
+  {
+   "ts": "15-11 20:31",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03"
+  },
+  {
+   "ts": "15-11 19:42",
+   "nivel": "ATP",
+   "lugar": "Región de Coquimbo",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-11-15-19-44-35"
+  },
+  {
+   "ts": "15-11 18:05",
+   "nivel": "ATP",
+   "lugar": "Región de Maule",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-11-13-16-36-34"
+  },
+  {
    "ts": "15-11 16:45",
    "nivel": "ATP",
    "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -867,42 +916,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-11-13-16-36-34"
-  },
-  {
-   "ts": "14-11 21:47",
-   "nivel": "ATP",
-   "lugar": "Región de Atacama",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03"
-  },
-  {
-   "ts": "15-11 00:05",
-   "nivel": "ROJA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "desborde",
-   "sae": true,
-   "estado": "VIGENTE",
-   "url": "https://t.me/SenapredChile/1697"
-  },
-  {
-   "ts": "14-11 18:31",
-   "nivel": "ATP",
-   "lugar": "Región de Los Lagos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-11-14-18-32-10"
-  },
-  {
-   "ts": "14-11 17:35",
-   "nivel": "ATP",
-   "lugar": "Región de Libertador General Bernardo O'Higgins",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-11-14-17-37-04"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

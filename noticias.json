@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T19:48:24+00:00",
+ "generado": "2026-11-15T23:53:59+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -723,6 +723,13 @@
      "sector": null
     },
     {
+     "titulo": "Senapred solicita evacuar dos sectores de Ovalle por desborde de ríos - La Región Hoy",
+     "medio": "La Región Hoy",
+     "fecha": "2026-11-15T12:16:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUhZdEk4QUVERE15VWswVHcyQ2w1N2pJUFhPLTFNUVJjREtneUhHUlU0N2VpWDM4QWMyaHF4c1M4TDR6RFI4VmloZ0lMYnl5eWlWTlcwS19GUUp2SlFYcmNXdl9OY2dEa2NmYThUeUFCX3hKN1I4anJ5dllfd0N2dV96S1dhTVVQWENKbXRCcnBvWlNTNkNMbl9FaTZ1QkJTdGdJUmRSVQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Crecida del río Limarí obliga a evacuar viviendas en Ovalle: Caminos presentan cortes por aumento del caudal - Meganoticias",
      "medio": "Meganoticias",
      "fecha": "2026-11-15T12:16:00+00:00",
@@ -776,13 +783,6 @@
      "medio": "El Día",
      "fecha": "2026-11-13T22:08:57+00:00",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUlA2bzRtQmI3cXliT0duNlotYzkzRjdRRU84dWRJNmJPTkxwa2xjNlAwMzF5QkpXYUh1RzJsdDJTZmkwbWlGT2YwVTJBT1RuNEZUcXFtU0tZVGJNX00teFpmNVNCWjlDeG8tM01ubHpwQ2g4UFRaSm5YY3RLclhNeHFZQXpMMGI2d3pzM19INkluQXhRbjdyMU4wRkV0Z1FENXRVa0JxVHV2RVlEZ0hmM3BWb1BReXZUaTRKYXIxZXE2V3RnS2pILQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Desborde de ríos en Coquimbo obliga a evacuar sectores de Ovalle y mantiene alertas por crecidas - Publimicro",
-     "medio": "Publimicro",
-     "fecha": "2026-11-13T01:31:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTzJvb2tUMGQxMTQtRVBHcGFpQVBzaVNacDluQjRVaVg0WDFTN2NjSHRnb29PRDU0U0MyS2pYSnkwckg3RVJzS0E4VFFPdE9OS2luTHVucV9SNVpxZ1ZNbTRhbmRKRVVfbktySHJCcngwUGZJVmVOMFhtQlp5TzVGX296bUFEaUtONHZpX0lzX3BuV3JxUzBYNHgtUmpzQ0N6LWZwNk95YWFPN1M2VVp1QThMU1hJZk1kN0xR?oc=5",
      "sector": null
     }
    ]
@@ -1091,6 +1091,20 @@
    "comuna": "Alto del Carmen",
    "noticias": [
     {
+     "titulo": "Alertan por aumento de caudal y llaman a evacuar sectores de Alto del Carmen - Puranoticia.cl",
+     "medio": "Puranoticia.cl",
+     "fecha": "2026-11-15T19:51:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGtvTmQyclJ6dVc3M0w2LTJkQ3VmZENKRnBJaWQ0dkdJTEZKd3pSaWNsekhzOHNPQjNjNW5PZU9OYjVIQXB5NjhhY3JFTy1zZ3dJcGtKWU1DRVFUVVZ0amVyeDRBR3ljMndqblhWRGZyd1B0azBkMkpLZ3JneXFkVDljazNwVTV4M2NCeU56VVRkOXhxRTRYV1VMZExqZlR1V2pUTGRfaXc?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Alto del Carmen en alerta por aumento del caudal: autoridades llaman a dejar preventivamente zonas de riesgo - ADN Radio",
+     "medio": "ADN Radio",
+     "fecha": "2026-11-15T18:30:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNFREdE1YQVplUEJTcXlzWTRUZnRiNDRTTkdtQTljdUpZNV9GU2FDc25NUi1rMkVTWjZXd2doek10Zlo4ckE0NmJCdGRMVlhJcVlZbnFuUEYxSXpDVTQ0UEhESHRDc1hmTkQ5LXFOMlp4VTh3cEpQcm1Jci1uanRRRTN3UmVLNXNIdko1b3NEVjBoX1VsMjhPZDdlOVFtcXo2RVFLZTFtaXRPRWhmeUlrdDdzcGxYVElXQ1lXR1lpaWFiT2JIaUl5MHJBTHlZU2hNdTBHbC1ld2RFYlHSAe8BQVVfeXFMUHNibldBeUh4Vl9EZ0NjdVdLLWg2OWpTejlYQzdxZFEyamRfbFhkSERJUkNTZ3VDY2Vqa2xPYU53VkFfUlB3bkxjMWZRVXduZl9GdmlTclgwQ3hPaUROOU1UV1FpRjZPU0N4LTM5WXctOEwtLTFyWmx1bDM4aml3SG5saENxQmwta0NjT1FTM0xvNFdRY0J1SUo1ZTJiNzdjc2RzQUR0U1RSWVpsWHRNbUFkV0g0MFo1UWlTSHpxQ0RxQWZEdEMzV1dnQlhGR0ZHZm5ldFR1bzItRERaUjIxWC1sZnQ2cmExM0hCQUwzcXc?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Alto del Carmen enfrenta aislamiento por deshielos y gobernador solicita medidas extraordinarias al Gobierno - Publimicro",
      "medio": "Publimicro",
      "fecha": "2026-11-15T11:04:41+00:00",
@@ -1144,20 +1158,6 @@
      "medio": "La Tercera",
      "fecha": "2026-11-14T15:18:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOG9TZkVPRTZnQmtNSHVpdDgzNXc1d0s3bzFJN2FnWGJhMld2OWRNQl95MHVRMTgzb1J3eDhnNTBHU1JZazkxekJpTmhpZUlXWTg0Mlk2aEJNVTA1NHNKa3RHRWd1UVd5emhqZENmbVFYb1BWdWstOWlPYzNobW1DcmFtb20zdTJET1BzNHhSZS1hMW5RTk5RZlBYZFMySXItUWdfYTNNRzJYYlU3aXRtaldSbHBoR0p5Si15dktNZFdrRG05Q1o0MkRxNkhBS0xBdm9CSnpYc0bSAfoBQVVfeXFMTlNRZl9DaGh5SDNUX3VjbUs0Zjl1RXJORzdPZFpoTkZReVlrTUg3MmF5YmJMRHhjX0R4eUtZYmxJSEdZNUIwYk8xWXBGY3Nub245N1ZkNjloTWRmVWNjSm1pcVdNWmJDejhDcFVLNUVUdjVUN1N2OV9yU3Fva3NWU2M5VWloM0R1cnE2YTRiOEdVZTRUZnJzMUJFM2h5ZGR5U1ZDSEF4YXdXU3dfb0F0WnhkazZvWEFqcjBJLW9naWJQb3p1Y2RySWkxaVVNdEM4bU9GaW00VmVGdTd6Vm1YXzdGa0dXWWZMbjFjYWN5TXYwNXdKYmVmWXloUQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred activa alerta SAE en Alto del Carmen por crecida del Río del Carmen - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-11-14T14:41:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcnkyYmZ0T2ZudmlYYXZxQTB3NmNZd01LTGtySk9RbldXZzc0cXRhWHZIZV9semQ0TW1oTmVtd21lamRMTU9UeUZmYVk4RkdvcmM4RVY5bnpiZEhLMmxOVjdBV0VmVjdsZExzeDY4aExUN00xV3l4a0JiY0hfTk8tT29RVFk4M1VxdXllOXlQRXRtR1htZ3BJR2F2S05ham83Z2VRc2NBTVpmQ2dzeWItUnlZSUR5NnV2QzZzVmVhTG9Rc01oNlU3ckdDV0ExeGd5RzFjdTFkN1d4Zm0tRHJQbGx3?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Crecidas de ríos en Alto del Carmen mantienen preocupación por deshielos y riesgos para comunidades rurales - Publimicro",
-     "medio": "Publimicro",
-     "fecha": "2026-11-14T09:57:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON2RyYUFpc1BzYTZyWUpqYWRTejkwT21SQXZmX2Y2QVp3ck5ROUtpUjRYd1ZrS2dlTnlPMS1ZUWR4UVIybEVtVl9nTXZyd1NMdmEtQ2ktSTBpOWo4RTdleGFoSl9Gak15UmFxWnRFb1oyTGpUdVZOaFY0TGNUejd4bjNfVmZ0Y3NHVFRsX1pxVUoyTGNlbnk5R04zMkQ2RnVadnpFcDh0V1hoQ2Z6ZDhrZUtpME95VGhhNVJacGQ4cWlWNzAyb29ncm5n?oc=5",
      "sector": null
     }
    ]
@@ -1276,6 +1276,13 @@
      "sector": null
     },
     {
+     "titulo": "Chile activó una alerta por crecidas en Vicuña y pidió alejarse de los ríos - Tiempo de San Juan",
+     "medio": "Tiempo de San Juan",
+     "fecha": "2026-11-13T18:50:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNHJRUFBzZ3Rpc1N0a2E4Y05xczhSaF9tMmtzaDd6N21pUG9mX3hqVEpTUVpRXzNWS2wyckMxWFlzU3dncWxzMXZDb0UzbTR2S2tZTmNSSnhCYWhwZWN1bV9qb0RLVloxRnNuMGg1Mmd6QTA1ZFo1YXlpN1VhTjBSekljQ0lGWWVoU1k2dXN1NDRYZmRaM0J2amRwdWFyX2tjZWVaVWdHVFhnSmJJZjhCX19WQnY4RG5nN04yNHVDZXpZZw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "ALERTA en Vicuña por crecida de ríos: SENAPRED activa mensajería SAE - Radio Agricultura",
      "medio": "Radio Agricultura",
      "fecha": "2026-11-13T12:54:46+00:00",
@@ -1301,13 +1308,6 @@
      "medio": "Mi Radio",
      "fecha": "2026-11-12T21:07:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWWZiRm1PclM4M3RkSS16XzZ3NTNxaWlOcHp1SjZwdVlxbTVUVmxYQ0pyZTNpTVAyTnJDemxodTZ0cTkwYnM1RnhsNk5aYm9JamM5Tks4UTZGUC1TUFRiOWtkOFdEUGZSc1lpeHlEOFdXWU9RVnM2QUx6Zk5tbEQ2aTgwSUh5djlmbHJEcjN5TGZoSnBiNGNkdWtFcW1JZUJHakI4ZHVUTFEyTlZFYTc4VFFmZXpGTmxhVmlQcUltbzUwdVh0WnR3ZEE3QS0?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Embalse Puclaro alcanza cerca del 60% de su capacidad mientras el Río Elqui supera los 100 m³/s - Elquiglobal",
-     "medio": "Elquiglobal",
-     "fecha": "2026-11-12T18:35:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU19LWDRteDdQQTZfQ0c2UGktZEhoVWRTRlhNVDRwQVh3a0ZXZzU2aHhzdUFqUVRBT00wd3RLV3RMQW9jVXpRY2pkV0VSbjZYVU5KTENuRkRvWnExVzFUSjc2NGJCbGFVTmRvUFdVeEtub0ZyY04zaE1aRHg3ZFR0VXpGd3FIYkhFSnVyUzJwSXB5UU1GS3AtS1VMUFVtMDhVY2E4SEpUczluRW9aeUczNzJtSkxxQjRMYmp2RGJRTkc2cElYQ3M0ZWFGcFZJWlg3MTVqZA?oc=5",
      "sector": null
     }
    ]
