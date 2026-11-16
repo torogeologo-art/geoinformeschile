@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T15:33:04+00:00",
+ "generado": "2026-11-16T16:27:57+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 25,
  "alertas": [
+  {
+   "id": "ae261b8c7214",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta y Taltal por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A622-3 Viento normal a moderado en cordillera. 17-11 19-11 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED Mantiene Alerta Temprana Preventiva por viento para la provincia de El Loa y las comunas de Antofagasta y Taltal, que se encuentra vigente desde el 09 d",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-16T12:36:09.099-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-09-14-14-37",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "8156b8300dc7",
    "nivel": "AMARILLA",
@@ -273,20 +287,6 @@
    "url": "https://t.me/SenapredChile/1695",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "5732ec4af775",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Se modifica Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta y Taltal a viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A622 Viento normal a moderado en cordillera. 17-11 18-11 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED modifica el evento de la Alerta Temprana Preventiva a viento para la provincia de El Loa y las comunas de Antofagasta y Taltal , que se encuentra vigente",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-14T23:09:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-09-14-14-37",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "fd53c4871866",

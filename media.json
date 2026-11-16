@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-16T15:33:18+00:00",
- "desde": "2026-11-14T15:33:13Z",
+ "generado": "2026-11-16T16:28:03+00:00",
+ "desde": "2026-11-14T16:27:58Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,13 +9,35 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "5sfgPR61rgY",
+     "url": "https://www.youtube.com/watch?v=5sfgPR61rgY",
+     "titulo": "¡FINAL POR EL ASCENSO! RANGERS A 2ᵃ Y COQUIMBO SIGUE HACIENDO HISTORIA| #JuegueQuienJuegue CAP 65",
+     "canal": "WALKA TV",
+     "publicado": "2026-11-16T15:23:04Z",
+     "live": true,
+     "score": 7.91,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "E-lKMtDLta0",
      "url": "https://www.youtube.com/watch?v=E-lKMtDLta0",
      "titulo": "Coquimbo La Herradura N-E — En vivo",
      "canal": "Casa Herradura",
      "publicado": "2026-11-15T20:55:36Z",
      "live": true,
-     "score": 6.45,
+     "score": 6.37,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "l167CAud1Lo",
+     "url": "https://www.youtube.com/watch?v=l167CAud1Lo",
+     "titulo": "¡COBRELOA VS SAN LUIS POR EL ASCENSO! GUSTAVO GOTTI ES BAJA Y CHUPETE SUAZO VA POR LA GLORIA",
+     "canal": "Radio La Clave",
+     "publicado": "2026-11-16T10:55:29Z",
+     "live": true,
+     "score": 4.54,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +55,7 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-16T07:00:48Z",
      "live": true,
-     "score": 4.29,
+     "score": 4.21,
      "verificado": false,
      "embeddable": true
     },
@@ -44,18 +66,7 @@
      "canal": "MegaTiempo",
      "publicado": "2026-11-15T16:45:51Z",
      "live": false,
-     "score": 4.1,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "vh-NYRIGsUE",
-     "url": "https://www.youtube.com/watch?v=vh-NYRIGsUE",
-     "titulo": "📺 #Ultimominuto | Senapred activa alerta SAE por crecida del Río del Carmen en Atacama",
-     "canal": "Agricultura TV",
-     "publicado": "2026-11-14T16:11:34Z",
-     "live": false,
-     "score": 3.0,
+     "score": 4.02,
      "verificado": false,
      "embeddable": true
     }
@@ -73,7 +84,7 @@
      "canal": "Vicuña con Alameda",
      "publicado": "2026-11-16T11:56:46Z",
      "live": true,
-     "score": 7.7,
+     "score": 7.62,
      "verificado": false,
      "embeddable": true
     },
@@ -84,7 +95,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T04:15:43Z",
      "live": false,
-     "score": 5.06,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     },
@@ -95,7 +106,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T03:47:42Z",
      "live": false,
-     "score": 5.02,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
     },
