@@ -1,8 +1,26 @@
 {
- "generado": "2026-11-16T00:00:22+00:00",
- "desde": "2026-11-14T00:00:19Z",
+ "generado": "2026-11-16T05:57:47+00:00",
+ "desde": "2026-11-14T05:57:43Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "valparaiso": {
+   "comuna": "Valparaíso",
+   "region": "Valparaíso",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "fPIhUWbbbPI",
+     "url": "https://www.youtube.com/watch?v=fPIhUWbbbPI",
+     "titulo": "Viña del Mar EN VIVO 🇨🇱 Cámara urbana | Chile Live Webcam",
+     "canal": "Viña CAM",
+     "publicado": "2026-11-14T22:34:05Z",
+     "live": true,
+     "score": -4.62,
+     "verificado": false,
+     "embeddable": false
+    }
+   ]
+  },
   "coquimbo": {
    "comuna": "Coquimbo",
    "region": "Coquimbo",
@@ -15,29 +33,7 @@
      "canal": "Casa Herradura",
      "publicado": "2026-11-15T20:55:36Z",
      "live": true,
-     "score": 7.74,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "0tJdtGFgPdc",
-     "url": "https://www.youtube.com/watch?v=0tJdtGFgPdc",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M4.8 Argentina y M4.6 ATLÁNTICO-MARRUECOS (IGN España) • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-15T19:10:25Z",
-     "live": true,
-     "score": 4.6,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "TnYMjA-tQx8",
-     "url": "https://www.youtube.com/watch?v=TnYMjA-tQx8",
-     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
-     "canal": "La Serena Drone",
-     "publicado": "2026-11-14T00:59:30Z",
-     "live": true,
-     "score": -5.0,
+     "score": 7.25,
      "verificado": false,
      "embeddable": true
     }
@@ -49,13 +45,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "c4pXgVO30hY",
+     "url": "https://www.youtube.com/watch?v=c4pXgVO30hY",
+     "titulo": "Embalse La Paloma abre cuatro compuertas: Crecida de ríos mantiene en alerta a Coquimbo y Atacama",
+     "canal": "MegaTiempo",
+     "publicado": "2026-11-15T16:45:51Z",
+     "live": false,
+     "score": 4.9,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "vh-NYRIGsUE",
      "url": "https://www.youtube.com/watch?v=vh-NYRIGsUE",
      "titulo": "📺 #Ultimominuto | Senapred activa alerta SAE por crecida del Río del Carmen en Atacama",
      "canal": "Agricultura TV",
      "publicado": "2026-11-14T16:11:34Z",
      "live": false,
-     "score": 3.35,
+     "score": 3.0,
      "verificado": false,
      "embeddable": true
     }
@@ -84,7 +91,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T04:15:43Z",
      "live": false,
-     "score": 6.35,
+     "score": 5.86,
      "verificado": false,
      "embeddable": true
     },
@@ -95,7 +102,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T03:47:42Z",
      "live": false,
-     "score": 6.32,
+     "score": 5.82,
      "verificado": false,
      "embeddable": true
     },
@@ -106,7 +113,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T03:10:23Z",
      "live": false,
-     "score": 6.26,
+     "score": 5.77,
      "verificado": false,
      "embeddable": true
     },
@@ -117,7 +124,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T03:09:52Z",
      "live": false,
-     "score": 6.26,
+     "score": 5.77,
      "verificado": false,
      "embeddable": true
     },
@@ -128,7 +135,7 @@
      "canal": "ADO Canta Claro",
      "publicado": "2026-11-15T02:01:00Z",
      "live": false,
-     "score": 6.17,
+     "score": 5.67,
      "verificado": false,
      "embeddable": true
     }

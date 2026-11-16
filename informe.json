@@ -1,19 +1,19 @@
 {
- "generado": "2026-11-15T23:54:03+00:00",
+ "generado": "2026-11-16T05:57:47+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "05-11-2026",
-  "hasta": "15-11-2026"
+  "desde": "06-11-2026",
+  "hasta": "16-11-2026"
  },
  "totales": {
-  "alertas": 104,
+  "alertas": 106,
   "sae": 9,
   "comunas": 4,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 62,
-   "AMARILLA": 19,
-   "ROJA": 23
+   "ATP": 61,
+   "AMARILLA": 21,
+   "ROJA": 24
   },
   "por_tipo": [
    [
@@ -22,7 +22,7 @@
    ],
    [
     "crecida de río",
-    24
+    26
    ],
    [
     "evento meteorológico",
@@ -30,7 +30,11 @@
    ],
    [
     "viento",
-    12
+    11
+   ],
+   [
+    "desborde",
+    5
    ],
    [
     "incendio forestal",
@@ -38,10 +42,6 @@
    ],
    [
     "remoción en masa",
-    4
-   ],
-   [
-    "desborde",
     4
    ],
    [
@@ -311,15 +311,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "05-11",
-    "comuna_link": "",
-    "region_link": "valparaiso"
-   },
-   {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
     "region": "Magallanes y de la Antártica Chilena",
     "nivel": "ATP",
@@ -365,6 +356,35 @@
     "region_link": "antofagasta"
    }
   ],
+  "desborde": [
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "10-11",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ROJA",
+    "sae": true,
+    "ts": "11-11",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "15-11",
+    "comuna_link": "",
+    "region_link": "valparaiso"
+   }
+  ],
   "incendio forestal": [
    {
     "lugar": "Región de Los Lagos",
@@ -405,26 +425,6 @@
     "region_link": "libertador general bernardo o'higgins"
    }
   ],
-  "desborde": [
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "10-11",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "11-11",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   }
-  ],
   "nevadas": [
    {
     "lugar": "Región de Ñuble",
@@ -438,23 +438,17 @@
   ]
  },
  "vigentes": {
-  "ROJA": 11,
-  "AMARILLA": 2,
+  "ROJA": 12,
+  "AMARILLA": 3,
   "ATP": 13,
   "regiones_roja": [
    "Atacama",
    "Coquimbo",
-   "Tarapacá"
+   "Tarapacá",
+   "Valparaíso"
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-11-05",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
   {
    "fecha": "2026-11-06",
    "ROJA": 0,
@@ -520,10 +514,17 @@
   },
   {
    "fecha": "2026-11-15",
-   "ROJA": 3,
-   "AMARILLA": 0,
+   "ROJA": 4,
+   "AMARILLA": 1,
    "ATP": 9,
    "sae": 1
+  },
+  {
+   "fecha": "2026-11-16",
+   "ROJA": 0,
+   "AMARILLA": 1,
+   "ATP": 0,
+   "sae": 0
   }
  ],
  "escalamientos": [
@@ -567,11 +568,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "AMARILLA",
-     "ts": "09-11 18:36",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "ATP",
      "ts": "10-11 13:11",
      "estado": "VIGENTE"
@@ -589,6 +585,44 @@
     {
      "nivel": "ATP",
      "ts": "14-11 21:47",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "15-11 20:52",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Valparaíso",
+   "region": "Valparaíso",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "11-11 19:56",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "12-11 22:13",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "14-11 01:45",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "15-11 23:31",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "16-11 00:40",
      "estado": "VIGENTE"
     }
    ]
@@ -668,39 +702,6 @@
     {
      "nivel": "ROJA",
      "ts": "14-11 16:41",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
-   "lugar": "Región de Valparaíso",
-   "region": "Valparaíso",
-   "sae": false,
-   "max": "AMARILLA",
-   "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "05-11 21:29",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "11-11 16:03",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "11-11 19:56",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "12-11 22:13",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "14-11 01:45",
      "estado": "VIGENTE"
     }
    ]
@@ -791,6 +792,33 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "16-11 00:40",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Valparaíso",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04"
+  },
+  {
+   "ts": "15-11 23:31",
+   "nivel": "ROJA",
+   "lugar": "Región de Valparaíso",
+   "tipo": "desborde",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comunas-de-concon-quintero-quillota-y-limache-por-desborde-2026-11-15-23-32-36"
+  },
+  {
+   "ts": "15-11 20:52",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Atacama",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-11-15-20-54-08"
+  },
   {
    "ts": "15-11 20:36",
    "nivel": "ROJA",
@@ -889,33 +917,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18"
-  },
-  {
-   "ts": "14-11 23:09",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-09-14-14-37"
-  },
-  {
-   "ts": "14-11 22:21",
-   "nivel": "ROJA",
-   "lugar": "Región de Los Lagos",
-   "tipo": "incendio forestal",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-chonchi-por-incendio-forestal-2026-11-14-22-22-00"
-  },
-  {
-   "ts": "14-11 22:11",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-11-13-16-36-34"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

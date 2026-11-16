@@ -279,5 +279,9 @@
 "lat": -31.91712,
 "lon": -70.62415
 },
-"sector chapilca|coquimbo": null
+"sector chapilca|coquimbo": null,
+"rio huasco|atacama": {
+"lat": -28.55575,
+"lon": -70.83226
+}
 }

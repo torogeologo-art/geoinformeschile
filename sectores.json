@@ -1,7 +1,18 @@
 {
- "generado": "2026-11-15T23:53:52+00:00",
+ "generado": "2026-11-16T05:57:34+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
+  {
+   "nombre": "río Huasco",
+   "lat": -28.55575,
+   "lon": -70.83226,
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "sae": false,
+   "lugar": "Atacama",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-huasco-freirina-y-vallenar-por-crecida-2026-11-14-21-37-54",
+   "ts": "2026-11-15T22:37"
+  },
   {
    "nombre": "sector Cuncumen",
    "lat": -31.91712,
