@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-16T05:57:47+00:00",
- "desde": "2026-11-14T05:57:43Z",
+ "generado": "2026-11-16T06:34:22+00:00",
+ "desde": "2026-11-14T06:34:20Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "valparaiso": {
@@ -15,129 +15,9 @@
      "canal": "Viña CAM",
      "publicado": "2026-11-14T22:34:05Z",
      "live": true,
-     "score": -4.62,
+     "score": -4.67,
      "verificado": false,
      "embeddable": false
-    }
-   ]
-  },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "E-lKMtDLta0",
-     "url": "https://www.youtube.com/watch?v=E-lKMtDLta0",
-     "titulo": "Coquimbo La Herradura N-E — En vivo",
-     "canal": "Casa Herradura",
-     "publicado": "2026-11-15T20:55:36Z",
-     "live": true,
-     "score": 7.25,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "c4pXgVO30hY",
-     "url": "https://www.youtube.com/watch?v=c4pXgVO30hY",
-     "titulo": "Embalse La Paloma abre cuatro compuertas: Crecida de ríos mantiene en alerta a Coquimbo y Atacama",
-     "canal": "MegaTiempo",
-     "publicado": "2026-11-15T16:45:51Z",
-     "live": false,
-     "score": 4.9,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "vh-NYRIGsUE",
-     "url": "https://www.youtube.com/watch?v=vh-NYRIGsUE",
-     "titulo": "📺 #Ultimominuto | Senapred activa alerta SAE por crecida del Río del Carmen en Atacama",
-     "canal": "Agricultura TV",
-     "publicado": "2026-11-14T16:11:34Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "vicuna": {
-   "comuna": "Vicuña",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "D8GygtPM8dk",
-     "url": "https://www.youtube.com/watch?v=D8GygtPM8dk",
-     "titulo": "Transmisión en vivo de Vicuña con Alameda",
-     "canal": "Vicuña con Alameda",
-     "publicado": "2026-11-14T11:45:39Z",
-     "live": true,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "EcMeAPVeRv0",
-     "url": "https://www.youtube.com/watch?v=EcMeAPVeRv0",
-     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 16 (Liga Canta Claro)",
-     "canal": "ADO Canta Claro",
-     "publicado": "2026-11-15T04:15:43Z",
-     "live": false,
-     "score": 5.86,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "Is07OEubPw4",
-     "url": "https://www.youtube.com/watch?v=Is07OEubPw4",
-     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 14 (Liga Canta Claro)",
-     "canal": "ADO Canta Claro",
-     "publicado": "2026-11-15T03:47:42Z",
-     "live": false,
-     "score": 5.82,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "3WhIzoLbQgo",
-     "url": "https://www.youtube.com/watch?v=3WhIzoLbQgo",
-     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 12 (Liga Canta Claro)",
-     "canal": "ADO Canta Claro",
-     "publicado": "2026-11-15T03:10:23Z",
-     "live": false,
-     "score": 5.77,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "szipmecV8R4",
-     "url": "https://www.youtube.com/watch?v=szipmecV8R4",
-     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 10 (Liga Canta Claro)",
-     "canal": "ADO Canta Claro",
-     "publicado": "2026-11-15T03:09:52Z",
-     "live": false,
-     "score": 5.77,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "2aihdt7neWE",
-     "url": "https://www.youtube.com/watch?v=2aihdt7neWE",
-     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 8 (Liga Canta Claro)",
-     "canal": "ADO Canta Claro",
-     "publicado": "2026-11-15T02:01:00Z",
-     "live": false,
-     "score": 5.67,
-     "verificado": false,
-     "embeddable": true
     }
    ]
   }
