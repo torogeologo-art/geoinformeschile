@@ -1,61 +1,21 @@
 {
- "generado": "2026-11-16T16:28:03+00:00",
- "desde": "2026-11-14T16:27:58Z",
+ "generado": "2026-11-16T23:51:36+00:00",
+ "desde": "2026-11-14T23:51:33Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "5sfgPR61rgY",
-     "url": "https://www.youtube.com/watch?v=5sfgPR61rgY",
-     "titulo": "¡FINAL POR EL ASCENSO! RANGERS A 2ᵃ Y COQUIMBO SIGUE HACIENDO HISTORIA| #JuegueQuienJuegue CAP 65",
-     "canal": "WALKA TV",
-     "publicado": "2026-11-16T15:23:04Z",
-     "live": true,
-     "score": 7.91,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "E-lKMtDLta0",
-     "url": "https://www.youtube.com/watch?v=E-lKMtDLta0",
-     "titulo": "Coquimbo La Herradura N-E — En vivo",
-     "canal": "Casa Herradura",
-     "publicado": "2026-11-15T20:55:36Z",
-     "live": true,
-     "score": 6.37,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "l167CAud1Lo",
-     "url": "https://www.youtube.com/watch?v=l167CAud1Lo",
-     "titulo": "¡COBRELOA VS SAN LUIS POR EL ASCENSO! GUSTAVO GOTTI ES BAJA Y CHUPETE SUAZO VA POR LA GLORIA",
-     "canal": "Radio La Clave",
-     "publicado": "2026-11-16T10:55:29Z",
-     "live": true,
-     "score": 4.54,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "atacama": {
    "comuna": "Atacama",
    "region": "Atacama",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "H-JGyteJi_4",
-     "url": "https://www.youtube.com/watch?v=H-JGyteJi_4",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M4.4 México y M4.4 Argentina • Terremotos 24/7",
+     "id": "EWhN77eJ6vw",
+     "url": "https://www.youtube.com/watch?v=EWhN77eJ6vw",
+     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M6.8 en Tanimbar Islands, Indonesia • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-16T07:00:48Z",
+     "publicado": "2026-11-16T18:51:10Z",
      "live": true,
-     "score": 4.21,
+     "score": 4.58,
      "verificado": false,
      "embeddable": true
     },
@@ -66,7 +26,43 @@
      "canal": "MegaTiempo",
      "publicado": "2026-11-15T16:45:51Z",
      "live": false,
-     "score": 4.02,
+     "score": 3.41,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "E-lKMtDLta0",
+     "url": "https://www.youtube.com/watch?v=E-lKMtDLta0",
+     "titulo": "Coquimbo La Herradura N-E — En vivo",
+     "canal": "Casa Herradura",
+     "publicado": "2026-11-15T20:55:36Z",
+     "live": true,
+     "score": 5.76,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "ovalle": {
+   "comuna": "Ovalle",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "KEr8IW1pKng",
+     "url": "https://www.youtube.com/watch?v=KEr8IW1pKng",
+     "titulo": "lunes 16-11-2026  UNGIMIENTO CON ACEITE / CULTO EN VIVO / Iglesia Tiempos de Gloria Chile",
+     "canal": "Iglesia Tiempos de Gloria Chile",
+     "publicado": "2026-11-16T22:23:41Z",
+     "live": true,
+     "score": 4.88,
      "verificado": false,
      "embeddable": true
     }
@@ -84,7 +80,7 @@
      "canal": "Vicuña con Alameda",
      "publicado": "2026-11-16T11:56:46Z",
      "live": true,
-     "score": 7.62,
+     "score": 7.01,
      "verificado": false,
      "embeddable": true
     },

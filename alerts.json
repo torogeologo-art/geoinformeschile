@@ -1,13 +1,55 @@
 {
- "generado": "2026-11-16T16:27:57+00:00",
+ "generado": "2026-11-16T23:51:26+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 25,
+ "total_vigentes": 26,
  "alertas": [
+  {
+   "id": "9b37b0b71eea",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A621-3 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la región. 17-11 17-11 Abrir aquí Aviso A622-3 Viento normal a moderado en cordillera de la región. 16-11 19-11 Abrir aquí Asimismo, con la Actualizado el Aviso Meteorológico A619-2 se da por finalizada la vigencia del aviso para la región, q",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-16T16:22:16.1616-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-11-15-19-44-35",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "82746681544e",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) se reporta que la estación de monitoreo “Río Huasco en el Maitén” en la comuna de Alto del Carmen, se encuentra en umbral azul con tendencia a la baja en su cauce. Por otra parte, de acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Atacama, se registran las siguientes situaciones de emergencia producto de desbordes, activaciones de quebradas y crecidas de cauces en la región: SITUACIONES DE EMERGENCIA Sector y/o Localidad Afectación a personas Daño a viviendas y/o estructuras El Berra",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-16T16:14:29.2929-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "45d5589464d0",
+   "nivel": "AMARILLA",
+   "tipo": "viento",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A622-3 Viento normal a moderado en cordillera (entre 60 – 90 Km/h). 16-11 19-11 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED mantiene Alerta Temprana Preventiva por viento para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen,",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-16T13:43:57.5757-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-11-14-17-33-44",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "ae261b8c7214",
    "nivel": "ATP",
@@ -191,20 +233,6 @@
    "regiones_extra": []
   },
   {
-   "id": "e10e3b7aac11",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A619-1 Viento normal a moderado en cordillera. 15-11 16-11 Abrir aquí Aviso A621-2 Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera. 17-11 17-11 Abrir aquí Aviso A622-2 Viento normal a moderado en cordillera. 16-11 18-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-15T19:42:06.066-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-11-15-19-44-35",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "269d25195d32",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -303,20 +331,6 @@
    "regiones_extra": [
     "Parinacota"
    ]
-  },
-  {
-   "id": "cdd76ac1f792",
-   "nivel": "AMARILLA",
-   "tipo": "viento",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A622 Viento normal a moderado en cordillera. 16-11 18-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por viento para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen , vigente desde hoy y has",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-14T17:32:39.3939-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-11-14-17-33-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "0f4e96a0513a",
@@ -477,20 +491,6 @@
    "url": "https://t.me/SenapredChile/1687",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "1242ce08b83e",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Alerta AA196-3 Altas temperaturas extremas en precordillera de la región. 11-11 12-11 Abrir aquí Además, acorde a lo informado por Dirección General de Aguas (DGA) se reporta que la estación de monitoreo “Río Huasco en el Maiten” en la comuna de Alto del Carmen, se encuentra en umbral azul con tendencia al alza. Por otra parte, de acuerdo con la información proporcionada por l",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-11-11T22:53:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "228b5304077e",
