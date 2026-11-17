@@ -1,28 +1,28 @@
 {
- "generado": "2026-11-17T07:35:10+00:00",
+ "generado": "2026-11-17T17:05:44+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "07-11-2026",
   "hasta": "17-11-2026"
  },
  "totales": {
-  "alertas": 112,
+  "alertas": 115,
   "sae": 9,
   "comunas": 4,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 63,
-   "AMARILLA": 21,
+   "ATP": 65,
+   "AMARILLA": 22,
    "ROJA": 28
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    41
+    43
    ],
    [
     "crecida de río",
-    26
+    27
    ],
    [
     "evento meteorológico",
@@ -447,8 +447,8 @@
   ]
  },
  "vigentes": {
-  "ROJA": 11,
-  "AMARILLA": 3,
+  "ROJA": 8,
+  "AMARILLA": 4,
   "ATP": 12,
   "regiones_roja": [
    "Atacama",
@@ -529,8 +529,8 @@
   {
    "fecha": "2026-11-17",
    "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 2,
+   "AMARILLA": 1,
+   "ATP": 4,
    "sae": 0
   }
  ],
@@ -575,11 +575,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "ROJA",
-     "ts": "10-11 18:41",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "AMARILLA",
      "ts": "14-11 17:32",
      "estado": "VIGENTE"
@@ -597,6 +592,11 @@
     {
      "nivel": "ROJA",
      "ts": "16-11 16:14",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-11 13:30",
      "estado": "VIGENTE"
     }
    ]
@@ -815,6 +815,33 @@
  ],
  "cronologia": [
   {
+   "ts": "17-11 13:30",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Atacama",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-11-15-20-54-08"
+  },
+  {
+   "ts": "17-11 09:07",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-14-15-36-40"
+  },
+  {
+   "ts": "17-11 08:41",
+   "nivel": "ATP",
+   "lugar": "Región de Biobío",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-11-14-14-22-49"
+  },
+  {
    "ts": "17-11 01:57",
    "nivel": "ATP",
    "lugar": "Región de Los Ríos",
@@ -912,33 +939,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comunas-de-concon-quintero-quillota-y-limache-por-desborde-2026-11-15-23-32-36"
-  },
-  {
-   "ts": "16-11 10:19",
-   "nivel": "ATP",
-   "lugar": "Región de Tarapacá",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-2026-11-09-19-00-47"
-  },
-  {
-   "ts": "16-11 10:14",
-   "nivel": "ATP",
-   "lugar": "Región de Ñuble",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-14-15-36-40"
-  },
-  {
-   "ts": "16-11 10:12",
-   "nivel": "ROJA",
-   "lugar": "Región de Tarapacá",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-provincia-del-tamarugal-por-calor-extremo-2026-11-09-18-34-03"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

@@ -1,7 +1,18 @@
 {
- "generado": "2026-11-17T07:34:59+00:00",
+ "generado": "2026-11-17T17:05:32+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
+  {
+   "nombre": "río Copiapó",
+   "lat": -27.53921,
+   "lon": -70.27293,
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "sae": false,
+   "lugar": "Atacama",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-11-15-20-54-08",
+   "ts": "2026-11-17T13:30"
+  },
   {
    "nombre": "río Huasco",
    "lat": -28.55575,
@@ -23,17 +34,6 @@
    "lugar": "Coquimbo",
    "url": "https://t.me/SenapredChile/1699",
    "ts": "2026-11-15T05:14"
-  },
-  {
-   "nombre": "río Claro",
-   "lat": -30.11092,
-   "lon": -70.49367,
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "sae": true,
-   "lugar": "Vicuña",
-   "url": "https://t.me/SenapredChile/1681",
-   "ts": "2026-11-10T12:31"
   }
  ]
 }

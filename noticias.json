@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T07:35:05+00:00",
+ "generado": "2026-11-17T17:05:40+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -716,6 +716,13 @@
    "comuna": "Ovalle",
    "noticias": [
     {
+     "titulo": "Crecida de los ríos mantiene sectores desconectados en Ovalle: municipio buscar gestionar buses de acercamiento - Mi Radio",
+     "medio": "Mi Radio",
+     "fecha": "2026-11-17T14:05:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR1p3bVhwZlVnbGdNT1BxS1RWWTVpVWJLT2NaTGxXaVU2b3JUM3dWLUdUd0VyajE4ck1XTnhzc1lFd05CNHpweXA1cXdoWUNsLVBzLWVVMVhTWGc1NExlVXp3ZlJmakdkWnhBLU10Sm1KSUxWOXFicXlueUVaRmlrU0ZfOXhrbDY2czZF?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Alerta Roja por desborde para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado – La Serena Online - La Serena Online",
      "medio": "La Serena Online",
      "fecha": "2026-11-15T13:00:00+00:00",
@@ -772,17 +779,10 @@
      "sector": null
     },
     {
-     "titulo": "Alerta SAE: Ordenan evacuar sector El Trapiche Bajo en Ovalle por desborde del Río Limarí - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-11-15T00:09:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQ2Y4S3BFN1BveHZwUTFrNlVuRWlJdVpJNFhXbi1TMmtyVmZVMVFuWUpKSjdlTUFuM1hZMHNfVS1McUk3RnNDVlJTYTdDWDFjWWw0NEI1c3JSdEJWVEg3eG5kcWZwZ2gwaDVoa2JXbE9BdTc1LXdFWFpZREh0Y0E0QlRycVA5eXY4bk83bC05Ql9hRmZUdUcyR1FGUFFVSUpDSFBMNk0xMWo3V3JibUZLSFJiZm5EMXFaLVVwd1lfbFN1Mmx0NWJmYnpQbWNHa3d6TWtBMmF4QmNQRGx0Wm9ocUlQVXVOd3RfQlJrOU1lT0ZORXM?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred ordena evacuar sector La Ensenada en Ovalle por desborde del Río Grande - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-11-15T00:05:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObzlJb2RJZkxEZUtxU19HckFCY1B4MmoxcURzbklobzVJc3hYVVFzQmd4d3hFYmlZeGxMNlY4bFk0SDhDR1RrQkRsNzdJa1gtMFZocVJWbzl6OGsxT1ozaGYydVd4VTBCT0xBWENCcVJJWDI3LWpwZkFQYUI5cEdmLWQtM2FubzRqN055N1B0N3BzcDNNZ2FVU2J0WVRRcVBfRTI4VTRBUGxJVVNXdnZUY0xzWVpVcm1iNGRpSGhrc3ZTYllERnNYbGVZUEtuaWxJb195cGdhbGt3WGE5SGRXTFJzblQtRkVi?oc=5",
+     "titulo": "SENAPRED ordena evacuar dos sectores de Ovalle por desbordes de los ríos Grande y Limarí - Mi Radio",
+     "medio": "Mi Radio",
+     "fecha": "2026-11-15T00:13:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWHAzdGVzZ1IzN3UtVVpmaVlHYmdRR0MxRXpudFRCSS1KRzh0Qm40M0VxTmZLeTcyWjZLNTUwc2xTeEt2WnhwLTdwenZvc3BDMVRCVlJBMUpTcHVmeW8xNWNrVk1iX3ZVY0pXZlAyS0RoclVVVXVzT1YxbWJWcmxVdTJVU3NqbkVHa0hmeWVSUmllbnZuX2xjdVpNTFNyU0ZBM2ZpN2lZVlNFN19wOWJ0WXZwdjZpUHN6MFBzak9Pano0QjQ?oc=5",
      "sector": null
     }
    ]
@@ -1091,6 +1091,20 @@
    "comuna": "Alto del Carmen",
    "noticias": [
     {
+     "titulo": "“Pérdida total”: agricultor de Alto del Carmen relata graves daños por desborde del río y advierte riesgo para viviendas - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-11-16T21:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ0lVbjgwNzJ4cnMweldocXp3ZklUOXpTZkRzZ3d6ZFBnRzRxRGZnZFIxc1R0Q1F2R2JFZDRQWXMxSno4SnJNUktxRXpiT2FRQS1Ec3lTSmF1M0hKRmF5Z2pWTXBRbU1sWUZTLTNFLVRRMW1ub19hYzhscWhvT1NvaHI3YVpkbllPRzhBRGh6MGd5Q0hWYl9Rdi1tTGkwc3phQVliaHR2UFpOeFFhd1lRdzJlMEtNbU1Nb1pGUkhuZjEwZ2RHdWVJMEh0ZlZuWmFQcmJ2NnNSWlVReDAz?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Más de 800 aislados en Alto del Carmen: Gobernador formaliza solicitud de emergencia por deshielos - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-11-16T17:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeHV3Ujg3WUNGOHUwSUkwcXloam9zQW9XV1FxNFlzUThleU50X3dfU2F2aVVmMHRSVkNYLWdFT3VEZy1SOVplRUdnc1lyUXpTbUFrQVZYSXJQU19fX19RTnFlVkZXWjNYWFFYeWxHOHFRTnR1SGF1WlF0eUpfdEU3ZWEyNDBpOWUwWkVKWU54dGJfLU1VeEJ1c0tHbTRNVnY1NjRCY3RiNGFDZ1E4djMzd2xfZEJSV0JWTUtQRnVmUzViUQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Emergencia en Alto del Carmen deja personas aisladas y viviendas afectadas - Medio digital El Zorro Nortino",
      "medio": "Medio digital El Zorro Nortino",
      "fecha": "2026-11-16T00:26:48+00:00",
@@ -1144,20 +1158,6 @@
      "medio": "El Reporte Diario",
      "fecha": "2026-11-14T20:31:23+00:00",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRWYwUUxTa2g5bWkzSTljTzJ4M0hHZUtBZnVTQ1JvVEVQRnF5b3VhaXVrTGN2VExjaHdkU1J2NlpkcFNOcjZkNjF4WVFLUWluZ0xJcGg4NkpxM0U0MHJVekR0dUZvQU9aQzdmaVhOdWhsck1CeXpWWDlhX1hVMDV1eTZDdWxuU3BCYkNobTZzZVlXclFIZTVJR0FIRjkxb2ZvWktXdTFoM1ZhUnQyZGxWMWdfWU1sVk83alhWMnY1RXdhRlR0?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred activa alerta SAE por riesgo de crecida en río del Carmen - laconexion.cl",
-     "medio": "laconexion.cl",
-     "fecha": "2026-11-14T17:33:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnk2NkI1UHNxa180c1gxLWU4WmZoVUJZXzlZQzVNeUlYUzZMMlREYm05T0V4bTVLZU5aNWFkUEVfYzRGclZrUDZOWHhoWi1SWEtpZXZxTV9VTThVX2FoRmh4V05IUEdfRnpsTTJjUUpKMWFoNUQ1UGFzMHMyZ3FzVkRmdFNuZ0NwTGd4clYxaUswbTg?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alerta SAE en Alto del Carmen: advierten riesgo en la ribera del río - ADN Radio",
-     "medio": "ADN Radio",
-     "fecha": "2026-11-14T16:42:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjRIeDc0UTZLNC0xNk43NkRIS2JENlJ4UkIwOXFhZU1zQmQ4d1VlbHJ3Zzc5QTMzejVtMW9OTXFoS2xCTWNKNEthU08zYTBZUUJaNHQteVBLMkVlWTl2dlpUWmVyZlNQNUlFaWtwVG9US1lac0ZGSFJHX3pibVRHQTlZaGVSSTlCbXZtY1Y4X1hZNlNoVThOV1ExcU83QUk4ZXBDTDhR0gG6AUFVX3lxTE5TdzBmZkhneHVIX19jaGpPR25BTVh2cnQwZWpGQ2dfb3dkUXlUekhENUxLNzRmT0R5SUx5TXlBVVdBd1c4N2FBU2VVYUUxVDFTOVRnTzZtWnVxZXpsb3lIWUtHak5ZOGVWNkQ5azVDcE56ampkTWlfRURtSjZZb0IxVHhhLWNqSFFSQWpGRTRId29YZWpjUGo4ekhMRGxfamRMMXctUnVYZWM2OWFuc2VzX0pWUHQ3ZGluZw?oc=5",
      "sector": null
     }
    ]
@@ -4621,11 +4621,40 @@
    "comuna": "Atacama",
    "noticias": [
     {
+     "titulo": "Tranque Lautaro aumenta descarga a 8 mil litros por segundo: advierten precaución ante mayor caudal del río Copiapó - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-11-17T15:07:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLTZvekFGLU5vcmJiX0l2MExFX2tVR2FVcXdySFhjRTBlVlJmQWNNc2FJTnlKLUN5ellWN1JiaHVMdXNjeHdwckxCYjlnQ0Rvc3FveER2eHZWY0wyd1VYM19MTUlpNnpBbWxvak5SMlowMTJfWk1YUkdDamZtQjBYcjNqR3daeHp4TkllaHM3d1NqUjhUaTBTQTRPUWs3bU4wNllGWVgzLU9VYUwxQzZ6clMzV3h2ZS03cGE5b1F6X1ZfcjJJWHRkU1pfN1FlVzJ0SE1mbHlNMmM?oc=5",
+     "sector": {
+      "nombre": "río Copiapó",
+      "lat": -27.53921,
+      "lon": -70.27293
+     }
+    },
+    {
+     "titulo": "El SEREMI del Medio Ambiente impulsa nueva etapa del PRAS de Huasco con renovación de su consejo y educación ambiental - Atacama Noticias",
+     "medio": "Atacama Noticias",
+     "fecha": "2026-11-17T10:33:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTjg2VENzc3pJbVRnakZCNUFRVVJjMGVoTXdsaHA5SzVuSkE3anNGeFZvdl8yZGdkcjhVX1dudnNiaXpDeWRxaVpPTldveGQ1c1EzNE1UN09VWk8zUmZ1b3AzSGlSVjJXR3VCeFpEaHlUb3VQa1pYMGN6S3M0X0M3bnQ1WW9yMFdGV0FxbWVxQXloY3BlcF8zc281OVJTVnE2VW5wQTNfZEhyMkxiS0ZrcFpNaTF3MW1pUXdGU2NfMV92Ums4SHRhc19qN1BYMkZLamhxTTcwVktFUHNfOHJzTThsTGpDYVhZS05YcHoxNDVzSGc?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Gobernador de Atacama pide Estado de Emergencia por crecidas de ríos: ¿Cómo siguen las provincias de Copiapó y Huasco? - El Quehaydecierto",
      "medio": "El Quehaydecierto",
      "fecha": "2026-11-16T19:54:03+00:00",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbDFnU3o5UUE0SG5hTjl0bUp4c1dVRHEwTk16VlpRMndqMlQtdFVaNGF2dDhWM1RkZTJOZWtmbE41YWJMeTRUYkVzWVRwUEpwZHFrYVNNcTFpOEhUYmtFN0NUdEdOVWFtUGZfX0IycXpObU5RV2xRQW5aZTBjTHUwSHJ1UUNITkdWUm1WZENZUXpuSWJMZGpvaDZvdkdPWWtlUFJsbEZONHA0WTJ1bXZDejhFVjlMN1BGR3FYNlIxN19SQU9fMldwM0xoV2Y?oc=5",
      "sector": null
+    },
+    {
+     "titulo": "Deshielo en Atacama mantiene en alerta a tres comunas: advierten posibles nuevas crecidas del río Copiapó - Madero CL",
+     "medio": "Madero CL",
+     "fecha": "2026-11-16T14:20:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTXFJX2NTNEV1bGpqdm0xZGxGb0MyR0VpdmlTSE53RUt1cUtnTk5uYkpLSHN1VEpWSkdRT0JVMHNIVlRJMzRJZ1NBUENfekZCLVJPWXo0ZmlHY3pIdWlLU1RjNFNfbzlmcE0tTEp1VldXVEFiNEFwNHR3eUozNHRzRXF5NnB0T1lYWVplb0FmeHdMazdqNkxDSHo1Tk9TS1dvREpTbTZZdjBnSHRwSnNGVTdlOC1RelRYbFhWZDJ4SU0?oc=5",
+     "sector": {
+      "nombre": "río Copiapó",
+      "lat": -27.53921,
+      "lon": -70.27293
+     }
     },
     {
      "titulo": "Evacuación preventiva de 29 personas por crecida del río Huasco en Freirina - laconexion.cl",
@@ -4661,6 +4690,17 @@
      }
     },
     {
+     "titulo": "Río Copiapó bajo monitoreo por aumento de caudales - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-11-14T21:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObVdxbmtwWGVRMVlHd1lUaUkyM05TLWViTGl1dThTWURzWXNFRE96X1V0cWZQb0kySDdhWUxVRUd0SHRoTjM0cERzVkJFRUM5Ny1EeDJuM2tkMTlERnlqRTNWLU9EdDFacDl6YWZrU21jQ3JraHdOeGtFWjdvbzFJYzRWUk9HSjQyR2JMMVZlQkRlcEpWSjAtcjdDZmlTR18xNVBMMS1Kb1lEUUE0SVRQY1N4bnk4dkxaaFJ6NXZLTmh0SGszbG9CVHNQY0VhbW9MSUx5Vg?oc=5",
+     "sector": {
+      "nombre": "río Copiapó",
+      "lat": -27.53921,
+      "lon": -70.27293
+     }
+    },
+    {
      "titulo": "Río Huasco: proyectan más del doble de agua por deshielos - NOSTÁLGICA cl",
      "medio": "NOSTÁLGICA cl",
      "fecha": "2026-10-03T07:00:00+00:00",
@@ -4676,50 +4716,6 @@
      "medio": "NOSTÁLGICA cl",
      "fecha": "2026-10-02T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGstTF9lR09Tb3J2blc4ZU5nTE5CVW9aNTVUS3RxU1FHaHZOeGpuX3dua210QnJjSnRaRXVfSVN5OW1IT2NQZWVYTThsYUU1dUZkZjRjVnNpQXFZNEVlNGJSYXpWdElKbVRBTFRpV2x2Yng1WHdIblFuRUxqYUs0X193cU9JZno2eHVTQ0tsUWVmc0RKWWJBR2dkQWxlLS1mcDRQV2N4dGpNOEZIYzNFQVBvaHItdndKMmRNb05sXzI4UQ?oc=5",
-     "sector": {
-      "nombre": "río Huasco",
-      "lat": -28.55575,
-      "lon": -70.83226
-     }
-    },
-    {
-     "titulo": "Gobierno Regional destinará más de $2 mil millones para recuperar canales de regadío y prevenir desbordes en la cuenca del río Huasco - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-09-08T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdDdTXzkyS3oyUFVqZ1NMMlFwVER5bXZBMXU4bld1VEN1bm5EeTltTTRIU0N1RmdIMUNwMmc1QTlfaVdYWm0xaFFEc0ZTVGpLeW12d3NoUFNyWlRZbEJ5NmFmSGxMUnBCV0tTc3ZSc2RKS2g0UkN0OHZpcDI1VUtfRzJtVWhYSkp5T05xWUt5MHRKalBsNGhvRVRSVDdQTmVPTFU1M3pJRlpFZ1huN2dlcjNaRkRuUGIyazlUZlJxQTNvQnFpS1VETGxxQ2JINVQzQl9PYmtkRXEtRExPTEZLTHMwWng1MFJHaEJuN2Rzank?oc=5",
-     "sector": {
-      "nombre": "río Huasco",
-      "lat": -28.55575,
-      "lon": -70.83226
-     }
-    },
-    {
-     "titulo": "Crecida del río Huasco destruye ciclovía en Vallenar: Autoridades activan alerta SAE por riesgo de desborde - Meganoticias",
-     "medio": "Meganoticias",
-     "fecha": "2026-07-19T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMnZOaTlGWXhINmlidHZXUDFPYWNTZFhUdVpzNDRJY3FQVzl2a1kxOFIxbno4UDJsMWxFVlZLNTNoS3dzZVdINUFxZDd6OHgtRXpkSl9KU1E5Rm9ObGpoZEV5Y2FhZjNHd3Iza2tiSkFIQzRYemVDNEZHS3ZfdzY5OFVJM3ZmYTlwTWxtM1htMzlKdTNic0FLS0x6eW9lUHdubWJ1N2pXYjdLTHZBaXl6eFRobXVYQ0Ju0gG-AUFVX3lxTFBzOUMwV2s0T1FqRjlFUFF2WlNzamJ6eHFZT1BNZ0t6Z0tHRDhHRG9RLVJZS0ZTSFZTUlFoa1IwOVpocG1YWUZYbHNqQVhyRGVvNmJjdFZzWWRPay1WNzIyME9wRy1MWUVKUHpiUUxXdWl6WlA2SldaVlJYRXJ1MlExZTJaNUdNRjRORzNDdE84c29mdnFtVnE4NnB3U1JBam4xNVYweGVOU2t4aVdiWWpJbm43WmxBNXdVbUdnY0E?oc=5",
-     "sector": {
-      "nombre": "río Huasco",
-      "lat": -28.55575,
-      "lon": -70.83226
-     }
-    },
-    {
-     "titulo": "Desembocadura del Río Huasco es declarada humedal urbano protegido - 24horas",
-     "medio": "24horas",
-     "fecha": "2025-12-19T14:02:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR1p5Z1I5YmlwS2xGbW4yenNSY1VNVU0tN2pmQlU2VDFYQzRXVDlWSE1ZMEttaGtIelRDOGVxWXZ0STlwUlJUbF9nUTllVG0tUEdTSU4wQmtCb3B6bUtRcGswalVQTUo5QjA1ejRrZjJubExJUW56M2w1ZWIzZlowR09YSU5oUVgwUVdxTlRUeG1VTDhrUWhMVW1VeUJoRTNMS09zMDFR?oc=5",
-     "sector": {
-      "nombre": "río Huasco",
-      "lat": -28.55575,
-      "lon": -70.83226
-     }
-    },
-    {
-     "titulo": "Desembocadura del Río Huasco en Atacama es declarada como nuevo Humedal Urbano - Cooperativa Ciencia",
-     "medio": "Cooperativa Ciencia",
-     "fecha": "2025-12-18T08:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOFFGLXRNV1U2UnhvZzlIWDNybjg2dm5FZzZrQ1RFRzgyTno1TG5JTldZZFA5bkVXRkxscmRUbWhzRmpPOEtJYVlSeXBTeHdJcmtZdlA4N2twTVFhZG9TVEk0S01PdmJnNl9zdFdjTjFGbFFzOTZvcEVNTHZnSWtfUmxXMDBzUGJNY3RWSEEzdTFMemlJVVIzRlRJTHpMNDFPRGZyRWRjUnN3SGxXYS0zajItbS1DYld3LVdhNTJiR2NSVWN0TkZZbllCOEYtNk9maHYyRVdR?oc=5",
      "sector": {
       "nombre": "río Huasco",
       "lat": -28.55575,

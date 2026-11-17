@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-17T08:21:38+00:00",
- "desde": "2026-11-15T08:21:34Z",
+ "generado": "2026-11-17T17:05:43+00:00",
+ "desde": "2026-11-15T17:05:41Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,13 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "c4pXgVO30hY",
-     "url": "https://www.youtube.com/watch?v=c4pXgVO30hY",
-     "titulo": "Embalse La Paloma abre cuatro compuertas: Crecida de ríos mantiene en alerta a Coquimbo y Atacama",
-     "canal": "MegaTiempo",
-     "publicado": "2026-11-15T16:45:51Z",
+     "id": "F2w8vjSENkg",
+     "url": "https://www.youtube.com/watch?v=F2w8vjSENkg",
+     "titulo": "Crecidas de ríos en el norte por deshielos: Más de 830 personas aisladas entre Atacama y Coquimbo",
+     "canal": "CHV Noticias",
+     "publicado": "2026-11-17T15:30:40Z",
      "live": false,
-     "score": 3.0,
+     "score": 5.87,
      "verificado": false,
      "embeddable": true
     }
@@ -33,25 +33,29 @@
      "canal": "Casa Herradura",
      "publicado": "2026-11-15T20:55:36Z",
      "live": true,
-     "score": 5.05,
+     "score": 5.0,
      "verificado": false,
      "embeddable": true
-    }
-   ]
-  },
-  "vicuna": {
-   "comuna": "Vicuña",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
+    },
     {
-     "id": "D7bGUhcE25s",
-     "url": "https://www.youtube.com/watch?v=D7bGUhcE25s",
-     "titulo": "Transmisión en vivo de Vicuña con Alameda",
-     "canal": "Vicuña con Alameda",
-     "publicado": "2026-11-16T11:56:46Z",
+     "id": "mOlnt5noJx4",
+     "url": "https://www.youtube.com/watch?v=mOlnt5noJx4",
+     "titulo": "🔴 ¡En Vivo! La U cambia de directorio, Ortiz sigue en Colo-Colo y La Roja cae | Los de la Banca",
+     "canal": "Canal MOX",
+     "publicado": "2026-11-17T14:19:10Z",
      "live": true,
-     "score": 6.3,
+     "score": 4.77,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "0fx1qaE5QHI",
+     "url": "https://www.youtube.com/watch?v=0fx1qaE5QHI",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M6.6 Indonesia y M5.4 Perú • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-17T06:41:36Z",
+     "live": true,
+     "score": 4.13,
      "verificado": false,
      "embeddable": true
     }
