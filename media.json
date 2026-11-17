@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-17T17:47:50+00:00",
- "desde": "2026-11-15T17:47:47Z",
+ "generado": "2026-11-17T23:51:57+00:00",
+ "desde": "2026-11-15T23:51:53Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,13 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "qC9Th-ByN8A",
+     "url": "https://www.youtube.com/watch?v=qC9Th-ByN8A",
+     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M4.1 en México (Comitán y Tuxtla Gutiérrez) • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-17T18:32:01Z",
+     "live": true,
+     "score": 4.56,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "F2w8vjSENkg",
      "url": "https://www.youtube.com/watch?v=F2w8vjSENkg",
      "titulo": "Crecidas de ríos en el norte por deshielos: Más de 830 personas aisladas entre Atacama y Coquimbo",
      "canal": "CHV Noticias",
      "publicado": "2026-11-17T15:30:40Z",
      "live": false,
-     "score": 5.81,
+     "score": 5.3,
      "verificado": false,
      "embeddable": true
     }
@@ -27,24 +38,31 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "E-lKMtDLta0",
-     "url": "https://www.youtube.com/watch?v=E-lKMtDLta0",
-     "titulo": "Coquimbo La Herradura N-E — En vivo",
-     "canal": "Casa Herradura",
-     "publicado": "2026-11-15T20:55:36Z",
-     "live": true,
-     "score": 5.0,
+     "id": "F2w8vjSENkg",
+     "url": "https://www.youtube.com/watch?v=F2w8vjSENkg",
+     "titulo": "Crecidas de ríos en el norte por deshielos: Más de 830 personas aisladas entre Atacama y Coquimbo",
+     "canal": "CHV Noticias",
+     "publicado": "2026-11-17T15:30:40Z",
+     "live": false,
+     "score": 5.3,
      "verificado": false,
      "embeddable": true
-    },
+    }
+   ]
+  },
+  "ovalle": {
+   "comuna": "Ovalle",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
     {
-     "id": "0fx1qaE5QHI",
-     "url": "https://www.youtube.com/watch?v=0fx1qaE5QHI",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M6.6 Indonesia y M5.4 Perú • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-17T06:41:36Z",
+     "id": "CXvjRcFU3uc",
+     "url": "https://www.youtube.com/watch?v=CXvjRcFU3uc",
+     "titulo": "martes 17-11-2026  UNGIMIENTO CON ACEITE / CULTO EN VIVO / Iglesia Tiempos de Gloria Chile",
+     "canal": "Iglesia Tiempos de Gloria Chile",
+     "publicado": "2026-11-17T22:25:35Z",
      "live": true,
-     "score": 4.07,
+     "score": 4.88,
      "verificado": false,
      "embeddable": true
     }
