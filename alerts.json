@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T23:51:26+00:00",
+ "generado": "2026-11-17T00:25:29+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -1725,20 +1725,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-18T11:25:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-10-16-19-56-03",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e0a57c44c645",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se ha cancelado el siguiente alertamiento meteorológico para la Región de Los Ríos, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A557 Probables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones asiladas en precordillera y cordillera. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de&nbsp;Los Ríos, la Dirección Regional del SENAPRED Cancela Alerta Temprana Preventiv",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-17T22:56:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-11-19-21-00",
    "origen": "senapred_web",
    "regiones_extra": []
   },

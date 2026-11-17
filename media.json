@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-16T23:51:36+00:00",
- "desde": "2026-11-14T23:51:33Z",
+ "generado": "2026-11-17T00:25:34+00:00",
+ "desde": "2026-11-15T00:25:30Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -15,7 +15,7 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-16T18:51:10Z",
      "live": true,
-     "score": 4.58,
+     "score": 4.54,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "MegaTiempo",
      "publicado": "2026-11-15T16:45:51Z",
      "live": false,
-     "score": 3.41,
+     "score": 3.36,
      "verificado": false,
      "embeddable": true
     }
@@ -38,13 +38,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "PGu_3wDqmC4",
+     "url": "https://www.youtube.com/watch?v=PGu_3wDqmC4",
+     "titulo": "PLAN REMONTADA #10 | La Roja busca revancha. Primera B al rojo vivo y Coquimbo campeón.",
+     "canal": "Plan Remontada",
+     "publicado": "2026-11-17T00:08:12Z",
+     "live": true,
+     "score": 7.98,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "E-lKMtDLta0",
      "url": "https://www.youtube.com/watch?v=E-lKMtDLta0",
      "titulo": "Coquimbo La Herradura N-E — En vivo",
      "canal": "Casa Herradura",
      "publicado": "2026-11-15T20:55:36Z",
      "live": true,
-     "score": 5.76,
+     "score": 5.71,
      "verificado": false,
      "embeddable": true
     }
@@ -62,7 +73,7 @@
      "canal": "Iglesia Tiempos de Gloria Chile",
      "publicado": "2026-11-16T22:23:41Z",
      "live": true,
-     "score": 4.88,
+     "score": 4.83,
      "verificado": false,
      "embeddable": true
     }
@@ -80,7 +91,7 @@
      "canal": "Vicuña con Alameda",
      "publicado": "2026-11-16T11:56:46Z",
      "live": true,
-     "score": 7.01,
+     "score": 6.96,
      "verificado": false,
      "embeddable": true
     },
