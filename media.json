@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-17T00:25:34+00:00",
- "desde": "2026-11-15T00:25:30Z",
+ "generado": "2026-11-17T07:35:09+00:00",
+ "desde": "2026-11-15T07:35:06Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,24 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "EWhN77eJ6vw",
-     "url": "https://www.youtube.com/watch?v=EWhN77eJ6vw",
-     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M6.8 en Tanimbar Islands, Indonesia • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-16T18:51:10Z",
-     "live": true,
-     "score": 4.54,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "c4pXgVO30hY",
      "url": "https://www.youtube.com/watch?v=c4pXgVO30hY",
      "titulo": "Embalse La Paloma abre cuatro compuertas: Crecida de ríos mantiene en alerta a Coquimbo y Atacama",
      "canal": "MegaTiempo",
      "publicado": "2026-11-15T16:45:51Z",
      "live": false,
-     "score": 3.36,
+     "score": 3.0,
      "verificado": false,
      "embeddable": true
     }
@@ -38,42 +27,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "PGu_3wDqmC4",
-     "url": "https://www.youtube.com/watch?v=PGu_3wDqmC4",
-     "titulo": "PLAN REMONTADA #10 | La Roja busca revancha. Primera B al rojo vivo y Coquimbo campeón.",
-     "canal": "Plan Remontada",
-     "publicado": "2026-11-17T00:08:12Z",
-     "live": true,
-     "score": 7.98,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "E-lKMtDLta0",
      "url": "https://www.youtube.com/watch?v=E-lKMtDLta0",
      "titulo": "Coquimbo La Herradura N-E — En vivo",
      "canal": "Casa Herradura",
      "publicado": "2026-11-15T20:55:36Z",
      "live": true,
-     "score": 5.71,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "ovalle": {
-   "comuna": "Ovalle",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "KEr8IW1pKng",
-     "url": "https://www.youtube.com/watch?v=KEr8IW1pKng",
-     "titulo": "lunes 16-11-2026  UNGIMIENTO CON ACEITE / CULTO EN VIVO / Iglesia Tiempos de Gloria Chile",
-     "canal": "Iglesia Tiempos de Gloria Chile",
-     "publicado": "2026-11-16T22:23:41Z",
-     "live": true,
-     "score": 4.83,
+     "score": 5.11,
      "verificado": false,
      "embeddable": true
     }
@@ -91,62 +51,7 @@
      "canal": "Vicuña con Alameda",
      "publicado": "2026-11-16T11:56:46Z",
      "live": true,
-     "score": 6.96,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "EcMeAPVeRv0",
-     "url": "https://www.youtube.com/watch?v=EcMeAPVeRv0",
-     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 16 (Liga Canta Claro)",
-     "canal": "ADO Canta Claro",
-     "publicado": "2026-11-15T04:15:43Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "Is07OEubPw4",
-     "url": "https://www.youtube.com/watch?v=Is07OEubPw4",
-     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 14 (Liga Canta Claro)",
-     "canal": "ADO Canta Claro",
-     "publicado": "2026-11-15T03:47:42Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "3WhIzoLbQgo",
-     "url": "https://www.youtube.com/watch?v=3WhIzoLbQgo",
-     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 12 (Liga Canta Claro)",
-     "canal": "ADO Canta Claro",
-     "publicado": "2026-11-15T03:10:23Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "szipmecV8R4",
-     "url": "https://www.youtube.com/watch?v=szipmecV8R4",
-     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 10 (Liga Canta Claro)",
-     "canal": "ADO Canta Claro",
-     "publicado": "2026-11-15T03:09:52Z",
-     "live": false,
-     "score": 5.0,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "2aihdt7neWE",
-     "url": "https://www.youtube.com/watch?v=2aihdt7neWE",
-     "titulo": "Victor Vicuña VS Maracaibo Sport | Sub 8 (Liga Canta Claro)",
-     "canal": "ADO Canta Claro",
-     "publicado": "2026-11-15T02:01:00Z",
-     "live": false,
-     "score": 5.0,
+     "score": 6.36,
      "verificado": false,
      "embeddable": true
     }

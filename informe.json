@@ -1,9 +1,9 @@
 {
- "generado": "2026-11-16T23:51:36+00:00",
+ "generado": "2026-11-17T07:35:10+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "06-11-2026",
-  "hasta": "16-11-2026"
+  "desde": "07-11-2026",
+  "hasta": "17-11-2026"
  },
  "totales": {
   "alertas": 112,
@@ -11,18 +11,18 @@
   "comunas": 4,
   "regiones": 15,
   "por_nivel": {
-   "AMARILLA": 22,
-   "ATP": 62,
+   "ATP": 63,
+   "AMARILLA": 21,
    "ROJA": 28
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    39
+    41
    ],
    [
     "crecida de río",
-    28
+    26
    ],
    [
     "evento meteorológico",
@@ -457,17 +457,10 @@
  },
  "serie": [
   {
-   "fecha": "2026-11-06",
-   "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 0,
-   "sae": 0
-  },
-  {
    "fecha": "2026-11-07",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 3,
+   "ATP": 2,
    "sae": 0
   },
   {
@@ -531,6 +524,13 @@
    "ROJA": 4,
    "AMARILLA": 2,
    "ATP": 7,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-11-17",
+   "ROJA": 0,
+   "AMARILLA": 0,
+   "ATP": 2,
    "sae": 0
   }
  ],
@@ -815,6 +815,24 @@
  ],
  "cronologia": [
   {
+   "ts": "17-11 01:57",
+   "nivel": "ATP",
+   "lugar": "Región de Los Ríos",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-11-14-14-06-56"
+  },
+  {
+   "ts": "17-11 01:00",
+   "nivel": "ATP",
+   "lugar": "Región de La Araucanía",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-14-14-16-28"
+  },
+  {
    "ts": "16-11 16:22",
    "nivel": "ATP",
    "lugar": "Región de Coquimbo",
@@ -921,24 +939,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-provincia-del-tamarugal-por-calor-extremo-2026-11-09-18-34-03"
-  },
-  {
-   "ts": "16-11 00:40",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Valparaíso",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04"
-  },
-  {
-   "ts": "15-11 23:31",
-   "nivel": "ROJA",
-   "lugar": "Región de Valparaíso",
-   "tipo": "desborde",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-las-comunas-de-concon-quintero-quillota-y-limache-por-desborde-2026-11-15-23-32-36"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T23:51:32+00:00",
+ "generado": "2026-11-17T07:35:05+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -4621,6 +4621,13 @@
    "comuna": "Atacama",
    "noticias": [
     {
+     "titulo": "Gobernador de Atacama pide Estado de Emergencia por crecidas de ríos: ¿Cómo siguen las provincias de Copiapó y Huasco? - El Quehaydecierto",
+     "medio": "El Quehaydecierto",
+     "fecha": "2026-11-16T19:54:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbDFnU3o5UUE0SG5hTjl0bUp4c1dVRHEwTk16VlpRMndqMlQtdFVaNGF2dDhWM1RkZTJOZWtmbE41YWJMeTRUYkVzWVRwUEpwZHFrYVNNcTFpOEhUYmtFN0NUdEdOVWFtUGZfX0IycXpObU5RV2xRQW5aZTBjTHUwSHJ1UUNITkdWUm1WZENZUXpuSWJMZGpvaDZvdkdPWWtlUFJsbEZONHA0WTJ1bXZDejhFVjlMN1BGR3FYNlIxN19SQU9fMldwM0xoV2Y?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Evacuación preventiva de 29 personas por crecida del río Huasco en Freirina - laconexion.cl",
      "medio": "laconexion.cl",
      "fecha": "2026-11-16T12:34:34+00:00",
@@ -4713,17 +4720,6 @@
      "medio": "Cooperativa Ciencia",
      "fecha": "2025-12-18T08:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOFFGLXRNV1U2UnhvZzlIWDNybjg2dm5FZzZrQ1RFRzgyTno1TG5JTldZZFA5bkVXRkxscmRUbWhzRmpPOEtJYVlSeXBTeHdJcmtZdlA4N2twTVFhZG9TVEk0S01PdmJnNl9zdFdjTjFGbFFzOTZvcEVNTHZnSWtfUmxXMDBzUGJNY3RWSEEzdTFMemlJVVIzRlRJTHpMNDFPRGZyRWRjUnN3SGxXYS0zajItbS1DYld3LVdhNTJiR2NSVWN0TkZZbllCOEYtNk9maHYyRVdR?oc=5",
-     "sector": {
-      "nombre": "río Huasco",
-      "lat": -28.55575,
-      "lon": -70.83226
-     }
-    },
-    {
-     "titulo": "Humedal del Río Huasco se convierte en zona protegida y es el 140 a nivel nacional - Fundación Terram",
-     "medio": "Fundación Terram",
-     "fecha": "2025-12-18T08:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0F3VlJMeU9MZ1A2UFdrczc1T2Z0c1VlWl94SktPdk82WEdsZTg5NmIxRENQblRpYlFrWUtweEZ2N2RpZkhwX2c5cWlQLURiMHc3bDZZMmVmUlhLbGZmNHdLMDZ0ZjRKTjZFaHZzZlhPRmZUTlphbGprTXhGNV9iRXRkc1dWLWx2SV9BUnpfR2ZwN0Zob0JPMnptdWhzYlRvS2c3X2ZhZGw?oc=5",
      "sector": {
       "nombre": "río Huasco",
       "lat": -28.55575,
