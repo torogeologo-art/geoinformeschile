@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T23:51:53+00:00",
+ "generado": "2026-11-18T06:57:59+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -1091,6 +1091,13 @@
    "comuna": "Alto del Carmen",
    "noticias": [
     {
+     "titulo": "​CGE refuerza monitoreo y despliega medidas operativas ante contingencia en Alto del Carmen - Radio Atacama",
+     "medio": "Radio Atacama",
+     "fecha": "2026-11-17T22:34:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUWFwOERDNmx0V2pyZ2ZRazVWZWUzTWF0RVNhZmZxNFVhbkNSTDdYWVkyWHFmYW1kQ1VicndlV2NuWTd4RGhPWjZRekQtZGl3dFB5eEFHTmphdEY2SWtadDdISEpSZFY0MlpqZm9oZkw0aHN6dW1vZElvZU1oYUdEWmc4WjRlVlBqQ2I4OFk3S2lTWkdSYXBtVEZTcDd3MEwzdEJzX0g2LXpuQmtWaEpUbFpyRQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "“Pérdida total”: agricultor de Alto del Carmen relata graves daños por desborde del río y advierte riesgo para viviendas - NOSTÁLGICA cl",
      "medio": "NOSTÁLGICA cl",
      "fecha": "2026-11-16T21:00:00+00:00",
@@ -1151,13 +1158,6 @@
      "medio": "laconexion.cl",
      "fecha": "2026-11-14T22:34:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUFp0czJGSHNfcnpQOVdJYUVFeVhCb1UyMG1NZXk2U3RXb0RfeVhxMkZmRkpVd1QtY3M4d1Q2MmU0WFNoMTNyem1KaWVTNmljRjVRZHBDczhseTRVa3VSTjB2WTNMMEIxN293WDNROHZsQmdVVUZ3eGxyTktvSUhGY3JKanJZZE1nRjlxS1pqRFU?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Gobernador de Atacama urge declarar estado de emergencia por deshielos en Alto del Carmen - El Reporte Diario",
-     "medio": "El Reporte Diario",
-     "fecha": "2026-11-14T20:31:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRWYwUUxTa2g5bWkzSTljTzJ4M0hHZUtBZnVTQ1JvVEVQRnF5b3VhaXVrTGN2VExjaHdkU1J2NlpkcFNOcjZkNjF4WVFLUWluZ0xJcGg4NkpxM0U0MHJVekR0dUZvQU9aQzdmaVhOdWhsck1CeXpWWDlhX1hVMDV1eTZDdWxuU3BCYkNobTZzZVlXclFIZTVJR0FIRjkxb2ZvWktXdTFoM1ZhUnQyZGxWMWdfWU1sVk83alhWMnY1RXdhRlR0?oc=5",
      "sector": null
     }
    ]
@@ -4621,6 +4621,13 @@
    "comuna": "Atacama",
    "noticias": [
     {
+     "titulo": "Ríos Huasco y Copiapó bajo monitoreo por crecida de caudales - NOSTÁLGICA cl",
+     "medio": "NOSTÁLGICA cl",
+     "fecha": "2026-11-17T19:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaWFCNTJLRk5USXhzSkFiYVV6TFNjeEF6VUZnOGpRcU4zSTNyQllYTE40V1E5UFVrVFhUNU00Zjc2cTc5NkdJc25mTEN2akFFcmo4ZFczMWlBT3ZfR2t5VkFpT0F5a0JjYVFUemtwbmNDQXhxNVdmdkhkOXVGOEJ5eDVOUkZNMkcxLTFzczZyYllkVFJERGV0LVBZYlVlM0s3WS1XUjdhTnZuY085YTJJanBTUlRqVU1TQUJHSm1iTUo3dUhsTUtTNS1kbllRT1hnUFRTTlc3MDZtZW5j?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Alcalde de Freirina advierte riesgos por crecida del río Huasco y solicita recursos urgentes - Radio Maray",
      "medio": "Radio Maray",
      "fecha": "2026-11-17T17:43:48+00:00",
@@ -4709,17 +4716,6 @@
       "nombre": "río Copiapó",
       "lat": -27.53921,
       "lon": -70.27293
-     }
-    },
-    {
-     "titulo": "Río Huasco: proyectan más del doble de agua por deshielos - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-10-03T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOVRmVzNPZjE2bTYySU1fbU91aloxQWxja0haUDJEeUdRZUdscldBUFZzeHNuXzdfMDJzUnRtSFpPaVFFcmhLcUI3ZXgxRllQNkE2YTBRSlJlejBWNkJiZW15Yk5LX0hHSlJwOUhKb1p4QWhhNXJrMWUxQmJPSGtwUVVjM1U4MFZ1c29RRE80eEw3U213ZWZPNVF1cnYweHQ5WUczSndualFTY0NxcmROWl9TREt4bU5VS3hTbkZyejZFaXJ2N3Rmb19JdHN4R2VwVlFLczVkLVYwVm5yVlhpWGpkbXNDeTA?oc=5",
-     "sector": {
-      "nombre": "río Huasco",
-      "lat": -28.55575,
-      "lon": -70.83226
      }
     }
    ]

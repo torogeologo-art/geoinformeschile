@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-18T00:47:17+00:00",
- "desde": "2026-11-16T00:47:14Z",
+ "generado": "2026-11-18T06:58:02+00:00",
+ "desde": "2026-11-16T06:58:00Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,24 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "qC9Th-ByN8A",
-     "url": "https://www.youtube.com/watch?v=qC9Th-ByN8A",
-     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M4.1 en México (Comitán y Tuxtla Gutiérrez) • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-17T18:32:01Z",
-     "live": true,
-     "score": 4.48,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "F2w8vjSENkg",
      "url": "https://www.youtube.com/watch?v=F2w8vjSENkg",
      "titulo": "Crecidas de ríos en el norte por deshielos: Más de 830 personas aisladas entre Atacama y Coquimbo",
      "canal": "CHV Noticias",
      "publicado": "2026-11-17T15:30:40Z",
      "live": false,
-     "score": 5.23,
+     "score": 4.71,
      "verificado": false,
      "embeddable": true
     }
@@ -44,7 +33,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-11-17T18:00:36Z",
      "live": true,
-     "score": -2.56,
+     "score": -3.08,
      "verificado": false,
      "embeddable": true
     }

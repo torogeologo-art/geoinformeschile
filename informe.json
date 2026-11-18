@@ -1,24 +1,24 @@
 {
- "generado": "2026-11-17T23:51:57+00:00",
+ "generado": "2026-11-18T06:58:03+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "07-11-2026",
-  "hasta": "17-11-2026"
+  "desde": "08-11-2026",
+  "hasta": "18-11-2026"
  },
  "totales": {
-  "alertas": 115,
+  "alertas": 114,
   "sae": 9,
   "comunas": 4,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 64,
+   "ATP": 63,
    "AMARILLA": 23,
    "ROJA": 28
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    43
+    42
    ],
    [
     "crecida de río",
@@ -26,11 +26,11 @@
    ],
    [
     "evento meteorológico",
-    15
+    16
    ],
    [
     "viento",
-    11
+    10
    ],
    [
     "desborde",
@@ -53,13 +53,13 @@
  "tipos_detalle": {
   "tormentas eléctricas": [
    {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
     "nivel": "ATP",
     "sae": false,
-    "ts": "07-11",
+    "ts": "08-11",
     "comuna_link": "",
-    "region_link": "nuble"
+    "region_link": "atacama"
    },
    {
     "lugar": "Región de Maule",
@@ -69,15 +69,6 @@
     "ts": "08-11",
     "comuna_link": "",
     "region_link": "maule"
-   },
-   {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "08-11",
-    "comuna_link": "",
-    "region_link": "atacama"
    },
    {
     "lugar": "Región de Valparaíso",
@@ -159,6 +150,15 @@
     "ts": "14-11",
     "comuna_link": "",
     "region_link": "biobio"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "14-11",
+    "comuna_link": "",
+    "region_link": "nuble"
    },
    {
     "lugar": "Región de Los Ríos",
@@ -273,6 +273,15 @@
     "region_link": "magallanes y de la antartica chilena"
    },
    {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "13-11",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
     "lugar": "Región de Metropolitana de Santiago",
     "region": "Metropolitana de Santiago",
     "nivel": "AMARILLA",
@@ -289,15 +298,6 @@
     "ts": "11-11",
     "comuna_link": "",
     "region_link": "valparaiso"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "13-11",
-    "comuna_link": "",
-    "region_link": "coquimbo"
    }
   ],
   "viento": [
@@ -309,15 +309,6 @@
     "ts": "14-11",
     "comuna_link": "",
     "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "08-11",
-    "comuna_link": "",
-    "region_link": "coquimbo"
    },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -457,13 +448,6 @@
  },
  "serie": [
   {
-   "fecha": "2026-11-07",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
-  {
    "fecha": "2026-11-08",
    "ROJA": 0,
    "AMARILLA": 1,
@@ -536,39 +520,6 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de Coquimbo",
-   "region": "Coquimbo",
-   "sae": true,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "13-11 10:30",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "14-11 11:17",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "15-11 19:42",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "16-11 12:17",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "16-11 16:22",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Atacama",
    "region": "Atacama",
    "sae": true,
@@ -631,6 +582,39 @@
      "nivel": "ROJA",
      "ts": "16-11 11:03",
      "estado": "CANCELADA"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Coquimbo",
+   "region": "Coquimbo",
+   "sae": true,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "AMARILLA",
+     "ts": "13-11 10:30",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "14-11 11:17",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "15-11 19:42",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "16-11 12:17",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "16-11 16:22",
+     "estado": "VIGENTE"
     }
    ]
   },
