@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-18T06:58:02+00:00",
- "desde": "2026-11-16T06:58:00Z",
+ "generado": "2026-11-18T08:20:32+00:00",
+ "desde": "2026-11-16T08:20:30Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -15,7 +15,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-11-17T15:30:40Z",
      "live": false,
-     "score": 4.71,
+     "score": 4.6,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +33,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-11-17T18:00:36Z",
      "live": true,
-     "score": -3.08,
+     "score": -3.19,
      "verificado": false,
      "embeddable": true
     }
