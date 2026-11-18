@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-18T17:28:19+00:00",
- "desde": "2026-11-16T17:28:16Z",
+ "generado": "2026-11-18T23:01:51+00:00",
+ "desde": "2026-11-16T23:01:49Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,13 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "F2w8vjSENkg",
-     "url": "https://www.youtube.com/watch?v=F2w8vjSENkg",
-     "titulo": "Crecidas de ríos en el norte por deshielos: Más de 830 personas aisladas entre Atacama y Coquimbo",
-     "canal": "CHV Noticias",
-     "publicado": "2026-11-17T15:30:40Z",
-     "live": false,
-     "score": 3.84,
+     "id": "vhCcPJd4X0E",
+     "url": "https://www.youtube.com/watch?v=vhCcPJd4X0E",
+     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M5.1 en México • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-18T18:12:52Z",
+     "live": true,
+     "score": 4.6,
      "verificado": false,
      "embeddable": true
     }
@@ -27,24 +27,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "21kGB6ypDbs",
-     "url": "https://www.youtube.com/watch?v=21kGB6ypDbs",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.9 Perú y M5.2 Ecuador • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-18T06:22:25Z",
-     "live": true,
-     "score": 4.08,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "zfeY-lHAWPM",
      "url": "https://www.youtube.com/watch?v=zfeY-lHAWPM",
      "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
      "canal": "La Serena Drone",
      "publicado": "2026-11-17T18:00:36Z",
      "live": true,
-     "score": -3.96,
+     "score": -4.42,
      "verificado": false,
      "embeddable": true
     }

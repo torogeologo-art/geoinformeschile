@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T16:22:03+00:00",
+ "generado": "2026-11-18T23:01:41+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
   {
@@ -10,8 +10,8 @@
    "tipo": "crecida de río",
    "sae": false,
    "lugar": "Atacama",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-huasco-freirina-y-vallenar-por-crecida-2026-11-14-21-37-54",
-   "ts": "2026-11-15T22:37"
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-11-15-20-54-08",
+   "ts": "2026-11-18T12:59"
   },
   {
    "nombre": "sector Cuncumen",
