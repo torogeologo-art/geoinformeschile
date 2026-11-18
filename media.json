@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-18T08:20:32+00:00",
- "desde": "2026-11-16T08:20:30Z",
+ "generado": "2026-11-18T16:22:14+00:00",
+ "desde": "2026-11-16T16:22:11Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,13 +9,35 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "GBoK1bupI8Q",
+     "url": "https://www.youtube.com/watch?v=GBoK1bupI8Q",
+     "titulo": "Comienza Nuestro Matinal  “Un Nuevo Día”  de  18 de noviembre 2026",
+     "canal": "Atacama Noticias",
+     "publicado": "2026-11-18T11:49:21Z",
+     "live": true,
+     "score": 7.62,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "21kGB6ypDbs",
+     "url": "https://www.youtube.com/watch?v=21kGB6ypDbs",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.9 Perú y M5.2 Ecuador • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-18T06:22:25Z",
+     "live": true,
+     "score": 4.17,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "F2w8vjSENkg",
      "url": "https://www.youtube.com/watch?v=F2w8vjSENkg",
      "titulo": "Crecidas de ríos en el norte por deshielos: Más de 830 personas aisladas entre Atacama y Coquimbo",
      "canal": "CHV Noticias",
      "publicado": "2026-11-17T15:30:40Z",
      "live": false,
-     "score": 4.6,
+     "score": 3.93,
      "verificado": false,
      "embeddable": true
     }
@@ -27,13 +49,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "21kGB6ypDbs",
+     "url": "https://www.youtube.com/watch?v=21kGB6ypDbs",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.9 Perú y M5.2 Ecuador • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-18T06:22:25Z",
+     "live": true,
+     "score": 4.17,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "zfeY-lHAWPM",
      "url": "https://www.youtube.com/watch?v=zfeY-lHAWPM",
      "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
      "canal": "La Serena Drone",
      "publicado": "2026-11-17T18:00:36Z",
      "live": true,
-     "score": -3.19,
+     "score": -3.86,
      "verificado": false,
      "embeddable": true
     }
