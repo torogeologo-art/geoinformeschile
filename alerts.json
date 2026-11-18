@@ -1,13 +1,27 @@
 {
- "generado": "2026-11-18T16:22:02+00:00",
+ "generado": "2026-11-18T17:28:15+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 23,
+ "total_vigentes": 24,
  "alertas": [
+  {
+   "id": "fb4f0ffdd424",
+   "nivel": "AMARILLA",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Amarilla para las Comunas de Huasco, Freirina y Vallenar por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) Atacama, indica por medio de sus estaciones fluviométrica, estación “Río Huasco en El Maitén” ubicada aguas arriba, y estación “Río Huasco en Santa Juana”, ubicada aguas abajo, se ha registrado un incremento en los niveles y caudales de los ríos El Carmen y Huasco, asociado a la intensificación del deshielo y la evolución reciente de los caudales en la cuenca del río Huasco, observándose una tendencia al alza. Esta condición genera un aumento del caudal circulante hacia los sectores ubicados aguas abajo del emb",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-18T12:59:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-11-15-20-54-08",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "ee9e6f58c9e8",
    "nivel": "ATP",
