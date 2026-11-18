@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-17T23:51:57+00:00",
- "desde": "2026-11-15T23:51:53Z",
+ "generado": "2026-11-18T00:47:17+00:00",
+ "desde": "2026-11-16T00:47:14Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -15,7 +15,7 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-17T18:32:01Z",
      "live": true,
-     "score": 4.56,
+     "score": 4.48,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "CHV Noticias",
      "publicado": "2026-11-17T15:30:40Z",
      "live": false,
-     "score": 5.3,
+     "score": 5.23,
      "verificado": false,
      "embeddable": true
     }
@@ -38,31 +38,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "F2w8vjSENkg",
-     "url": "https://www.youtube.com/watch?v=F2w8vjSENkg",
-     "titulo": "Crecidas de ríos en el norte por deshielos: Más de 830 personas aisladas entre Atacama y Coquimbo",
-     "canal": "CHV Noticias",
-     "publicado": "2026-11-17T15:30:40Z",
-     "live": false,
-     "score": 5.3,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "ovalle": {
-   "comuna": "Ovalle",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "CXvjRcFU3uc",
-     "url": "https://www.youtube.com/watch?v=CXvjRcFU3uc",
-     "titulo": "martes 17-11-2026  UNGIMIENTO CON ACEITE / CULTO EN VIVO / Iglesia Tiempos de Gloria Chile",
-     "canal": "Iglesia Tiempos de Gloria Chile",
-     "publicado": "2026-11-17T22:25:35Z",
+     "id": "zfeY-lHAWPM",
+     "url": "https://www.youtube.com/watch?v=zfeY-lHAWPM",
+     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
+     "canal": "La Serena Drone",
+     "publicado": "2026-11-17T18:00:36Z",
      "live": true,
-     "score": 4.88,
+     "score": -2.56,
      "verificado": false,
      "embeddable": true
     }
