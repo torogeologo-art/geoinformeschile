@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-19T04:13:53+00:00",
- "desde": "2026-11-17T04:13:51Z",
+ "generado": "2026-11-19T04:32:19+00:00",
+ "desde": "2026-11-17T04:32:18Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -15,7 +15,7 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-18T18:12:52Z",
      "live": true,
-     "score": 4.17,
+     "score": 4.14,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +33,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-11-17T18:00:36Z",
      "live": true,
-     "score": -4.85,
+     "score": -4.88,
      "verificado": false,
      "embeddable": true
     }
