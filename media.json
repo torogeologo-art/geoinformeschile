@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-19T13:29:02+00:00",
- "desde": "2026-11-17T13:29:00Z",
+ "generado": "2026-11-19T13:56:22+00:00",
+ "desde": "2026-11-17T13:56:20Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -15,7 +15,7 @@
      "canal": "Atacama Noticias",
      "publicado": "2026-11-19T11:53:07Z",
      "live": true,
-     "score": 7.87,
+     "score": 7.83,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "Concejo Municipal Caldera - Atacama",
      "publicado": "2026-11-18T21:32:11Z",
      "live": true,
-     "score": 6.67,
+     "score": 6.63,
      "verificado": false,
      "embeddable": true
     },
@@ -37,7 +37,7 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-19T06:03:17Z",
      "live": true,
-     "score": 4.38,
+     "score": 4.34,
      "verificado": false,
      "embeddable": true
     }
