@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T04:32:17+00:00",
+ "generado": "2026-11-19T13:28:49+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,34 @@
  },
  "total_vigentes": 24,
  "alertas": [
+  {
+   "id": "3a5fe34878c1",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A630-1 Tormentas eléctricas en cordillera de la costa, valle, precordillera y cordillera de la región. 19-11 19-11 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que los originaron han sido cancelados los siguientes alertamientos para la región: Alertamiento Pronóstico Aviso A627 Tormentas eléctricas con probabilidad de precipitaciones fue",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-19T07:59:51.5151-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-11-14-18-32-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "20e56a7dc656",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Aviso A630-1 Tormentas eléctricas en cordillera de la costa, valle, precordillera y cordillera de la región. 19-11 19-11 Abrir aquí Asimismo, debido al debilitamiento de las condiciones que los originaron han sido cancelados los siguientes alertamientos para la región: Alertamiento Pronóstico Aviso A627 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un cort",
+   "region": "Biobío",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-19T07:53:24.2424-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-11-14-14-22-49",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "46fb26f59921",
    "nivel": "ATP",
@@ -75,20 +103,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-18T18:23:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "5529c55658c6",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A627 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en cordillera de la costa, valle y precordillera. 18-11 18-11 Abrir aquí Aviso A630 Probables tormentas eléctricas en cordillera costa, valle, precordillera, cordillera, litoral interior, cordillera austral, patagonia subandina 19-11 19-11 Abrir aquí Del",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-18T17:10:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-11-14-18-32-10",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -174,20 +188,6 @@
     "Ñuble",
     "Biobío"
    ]
-  },
-  {
-   "id": "c7de4ab3b581",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región del Biobío: Alertamiento Pronóstico Inicio Fin Enlace Aviso A627 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y cordillera de la región. 18-11 18-11 Abrir aquí Asimismo, debido al debilitamiento de las condiciones que los originaron han sido cancelados los siguientes alertamientos para la región: Alertamiento Pronóstico Alerta AA200-1 Tormentas eléctricas con proba",
-   "region": "Biobío",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-18T14:23:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-11-14-14-22-49",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "fb4f0ffdd424",

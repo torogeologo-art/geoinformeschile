@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-19T04:32:19+00:00",
- "desde": "2026-11-17T04:32:18Z",
+ "generado": "2026-11-19T13:29:02+00:00",
+ "desde": "2026-11-17T13:29:00Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,13 +9,35 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "vhCcPJd4X0E",
-     "url": "https://www.youtube.com/watch?v=vhCcPJd4X0E",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.2 Ecuador y M4.8 México • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-18T18:12:52Z",
+     "id": "wUnHS_Viq-8",
+     "url": "https://www.youtube.com/watch?v=wUnHS_Viq-8",
+     "titulo": "Comienza Nuestro Matinal  “Un Nuevo Día”  de  19 de noviembre 2026",
+     "canal": "Atacama Noticias",
+     "publicado": "2026-11-19T11:53:07Z",
      "live": true,
-     "score": 4.14,
+     "score": 7.87,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "y464KT7tO_k",
+     "url": "https://www.youtube.com/watch?v=y464KT7tO_k",
+     "titulo": "Transmisión en vivo Sesión Ordinaria N° 72 (19.11.2026) Concejo Municipal de Caldera - Atacama",
+     "canal": "Concejo Municipal Caldera - Atacama",
+     "publicado": "2026-11-18T21:32:11Z",
+     "live": true,
+     "score": 6.67,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "0QpMHGGvjbA",
+     "url": "https://www.youtube.com/watch?v=0QpMHGGvjbA",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M4.8 Ecuador y M4.8 México • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-19T06:03:17Z",
+     "live": true,
+     "score": 4.38,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +55,7 @@
      "canal": "La Serena Drone",
      "publicado": "2026-11-17T18:00:36Z",
      "live": true,
-     "score": -4.88,
+     "score": -5.0,
      "verificado": false,
      "embeddable": true
     }
