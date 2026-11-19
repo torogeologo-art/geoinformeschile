@@ -1,61 +1,21 @@
 {
- "generado": "2026-11-19T13:56:22+00:00",
- "desde": "2026-11-17T13:56:20Z",
+ "generado": "2026-11-19T21:45:10+00:00",
+ "desde": "2026-11-17T21:45:08Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "wUnHS_Viq-8",
-     "url": "https://www.youtube.com/watch?v=wUnHS_Viq-8",
-     "titulo": "Comienza Nuestro Matinal  “Un Nuevo Día”  de  19 de noviembre 2026",
-     "canal": "Atacama Noticias",
-     "publicado": "2026-11-19T11:53:07Z",
-     "live": true,
-     "score": 7.83,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "y464KT7tO_k",
-     "url": "https://www.youtube.com/watch?v=y464KT7tO_k",
-     "titulo": "Transmisión en vivo Sesión Ordinaria N° 72 (19.11.2026) Concejo Municipal de Caldera - Atacama",
-     "canal": "Concejo Municipal Caldera - Atacama",
-     "publicado": "2026-11-18T21:32:11Z",
-     "live": true,
-     "score": 6.63,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "0QpMHGGvjbA",
-     "url": "https://www.youtube.com/watch?v=0QpMHGGvjbA",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M4.8 Ecuador y M4.8 México • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-19T06:03:17Z",
-     "live": true,
-     "score": 4.34,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
   "coquimbo": {
    "comuna": "Coquimbo",
    "region": "Coquimbo",
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "zfeY-lHAWPM",
-     "url": "https://www.youtube.com/watch?v=zfeY-lHAWPM",
-     "titulo": "Cámara en Vivo y Directo desde Faro La Serena Chile - Gentileza Municipalidad La Serena",
-     "canal": "La Serena Drone",
-     "publicado": "2026-11-17T18:00:36Z",
+     "id": "cs87LDbx-1g",
+     "url": "https://www.youtube.com/watch?v=cs87LDbx-1g",
+     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M5.1 en Chile (Illapel y Los Vilos) • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-19T17:52:34Z",
      "live": true,
-     "score": -5.0,
+     "score": 4.68,
      "verificado": false,
      "embeddable": true
     }

@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T13:56:20+00:00",
+ "generado": "2026-11-19T21:45:00+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,36 @@
  },
  "total_vigentes": 24,
  "alertas": [
+  {
+   "id": "61b3fd122931",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A631 Probables tormentas eléctricas en cordillera austral norte, insular norte, pampa patagónica norte y pampa patagónica sur de la región 19-11 19-11 Abrir aquí Aviso A633 Probables tormentas eléctricas en las comunas de Torres del Paine, Natales, Laguna Blanca y San Gregorio 20-11 20-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-19T17:53:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-tormentas-electricas-2026-11-18-17-33-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "b1035c7daf23",
+   "nivel": "ATP",
+   "tipo": "nevadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
+   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán se encuentra en Estado de Actividad Volcánica EAV 3 - Erupción Menor [1] . En relación con el Reporte de Actividad Volcánica (RAV) emitido hoy jueves 19 de noviembre, se puede indicar que durante la primera quincena de noviembre, el Complejo Volcánico Nevados de Chillan mantuvo el proceso de extrusión de lava iniciado a fines de septiembre, con una colada activa que continúo avanzando (~1000 m)",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-19T16:51:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "3a5fe34878c1",
    "nivel": "ATP",
@@ -105,22 +135,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "cd875bf1313a",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A631 Probables tormentas eléctricas en cordillera austral norte, insular norte, pampa patagónica norte y pampa patagónica sur de la región 19-11 19-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por tormentas eléctricas p",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-18T16:57:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-tormentas-electricas-2026-11-18-17-33-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "87631d9e270e",
@@ -512,20 +526,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-12T21:01:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-metropolitana-por-calor-intenso-2026-11-11-14-50-00",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a30a25659d9c",
-   "nivel": "ATP",
-   "tipo": "nevadas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del complejo volcánico Nevados de Chillán",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Complejo Volcánico Nevados de Chillán se encuentra en Estado de Actividad Volcánica EAV 3 - Erupción Menor [1] . En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido hoy jueves 12 de noviembre, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán registraron un pulso eruptivo acompañado de Flujo Piroclástico de alcance proximal, que se extendió hasta 500 metros d",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-12T20:01:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
    "origen": "senapred_web",
    "regiones_extra": []
   },
