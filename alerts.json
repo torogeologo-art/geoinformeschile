@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T23:31:24+00:00",
+ "generado": "2026-11-19T04:13:48+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 24,
  "alertas": [
+  {
+   "id": "46fb26f59921",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantiene vigente el siguiente alertamiento meteorológico para la Región de Ñuble: Alertamiento Pronóstico Inicio Fin Enlace Aviso A630 Probables tormentas eléctricas en valle, precordillera y cordillera de la región. 19-11 19-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva regional por evento meteorológico, vigente desde hoy y hasta que las condiciones así lo a",
+   "region": "Ñuble",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-18T21:25:07.077-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-18-21-29-20",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "53706c892484",
    "nivel": "ATP",
@@ -186,20 +200,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-18T12:59:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-11-15-20-54-08",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ee9e6f58c9e8",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que los originaron han sido cancelados los siguientes alertamientos para la región: Alertamiento Pronóstico Alerta AA200-1 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en valle y precordillera de la región. Aviso A621-3 Probables tormentas eléctricas preferentemente durante la tarde noche con precipitaciones aisladas en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. Aviso A626 P",
-   "region": "Ñuble",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-11-18T09:35:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-14-15-36-40",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -555,7 +555,7 @@
    "comunas": [
     "Ovalle"
    ],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-11-12T03:20:22+00:00",
    "url": "https://t.me/SenapredChile/1687",
    "origen": "telegram",
