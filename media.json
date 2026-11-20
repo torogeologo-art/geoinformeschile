@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-20T12:01:59+00:00",
- "desde": "2026-11-18T12:01:58Z",
+ "generado": "2026-11-20T18:51:35+00:00",
+ "desde": "2026-11-18T18:51:34Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,13 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "i-IuvVpAi-U",
-     "url": "https://www.youtube.com/watch?v=i-IuvVpAi-U",
-     "titulo": "DESDE CALAMA – INFORMATIVO PUNTO DE PRENSA – 20 NOVIEMBRE 2026",
-     "canal": "diarioenlalinea",
-     "publicado": "2026-11-20T11:03:26Z",
+     "id": "S7XrKroovXs",
+     "url": "https://www.youtube.com/watch?v=S7XrKroovXs",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M4.8 Argentina y M4.7 Chile • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-20T17:33:17Z",
      "live": true,
-     "score": 7.92,
+     "score": 4.89,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "ZEOkeyAH5QY",
+     "url": "https://www.youtube.com/watch?v=ZEOkeyAH5QY",
+     "titulo": "▶️  ENLACE ALBINARANJA EN VIVO - CAPÍTULO 20 DE NOVIEMBRE  🎤  RADIO DAMIANA 88.3 🔉 #futbolchileno",
+     "canal": " Radio Damiana 88.3",
+     "publicado": "2026-11-18T19:03:35Z",
+     "live": true,
+     "score": 2.0,
      "verificado": false,
      "embeddable": true
     }
@@ -27,13 +38,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "n_nwTUol1p0",
-     "url": "https://www.youtube.com/watch?v=n_nwTUol1p0",
-     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M4.4 en Colombia (Apartadó y Montería) • Terremotos 24/7",
+     "id": "S7XrKroovXs",
+     "url": "https://www.youtube.com/watch?v=S7XrKroovXs",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M4.8 Argentina y M4.7 Chile • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-20T05:42:56Z",
+     "publicado": "2026-11-20T17:33:17Z",
      "live": true,
-     "score": 4.47,
+     "score": 4.89,
      "verificado": false,
      "embeddable": true
     }

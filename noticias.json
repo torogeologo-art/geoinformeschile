@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T10:34:24+00:00",
+ "generado": "2026-11-20T18:51:33+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -4443,6 +4443,13 @@
    "comuna": "Talagante",
    "noticias": [
     {
+     "titulo": "emergencia en Talagante - Radio Agricultura",
+     "medio": "Radio Agricultura",
+     "fecha": "2026-11-15T13:07:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1ZGV3OUg1em5KcmRMOEhjUE9sRjE2a1pmSm4xWFRPMjR5X0dZYnZCVFZNaTRMZ2xzdVFuWEVORVRNWmV1cWVDZmdwU1NON1g2ODZFSm1kYVhqUzZKTnM0ZkxWeEJjdXpZeENSNw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Región Metropolitana registra el octubre más lluvioso de la historia y sufre el desborde del río Mapocho en Talagante - El Conquistador FM",
      "medio": "El Conquistador FM",
      "fecha": "2026-11-01T10:17:37+00:00",
@@ -4503,13 +4510,6 @@
      "medio": "soy-chile.cl",
      "fecha": "2026-10-21T00:46:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUVd4MGpna1VBby1Vd3hNQTFpMjRSMzVCdjFfZUtFV0VMcmxnUkJsNXJJNm51Q0VIdk0xYlJyS2RyQ3JpZEVCU0ItcHJ2b28wZzNoaG9oQm0wLU1kODMwOUs1LWxtakU5NzMtUTFGWEFFLUJxU0J4STNJZDBYeTFyRTdhWFNKOUZacVlWTXgyVExPT0NKcnc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Lluvias en Santiago: casi 10 mil clientes sin luz, reanudan clases para este miércoles y evacúan sector en Talagante - El Desconcierto",
-     "medio": "El Desconcierto",
-     "fecha": "2026-10-20T23:24:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVWlEUm9pdV80Z1FyWGk0blBTb0hLbGY5MlZObk5zeEVhc09VR01SWGhLczRQdFpsWF81aHoyR0R5Nkk0cnBKTFJxVDVNRF9yektaY1lXMThERjM2ZGhJaWhDazNrdVR4dGtJM01KdjlvZGxNZlYtdUhsdl81Y1NvSVA3RV9aaktKSTdYRmE0U3pDSWoza1lCZHRIcDhqdlFhY1l1MmVwR0pxY3NtNGd5dHVVTEZ6VFEwczd2TktFRUtEQnFQVHlJYTlDWjhwVE0?oc=5",
      "sector": null
     }
    ]
@@ -4621,6 +4621,28 @@
    "comuna": "Atacama",
    "noticias": [
     {
+     "titulo": "Río Huasco podría alcanzar 60 metros cúbicos por segundo en diciembre: ¿está preparada Atacama para nuevos deshielos? - Madero CL",
+     "medio": "Madero CL",
+     "fecha": "2026-11-20T13:00:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT1JsSHZFQk1sbEl2cUNrdndWSG5GTWVUSDIzdHhKb2pDTHV6Z3FuMm4tRllxckNhV3dhbUtQNzBRY3hjYzlETHdBZU9FMVo1NzREc2Q0TTRFeHprZXNWQzh2Ynd4UUQxcUJoVjhrSEhGVFNDbExFUXlTamtIM2JvdFpXY0tmY2xsalIzanlpVFZuYU5kRVNiMXZka0w4aDl4RnV4elpKN3NpdDRmUTA2cDhCRHVwandKcXd5eWNLZHM0N3RzMDVxM1JCb2tVUQ?oc=5",
+     "sector": {
+      "nombre": "río Huasco",
+      "lat": -28.55575,
+      "lon": -70.83226
+     }
+    },
+    {
+     "titulo": "Refuerzan trabajos en el río Copiapó para evitar desbordes y proteger caminos y sectores agrícolas - Radio Maray",
+     "medio": "Radio Maray",
+     "fecha": "2026-11-19T15:43:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdldlMUJscy1fRjB2VzQwV0p5NncxZ3NyY1QxMkllVXBTVkhINFl5UHQxZktKb0VMTzhXdTZqSjJvbS1mcmo5QkFjRkZTV1dRSTZMcm50ZWZpNTRnMm1vR0JWSnZtaUxWSUNkbTM5alpNMS02eU96eU94bDZSekpQMXNOYWxMM3pINnRoQkJhWUNOaFdEMnJxYWtpb3RDa3BQcU5ndmNrN21Ia21JSl9FaWhMSFA4WUtFX2J5NDNVV1lZNDUtcWh4dFJfODZIUDVhblloX19B?oc=5",
+     "sector": {
+      "nombre": "río Copiapó",
+      "lat": -27.53921,
+      "lon": -70.27293
+     }
+    },
+    {
      "titulo": "Freirina: 63 evacuados y daños por crecida del Huasco - NOSTÁLGICA cl",
      "medio": "NOSTÁLGICA cl",
      "fecha": "2026-11-19T15:37:12+00:00",
@@ -4687,28 +4709,6 @@
      "fecha": "2026-11-16T19:54:03+00:00",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbDFnU3o5UUE0SG5hTjl0bUp4c1dVRHEwTk16VlpRMndqMlQtdFVaNGF2dDhWM1RkZTJOZWtmbE41YWJMeTRUYkVzWVRwUEpwZHFrYVNNcTFpOEhUYmtFN0NUdEdOVWFtUGZfX0IycXpObU5RV2xRQW5aZTBjTHUwSHJ1UUNITkdWUm1WZENZUXpuSWJMZGpvaDZvdkdPWWtlUFJsbEZONHA0WTJ1bXZDejhFVjlMN1BGR3FYNlIxN19SQU9fMldwM0xoV2Y?oc=5",
      "sector": null
-    },
-    {
-     "titulo": "Deshielo en Atacama mantiene en alerta a tres comunas: advierten posibles nuevas crecidas del río Copiapó - Madero CL",
-     "medio": "Madero CL",
-     "fecha": "2026-11-16T14:20:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTXFJX2NTNEV1bGpqdm0xZGxGb0MyR0VpdmlTSE53RUt1cUtnTk5uYkpLSHN1VEpWSkdRT0JVMHNIVlRJMzRJZ1NBUENfekZCLVJPWXo0ZmlHY3pIdWlLU1RjNFNfbzlmcE0tTEp1VldXVEFiNEFwNHR3eUozNHRzRXF5NnB0T1lYWVplb0FmeHdMazdqNkxDSHo1Tk9TS1dvREpTbTZZdjBnSHRwSnNGVTdlOC1RelRYbFhWZDJ4SU0?oc=5",
-     "sector": {
-      "nombre": "río Copiapó",
-      "lat": -27.53921,
-      "lon": -70.27293
-     }
-    },
-    {
-     "titulo": "Evacuación preventiva de 29 personas por crecida del río Huasco en Freirina - laconexion.cl",
-     "medio": "laconexion.cl",
-     "fecha": "2026-11-16T12:34:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFlGc1MwbV95X0ZxX2J2Y2dta2w4c3RiZFREWEpDZExuYVJaa3AwWWptcVVVeU1JdnNTSFB1a2lmT3VlOUlHdjE4MHFkQ2w0dGxZT0U2ZWF5djlHSTNVQ1BEQk5fZnRENjZPdkR1WTdrcmI5ZFVxYnZlMnVUd3dZMmJvYzlKYUNyZ0Z0LXZnU0dYdFlTWjZqdXBXUG9HR00?oc=5",
-     "sector": {
-      "nombre": "río Huasco",
-      "lat": -28.55575,
-      "lon": -70.83226
-     }
     }
    ]
   }
