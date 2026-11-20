@@ -1,13 +1,41 @@
 {
- "generado": "2026-11-20T02:40:47+00:00",
+ "generado": "2026-11-20T03:20:18+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 23,
+ "total_vigentes": 21,
  "alertas": [
+  {
+   "id": "45fa49df0c73",
+   "nivel": "ATP",
+   "tipo": "viento",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta y Taltal por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , ha sido cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta, debido al debilitamiento de las condiciones que lo originaron: Alertamiento Pronóstico Enlace Aviso A622-3 Viento normal a moderado en cordillera de la región. Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por viento para la provincia de El Loa y las comunas de Antofag",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-19T22:53:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-09-14-14-37",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1efed183fc2c",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Ríos, debido al debilitamiento de las condiciones que lo originaron: Alertamiento Pronóstico Enlace Aviso A630-1 Probables tormentas eléctricas en litoral, cordillera costa, valle, precordillera y cordillera de la región. Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-19T22:51:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-11-14-14-06-56",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "67b32008917f",
    "nivel": "ATP",
@@ -165,20 +193,6 @@
    "regiones_extra": []
   },
   {
-   "id": "50425a777943",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Ríos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A627 Probables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en cordillera de la costa, valle y precordillera. 18-11 18-11 Abrir aquí Aviso A630 Probables tormentas eléctricas en litoral, cordillera costa, valle, precordillera y cordillera de la región. 19-11 19-11 Abrir aquí Por otra parte, el Servicio Nacional de Geolog",
-   "region": "Los Ríos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-18T15:58:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-11-14-14-06-56",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "bb3f82f4884a",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -256,20 +270,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-18T07:50:44.4444-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-11-15-19-44-35",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ae261b8c7214",
-   "nivel": "ATP",
-   "tipo": "viento",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta y Taltal por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A622-3 Viento normal a moderado en cordillera. 17-11 19-11 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED Mantiene Alerta Temprana Preventiva por viento para la provincia de El Loa y las comunas de Antofagasta y Taltal, que se encuentra vigente desde el 09 d",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-16T12:36:09.099-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-09-14-14-37",
    "origen": "senapred_web",
    "regiones_extra": []
   },
