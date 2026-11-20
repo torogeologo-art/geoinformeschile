@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-20T10:34:29+00:00",
- "desde": "2026-11-18T10:34:24Z",
+ "generado": "2026-11-20T12:01:59+00:00",
+ "desde": "2026-11-18T12:01:58Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,13 +9,31 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "8CbuTo-NEIw",
-     "url": "https://www.youtube.com/watch?v=8CbuTo-NEIw",
-     "titulo": "⚠️📢 CRECIDA DE RÍOS EN CHILE: LA REGIÓN DE ATACAMA PIDE DECLARAR &quot;ZONA DE DESASTRE&quot;",
-     "canal": "A24com",
-     "publicado": "2026-11-19T15:48:12Z",
-     "live": false,
-     "score": 4.44,
+     "id": "i-IuvVpAi-U",
+     "url": "https://www.youtube.com/watch?v=i-IuvVpAi-U",
+     "titulo": "DESDE CALAMA – INFORMATIVO PUNTO DE PRENSA – 20 NOVIEMBRE 2026",
+     "canal": "diarioenlalinea",
+     "publicado": "2026-11-20T11:03:26Z",
+     "live": true,
+     "score": 7.92,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "n_nwTUol1p0",
+     "url": "https://www.youtube.com/watch?v=n_nwTUol1p0",
+     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M4.4 en Colombia (Apartadó y Montería) • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-20T05:42:56Z",
+     "live": true,
+     "score": 4.47,
      "verificado": false,
      "embeddable": true
     }
