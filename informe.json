@@ -1,18 +1,18 @@
 {
- "generado": "2026-11-19T21:45:11+00:00",
+ "generado": "2026-11-20T02:40:51+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "09-11-2026",
-  "hasta": "19-11-2026"
+  "desde": "10-11-2026",
+  "hasta": "20-11-2026"
  },
  "totales": {
-  "alertas": 115,
+  "alertas": 113,
   "sae": 9,
   "comunas": 4,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 67,
-   "AMARILLA": 21,
+   "ATP": 66,
+   "AMARILLA": 20,
    "ROJA": 27
   },
   "por_tipo": [
@@ -30,15 +30,11 @@
    ],
    [
     "viento",
-    8
+    7
    ],
    [
     "desborde",
     7
-   ],
-   [
-    "remoción en masa",
-    3
    ],
    [
     "nevadas",
@@ -47,20 +43,15 @@
    [
     "incendio forestal",
     3
+   ],
+   [
+    "remoción en masa",
+    2
    ]
   ]
  },
  "tipos_detalle": {
   "tormentas eléctricas": [
-   {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "09-11",
-    "comuna_link": "",
-    "region_link": "tarapaca"
-   },
    {
     "lugar": "Región de Valparaíso",
     "region": "Valparaíso",
@@ -125,6 +116,15 @@
     "region_link": "magallanes y de la antartica chilena"
    },
    {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "13-11",
+    "comuna_link": "",
+    "region_link": "tarapaca"
+   },
+   {
     "lugar": "Región de La Araucanía",
     "region": "La Araucanía",
     "nivel": "ATP",
@@ -177,6 +177,15 @@
     "ts": "15-11",
     "comuna_link": "",
     "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "19-11",
+    "comuna_link": "",
+    "region_link": "atacama"
    }
   ],
   "crecida de río": [
@@ -306,7 +315,7 @@
     "region": "Magallanes y de la Antártica Chilena",
     "nivel": "ATP",
     "sae": false,
-    "ts": "09-11",
+    "ts": "10-11",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
    },
@@ -367,26 +376,6 @@
     "region_link": "valparaiso"
    }
   ],
-  "remoción en masa": [
-   {
-    "lugar": "Región de Libertador General Bernardo O'Higgins",
-    "region": "Libertador General Bernardo O'Higgins",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "09-11",
-    "comuna_link": "",
-    "region_link": "libertador general bernardo o'higgins"
-   },
-   {
-    "lugar": "Región de Metropolitana de Santiago",
-    "region": "Metropolitana de Santiago",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "10-11",
-    "comuna_link": "",
-    "region_link": "metropolitana de santiago"
-   }
-  ],
   "nevadas": [
    {
     "lugar": "Región de Ñuble",
@@ -417,25 +406,38 @@
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
    }
+  ],
+  "remoción en masa": [
+   {
+    "lugar": "Región de Libertador General Bernardo O'Higgins",
+    "region": "Libertador General Bernardo O'Higgins",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "10-11",
+    "comuna_link": "",
+    "region_link": "libertador general bernardo o'higgins"
+   },
+   {
+    "lugar": "Región de Metropolitana de Santiago",
+    "region": "Metropolitana de Santiago",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "10-11",
+    "comuna_link": "",
+    "region_link": "metropolitana de santiago"
+   }
   ]
  },
  "vigentes": {
-  "ROJA": 6,
-  "AMARILLA": 4,
-  "ATP": 14,
+  "ROJA": 5,
+  "AMARILLA": 3,
+  "ATP": 15,
   "regiones_roja": [
    "Atacama",
    "Coquimbo"
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-11-09",
-   "ROJA": 0,
-   "AMARILLA": 1,
-   "ATP": 2,
-   "sae": 0
-  },
   {
    "fecha": "2026-11-10",
    "ROJA": 5,
@@ -503,7 +505,7 @@
    "fecha": "2026-11-19",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 4,
+   "ATP": 5,
    "sae": 0
   }
  ],
@@ -581,11 +583,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "ATP",
-     "ts": "14-11 21:47",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "AMARILLA",
      "ts": "15-11 20:52",
      "estado": "VIGENTE"
@@ -603,6 +600,11 @@
     {
      "nivel": "ROJA",
      "ts": "18-11 18:23",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-11 22:40",
      "estado": "VIGENTE"
     }
    ]
@@ -681,7 +683,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "09-11 18:46",
+     "ts": "13-11 18:58",
      "estado": "VIGENTE"
     },
     {
@@ -704,7 +706,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "09-11 19:44",
+     "ts": "10-11 12:37",
      "estado": "VIGENTE"
     },
     {
@@ -739,6 +741,15 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "19-11 22:40",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-11-14-17-33-44"
+  },
   {
    "ts": "19-11 17:53",
    "nivel": "ATP",
@@ -855,15 +866,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-arica-y-parinacota-y-biobio-y-para-la-comuna-de-juan-fernandez-region-de-valparaiso-por-marejadas-anniormales-2026-11-18-15-17-52"
-  },
-  {
-   "ts": "18-11 14:23",
-   "nivel": "ATP",
-   "lugar": "Región de Biobío",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-11-14-14-22-49"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

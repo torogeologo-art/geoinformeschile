@@ -1,13 +1,27 @@
 {
- "generado": "2026-11-19T22:03:52+00:00",
+ "generado": "2026-11-20T02:40:47+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 24,
+ "total_vigentes": 23,
  "alertas": [
+  {
+   "id": "67b32008917f",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A629 Viento normal a moderado con probabilidad de tormentas de arena en litoral de la Provincia de Huasco (entre 25 y 60 km/h). 18-11 21-11 Abrir Aquí Asimismo, ha sido cancelado el siguiente alertamiento meteorológico debido al debilitamiento de las condiciones que lo originaron: Alertamiento Pronóstico Enlace Aviso A622-3 Viento normal a moderado en cordillera (entre 6",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-19T22:40:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-11-14-17-33-44",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "61b3fd122931",
    "nivel": "ATP",
@@ -242,20 +256,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-18T07:50:44.4444-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-11-15-19-44-35",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "a6a1dfa4a331",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se Modifica cobertura de Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar, Alto del Carmen, Huasco y Freirina por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A622-3 Viento normal a moderado en cordillera (entre 60 – 90 Km/h). 16-11 19-11 Abrir Aquí Aviso A629 Viento normal a moderado con probabilidad de tormentas de arena en litoral de la Provincia de Huasco (entre 25 y 60 Km/h). 18-11 21-11 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Direcci",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-17T19:11:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-11-14-17-33-44",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -495,7 +495,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por alerta de crecida EVITE acercarse a la ribera del Río Elqui en la comuna de #Paihuano, Región de Coquimbo.\n\nPara reforzar el alertamiento preventivo #SENAPRED activó mensajería #SAE.\n\nMantente informado a través de los canales oficiales y sigue las indicaciones de los equipos de respuesta en terreno.",
    "region": "Coquimbo",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-11-12T23:42:24+00:00",
    "url": "https://t.me/SenapredChile/1691",
    "origen": "telegram",
@@ -1750,22 +1750,6 @@
    "url": "https://t.me/SenapredChile/1644",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "c9cc9256f987",
-   "nivel": "ATP",
-   "tipo": "actividad volcánica",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del Volcán Villarrica",
-   "descripcion": "De acuerdo con la información proporcionada por el Observatorio Volcanológico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Volcán Villarrica mantiene la alerta técnica en nivel Amarilla&nbsp; [1] . En relación con el Reporte de Actividad Volcánica (RAV) , emitido durante la presente jornada, entre el 01 y 15 de octubre, se indica que el volcán presentó un bajo nivel de actividad sísmica, caracterizado por la ocurrencia de escasos eventos asociados a la dinámica de fluidos al interior del sistema volcánico, principalmente de largo periodo (LP) y en",
-   "region": "La Araucanía",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-20T18:10:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Los Ríos"
-   ]
   },
   {
    "id": "643bab1522d7",

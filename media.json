@@ -1,8 +1,26 @@
 {
- "generado": "2026-11-19T22:03:54+00:00",
- "desde": "2026-11-17T22:03:52Z",
+ "generado": "2026-11-20T02:40:51+00:00",
+ "desde": "2026-11-18T02:40:49Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "cs87LDbx-1g",
+     "url": "https://www.youtube.com/watch?v=cs87LDbx-1g",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.1 Chile y M4.8 Ecuador • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-19T17:52:34Z",
+     "live": true,
+     "score": 4.27,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
   "coquimbo": {
    "comuna": "Coquimbo",
    "region": "Coquimbo",
@@ -11,11 +29,11 @@
     {
      "id": "cs87LDbx-1g",
      "url": "https://www.youtube.com/watch?v=cs87LDbx-1g",
-     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M5.1 en Chile (Illapel y Los Vilos) • Terremotos 24/7",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.1 Chile y M4.8 Ecuador • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-19T17:52:34Z",
      "live": true,
-     "score": 4.65,
+     "score": 4.27,
      "verificado": false,
      "embeddable": true
     }
