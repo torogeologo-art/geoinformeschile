@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-20T20:24:43+00:00",
- "desde": "2026-11-18T20:24:41Z",
+ "generado": "2026-11-21T00:43:10+00:00",
+ "desde": "2026-11-19T00:43:09Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -11,11 +11,11 @@
     {
      "id": "S7XrKroovXs",
      "url": "https://www.youtube.com/watch?v=S7XrKroovXs",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M4.8 Argentina y M4.7 Chile • Terremotos 24/7",
+     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M6.5 en Perú (Cerro de Pasco y Oxapampa) • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-20T17:33:17Z",
      "live": true,
-     "score": 4.76,
+     "score": 4.4,
      "verificado": false,
      "embeddable": true
     }
@@ -27,13 +27,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "hMDjhrC9BdQ",
+     "url": "https://www.youtube.com/watch?v=hMDjhrC9BdQ",
+     "titulo": "CDA Coquimbo oficial está en vivo",
+     "canal": "CDA Coquimbo oficial",
+     "publicado": "2026-11-21T00:02:11Z",
+     "live": true,
+     "score": 7.94,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "S7XrKroovXs",
      "url": "https://www.youtube.com/watch?v=S7XrKroovXs",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M4.8 Argentina y M4.7 Chile • Terremotos 24/7",
+     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M6.5 en Perú (Cerro de Pasco y Oxapampa) • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-20T17:33:17Z",
      "live": true,
-     "score": 4.76,
+     "score": 4.4,
      "verificado": false,
      "embeddable": true
     }

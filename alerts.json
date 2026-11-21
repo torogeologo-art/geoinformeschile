@@ -1,13 +1,69 @@
 {
- "generado": "2026-11-20T20:24:41+00:00",
+ "generado": "2026-11-21T00:43:07+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 15,
+ "total_vigentes": 14,
  "alertas": [
+  {
+   "id": "840afeca7d8c",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde",
+   "descripcion": "1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESUMEN DE LA SITUACIÓN: De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) se reporta que las estaciones de monitoreo mantienen el siguiente registro en sus caudales: Estación Umbral Caudal (m 3 /s) Tendencia Río Huasco en El Maitén Verde 38,7 A la baja No obstante lo anterior, las proyecciones hidrológicas advierten un nuevo caudal promedio de hasta 60 m³/s durante diciembre 2026, por lo que se mantiene el monitoreo permanente a las estaciones. Por otra parte, de acuerdo con la información proporcionada por la Direcció",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-20T19:48:15.1515-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "2b19547f99de",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A629-1 Viento normal a moderado con probabilidad de tormentas de arena en el litoral de la Provincia de Huasco. 20-11 23-11 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva por viento para las comunas de Huasco y Freirina , que se",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-20T18:06:47.4747-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-11-14-17-33-44",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "b9053610de9c",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Concón, Quintero, Quillota y Limache por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de Valparaíso, a través de las estaciones fluviométricas del Río Aconcagua , se puede observar una tendencia a la baja y estabilización de sus caudales , manteniéndose actualmente dentro de parámetros normales correspondientes al umbral verde (a excepción de la estación Puente Colmo en umbral azul). Se prevé que los caudales mantengan un comportamiento relativamente estable, sin perjuicio de eventuales incrementos que sean detectados con el monitoreo permanente de la Dirección General de Aguas (DGA). En consideración a estos",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-20T17:48:31.3131-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "347791d3b603",
+   "nivel": "ATP",
+   "tipo": "aluvión",
+   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la región de Los Lagos debido al debilitamiento de las condiciones que lo originaron: Alertamiento Pronóstico Enlace Aviso A630-1 Tormentas eléctricas en cordillera de la costa, valle, precordillera y cordillera de la región. Abrir aquí Cabe señalar que se mantiene vigente la minuta por peligro de remoción en masa emitida por SERNAGEOMIN, donde se indica que la probabilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizam",
+   "region": "Los Lagos",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-20T17:26:29.2929-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-11-14-18-32-10",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "c7939d0d4180",
    "nivel": "ATP",
@@ -107,20 +163,6 @@
    "regiones_extra": []
   },
   {
-   "id": "67b32008917f",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A629 Viento normal a moderado con probabilidad de tormentas de arena en litoral de la Provincia de Huasco (entre 25 y 60 km/h). 18-11 21-11 Abrir Aquí Asimismo, ha sido cancelado el siguiente alertamiento meteorológico debido al debilitamiento de las condiciones que lo originaron: Alertamiento Pronóstico Enlace Aviso A622-3 Viento normal a moderado en cordillera (entre 6",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-19T22:40:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-11-14-17-33-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "61b3fd122931",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -151,20 +193,6 @@
    "regiones_extra": []
   },
   {
-   "id": "3a5fe34878c1",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos: Alertamiento Pronóstico Inicio Fin Enlace Aviso A630-1 Tormentas eléctricas en cordillera de la costa, valle, precordillera y cordillera de la región. 19-11 19-11 Abrir aquí Del mismo modo, debido al debilitamiento de las condiciones que los originaron han sido cancelados los siguientes alertamientos para la región: Alertamiento Pronóstico Aviso A627 Tormentas eléctricas con probabilidad de precipitaciones fue",
-   "region": "Los Lagos",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-19T07:59:51.5151-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-11-14-18-32-10",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "46fb26f59921",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -175,20 +203,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-18T21:25:07.077-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-18-21-29-20",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "53706c892484",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de San Felipe y las comunas de Los Andes, San Esteban, Concón, Quintero, Quillota y Limache por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de Valparaíso, a través de las estaciones fluviométrica del Río Aconcagua, se puede observar una tendencia a la baja en sus caudales, encontrándose sólo la estación Puente Colmo en umbral azul, y el resto de las estaciones en el umbral verde con parámetros normales. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Temprana Preventiva por crecida para la&nbsp; Provincia de San Felipe y las comuna",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-18T19:33:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -217,20 +231,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-18T19:16:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "6369c27b3dcd",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) se reporta que la estación de monitoreo “Río Huasco en el Maiten” en la comuna de Alto del Carmen, se encuentra en umbral azul con tendencia a la baja en su cauce. Sin embargo, las proyecciones hidrológicas advierten un nuevo caudal promedio de hasta 60 m³/s durante diciembre 2026, por lo que se mantiene el monitoreo permanente a las estaciones. Por otra parte, de acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Atacama, se registran las siguientes situaciones de emergencia producto",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-18T18:23:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1706,34 +1706,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-22T11:46:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-maipu-padre-hurtado-talagante-penaflor-el-monte-y-melipilla-por-crecida-2026-10-20-22-13-47",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "223181339938",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Amarilla para las Provincias de Marga Marga y Los Andes y las comunas de Catemu, Putaendo, Santa María, Cabildo, Petorca, La Ligua, Quillota y La Calera por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, han sido cancelados los siguientes alertamientos para la Región de Valparaíso: Alertamiento Pronóstico Alerta AA180-2 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, precordillera y valles precordilleranos. Alerta AA185-1 Tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en litoral y cordillera de la costa. En consideración a estos antecedentes y en coordin",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-21T10:46:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-marga-marga-y-los-andes-y-las-comunas-de-catemu-putaendo-santa-maria-cabildo-petorca-la-ligua-quillota-y-la-calera-por-evento-meteorologico-2026-10-19-23-48-32",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "dfc8e75aebd0",
-   "nivel": "AMARILLA",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Amarilla para las comunas de Mostazal, Codegua, Machalí, Requínoa, Rengo, Malloa, San Fernando, Chimbarongo, San Vicente, Coltauco, Pichidegua y Rancagua por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se han cancelado los siguientes alertamientos meteorológicos para la Región de O´Higgins: Alertamiento Pronóstico Enlace Alerta AA180-1 Precipitaciones moderadas a fuertes en corto periodo de tiempo en cordillera de la costa, valle y precordillera. Abrir aquí Alerta AA183 Tormentas Eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en zonas Abrir aquí Además, el siguiente alertamiento meteorológico a perdido su vigencia en la región, debido al debilitamiento de las condi",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-21T10:39:25.2525-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mostazal-codegua-machali-requinoa-rengo-malloa-san-fernando-y-chimbarongo-por-evento-meteorologico-2026-10-18-22-12-50",
    "origen": "senapred_web",
    "regiones_extra": []
   },
