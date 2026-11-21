@@ -1,19 +1,19 @@
 {
- "generado": "2026-11-21T16:01:56+00:00",
+ "generado": "2026-11-21T21:40:51+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "11-11-2026",
   "hasta": "21-11-2026"
  },
  "totales": {
-  "alertas": 106,
-  "sae": 6,
+  "alertas": 100,
+  "sae": 5,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ROJA": 22,
-   "AMARILLA": 16,
-   "ATP": 68
+   "ATP": 68,
+   "ROJA": 19,
+   "AMARILLA": 13
   },
   "por_tipo": [
    [
@@ -26,7 +26,7 @@
    ],
    [
     "evento meteorológico",
-    13
+    10
    ],
    [
     "viento",
@@ -34,18 +34,18 @@
    ],
    [
     "desborde",
-    7
-   ],
-   [
-    "incendio forestal",
-    3
+    6
    ],
    [
     "nevadas",
     2
    ],
    [
-    "otro",
+    "incendio forestal",
+    2
+   ],
+   [
+    "marejadas",
     1
    ]
   ]
@@ -201,15 +201,6 @@
   ],
   "evento meteorológico": [
    {
-    "lugar": "Región de Antofagasta",
-    "region": "Antofagasta",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "11-11",
-    "comuna_link": "",
-    "region_link": "antofagasta"
-   },
-   {
     "lugar": "Región de Atacama",
     "region": "Atacama",
     "nivel": "ROJA",
@@ -228,22 +219,22 @@
     "region_link": "tarapaca"
    },
    {
+    "lugar": "Región de Antofagasta",
+    "region": "Antofagasta",
+    "nivel": "ROJA",
+    "sae": false,
+    "ts": "14-11",
+    "comuna_link": "",
+    "region_link": "antofagasta"
+   },
+   {
     "lugar": "Región de Metropolitana de Santiago",
     "region": "Metropolitana de Santiago",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "11-11",
+    "ts": "12-11",
     "comuna_link": "",
     "region_link": "metropolitana de santiago"
-   },
-   {
-    "lugar": "Región de Valparaíso",
-    "region": "Valparaíso",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "11-11",
-    "comuna_link": "",
-    "region_link": "valparaiso"
    },
    {
     "lugar": "Región de Coquimbo",
@@ -317,7 +308,7 @@
     "region": "Coquimbo",
     "nivel": "ROJA",
     "sae": true,
-    "ts": "11-11",
+    "ts": "12-11",
     "comuna_link": "",
     "region_link": "coquimbo"
    },
@@ -340,26 +331,6 @@
     "region_link": "atacama"
    }
   ],
-  "incendio forestal": [
-   {
-    "lugar": "Región de Los Lagos",
-    "region": "Los Lagos",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "14-11",
-    "comuna_link": "",
-    "region_link": "los lagos"
-   },
-   {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "AMARILLA",
-    "sae": false,
-    "ts": "11-11",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   }
-  ],
   "nevadas": [
    {
     "lugar": "Región de Ñuble",
@@ -371,22 +342,33 @@
     "region_link": "nuble"
    }
   ],
-  "otro": [
+  "incendio forestal": [
    {
-    "lugar": "Ovalle",
-    "region": "Coquimbo",
+    "lugar": "Región de Los Lagos",
+    "region": "Los Lagos",
     "nivel": "ROJA",
-    "sae": true,
-    "ts": "11-11",
-    "comuna_link": "ovalle",
-    "region_link": "coquimbo"
+    "sae": false,
+    "ts": "14-11",
+    "comuna_link": "",
+    "region_link": "los lagos"
+   }
+  ],
+  "marejadas": [
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "18-11",
+    "comuna_link": "",
+    "region_link": "tarapaca"
    }
   ]
  },
  "vigentes": {
   "ROJA": 4,
   "AMARILLA": 3,
-  "ATP": 6,
+  "ATP": 7,
   "regiones_roja": [
    "Atacama",
    "Coquimbo"
@@ -395,10 +377,10 @@
  "serie": [
   {
    "fecha": "2026-11-11",
-   "ROJA": 3,
-   "AMARILLA": 3,
+   "ROJA": 0,
+   "AMARILLA": 0,
    "ATP": 1,
-   "sae": 1
+   "sae": 0
   },
   {
    "fecha": "2026-11-12",
@@ -473,35 +455,35 @@
  ],
  "escalamientos": [
   {
-   "lugar": "Región de Antofagasta",
-   "region": "Antofagasta",
+   "lugar": "Región de Valparaíso",
+   "region": "Valparaíso",
    "sae": false,
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "ATP",
-     "ts": "14-11 23:09",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "ROJA",
-     "ts": "15-11 20:36",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "16-11 12:36",
+     "ts": "15-11 23:31",
      "estado": "VIGENTE"
     },
     {
      "nivel": "AMARILLA",
-     "ts": "17-11 18:59",
+     "ts": "16-11 00:40",
      "estado": "VIGENTE"
     },
     {
-     "nivel": "ATP",
-     "ts": "19-11 22:53",
+     "nivel": "ROJA",
+     "ts": "16-11 11:03",
      "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "18-11 19:16",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "18-11 19:33",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -539,39 +521,6 @@
    ]
   },
   {
-   "lugar": "Región de Valparaíso",
-   "region": "Valparaíso",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "15-11 23:31",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "16-11 00:40",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "16-11 11:03",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "18-11 19:16",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "18-11 19:33",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
-  {
    "lugar": "Región de Atacama",
    "region": "Atacama",
    "sae": true,
@@ -601,6 +550,39 @@
      "nivel": "ROJA",
      "ts": "20-11 19:48",
      "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Antofagasta",
+   "region": "Antofagasta",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "14-11 23:09",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "15-11 20:36",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "16-11 12:36",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "17-11 18:59",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "19-11 22:53",
+     "estado": "CANCELADA"
     }
    ]
   },
