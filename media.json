@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-21T00:43:10+00:00",
- "desde": "2026-11-19T00:43:09Z",
+ "generado": "2026-11-21T01:40:05+00:00",
+ "desde": "2026-11-19T01:40:04Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -15,7 +15,7 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-20T17:33:17Z",
      "live": true,
-     "score": 4.4,
+     "score": 4.32,
      "verificado": false,
      "embeddable": true
     }
@@ -27,13 +27,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "hMDjhrC9BdQ",
-     "url": "https://www.youtube.com/watch?v=hMDjhrC9BdQ",
-     "titulo": "CDA Coquimbo oficial está en vivo",
-     "canal": "CDA Coquimbo oficial",
-     "publicado": "2026-11-21T00:02:11Z",
+     "id": "vB0U3ocphCU",
+     "url": "https://www.youtube.com/watch?v=vB0U3ocphCU",
+     "titulo": "Primera División fecha 28 y Colo Colo vs UC / Chile empató vs Colombia / Hay liguilla  en #PrimeraB",
+     "canal": "LaTortaDeportes",
+     "publicado": "2026-11-21T01:00:22Z",
      "live": true,
-     "score": 7.94,
+     "score": 4.94,
      "verificado": false,
      "embeddable": true
     },
@@ -44,7 +44,7 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-20T17:33:17Z",
      "live": true,
-     "score": 4.4,
+     "score": 4.32,
      "verificado": false,
      "embeddable": true
     }
