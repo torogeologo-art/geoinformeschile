@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-21T21:40:50+00:00",
- "desde": "2026-11-19T21:40:49Z",
+ "generado": "2026-11-21T21:54:48+00:00",
+ "desde": "2026-11-19T21:54:46Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -15,7 +15,7 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-21T17:14:10Z",
      "live": true,
-     "score": 4.63,
+     "score": 4.61,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,7 @@
      "canal": "Antofagasta TV",
      "publicado": "2026-11-21T16:36:22Z",
      "live": false,
-     "score": 5.58,
+     "score": 5.56,
      "verificado": false,
      "embeddable": true
     }
@@ -44,7 +44,7 @@
      "canal": "Cancha Libre",
      "publicado": "2026-11-21T20:10:51Z",
      "live": true,
-     "score": 0.88,
+     "score": 0.86,
      "verificado": false,
      "embeddable": true
     }
