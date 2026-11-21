@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-21T01:40:05+00:00",
- "desde": "2026-11-19T01:40:04Z",
+ "generado": "2026-11-21T07:45:44+00:00",
+ "desde": "2026-11-19T07:45:42Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,42 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "S7XrKroovXs",
-     "url": "https://www.youtube.com/watch?v=S7XrKroovXs",
-     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M6.5 en Perú (Cerro de Pasco y Oxapampa) • Terremotos 24/7",
+     "id": "HdxJ1luZSss",
+     "url": "https://www.youtube.com/watch?v=HdxJ1luZSss",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M6.8 Perú y M4.7 Chile • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-20T17:33:17Z",
+     "publicado": "2026-11-21T05:23:38Z",
      "live": true,
-     "score": 4.32,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "vB0U3ocphCU",
-     "url": "https://www.youtube.com/watch?v=vB0U3ocphCU",
-     "titulo": "Primera División fecha 28 y Colo Colo vs UC / Chile empató vs Colombia / Hay liguilla  en #PrimeraB",
-     "canal": "LaTortaDeportes",
-     "publicado": "2026-11-21T01:00:22Z",
-     "live": true,
-     "score": 4.94,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "S7XrKroovXs",
-     "url": "https://www.youtube.com/watch?v=S7XrKroovXs",
-     "titulo": "🔴 SISMOS EN VIVO HOY: Temblor M6.5 en Perú (Cerro de Pasco y Oxapampa) • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-20T17:33:17Z",
-     "live": true,
-     "score": 4.32,
+     "score": 4.8,
      "verificado": false,
      "embeddable": true
     }

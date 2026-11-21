@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T00:43:08+00:00",
+ "generado": "2026-11-21T07:45:42+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -772,17 +772,17 @@
      "sector": null
     },
     {
+     "titulo": "Senapred emite alerta de evacuación por crecidas de dos ríos en Ovalle - La Tercera",
+     "medio": "La Tercera",
+     "fecha": "2026-11-15T02:09:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb3NhSXpGTzRGd2I2bkV1b2d6VWt6N0xLNUx0ZUVjOW1YTUt3MVczSzlqYjRYT21mWmx0WUNpQWd0QldEX0cwT1dxOENYMFhaUUY5ZmRfZmRqZ3FsWnB6UDdUMlhQWEdxTVlPdDRUOHNYd1NtWW5Xa0FHTlYwR3UwT1pteDN1cE5vaTNVU085NjE4T0dldXVnUDgycVhvMzZrUEdLWThJYXo5Vlh2dzRieWk4Mlg?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred ordena evacuación en Ovalle por desborde de ríos Grande y Limarí - laconexion.cl",
      "medio": "laconexion.cl",
      "fecha": "2026-11-15T02:04:56+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3BzUHdCQUJwZ1M1OWlZSWdlbkVJZmRIQnhPTGtYYk00b0ItRVlwV0U3ZlJwWEM2Mk5wU254SGt4MUxiOUpBVFZBVTAtbnpkejRzSEMzSXlYMUNabWtMdUhianlxbDZjOFEyNUh2SThwMWdELXNZRlZ5OUxXbDZmYjJOMEZONjQxUzBGZTBSbVF6NmhuR0dhQllCTWQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred activa alerta y solicita evacuar Ovalle por desborde de los ríos Grande y Limarí - El Reporte Diario",
-     "medio": "El Reporte Diario",
-     "fecha": "2026-11-15T01:46:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMDVuV3BzcTZZZlZkUVQybzl1M2pQSHAxMWliZW83TFp1OTBjb1RnS1dmM2lTOGxoV2pzRWhtNWVseWhfZzFKQ0kxYlRmZkhnSnUzUWI1UFBaS256V1kzQ0dyU1BHaEJIQ092cG5sLXBfeHRvZV9mXy1VYm93WHVkXzk3NzlfTlUtZE1MejVvUzZkOThKNW1UNHFIQVRJVWJwWjJzNFk4QmZUclBZQl8xUDB6am5QSDFkRFFTak8wVTBXUldr?oc=5",
      "sector": null
     }
    ]
@@ -1093,6 +1093,13 @@
     {
      "titulo": "Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde - Medio digital El Zorro Nortino",
      "medio": "Medio digital El Zorro Nortino",
+     "fecha": "2026-11-21T02:30:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON1o1Und3cFdvYlJLNHJwbDhGTDFzaXVzdVZuVU84eGVGTlo2MUljaTdsSlF4S2VWai1ZNE4zcG9CU0RLZTVIZm5MWllUVUtxS25ZME1ySmE1c3VHSnBwMXg4SzF6M0VsMGtwdWhzQ1pZWk1kUlRTb2FGNm5iVTExdzFTazV3NlVSRkk0emp2dDQxNFVEUU5DcGR2MzRGcGFVQVdWckpSa3BQYmdqZ3gtT29R?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde - Medio digital El Zorro Nortino",
+     "medio": "Medio digital El Zorro Nortino",
      "fecha": "2026-11-19T00:46:46+00:00",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQUJFbnZPa0lqTjAzZkdvNVB1bmRfekcxVVNza0xDeGFWZTAxaG81ODRCRWR5X0hBVG8zaEk2MlJXQjBFUmduTVFhcUtvN0NQSXJ0ZXpsUWhuZnVEOWpGLWwxOGhtSEdmRjNDdVZCY0dJOTNDZmp3U3hWVzhjdndJYnZabVVLQ2ZERFNwOE9yOHdMV2RjM0Ruc3VURURYOHFlUVdwTjhLMTdOOWdiai1LZ2dR?oc=5",
      "sector": null
@@ -1151,13 +1158,6 @@
      "medio": "Medio digital El Zorro Nortino",
      "fecha": "2026-11-16T00:26:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTGVzQ1RKWlc0bi1vWEE3NGdqalk1SFVJcjhKX1hvV0hlYjFHV1lWNkN6NEJ3WDZrRElkOC12cUJ5VnNfWTVrbHM4cUVDV3VIbXlrUFdvRHZwc3MxRVFKQWFLY0pEajBCYVhmR1hhZVNGZUZBZUkyRWZSZEYzdm1YYm15OE1tWHUyeV9fLVljellLZU5KT01RN3Q3WUl4N2MwZWVDZGxUT1lIOE5SY1diQ3kwUWZXNkk?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "300 aislados por crecidas en Alto del Carmen - NOSTÁLGICA cl",
-     "medio": "NOSTÁLGICA cl",
-     "fecha": "2026-11-16T00:23:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1A1U2g4cndkSzZCQmhJUFRhQ1F4X3NCeno3Z2hhYkJKaWxqSUg3SERBUjRPd0RwcWZRQmZSMkhwaVB6SEZnSmZxS09uMnBiMl81QzRSLTItREF2S3dvM1g0ZTlEZi1DZmFwQUxjS0REMGVkWnhuUEZtaWZkZ0ZXXzREVGUwM3UyUnlDYzdSQ3Y2S3ZxUTRKZHZoLW52eEVmZjNpd2I2QURnWmluUzQ4RU9pZEFzTXdRcEktMGhYLUxjelJBN1Vz?oc=5",
      "sector": null
     }
    ]
