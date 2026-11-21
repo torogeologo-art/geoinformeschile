@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T08:48:10+00:00",
+ "generado": "2026-11-21T16:01:45+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,36 @@
  },
  "total_vigentes": 13,
  "alertas": [
+  {
+   "id": "22196c003a87",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se han cancelado los siguientes alertamientos meteorológicos para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A631 Probables tormentas eléctricas en cordillera austral norte, insular norte, pampa patagónica norte y pampa patagónica sur de la región Aviso A633 Probables tormentas eléctricas en las comunas de Torres del Paine, Natales, Laguna Blanca y San Gregorio En consideración a lo anterior y en coordinación con l",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-21T11:06:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-tormentas-electricas-2026-11-18-17-33-59",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
+  {
+   "id": "836387f43369",
+   "nivel": "ATP",
+   "tipo": "otros",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario",
+   "descripcion": "En atención a los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) , se encuentran vigentes las siguientes Resoluciones Exentas en la Región de Los Ríos: Resolución Exenta N° 1833 de 2026 Declaración de Emergencia Sanitaria, por la presencia del virus aviar de alta patogenicidad H5N1 (IAPP). Resolución Exenta N° 585 de 2026 Confirmación de presencia de virus aviar de alta patogenicidad H5N1 (IAPP) en la Región de Los Ríos. Activación de protocolos de vigilancia junto con formación del Centro de Operación Regional. Resolución Exenta N° 1406 de 2026 Dispone la despoblación,",
+   "region": "Los Ríos",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-21T07:08:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "9169e2b4b29d",
    "nivel": "ATP",
@@ -175,22 +205,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-11-14-14-06-56",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "61b3fd122931",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A631 Probables tormentas eléctricas en cordillera austral norte, insular norte, pampa patagónica norte y pampa patagónica sur de la región 19-11 19-11 Abrir aquí Aviso A633 Probables tormentas eléctricas en las comunas de Torres del Paine, Natales, Laguna Blanca y San Gregorio 20-11 20-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la",
-   "region": "Magallanes y de la Antártica Chilena",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-19T17:53:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-tormentas-electricas-2026-11-18-17-33-59",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "de la Antártica Chilena"
-   ]
   },
   {
    "id": "b1035c7daf23",

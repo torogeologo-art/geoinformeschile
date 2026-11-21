@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-21T08:48:13+00:00",
- "desde": "2026-11-19T08:48:11Z",
+ "generado": "2026-11-21T16:01:55+00:00",
+ "desde": "2026-11-19T16:01:53Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -11,11 +11,51 @@
     {
      "id": "HdxJ1luZSss",
      "url": "https://www.youtube.com/watch?v=HdxJ1luZSss",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M6.8 Perú y M4.7 Chile • Terremotos 24/7",
+     "titulo": "🔴 ÚLTIMA HORA EN VIVO: Fuerte Sismo M 4.4 en REPÚBLICA DOMINICANA (Santo Domingo) • Réplicas 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-21T05:23:38Z",
      "live": true,
-     "score": 4.72,
+     "score": 4.11,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "pSIXbrOJKXA",
+     "url": "https://www.youtube.com/watch?v=pSIXbrOJKXA",
+     "titulo": "CDA Coquimbo oficial está en vivo",
+     "canal": "CDA Coquimbo oficial",
+     "publicado": "2026-11-21T15:52:27Z",
+     "live": true,
+     "score": 7.99,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "NCBsx7i5EPA",
+     "url": "https://www.youtube.com/watch?v=NCBsx7i5EPA",
+     "titulo": "COQUIMBO UNIDO Vs EVERTON DE VIÑA - LIGA DE PRIMERA - EN VIVO",
+     "canal": "SoloDeportes FM",
+     "publicado": "2026-11-21T14:44:46Z",
+     "live": true,
+     "score": 7.89,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "Eg_fyneXplM",
+     "url": "https://www.youtube.com/watch?v=Eg_fyneXplM",
+     "titulo": "COQUIMBO UNIDO VS EVERTON",
+     "canal": "MI RADIO TV",
+     "publicado": "2026-11-21T14:08:45Z",
+     "live": true,
+     "score": 7.84,
      "verificado": false,
      "embeddable": true
     }
