@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-21T16:01:55+00:00",
- "desde": "2026-11-19T16:01:53Z",
+ "generado": "2026-11-21T16:40:45+00:00",
+ "desde": "2026-11-19T16:40:43Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -11,11 +11,22 @@
     {
      "id": "HdxJ1luZSss",
      "url": "https://www.youtube.com/watch?v=HdxJ1luZSss",
-     "titulo": "🔴 ÚLTIMA HORA EN VIVO: Fuerte Sismo M 4.4 en REPÚBLICA DOMINICANA (Santo Domingo) • Réplicas 24/7",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M6.7 Perú y M6.8 Timor Oriental • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-21T05:23:38Z",
      "live": true,
-     "score": 4.11,
+     "score": 4.06,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "FRaIo4fLi0I",
+     "url": "https://www.youtube.com/watch?v=FRaIo4fLi0I",
+     "titulo": "ALERTA POR DESBORDE DE AGUAS SERVIDAS EN SAN PEDRO DE ATACAMA",
+     "canal": "Antofagasta TV",
+     "publicado": "2026-11-21T16:36:22Z",
+     "live": false,
+     "score": 5.99,
      "verificado": false,
      "embeddable": true
     }
@@ -27,13 +38,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "SsAEty-w5hc",
+     "url": "https://www.youtube.com/watch?v=SsAEty-w5hc",
+     "titulo": "CDA Coquimbo oficial está en vivo",
+     "canal": "CDA Coquimbo oficial",
+     "publicado": "2026-11-21T16:21:01Z",
+     "live": true,
+     "score": 7.97,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "pSIXbrOJKXA",
      "url": "https://www.youtube.com/watch?v=pSIXbrOJKXA",
      "titulo": "CDA Coquimbo oficial está en vivo",
      "canal": "CDA Coquimbo oficial",
      "publicado": "2026-11-21T15:52:27Z",
      "live": true,
-     "score": 7.99,
+     "score": 7.93,
      "verificado": false,
      "embeddable": true
     },
@@ -43,17 +65,6 @@
      "titulo": "COQUIMBO UNIDO Vs EVERTON DE VIÑA - LIGA DE PRIMERA - EN VIVO",
      "canal": "SoloDeportes FM",
      "publicado": "2026-11-21T14:44:46Z",
-     "live": true,
-     "score": 7.89,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "Eg_fyneXplM",
-     "url": "https://www.youtube.com/watch?v=Eg_fyneXplM",
-     "titulo": "COQUIMBO UNIDO VS EVERTON",
-     "canal": "MI RADIO TV",
-     "publicado": "2026-11-21T14:08:45Z",
      "live": true,
      "score": 7.84,
      "verificado": false,
