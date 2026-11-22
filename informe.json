@@ -1,18 +1,18 @@
 {
- "generado": "2026-11-21T21:40:51+00:00",
+ "generado": "2026-11-22T01:39:12+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "11-11-2026",
-  "hasta": "21-11-2026"
+  "desde": "12-11-2026",
+  "hasta": "22-11-2026"
  },
  "totales": {
-  "alertas": 100,
+  "alertas": 99,
   "sae": 5,
   "comunas": 1,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 68,
    "ROJA": 19,
+   "ATP": 67,
    "AMARILLA": 13
   },
   "por_tipo": [
@@ -22,7 +22,7 @@
    ],
    [
     "crecida de río",
-    21
+    20
    ],
    [
     "evento meteorológico",
@@ -366,7 +366,7 @@
   ]
  },
  "vigentes": {
-  "ROJA": 4,
+  "ROJA": 3,
   "AMARILLA": 3,
   "ATP": 7,
   "regiones_roja": [
@@ -375,13 +375,6 @@
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-11-11",
-   "ROJA": 0,
-   "AMARILLA": 0,
-   "ATP": 1,
-   "sae": 0
-  },
   {
    "fecha": "2026-11-12",
    "ROJA": 2,

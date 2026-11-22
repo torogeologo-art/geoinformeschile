@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-21T21:54:48+00:00",
- "desde": "2026-11-19T21:54:46Z",
+ "generado": "2026-11-22T01:39:12+00:00",
+ "desde": "2026-11-20T01:39:10Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -15,7 +15,7 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-21T17:14:10Z",
      "live": true,
-     "score": 4.61,
+     "score": 4.3,
      "verificado": false,
      "embeddable": true
     },
@@ -26,25 +26,7 @@
      "canal": "Antofagasta TV",
      "publicado": "2026-11-21T16:36:22Z",
      "live": false,
-     "score": 5.56,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "2PT2DS_M6WY",
-     "url": "https://www.youtube.com/watch?v=2PT2DS_M6WY",
-     "titulo": "🔴 EN VIVO 🔴|  O&#39;HIGGINS  VS UNIVERSIDAD DE CHILE | LIGA DE PRIMERA | FECHA 28 |",
-     "canal": "Cancha Libre",
-     "publicado": "2026-11-21T20:10:51Z",
-     "live": true,
-     "score": 0.86,
+     "score": 5.25,
      "verificado": false,
      "embeddable": true
     }

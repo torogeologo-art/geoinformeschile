@@ -1,12 +1,12 @@
 {
- "generado": "2026-11-21T21:54:46+00:00",
+ "generado": "2026-11-22T01:39:03+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 14,
+ "total_vigentes": 13,
  "alertas": [
   {
    "id": "9f35f60e3a93",
@@ -449,7 +449,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por alerta de crecida EVITE acercarse a la ribera del Río del Carmen, en la comuna de #AltoDelCarmen, Región de Atacama.\n\n\nPara reforzar el alertamiento preventivo #SENAPRED activó mensajería #SAE.\n\n\nMantente informado a través de los canales oficiales y sigue las indicaciones de los equipos de respuesta en terreno.",
    "region": "Atacama",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-11-14T23:25:57+00:00",
    "url": "https://t.me/SenapredChile/1695",
    "origen": "telegram",
@@ -1722,20 +1722,6 @@
    "url": "https://t.me/SenapredChile/1654",
    "origen": "telegram",
    "sae": true
-  },
-  {
-   "id": "b1a3e5fd5b5f",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Se cancela Alerta Amarilla para las comunas de Maipú, Padre Hurtado, Talagante, Peñaflor, El Monte y Melipilla por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) , la estación hidrométrica “ Río Mapocho en Pte. Rinconada de Maipú” , ubicada en la comuna de Maipú, indica condiciones normales, alcanzando valores de umbral verde, lo que supone una disminución del riesgo para la población cercana a este curso de agua. En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por crecida para las comunas de Maipú, Padre Hurtado, Talagante, Peñaflor, El Monte y Melipilla ,",
-   "region": "Metropolitana de Santiago",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-22T11:46:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-maipu-padre-hurtado-talagante-penaflor-el-monte-y-melipilla-por-crecida-2026-10-20-22-13-47",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "3c1f9a957cdf",
