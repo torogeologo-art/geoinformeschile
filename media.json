@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-22T17:01:26+00:00",
- "desde": "2026-11-20T17:01:25Z",
+ "generado": "2026-11-22T17:24:54+00:00",
+ "desde": "2026-11-20T17:24:52Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,24 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "xsYZHWtdpX4",
-     "url": "https://www.youtube.com/watch?v=xsYZHWtdpX4",
-     "titulo": "🇵🇪 PERÚ A CHILE CRUZANDO LOS ANDES 😱 LA RUTA MÁS PELIGROSA DE ETS2 | Mapa EAA",
-     "canal": "ANTHONY269",
-     "publicado": "2026-11-22T15:21:02Z",
-     "live": true,
-     "score": 0.86,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "FRaIo4fLi0I",
      "url": "https://www.youtube.com/watch?v=FRaIo4fLi0I",
      "titulo": "ALERTA POR DESBORDE DE AGUAS SERVIDAS EN SAN PEDRO DE ATACAMA",
      "canal": "Antofagasta TV",
      "publicado": "2026-11-21T16:36:22Z",
      "live": false,
-     "score": 3.97,
+     "score": 3.93,
      "verificado": false,
      "embeddable": true
     }
