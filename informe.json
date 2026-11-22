@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T01:39:12+00:00",
+ "generado": "2026-11-22T08:53:03+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "12-11-2026",
@@ -7,12 +7,12 @@
  },
  "totales": {
   "alertas": 99,
-  "sae": 5,
-  "comunas": 1,
+  "sae": 4,
+  "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ROJA": 19,
-   "ATP": 67,
+   "ATP": 68,
+   "ROJA": 18,
    "AMARILLA": 13
   },
   "por_tipo": [
@@ -163,15 +163,6 @@
   ],
   "crecida de río": [
    {
-    "lugar": "Ovalle",
-    "region": "Coquimbo",
-    "nivel": "ROJA",
-    "sae": true,
-    "ts": "12-11",
-    "comuna_link": "ovalle",
-    "region_link": "coquimbo"
-   },
-   {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
     "nivel": "ROJA",
@@ -197,6 +188,15 @@
     "ts": "12-11",
     "comuna_link": "",
     "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "21-11",
+    "comuna_link": "",
+    "region_link": "tarapaca"
    }
   ],
   "evento meteorológico": [
@@ -366,7 +366,7 @@
   ]
  },
  "vigentes": {
-  "ROJA": 3,
+  "ROJA": 2,
   "AMARILLA": 3,
   "ATP": 7,
   "regiones_roja": [
@@ -377,10 +377,10 @@
  "serie": [
   {
    "fecha": "2026-11-12",
-   "ROJA": 2,
+   "ROJA": 1,
    "AMARILLA": 2,
    "ATP": 3,
-   "sae": 2
+   "sae": 1
   },
   {
    "fecha": "2026-11-13",
@@ -442,44 +442,11 @@
    "fecha": "2026-11-21",
    "ROJA": 0,
    "AMARILLA": 0,
-   "ATP": 2,
+   "ATP": 3,
    "sae": 0
   }
  ],
  "escalamientos": [
-  {
-   "lugar": "Región de Valparaíso",
-   "region": "Valparaíso",
-   "sae": false,
-   "max": "ROJA",
-   "pasos": [
-    {
-     "nivel": "ROJA",
-     "ts": "15-11 23:31",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "16-11 00:40",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "16-11 11:03",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "AMARILLA",
-     "ts": "18-11 19:16",
-     "estado": "CANCELADA"
-    },
-    {
-     "nivel": "ATP",
-     "ts": "18-11 19:33",
-     "estado": "VIGENTE"
-    }
-   ]
-  },
   {
    "lugar": "Región de Coquimbo",
    "region": "Coquimbo",
@@ -509,6 +476,39 @@
     {
      "nivel": "ATP",
      "ts": "16-11 16:22",
+     "estado": "VIGENTE"
+    }
+   ]
+  },
+  {
+   "lugar": "Región de Valparaíso",
+   "region": "Valparaíso",
+   "sae": false,
+   "max": "ROJA",
+   "pasos": [
+    {
+     "nivel": "ROJA",
+     "ts": "15-11 23:31",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "16-11 00:40",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "16-11 11:03",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "18-11 19:16",
+     "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "18-11 19:33",
      "estado": "VIGENTE"
     }
    ]
@@ -638,6 +638,15 @@
  ],
  "cronologia": [
   {
+   "ts": "21-11 23:51",
+   "nivel": "ATP",
+   "lugar": "Región de Tarapacá",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-arica-y-parinacota-y-biobio-y-para-la-comuna-de-juan-fernandez-region-de-valparaiso-por-marejadas-anniormales-2026-11-18-15-17-52"
+  },
+  {
    "ts": "21-11 11:06",
    "nivel": "ATP",
    "lugar": "Región de Magallanes y de la Antártica Chilena",
@@ -753,15 +762,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-09-14-14-37"
-  },
-  {
-   "ts": "19-11 22:51",
-   "nivel": "ATP",
-   "lugar": "Región de Los Ríos",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-11-14-14-06-56"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."

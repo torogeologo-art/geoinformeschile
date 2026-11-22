@@ -1,13 +1,38 @@
 {
- "generado": "2026-11-22T01:58:49+00:00",
+ "generado": "2026-11-22T08:52:53+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 13,
+ "total_vigentes": 12,
  "alertas": [
+  {
+   "id": "5c6a2a17bb9e",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas del borde costero entre las regiones de Arica y Parinacota y Biobío y la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales",
+   "descripcion": "De acuerdo con la información proporcionada por las Direcciones Regionales del SENAPRED, respecto del evento de marejadas anormales , proyectado hasta el 23 de noviembre para las comunas del borde costero entre las regiones de Arica y Parinacota y del Biobío, además de la comuna de Juan Fernández, Región de Valparaíso, se informa la siguiente situación reportada por la Dirección Regional del SENAPRED Valparaíso: Preliminarmente, se registran 20 familias afectadas por inundación asociada a la crecida del estero El Sauce, en el sector de Laguna Verde, comuna de Valparaíso. Las familias afectadas",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-21T23:51:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-arica-y-parinacota-y-biobio-y-para-la-comuna-de-juan-fernandez-region-de-valparaiso-por-marejadas-anniormales-2026-11-18-15-17-52",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Antofagasta",
+    "Atacama",
+    "Coquimbo",
+    "Valparaíso",
+    "Libertador General Bernardo O'Higgins",
+    "Maule",
+    "Biobío",
+    "Arica y Parinacota",
+    "Parinacota",
+    "Ñuble"
+   ]
+  },
   {
    "id": "9f35f60e3a93",
    "nivel": "ATP",
@@ -249,31 +274,6 @@
    "regiones_extra": []
   },
   {
-   "id": "9505522f0ec9",
-   "nivel": "ATP",
-   "tipo": "marejadas",
-   "titulo": "Se declara Alerta Temprana Preventiva para las comunas del borde costero continental entre las regiones de Arica y Parinacota y Biobío y para la comuna de Juan Fernández, Región de Valparaíso por marejadas anormales",
-   "descripcion": "El Centro Meteorológico Marítimo Regional de Valparaíso, dependiente de la Gobernación Marítima de Valparaíso, mediante su Aviso N° 48 informa que un sistema frontal originado en el hemisferio norte se proyectará como marejadas con dirección noroeste entre Arica hasta Golfo de Arauco, incluyendo el Archipiélago Juan Fernández, según el siguiente detalle: Archipiélago Juan Fernández&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : viernes 20 de noviembre (AM). Arica y Golfo de Arauco &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-18T14:36:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-arica-y-parinacota-y-biobio-y-para-la-comuna-de-juan-fernandez-region-de-valparaiso-por-marejadas-anniormales-2026-11-18-15-17-52",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Arica y Parinacota",
-    "Parinacota",
-    "Antofagasta",
-    "Atacama",
-    "Coquimbo",
-    "Valparaíso",
-    "Libertador General Bernardo O'Higgins",
-    "Maule",
-    "Ñuble",
-    "Biobío"
-   ]
-  },
-  {
    "id": "4cfe6b83c7c7",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
@@ -435,7 +435,7 @@
    "descripcion": "🔴 #SENAPREDInforma\n¡ATENCIÓN! Por desborde del Río Choapa, se solicita EVACUAR sector Cuncumen, en la comuna de #Salamanca, Región de Coquimbo.\n\n\n#SENAPRED activó mensajería SAE.\n\n\nMantente informado a través de los canales oficiales y sigue las indicaciones de la autoridad y de los equipos de respuesta.",
    "region": "Coquimbo",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-11-15T05:14:31+00:00",
    "url": "https://t.me/SenapredChile/1699",
    "origen": "telegram",

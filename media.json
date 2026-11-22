@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-22T01:58:52+00:00",
- "desde": "2026-11-20T01:58:50Z",
+ "generado": "2026-11-22T08:53:03+00:00",
+ "desde": "2026-11-20T08:53:02Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,24 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "FdTQmV81aWA",
-     "url": "https://www.youtube.com/watch?v=FdTQmV81aWA",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M6.7 Perú y M6.8 Timor Oriental • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-21T17:14:10Z",
-     "live": true,
-     "score": 4.27,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "FRaIo4fLi0I",
      "url": "https://www.youtube.com/watch?v=FRaIo4fLi0I",
      "titulo": "ALERTA POR DESBORDE DE AGUAS SERVIDAS EN SAN PEDRO DE ATACAMA",
      "canal": "Antofagasta TV",
      "publicado": "2026-11-21T16:36:22Z",
      "live": false,
-     "score": 5.22,
+     "score": 4.64,
      "verificado": false,
      "embeddable": true
     }
