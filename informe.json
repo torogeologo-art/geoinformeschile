@@ -1,19 +1,19 @@
 {
- "generado": "2026-11-22T17:01:27+00:00",
+ "generado": "2026-11-22T22:29:02+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "12-11-2026",
   "hasta": "22-11-2026"
  },
  "totales": {
-  "alertas": 103,
+  "alertas": 104,
   "sae": 4,
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ROJA": 18,
    "ATP": 70,
-   "AMARILLA": 15
+   "ROJA": 18,
+   "AMARILLA": 16
   },
   "por_tipo": [
    [
@@ -22,11 +22,11 @@
    ],
    [
     "crecida de río",
-    21
+    22
    ],
    [
     "evento meteorológico",
-    11
+    12
    ],
    [
     "viento",
@@ -34,7 +34,7 @@
    ],
    [
     "desborde",
-    6
+    5
    ],
    [
     "nevadas",
@@ -167,7 +167,7 @@
     "region": "Coquimbo",
     "nivel": "ROJA",
     "sae": true,
-    "ts": "13-11",
+    "ts": "12-11",
     "comuna_link": "",
     "region_link": "coquimbo"
    },
@@ -246,6 +246,15 @@
     "region_link": "coquimbo"
    },
    {
+    "lugar": "Región de Valparaíso",
+    "region": "Valparaíso",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "22-11",
+    "comuna_link": "",
+    "region_link": "valparaiso"
+   },
+   {
     "lugar": "Región de Magallanes y de la Antártica Chilena",
     "region": "Magallanes y de la Antártica Chilena",
     "nivel": "ATP",
@@ -308,7 +317,7 @@
     "region": "Coquimbo",
     "nivel": "ROJA",
     "sae": true,
-    "ts": "12-11",
+    "ts": "15-11",
     "comuna_link": "",
     "region_link": "coquimbo"
    },
@@ -367,7 +376,7 @@
  },
  "vigentes": {
   "ROJA": 2,
-  "AMARILLA": 3,
+  "AMARILLA": 4,
   "ATP": 7,
   "regiones_roja": [
    "Atacama",
@@ -448,7 +457,7 @@
   {
    "fecha": "2026-11-22",
    "ROJA": 0,
-   "AMARILLA": 2,
+   "AMARILLA": 3,
    "ATP": 3,
    "sae": 0
   }
@@ -494,11 +503,6 @@
    "max": "ROJA",
    "pasos": [
     {
-     "nivel": "ROJA",
-     "ts": "15-11 23:31",
-     "estado": "VIGENTE"
-    },
-    {
      "nivel": "AMARILLA",
      "ts": "16-11 00:40",
      "estado": "VIGENTE"
@@ -516,6 +520,11 @@
     {
      "nivel": "ATP",
      "ts": "18-11 19:33",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "22-11 17:55",
      "estado": "VIGENTE"
     }
    ]
@@ -645,6 +654,15 @@
  ],
  "cronologia": [
   {
+   "ts": "22-11 17:55",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Valparaíso",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-y-las-comunas-de-petorca-y-cabildo-por-calor-intenso-2026-11-22-17-57-09"
+  },
+  {
    "ts": "22-11 13:21",
    "nivel": "ATP",
    "lugar": "Región de Arica y Parinacota",
@@ -760,15 +778,6 @@
    "sae": false,
    "estado": "CANCELADA",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-11-14-18-32-10"
-  },
-  {
-   "ts": "20-11 15:24",
-   "nivel": "ATP",
-   "lugar": "Región de Maule",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-rio-claro-san-clemente-pelarco-colbun-linares-longavi-retiro-y-parral-por-tormentas-electricas-2026-11-20-15-23-10"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
