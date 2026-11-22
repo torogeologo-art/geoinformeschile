@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-22T09:39:35+00:00",
- "desde": "2026-11-20T09:39:34Z",
+ "generado": "2026-11-22T17:01:26+00:00",
+ "desde": "2026-11-20T17:01:25Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,31 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "xsYZHWtdpX4",
+     "url": "https://www.youtube.com/watch?v=xsYZHWtdpX4",
+     "titulo": "🇵🇪 PERÚ A CHILE CRUZANDO LOS ANDES 😱 LA RUTA MÁS PELIGROSA DE ETS2 | Mapa EAA",
+     "canal": "ANTHONY269",
+     "publicado": "2026-11-22T15:21:02Z",
+     "live": true,
+     "score": 0.86,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "FRaIo4fLi0I",
      "url": "https://www.youtube.com/watch?v=FRaIo4fLi0I",
      "titulo": "ALERTA POR DESBORDE DE AGUAS SERVIDAS EN SAN PEDRO DE ATACAMA",
      "canal": "Antofagasta TV",
      "publicado": "2026-11-21T16:36:22Z",
      "live": false,
-     "score": 4.58,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "RQX-r-53txU",
-     "url": "https://www.youtube.com/watch?v=RQX-r-53txU",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.0 Perú y M6.8 Timor Oriental • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-22T05:04:37Z",
-     "live": true,
-     "score": 4.62,
+     "score": 3.97,
      "verificado": false,
      "embeddable": true
     }

@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T08:53:01+00:00",
+ "generado": "2026-11-22T17:01:24+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -1091,6 +1091,13 @@
    "comuna": "Alto del Carmen",
    "noticias": [
     {
+     "titulo": "Más de 1.100 personas aisladas por crecidas de ríos y daños en caminos en Atacama - madero.cl",
+     "medio": "madero.cl",
+     "fecha": "2026-11-22T15:00:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0lzS1ZwOUFxMkJXWk16SzdJV0RVUVlqejBkTnhfbFJtZ3dkMUdfZXRfQk14eEFsVkYydDJkazJHa0UwTkhWTk5rdW5CX200SW9QQVo0Q1llMVAzcjdEVTU0aDU2UUFMdHd0MUJ0REVzOUlJbzVVLVUyTktNMzZscnI0MnAzZWpid2JOVzFxQUxNdWVxbnJuVmNvekF1RkJnWEE?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde - Medio digital El Zorro Nortino",
      "medio": "Medio digital El Zorro Nortino",
      "fecha": "2026-11-21T02:30:03+00:00",
@@ -1151,13 +1158,6 @@
      "medio": "Madero CL",
      "fecha": "2026-11-16T16:28:30+00:00",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTEU3TGNxQi1Fd01UU0lvbXpSYVdvV1ZGWUNWem4xZm9rTE0xWWdNamRNVU9zenc2dHN1NUxtYXo2aWw2V1ItbWthZFVuMWNGaHpXMUtSOTRwR21PV185bWhQUFlLdEt3WUk5UmNzeC1kS0p6cHFYeVpBQzFNUQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Emergencia en Alto del Carmen deja personas aisladas y viviendas afectadas - Medio digital El Zorro Nortino",
-     "medio": "Medio digital El Zorro Nortino",
-     "fecha": "2026-11-16T00:26:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTGVzQ1RKWlc0bi1vWEE3NGdqalk1SFVJcjhKX1hvV0hlYjFHV1lWNkN6NEJ3WDZrRElkOC12cUJ5VnNfWTVrbHM4cUVDV3VIbXlrUFdvRHZwc3MxRVFKQWFLY0pEajBCYVhmR1hhZVNGZUZBZUkyRWZSZEYzdm1YYm15OE1tWHUyeV9fLVljellLZU5KT01RN3Q3WUl4N2MwZWVDZGxUT1lIOE5SY1diQ3kwUWZXNkk?oc=5",
      "sector": null
     }
    ]

@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T08:52:54+00:00",
+ "generado": "2026-11-22T17:01:18+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
   {
@@ -12,17 +12,6 @@
    "lugar": "Atacama",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-huasco-freirina-y-vallenar-por-crecida-2026-11-14-21-37-54",
    "ts": "2026-11-18T13:00"
-  },
-  {
-   "nombre": "río Copiapó",
-   "lat": -27.53921,
-   "lon": -70.27293,
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "sae": false,
-   "lugar": "Atacama",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-11-15-20-54-08",
-   "ts": "2026-11-17T13:30"
   }
  ]
 }

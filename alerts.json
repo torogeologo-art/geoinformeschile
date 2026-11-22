@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T09:39:33+00:00",
+ "generado": "2026-11-22T17:01:18+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,78 @@
  },
  "total_vigentes": 12,
  "alertas": [
+  {
+   "id": "d262e52358a6",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para provincia de Parinacota y la comuna de Camarones por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A638 Probables tormentas eléctricas en zona de cordillera, preferentemente durante la tarde-noche con precipitaciones aisladas. 24-11 25-11 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por tormentas eléctricas",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-22T13:21:15.1515-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-provincia-de-parinacota-y-la-comuna-de-camarones-por-tormentas-electricas-2026-11-22-13-22-34",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
+  {
+   "id": "fca8912f446d",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Alto del Carmen, Vallenar, Huasco y Freirina por viento",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A629-1 Viento normal a moderado con probabilidad de tormentas de arena en el litoral de la Provincia de Huasco. 20-11 23-11 Abrir aquí Aviso 639 Viento normal a moderado en la cordillera de la región. 22-11 23-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-22T13:16:54.5454-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-11-14-17-33-44",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "2235d240f9e7",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo: Alertamiento Pronóstico Inicio Fin Enlace Aviso A637 Probables tormentas eléctricas asociadas con chubascos aislados en cordillera de la región. 23-11 23-11 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por tormentas eléctricas para las comunas de La Higuera, Paihuano, Vicuña,",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-22T13:03:08.088-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-11-22-13-04-16",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "1431ee89fffa",
+   "nivel": "ATP",
+   "tipo": "crecida de río",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Concón, Quintero, Quillota y Limache por crecida",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de Valparaíso, a través de las estaciones fluviométricas del Río Aconcagua , se puede observar una disminución significativa y estabilización de sus caudales , manteniéndose actualmente dentro de parámetros normales correspondientes al umbral verde . En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por crecida para las comunas de Concón, Quintero, Quillota y Limache , que se mantuvo vigente d",
+   "region": "Valparaíso",
+   "comunas": [],
+   "estado": "CANCELADA",
+   "ts": "2026-11-22T10:18:14.1414-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "fd1aa831dedb",
+   "nivel": "AMARILLA",
+   "tipo": "evento meteorológico",
+   "titulo": "Monitoreo Alerta Amarilla para la provincia de El Loa y las comunas de Antofagasta, Sierra Gorda y María Elena por calor intenso",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A628-3 Altas temperaturas en Pampa, Precordillera Occidental y Precordillera Salar de la región (27 – 36°C). 22-11 23-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED mantiene la Alerta Amarilla por calor intenso para las provincia de El Loa y las comunas d",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-22T09:38:53.5353-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-calor-intenso-2026-11-17-19-36-44",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "5c6a2a17bb9e",
    "nivel": "ATP",
@@ -88,34 +160,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-20T19:48:15.1515-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "2b19547f99de",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A629-1 Viento normal a moderado con probabilidad de tormentas de arena en el litoral de la Provincia de Huasco. 20-11 23-11 Abrir aquí En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva por viento para las comunas de Huasco y Freirina , que se",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-20T18:06:47.4747-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-11-14-17-33-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "b9053610de9c",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Concón, Quintero, Quillota y Limache por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional de Valparaíso, a través de las estaciones fluviométricas del Río Aconcagua , se puede observar una tendencia a la baja y estabilización de sus caudales , manteniéndose actualmente dentro de parámetros normales correspondientes al umbral verde (a excepción de la estación Puente Colmo en umbral azul). Se prevé que los caudales mantengan un comportamiento relativamente estable, sin perjuicio de eventuales incrementos que sean detectados con el monitoreo permanente de la Dirección General de Aguas (DGA). En consideración a estos",
-   "region": "Valparaíso",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-20T17:48:31.3131-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -246,20 +290,6 @@
    "regiones_extra": []
   },
   {
-   "id": "659c192d8c90",
-   "nivel": "AMARILLA",
-   "tipo": "evento meteorológico",
-   "titulo": "Se modifica cobertura de Alerta Amarilla para las Provincia de El Loa y comunas de Antofagasta, Sierra Gorda y María Elena por calor intenso",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A628-1 Altas temperaturas en Pampa, Precordillera Occidental y Precordillera Salar de la región (27 – 36°C). 19-11 23-11 Abrir Aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED modifica cobertura de Alerta Amarilla por calor intenso para las Provincia de El Loa y com",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-18T19:24:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-calor-intenso-2026-11-17-19-36-44",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
    "id": "f7684fb92414",
    "nivel": "AMARILLA",
    "tipo": "crecida de río",
@@ -312,20 +342,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-18T09:35:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-14-15-36-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "ef1b7452740d",
-   "nivel": "AMARILLA",
-   "tipo": "crecida de río",
-   "titulo": "Monitoreo Alerta Amarilla para la Comuna de Tierra Amarilla por crecida",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se informa que los caudales de la cuenca alta del río Copiapó, aguas arriba del embalse Lautaro, ha evidenciado una interrupción de la tendencia sostenida al alza de los caudales observada durante las últimas semanas, presentándose actualmente una tendencia hacia la baja. Cabe señalar que estos caudales continúan situándose por sobre sus valores medios habituales para esta época del año, reflejando las condiciones de mayor disponibilidad hídrica asociadas a la presente temporada de deshielo. Las estaciones hid",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-17T13:30:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-11-15-20-54-08",
    "origen": "senapred_web",
    "regiones_extra": []
   },
