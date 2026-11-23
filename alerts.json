@@ -1,13 +1,54 @@
 {
- "generado": "2026-11-22T22:42:34+00:00",
+ "generado": "2026-11-23T03:02:01+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 13,
+ "total_vigentes": 12,
  "alertas": [
+  {
+   "id": "8fee707e56fe",
+   "nivel": "ATP",
+   "tipo": "marejadas",
+   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas del borde costero entre las regiones de Arica y Parinacota y Biobío y la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales",
+   "descripcion": "De acuerdo con la información proporcionada por las Direcciones Regionales del SENAPRED , respecto del evento de marejadas anormales , proyectado hasta el 23 de noviembre para las comunas del borde costero entre las regiones de Arica y Parinacota y del Biobío, además de la comuna de Juan Fernández, Región de Valparaíso, se informa la siguiente situación reportada por la Dirección Regional del SENAPRED Valparaíso: Durante la presente jornada se reportaron 2 personas con riesgo de inmersión en el sector de Caleta Vieja de la comuna de Cartagena, de las cuales 1 resultó fallecida y la otra fue re",
+   "region": "Tarapacá",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-22T20:31:39.3939-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-arica-y-parinacota-y-biobio-y-para-la-comuna-de-juan-fernandez-region-de-valparaiso-por-marejadas-anniormales-2026-11-18-15-17-52",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Antofagasta",
+    "Atacama",
+    "Coquimbo",
+    "Valparaíso",
+    "Libertador General Bernardo O'Higgins",
+    "Maule",
+    "Biobío",
+    "Arica y Parinacota",
+    "Parinacota",
+    "Ñuble"
+   ]
+  },
+  {
+   "id": "bc2fa956b50f",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A635 Probables tormentas eléctricas en cordillera austral norte, cordillera austral sur, insular central, insular sur, pampa patagónica norte y pampa patagónica sur de la región 22-11 24-11 Abrir aquí Aviso A642 Viento normal a moderado en Cordillera Austral Sur, Insular Central, Pampa Patagónica Norte y Pampa Patagónica Sur. 25-11 26-11 Abrir aquí Aviso A643 Precipit",
+   "region": "Magallanes y de la Antártica Chilena",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-22T20:07:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-tormentas-electricas-2026-11-21-17-00-38",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "de la Antártica Chilena"
+   ]
+  },
   {
    "id": "bea8a49105cf",
    "nivel": "AMARILLA",
@@ -95,41 +136,16 @@
    "regiones_extra": []
   },
   {
-   "id": "5c6a2a17bb9e",
-   "nivel": "ATP",
-   "tipo": "crecida de río",
-   "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas del borde costero entre las regiones de Arica y Parinacota y Biobío y la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales",
-   "descripcion": "De acuerdo con la información proporcionada por las Direcciones Regionales del SENAPRED, respecto del evento de marejadas anormales , proyectado hasta el 23 de noviembre para las comunas del borde costero entre las regiones de Arica y Parinacota y del Biobío, además de la comuna de Juan Fernández, Región de Valparaíso, se informa la siguiente situación reportada por la Dirección Regional del SENAPRED Valparaíso: Preliminarmente, se registran 20 familias afectadas por inundación asociada a la crecida del estero El Sauce, en el sector de Laguna Verde, comuna de Valparaíso. Las familias afectadas",
-   "region": "Tarapacá",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-21T23:51:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-arica-y-parinacota-y-biobio-y-para-la-comuna-de-juan-fernandez-region-de-valparaiso-por-marejadas-anniormales-2026-11-18-15-17-52",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Antofagasta",
-    "Atacama",
-    "Coquimbo",
-    "Valparaíso",
-    "Libertador General Bernardo O'Higgins",
-    "Maule",
-    "Biobío",
-    "Arica y Parinacota",
-    "Parinacota",
-    "Ñuble"
-   ]
-  },
-  {
-   "id": "9f35f60e3a93",
+   "id": "22196c003a87",
    "nivel": "ATP",
    "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la Región de Magallanes por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes: Alertamiento Pronóstico Inicio Fin Enlace Aviso A635 Probables tormentas eléctricas en cordillera austral norte, cordillera austral sur, insular central, insular sur, pampa patagónica norte y pampa patagónica sur de la región 22-11 24-11 Abrir aquí ​ En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED declara Alerta Temprana",
+   "titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se han cancelado los siguientes alertamientos meteorológicos para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que los originaron: Alertamiento Pronóstico Aviso A631 Probables tormentas eléctricas en cordillera austral norte, insular norte, pampa patagónica norte y pampa patagónica sur de la región Aviso A633 Probables tormentas eléctricas en las comunas de Torres del Paine, Natales, Laguna Blanca y San Gregorio En consideración a lo anterior y en coordinación con l",
    "region": "Magallanes y de la Antártica Chilena",
    "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-21T16:59:17.1717-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-tormentas-electricas-2026-11-21-17-00-38",
+   "estado": "CANCELADA",
+   "ts": "2026-11-21T11:06:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-tormentas-electricas-2026-11-18-17-33-59",
    "origen": "senapred_web",
    "regiones_extra": [
     "de la Antártica Chilena"
@@ -437,7 +453,7 @@
    "descripcion": "Según los antecedentes proporcionados por la Dirección Regional del SENAPRED Atacama, producto del evento de Altas Temperaturas extremas registradas en la región de Atacama durante los últimos días se ha favorecido la intensificación del proceso de deshielos en las cabeceras de las cuencas regionales, generando un incremento sostenido de los caudales. Cabe mencionar que según lo indicado por la DGA, las temperaturas elevadas pueden favorecer los procesos de fusión de la nieve acumulada en las zonas altas de las cuencas, generando mayores aportes superficiales hacia los cauces y sus afluentes.",
    "region": "Atacama",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-11-15T20:31:18.1818-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
    "origen": "senapred_web",
@@ -1722,22 +1738,6 @@
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-10-16-19-58-34",
    "origen": "senapred_web",
    "regiones_extra": []
-  },
-  {
-   "id": "f0eaf697d08f",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado el siguiente alertamiento meteorológico para la Región de Arica y Parinacota, debido al debilitamiento de las condiciones meteorológicas que lo originaron: Alertamiento Pronóstico Aviso A577 Probables tormentas eléctricas asociadas con chubascos aislados en la cordillera de la región. En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la Provincia",
-   "region": "Arica y Parinacota",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-23T20:49:23.2323-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-09-17-56-03",
-   "origen": "senapred_web",
-   "regiones_extra": [
-    "Parinacota"
-   ]
   },
   {
    "id": "2c412baecfe2",
