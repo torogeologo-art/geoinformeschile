@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-23T12:55:14+00:00",
- "desde": "2026-11-21T12:55:12Z",
+ "generado": "2026-11-23T12:58:34+00:00",
+ "desde": "2026-11-21T12:58:33Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -8,6 +8,17 @@
    "region": "Atacama",
    "alerta": "ROJA",
    "videos": [
+    {
+     "id": "MQtCoY4C_Wg",
+     "url": "https://www.youtube.com/watch?v=MQtCoY4C_Wg",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.4 Perú y M6.5 Vanuatu • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-23T04:45:25Z",
+     "live": true,
+     "score": 4.32,
+     "verificado": false,
+     "embeddable": true
+    },
     {
      "id": "FRaIo4fLi0I",
      "url": "https://www.youtube.com/watch?v=FRaIo4fLi0I",
