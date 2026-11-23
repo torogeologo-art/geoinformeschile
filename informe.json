@@ -1,28 +1,28 @@
 {
- "generado": "2026-11-23T03:02:09+00:00",
+ "generado": "2026-11-23T12:55:14+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "13-11-2026",
   "hasta": "23-11-2026"
  },
  "totales": {
-  "alertas": 101,
-  "sae": 3,
+  "alertas": 99,
+  "sae": 2,
   "comunas": 0,
   "regiones": 14,
   "por_nivel": {
-   "ATP": 70,
-   "ROJA": 17,
-   "AMARILLA": 14
+   "AMARILLA": 14,
+   "ROJA": 16,
+   "ATP": 69
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    51
+    50
    ],
    [
     "crecida de río",
-    19
+    18
    ],
    [
     "evento meteorológico",
@@ -62,15 +62,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "13-11",
-    "comuna_link": "",
-    "region_link": "arica y parinacota"
-   },
-   {
     "lugar": "Región de Tarapacá",
     "region": "Tarapacá",
     "nivel": "ATP",
@@ -78,6 +69,15 @@
     "ts": "13-11",
     "comuna_link": "",
     "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "14-11",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
    },
    {
     "lugar": "Región de La Araucanía",
@@ -166,8 +166,8 @@
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
     "nivel": "ROJA",
-    "sae": true,
-    "ts": "13-11",
+    "sae": false,
+    "ts": "14-11",
     "comuna_link": "",
     "region_link": "coquimbo"
    },
@@ -377,10 +377,10 @@
  "serie": [
   {
    "fecha": "2026-11-13",
-   "ROJA": 2,
+   "ROJA": 1,
    "AMARILLA": 1,
-   "ATP": 4,
-   "sae": 1
+   "ATP": 3,
+   "sae": 0
   },
   {
    "fecha": "2026-11-14",

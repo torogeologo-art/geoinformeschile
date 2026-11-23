@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-23T03:11:47+00:00",
- "desde": "2026-11-21T03:11:46Z",
+ "generado": "2026-11-23T12:55:14+00:00",
+ "desde": "2026-11-21T12:55:12Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -15,7 +15,36 @@
      "canal": "Antofagasta TV",
      "publicado": "2026-11-21T16:36:22Z",
      "live": false,
-     "score": 3.12,
+     "score": 3.0,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "QnsOutwLLes",
+     "url": "https://www.youtube.com/watch?v=QnsOutwLLes",
+     "titulo": "Emisión en directo de la Herradura, coquimbo.",
+     "canal": "Casa Herradura",
+     "publicado": "2026-11-22T21:55:57Z",
+     "live": true,
+     "score": 6.75,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "MQtCoY4C_Wg",
+     "url": "https://www.youtube.com/watch?v=MQtCoY4C_Wg",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.4 Perú y M6.5 Vanuatu • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-23T04:45:25Z",
+     "live": true,
+     "score": 4.32,
      "verificado": false,
      "embeddable": true
     }
