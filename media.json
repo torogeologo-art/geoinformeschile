@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-23T12:58:34+00:00",
- "desde": "2026-11-21T12:58:33Z",
+ "generado": "2026-11-24T00:41:29+00:00",
+ "desde": "2026-11-22T00:41:28Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "atacama": {
@@ -9,53 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "MQtCoY4C_Wg",
-     "url": "https://www.youtube.com/watch?v=MQtCoY4C_Wg",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.4 Perú y M6.5 Vanuatu • Terremotos 24/7",
+     "id": "Ud7Z_Khz6N0",
+     "url": "https://www.youtube.com/watch?v=Ud7Z_Khz6N0",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M4.1 México y M6.5 Vanuatu • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-23T04:45:25Z",
+     "publicado": "2026-11-23T16:35:51Z",
      "live": true,
-     "score": 4.32,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "FRaIo4fLi0I",
-     "url": "https://www.youtube.com/watch?v=FRaIo4fLi0I",
-     "titulo": "ALERTA POR DESBORDE DE AGUAS SERVIDAS EN SAN PEDRO DE ATACAMA",
-     "canal": "Antofagasta TV",
-     "publicado": "2026-11-21T16:36:22Z",
-     "live": false,
-     "score": 3.0,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "QnsOutwLLes",
-     "url": "https://www.youtube.com/watch?v=QnsOutwLLes",
-     "titulo": "Emisión en directo de la Herradura, coquimbo.",
-     "canal": "Casa Herradura",
-     "publicado": "2026-11-22T21:55:57Z",
-     "live": true,
-     "score": 6.75,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "MQtCoY4C_Wg",
-     "url": "https://www.youtube.com/watch?v=MQtCoY4C_Wg",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.4 Perú y M6.5 Vanuatu • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-23T04:45:25Z",
-     "live": true,
-     "score": 4.32,
+     "score": 4.33,
      "verificado": false,
      "embeddable": true
     }
