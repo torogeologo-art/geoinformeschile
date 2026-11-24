@@ -1,13 +1,41 @@
 {
- "generado": "2026-11-24T10:28:36+00:00",
+ "generado": "2026-11-24T20:49:59+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 8,
+ "total_vigentes": 10,
  "alertas": [
+  {
+   "id": "d7d50f521fb7",
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "titulo": "Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo , ante el mejoramiento de las condiciones meteorológicas de los últimos días y tras los trabajos realizados en diversas rutas y sectores de la región, producto de las activaciones de quebradas y crecidas, se mantienen los siguientes antecedentes en la región: COMUNA AFECTACIÓN A PERSONAS - DAÑO A VIVIENDAS Y/O ESTRUCTURAS Salamanca Aumento de caudal en el sector Cuncumén se encuentra afectando la infraestructura eléctrica, comprometiendo el servicio del lugar. Compañía eléctrica en conocimiento para su",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-24T16:53:03.033-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "ff9200ee0522",
+   "nivel": "ATP",
+   "tipo": "evento meteorológico",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Región Metropolitana por amenaza de incendios forestales",
+   "descripcion": "De acuerdo con el análisis técnico de CONAF, además del pronóstico de condiciones meteorológicas favorables para la ignición y propagación de incendios forestales, la Delegación Presidencial Regional Metropolitana de Santiago, en coordinación con la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente a contar de hoy y hasta que las condiciones así lo ameriten. La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y l",
+   "region": "Metropolitana de Santiago",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-24T13:08:08.088-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-amenaza-de-incendios-forestales-2026-11-24-13-17-30",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "696e5b847371",
    "nivel": "ATP",
@@ -386,20 +414,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-18T09:35:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-14-15-36-40",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "9c7df533900a",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo , se reportan los siguientes antecedentes producto de las activaciones de quebradas y crecidas en la región: COMUNA AFECTACIÓN A PERSONAS - DAÑO A VIVIENDAS Y/O ESTRUCTURAS Vicuña Se mantienen activas las quebradas Calvario y Uchumi (con menos caudal) 25 viviendas con daño menor en los sectores de Chapilca y Rivadavia. Sector Siucho con sedimento en ruta y sector Chapilca inundado. Puentes cerrados por precaución en los sectores de Totoralillo y Varilla. Salamanca 160 personas fueron evacuadas desde el",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "EXPIRADA",
-   "ts": "2026-11-16T12:17:52.5252-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
    "origen": "senapred_web",
    "regiones_extra": []
   },

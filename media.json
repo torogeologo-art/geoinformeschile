@@ -1,6 +1,43 @@
 {
- "generado": "2026-11-24T10:28:37+00:00",
- "desde": "2026-11-22T10:28:37Z",
+ "generado": "2026-11-24T20:50:08+00:00",
+ "desde": "2026-11-22T20:50:07Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "Ze8Y7vaEC8g",
+     "url": "https://www.youtube.com/watch?v=Ze8Y7vaEC8g",
+     "titulo": "🔴 ÚLTIMA HORA EN VIVO: Fuerte Sismo M 5.8 en CHILE (Coquimbo y La Serena) • Réplicas 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-24T16:16:43Z",
+     "live": true,
+     "score": 7.62,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "Ze8Y7vaEC8g",
+     "url": "https://www.youtube.com/watch?v=Ze8Y7vaEC8g",
+     "titulo": "🔴 ÚLTIMA HORA EN VIVO: Fuerte Sismo M 5.8 en CHILE (Coquimbo y La Serena) • Réplicas 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-24T16:16:43Z",
+     "live": true,
+     "score": 4.62,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }

@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T10:27:35+00:00",
+ "generado": "2026-11-24T20:50:06+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -866,6 +866,13 @@
    "comuna": "Paihuano",
    "noticias": [
     {
+     "titulo": "Senapred reportó 834 personas aisladas y 35 viviendas con daño menor por crecidas y quebradas activadas - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-11-16T14:16:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWXdwRS1zRjg2WHdTaVlvc2JkWDB5V3d1ak1VMGxfZ2lXLTJfbVNnZVRKS0tBaGJSTnFoRngyTm1HdG1icFBXSlRyanFxLVNkMmlya0N0VTQwOU51SXplWjVYei1NWWI5UXlwcFp2Q3RGNUJDRkQzYUtxaU9ySEl6azZYTU9HLVpsa1lVN1RtaXZxWXNMLWYwSXdoNnpNV29Edmh1ajN2eEVrbDBvWFQ4?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Senapred activa mensajería SAE en Paihuano por crecida de estero y activación de quebradas - VLN Radio",
      "medio": "VLN Radio",
      "fecha": "2026-11-10T18:50:25+00:00",
@@ -926,13 +933,6 @@
      "medio": "VLN Radio",
      "fecha": "2026-07-21T16:25:42+00:00",
      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTnNMQkdhS2stUF9UeHI3V2wxNy0ybjNMSFdhaDBoMENWNmlYNnZvMDhWVVBBcjlBbjAwdlIyUnB0OHJJX3NfbnhxaFlGU0ZYU0ZtQnl3MC13R0JOTkpKa0RrOVB5NFpnWWgwc3hNdXYxd1Z0ZkpvYTh4NW9Fc2lNT2VxaF9Zc1Y2ZVQ0SHRTSXhFUW02eUVBTzl2NUo2VUl5NEQ1WnFEanEtRU1oeGZTelpvcmZOQTRPakphN0E3b1JvVng5Y0NCODV2VGczdDdwMkpMa0ZsOENvTjN5SG9keDJvRXVxYVpZM1JCbEtsQ2JnRFd1N1lVYjM1ZnQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred pide evitar sector quebradas y pendientes fuertes en la comuna de Paihuano por remoción en masa - VLN Radio",
-     "medio": "VLN Radio",
-     "fecha": "2026-07-21T13:34:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMzBvQU1rQUVYQ1ZSdlNLT1ZLX0FGLWM5aTR1N1RPYkpYRXpxUlA1c0Vnbnd4alpoSmVoQmtSaXkwNEpPdWlUd09XN3huUGdMbzhaRWtCbV9JeFN3SkRQa3l2U3JXcmRGbkdrTDRqOWszQjdTbDhMUkFtRlJCNEc1UUNJeWJoMmYyemlTRlNDa1Nnem82eG1QU2YzcmdwaWhvQzA4RTFva1poWFppTURNVGZyQ1hzVzhYdDc3VERZRm5iS3YxUjJNWk91c3ZtQnV4cVN3SjhBd1pZQkh3SHd0b1BnZnpTQmVSaFFNWERpQ0Rha1ZWQTZOMWN4X1d6dEwwNUFxYnpTcWU?oc=5",
      "sector": null
     }
    ]
@@ -1393,6 +1393,13 @@
     {
      "titulo": "Cuáles son las siete comunas de la región de Coquimbo en alerta roja y por qué - Teletrece",
      "medio": "Teletrece",
+     "fecha": "2026-11-16T10:52:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZU5BV2Q3Z29LS3FxcW5VLW90M1dTVlpsdm5tRVlXZ1owTEFXR3prTVRGbWotU3ZhVFlKUlRieVFNSzI1S3FLQV9SNjJoR0xDdk1qQl9jYlMtUHRBSU84bXdOWUVhQUNxbF9aTVpqNDNsQUZWb1JDdmprRzdRdDVwanBmN3lZN1Q2aGNtOW94dDZlRVIxMDh4NEMxYkxiMUxEV1FNY0s2bmhTWDN3S29xajZiS2hjQ3pqUGhpTFlZcHNFU2s?oc=5",
+     "sector": null
+    },
+    {
+     "titulo": "Cuáles son las siete comunas de la región de Coquimbo en alerta roja y por qué - Teletrece",
+     "medio": "Teletrece",
      "fecha": "2026-11-16T10:52:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOEFvb0U4Um1mblJTakhMcEV2RUZ5cFp3ZU9MRWtGNFppNXhrdk1iUDBkN0FYQWhKQVRvTEFOVkxBUV92TW9tbzNRbFBCTHhqVmVGdExOcHQxN3dlRFc4NW93aXk2RDBjTHI0QWptRFBnNklFZ2QxX2pEc0F4dnpBTUpoeTF2SEpueUpoamwxM0M1eGNpWVZfakJuODhqalBzOUw4NGg2VndoRVBqNFlOaTVWMVRnc0hTY1Y1dEJNT3BVMjNPaUhmedIByAFBVV95cUxPOEFvb0U4Um1mblJTakhMcEV2RUZ5cFp3ZU9MRWtGNFppNXhrdk1iUDBkN0FYQWhKQVRvTEFOVkxBUV92TW9tbzNRbFBCTHhqVmVGdExOcHQxN3dlRFc4NW93aXk2RDBjTHI0QWptRFBnNklFZ2QxX2pEc0F4dnpBTUpoeTF2SEpueUpoamwxM0M1eGNpWVZfakJuODhqalBzOUw4NGg2VndoRVBqNFlOaTVWMVRnc0hTY1Y1dEJNT3BVMjNPaUhmeQ?oc=5",
      "sector": null
@@ -1471,13 +1478,6 @@
      "medio": "Diario de Cuyo",
      "fecha": "2026-08-18T12:21:09+00:00",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2RvbjVSRzlMSUtZaUhmMGNLUHFTeU5QUXFRYlREV2hhWGlJSHk5V3dkSHdvZ0ZfQmMyd2RqdnhoYWx4ZXhQVXN4cDg5a3RwTmhnM3k2bkdRaEtJR1ZWcTZRb0ZyNGlLeGRHeTJKRVBmQnI4M05yUlJ6anVpQURqMWpENW5mMFFFY3c0ZDFpWTZZS2pTS200TW01cFFQMmFZWktyZzB3ZndLOWRzS2dLcHBjVFY0SDQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Lluvias dejan cortes de rutas, activación de quebradas y problemas de conectividad en la Región de Coquimbo - madero.cl",
-     "medio": "madero.cl",
-     "fecha": "2026-08-18T12:21:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaHkxOFd6amRmUXBmSmdNa25JR05TdTd5UDlRVlVSaEw5S2tTSlk4Um04ZklSS0tsTEFNUDNzelQ2TU5lcHY4Z19wZUVLRFhWYmR1SDMtOFdZVGNZaGYwSG5fbGoybjZ1OXFyeDFLbVpuVjlsUlhocmZ6b1EtYm5pS1paMTdEUzllRlJBNEdVdnBZUkxuRGpoSjFQbkVjY2VVaGRfZFFNaDVZRmJJR1NGekljS1ZvLUtHRE1BU2txaG1ON1E?oc=5",
      "sector": null
     }
    ]

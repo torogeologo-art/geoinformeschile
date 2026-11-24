@@ -1,7 +1,18 @@
 {
- "generado": "2026-11-24T10:27:30+00:00",
+ "generado": "2026-11-24T20:50:00+00:00",
  "nota": "Puntos geocodificados automáticamente desde los boletines (referenciales).",
  "sectores": [
+  {
+   "nombre": "sector Cuncumén",
+   "lat": -31.91712,
+   "lon": -70.62415,
+   "nivel": "ROJA",
+   "tipo": "crecida de río",
+   "sae": false,
+   "lugar": "Coquimbo",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
+   "ts": "2026-11-24T16:53"
+  },
   {
    "nombre": "río Huasco",
    "lat": -28.55575,
