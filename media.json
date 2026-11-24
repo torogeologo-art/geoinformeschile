@@ -1,25 +1,6 @@
 {
- "generado": "2026-11-24T00:43:56+00:00",
- "desde": "2026-11-22T00:43:55Z",
+ "generado": "2026-11-24T10:27:36+00:00",
+ "desde": "2026-11-22T10:27:36Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "Ud7Z_Khz6N0",
-     "url": "https://www.youtube.com/watch?v=Ud7Z_Khz6N0",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M4.1 México y M6.5 Vanuatu • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-23T16:35:51Z",
-     "live": true,
-     "score": 4.32,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
