@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T04:03:06+00:00",
+ "generado": "2026-11-25T14:28:24+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -716,6 +716,13 @@
    "comuna": "Ovalle",
    "noticias": [
     {
+     "titulo": "Inundación y robos golpean al Complejo de Profesores de Ovalle: sustrajeron especies de seis pérgolas - Mi Radio",
+     "medio": "Mi Radio",
+     "fecha": "2026-11-25T14:03:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFNneXlwRUZMS2M0bUw4M3BuRko4bjktYWRYaC01THlXN3RFV3BjNk5aQ0NTaWRVbXRxVzlYMWdrNU5YSjdtTFRpM3RMQkx5dVdPcnBISk1fR3hzWTdFN3RJSjgzZnRHQVVzbG0wcWhOb2dDQUVoSzg1dERmcmVLZkc5MTFnMlhjTDR0ODUxZzBBdw?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Ovalle: Rescatan a personas que quedaron aisladas en badén San Julián–El Trapiche por crecida del río Limarí - Mi Radio",
      "medio": "Mi Radio",
      "fecha": "2026-11-19T22:10:26+00:00",
@@ -776,13 +783,6 @@
      "medio": "La Tercera",
      "fecha": "2026-11-15T02:09:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb3NhSXpGTzRGd2I2bkV1b2d6VWt6N0xLNUx0ZUVjOW1YTUt3MVczSzlqYjRYT21mWmx0WUNpQWd0QldEX0cwT1dxOENYMFhaUUY5ZmRfZmRqZ3FsWnB6UDdUMlhQWEdxTVlPdDRUOHNYd1NtWW5Xa0FHTlYwR3UwT1pteDN1cE5vaTNVU085NjE4T0dldXVnUDgycVhvMzZrUEdLWThJYXo5Vlh2dzRieWk4MljSAdYBQVVfeXFMT0NtTXcybnkwbHJES3p0LVdpNlBtWXkyOEFWX2c2MUloTWMzWkNhbDBIcGhlc0pnQkZvUkhBZ0FqT2lfd0JLNFNpTENON0t2d191MmNPODltdTFzdWRYMlVmbmVST09yLWZHNHBGQTVRWWFjeGktUllmdVpUZmp0Z0JpM1VSaUhVZXNuaE9rX0RMX0l6SjVIbUFmWkZ1bDlmU0NsbHA3V25kLUZfZHFoWXUxY2RYMU5oR0tzRmpEY2Q2TDRtYk1QSnlaUF96THNLa3UwMnh5UQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Senapred emite alerta de evacuación por crecidas de dos ríos en Ovalle - La Tercera",
-     "medio": "La Tercera",
-     "fecha": "2026-11-15T02:09:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb3NhSXpGTzRGd2I2bkV1b2d6VWt6N0xLNUx0ZUVjOW1YTUt3MVczSzlqYjRYT21mWmx0WUNpQWd0QldEX0cwT1dxOENYMFhaUUY5ZmRfZmRqZ3FsWnB6UDdUMlhQWEdxTVlPdDRUOHNYd1NtWW5Xa0FHTlYwR3UwT1pteDN1cE5vaTNVU085NjE4T0dldXVnUDgycVhvMzZrUEdLWThJYXo5Vlh2dzRieWk4Mlg?oc=5",
      "sector": null
     }
    ]
