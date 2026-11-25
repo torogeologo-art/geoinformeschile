@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-24T20:50:08+00:00",
- "desde": "2026-11-22T20:50:07Z",
+ "generado": "2026-11-25T04:01:23+00:00",
+ "desde": "2026-11-23T04:01:22Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -15,7 +15,18 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-24T16:16:43Z",
      "live": true,
-     "score": 7.62,
+     "score": 7.02,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "9G4bGOt6xwI",
+     "url": "https://www.youtube.com/watch?v=9G4bGOt6xwI",
+     "titulo": "Emisión en directo de la Herradura, coquimbo.",
+     "canal": "Casa Herradura",
+     "publicado": "2026-11-23T21:12:41Z",
+     "live": true,
+     "score": 5.43,
      "verificado": false,
      "embeddable": true
     }
@@ -33,7 +44,7 @@
      "canal": "Sismosfera 3D • Terremotos en Vivo",
      "publicado": "2026-11-24T16:16:43Z",
      "live": true,
-     "score": 4.62,
+     "score": 4.02,
      "verificado": false,
      "embeddable": true
     }
