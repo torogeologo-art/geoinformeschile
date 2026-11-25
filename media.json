@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-25T04:03:08+00:00",
- "desde": "2026-11-23T04:03:07Z",
+ "generado": "2026-11-25T14:26:21+00:00",
+ "desde": "2026-11-23T14:26:19Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,24 +9,24 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "Ze8Y7vaEC8g",
-     "url": "https://www.youtube.com/watch?v=Ze8Y7vaEC8g",
-     "titulo": "🔴 ÚLTIMA HORA EN VIVO: Fuerte Sismo M 5.8 en CHILE (Coquimbo y La Serena) • Réplicas 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-24T16:16:43Z",
-     "live": true,
-     "score": 7.02,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
      "id": "9G4bGOt6xwI",
      "url": "https://www.youtube.com/watch?v=9G4bGOt6xwI",
      "titulo": "Emisión en directo de la Herradura, coquimbo.",
      "canal": "Casa Herradura",
      "publicado": "2026-11-23T21:12:41Z",
      "live": true,
-     "score": 5.43,
+     "score": 5.0,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "kJw9yPyNzsA",
+     "url": "https://www.youtube.com/watch?v=kJw9yPyNzsA",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M4.6 Chile y M4.3 México • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-25T04:07:09Z",
+     "live": true,
+     "score": 4.14,
      "verificado": false,
      "embeddable": true
     }
@@ -38,13 +38,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "Ze8Y7vaEC8g",
-     "url": "https://www.youtube.com/watch?v=Ze8Y7vaEC8g",
-     "titulo": "🔴 ÚLTIMA HORA EN VIVO: Fuerte Sismo M 5.8 en CHILE (Coquimbo y La Serena) • Réplicas 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-24T16:16:43Z",
+     "id": "O6N2HKHWcdo",
+     "url": "https://www.youtube.com/watch?v=O6N2HKHWcdo",
+     "titulo": "Comienza Nuestro Matinal  “Un Nuevo Día”  de 25 de noviembre 2026",
+     "canal": "Atacama Noticias",
+     "publicado": "2026-11-25T12:02:16Z",
      "live": true,
-     "score": 4.02,
+     "score": 7.8,
      "verificado": false,
      "embeddable": true
     }
