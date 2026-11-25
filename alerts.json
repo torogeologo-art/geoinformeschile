@@ -1,13 +1,55 @@
 {
- "generado": "2026-11-25T14:28:17+00:00",
+ "generado": "2026-11-25T23:15:12+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 10,
+ "total_vigentes": 11,
  "alertas": [
+  {
+   "id": "103fb1a04f2c",
+   "nivel": "AMARILLA",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva por para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), está vigente el siguiente alertamiento meteorológico para la Región de Atacama: Alertamiento Pronóstico Inicio Fin Enlace Aviso A646 Probables Tormentas Eléctricas en precordillera y cordillera de la región. 26-11 26-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por tormentas eléctricas para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-25T17:56:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-por-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-tormentas-electricas-2026-11-25-18-13-56",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "05fb6d52e238",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , está vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A646 Probables Tormentas Eléctricas en cordillera de la región. 26-11 26-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por tormentas eléctricas para la provincia de El Loa y comunas de Antofagasta y Taltal , vigente desde hoy",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-25T17:36:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-25-18-05-12",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "04472a887e87",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo, tras los trabajos realizados por los equipos municipales y de emergencia en diversos sectores de la región, se informa que se mantienen las siguientes situaciones reportadas: COMUNA AFECTACIÓN A PERSONAS - DAÑO A VIVIENDAS Y/O ESTRUCTURAS Monte Patria Se mantiene afectación por turbiedad del agua en los Sistemas Sanitarios Rurales (SSR) de Chañaral de Carén, Pulpica, Las Ramadas, Pejerrey y Vado Hondo. Personal municipal instalo copas estacionarias con una capacidad de 4.800 litros, además de el apoyo",
+   "region": "Coquimbo",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-25T13:09:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "cf3e22231ec5",
    "nivel": "ATP",
@@ -23,20 +65,6 @@
    "regiones_extra": [
     "de la Antártica Chilena"
    ]
-  },
-  {
-   "id": "d7d50f521fb7",
-   "nivel": "ROJA",
-   "tipo": "crecida de río",
-   "titulo": "Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado por desborde",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo , ante el mejoramiento de las condiciones meteorológicas de los últimos días y tras los trabajos realizados en diversas rutas y sectores de la región, producto de las activaciones de quebradas y crecidas, se mantienen los siguientes antecedentes en la región: COMUNA AFECTACIÓN A PERSONAS - DAÑO A VIVIENDAS Y/O ESTRUCTURAS Salamanca Aumento de caudal en el sector Cuncumén se encuentra afectando la infraestructura eléctrica, comprometiendo el servicio del lugar. Compañía eléctrica en conocimiento para su",
-   "region": "Coquimbo",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-24T16:53:03.033-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
-   "origen": "senapred_web",
-   "regiones_extra": []
   },
   {
    "id": "ff9200ee0522",
@@ -397,7 +425,7 @@
    "descripcion": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) Atacama, indica por medio de sus estaciones fluviométrica, estación “Río Huasco en El Maitén” ubicada aguas arriba, y estación “Río Huasco en Santa Juana”, ubicada aguas abajo, se ha registrado un incremento en los niveles y caudales de los ríos El Carmen y Huasco, asociado a la intensificación del deshielo y la evolución reciente de los caudales en la cuenca del río Huasco, observándose una tendencia al alza. Esta condición genera un aumento del caudal circulante hacia los sectores ubicados aguas abajo del emb",
    "region": "Atacama",
    "comunas": [],
-   "estado": "VIGENTE",
+   "estado": "EXPIRADA",
    "ts": "2026-11-18T13:00:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-huasco-freirina-y-vallenar-por-crecida-2026-11-14-21-37-54",
    "origen": "senapred_web",
