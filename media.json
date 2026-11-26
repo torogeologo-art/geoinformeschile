@@ -1,6 +1,43 @@
 {
- "generado": "2026-11-26T05:11:36+00:00",
- "desde": "2026-11-24T05:11:35Z",
+ "generado": "2026-11-26T15:22:58+00:00",
+ "desde": "2026-11-24T15:22:57Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {}
+ "zonas": {
+  "coquimbo": {
+   "comuna": "Coquimbo",
+   "region": "Coquimbo",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "pi9mWULTsWQ",
+     "url": "https://www.youtube.com/watch?v=pi9mWULTsWQ",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M4.6 México y M4.4 El Salvador • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-26T03:48:55Z",
+     "live": true,
+     "score": 4.04,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "pi9mWULTsWQ",
+     "url": "https://www.youtube.com/watch?v=pi9mWULTsWQ",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M4.6 México y M4.4 El Salvador • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-26T03:48:55Z",
+     "live": true,
+     "score": 4.04,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  }
+ }
 }

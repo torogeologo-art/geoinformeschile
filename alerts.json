@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T05:11:32+00:00",
+ "generado": "2026-11-26T15:22:57+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
@@ -8,6 +8,20 @@
  },
  "total_vigentes": 9,
  "alertas": [
+  {
+   "id": "722b3cf24867",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se modifica evento y cobertura de Alerta Temprana Preventiva para la Provincia de El Loa y comunas de Antofagasta, Taltal, Sierra Gorda y María Elena a evento meteorológico",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), están vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A646 Probables Tormentas Eléctricas en cordillera de la región. 26-11 26-11 Abrir aquí Aviso A647 Viento normal a moderado, con probabilidad de tormentas eléctricas en precordillera occidental, precordillera Alto Loa y precordillera salar. 26-11 26-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagas",
+   "region": "Antofagasta",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-26T10:31:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-25-18-05-12",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
   {
    "id": "c27d18ee1a39",
    "nivel": "AMARILLA",
@@ -49,20 +63,6 @@
    "estado": "VIGENTE",
    "ts": "2026-11-25T21:05:53.5353-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-y-las-comunas-de-petorca-y-cabildo-por-calor-intenso-2026-11-22-17-57-09",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "05fb6d52e238",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se declara Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) , está vigente el siguiente alertamiento meteorológico para la Región de Antofagasta: Alertamiento Pronóstico Inicio Fin Enlace Aviso A646 Probables Tormentas Eléctricas en cordillera de la región. 26-11 26-11 Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por tormentas eléctricas para la provincia de El Loa y comunas de Antofagasta y Taltal , vigente desde hoy",
-   "region": "Antofagasta",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-25T17:36:00.000-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-25-18-05-12",
    "origen": "senapred_web",
    "regiones_extra": []
   },
