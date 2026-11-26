@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T23:15:17+00:00",
+ "generado": "2026-11-26T05:11:34+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -4621,6 +4621,17 @@
    "comuna": "Atacama",
    "noticias": [
     {
+     "titulo": "Aumento del caudal del río Copiapó obliga a tomar medidas preventivas en accesos a Puerto Viejo - Atacama Noticias",
+     "medio": "Atacama Noticias",
+     "fecha": "2026-11-24T23:01:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYXdCQWJWS3IwOWI2UGFwTXpxOFphNWtQREtlazFjcm5DQmJTQTBhWW9rYVQ2MGtvSXhlUWM3YVF5RnJEbnJkWTB6TTVXRFZQNmRBVFhqZUoteldEMU5sY3hfajBZTTlTby1YYmt6UHBVZnVEc3l6eEFLQVRZRTlqNzRMMUljZ2dvVHltcGYtMFFxOTBua3M1YnltcEg5R0tDWWRvYjFER0gwTGNESEZDRmhPOURRM19vUmJCcnpTcF9wSG9ONHY2a3g5QmRVYnhRWFlweA?oc=5",
+     "sector": {
+      "nombre": "río Copiapó",
+      "lat": -27.53921,
+      "lon": -70.27293
+     }
+    },
+    {
      "titulo": "Río Huasco podría alcanzar 60 metros cúbicos por segundo en diciembre: ¿está preparada Atacama para nuevos deshielos? - Madero CL",
      "medio": "Madero CL",
      "fecha": "2026-11-20T13:00:33+00:00",
@@ -4701,13 +4712,6 @@
      "medio": "Atacama Noticias",
      "fecha": "2026-11-17T10:33:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTjg2VENzc3pJbVRnakZCNUFRVVJjMGVoTXdsaHA5SzVuSkE3anNGeFZvdl8yZGdkcjhVX1dudnNiaXpDeWRxaVpPTldveGQ1c1EzNE1UN09VWk8zUmZ1b3AzSGlSVjJXR3VCeFpEaHlUb3VQa1pYMGN6S3M0X0M3bnQ1WW9yMFdGV0FxbWVxQXloY3BlcF8zc281OVJTVnE2VW5wQTNfZEhyMkxiS0ZrcFpNaTF3MW1pUXdGU2NfMV92Ums4SHRhc19qN1BYMkZLamhxTTcwVktFUHNfOHJzTThsTGpDYVhZS05YcHoxNDVzSGc?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Gobernador de Atacama pide Estado de Emergencia por crecidas de ríos: ¿Cómo siguen las provincias de Copiapó y Huasco? - El Quehaydecierto",
-     "medio": "El Quehaydecierto",
-     "fecha": "2026-11-16T19:54:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbDFnU3o5UUE0SG5hTjl0bUp4c1dVRHEwTk16VlpRMndqMlQtdFVaNGF2dDhWM1RkZTJOZWtmbE41YWJMeTRUYkVzWVRwUEpwZHFrYVNNcTFpOEhUYmtFN0NUdEdOVWFtUGZfX0IycXpObU5RV2xRQW5aZTBjTHUwSHJ1UUNITkdWUm1WZENZUXpuSWJMZGpvaDZvdkdPWWtlUFJsbEZONHA0WTJ1bXZDejhFVjlMN1BGR3FYNlIxN19SQU9fMldwM0xoV2Y?oc=5",
      "sector": null
     }
    ]

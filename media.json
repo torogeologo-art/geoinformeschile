@@ -1,43 +1,6 @@
 {
- "generado": "2026-11-25T23:15:19+00:00",
- "desde": "2026-11-23T23:15:18Z",
+ "generado": "2026-11-26T05:11:36+00:00",
+ "desde": "2026-11-24T05:11:35Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
- "zonas": {
-  "coquimbo": {
-   "comuna": "Coquimbo",
-   "region": "Coquimbo",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "syb8C2RCuLA",
-     "url": "https://www.youtube.com/watch?v=syb8C2RCuLA",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M4.6 Chile y M4.3 México • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-25T15:58:07Z",
-     "live": true,
-     "score": 4.39,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "syb8C2RCuLA",
-     "url": "https://www.youtube.com/watch?v=syb8C2RCuLA",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M4.6 Chile y M4.3 México • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-25T15:58:07Z",
-     "live": true,
-     "score": 4.39,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  }
- }
+ "zonas": {}
 }
