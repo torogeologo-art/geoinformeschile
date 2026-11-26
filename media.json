@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-26T15:24:23+00:00",
- "desde": "2026-11-24T15:24:22Z",
+ "generado": "2026-11-26T23:57:37+00:00",
+ "desde": "2026-11-24T23:57:36Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,31 +9,35 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "pi9mWULTsWQ",
-     "url": "https://www.youtube.com/watch?v=pi9mWULTsWQ",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M4.6 México y M4.4 El Salvador • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-26T03:48:55Z",
+     "id": "sYKt3OzAAb0",
+     "url": "https://www.youtube.com/watch?v=sYKt3OzAAb0",
+     "titulo": "Herradura N-E · Webcam en vivo Coquimbo – Bahía y clima 24/7",
+     "canal": "Casa Herradura",
+     "publicado": "2026-11-26T23:41:09Z",
      "live": true,
-     "score": 4.03,
+     "score": 7.98,
      "verificado": false,
      "embeddable": true
-    }
-   ]
-  },
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
+    },
     {
-     "id": "pi9mWULTsWQ",
-     "url": "https://www.youtube.com/watch?v=pi9mWULTsWQ",
+     "id": "ibQ4P1cnFk4",
+     "url": "https://www.youtube.com/watch?v=ibQ4P1cnFk4",
+     "titulo": "🔴EN VIVO | CULTO INAGURACION ESTUDIO BIBLICO COQUIMBO 2026",
+     "canal": "Transmisiones ICE",
+     "publicado": "2026-11-26T22:42:14Z",
+     "live": true,
+     "score": 7.9,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "x-tfwYFkJRk",
+     "url": "https://www.youtube.com/watch?v=x-tfwYFkJRk",
      "titulo": "🔴 SISMOS EN VIVO HOY: M4.6 México y M4.4 El Salvador • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-26T03:48:55Z",
+     "publicado": "2026-11-26T15:40:07Z",
      "live": true,
-     "score": 4.03,
+     "score": 4.31,
      "verificado": false,
      "embeddable": true
     }
