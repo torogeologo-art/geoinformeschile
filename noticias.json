@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T05:11:34+00:00",
+ "generado": "2026-11-26T15:24:21+00:00",
  "nota": "Titulares de prensa con enlace al medio original. Recopilación automática, no verificada en terreno.",
  "zonas": {
   "arauco": {
@@ -1091,6 +1091,13 @@
    "comuna": "Alto del Carmen",
    "noticias": [
     {
+     "titulo": "Los Lagos: descartan trasladar basura a otra región ante eventual colapso de vertedero de Curaco - Atacama Noticias",
+     "medio": "Atacama Noticias",
+     "fecha": "2026-11-26T15:04:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd1lKSWZqZXM3SC15cjYzYWQzWDl4RXNOd3N0cE9LS3NBalhIbFktRmE3T1JBcVM0YnlRZXpHUldCZGJMbEQ2MTlYS2JCYnpnektvdkxMeU5KQmxBNE9SX2Uzb3FKcHRKQ2pYSEQ3WEw4UjMwN3JYRjM0SmxmVjBLejhRZTVzQ0RLOTZxODc5OG9vOXhyY1VOTzZYVVdwb3lDMUZOV3NBdnI4U3ZlaS02ODZLUnIwbUdMRXg3bzVPQkhtMWdPekJPc2Q0ZHNRb3Q2b1RpZg?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Más de 1.100 personas aisladas por crecidas de ríos y daños en caminos en Atacama - madero.cl",
      "medio": "madero.cl",
      "fecha": "2026-11-22T15:00:39+00:00",
@@ -1151,13 +1158,6 @@
      "medio": "NOSTÁLGICA cl",
      "fecha": "2026-11-16T17:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeHV3Ujg3WUNGOHUwSUkwcXloam9zQW9XV1FxNFlzUThleU50X3dfU2F2aVVmMHRSVkNYLWdFT3VEZy1SOVplRUdnc1lyUXpTbUFrQVZYSXJQU19fX19RTnFlVkZXWjNYWFFYeWxHOHFRTnR1SGF1WlF0eUpfdEU3ZWEyNDBpOWUwWkVKWU54dGJfLU1VeEJ1c0tHbTRNVnY1NjRCY3RiNGFDZ1E4djMzd2xfZEJSV0JWTUtQRnVmUzViUQ?oc=5",
-     "sector": null
-    },
-    {
-     "titulo": "Alto del Carmen: 1.100 personas aisladas por la crecida y el alcalde pide estado de catástrofe - Madero CL",
-     "medio": "Madero CL",
-     "fecha": "2026-11-16T16:28:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTEU3TGNxQi1Fd01UU0lvbXpSYVdvV1ZGWUNWem4xZm9rTE0xWWdNamRNVU9zenc2dHN1NUxtYXo2aWw2V1ItbWthZFVuMWNGaHpXMUtSOTRwR21PV185bWhQUFlLdEt3WUk5UmNzeC1kS0p6cHFYeVpBQzFNUQ?oc=5",
      "sector": null
     }
    ]
@@ -4679,6 +4679,13 @@
      "sector": null
     },
     {
+     "titulo": "Deshielos: Liberación de unos 8 mil l/s del Embalse Lautaro enciende alerta a Provincia de Copiapó - SoyChile.cl",
+     "medio": "SoyChile.cl",
+     "fecha": "2026-11-18T12:58:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmp3dmNGNlJmcUp2V0VqN04wUFA4RDdlOUJLcE9YY25mSkxWOEFpYW53UTQ5Z25lcGcxZ2hEaG94OTJIenhFSjBjZVNIUHdJeXhoOVJoZFJvWjNBUDVkdjZqZ0VTdlZxTkh2akF2WWt3MjZreTRBSnRtbVdQbTJYU0h0TEkwNGxSQ1lBQmNlVk9xQQ?oc=5",
+     "sector": null
+    },
+    {
      "titulo": "Ríos Huasco y Copiapó bajo monitoreo por crecida de caudales - NOSTÁLGICA cl",
      "medio": "NOSTÁLGICA cl",
      "fecha": "2026-11-17T19:00:00+00:00",
@@ -4706,13 +4713,6 @@
       "lat": -27.53921,
       "lon": -70.27293
      }
-    },
-    {
-     "titulo": "El SEREMI del Medio Ambiente impulsa nueva etapa del PRAS de Huasco con renovación de su consejo y educación ambiental - Atacama Noticias",
-     "medio": "Atacama Noticias",
-     "fecha": "2026-11-17T10:33:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTjg2VENzc3pJbVRnakZCNUFRVVJjMGVoTXdsaHA5SzVuSkE3anNGeFZvdl8yZGdkcjhVX1dudnNiaXpDeWRxaVpPTldveGQ1c1EzNE1UN09VWk8zUmZ1b3AzSGlSVjJXR3VCeFpEaHlUb3VQa1pYMGN6S3M0X0M3bnQ1WW9yMFdGV0FxbWVxQXloY3BlcF8zc281OVJTVnE2VW5wQTNfZEhyMkxiS0ZrcFpNaTF3MW1pUXdGU2NfMV92Ums4SHRhc19qN1BYMkZLamhxTTcwVktFUHNfOHJzTThsTGpDYVhZS05YcHoxNDVzSGc?oc=5",
-     "sector": null
     }
    ]
   }
