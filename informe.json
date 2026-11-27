@@ -1,9 +1,9 @@
 {
- "generado": "2026-11-26T15:24:23+00:00",
+ "generado": "2026-11-27T08:07:02+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "16-11-2026",
-  "hasta": "26-11-2026"
+  "desde": "17-11-2026",
+  "hasta": "27-11-2026"
  },
  "totales": {
   "alertas": 68,
@@ -11,9 +11,9 @@
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "AMARILLA": 14,
-   "ATP": 49,
-   "ROJA": 5
+   "ATP": 48,
+   "AMARILLA": 16,
+   "ROJA": 4
   },
   "por_tipo": [
    [
@@ -26,14 +26,14 @@
    ],
    [
     "evento meteorológico",
-    7
-   ],
-   [
-    "viento",
-    5
+    8
    ],
    [
     "marejadas",
+    4
+   ],
+   [
+    "viento",
     4
    ],
    [
@@ -62,33 +62,6 @@
     "region_link": "atacama"
    },
    {
-    "lugar": "Región de Coquimbo",
-    "region": "Coquimbo",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "16-11",
-    "comuna_link": "",
-    "region_link": "coquimbo"
-   },
-   {
-    "lugar": "Región de La Araucanía",
-    "region": "La Araucanía",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "17-11",
-    "comuna_link": "",
-    "region_link": "la araucania"
-   },
-   {
-    "lugar": "Región de Los Ríos",
-    "region": "Los Ríos",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "17-11",
-    "comuna_link": "",
-    "region_link": "los rios"
-   },
-   {
     "lugar": "Región de Biobío",
     "region": "Biobío",
     "nivel": "ATP",
@@ -105,6 +78,33 @@
     "ts": "17-11",
     "comuna_link": "",
     "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Coquimbo",
+    "region": "Coquimbo",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "18-11",
+    "comuna_link": "",
+    "region_link": "coquimbo"
+   },
+   {
+    "lugar": "Región de La Araucanía",
+    "region": "La Araucanía",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "18-11",
+    "comuna_link": "",
+    "region_link": "la araucania"
+   },
+   {
+    "lugar": "Región de Los Ríos",
+    "region": "Los Ríos",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "18-11",
+    "comuna_link": "",
+    "region_link": "los rios"
    },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -163,15 +163,6 @@
   ],
   "crecida de río": [
    {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "ROJA",
-    "sae": false,
-    "ts": "16-11",
-    "comuna_link": "",
-    "region_link": "atacama"
-   },
-   {
     "lugar": "Región de Coquimbo",
     "region": "Coquimbo",
     "nivel": "ROJA",
@@ -181,13 +172,31 @@
     "region_link": "coquimbo"
    },
    {
+    "lugar": "Región de Atacama",
+    "region": "Atacama",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "17-11",
+    "comuna_link": "",
+    "region_link": "atacama"
+   },
+   {
     "lugar": "Región de Valparaíso",
     "region": "Valparaíso",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "16-11",
+    "ts": "18-11",
     "comuna_link": "",
     "region_link": "valparaiso"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "AMARILLA",
+    "sae": false,
+    "ts": "26-11",
+    "comuna_link": "",
+    "region_link": "biobio"
    },
    {
     "lugar": "Región de Tarapacá",
@@ -228,22 +237,33 @@
     "region_link": "metropolitana de santiago"
    }
   ],
-  "viento": [
+  "marejadas": [
    {
-    "lugar": "Región de Atacama",
-    "region": "Atacama",
-    "nivel": "AMARILLA",
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ATP",
     "sae": false,
-    "ts": "16-11",
+    "ts": "18-11",
     "comuna_link": "",
-    "region_link": "atacama"
+    "region_link": "tarapaca"
    },
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "24-11",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
+   }
+  ],
+  "viento": [
    {
     "lugar": "Región de Antofagasta",
     "region": "Antofagasta",
     "nivel": "ATP",
     "sae": false,
-    "ts": "16-11",
+    "ts": "19-11",
     "comuna_link": "",
     "region_link": "antofagasta"
    },
@@ -264,26 +284,6 @@
     "ts": "24-11",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
-   }
-  ],
-  "marejadas": [
-   {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "18-11",
-    "comuna_link": "",
-    "region_link": "tarapaca"
-   },
-   {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "24-11",
-    "comuna_link": "",
-    "region_link": "arica y parinacota"
    }
   ],
   "desborde": [
@@ -332,7 +332,7 @@
  "vigentes": {
   "ROJA": 2,
   "AMARILLA": 2,
-  "ATP": 5,
+  "ATP": 4,
   "regiones_roja": [
    "Atacama",
    "Coquimbo"
@@ -340,17 +340,10 @@
  },
  "serie": [
   {
-   "fecha": "2026-11-16",
-   "ROJA": 1,
-   "AMARILLA": 2,
-   "ATP": 2,
-   "sae": 0
-  },
-  {
    "fecha": "2026-11-17",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 4,
+   "ATP": 2,
    "sae": 0
   },
   {
@@ -412,7 +405,14 @@
   {
    "fecha": "2026-11-26",
    "ROJA": 0,
-   "AMARILLA": 0,
+   "AMARILLA": 3,
+   "ATP": 3,
+   "sae": 0
+  },
+  {
+   "fecha": "2026-11-27",
+   "ROJA": 0,
+   "AMARILLA": 1,
    "ATP": 1,
    "sae": 0
   }
@@ -424,16 +424,6 @@
    "sae": false,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "AMARILLA",
-     "ts": "17-11 13:30",
-     "estado": "VIGENTE"
-    },
-    {
-     "nivel": "ROJA",
-     "ts": "18-11 18:23",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "ATP",
      "ts": "19-11 22:40",
@@ -448,6 +438,16 @@
      "nivel": "AMARILLA",
      "ts": "22-11 13:16",
      "estado": "VIGENTE"
+    },
+    {
+     "nivel": "ATP",
+     "ts": "26-11 18:42",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "27-11 01:03",
+     "estado": "CANCELADA"
     }
    ]
   },
@@ -459,7 +459,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "16-11 16:22",
+     "ts": "18-11 07:50",
      "estado": "VIGENTE"
     },
     {
@@ -475,11 +475,6 @@
    "sae": false,
    "max": "AMARILLA",
    "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "16-11 12:36",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "AMARILLA",
      "ts": "17-11 18:59",
@@ -510,8 +505,8 @@
    "pasos": [
     {
      "nivel": "AMARILLA",
-     "ts": "16-11 12:26",
-     "estado": "VIGENTE"
+     "ts": "18-11 19:16",
+     "estado": "CANCELADA"
     },
     {
      "nivel": "ATP",
@@ -524,9 +519,90 @@
      "estado": "VIGENTE"
     }
    ]
+  },
+  {
+   "lugar": "Región de Biobío",
+   "region": "Biobío",
+   "sae": false,
+   "max": "AMARILLA",
+   "pasos": [
+    {
+     "nivel": "ATP",
+     "ts": "17-11 08:41",
+     "estado": "VIGENTE"
+    },
+    {
+     "nivel": "AMARILLA",
+     "ts": "26-11 21:04",
+     "estado": "CANCELADA"
+    }
+   ]
   }
  ],
  "cronologia": [
+  {
+   "ts": "27-11 01:03",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-por-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-tormentas-electricas-2026-11-25-18-13-56"
+  },
+  {
+   "ts": "27-11 00:45",
+   "nivel": "ATP",
+   "lugar": "Región de Antofagasta",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-25-18-05-12"
+  },
+  {
+   "ts": "26-11 21:24",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Valparaíso",
+   "tipo": "evento meteorológico",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-y-las-comunas-de-petorca-y-cabildo-por-calor-intenso-2026-11-22-17-57-09"
+  },
+  {
+   "ts": "26-11 21:04",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Biobío",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-alto-biobio-por-crecida-de-embalse-ralco-2026-09-24-19-31-44"
+  },
+  {
+   "ts": "26-11 18:42",
+   "nivel": "ATP",
+   "lugar": "Región de Atacama",
+   "tipo": "crecida de río",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03"
+  },
+  {
+   "ts": "26-11 16:16",
+   "nivel": "AMARILLA",
+   "lugar": "Región de Atacama",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-por-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-tormentas-electricas-2026-11-25-18-13-56"
+  },
+  {
+   "ts": "26-11 13:38",
+   "nivel": "ATP",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-tormentas-electricas-2026-11-21-17-00-38"
+  },
   {
    "ts": "26-11 10:31",
    "nivel": "ATP",
@@ -589,69 +665,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-tormentas-electricas-2026-11-21-17-00-38"
-  },
-  {
-   "ts": "24-11 16:53",
-   "nivel": "ROJA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "crecida de río",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42"
-  },
-  {
-   "ts": "24-11 13:08",
-   "nivel": "ATP",
-   "lugar": "Región de Metropolitana de Santiago",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-amenaza-de-incendios-forestales-2026-11-24-13-17-30"
-  },
-  {
-   "ts": "24-11 07:08",
-   "nivel": "ATP",
-   "lugar": "Región de Arica y Parinacota",
-   "tipo": "marejadas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-arica-y-parinacota-y-biobio-y-para-la-comuna-de-juan-fernandez-region-de-valparaiso-por-marejadas-anniormales-2026-11-18-15-17-52"
-  },
-  {
-   "ts": "24-11 00:10",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Atacama",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-11-14-17-33-44"
-  },
-  {
-   "ts": "23-11 22:00",
-   "nivel": "ATP",
-   "lugar": "Región de Coquimbo",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-11-22-13-04-16"
-  },
-  {
-   "ts": "23-11 18:30",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Antofagasta",
-   "tipo": "evento meteorológico",
-   "sae": false,
-   "estado": "CANCELADA",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-calor-intenso-2026-11-17-19-36-44"
-  },
-  {
-   "ts": "23-11 12:58",
-   "nivel": "ATP",
-   "lugar": "Región de Tarapacá",
-   "tipo": "marejadas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-arica-y-parinacota-y-biobio-y-para-la-comuna-de-juan-fernandez-region-de-valparaiso-por-marejadas-anniormales-2026-11-18-15-17-52"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
