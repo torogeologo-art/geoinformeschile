@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-26T23:57:37+00:00",
- "desde": "2026-11-24T23:57:36Z",
+ "generado": "2026-11-27T08:05:27+00:00",
+ "desde": "2026-11-25T08:05:25Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,35 +9,53 @@
    "alerta": "ROJA",
    "videos": [
     {
+     "id": "rRWAppKg8eI",
+     "url": "https://www.youtube.com/watch?v=rRWAppKg8eI",
+     "titulo": "🌡️ CALOR EN LA REGIÓN DE COQUIMBO | PRONÓSTICO DEL TIEMPO DE LA REGIÓN DE COQUIMBO EN VIVO",
+     "canal": "Radio Riquelme",
+     "publicado": "2026-11-27T00:08:28Z",
+     "live": true,
+     "score": 7.34,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
      "id": "sYKt3OzAAb0",
      "url": "https://www.youtube.com/watch?v=sYKt3OzAAb0",
      "titulo": "Herradura N-E · Webcam en vivo Coquimbo – Bahía y clima 24/7",
      "canal": "Casa Herradura",
      "publicado": "2026-11-26T23:41:09Z",
      "live": true,
-     "score": 7.98,
+     "score": 7.3,
      "verificado": false,
      "embeddable": true
     },
     {
-     "id": "ibQ4P1cnFk4",
-     "url": "https://www.youtube.com/watch?v=ibQ4P1cnFk4",
-     "titulo": "🔴EN VIVO | CULTO INAGURACION ESTUDIO BIBLICO COQUIMBO 2026",
-     "canal": "Transmisiones ICE",
-     "publicado": "2026-11-26T22:42:14Z",
-     "live": true,
-     "score": 7.9,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "x-tfwYFkJRk",
-     "url": "https://www.youtube.com/watch?v=x-tfwYFkJRk",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M4.6 México y M4.4 El Salvador • Terremotos 24/7",
+     "id": "liiVMV0SVNQ",
+     "url": "https://www.youtube.com/watch?v=liiVMV0SVNQ",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.0 Chile y M4.4 El Salvador • Terremotos 24/7",
      "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-26T15:40:07Z",
+     "publicado": "2026-11-27T03:31:08Z",
      "live": true,
-     "score": 4.31,
+     "score": 4.62,
+     "verificado": false,
+     "embeddable": true
+    }
+   ]
+  },
+  "atacama": {
+   "comuna": "Atacama",
+   "region": "Atacama",
+   "alerta": "ROJA",
+   "videos": [
+    {
+     "id": "liiVMV0SVNQ",
+     "url": "https://www.youtube.com/watch?v=liiVMV0SVNQ",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.0 Chile y M4.4 El Salvador • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-27T03:31:08Z",
+     "live": true,
+     "score": 4.62,
      "verificado": false,
      "embeddable": true
     }
