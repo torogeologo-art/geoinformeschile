@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-27T08:07:01+00:00",
- "desde": "2026-11-25T08:07:00Z",
+ "generado": "2026-11-27T18:13:13+00:00",
+ "desde": "2026-11-25T18:13:12Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -15,7 +15,7 @@
      "canal": "Radio Riquelme",
      "publicado": "2026-11-27T00:08:28Z",
      "live": true,
-     "score": 7.34,
+     "score": 6.49,
      "verificado": false,
      "embeddable": true
     },
@@ -26,18 +26,7 @@
      "canal": "Casa Herradura",
      "publicado": "2026-11-26T23:41:09Z",
      "live": true,
-     "score": 7.3,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "liiVMV0SVNQ",
-     "url": "https://www.youtube.com/watch?v=liiVMV0SVNQ",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.0 Chile y M4.4 El Salvador • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-27T03:31:08Z",
-     "live": true,
-     "score": 4.62,
+     "score": 6.46,
      "verificado": false,
      "embeddable": true
     }
@@ -49,13 +38,24 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "liiVMV0SVNQ",
-     "url": "https://www.youtube.com/watch?v=liiVMV0SVNQ",
-     "titulo": "🔴 SISMOS EN VIVO HOY: M5.0 Chile y M4.4 El Salvador • Terremotos 24/7",
-     "canal": "Sismosfera 3D • Terremotos en Vivo",
-     "publicado": "2026-11-27T03:31:08Z",
+     "id": "LB8uEXQ2Ujg",
+     "url": "https://www.youtube.com/watch?v=LB8uEXQ2Ujg",
+     "titulo": "DESDE CALAMA – INFORMATIVO PUNTO DE PRENSA – 27 NOVIEMBRE 2026",
+     "canal": "diarioenlalinea",
+     "publicado": "2026-11-27T16:58:28Z",
      "live": true,
-     "score": 4.62,
+     "score": 7.9,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "zvymDbH1Lpg",
+     "url": "https://www.youtube.com/watch?v=zvymDbH1Lpg",
+     "titulo": "▶️  ENLACE ALBINARANJA EN VIVO -  🎤  RADIO DAMIANA 88.3 🔉 #futbolchileno",
+     "canal": " Radio Damiana 88.3",
+     "publicado": "2026-11-27T17:59:15Z",
+     "live": true,
+     "score": 4.98,
      "verificado": false,
      "embeddable": true
     }
