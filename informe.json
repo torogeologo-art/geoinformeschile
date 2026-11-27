@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T08:07:02+00:00",
+ "generado": "2026-11-27T18:13:52+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
   "desde": "17-11-2026",
@@ -11,29 +11,29 @@
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "ATP": 48,
    "AMARILLA": 16,
+   "ATP": 48,
    "ROJA": 4
   },
   "por_tipo": [
    [
     "tormentas eléctricas",
-    36
+    35
    ],
    [
     "crecida de río",
-    10
+    9
    ],
    [
     "evento meteorológico",
     8
    ],
    [
-    "marejadas",
-    4
+    "viento",
+    5
    ],
    [
-    "viento",
+    "marejadas",
     4
    ],
    [
@@ -42,7 +42,7 @@
    ],
    [
     "nevadas",
-    1
+    2
    ],
    [
     "aluvión",
@@ -57,27 +57,9 @@
     "region": "Atacama",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "22-11",
+    "ts": "17-11",
     "comuna_link": "",
     "region_link": "atacama"
-   },
-   {
-    "lugar": "Región de Biobío",
-    "region": "Biobío",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "17-11",
-    "comuna_link": "",
-    "region_link": "biobio"
-   },
-   {
-    "lugar": "Región de Ñuble",
-    "region": "Ñuble",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "17-11",
-    "comuna_link": "",
-    "region_link": "nuble"
    },
    {
     "lugar": "Región de Coquimbo",
@@ -105,6 +87,24 @@
     "ts": "18-11",
     "comuna_link": "",
     "region_link": "los rios"
+   },
+   {
+    "lugar": "Región de Ñuble",
+    "region": "Ñuble",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "18-11",
+    "comuna_link": "",
+    "region_link": "nuble"
+   },
+   {
+    "lugar": "Región de Biobío",
+    "region": "Biobío",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "18-11",
+    "comuna_link": "",
+    "region_link": "biobio"
    },
    {
     "lugar": "Región de Libertador General Bernardo O'Higgins",
@@ -176,7 +176,7 @@
     "region": "Atacama",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "17-11",
+    "ts": "18-11",
     "comuna_link": "",
     "region_link": "atacama"
    },
@@ -237,26 +237,6 @@
     "region_link": "metropolitana de santiago"
    }
   ],
-  "marejadas": [
-   {
-    "lugar": "Región de Tarapacá",
-    "region": "Tarapacá",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "18-11",
-    "comuna_link": "",
-    "region_link": "tarapaca"
-   },
-   {
-    "lugar": "Región de Arica y Parinacota",
-    "region": "Arica y Parinacota",
-    "nivel": "ATP",
-    "sae": false,
-    "ts": "24-11",
-    "comuna_link": "",
-    "region_link": "arica y parinacota"
-   }
-  ],
   "viento": [
    {
     "lugar": "Región de Antofagasta",
@@ -284,6 +264,26 @@
     "ts": "24-11",
     "comuna_link": "",
     "region_link": "magallanes y de la antartica chilena"
+   }
+  ],
+  "marejadas": [
+   {
+    "lugar": "Región de Tarapacá",
+    "region": "Tarapacá",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "18-11",
+    "comuna_link": "",
+    "region_link": "tarapaca"
+   },
+   {
+    "lugar": "Región de Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "nivel": "ATP",
+    "sae": false,
+    "ts": "24-11",
+    "comuna_link": "",
+    "region_link": "arica y parinacota"
    }
   ],
   "desborde": [
@@ -343,7 +343,7 @@
    "fecha": "2026-11-17",
    "ROJA": 0,
    "AMARILLA": 2,
-   "ATP": 2,
+   "ATP": 0,
    "sae": 0
   },
   {
@@ -413,7 +413,7 @@
    "fecha": "2026-11-27",
    "ROJA": 0,
    "AMARILLA": 1,
-   "ATP": 1,
+   "ATP": 3,
    "sae": 0
   }
  ],
@@ -528,7 +528,7 @@
    "pasos": [
     {
      "nivel": "ATP",
-     "ts": "17-11 08:41",
+     "ts": "18-11 14:23",
      "estado": "VIGENTE"
     },
     {
@@ -540,6 +540,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "27-11 11:31",
+   "nivel": "ATP",
+   "lugar": "Región de Magallanes y de la Antártica Chilena",
+   "tipo": "viento",
+   "sae": false,
+   "estado": "CANCELADA",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-tormentas-electricas-2026-11-21-17-00-38"
+  },
+  {
+   "ts": "27-11 11:01",
+   "nivel": "ATP",
+   "lugar": "Región de Ñuble",
+   "tipo": "nevadas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10"
+  },
   {
    "ts": "27-11 01:03",
    "nivel": "AMARILLA",
@@ -647,24 +665,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-25-18-05-12"
-  },
-  {
-   "ts": "25-11 13:09",
-   "nivel": "ROJA",
-   "lugar": "Región de Coquimbo",
-   "tipo": "desborde",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42"
-  },
-  {
-   "ts": "24-11 21:39",
-   "nivel": "ATP",
-   "lugar": "Región de Magallanes y de la Antártica Chilena",
-   "tipo": "viento",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-tormentas-electricas-2026-11-21-17-00-38"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
