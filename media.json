@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-28T01:30:22+00:00",
- "desde": "2026-11-26T01:30:21Z",
+ "generado": "2026-11-28T09:23:13+00:00",
+ "desde": "2026-11-26T09:23:12Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -15,7 +15,7 @@
      "canal": "Radio Riquelme",
      "publicado": "2026-11-27T19:31:55Z",
      "live": true,
-     "score": 7.5,
+     "score": 6.85,
      "verificado": false,
      "embeddable": true
     },
@@ -26,7 +26,18 @@
      "canal": "Casa Herradura",
      "publicado": "2026-11-26T23:41:09Z",
      "live": true,
-     "score": 5.85,
+     "score": 5.19,
+     "verificado": false,
+     "embeddable": true
+    },
+    {
+     "id": "HD1zcs6ck1g",
+     "url": "https://www.youtube.com/watch?v=HD1zcs6ck1g",
+     "titulo": "🔴 SISMOS EN VIVO HOY: M5.2 Argentina y M4.6 Chile • Terremotos 24/7",
+     "canal": "Sismosfera 3D • Terremotos en Vivo",
+     "publicado": "2026-11-28T03:11:55Z",
+     "live": true,
+     "score": 4.48,
      "verificado": false,
      "embeddable": true
     }
