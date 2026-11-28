@@ -1,13 +1,43 @@
 {
- "generado": "2026-11-27T18:13:44+00:00",
+ "generado": "2026-11-28T01:29:29+00:00",
  "fuente_oficial": "SENAPRED (senapred.cl) — sitio independiente, no oficial",
  "fuentes": {
   "web": "ok",
   "arcgis": "sin_configurar",
   "telegram": "ok"
  },
- "total_vigentes": 8,
+ "total_vigentes": 9,
  "alertas": [
+  {
+   "id": "4b7e7058f479",
+   "nivel": "ROJA",
+   "tipo": "desborde",
+   "titulo": "Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde",
+   "descripcion": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) se reporta que las estaciones de monitoreo mantienen el siguiente registro en sus caudales: Estación Umbral Caudal (m 3 /s) Tendencia Río Huasco en El Maitén Verde 34.98 A la baja No obstante lo anterior, las proyecciones hidrológicas advierten un nuevo caudal promedio de hasta 60 m³/s durante diciembre 2026, por lo que se mantiene el monitoreo permanente a las estaciones. Por otra parte, de acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Atacama, tras nuevas evaluaciones se registr",
+   "region": "Atacama",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-27T18:13:00.000-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26",
+   "origen": "senapred_web",
+   "regiones_extra": []
+  },
+  {
+   "id": "a963e035e96e",
+   "nivel": "ATP",
+   "tipo": "tormentas eléctricas",
+   "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y comuna de Camarones por tormentas eléctricas",
+   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), está vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota: Alertamiento Pronóstico Inicio Fin Enlace Aviso A649 Probables Tormentas Eléctricas asociada con chubascos aislados en cordillera de la región. 28-11 29-11 Abrir aquí En consideración a estos antecedentes la Dirección Regional del SENAPRED de Arica y Parinacota declara Alerta Temprana Preventiva por tormentas eléctricas para la Provincia de Parinacota y comuna de Camarones , vigente desde hoy y hasta que las condic",
+   "region": "Arica y Parinacota",
+   "comunas": [],
+   "estado": "VIGENTE",
+   "ts": "2026-11-27T16:57:57.5757-03:00",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-comuna-de-camarones-por-tormentas-electricas-2026-11-27-16-58-46",
+   "origen": "senapred_web",
+   "regiones_extra": [
+    "Parinacota"
+   ]
+  },
   {
    "id": "0710851718bd",
    "nivel": "ATP",
@@ -288,20 +318,6 @@
    "estado": "CANCELADA",
    "ts": "2026-11-20T21:55:00.000-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-18-21-29-20",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "840afeca7d8c",
-   "nivel": "ROJA",
-   "tipo": "desborde",
-   "titulo": "Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde",
-   "descripcion": "1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESUMEN DE LA SITUACIÓN: De acuerdo con la información proporcionada por Dirección General de Aguas (DGA) se reporta que las estaciones de monitoreo mantienen el siguiente registro en sus caudales: Estación Umbral Caudal (m 3 /s) Tendencia Río Huasco en El Maitén Verde 38,7 A la baja No obstante lo anterior, las proyecciones hidrológicas advierten un nuevo caudal promedio de hasta 60 m³/s durante diciembre 2026, por lo que se mantiene el monitoreo permanente a las estaciones. Por otra parte, de acuerdo con la información proporcionada por la Direcció",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "VIGENTE",
-   "ts": "2026-11-20T19:48:15.1515-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26",
    "origen": "senapred_web",
    "regiones_extra": []
   },
@@ -1438,48 +1454,6 @@
    "estado": "CANCELADA",
    "ts": "2026-10-29T08:25:42.4242-03:00",
    "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-27-19-36-46",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "f15500bac988",
-   "nivel": "ROJA",
-   "tipo": "evento meteorológico",
-   "titulo": "Se cancela Alerta Roja para la comuna de Requínoa por tornado",
-   "descripcion": "De acuerdo con la información técnica proporcionada por la Dirección Meteorológica de Chile (DMC), no se han detectado condiciones atmosféricas de extrema inestabilidad que supongan un aumento del riesgo asociado a esta variable meteorológica en la zona centro-sur de la Región de O’Higgins. Asimismo, tampoco se registran otras condiciones de vulnerabilidad en la comuna afectada. En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED cancela la Alerta Roja por tornado para la comuna de Requínoa , que se ma",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-28T19:14:01.011-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-requinoa-por-tornado-2026-10-26-19-45-51",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "3e400e3f3e93",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para la Región de O’Higgins por tormentas eléctricas",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido actualizado el siguiente alertamiento meteorológico, quedando fuera de cobertura la Región de O’Higgins: Alertamiento Pronóstico Enlace Aviso A591-1 Probables Tormentas Eléctricas con probabilidad de granizos y fuertes rachas de vientos locales. Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva regional por tormentas eléctricas , que se mantenía vigente d",
-   "region": "Libertador General Bernardo O'Higgins",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-28T17:13:46.4646-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-27-21-38-50",
-   "origen": "senapred_web",
-   "regiones_extra": []
-  },
-  {
-   "id": "e72f7d61578f",
-   "nivel": "ATP",
-   "tipo": "tormentas eléctricas",
-   "titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento",
-   "descripcion": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Atacama, debido al debilitamiento de las condiciones que lo originaron. Alertamiento Pronóstico Enlace Aviso A590 Viento normal a moderado con probabilidad de tormentas de arena en sector costero de la Provincia de Huasco. Abrir aquí En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por viento para la",
-   "region": "Atacama",
-   "comunas": [],
-   "estado": "CANCELADA",
-   "ts": "2026-10-28T08:29:13.1313-03:00",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-huasco-y-freirina-por-viento-2026-10-26-19-42-10",
    "origen": "senapred_web",
    "regiones_extra": []
   },

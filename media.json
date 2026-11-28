@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-27T18:13:52+00:00",
- "desde": "2026-11-25T18:13:50Z",
+ "generado": "2026-11-28T01:29:31+00:00",
+ "desde": "2026-11-26T01:29:30Z",
  "nota": "Videos no verificados, hallados por búsqueda pública. No es material oficial.",
  "zonas": {
   "coquimbo": {
@@ -9,13 +9,13 @@
    "alerta": "ROJA",
    "videos": [
     {
-     "id": "rRWAppKg8eI",
-     "url": "https://www.youtube.com/watch?v=rRWAppKg8eI",
-     "titulo": "🌡️ CALOR EN LA REGIÓN DE COQUIMBO | PRONÓSTICO DEL TIEMPO DE LA REGIÓN DE COQUIMBO EN VIVO",
+     "id": "QDemmnoer-8",
+     "url": "https://www.youtube.com/watch?v=QDemmnoer-8",
+     "titulo": "🌡️ OLA DE CALOR EN LA REGIÓN DE COQUIMBO | REVISA LA TEMPERATURA EN VIVO DE TU CIUDAD AQUÍ 🥵🥵🥵",
      "canal": "Radio Riquelme",
-     "publicado": "2026-11-27T00:08:28Z",
+     "publicado": "2026-11-27T19:31:55Z",
      "live": true,
-     "score": 6.49,
+     "score": 7.5,
      "verificado": false,
      "embeddable": true
     },
@@ -26,36 +26,7 @@
      "canal": "Casa Herradura",
      "publicado": "2026-11-26T23:41:09Z",
      "live": true,
-     "score": 6.45,
-     "verificado": false,
-     "embeddable": true
-    }
-   ]
-  },
-  "atacama": {
-   "comuna": "Atacama",
-   "region": "Atacama",
-   "alerta": "ROJA",
-   "videos": [
-    {
-     "id": "LB8uEXQ2Ujg",
-     "url": "https://www.youtube.com/watch?v=LB8uEXQ2Ujg",
-     "titulo": "DESDE CALAMA – INFORMATIVO PUNTO DE PRENSA – 27 NOVIEMBRE 2026",
-     "canal": "diarioenlalinea",
-     "publicado": "2026-11-27T16:58:28Z",
-     "live": true,
-     "score": 7.9,
-     "verificado": false,
-     "embeddable": true
-    },
-    {
-     "id": "zvymDbH1Lpg",
-     "url": "https://www.youtube.com/watch?v=zvymDbH1Lpg",
-     "titulo": "▶️  ENLACE ALBINARANJA EN VIVO -  🎤  RADIO DAMIANA 88.3 🔉 #futbolchileno",
-     "canal": " Radio Damiana 88.3",
-     "publicado": "2026-11-27T17:59:15Z",
-     "live": true,
-     "score": 4.98,
+     "score": 5.85,
      "verificado": false,
      "embeddable": true
     }
