@@ -1,9 +1,9 @@
 {
- "generado": "2026-11-27T18:13:52+00:00",
+ "generado": "2026-11-28T01:30:23+00:00",
  "evento": {
   "nombre": "Situación actual — ventana de los últimos 10 días",
-  "desde": "17-11-2026",
-  "hasta": "27-11-2026"
+  "desde": "18-11-2026",
+  "hasta": "28-11-2026"
  },
  "totales": {
   "alertas": 68,
@@ -11,9 +11,9 @@
   "comunas": 0,
   "regiones": 15,
   "por_nivel": {
-   "AMARILLA": 16,
-   "ATP": 48,
-   "ROJA": 4
+   "ATP": 49,
+   "AMARILLA": 14,
+   "ROJA": 5
   },
   "por_tipo": [
    [
@@ -26,7 +26,7 @@
    ],
    [
     "evento meteorológico",
-    8
+    7
    ],
    [
     "viento",
@@ -38,7 +38,7 @@
    ],
    [
     "desborde",
-    3
+    4
    ],
    [
     "nevadas",
@@ -57,7 +57,7 @@
     "region": "Atacama",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "17-11",
+    "ts": "22-11",
     "comuna_link": "",
     "region_link": "atacama"
    },
@@ -214,7 +214,7 @@
     "region": "Antofagasta",
     "nivel": "AMARILLA",
     "sae": false,
-    "ts": "17-11",
+    "ts": "18-11",
     "comuna_link": "",
     "region_link": "antofagasta"
    },
@@ -332,20 +332,13 @@
  "vigentes": {
   "ROJA": 2,
   "AMARILLA": 2,
-  "ATP": 4,
+  "ATP": 5,
   "regiones_roja": [
    "Atacama",
    "Coquimbo"
   ]
  },
  "serie": [
-  {
-   "fecha": "2026-11-17",
-   "ROJA": 0,
-   "AMARILLA": 2,
-   "ATP": 0,
-   "sae": 0
-  },
   {
    "fecha": "2026-11-18",
    "ROJA": 1,
@@ -411,9 +404,9 @@
   },
   {
    "fecha": "2026-11-27",
-   "ROJA": 0,
+   "ROJA": 1,
    "AMARILLA": 1,
-   "ATP": 3,
+   "ATP": 4,
    "sae": 0
   }
  ],
@@ -424,11 +417,6 @@
    "sae": false,
    "max": "ROJA",
    "pasos": [
-    {
-     "nivel": "ATP",
-     "ts": "19-11 22:40",
-     "estado": "VIGENTE"
-    },
     {
      "nivel": "ROJA",
      "ts": "20-11 19:48",
@@ -448,6 +436,11 @@
      "nivel": "AMARILLA",
      "ts": "27-11 01:03",
      "estado": "CANCELADA"
+    },
+    {
+     "nivel": "ROJA",
+     "ts": "27-11 18:13",
+     "estado": "VIGENTE"
     }
    ]
   },
@@ -477,7 +470,7 @@
    "pasos": [
     {
      "nivel": "AMARILLA",
-     "ts": "17-11 18:59",
+     "ts": "18-11 19:24",
      "estado": "VIGENTE"
     },
     {
@@ -540,6 +533,24 @@
   }
  ],
  "cronologia": [
+  {
+   "ts": "27-11 18:13",
+   "nivel": "ROJA",
+   "lugar": "Región de Atacama",
+   "tipo": "desborde",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26"
+  },
+  {
+   "ts": "27-11 16:57",
+   "nivel": "ATP",
+   "lugar": "Región de Arica y Parinacota",
+   "tipo": "tormentas eléctricas",
+   "sae": false,
+   "estado": "VIGENTE",
+   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-comuna-de-camarones-por-tormentas-electricas-2026-11-27-16-58-46"
+  },
   {
    "ts": "27-11 11:31",
    "nivel": "ATP",
@@ -647,24 +658,6 @@
    "sae": false,
    "estado": "VIGENTE",
    "url": "https://senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-y-las-comunas-de-petorca-y-cabildo-por-calor-intenso-2026-11-22-17-57-09"
-  },
-  {
-   "ts": "25-11 17:56",
-   "nivel": "AMARILLA",
-   "lugar": "Región de Atacama",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-por-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-tormentas-electricas-2026-11-25-18-13-56"
-  },
-  {
-   "ts": "25-11 17:36",
-   "nivel": "ATP",
-   "lugar": "Región de Antofagasta",
-   "tipo": "tormentas eléctricas",
-   "sae": false,
-   "estado": "VIGENTE",
-   "url": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-25-18-05-12"
   }
  ],
  "nota": "Informe generado automáticamente por GeoInformesChile a partir de los registros públicos de SENAPRED. Documento referencial, no oficial."
